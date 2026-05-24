@@ -21,73 +21,89 @@ curated result tables, and the audit subset used by the paper.
 The experiment studies how institutionally authored source framing propagates
 through LLM-mediated evidence interfaces into downstream investment decisions.
 
-The core pipeline is:
-
-1. collect and screen public earnings-event source material
-2. run the 12-event November-December 2025 calibration set for pipeline
-   validation and profile-separability checks
-3. construct the 94-event post-cutoff main sample
-4. build source packets and canonical evidence banks under outcome blindness
-5. apply leakage controls before treatment execution
-6. render the five representation regimes from the same evidence substrate
-7. run role-conditioned downstream LLM receivers
-8. compute evidence, rationale, belief, action, and quality readouts
+The core pipeline collects public earnings-event source material, validates the
+pipeline on a 12-event November-December 2025 calibration set, constructs the
+94-event post-cutoff main sample, renders representation regimes from the same
+outcome-blind evidence substrate, runs role-conditioned downstream receivers,
+and computes evidence, rationale, belief, action, and quality readouts.
 
 ```mermaid
-flowchart TD
-    A["**Step 1. Dataset Construction**<br/>Public earnings-event sources:<br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"] --> B["**Main-sample screening**<br/>94 post-cutoff events:<br/>47 large-cap / 47 small-mid"]
-    A --> HC["**Step 2. Calibration**<br/>November-December 2025 calibration set:<br/>12 events, 6 large / 6 small-mid"]
-    HC --> HD["**Pipeline validation**<br/>profile separability, parsing, provider, metrics"]
-    B --> G["**Step 3. Main-Sample Construction and Blindness**<br/>calibration set excluded from primary estimates"]
-    HD --> G
-    G --> C["**Source packets**<br/>entity-visible, outcome-blind event-time evidence"]
-    C --> D["**Canonical evidence banks**<br/>claims, categories, values, attribution, source IDs"]
-    D --> LS["**Leakage controls**<br/>source-ID validation, bank consistency,<br/>outcome-blindness audits, model-family memory probes"]
+flowchart LR
+    subgraph D["Dataset construction"]
+        direction TB
+        SRC["Public earnings-event sources<br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"]
+        CAL["2025 calibration set<br/>12 events, 6 large / 6 small-mid"]
+        CHECK["Pipeline validation<br/>profile separability, parsing, provider, metrics"]
+        MAIN["Main sample<br/>94 post-cutoff events, one event per issuer"]
+    end
 
-    LS --> T1["**Step 4. T1 raw disclosure**<br/>source-elicited baseline before synthesis"]
-    LS --> U["**Step 4. Upstream LLM summaries**<br/>neutral analyst framing"]
-    U --> T2["**T2 shared summary**<br/>one summary per event"]
-    U --> T3["**T3 independent summaries**<br/>six role-conditioned summaries per event"]
-    LS --> T4["**Step 4. T4 structured evidence ledger**<br/>no-synthesis format anchor"]
-    LS --> B0["**Step 5. B0 canonical evidence-only**<br/>source-faithful no-synthesis baseline"]
-    LS --> US["**Step 6. Robustness variant**<br/>upstream summaries without neutral-analyst framing"]
-    US --> S["**T2\* / T3\***<br/>upstream-summary robustness variant"]
+    subgraph E["Outcome-blind evidence substrate"]
+        direction TB
+        PACKETS["Source packets<br/>entity-visible event-time evidence"]
+        BANKS["Canonical evidence banks<br/>claims, categories, values, attribution, source IDs"]
+        LEAKAGE["Leakage controls<br/>source IDs, bank consistency, outcome blindness, memory probes"]
+    end
 
-    T1 --> R["**Step 7. Shared downstream stage**<br/>same role-conditioned receivers and decision schema"]
-    T2 --> R
-    T3 --> R
-    T4 --> R
-    B0 --> R
-    S --> R
+    subgraph T["Representation regimes"]
+        direction TB
+        T1["T1 raw disclosure<br/>source packet baseline"]
+        U["Upstream LLM summaries<br/>neutral analyst framing"]
+        T2["T2 shared summary<br/>one summary per event"]
+        T3["T3 independent summaries<br/>six role-conditioned summaries per event"]
+        T4["T4 structured evidence ledger<br/>no-synthesis format anchor"]
+        B0["B0 canonical evidence-only<br/>source-faithful no-synthesis baseline"]
+        RBT["T2* / T3* robustness<br/>no neutral-analyst framing"]
+    end
 
-    R --> M["**Step 8. Metric computation**<br/>evidence, rationale, belief, action, quality"]
-    H["**Hidden outcomes**<br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M
-    R --> V["**Validation and human audit**<br/>schema, source IDs, evidence and representation checks"]
-    M --> O["**Curated result tables**<br/>release/results/"]
-    V --> O
+    subgraph R["Downstream decision stage"]
+        direction TB
+        RECEIVERS["Role-conditioned receivers<br/>same profiles, decision schema, and prompts"]
+    end
 
-    O --> OM["**main/**<br/>T1/T2/T3 primary claims"]
-    O --> OC["**calibration/**<br/>2025 calibration set"]
-    O --> OB["**b0_followup/**<br/>canonical evidence baseline"]
-    O --> OT["**t4_followup/**<br/>structured ledger main condition"]
-    O --> OS["**prompt_sensitivity/**<br/>neutral-analyst ablation"]
-    O --> OA["**appendix_diagnostics/**<br/>formal auxiliary checks"]
-    O --> OH["**human_audit/**<br/>evidence and representation validation"]
+    subgraph M["Evaluation and release tables"]
+        direction TB
+        VALID["Validation and human audit<br/>schema, source IDs, evidence and representation checks"]
+        METRICS["Metric computation<br/>evidence, rationale, belief, action, quality"]
+        OUTCOMES["Hidden outcomes<br/>CAR_1_5 evaluation only"]
+        TABLES["Curated CSV result tables<br/>results/"]
+    end
 
-    classDef data fill:#edf2f7,stroke:#4a5568,color:#1a202c;
-    classDef cal fill:#ecfdf5,stroke:#047857,color:#1a202c;
-    classDef main fill:#e6fffa,stroke:#2c7a7b,color:#1a202c;
-    classDef follow fill:#fff7ed,stroke:#c05621,color:#1a202c;
-    classDef robust fill:#f5f3ff,stroke:#6b46c1,color:#1a202c;
+    SRC --> MAIN
+    SRC --> CAL --> CHECK
+    CHECK -. "calibrates pipeline" .-> MAIN
+    MAIN --> PACKETS --> BANKS --> LEAKAGE
+
+    LEAKAGE --> T1
+    LEAKAGE --> U
+    U --> T2
+    U --> T3
+    LEAKAGE --> T4
+    LEAKAGE --> B0
+    U --> RBT
+
+    T1 --> RECEIVERS
+    T2 --> RECEIVERS
+    T3 --> RECEIVERS
+    T4 --> RECEIVERS
+    B0 --> RECEIVERS
+    RBT --> RECEIVERS
+
+    RECEIVERS --> VALID
+    RECEIVERS --> METRICS
+    OUTCOMES -. "evaluation join only" .-> METRICS
+    VALID --> TABLES
+    METRICS --> TABLES
+
+    classDef source fill:#edf2f7,stroke:#4a5568,color:#1a202c;
+    classDef evidence fill:#e6fffa,stroke:#2c7a7b,color:#1a202c;
+    classDef regime fill:#eef2ff,stroke:#4f46e5,color:#1a202c;
     classDef downstream fill:#e0f2fe,stroke:#0369a1,color:#1a202c;
-    classDef eval fill:#fefcbf,stroke:#b7791f,color:#1a202c;
-    class A,B,C,D data;
-    class HC,HD,G,LS,OC cal;
-    class T1,U,T2,T3,T4 main;
-    class B0 follow;
-    class US,S robust;
-    class R downstream;
-    class H,M,V,O,OM,OB,OT,OS,OA,OH eval;
+    classDef eval fill:#fff7ed,stroke:#c05621,color:#1a202c;
+    class SRC,CAL,CHECK,MAIN source;
+    class PACKETS,BANKS,LEAKAGE evidence;
+    class T1,U,T2,T3,T4,B0,RBT regime;
+    class RECEIVERS downstream;
+    class VALID,METRICS,OUTCOMES,TABLES eval;
 ```
 
 ## Dataset
