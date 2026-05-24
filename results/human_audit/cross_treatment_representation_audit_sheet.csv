@@ -1,0 +1,252 @@
+event_id,company_name,ticker,event_date,treatment,model,representation_seed,profile_id,rendered_text,cited_source_ids,cited_source_ids_missing_from_bank,claims_supported_by_cited_sources,numeric_fidelity,no_uncited_material_claims,no_post_event_leakage,no_recommendation_or_directional_label,representation_form_fit,overall,notes
+evt_0001,DARDEN RESTAURANTS INC,DRI,2026/3/19,T2_shared_summary,qwen/qwen3-235b-a22b-2507,1,,"COMCAST CORP (CMCSA) reported financial results for the quarter and year ended December 31, 2025, with the announcement released on January 29, 2026 S001. Consolidated revenue for the fourth quarter increased 1.2% year-over-year to $32.3 billion, while full-year revenue was flat at $123.7 billion S003, S014. Net income attributable to COMCAST CORP declined 54.6% to $2.2 billion in the quarter and $20.0 billion for the full year S003. Adjusted net income decreased 17.1% to $3.1 billion in Q4 and fell 5.7% to $16.0 billion for the full year S003, S069. Adjusted earnings per share (EPS) were $0.84 in the quarter, down 12.4%, and $4.31 for the year, a 0.6% decline S003, S069.
+
+Adjusted EBITDA was $7.9 billion in the quarter, down 10.3%, and $37.4 billion for the full year, a 1.8% decrease S003, S065. Free cash flow rose 34.0% to $4.4 billion in the quarter and 53.4% to $19.2 billion for the year S003, S066. Net cash provided by operating activities was $8.8 billion in the quarter and $33.6 billion for the year S003, S062. Capital expenditures decreased 4.2% to $3.7 billion in the quarter S016.
+
+At Connectivity & Platforms, revenue declined 1.1% to $20.2 billion in the quarter S019, driven by a 2.1% decrease in Residential Connectivity & Platforms revenue, partially offset by a 5.8% increase in Business Services Connectivity revenue S019, S030. Residential revenue was impacted by declines in video, advertising, broadband, and other segments, partially offset by growth in domestic wireless and international connectivity S026. Domestic wireless added 364,000 lines in the quarter, reaching 9.3 million total lines S022, S007. Total customer relationships in Connectivity & Platforms decreased by 181,000 to 50.8 million S023.
+
+Content & Experiences revenue increased 5.4% to $12.7 billion in the quarter, led by a 21.9% rise in Theme Parks revenue due to the opening of Epic Universe in May 2025 S032, S041. Peacock reached 44 million paid subscribers, up 22% year-over-year, with revenue growing 23% to $1.6 billion in the quarter S010. The company completed the tax-free separation of Versant Media Group on January 2, 2026 S013. Shareholder returns totaled $2.7 billion in the quarter via $1.2 billion in dividends and $1.5 billion in share repurchases S005.",S001 S003 S005 S007 S010 S013 S014 S016 S019 S022 S023 S026 S030 S032 S041 S062 S065 S066 S069,S041 S062 S065 S066 S069,fail,fail,fail,pass,pass,fail,fail,"Entity/event mismatch: row is for DARDEN RESTAURANTS INC (DRI) FY2026 Q3, but T2 describes COMCAST CORP (CMCSA) Q4/full-year 2025 results. Cited source IDs do not support the Comcast revenue, EPS, EBITDA, Peacock, Theme Parks, or Versant claims in the Darden canonical bank. Several cited IDs are missing from the canonical bank (e.g., S041, S062, S065, S066, S069)."
+evt_0001,DARDEN RESTAURANTS INC,DRI,2026/3/19,T3_independent_summary,qwen/qwen3-235b-a22b-2507,1,retail_day_trader,"COMCAST CORP (NASDAQ: CMCSA) reported financial results for the quarter and year ended December 31, 2025, with the announcement issued on January 29, 2026 S001. Consolidated revenue for the fourth quarter was $32.31 billion, representing a 1.2% year-over-year increase S014. Full-year 2025 revenue totaled $123.71 billion, flat compared to $123.73 billion in 2024 S003. Net income attributable to COMCAST CORP declined 54.6% to $2.17 billion in Q4, with diluted earnings per share (EPS) down 52.0% to $0.60 S003, S015. Adjusted EPS for the quarter was $0.84, a 12.4% decrease from $0.96 in the prior-year period S003.
+
+Adjusted EBITDA for the fourth quarter was $7.9 billion, down 10.3% year-over-year, while full-year adjusted EBITDA was $37.38 billion, a 1.8% decline S003, S004. Free cash flow in the quarter was $4.37 billion, a 34.0% increase, with full-year free cash flow reaching $19.24 billion, up 53.4% S003, S004. Net cash provided by operating activities was $8.84 billion for the quarter and $33.64 billion for the full year S003, S017. Capital expenditures decreased 4.2% to $3.75 billion in the quarter S016.
+
+At Connectivity & Platforms, revenue decreased 1.1% year-over-year, driven by declines in residential broadband, video, advertising, and other segments, partially offset by growth in domestic wireless (up 18.0%) and international connectivity S019, S021, S026. Business Services Connectivity revenue rose 5.8%, supported by enterprise solutions and a recent acquisition S029, S030. Peacock delivered strong performance with 44 million paid subscribers, a 22% year-over-year increase, and fourth-quarter revenue growth of 23% S010. Theme Parks adjusted EBITDA increased 24%, exceeding $1.0 billion in the quarter, driven by the May 2025 opening of Epic Universe S012, S040, S041.
+
+The company returned $2.7 billion to shareholders in the quarter via $1.2 billion in dividends and $1.5 billion in share repurchases S005. The tax-free separation of Versant Media Group was completed on January 2, 2026, with shareholders receiving one share of Versant for every 25 shares of CMCSA S013. Adjusted EBITDA and net income were impacted by transaction-related costs associated with the Versant separation S067, S068.",S001 S003 S004 S005 S010 S012 S013 S014 S015 S016 S017 S019 S021 S026 S029 S030 S040 S041 S067 S068,S040 S041 S067 S068,fail,fail,fail,pass,pass,fail,fail,"Entity/event mismatch: T3 is for DARDEN RESTAURANTS INC (DRI), but the rendered text describes COMCAST CORP (CMCSA). Comcast-specific claims about consolidated revenue, adjusted EBITDA, Peacock subscribers, Theme Parks, Versant separation, and Connectivity & Platforms are not supported by the Darden canonical evidence bank. Some cited source IDs are missing from the canonical bank (e.g., S040, S041, S067, S068)."
+evt_0001,DARDEN RESTAURANTS INC,DRI,2026/3/19,T4_full_structured_evidence_ledger,deterministic,1,,"Entity: DARDEN RESTAURANTS INC (DRI)
+Event: evt_0001
+Representation: T4 full structured evidence ledger
+Design: deterministic lossless rendering of the full canonical evidence-unit bank.
+Rules: no evidence selection; no narrative synthesis; no action advice; no directional label.
+Canonical evidence units included: 36
+## revenue
+- evidence_id: E_SRC_002
+  category: revenue
+  claim:  Total sales increased 5.9% to $3.3 billion, driven by a blended same-restaurant sales 1 increase of 4.2% and sales from 31 net new restaurants
+  source_ids: [S002]
+  support_label: supported
+  source_quote:  Total sales increased 5.9% to $3.3 billion, driven by a blended same-restaurant sales 1 increase of 4.2% and sales from 31 net new restaurants
+- evidence_id: E_SRC_003
+  category: revenue
+  claim: Consolidated DARDEN RESTAURANTS INC 1 4.2% Olive Garden 3.2% LongHorn Steakhouse 7.2% Fine Dining 2.1% Other Business 1 3.9%
+  source_ids: [S003]
+  support_label: supported
+  source_quote: Consolidated DARDEN RESTAURANTS INC 1 4.2% Olive Garden 3.2% LongHorn Steakhouse 7.2% Fine Dining 2.1% Other Business 1 3.9%
+- evidence_id: E_SRC_004
+  category: revenue
+  claim:  Reported diluted net earnings per share from continuing operations were $2.68
+  source_ids: [S004]
+  support_label: supported
+  source_quote:  Reported diluted net earnings per share from continuing operations were $2.68
+- evidence_id: E_SRC_005
+  category: revenue
+  claim:  Excluding $0.05 of closed restaurant and other costs related to the exploration of strategic alternatives for the Bahama Breeze brand 2 , $0.16 of impairment due to restaurant closures 3 and $0.06 of income tax adjustments and benefits, adjusted diluted net earnings per share from continuing operations were $2.95, an increase of 5.4% 4
+  source_ids: [S005]
+  support_label: supported
+  source_quote:  Excluding $0.05 of closed restaurant and other costs related to the exploration of strategic alternatives for the Bahama Breeze brand 2 , $0.16 of impairment due to restaurant closures 3 and $0.06 of income tax adjustments and benefits, adjusted diluted net earnings per shar...
+- evidence_id: E_SRC_006
+  category: revenue
+  claim:  The Company repurchased $127 million of its outstanding common stock
+  source_ids: [S006]
+  support_label: supported
+  source_quote:  The Company repurchased $127 million of its outstanding common stock
+- evidence_id: E_SRC_007
+  category: revenue
+  claim: We delivered a strong quarter, said DARDEN RESTAURANTS INC President & CEO.
+  source_ids: [S007]
+  support_label: supported
+  source_quote: We delivered a strong quarter, said DARDEN RESTAURANTS INC President & CEO. We continue to outperform the industry same-restaurant sales benchmark, and this quarter we widened that gap as Olive Garden, LongHorn Steakhouse, Yard House, and Cheddars Scratch Kitchen each sign...
+- evidence_id: E_SRC_008
+  category: revenue
+  claim: During the fourth quarter of fiscal 2025, the Company changed its reporting of segment profit to exclude pre-opening costs.
+  source_ids: [S008]
+  support_label: supported
+  source_quote: During the fourth quarter of fiscal 2025, the Company changed its reporting of segment profit to exclude pre-opening costs. Fiscal 2025 figures were recast for comparability. Segment profit represents sales, less costs for food and beverage, restaurant labor, restaurant expens...
+- evidence_id: E_SRC_009
+  category: revenue
+  claim: Q3 Sales Q3 Segment Profit ($ in millions) 2026 2025 2026 2025 Consolidated DARDEN RESTAURANTS INC $3,345.3 $3,158.0 Olive Garden $1,393.0 $1,330.3 $320.0 $307.5 LongHorn Steakhouse $854.2 $768.1 $159.0 $151.6 Fine Dining $402.0 $385.3 $88.5 $86.8 Other Business $696.1 $674.3 $108.8 $105.5
+  source_ids: [S009]
+  support_label: supported
+  source_quote: Q3 Sales Q3 Segment Profit ($ in millions) 2026 2025 2026 2025 Consolidated DARDEN RESTAURANTS INC $3,345.3 $3,158.0 Olive Garden $1,393.0 $1,330.3 $320.0 $307.5 LongHorn Steakhouse $854.2 $768.1 $159.0 $151.6 Fine Dining $402.0 $385.3 $88.5 $86.8 Other Business $696.1 $674.3...
+- evidence_id: E_SRC_010
+  category: revenue
+  claim: YTD Sales YTD Segment Profit ($ in millions) 2026 2025 2026 2025 Consolidated DARDEN RESTAURANTS INC $9,492.1 $8,805.0 Olive Garden $4,056.8 $3,831.9 $884.9 $835.4 LongHorn Steakhouse $2,406.5 $2,191.7 $419.9 $414.9 Fine Dining $1,004.7 $970.2 $174.1 $179.6 Other Business $2,024.1 $1,811.2 $304.8 $271.1
+  source_ids: [S010]
+  support_label: supported
+  source_quote: YTD Sales YTD Segment Profit ($ in millions) 2026 2025 2026 2025 Consolidated DARDEN RESTAURANTS INC $9,492.1 $8,805.0 Olive Garden $4,056.8 $3,831.9 $884.9 $835.4 LongHorn Steakhouse $2,406.5 $2,191.7 $419.9 $414.9 Fine Dining $1,004.7 $970.2 $174.1 $179.6 Other Business $2,0...
+- evidence_id: E_SRC_013
+  category: revenue
+  claim: 2 Primarily costs related to the closure of 22 underperforming restaurants that were permanently closed during the fourth quarter of fiscal 2025 and other costs related to the strategic review of the Bahama Breeze brand.
+  source_ids: [S013]
+  support_label: supported
+  source_quote: 2 Primarily costs related to the closure of 22 underperforming restaurants that were permanently closed during the fourth quarter of fiscal 2025 and other costs related to the strategic review of the Bahama Breeze brand.
+- evidence_id: E_SRC_015
+  category: revenue
+  claim: DARDEN RESTAURANTS INC's Board of Directors declared a quarterly cash dividend of $1.50 per share on the Company's outstanding common stock.
+  source_ids: [S015]
+  support_label: supported
+  source_quote: DARDEN RESTAURANTS INC's Board of Directors declared a quarterly cash dividend of $1.50 per share on the Company's outstanding common stock. The dividend is payable on May 1, 2026, to shareholders of record at the close of business on April 10, 2026.
+- evidence_id: E_SRC_016
+  category: revenue
+  claim: During the quarter, the Company repurchased approximately 0.7 million shares of its common stock for a total of $127 million.
+  source_ids: [S016]
+  support_label: supported
+  source_quote: During the quarter, the Company repurchased approximately 0.7 million shares of its common stock for a total of $127 million. As of the end of the third quarter of fiscal 2026, the Company had $516 million remaining under the current $1 billion repurchase authorization.
+- evidence_id: E_SRC_032
+  category: revenue
+  claim: Three Months Ended Nine Months Ended 2/22/2026 2/23/2025 2/22/2026 2/23/2025 Sales $ 3,345.3 $ 3,158.0 $ 9,492.1 $ 8,805.0 Costs and expenses: Food and beverage 1,026.7 953.6 2,919.5 2,673.1 Restaurant labor 1,046.9 995.0 3,035.0 2,811.1 Restaurant expenses 528.7 501.0 1,541.2 1,426.9 Marketing expenses 39.4 35.4 137.2 128.9 Pre-opening costs 8.8 6.1 22.8 16.1 General and administrative expenses 121.5 116.7 375.4 387.2 Depreciation and amortization 141.8 131.9 414.8 381.1 Impairments and (gain) loss on disposal of assets, net 25.1 0.1 (19.8) 1.1 Total operating costs and expenses $ 2,938.9 $ 2,739.8 $ 8,426.1 $ 7,825.5 Operating income 406.4 418.2 1,066.0 979.5 Interest, net 49.6 45.5 143.0 128.8 Earnings before income taxes 356.8 372.7 923.0 850.7 Income tax expense 46.2 49.0 117.1 103.7 Earnings from continuing operations $ 310.6 $ 323.7 $ 805.9 $ 747.0 Losses from discontinued operations, net of tax benefit of $1.3, $0.2, $1.6, and $0.7, respectively (3.8) (0.3) (4.1) (1.2) Net earnings $ 306.8 $ 323.4 $ 801.8 $ 745.8 Basic net earnings per share: Earnings from continuing operations $ 2.70 $ 2.76 $ 6.95 $ 6.35 Losses from discontinued operations (0.03)  (0.04) (0.01) Net earnings $ 2.67 $ 2.76 $ 6.91 $ 6.34 Diluted net earnings per share: Earnings from continuing operations $ 2.68 $ 2.74 $ 6.91 $ 6.30 Losses from discontinued operations (0.03)  (0.04) (0.01) Net earnings $ 2.65 $ 2.74 $ 6.87 $ 6.29 Average number of common shares outstanding: Basic 115.0 117.2 115.9 117.7 Diluted 115.8 118.0 116.7 118.5
+  source_ids: [S032]
+  support_label: supported
+  source_quote: Three Months Ended Nine Months Ended 2/22/2026 2/23/2025 2/22/2026 2/23/2025 Sales $ 3,345.3 $ 3,158.0 $ 9,492.1 $ 8,805.0 Costs and expenses: Food and beverage 1,026.7 953.6 2,919.5 2,673.1 Restaurant labor 1,046.9 995.0 3,035.0 2,811.1 Restaurant expenses 528.7 501.0 1,541.2...
+- evidence_id: E_SRC_033
+  category: revenue
+  claim: 2/22/2026 5/25/2025 (Unaudited) ASSETS Current assets: Cash and cash equivalents $ 240.4 $ 240.0 Receivables, net 107.7 93.8 Inventories 345.3 311.6 Prepaid income taxes 179.3 135.6 Prepaid expenses and other current assets 145.8 156.7 Total current assets $ 1,018.5 $ 937.7 Land, buildings and equipment, net 4,984.4 4,716.0 Operating lease right-of-use assets 3,478.1 3,555.9 Goodwill 1,658.2 1,659.4 Trademarks 1,346.4 1,346.4 Other assets 403.2 371.6 Total assets $ 12,888.8 $ 12,587.0 LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable $ 451.4 $ 439.6 Short-term debt 290.0  Accrued payroll 203.5 207.5 Accrued income taxes 1.4 4.7 Other accrued taxes 79.7 83.0 Unearned revenues 654.9 599.4 Other current liabilities 927.4 913.3 Total current liabilities $ 2,608.3 $ 2,247.5 Long-term debt 2,141.0 2,128.9 Deferred income taxes 354.2 278.8 Operating lease liabilities - non-current 3,754.3 3,816.9 Other liabilities 1,927.0 1,803.6 Total liabilities $ 10,784.8 $ 10,275.7 Stockholders equity: Common stock and surplus $ 2,297.0 $ 2,295.6 Retained earnings (deficit) (217.4) (16.1) Accumulated other comprehensive income 24.4 31.8 Total stockholders equity $ 2,104.0 $ 2,311.3 Total liabilities and stockholders equity $ 12,888.8 $ 12,587.0
+  source_ids: [S033]
+  support_label: supported
+  source_quote: 2/22/2026 5/25/2025 (Unaudited) ASSETS Current assets: Cash and cash equivalents $ 240.4 $ 240.0 Receivables, net 107.7 93.8 Inventories 345.3 311.6 Prepaid income taxes 179.3 135.6 Prepaid expenses and other current assets 145.8 156.7 Total current assets $ 1,018.5 $ 937.7 La...
+## earnings_or_eps
+- evidence_id: E_SRC_023
+  category: earnings_or_eps
+  claim:  Approximately $0.25 related to the addition of the 53rd week
+  source_ids: [S023]
+  support_label: supported
+  source_quote:  Approximately $0.25 related to the addition of the 53rd week
+- evidence_id: E_SRC_024
+  category: earnings_or_eps
+  claim:  Approximately 116.5 million weighted average diluted shares outstanding
+  source_ids: [S024]
+  support_label: supported
+  source_quote:  Approximately 116.5 million weighted average diluted shares outstanding
+- evidence_id: E_SRC_026
+  category: earnings_or_eps
+  claim: DARDEN RESTAURANTS INC is a restaurant company featuring a portfolio of differentiated brands that include Olive Garden, LongHorn Steakhouse, Yard House, Ruths Chris Steak House, Cheddar's Scratch Kitchen, The Capital Grille, Chuy's, Seasons 52, and Eddie Vs.
+  source_ids: [S026]
+  support_label: supported
+  source_quote: DARDEN RESTAURANTS INC is a restaurant company featuring a portfolio of differentiated brands that include Olive Garden, LongHorn Steakhouse, Yard House, Ruths Chris Steak House, Cheddar's Scratch Kitchen, The Capital Grille, Chuy's, Seasons 52, and Eddie Vs. For more inform...
+- evidence_id: E_SRC_027
+  category: earnings_or_eps
+  claim: The information in this press release includes financial information determined by methods other than in accordance with U.S.
+  source_ids: [S027]
+  support_label: supported
+  source_quote: The information in this press release includes financial information determined by methods other than in accordance with U.S. generally accepted accounting principles (GAAP), such as adjusted diluted net earnings per share from continuing operations. The Companys management...
+- evidence_id: E_SRC_028
+  category: earnings_or_eps
+  claim: (Analysts) Courtney Aquilla, (407) 245-5054; (Media) Rich Jeffers, (407) 245-4189
+  source_ids: [S028]
+  support_label: supported
+  source_quote: (Analysts) Courtney Aquilla, (407) 245-5054; (Media) Rich Jeffers, (407) 245-4189
+- evidence_id: E_SRC_029
+  category: earnings_or_eps
+  claim: Fiscal Q3 Reported to Adjusted Earnings Reconciliation Q3 2026 Q3 2025 $ in millions, except per share amounts Earnings Before Income Tax Income Tax Expense Net Earnings Diluted Net Earnings Per Share Earnings Before Income Tax Income Tax Expense Net Earnings Diluted Net Earnings Per Share Reported Earnings from Continuing Operations $ 356.8 $ 46.2 $ 310.6 $ 2.68 $ 372.7 $ 49.0 $ 323.7 $ 2.74 % Change vs Prior Year (2.2)% Total Adjustments: $ 31.3 $ 0.7 $ 30.6 $ 0.27 $ 8.4 $ 1.9 $ 6.5 $ 0.06 Closed restaurant and other strategic review costs 2 6.6 1.6 5.0 0.05     General and administrative expenses 5.8 1.4 4.4 0.04     Depreciation and amortization 0.8 0.2 0.6 0.01     Impairment due to restaurant closures 3 24.7 6.2 18.5 0.16     Income tax adjustments and benefits  (7.1) 7.1 0.06     Chuy's integration related one-time costs $  $  $  $  $ 8.4 $ 1.9 $ 6.5 $ 0.06 Adjusted Earnings from Continuing Operations $ 388.1 $ 46.9 $ 341.2 $ 2.95 $ 381.1 $ 50.9 $ 330.2 $ 2.80 % Change vs Prior Year 5.4%
+  source_ids: [S029]
+  support_label: supported
+  source_quote: Fiscal Q3 Reported to Adjusted Earnings Reconciliation Q3 2026 Q3 2025 $ in millions, except per share amounts Earnings Before Income Tax Income Tax Expense Net Earnings Diluted Net Earnings Per Share Earnings Before Income Tax Income Tax Expense Net Earnings Diluted Net Earni...
+## guidance
+- evidence_id: E_SRC_001
+  category: guidance
+  claim: ORLANDO, Fla., 2026-03-19T07:06:37-04:00 /PRNewswire/ -- DARDEN RESTAURANTS INC.
+  source_ids: [S001]
+  support_label: supported
+  source_quote: ORLANDO, Fla., 2026-03-19T07:06:37-04:00 /PRNewswire/ -- DARDEN RESTAURANTS INC. (NYSE:DRI) today reported its financial results for the third quarter ended February 22, 2026.
+- evidence_id: E_SRC_011
+  category: guidance
+  claim: 1 Will not include Chuy's until they have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period (Q4 fiscal 2026) and does not include Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2027).
+  source_ids: [S011]
+  support_label: supported
+  source_quote: 1 Will not include Chuy's until they have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period (Q4 fiscal 2026) and does not include Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2...
+- evidence_id: E_SRC_012
+  category: guidance
+  claim: 1 Will not include Chuy's until they have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period (Q4 fiscal 2026) and does not include Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2027).
+  source_ids: [S012]
+  support_label: supported
+  source_quote: 1 Will not include Chuy's until they have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period (Q4 fiscal 2026) and does not include Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2...
+- evidence_id: E_SRC_014
+  category: guidance
+  claim: 3 Non-cash asset impairment charges primarily related to the closures of Bahama Breeze locations expected to occur in the fourth quarter of fiscal 2026.
+  source_ids: [S014]
+  support_label: supported
+  source_quote: 3 Non-cash asset impairment charges primarily related to the closures of Bahama Breeze locations expected to occur in the fourth quarter of fiscal 2026.
+- evidence_id: E_SRC_017
+  category: guidance
+  claim:  Total sales growth of approximately 9.5%, including approximately 2% growth related to the 53rd week
+  source_ids: [S017]
+  support_label: supported
+  source_quote:  Total sales growth of approximately 9.5%, including approximately 2% growth related to the 53rd week
+- evidence_id: E_SRC_018
+  category: guidance
+  claim:  Same-restaurant sales 5 growth of approximately 4.5%
+  source_ids: [S018]
+  support_label: supported
+  source_quote:  Same-restaurant sales 5 growth of approximately 4.5%
+- evidence_id: E_SRC_019
+  category: guidance
+  claim:  New restaurant openings of approximately 70
+  source_ids: [S019]
+  support_label: supported
+  source_quote:  New restaurant openings of approximately 70
+- evidence_id: E_SRC_020
+  category: guidance
+  claim:  Total capital spending of $750 to $775 million
+  source_ids: [S020]
+  support_label: supported
+  source_quote:  Total capital spending of $750 to $775 million
+- evidence_id: E_SRC_021
+  category: guidance
+  claim:  Total inflation of approximately 3.5%
+  source_ids: [S021]
+  support_label: supported
+  source_quote:  Total inflation of approximately 3.5%
+- evidence_id: E_SRC_022
+  category: guidance
+  claim:  An effective tax rate of approximately 12.5%
+  source_ids: [S022]
+  support_label: supported
+  source_quote:  An effective tax rate of approximately 12.5%
+- evidence_id: E_SRC_025
+  category: guidance
+  claim: 5 Annual same-restaurant sales is a 52-week metric and excludes the impact of Chuys, which will not have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period prior to the beginning of fiscal 2026, as well as Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2027).
+  source_ids: [S025]
+  support_label: supported
+  source_quote: 5 Annual same-restaurant sales is a 52-week metric and excludes the impact of Chuys, which will not have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period prior to the beginning of fiscal 2026, as well as Bahama Breeze as all locations are expected to be...
+- evidence_id: E_SRC_030
+  category: guidance
+  claim: Reconciliation of Fiscal 2026 Reported to Adjusted Earnings Outlook 2026 Reported diluted net earnings per share from continuing operations $10.40 to $10.50 Chuy's transaction and integration related costs 0.06 0.06 Closed restaurant and other strategic review costs 2 0.15 0.15 Impairment due to restaurant closures 3 0.16 0.16 Gain on Olive Garden Canada sale (0.26) (0.26) Income tax adjustments and benefits $0.06 $0.06 Adjusted diluted net earnings per share from continuing operations $10.57 to $10.67
+  source_ids: [S030]
+  support_label: supported
+  source_quote: Reconciliation of Fiscal 2026 Reported to Adjusted Earnings Outlook 2026 Reported diluted net earnings per share from continuing operations $10.40 to $10.50 Chuy's transaction and integration related costs 0.06 0.06 Closed restaurant and other strategic review costs 2 0.15 0.1...
+- evidence_id: E_SRC_031
+  category: guidance
+  claim: 2/22/26 2/23/25 Olive Garden 944 927 LongHorn Steakhouse 608 586 Cheddar's Scratch Kitchen 184 182 Chuy's 108 106 Yard House 92 89 Ruth's Chris Steak House 82 82 The Capital Grille 73 71 Seasons 52 45 45 Eddie V's 30 30 Bahama Breeze 27 43 The Capital Burger 3 4 DARDEN RESTAURANTS INC Continuing Operations 2,196 2,165
+  source_ids: [S031]
+  support_label: supported
+  source_quote: 2/22/26 2/23/25 Olive Garden 944 927 LongHorn Steakhouse 608 586 Cheddar's Scratch Kitchen 184 182 Chuy's 108 106 Yard House 92 89 Ruth's Chris Steak House 82 82 The Capital Grille 73 71 Seasons 52 45 45 Eddie V's 30 30 Bahama Breeze 27 43 The Capital Burger 3 4 DARDEN RESTAUR...
+## costs_or_expenses
+- evidence_id: E_SRC_034
+  category: costs_or_expenses
+  claim: (Unaudited) Nine Months Ended 2/22/2026 2/23/2025 Cash flowsoperating activities Net earnings $ 801.8 $ 745.8 Losses from discontinued operations, net of tax 4.1 1.2 Adjustments to reconcile net earnings from continuing operations to cash flows: Depreciation and amortization 414.8 381.1 Impairments and (gain) loss on disposal of assets, net (19.8) 1.1 Stock-based compensation expense 66.5 64.5 Change in current assets and liabilities and other, net 13.6 56.3 Net cash provided by operating activities of continuing operations $ 1,281.0 $ 1,250.0 Cash flowsinvesting activities Purchases of land, buildings and equipment (540.9) (472.6) Proceeds from disposal of land, buildings and equipment 33.0  Cash used in business acquisitions, net of cash acquired  (613.7) Purchases of capitalized software and changes in other assets, net (15.2) (13.3) Net cash used in investing activities of continuing operations $ (523.1) $ (1,099.6) Cash flowsfinancing activities Net proceeds from issuance of common stock 18.2 38.9 Dividends paid (521.5) (494.6) Repurchases of common stock, inclusive of excise tax (534.4) (367.2) Proceeds from short-term debt, net 290.0 (28.6) Proceeds from issuance of long-term debt, net  750.0 Principal payments on finance leases, net (13.8) (15.5) Payments of debt issuance costs  (6.9) Net cash used in financing activities of continuing operations $ (761.5) $ (123.9) Cash flowsdiscontinued operations Net cash used in operating activities of discontinued operations (2.4) (7.9) Net cash used in discontinued operations $ (2.4) $ (7.9) Increase (decrease) in cash, cash equivalents, and restricted cash (6.0) 18.6 Cash, cash equivalents, and restricted cash - beginning of period 254.5 220.1 Cash, cash equivalents, and restricted cash - end of period $ 248.5 $ 238.7
+  source_ids: [S034]
+  support_label: supported
+  source_quote: (Unaudited) Nine Months Ended 2/22/2026 2/23/2025 Cash flowsoperating activities Net earnings $ 801.8 $ 745.8 Losses from discontinued operations, net of tax 4.1 1.2 Adjustments to reconcile net earnings from continuing operations to cash flows: Depreciation and amortization...
+- evidence_id: E_SRC_035
+  category: costs_or_expenses
+  claim: Reconciliation of cash, cash equivalents, and restricted cash: 2/22/2026 2/23/2025 Cash and cash equivalents $ 240.4 $ 224.2 Restricted cash included in prepaid expenses and other current assets 8.1 14.5 Total cash, cash equivalents, and restricted cash shown in the statement of cash flows $ 248.5 $ 238.7
+  source_ids: [S035]
+  support_label: supported
+  source_quote: Reconciliation of cash, cash equivalents, and restricted cash: 2/22/2026 2/23/2025 Cash and cash equivalents $ 240.4 $ 224.2 Restricted cash included in prepaid expenses and other current assets 8.1 14.5 Total cash, cash equivalents, and restricted cash shown in the statement...
+## pre_event_price_context
+- evidence_id: E_CTX_001
+  category: pre_event_price_context
+  claim: Pre-event price context: ret_5d=-0.013419, ret_20d=-0.072547, market_ret_20d=-0.036224
+  source_ids: [CTX1]
+  support_label: supported
+  source_quote: Pre-event price context: ret_5d=-0.013419, ret_20d=-0.072547, market_ret_20d=-0.036224
+No action advice or directional label is added by the renderer.",CTX1 S001 S002 S003 S004 S005 S006 S007 S008 S009 S010 S011 S012 S013 S014 S015 S016 S017 S018 S019 S020 S021 S022 S023 S024 S025 S026 S027 S028 S029 S030 S031 S032 S033 S034 S035,,pass,pass,pass,pass,pass,pass,pass,"T4 matches the Darden event and is rendered as a full structured evidence ledger. It includes 36 canonical evidence units, preserves source IDs, includes CTX1 pre-event price context, and does not add narrative synthesis, post-event leakage, or recommendation language."
+evt_0002,"ROSS STORES, INC.",ROST,2026/3/3,T2_shared_summary,qwen/qwen3-235b-a22b-2507,1,,"Fox Corp (FOXA, FOX) reported financial results for the second quarter of fiscal 2026, ending December 31, 2025. Total quarterly revenues were $5.18 billion, representing a 2% increase, or $104 million, compared to the prior-year quarter (S002). This growth was driven by broad-based contributions across the companys portfolio, with advertising revenue showing notable strength despite tough year-over-year comparisons due to high political advertising revenue in the prior period (S005). Revenue from contracts with customers, excluding assessed tax, was $5.182 billion (X001).
+
+Segment performance revealed a 5% year-over-year increase in Cable Network Programming revenues, which reached $2.28 billion, while Television segment revenues declined slightly to $2.94 billion from $2.96 billion in the prior-year quarter (S012, S015). Distribution revenue, derived from MVPD agreements, retransmission fees, and direct-to-consumer subscription fees, totaled $2.00 billion for the quarter (S008, S009). Advertising revenue company-wide amounted to $2.46 billion (S008).
+
+Adjusted EBITDA, a non-GAAP measure defined as revenues less operating and selling, general and administrative expenses (S027, S007, S010), was $692 million, down from $781 million in the prior-year quarter (S004, S008). The decline was attributed to higher expenses that more than offset revenue gains. Cable Network Programming segment EBITDA increased by 5% to $687 million, while Television segment EBITDA decreased to $143 million from $205 million, primarily due to higher expenses (S013, S016).
+
+Net income attributable to Fox Corp stockholders was $229 million, or $0.52 per diluted share, compared to $373 million, or $0.81 per diluted share, in the prior-year quarter (S020, X003). Net income for the quarter was $247 million (S003, X002). Adjusted Net Income, which excludes restructuring, non-operating items, tax adjustments, and noncontrolling interest impacts, was $360 million, or $0.82 per share, versus $442 million, or $0.96 per share, in the prior year (S026). Management uses Adjusted EBITDA and Adjusted Net Income to assess operational performance, noting these non-GAAP measures should complement GAAP results (S023, S028, S029).
+
+Cash and cash equivalents stood at $2.02 billion as of December 31, 2025, down from $5.35 billion at the prior fiscal year-end, with net cash used in operating activities at $799 million for the six-month period (S021, S022, X005). The company declared a dividend of $0.28 per Class A and Class B share and has $3.6 billion remaining under its share repurchase authorization after repurchasing $6.6 billion in Class A and $1.8 billion in Class B stock cumulatively (S017, S018).",S002 S003 S004 S005 S007 S008 S009 S010 S012 S013 S015 S016 S017 S018 S020 S021 S022 S023 S026 S027 S028 S029 X001 X002 X003 X005,S021 S022 S023 S026 S027 S028 S029,fail,fail,fail,pass,pass,fail,fail,"Entity/event mismatch: row is for ROSS STORES, INC. (ROST), but T2 describes Fox Corp (FOXA, FOX) fiscal Q2 2026 results. Cited source IDs in the Ross canonical bank do not support Fox-specific claims about quarterly revenue, Cable Network Programming, Television segment, Adjusted EBITDA, Adjusted Net Income, or Fox share repurchases. Several cited IDs are missing from the canonical bank (e.g., S021, S022, S023, S026, S027, S028, S029)."

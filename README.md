@@ -315,7 +315,7 @@ Key tables:
 These tables support formal or auxiliary diagnostics used in the appendix and
 paper robustness discussion.
 
-### Human Audit: Claim Grounding And Leakage Check
+### Human Audit: Evidence And Representation Validity Checks
 
 Location:
 
@@ -326,45 +326,30 @@ results/human_audit/
 Key files:
 
 - `audit_protocol.csv`
-- `canonical_evidence_audit_summary.csv`
-- `downstream_claim_grounding_summary.csv`
-- `second_pass_material_or_leakage_rows.csv`
+- `canonical_evidence_audit_sheet.csv`
+- `cross_treatment_representation_audit_sheet.csv`
 
 The released human-audit subset has three parts:
 
 1. a compact audit protocol describing the audit scopes, labels, released
    details, and the fact that no inter-annotator agreement claim is made;
-2. aggregate canonical evidence validity counts over evidence alignment,
-   numeric fidelity, claim fidelity, quote fidelity, category fit,
-   support-label fit, and post-event leakage;
-3. aggregate downstream claim-grounding counts by overall, treatment family,
-   and model family, plus the small subset of material unsupported or
-   post-event-leakage rows.
+2. a row-level canonical evidence audit covering 62 evidence units, with
+   public source excerpts and judgments for source alignment, numeric fidelity,
+   claim fidelity, quote fidelity, category fit, support-label fit, and
+   post-event leakage;
+3. a row-level cross-treatment representation audit covering 4 rendered
+   treatment representations, with rendered text, cited source IDs, validity
+   checks, and audit notes.
 
-The full row-level human-audit sheets are not included in this curated
-release subset. They contain large rendered source excerpts and
-row-level adjudication details that are useful for local reproducibility but
-unnecessary for the clean review surface. This release keeps reviewer-readable
-aggregate summaries and a compact material-failure subset needed to evaluate
-the paper's construct-validity claims.
+The row-level sheets are released directly rather than only as aggregate
+summaries. Reviewer identity and internal pipeline path columns are omitted
+from the public CSVs, but the substantive audit content is retained. No
+inter-annotator agreement claim is made.
 
-The downstream audit checks whether free-form decision rationales are grounded
-in visible source evidence and whether they contain unsupported factual claims
-or post-event leakage.
-
-The final downstream claim-grounding second-pass audit covers 961 rationale
-claims.
-
-Final second-pass summary:
-
-- 903/961 claims labeled `no_hallucination` (93.96%)
-- 40/961 claims labeled `minor_unsupported_detail` (4.16%)
-- 17/961 claims labeled `material_unsupported_claim` (1.77%)
-- 1/961 claim labeled `post_event_leakage` (0.10%)
-
-This audit supports the construct-validity claim that source grounding strongly
-constrains free-form rationales while not eliminating unsupported claims
-entirely.
+The audit supports the construct-validity claim that the released evidence
+banks and treatment representations can be inspected against visible,
+event-time public source material, and that post-event leakage and unsupported
+material claims were explicitly checked.
 
 ## Outcome And Input Boundary
 

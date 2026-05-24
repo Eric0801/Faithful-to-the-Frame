@@ -1,9 +1,0 @@
-audit_name,check,total_rows,pass,pass_with_notes,fail,not_applicable,blank_or_other,pass_rate_excluding_na,pass_or_notes_rate_excluding_na,fail_rate_excluding_na
-canonical_evidence_audit,source_alignment,62,62,0,0,0,0,1.000000,1.000000,0.000000
-canonical_evidence_audit,numeric_fidelity,62,53,0,0,9,0,1.000000,1.000000,0.000000
-canonical_evidence_audit,claim_fidelity,62,51,11,0,0,0,0.822581,1.000000,0.000000
-canonical_evidence_audit,quote_fidelity,62,36,26,0,0,0,0.580645,1.000000,0.000000
-canonical_evidence_audit,category_fit,62,40,18,4,0,0,0.645161,0.935484,0.064516
-canonical_evidence_audit,support_label_fit,62,62,0,0,0,0,1.000000,1.000000,0.000000
-canonical_evidence_audit,no_post_event_leakage,62,62,0,0,0,0,1.000000,1.000000,0.000000
-canonical_evidence_audit,overall,62,26,36,0,0,0,0.419355,1.000000,0.000000
