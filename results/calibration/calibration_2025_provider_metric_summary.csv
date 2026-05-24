@@ -1,0 +1,3 @@
+calibration_set,model_family,generated_at_utc,total_input_rows,usable_decisions,decision_rows_written,cell_metric_rows_written,t2_t3_contrast_rows_written,warnings,hidden_outcomes_events_loaded,hidden_outcomes_joined_rows,release_note
+2025_near_cutoff_calibration,qwen3-235b-a22b,2026-04-28T08:15:30+00:00,1008,1008,1008,504,144,0,12,1008,Metric smoke/calibration readout; not a primary main-result estimate.
+2025_near_cutoff_calibration,claude-sonnet-4.5,2026-04-27T12:02:31+00:00,1008,1008,1008,504,144,0,12,1008,Metric smoke/calibration readout; not a primary main-result estimate.

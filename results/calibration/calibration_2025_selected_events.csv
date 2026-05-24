@@ -1,0 +1,13 @@
+event_id,ticker,company,sector,market_cap_group,cik,event_date,accepted_at_et,accession_number,form_type,items,masked_company,fiscal_period,reaction_day_t0,source_unit_count,xbrl_fact_count,packet_build_ok,error
+evt_0002,ADBE,ADOBE INC.,Information Technology,large_cap,796343,2025-12-10,2025-12-10T11:05:55-05:00,0000796343-25-000135,8-K,"2.02,9.01",Company CA,FY2025 Q3,2025-12-10,62,10,True,
+evt_0004,AEO,AMERICAN EAGLE OUTFITTERS INC,Consumer Discretionary,small_mid_cap,919012,2025-12-02,2025-12-02T16:42:24-05:00,0001193125-25-305370,8-K,"2.02,9.01",Company CT,FY2025 Q3,2025-12-03,37,0,True,
+evt_0008,ANF,ABERCROMBIE & FITCH CO /DE/,Consumer Discretionary,small_mid_cap,1018840,2025-11-26,2025-11-26T16:39:54-05:00,0001018840-25-000046,8-K,"2.02,9.01",Company A,FY2025 Q3,2025-11-28,62,0,True,
+evt_0011,AZO,AUTOZONE INC,Consumer Discretionary,large_cap,866787,2025-12-09,2025-12-09T06:55:28-05:00,0001171843-25-007831,8-K,"2.02,9.01",Company CJ,FY2025,2025-12-09,24,9,True,
+evt_0016,CAL,CALERES INC,Consumer Discretionary,small_mid_cap,14707,2025-12-09,2025-12-09T07:41:00-05:00,0000014707-25-000080,8-K,"2.02,9.01",Company AD,FY2025 Q3,2025-12-09,49,0,True,
+evt_0017,CARG,"CarGurus, Inc.",Communication Services,small_mid_cap,1494259,2025-11-06,2025-11-06T16:12:46-05:00,0001193125-25-269539,8-K,"2.02,9.01",Company AF,FY2025 Q3,2025-11-07,81,10,True,
+evt_0018,CPB,CAMPBELL'S Co,Consumer Staples,large_cap,16732,2025-12-09,2025-12-09T02:16:30-05:00,0000016732-25-000125,8-K,"2.02,9.01",Company AU,FY2026 Q1,2025-12-09,76,8,True,
+evt_0026,DRI,DARDEN RESTAURANTS INC,Consumer Discretionary,large_cap,940944,2025-12-18,2025-12-18T07:07:22-05:00,0000940944-25-000067,8-K,"2.02,9.01",Company CU,FY2026 Q2,2025-12-18,36,0,True,
+evt_0029,ETN,Eaton Corp plc,Industrials,large_cap,1551182,2025-11-04,2025-11-04T07:01:04-05:00,0001551182-25-000033,8-K,"2.02,9.01",Company AJ,FY2025 Q3,2025-11-04,58,7,True,
+evt_0032,FLO,FLOWERS FOODS INC,Consumer Staples,small_mid_cap,1128928,2025-11-06,2025-11-06T16:27:31-05:00,0001193125-25-269692,8-K,"2.02,9.01",Company O,FY2025 Q3,2025-11-07,64,7,True,
+evt_0065,NKE,"NIKE, Inc.",Consumer Discretionary,large_cap,320187,2025-12-18,2025-12-18T16:15:38-05:00,0000320187-25-000138,8-K,"2.02,9.01",Company BG,FY2026 Q2,2025-12-19,36,0,True,
+evt_0066,NXST,"NEXSTAR MEDIA GROUP, INC.",Communication Services,small_mid_cap,1142417,2025-11-06,2025-11-06T07:02:06-05:00,0001193125-25-268039,8-K,"2.02,9.01",Company Q,FY2025 Q3,2025-11-06,41,8,True,

@@ -1,0 +1,2 @@
+calibration_set,event_window,selected_count,selected_large_cap,selected_small_mid_cap,eligible_count,required_price,required_build_ok,selected_by_sector_json,selected_by_hidden_valence_json,release_note
+2025_near_cutoff_calibration,2025-11-01_to_2025-12-31,12,6,6,82,True,True,"{""Communication Services"": 2, ""Consumer Discretionary"": 6, ""Consumer Staples"": 2, ""Industrials"": 1, ""Information Technology"": 1}","{""mixed"": 4, ""negative"": 4, ""positive"": 4}",Calibration set only; not used for primary 2026+ main-result claims.

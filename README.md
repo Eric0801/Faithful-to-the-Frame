@@ -23,71 +23,77 @@ through LLM-mediated evidence interfaces into downstream investment decisions.
 
 The core pipeline is:
 
-1. collect public earnings-event source material
-2. build outcome-blind source packets and canonical evidence banks
-3. render treatment inputs from the same evidence substrate
-4. run pilot calibration and preflight checks before main execution
-5. run downstream decision agents under different representations
-6. validate schema, source-ID grounding, and free-form rationale claims
-7. compute diversity, belief, action, and quality metrics
-8. report main results and follow-up mechanism/robustness checks
+1. collect and screen public earnings-event source material
+2. run the 12-event November-December 2025 calibration set for pipeline
+   validation and profile-separability checks
+3. construct the 94-event post-cutoff main sample
+4. build source packets and canonical evidence banks under outcome blindness
+5. apply leakage controls before treatment execution
+6. render the five representation regimes from the same evidence substrate
+7. run role-conditioned downstream LLM receivers
+8. compute evidence, rationale, belief, action, and quality readouts
 
 ```mermaid
 flowchart TD
-    subgraph Data["Data construction"]
-        A["Public earnings-event filings<br/>SEC 8-K / earnings releases"] --> B["Event screening<br/>94 events, 47 large-cap / 47 small-mid"]
-        B --> C["Outcome-blind source packets<br/>entity-visible event-time evidence"]
-        C --> D["Canonical evidence banks<br/>source-ID tagged evidence units"]
+    subgraph Data["<b>Step 1. Dataset Construction</b>"]
+        A["<b>Public earnings-event sources</b><br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"] --> B["<b>Main-sample screening</b><br/>94 post-cutoff events, 47 large-cap / 47 small-mid"]
     end
 
-    subgraph Cal["Calibration and preflight"]
-        D --> CP["2026 pilot slice<br/>12 events, 6 large / 6 small-mid"]
-        CP --> CG["Official-run preflight gates<br/>schema, source IDs, outcome blindness"]
+    subgraph Cal["<b>Step 2. Calibration</b>"]
+        A --> HC["<b>November-December 2025 calibration set</b><br/>12 events, 6 large / 6 small-mid"]
+        HC --> HD["<b>Pipeline validation</b><br/>profile separability, parsing, provider, metrics"]
     end
 
-    subgraph Main["Main experiment"]
-        CG --> T1
-        C --> T1["T1 raw disclosure<br/>source packet directly downstream"]
-        D --> U["Upstream LLM summaries<br/>neutral analyst framing"]
-        U --> T2["T2 shared summary<br/>one summary per event"]
-        U --> T3["T3 independent summaries<br/>six role-conditioned summaries per event"]
-        D --> T4["T4 structured evidence ledger<br/>main mechanism condition"]
+    subgraph MainBuild["<b>Step 3. Main-Sample Construction and Blindness</b>"]
+        HD --> G["<b>Proceed to main sample</b><br/>calibration set excluded from primary estimates"]
+        B --> G
+        G --> C["<b>Source packets</b><br/>entity-visible, outcome-blind event-time evidence"]
+        C --> D["<b>Canonical evidence banks</b><br/>claims, categories, values, attribution, source IDs"]
+        D --> LS["<b>Leakage controls</b><br/>source-ID validation, bank consistency, outcome-blindness audits, model-family memory probes"]
     end
 
-    subgraph Follow["Baseline follow-up"]
-        D --> B0["B0 canonical evidence-only<br/>main-text follow-up"]
+    subgraph Main["<b>Step 4. Treatment Construction</b>"]
+        LS --> T1["<b>T1 raw disclosure</b><br/>source-elicited baseline before synthesis"]
+        LS --> U["<b>Upstream LLM summaries</b><br/>neutral analyst framing"]
+        U --> T2["<b>T2 shared summary</b><br/>one summary per event"]
+        U --> T3["<b>T3 independent summaries</b><br/>six role-conditioned summaries per event"]
+        LS --> T4["<b>T4 structured evidence ledger</b><br/>no-synthesis format anchor"]
     end
 
-    subgraph Robust["Robustness: neutral-analyst ablation"]
-        D --> US["Upstream LLM summaries<br/>no neutral-analyst framing"]
-        US --> S["T2* / T3* upstream summaries<br/>robustness variant"]
+    subgraph Follow["<b>Step 5. Follow-Up Conditions</b>"]
+        LS --> B0["<b>B0 canonical evidence-only</b><br/>source-faithful no-synthesis baseline"]
     end
 
-    T1 --> R["Shared downstream stage<br/>same role-conditioned receivers and decision schema"]
+    subgraph Robust["<b>Step 6. Robustness Variant</b>"]
+        LS --> US["<b>Upstream LLM summaries</b><br/>no neutral-analyst framing"]
+        US --> S["<b>T2* / T3*</b><br/>upstream-summary robustness variant"]
+    end
+
+    T1 --> R["<b>Step 7. Shared downstream stage</b><br/>same role-conditioned receivers and decision schema"]
     T2 --> R
     T3 --> R
     T4 --> R
     B0 --> R
     S --> R
 
-    subgraph Readout["Evaluation readout"]
+    subgraph Readout["<b>Step 8. Evaluation Readout</b>"]
         direction LR
-        H["Hidden outcomes<br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M["Metric computation<br/>evidence, rationale, belief, action, quality"]
-        V["Validation and human audit<br/>schema, source IDs, 961 rationale claims"]
+        H["<b>Hidden outcomes</b><br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M["<b>Metric computation</b><br/>evidence, rationale, belief, action, quality"]
+        V["<b>Validation and human audit</b><br/>schema, source IDs, evidence and representation checks"]
     end
 
     R --> M
     R --> V
-    M --> O["Curated result tables<br/>release/results/"]
+    M --> O["<b>Curated result tables</b><br/>release/results/"]
     V --> O
 
-    O --> OM["main/<br/>T1/T2/T3 primary claims"]
-    O --> OC["calibration/<br/>pilot and preflight gates"]
-    O --> OB["b0_followup/<br/>canonical evidence baseline"]
-    O --> OT["t4_followup/<br/>structured ledger main condition"]
-    O --> OS["prompt_sensitivity/<br/>neutral-analyst ablation"]
-    O --> OA["appendix_diagnostics/<br/>formal auxiliary checks"]
-    O --> OH["human_audit/<br/>claim-grounding validation"]
+    O --> OM["<b>main/</b><br/>T1/T2/T3 primary claims"]
+    O --> OC["<b>calibration/</b><br/>2025 calibration set"]
+    O --> OB["<b>b0_followup/</b><br/>canonical evidence baseline"]
+    O --> OT["<b>t4_followup/</b><br/>structured ledger main condition"]
+    O --> OS["<b>prompt_sensitivity/</b><br/>neutral-analyst ablation"]
+    O --> OA["<b>appendix_diagnostics/</b><br/>formal auxiliary checks"]
+    O --> OH["<b>human_audit/</b><br/>evidence and representation validation"]
 
     classDef data fill:#edf2f7,stroke:#4a5568,color:#1a202c;
     classDef cal fill:#ecfdf5,stroke:#047857,color:#1a202c;
@@ -97,7 +103,7 @@ flowchart TD
     classDef downstream fill:#e0f2fe,stroke:#0369a1,color:#1a202c;
     classDef eval fill:#fefcbf,stroke:#b7791f,color:#1a202c;
     class A,B,C,D data;
-    class CP,CG,OC cal;
+    class HC,HD,G,LS,OC cal;
     class T1,U,T2,T3,T4 main;
     class B0 follow;
     class US,S robust;
@@ -185,7 +191,7 @@ submission, repair, rescue, local cache, and one-off operational scripts.
 
 ## Results By Paper Claim
 
-### Calibration And Preflight
+### Calibration
 
 Location:
 
@@ -195,31 +201,21 @@ results/calibration/
 
 Key files:
 
-- `pilot_selection_summary.csv`
-- `pilot_eval_summary.csv`
-- `pilot_hypothesis_summary.csv`
-- `pilot_primary_metric_detail.csv`
-- `pilot_t4_serialization_stats.csv`
+- `calibration_2025_selection_summary.csv`
+- `calibration_2025_selected_events.csv`
+- `calibration_2025_provider_metric_summary.csv`
+- `calibration_2025_profile_stochasticity_summary.csv`
 
-The calibration layer records how the main execution was gated before provider
-spend. The released calibration subset focuses on the 2026 pilot slice summary
-and the official-run preflight checks because those are directly tied to the
-final 94-event main run. The 2026 pilot slice contains 12 events, balanced 6
-large-cap / 6 small-mid-cap. These artifacts were used to check treatment
-construction, source-ID grounding, outcome blindness, provider plumbing, and
-metric behavior before the 94-event main run. The full pilot selection audit is
-not included here because it contains evaluation-only outcome joins. The
-outcome-blindness gate produced zero findings, so the empty finding table is
-not included as a standalone release file.
+The 2025 near-cutoff calibration set, originally referred to in some
+internal files as a holdout set, contains 12 events from 2025-11-01 to
+2025-12-31, balanced 6 large-cap / 6 small-mid-cap. Following the paper, it is
+used for pipeline validation and profile-separability checks. It is not part of
+the 94-event 2026+ main sample and is excluded from all primary estimates.
 
-A separate 2025 calibration pass was used internally while developing the
-pipeline, but it is not included in this curated release subset because it is
-not a main-result artifact and would distract from the final execution path.
-Internal pilot/preflight working notes are also not included in this release;
-the release keeps only compact readout artifacts and the top-level artifact map.
-
-These are design and QA artifacts. They should be used to understand why the
-main run was considered ready, not as the paper's main confirmatory estimates.
+The full 2025 calibration working directories contain provider outputs, hidden
+outcome joins, and local operational paths. The release keeps compact CSV
+readouts and selected-event metadata with internal paths omitted. These are
+design and QA artifacts, not confirmatory main-result estimates.
 
 ### Main Results: T1/T2/T3 Evidence-to-Action Bottleneck
 
