@@ -8,7 +8,7 @@ reproducibility metadata/code references used to study source-framing propagatio
 LLM-agent decision workflows. The project introduces an evidence-to-action
 propagation (E2A) evaluation: given public earnings-event source material, it
 traces how different evidence representations affect what LLM receivers cite,
-reason from, believe, and decide.
+reason from, believe, and do.
 
 The full operational workspace contains provider runs, repair attempts, batch
 status directories, local caches, and intermediate scratch files. Those are not
