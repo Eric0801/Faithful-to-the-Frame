@@ -63,7 +63,9 @@ flowchart LR
     subgraph M["Evaluation and release tables"]
         direction TB
         VALID["Validation and human audit<br/>schema, source IDs, evidence and representation checks"]
-        METRICS["Metric computation<br/>evidence, rationale, belief, action, quality"]
+        EVIDENCE_METRICS["Evidence and rationale metrics<br/>source use, category diversity, reasoning diversity"]
+        DECISION_METRICS["Belief and action metrics<br/>forecast dispersion, confidence, buy/hold/sell choices"]
+        QUALITY_METRICS["Quality guardrails<br/>directional accuracy, return error, outcome alignment"]
         OUTCOMES["Hidden outcomes<br/>CAR_1_5 evaluation only"]
         TABLES["Curated CSV result tables<br/>results/"]
     end
@@ -89,10 +91,14 @@ flowchart LR
     RBT --> RECEIVERS
 
     RECEIVERS --> VALID
-    RECEIVERS --> METRICS
-    OUTCOMES -. "evaluation join only" .-> METRICS
+    RECEIVERS --> EVIDENCE_METRICS
+    RECEIVERS --> DECISION_METRICS
+    RECEIVERS --> QUALITY_METRICS
+    OUTCOMES -. "evaluation join only" .-> QUALITY_METRICS
     VALID --> TABLES
-    METRICS --> TABLES
+    EVIDENCE_METRICS --> TABLES
+    DECISION_METRICS --> TABLES
+    QUALITY_METRICS --> TABLES
 
     classDef source fill:#edf2f7,stroke:#4a5568,color:#1a202c;
     classDef evidence fill:#e6fffa,stroke:#2c7a7b,color:#1a202c;
@@ -103,7 +109,7 @@ flowchart LR
     class PACKETS,BANKS,LEAKAGE evidence;
     class T1,U,T2,T3,T4,B0,RBT regime;
     class RECEIVERS downstream;
-    class VALID,METRICS,OUTCOMES,TABLES eval;
+    class VALID,EVIDENCE_METRICS,DECISION_METRICS,QUALITY_METRICS,OUTCOMES,TABLES eval;
 ```
 
 ## Dataset
