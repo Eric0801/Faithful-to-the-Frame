@@ -193,6 +193,25 @@ computation. `data/model_facing/main_94/` contains the released outcome-blind
 model-facing inputs. `data/evaluation_only/` contains the CAR_1_5 outcome file
 used only during metric computation.
 
+## Result Tables At A Glance
+
+The released result tables are ordinary CSV files under `results/`. The full
+index is `results/result_table_manifest.csv`, which lists each table's row
+count, checksum, role, and paper-claim mapping.
+
+| Paper component | Primary table(s) |
+| --- | --- |
+| T1/T2/T3 main results | `results/main/stage2_t2_t3_primary_full.csv` |
+| Main quality guardrails | `results/main/stage2_quality_by_treatment_full.csv` |
+| Upstream representation compression | `results/main/stage1_summary_full.csv` |
+| Model-cell breakdown | `results/main/stage2_by_model_cell_full.csv` |
+| T4 structured-ledger mechanism condition | `results/t4_followup/t4_full_treatment_means.csv`; `results/t4_followup/t4_full_event_bootstrap_contrasts.csv`; `results/t4_followup/quality_by_treatment_with_t4.csv` |
+| B0 canonical-evidence follow-up | `results/b0_followup/b0_treatment_contrasts_20260510.csv`; `results/b0_followup/b0_downstream_treatment_means_20260510.csv`; `results/b0_followup/b0_by_receiver_model_20260510.csv` |
+| T2*/T3* prompt-sensitivity robustness | `results/prompt_sensitivity/treatment_means_t2star_t3star.csv`; `results/prompt_sensitivity/t2_t3_prompt_style_side_by_side.csv`; `results/prompt_sensitivity/action_distribution_no_style_minus_neutral_deltas.csv` |
+| Appendix diagnostics | `results/appendix_diagnostics/belief_mad_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/category_diversity_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/profile_separability_formal_event_bootstrap.csv`; `results/appendix_diagnostics/reasoning_contrasts.csv` |
+| Human audit | `results/human_audit/audit_protocol.csv`; `results/human_audit/canonical_evidence_audit_sheet.csv`; `results/human_audit/cross_treatment_representation_audit_sheet.csv` |
+| 2025 calibration | `results/calibration/calibration_2025_selection_summary.csv`; `results/calibration/calibration_2025_selected_events.csv`; `results/calibration/calibration_2025_provider_metric_summary.csv`; `results/calibration/calibration_2025_profile_stochasticity_summary.csv` |
+
 To run a credential-free capped mock execution from the release root:
 
 ```bash
