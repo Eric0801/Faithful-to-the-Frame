@@ -8,55 +8,68 @@ analysis notebooks are excluded.
 The code here documents the algorithmic surfaces needed to interpret the paper
 artifacts:
 
+- `scripts/run_experiment.py`: end-to-end runner from source/evidence inputs to
+  treatments, upstream summaries, downstream decisions, and metrics.
 - `scripts/treatments.py`: deterministic treatment rendering and prompt-job
   construction for T1, T2, T3, T4, and B0.
 - `scripts/downstream_decisions.py`: downstream receiver prompt construction
   and deterministic normalization of model decision JSON into decision rows.
 - `scripts/metrics.py`: evidence-to-action metric computation from validated
   downstream decision rows.
-- `scripts/build_result_manifest.py`: recomputes released-table row counts and
-  SHA-256 checksums from the public `results/` directory.
-- `schemas/release_schema.json`: compact field contracts for release
+- `schemas/experiment_schema.json`: compact field contracts for experiment
   manifests, source packets, evidence banks, downstream requests, downstream
   decision rows, and hidden-outcome joins.
 
 The released CSV tables under `../results/` remain the canonical paper
 artifacts. These scripts are the compact reference path for how the treatment,
-downstream decision, metric, and result-manifest layers are defined.
+downstream decision, and metric layers are defined.
 
-## Reproduction Path
+## Setup
+
+```bash
+python3 -m venv .venv
+. .venv/bin/activate
+pip install -r code/requirements.txt
+```
+
+For API-backed execution, set an API key and edit `code/config.example.json`:
+
+```bash
+cp code/env.example .env
+export OPENAI_API_KEY=replace_with_your_api_key
+```
+
+The config exposes `api_base_url`, `api_key_env`, `model`,
+`upstream_model_family`, and `downstream_model_families`, so reviewers can swap
+providers or model names without editing code.
+
+## Run The Pipeline
 
 From the release root:
 
 ```bash
-python3 code/scripts/treatments.py render \
-  --source-packets-dir code/examples/source_packets \
-  --evidence-banks-dir code/examples/evidence_banks \
-  --output-dir /tmp/e2a_treatments_smoke \
-  --treatments T1,T2,T3,T4,B0 \
+python3 code/scripts/run_experiment.py \
+  --config code/config.example.json \
+  --work-dir runs/demo \
+  --mode mock \
   --overwrite
-
-python3 code/scripts/downstream_decisions.py build-requests \
-  --rendered-treatments-dir /tmp/e2a_treatments_smoke \
-  --output-path /tmp/e2a_downstream_requests.jsonl \
-  --model-families demo_model \
-  --profiles retail_day_trader \
-  --decision-seeds 1
-
-python3 code/scripts/downstream_decisions.py normalize-outputs \
-  --provider-outputs-jsonl code/examples/provider_outputs_demo.jsonl \
-  --output-csv /tmp/e2a_decision_rows.csv \
-  --strict
-
-python3 code/scripts/metrics.py \
-  /tmp/e2a_decision_rows.csv \
-  --hidden-outcomes-csv code/examples/evaluation_outcomes_demo.csv \
-  --output-dir /tmp/e2a_metrics_smoke
 ```
 
-The demo fixture is intentionally tiny; it exercises the code paths without
-claiming to reproduce the released paper estimates. The released CSV tables
-under `../results/` are the paper-facing outputs.
+To use an OpenAI-compatible endpoint instead of mock mode:
+
+```bash
+export OPENAI_API_KEY=replace_with_your_api_key
+python3 code/scripts/run_experiment.py \
+  --config code/config.example.json \
+  --work-dir runs/provider_demo \
+  --mode openai_compatible \
+  --overwrite
+```
+
+The example inputs are intentionally tiny; they exercise the full code path
+without claiming to reproduce the released paper estimates. To run a larger
+replication, edit `inputs.source_packets_dir`, `inputs.evidence_banks_dir`,
+model settings, seeds, and profile/model axes in `code/config.example.json`.
 
 ## Treatment Reference
 
@@ -125,12 +138,3 @@ python3 code/scripts/metrics.py \
 
 Hidden outcomes are joined only inside metric computation. They are not used by
 the treatment renderer or prompt-job construction.
-
-## Result Manifest
-
-The released result tables include row counts and SHA-256 checksums. To check
-that the public CSV files match the manifest:
-
-```bash
-python3 code/scripts/build_result_manifest.py --results-root results --check
-```

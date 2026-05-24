@@ -1,0 +1,60 @@
+{
+  "source_packet_minimum": {
+    "required_fields": ["event_id"],
+    "optional_fields_used_by_renderer": [
+      "company_name",
+      "ticker",
+      "event_date",
+      "sector",
+      "market_cap_group",
+      "fiscal_period",
+      "source_units",
+      "xbrl_facts",
+      "pre_event_price_context"
+    ]
+  },
+  "canonical_evidence_bank_minimum": {
+    "required_fields": ["event_id", "evidence_units"],
+    "evidence_unit_fields": [
+      "evidence_id",
+      "category",
+      "claim",
+      "value",
+      "source_ids",
+      "source_quote",
+      "support_label"
+    ]
+  },
+  "downstream_request_minimum": {
+    "required_fields": [
+      "request_key",
+      "event_id",
+      "treatment",
+      "treatment_family",
+      "upstream_model_family",
+      "profile",
+      "profile_group",
+      "model_family",
+      "representation_seed",
+      "decision_seed",
+      "prompt"
+    ]
+  },
+  "decision_rows_minimum": {
+    "required_for_metrics": [
+      "event_id",
+      "treatment_family",
+      "expected_return_5d",
+      "confidence",
+      "action",
+      "evidence_used",
+      "evidence_categories"
+    ],
+    "optional_for_metrics": ["rationale", "reasoning", "key_reasons"],
+    "allowed_actions": ["buy", "hold", "sell"]
+  },
+  "hidden_outcomes_minimum": {
+    "required_columns": ["event_id", "CAR_1_5"],
+    "description": "Evaluation-only outcome contract joined only inside metric computation."
+  }
+}

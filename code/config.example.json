@@ -1,0 +1,37 @@
+{
+  "mode": "mock",
+  "inputs": {
+    "source_packets_dir": "code/examples/source_packets",
+    "evidence_banks_dir": "code/examples/evidence_banks",
+    "hidden_outcomes_csv": "code/examples/evaluation_outcomes_demo.csv"
+  },
+  "experiment": {
+    "treatments": ["T1", "T2", "T3", "T4", "B0"],
+    "profiles": [
+      "retail_day_trader",
+      "retail_swing_trader",
+      "retail_long_term_fundamental",
+      "institutional_event_driven_hedge_fund",
+      "institutional_prop_trader",
+      "institutional_investment_advisor"
+    ],
+    "representation_seeds": [1],
+    "decision_seeds": [1]
+  },
+  "provider": {
+    "api_base_url": "https://api.openai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "model": "gpt-5.2",
+    "upstream_model_family": "gpt-5.2",
+    "downstream_model_families": ["gpt-5.2"],
+    "temperature": 0.0,
+    "max_tokens": 700,
+    "timeout_seconds": 60,
+    "max_retries": 2,
+    "retry_backoff_seconds": 2.0
+  },
+  "limits": {
+    "max_upstream_jobs": null,
+    "max_downstream_jobs": null
+  }
+}

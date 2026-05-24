@@ -146,12 +146,15 @@ release/
   README.md
   code/
     README.md
+    requirements.txt
+    config.example.json
+    env.example
     code_manifest.csv
     schemas/
-      release_schema.json
+      experiment_schema.json
     examples/
     scripts/
-      build_result_manifest.py
+      run_experiment.py
       downstream_decisions.py
       treatments.py
       metrics.py
@@ -169,11 +172,14 @@ release/
 `results/result_table_manifest.csv` lists every released table, row count,
 SHA-256 checksum, table role, and paper-claim mapping.
 
-`code/` contains a compact public reproducibility layer for treatment
-rendering, downstream decision-request construction, decision-output
-normalization, metric computation, result-manifest checking, schema reference,
-and smoke-test fixtures. It intentionally excludes provider batch submission,
-repair, rescue, local cache, and one-off operational scripts.
+`code/` contains a compact public reproducibility layer for running the
+experiment path: treatment rendering, upstream-summary execution, downstream
+decision-request construction, decision-output normalization, metric
+computation, schema reference, and smoke-test fixtures. Reviewers can run the
+included demo in mock mode without credentials, or switch `code/config.example.json`
+to an OpenAI-compatible endpoint by setting an API key environment variable.
+It intentionally excludes provider batch submission, repair, rescue, local
+cache, and one-off operational scripts.
 
 ## Results By Paper Claim
 
