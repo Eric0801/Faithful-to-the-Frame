@@ -1,0 +1,11 @@
+section,group,audited_claims,no_hallucination_count,no_hallucination_rate,minor_unsupported_detail_count,material_unsupported_claim_count,material_unsupported_claim_rate,post_event_leakage_count,post_event_leakage_rate,supported_count,partial_support_count,unsupported_count,not_applicable_count,supported_or_not_applicable_rate
+overall,all,961,903,0.939646,40,17,0.017690,1,0.001041,902,40,18,1,0.939646
+by_treatment_family,B0,194,174,0.896907,13,7,0.036082,0,0.000000,174,13,7,0,0.896907
+by_treatment_family,T1,194,183,0.943299,8,3,0.015464,0,0.000000,183,8,3,0,0.943299
+by_treatment_family,T2,185,173,0.935135,8,4,0.021622,0,0.000000,172,8,4,1,0.935135
+by_treatment_family,T3,186,179,0.962366,4,3,0.016129,0,0.000000,179,4,3,0,0.962366
+by_treatment_family,T4,202,194,0.960396,7,0,0.000000,1,0.004950,194,7,1,0,0.960396
+by_model_family,claude-sonnet-4.5,264,244,0.924242,13,7,0.026515,0,0.000000,244,13,7,0,0.924242
+by_model_family,deepseek-v3.1,199,177,0.889447,16,5,0.025126,1,0.005025,177,16,6,0,0.889447
+by_model_family,gpt-5.2,255,253,0.992157,2,0,0.000000,0,0.000000,253,2,0,0,0.992157
+by_model_family,qwen3-235b-a22b,243,229,0.942387,9,5,0.020576,0,0.000000,228,9,5,1,0.942387

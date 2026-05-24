@@ -327,7 +327,7 @@ Key files:
 
 - `audit_protocol.csv`
 - `canonical_evidence_audit_summary.csv`
-- `second_pass_summary.csv`
+- `downstream_claim_grounding_summary.csv`
 - `second_pass_material_or_leakage_rows.csv`
 
 The released human-audit subset has three parts:
@@ -337,15 +337,16 @@ The released human-audit subset has three parts:
 2. aggregate canonical evidence validity counts over evidence alignment,
    numeric fidelity, claim fidelity, quote fidelity, category fit,
    support-label fit, and post-event leakage;
-3. aggregate downstream claim-grounding counts and the small subset of
-   material unsupported or post-event-leakage rows.
+3. aggregate downstream claim-grounding counts by overall, treatment family,
+   and model family, plus the small subset of material unsupported or
+   post-event-leakage rows.
 
 The full row-level human-audit sheets are not included in this curated
 release subset. They contain large rendered source excerpts and
 row-level adjudication details that are useful for local reproducibility but
-unnecessary for the clean review surface. This release keeps aggregate
-summaries and the material-failure subset needed to evaluate the paper's
-construct-validity claims.
+unnecessary for the clean review surface. This release keeps reviewer-readable
+aggregate summaries and a compact material-failure subset needed to evaluate
+the paper's construct-validity claims.
 
 The downstream audit checks whether free-form decision rationales are grounded
 in visible source evidence and whether they contain unsupported factual claims

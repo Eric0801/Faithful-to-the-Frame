@@ -1,7 +1,4 @@
-audit,section,description
-canonical_evidence_audit,scope,"Human-completed audit of canonical evidence alignment, numeric fidelity, claim fidelity, quote fidelity, category fit, support-label fit, and post-event leakage."
-canonical_evidence_audit,released_detail,Curated release includes aggregate counts only; full row-level audit sheet is retained locally for post-review archival release.
-downstream_claim_grounding_audit,scope,"Second-pass adjudication of free-form downstream rationale claims for source grounding, unsupported factual claims, and post-event leakage."
-downstream_claim_grounding_audit,labels,"Primary hallucination labels are no_hallucination, minor_unsupported_detail, material_unsupported_claim, and post_event_leakage."
-downstream_claim_grounding_audit,released_detail,Curated release includes aggregate summary and the material-unsupported/post-event-leakage subset; full row-level adjudication sheet is retained locally.
-all_human_audits,inter_annotator_reliability,No Cohen's kappa or inter-annotator agreement is claimed in this release.
+audit_stage,unit_of_review,sample_size,checks_or_labels,released_file,release_level,notes
+canonical_evidence_audit,canonical evidence unit,62,source_alignment; numeric_fidelity; claim_fidelity; quote_fidelity; category_fit; support_label_fit; no_post_event_leakage; overall,canonical_evidence_audit_summary.csv,aggregate counts only,Full row-level audit sheet is retained locally; release table summarizes human-completed validity checks.
+downstream_claim_grounding_audit,free-form downstream rationale claim,961,no_hallucination; minor_unsupported_detail; material_unsupported_claim; post_event_leakage; source support label,downstream_claim_grounding_summary.csv; second_pass_material_or_leakage_rows.csv,aggregate counts plus material/leakage flagged subset,Full row-level adjudication sheet is retained locally; released flagged rows omit long cited-source excerpts.
+inter_annotator_agreement,not claimed,not applicable,not applicable,audit_protocol.csv,protocol caveat,No Cohen's kappa or inter-annotator agreement claim is made in this release.
