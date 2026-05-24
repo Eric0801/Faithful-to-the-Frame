@@ -8,7 +8,7 @@ reproducibility metadata/code references used to study source-framing propagatio
 LLM-agent decision workflows. The project introduces an evidence-to-action
 propagation (E2A) evaluation: given public earnings-event source material, it
 traces how different evidence representations affect what LLM receivers cite,
-reason from, believe, and do.
+reason from, believe, and decide.
 
 The full operational workspace contains provider runs, repair attempts, batch
 status directories, local caches, and intermediate scratch files. Those are not
@@ -35,65 +35,65 @@ The core pipeline is:
 
 ```mermaid
 flowchart TD
-    subgraph Data["<b>Step 1. Dataset Construction</b>"]
-        A["<b>Public earnings-event sources</b><br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"] --> B["<b>Main-sample screening</b><br/>94 post-cutoff events, 47 large-cap / 47 small-mid"]
+    subgraph Data["**Step 1. Dataset Construction**"]
+        A["**Public earnings-event sources**<br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"] --> B["**Main-sample screening**<br/>94 post-cutoff events, 47 large-cap / 47 small-mid"]
     end
 
-    subgraph Cal["<b>Step 2. Calibration</b>"]
-        A --> HC["<b>November-December 2025 calibration set</b><br/>12 events, 6 large / 6 small-mid"]
-        HC --> HD["<b>Pipeline validation</b><br/>profile separability, parsing, provider, metrics"]
+    subgraph Cal["**Step 2. Calibration**"]
+        A --> HC["**November-December 2025 calibration set**<br/>12 events, 6 large / 6 small-mid"]
+        HC --> HD["**Pipeline validation**<br/>profile separability, parsing, provider, metrics"]
     end
 
-    subgraph MainBuild["<b>Step 3. Main-Sample Construction and Blindness</b>"]
-        HD --> G["<b>Proceed to main sample</b><br/>calibration set excluded from primary estimates"]
+    subgraph MainBuild["**Step 3. Main-Sample Construction and Blindness**"]
+        HD --> G["**Proceed to main sample**<br/>calibration set excluded from primary estimates"]
         B --> G
-        G --> C["<b>Source packets</b><br/>entity-visible, outcome-blind event-time evidence"]
-        C --> D["<b>Canonical evidence banks</b><br/>claims, categories, values, attribution, source IDs"]
-        D --> LS["<b>Leakage controls</b><br/>source-ID validation, bank consistency, outcome-blindness audits, model-family memory probes"]
+        G --> C["**Source packets**<br/>entity-visible, outcome-blind event-time evidence"]
+        C --> D["**Canonical evidence banks**<br/>claims, categories, values, attribution, source IDs"]
+        D --> LS["**Leakage controls**<br/>source-ID validation, bank consistency, outcome-blindness audits, model-family memory probes"]
     end
 
-    subgraph Main["<b>Step 4. Treatment Construction</b>"]
-        LS --> T1["<b>T1 raw disclosure</b><br/>source-elicited baseline before synthesis"]
-        LS --> U["<b>Upstream LLM summaries</b><br/>neutral analyst framing"]
-        U --> T2["<b>T2 shared summary</b><br/>one summary per event"]
-        U --> T3["<b>T3 independent summaries</b><br/>six role-conditioned summaries per event"]
-        LS --> T4["<b>T4 structured evidence ledger</b><br/>no-synthesis format anchor"]
+    subgraph Main["**Step 4. Treatment Construction**"]
+        LS --> T1["**T1 raw disclosure**<br/>source-elicited baseline before synthesis"]
+        LS --> U["**Upstream LLM summaries**<br/>neutral analyst framing"]
+        U --> T2["**T2 shared summary**<br/>one summary per event"]
+        U --> T3["**T3 independent summaries**<br/>six role-conditioned summaries per event"]
+        LS --> T4["**T4 structured evidence ledger**<br/>no-synthesis format anchor"]
     end
 
-    subgraph Follow["<b>Step 5. Follow-Up Conditions</b>"]
-        LS --> B0["<b>B0 canonical evidence-only</b><br/>source-faithful no-synthesis baseline"]
+    subgraph Follow["**Step 5. Follow-Up Conditions**"]
+        LS --> B0["**B0 canonical evidence-only**<br/>source-faithful no-synthesis baseline"]
     end
 
-    subgraph Robust["<b>Step 6. Robustness Variant</b>"]
-        LS --> US["<b>Upstream LLM summaries</b><br/>no neutral-analyst framing"]
-        US --> S["<b>T2* / T3*</b><br/>upstream-summary robustness variant"]
+    subgraph Robust["**Step 6. Robustness Variant**"]
+        LS --> US["**Upstream LLM summaries**<br/>no neutral-analyst framing"]
+        US --> S["**T2\* / T3\***<br/>upstream-summary robustness variant"]
     end
 
-    T1 --> R["<b>Step 7. Shared downstream stage</b><br/>same role-conditioned receivers and decision schema"]
+    T1 --> R["**Step 7. Shared downstream stage**<br/>same role-conditioned receivers and decision schema"]
     T2 --> R
     T3 --> R
     T4 --> R
     B0 --> R
     S --> R
 
-    subgraph Readout["<b>Step 8. Evaluation Readout</b>"]
+    subgraph Readout["**Step 8. Evaluation Readout**"]
         direction LR
-        H["<b>Hidden outcomes</b><br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M["<b>Metric computation</b><br/>evidence, rationale, belief, action, quality"]
-        V["<b>Validation and human audit</b><br/>schema, source IDs, evidence and representation checks"]
+        H["**Hidden outcomes**<br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M["**Metric computation**<br/>evidence, rationale, belief, action, quality"]
+        V["**Validation and human audit**<br/>schema, source IDs, evidence and representation checks"]
     end
 
     R --> M
     R --> V
-    M --> O["<b>Curated result tables</b><br/>release/results/"]
+    M --> O["**Curated result tables**<br/>release/results/"]
     V --> O
 
-    O --> OM["<b>main/</b><br/>T1/T2/T3 primary claims"]
-    O --> OC["<b>calibration/</b><br/>2025 calibration set"]
-    O --> OB["<b>b0_followup/</b><br/>canonical evidence baseline"]
-    O --> OT["<b>t4_followup/</b><br/>structured ledger main condition"]
-    O --> OS["<b>prompt_sensitivity/</b><br/>neutral-analyst ablation"]
-    O --> OA["<b>appendix_diagnostics/</b><br/>formal auxiliary checks"]
-    O --> OH["<b>human_audit/</b><br/>evidence and representation validation"]
+    O --> OM["**main/**<br/>T1/T2/T3 primary claims"]
+    O --> OC["**calibration/**<br/>2025 calibration set"]
+    O --> OB["**b0_followup/**<br/>canonical evidence baseline"]
+    O --> OT["**t4_followup/**<br/>structured ledger main condition"]
+    O --> OS["**prompt_sensitivity/**<br/>neutral-analyst ablation"]
+    O --> OA["**appendix_diagnostics/**<br/>formal auxiliary checks"]
+    O --> OH["**human_audit/**<br/>evidence and representation validation"]
 
     classDef data fill:#edf2f7,stroke:#4a5568,color:#1a202c;
     classDef cal fill:#ecfdf5,stroke:#047857,color:#1a202c;
