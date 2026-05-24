@@ -1,0 +1,633 @@
+{
+  "event_id": "evt_0059",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ICU MEDICAL INC/DE",
+  "ticker": "ICUI",
+  "company_alias": "ICU MEDICAL INC/DE",
+  "masked_company": "Company CC",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-19",
+  "accepted_at_et": "2026-02-19T11:08:27-05:00",
+  "source_packet_path": "source_packets/evt_0059.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "SAN CLEMENTE, Calif., 2026-02-19T11:08:27-05:00 (GLOBE NEWSWIRE) -- ICU MEDICAL INC/DE.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "SAN CLEMENTE, Calif., 2026-02-19T11:08:27-05:00 (GLOBE NEWSWIRE) -- ICU MEDICAL INC/DE. (Nasdaq:ICUI), a leader in the development, manufacture and sale of innovative medical products, today announced financial results for the quarterly period ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "Fourth quarter 2025 revenue was $540.7 million, as compared to $629.8 million in the same period in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Fourth quarter 2025 revenue was $540.7 million, as compared to $629.8 million in the same period in the prior year. GAAP gross profit for the fourth quarter of 2025 was $203.0 million, as compared to $227.3 million in the same period in the prior year. GAAP gross margin for th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted EBITDA and adjusted diluted earnings per share are measures calculated and presented on the basis of methodologies other than in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Adjusted EBITDA and adjusted diluted earnings per share are measures calculated and presented on the basis of methodologies other than in accordance with GAAP. Please refer to the Use of Non-GAAP Financial Information following the financial statements herein for further discu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "Vivek Jain, ICU Medical\u2019s Chief Executive Officer, said, \u201cFourth quarter results were generally in line with our expectations.\"",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Vivek Jain, ICU Medical\u2019s Chief Executive Officer, said, \u201cFourth quarter results were generally in line with our expectations.\"",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "Three months ended December 31, Twelve months ended December 31, Product Line 2025 2024 $ Change 2025 2024 $ Change Consumables $ 284.7 $ 268.1 $ 16.6 $ 1,109.2 $ 1,038.9 $ 70.3 Infusion Systems 176.3 171.7 4.6 684.2 652.4 31.8 Vital Care* 79.7 190.0 (110.3) 437.9 690.7 (252.8) Total** $ 540.7 $ 629.8 $ (89.1) $ 2,231.3 $ 2,382.0 $ (150.7)",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Three months ended December 31, Twelve months ended December 31, Product Line 2025 2024 $ Change 2025 2024 $ Change Consumables $ 284.7 $ 268.1 $ 16.6 $ 1,109.2 $ 1,038.9 $ 70.3 Infusion Systems 176.3 171.7 4.6 684.2 652.4 31.8 Vital Care* 79.7 190.0 (110.3) 437.9 690.7 (252.8...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "*On May 1, 2025, we disposed of our IV Solutions business which was included within our Vital Care product line.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "*On May 1, 2025, we disposed of our IV Solutions business which was included within our Vital Care product line. Vital Care includes contract manufacturing revenue of $4.8 million and $19.0 million for the three and twelve months ended December 31, 2025, respectively, as compa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "** Totals may differ from the income statement due to the rounding of product lines.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "** Totals may differ from the income statement due to the rounding of product lines.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "For fiscal year 2026 the Company estimates GAAP net income to be in the range of $26 million to $44 million and GAAP net earnings per share estimated to be in the range of $1.03 to $1.74.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "For fiscal year 2026 the Company estimates GAAP net income to be in the range of $26 million to $44 million and GAAP net earnings per share estimated to be in the range of $1.03 to $1.74.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "For the fiscal year 2026, the Company expects adjusted EBITDA to be in the range of $400 million to $430 million, and adjusted EPS to be in the range of $7.75 to $8.45.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "For the fiscal year 2026, the Company expects adjusted EBITDA to be in the range of $400 million to $430 million, and adjusted EPS to be in the range of $7.75 to $8.45.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "ICU Medical (Nasdaq:ICUI) is a global leader in infusion systems, infusion consumables and high-value critical care products used in hospital, alternate site and home care settings.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "ICU Medical (Nasdaq:ICUI) is a global leader in infusion systems, infusion consumables and high-value critical care products used in hospital, alternate site and home care settings. Our team is focused on providing quality, innovation and value to our clinical customers worldw...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "costs_or_expenses",
+      "claim": "December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 307,963 $ 308,566 Accounts receivable, net of allowance for doubtful accounts 180,515 182,828 Inventories 615,859 584,676 Prepaid expenses and other current assets 86,217 81,531 Assets held for sale \u2014 284,382 TOTAL CURRENT ASSETS 1,190,554 1,441,983 PROPERTY, PLANT AND EQUIPMENT, net 451,817 442,746 OPERATING LEASE RIGHT-OF-USE ASSETS 54,470 53,295 GOODWILL 1,499,754 1,432,772 INTANGIBLE ASSETS, net 633,559 740,789 DEFERRED INCOME TAXES 25,891 24,211 OTHER ASSETS 62,877 65,097 INVESTMENTS IN UNCONSOLIDATED AFFILIATES 131,586 3,038 TOTAL ASSETS $ 4,050,508 $ 4,203,931 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY CURRENT LIABILITIES: Accounts payable $ 154,374 $ 148,020 Accrued liabilities 315,337 306,923 Current portion of long-term debt 18,750 51,000 Income tax payable 10,400 17,328 Liabilities held for sale \u2014 32,911 TOTAL CURRENT LIABILITIES 498,861 556,182 LONG-TERM DEBT 1,265,917 1,531,858 OTHER LONG-TERM LIABILITIES 89,536 66,745 DEFERRED INCOME TAXES 37,756 48,814 INCOME TAX LIABILITY 34,613 35,097 COMMITMENTS AND CONTINGENCIES STOCKHOLDERS\u2019 EQUITY: Convertible preferred stock, $1.00 par value; Authorized \u2014 500 shares; Issued and outstanding \u2014 none \u2014 \u2014 Common stock, $0.10 par value; Authorized \u2014 80,000 shares; Issued \u201424,688 and 24,518 shares at December 31, 2025 and December 31, 2024, respectively, and outstanding \u2014 24,688 and 24,517 shares at December 31, 2025 and December 31, 2024, respectively 2,469 2,452 Additional paid-in capital 1,465,118 1,412,118 Treasury stock, at cost (22) (92) Retained earnings 690,890 690,158 Accumulated other comprehensive loss (34,630) (139,401) TOTAL STOCKHOLDERS' EQUITY 2,123,825 1,965,235 TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY $ 4,050,508 $ 4,203,931",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 307,963 $ 308,566 Accounts receivable, net of allowance for doubtful accounts 180,515 182,828 Inventories 615,859 584,676 Prepaid expenses and other current assets 86,217 81,531 Assets held...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Common stock, $0.10 par value; Authorized \u2014 80,000 shares; Issued \u201424,688 and 24,518 shares at December 31, 2025 and December 31, 2024, respectively, and outstanding \u2014 24,688 and 24,517 shares at December 31, 2025 and December 31, 2024, respectively",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Common stock, $0.10 par value; Authorized \u2014 80,000 shares; Issued \u201424,688 and 24,518 shares at December 31, 2025 and December 31, 2024, respectively, and outstanding \u2014 24,688 and 24,517 shares at December 31, 2025 and December 31, 2024, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Three months ended December 31, Twelve months ended December 31, 2025 2024 2025 2024 TOTAL REVENUES $ 540,704 $ 629,805 $ 2,231,262 $ 2,382,046 COST OF GOODS SOLD 337,719 402,547 1,409,223 1,557,264 GROSS PROFIT 202,985 227,258 822,039 824,782 OPERATING EXPENSES: Selling, general and administrative 155,812 158,849 625,210 638,762 Research and development 21,086 22,355 87,495 88,615 Restructuring, strategic transaction and integration 20,452 9,771 66,505 59,840 Change in fair value of contingent earn-out \u2014 (1,408) \u2014 (5,399) TOTAL OPERATING EXPENSES 197,350 189,567 779,210 781,818 INCOME FROM OPERATIONS 5,635 37,691 42,829 42,964 INTEREST EXPENSE, net (20,643) (23,457) (83,031) (95,753) OTHER EXPENSE, net (894) (6,017) (232) (13,223) GAIN ON SALE OF BUSINESS \u2014 \u2014 44,792 \u2014 (LOSS) INCOME BEFORE INCOME TAXES AND EQUITY IN EARNINGS OF UNCONSOLIDATED AFFILIATES (15,902) 8,217 4,358 (66,012) BENEFIT (PROVISION) FOR INCOME TAXES 2,653 (32,045) (2,437) (51,676) NET (LOSS) INCOME FROM CONSOLIDATED COMPANIES (13,249) (23,828) 1,921 (117,688) EQUITY IN LOSSES OF UNCONSOLIDATED AFFILIATES (2,485) \u2014 (1,189) \u2014 NET (LOSS) INCOME $ (15,734) $ (23,828) $ 732 $ (117,688) NET (LOSS) INCOME PER SHARE Basic $ (0.64) $ (0.97) $ 0.03 $ (4.83) Diluted $ (0.64) $ (0.97) $ 0.03 $ (4.83) WEIGHTED AVERAGE NUMBER OF SHARES Basic 24,687 24,492 24,640 24,388 Diluted 24,687 24,492 24,904 24,388",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Three months ended December 31, Twelve months ended December 31, 2025 2024 2025 2024 TOTAL REVENUES $ 540,704 $ 629,805 $ 2,231,262 $ 2,382,046 COST OF GOODS SOLD 337,719 402,547 1,409,223 1,557,264 GROSS PROFIT 202,985 227,258 822,039 824,782 OPERATING EXPENSES: Selling, gene...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "earnings_or_eps",
+      "claim": "Twelve months ended December 31, 2025 2024 CASH FLOWS FROM OPERATING ACTIVITIES: Net income (loss) $ 732 $ (117,688) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization 200,741 219,512 Noncash lease expense 17,251 21,344 Stock compensation 55,758 46,883 Loss on disposal of property, plant and equipment and other assets 5,900 2,522 Debt issuance costs amortization 6,178 6,807 Change in fair value of contingent earn-out liability \u2014 (5,399) Undistributed equity in earnings of unconsolidated affiliates 1,189 \u2014 Gain on sale of business (44,792) \u2014 Loss on extinguishment of debt 2,463 \u2014 Other 24,471 32,621 Changes in operating assets and liabilities, net of amounts acquired: Accounts receivable 8,876 (46,844) Inventories (26,252) 16,829 Prepaid expenses and other current assets (10,958) (8,829) Other assets (6,982) (23,154) Accounts payable 6,998 12,531 Accrued liabilities (36,967) 20,668 Income taxes, including excess tax benefits and deferred income taxes (24,759) 26,230 Net cash provided by operating activities 179,847 204,033 CASH FLOWS FROM INVESTING ACTIVITIES: Purchases of property, plant and equipment (88,043) (79,373) Proceeds from the sale of business 211,185 \u2014 Proceeds from sale of assets 8,059 746 Intangible asset additions (8,972) (10,833) Proceeds from sale and maturities of investment securities \u2014 500 Net cash provided by (used in) investing activities 122,229 (88,960) CASH FLOWS FROM FINANCING ACTIVITIES: Proceeds from issuance of long-term debt 313 \u2014 Payments of lender debt issuance costs (2,825) \u2014 Principal repayments of long-term debt (302,750) (51,000) Payment of third-party debt issuance costs (1,555) \u2014 Proceeds from exercise of stock options 6,106 10,939 Payments on finance leases (2,048) (1,147) Payments of contingent earn-out liability \u2014 (2,600) Tax withholding payments related to net share settlement of equity awards (8,766) (11,992) Net cash used in financing activities (311,525) (55,800) Effect of exchange rate changes on cash 8,846 (4,929) NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS (603) 54,344 CASH AND CASH EQUIVALENTS, beginning of period 308,566 254,222 CASH AND CASH EQUIVALENTS, end of period $ 307,963 $ 308,566",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Twelve months ended December 31, 2025 2024 CASH FLOWS FROM OPERATING ACTIVITIES: Net income (loss) $ 732 $ (117,688) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization 200,741 219,512 Noncash lease expense 17,251 21,34...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "balance_sheet_or_cash",
+      "claim": "This press release contains financial measures that are not calculated in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "This press release contains financial measures that are not calculated in accordance with U.S. generally accepted accounting principles (\"GAAP\"). The non-GAAP financial measures should be considered supplemental to, and not as a substitute for, or superior to, financial measur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "balance_sheet_or_cash",
+      "claim": "The non-GAAP financial measures as shown in the tables below, exclude special items because they are highly variable or unusual and impact year-over-year comparisons.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "The non-GAAP financial measures as shown in the tables below, exclude special items because they are highly variable or unusual and impact year-over-year comparisons.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Contract manufacturing : We manufacture certain products or product components in accordance with manufacturing services agreements.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Contract manufacturing : We manufacture certain products or product components in accordance with manufacturing services agreements. We do not include the contract revenue in our adjusted revenue, or any gross profit impact in our adjusted gross profit as the commercial relati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "costs_or_expenses",
+      "claim": "Stock compensation expense : Stock-based compensation is generally fixed at the time the stock-based instrument is granted and amortized over a period of several years.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Stock compensation expense : Stock-based compensation is generally fixed at the time the stock-based instrument is granted and amortized over a period of several years. The value of stock options is determined using a complex formula that incorporates factors, such as market v...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "costs_or_expenses",
+      "claim": "Intangible asset amortization expense : We do not acquire businesses or capitalize certain patent costs on a predictable cycle.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Intangible asset amortization expense : We do not acquire businesses or capitalize certain patent costs on a predictable cycle. The amount of purchase price allocated to intangible assets and the term of amortization can vary significantly and are unique to each acquisition. C...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "costs_or_expenses",
+      "claim": "Restructuring, strategic transaction and integration : We incur restructuring and strategic transaction charges that result from events, which arise from unforeseen circumstances and/or often occur outside of the ordinary course of our ongoing business.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Restructuring, strategic transaction and integration : We incur restructuring and strategic transaction charges that result from events, which arise from unforeseen circumstances and/or often occur outside of the ordinary course of our ongoing business. Although these events a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "Settlements : Occasionally, we are involved in contract renegotiations or other events that may result in one-time settlements.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Settlements : Occasionally, we are involved in contract renegotiations or other events that may result in one-time settlements. We exclude these settlements as they have no direct correlation to the operation of our ongoing business.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "costs_or_expenses",
+      "claim": "Change in fair value of contingent earn-out : We exclude the impact of certain amounts recorded in connection with business combinations.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Change in fair value of contingent earn-out : We exclude the impact of certain amounts recorded in connection with business combinations. We exclude items that are either non-cash or not normal, recurring operating expenses due to their nature, variability of amounts, and lack...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "Quality system and product-related remediation : We exclude certain quality system and product-related remediation charges in determining our non-GAAP financial measures as they may limit the comparability of our ongoing operations with prior and future periods and distort the evaluation of our normal operating performance.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Quality system and product-related remediation : We exclude certain quality system and product-related remediation charges in determining our non-GAAP financial measures as they may limit the comparability of our ongoing operations with prior and future periods and distort the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "Asset write-offs and similar charges : Occasionally, we may write-off certain assets or we may sell certain assets.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Asset write-offs and similar charges : Occasionally, we may write-off certain assets or we may sell certain assets. We exclude the non-cash gain/loss on the write-off/sale of these assets in determining our non-GAAP financial measures as they may limit the comparability of our...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "Noncash release of loss on contract provision : We provide certain services under fixed priced arrangements in accordance with a transition services arrangement.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Noncash release of loss on contract provision : We provide certain services under fixed priced arrangements in accordance with a transition services arrangement. We do not include the loss on contract provision or subsequent release net of the related",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "interest accretion as a result of providing those services in our non-GAAP financial measures as the agreement was negotiated contemporaneously with a disposition and is not indicative of a normal market transaction.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "interest accretion as a result of providing those services in our non-GAAP financial measures as the agreement was negotiated contemporaneously with a disposition and is not indicative of a normal market transaction. The loss provision and subsequent release is a non-recurring...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "balance_sheet_or_cash",
+      "claim": "Loss on extinguishment of debt (included in interest, net): We exclude any non-cash loss on extinguishment of debt in determining our non-GAAP financial measures as the inclusion may limit the comparability of our ongoing operations with prior and future periods and distort the evaluation of our normal operating performance.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Loss on extinguishment of debt (included in interest, net): We exclude any non-cash loss on extinguishment of debt in determining our non-GAAP financial measures as the inclusion may limit the comparability of our ongoing operations with prior and future periods and distort th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "balance_sheet_or_cash",
+      "claim": "Debt refinancing-related charges (included in interest, net): We exclude infrequent, event-driven debt refinancing-related charges in determining our non-GAAP financial measures as the inclusion may limit the comparability of our ongoing operations with prior and future periods and distort the evaluation of our normal operating performance.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Debt refinancing-related charges (included in interest, net): We exclude infrequent, event-driven debt refinancing-related charges in determining our non-GAAP financial measures as the inclusion may limit the comparability of our ongoing operations with prior and future period...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "From time to time in the future, there may be other items that we may exclude if we believe that doing so is consistent with the goal of providing useful information to investors and management.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "From time to time in the future, there may be other items that we may exclude if we believe that doing so is consistent with the goal of providing useful information to investors and management.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "Depreciation expense : We exclude depreciation expense in deriving adjusted EBITDA because companies utilize productive assets of different ages and the depreciable lives can vary significantly resulting in considerable variability in depreciation expense among companies.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Depreciation expense : We exclude depreciation expense in deriving adjusted EBITDA because companies utilize productive assets of different ages and the depreciable lives can vary significantly resulting in considerable variability in depreciation expense among companies.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "earnings_or_eps",
+      "claim": "Interest, net : We exclude interest in deriving adjusted EBITDA as interest can vary significantly among companies depending on a company's level of income generating instruments and/or level of debt.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Interest, net : We exclude interest in deriving adjusted EBITDA as interest can vary significantly among companies depending on a company's level of income generating instruments and/or level of debt.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "earnings_or_eps",
+      "claim": "Taxes : We exclude taxes in deriving adjusted EBITDA as taxes are deemed to be non-core to the business and may limit the comparability of our ongoing operations with prior and future periods and distort the evaluation of our normal operating performance.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Taxes : We exclude taxes in deriving adjusted EBITDA as taxes are deemed to be non-core to the business and may limit the comparability of our ongoing operations with prior and future periods and distort the evaluation of our normal operating performance.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted Diluted EPS excludes from diluted EPS, net of tax, the special items listed above.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Adjusted Diluted EPS excludes from diluted EPS, net of tax, the special items listed above. The tax effect on the special items is calculated using the specific tax rate applied to each adjustment based on the nature of the item/or the tax jurisdiction in which the item has be...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "earnings_or_eps",
+      "claim": "We also present Free cash flow as a non-GAAP financial measure as management believes that this is an important measure for use in evaluating overall company financial performance as it measures our ability to generate additional cash flow from business operations.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "We also present Free cash flow as a non-GAAP financial measure as management believes that this is an important measure for use in evaluating overall company financial performance as it measures our ability to generate additional cash flow from business operations. Free cash f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "We also present organic revenue growth as a non-GAAP financial measure as management believes that this measure provides a more representative view of the Company's underlying growth trajectory by excluding the impact of revenue from non-arm's length transactions, the impact of foreign currency and the revenue associated with acquisitions and divestitures.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "We also present organic revenue growth as a non-GAAP financial measure as management believes that this measure provides a more representative view of the Company's underlying growth trajectory by excluding the impact of revenue from non-arm's length transactions, the impact o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Reconciliation of GAAP to Non-GAAP Financial Measures (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Reconciliation of GAAP to Non-GAAP Financial Measures (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted EBITDA Three months ended December 31, 2025 2024 GAAP net loss $ (15,734) $ (23,828) Non-GAAP adjustments: Interest, net (1) 20,643 23,457 Stock compensation expense 13,879 12,517 Depreciation and amortization expense 50,830 52,993 Restructuring, strategic transaction and integration 20,452 9,771 Settlements 125 \u2014 Change in fair value of contingent earn-out \u2014 (1,408) Quality system and product-related charges 10,976 (32) Asset write-offs and similar charges 887 \u2014 Noncash release of loss on contract provision (1,076) \u2014 Gross profit on contract manufacturing (139) \u2014 Provision for income taxes (2,653) 32,045 Total non-GAAP adjustments 113,924 129,343 Adjusted EBITDA $ 98,190 $ 105,515",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Adjusted EBITDA Three months ended December 31, 2025 2024 GAAP net loss $ (15,734) $ (23,828) Non-GAAP adjustments: Interest, net (1) 20,643 23,457 Stock compensation expense 13,879 12,517 Depreciation and amortization expense 50,830 52,993 Restructuring, strategic transaction...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "balance_sheet_or_cash",
+      "claim": "(1) Includes $2.5 million related to a loss on extinguishment of debt and $0.3 million of other debt refinancing-related charges.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "(1) Includes $2.5 million related to a loss on extinguishment of debt and $0.3 million of other debt refinancing-related charges.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "The Company\u2019s U.S.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "The Company\u2019s U.S. GAAP results for the three months ended December 31, 2025 included special items which impacted the U.S. GAAP measures as follows:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "Total revenues Gross profit Selling, general and administrative Research and development Restructuring, strategic transaction and integration Income (loss) from operations Interest expense, net Other expense, net (Loss) income before income taxes and equity in earnings of unconsolidated affiliates Benefit (Provision) for income taxes Net income from consolidated companies Equity in (loss) earnings of unconsolidated affiliated Net (loss) income Diluted earnings (loss) income per share Reported (GAAP) $ 540,704 $ 202,985 $ 155,812 $ 21,086 $ 20,452 $ 5,635 $ (20,643) $ (894) $ (15,902) $ 2,653 $ (13,249) $ (2,485) $ (15,734) $ (0.64) Reported percent of total revenues or (percent of income (loss) before income taxes and equity in earnings of unconsolidated affiliates) 38 % 29 % 4 % 4 % 1 % (4) % \u2014 % (3) % 16.7 % (2) % Contract manufacturing (4,764) (139) \u2014 \u2014 \u2014 (139) \u2014 \u2014 (139) 34 (105) \u2014 (105) \u2014 Stock compensation expense \u2014 1,723 (11,584) (572) \u2014 13,879 \u2014 \u2014 13,879 (3,380) 10,499 \u2014 10,499 0.42 Amortization expense \u2014 1,276 (31,758) \u2014 \u2014 33,034 \u2014 \u2014 33,034 (8,144) 24,890 \u2014 24,890 0.99 Restructuring, strategic transaction and integration \u2014 \u2014 \u2014 \u2014 (20,452) 20,452 \u2014 \u2014 20,452 (5,055) 15,397 \u2014 15,397 0.61 Settlements \u2014 \u2014 (125) \u2014 \u2014 125 \u2014 \u2014 125 (31) 94 \u2014 94 \u2014 Quality system and product-related remediation \u2014 10,976 \u2014 \u2014 \u2014 10,976 \u2014 \u2014 10,976 (2,613) 8,363 \u2014 8,363 0.33 Asset write-offs and similar charges \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 887 887 (217) 670 \u2014 670 0.03 Noncash release of loss on contract provision \u2014 \u2014 1,076 \u2014 \u2014 (1,076) 346 \u2014 (730) 179 (551) \u2014 (551) (0.02) Loss on extinguishment of debt \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 2,463 \u2014 2,463 (603) 1,860 \u2014 1,860 0.07 Debt refinancing-related charges \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 260 \u2014 260 (64) 196 \u2014 196 0.01 Tax expense from valuation allowance* \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 2,539 2,539 \u2014 2,539 0.10 Tax expense from equity in earnings of unconsolidated affiliates \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (609) (609) 609 \u2014 \u2014 Earnings per share impact on net loss due to basic versus diluted weighted average shares \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 0.02 Adjusted (Non-GAAP)** $ 535,940 $ 216,821 $ 113,421 $ 20,514 $ \u2014 $ 82,886 $ (17,574) $ (7) $ 65,305 $ (15,311) $ 49,994 $ (1,876) $ 48,118 $ 1.91 Adjusted percent of total revenues or (percent of income (loss) before income taxes and equity in earnings of unconsolidated affiliates) 40 % 21 % 4 % \u2014 % 15 % (3) % \u2014 % 12 % 23.4 % 9 %",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Total revenues Gross profit Selling, general and administrative Research and development Restructuring, strategic transaction and integration Income (loss) from operations Interest expense, net Other expense, net (Loss) income before income taxes and equity in earnings of unco...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "costs_or_expenses",
+      "claim": "* The Company\u2019s non-GAAP annual effective tax rate is calculated without the tax expense related to the valuation allowance against certain U.S.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "* The Company\u2019s non-GAAP annual effective tax rate is calculated without the tax expense related to the valuation allowance against certain U.S. Federal and State deferred tax assets. The valuation allowance was recorded based on an assessment of available positive and negativ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "** Amounts may not foot due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "** Amounts may not foot due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "Reconciliation of GAAP to Non-GAAP Financial Measures (Unaudited)(continued)",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Reconciliation of GAAP to Non-GAAP Financial Measures (Unaudited)(continued)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "other",
+      "claim": "The Company\u2019s U.S.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "The Company\u2019s U.S. GAAP results for the three months ended December 31, 2024 included special items which impacted the U.S. GAAP measures as follows:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "Total revenues Gross profit Selling, general and administrative Research and development Restructuring, strategic transaction and integration Change in fair value of contingent earn-out (Loss) income from operations (Loss) income before income taxes Provision for income taxes Net (loss) income Diluted (loss) earnings per share Reported (GAAP) $ 629,805 $ 227,258 $ 158,849 $ 22,355 $ 9,771 $ (1,408) $ 37,691 $ 8,217 $ (32,045) $ (23,828) $ (0.97) Reported percent of total revenues (or percent of (loss) income before income taxes for benefit (provision) for income taxes) 36 % 25 % 4 % 2 % \u2014 % 6 % 1 % 390.0 % (4) % Contract manufacturing (8,181) \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 Stock compensation expense \u2014 1,721 (10,090) (706) \u2014 \u2014 12,517 12,517 (3,004) 9,513 0.39 Amortization expense \u2014 1,038 (32,794) \u2014 \u2014 \u2014 33,832 33,832 (8,220) 25,612 1.04 Depreciation expense reduction - assets held for sale classification \u2014 (2,149) \u2014 \u2014 \u2014 \u2014 (2,149) (2,149) 516 (1,633) (0.07) Restructuring, strategic transaction and integration \u2014 \u2014 \u2014 \u2014 (9,771) \u2014 9,771 9,771 (4,745) 5,026 0.20 Change in fair value of contingent earn-out \u2014 \u2014 \u2014 \u2014 \u2014 1,408 (1,408) (1,408) \u2014 (1,408) (0.06) Quality system and product-related remediation \u2014 (32) \u2014 \u2014 \u2014 \u2014 (32) (32) 36 4 \u2014 Tax expense from valuation allowance* \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 38,789 38,789 1.57 Adjusted (Non-GAAP)** $ 621,624 $ 227,836 $ 115,965 $ 21,649 $ \u2014 $ \u2014 $ 90,222 $ 60,748 $ (8,673) $ 52,075 $ 2.11 Adjusted percent of total revenues (or percent of (loss) income before income taxes for benefit (provision) for income taxes) 37 % 19 % 3 % \u2014 % \u2014 % 15 % 10 % 14.3 % 8 %",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Total revenues Gross profit Selling, general and administrative Research and development Restructuring, strategic transaction and integration Change in fair value of contingent earn-out (Loss) income from operations (Loss) income before income taxes Provision for income taxes...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "costs_or_expenses",
+      "claim": "* The Company\u2019s non-GAAP annual effective tax rate is calculated without the tax expense related to the valuation allowance against certain U.S.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "* The Company\u2019s non-GAAP annual effective tax rate is calculated without the tax expense related to the valuation allowance against certain U.S. Federal and State deferred tax assets. The valuation allowance was recorded based on an assessment of available positive and negativ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Reconciliation of GAAP revenue growth to Non-GAAP organic revenue growth: Three months ended December 31, Twelve months ended December 31, 2025 2024 2025 2024 Consumables GAAP revenue $ 284,682 $ 268,139 $ 1,109,130 $ 1,038,869 Consumables GAAP revenue growth 6 % 6 % 7 % 7 % Foreign currency impact (3) (4,152) (6,519) Non-GAAP organic revenue $ 280,530 $ 268,139 $ 1,102,611 $ 1,038,869 Non-GAAP organic revenue growth 5 % 6 % 6 % 7 % Infusion Systems GAAP revenue $ 176,303 $ 171,665 $ 684,208 $ 652,410 Infusion Systems GAAP revenue growth 3 % 4 % 5 % 4 % Foreign currency impact (3) (2,516) (1,319) Non-GAAP organic revenue $ 173,787 $ 171,665 $ 682,889 $ 652,410 Non-GAAP organic revenue growth 1 % 7 % 5 % 7 % Vital Care GAAP revenue $ 79,719 $ 190,001 $ 437,924 $ 690,767 Vital Care GAAP revenue growth (58) % 13 % (37) % 5 % MSA Revenue (1) (4,764) (8,181) (18,963) (46,790) Non-GAAP adjusted revenue 74,955 181,820 418,961 643,977 Non-GAAP adjusted revenue growth (59) % 16 % (35) % 5 % Less: Revenue from divested business (2) \u2014 (103,290) \u2014 (232,343) Foreign currency impact (3) (985) (1,812) Non-GAAP organic revenue $ 73,970 $ 78,530 $ 417,149 $ 411,634 Non-GAAP organic revenue growth (6) % 16 % 1 % 5 % Total GAAP revenue $ 540,704 $ 629,805 $ 2,231,262 $ 2,382,046 Total GAAP revenue growth (14) % 7 % (6) % 5 % MSA Revenue (1) (4,764) (8,181) (18,963) (46,790) Non-GAAP adjusted revenue 535,940 621,624 2,212,299 2,335,256 Non-GAAP adjusted revenue growth (14) % 8 % (5) % 6 % Less: Revenue from divested business (2) \u2014 (103,290) \u2014 (232,343) Foreign currency impact (3) (7,653) (9,650) Non-GAAP organic revenue $ 528,287 $ 518,334 $ 2,202,649 $ 2,102,913 Non-GAAP organic revenue growth 2 % 9 % 5 % 7 %",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Reconciliation of GAAP revenue growth to Non-GAAP organic revenue growth: Three months ended December 31, Twelve months ended December 31, 2025 2024 2025 2024 Consumables GAAP revenue $ 284,682 $ 268,139 $ 1,109,130 $ 1,038,869 Consumables GAAP revenue growth 6 % 6 % 7 % 7 % F...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "revenue",
+      "claim": "(1) We manufacture certain products or product components in accordance with manufacturing services agreements.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "(1) We manufacture certain products or product components in accordance with manufacturing services agreements. We do not include the contract revenue in our adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "revenue as the commercial relationship under these types of agreements are originally negotiated contemporaneously with a business combination or other transactions and",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "revenue as the commercial relationship under these types of agreements are originally negotiated contemporaneously with a business combination or other transactions and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "revenue",
+      "claim": "are not indicative of normal market transactions.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "are not indicative of normal market transactions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "(2) For businesses divested in the current period, non-GAAP organic revenue growth excludes prior period revenue associated with the divested business for the same length",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "(2) For businesses divested in the current period, non-GAAP organic revenue growth excludes prior period revenue associated with the divested business for the same length",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "of time they were not owned by the company in the current year.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "of time they were not owned by the company in the current year. The divested business prior period revenue in this line item does not include MSA revenue, which is excluded on a separate line.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "revenue",
+      "claim": "(3) We exclude the impact of foreign exchange rate changes to show a constant currency comparison of our underlying business performance.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "(3) We exclude the impact of foreign exchange rate changes to show a constant currency comparison of our underlying business performance.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "revenue",
+      "claim": "Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow Three months ended December 31, Twelve months ended December 31, 2025 2024 2025 2024 Net cash provided by operating activities $ 60,599 40,192 $ 179,847 $ 204,033 Purchase of property, plant and equipment (24,646) (24,081) (88,043) (79,373) Proceeds from sale of assets 8,017 51 8,059 746 Free cash flow $ 43,970 $ 16,162 $ 99,863 $ 125,406",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow Three months ended December 31, Twelve months ended December 31, 2025 2024 2025 2024 Net cash provided by operating activities $ 60,599 40,192 $ 179,847 $ 204,033 Purchase of property, plant and equi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "Low End of Guidance High End of Guidance GAAP net income $ 26 $ 44 Non-GAAP adjustments: Interest, net 70 70 Stock compensation expense 40 40 Depreciation and amortization expense 205 205 Restructuring, strategic transaction and integration 35 35 Quality and regulatory initiatives and remediation 23 23 Noncash release of loss on contract provision (4) (4) Gross profit on contract manufacturing (2) (2) Benefit for income taxes 7 19 Total non-GAAP adjustments $ 374 $ 386 Adjusted EBITDA $ 400 $ 430 GAAP earnings per share $ 1.03 $ 1.74 Non-GAAP adjustments: Stock compensation expense 1.58 1.58 Amortization expense 5.26 5.26 Restructuring, strategic transaction and integration 1.38 1.38 Quality and regulatory initiatives and remediation 0.91 0.91 Noncash release of loss on contract provision (0.12) (0.12) Gross profit on contract manufacturing (0.08) (0.08) Estimated income tax impact from adjustments (2.21) (2.22) Adjusted earnings per share $ 7.75 $ 8.45",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Low End of Guidance High End of Guidance GAAP net income $ 26 $ 44 Non-GAAP adjustments: Interest, net 70 70 Stock compensation expense 40 40 Depreciation and amortization expense 205 205 Restructuring, strategic transaction and integration 35 35 Quality and regulatory initiat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.010377, ret_20d=-0.010442, market_ret_20d=0.012855",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.010377, ret_20d=-0.010442, market_ret_20d=0.012855",
+      "support_label": "supported"
+    }
+  ]
+}

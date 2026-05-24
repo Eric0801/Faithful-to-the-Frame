@@ -1,0 +1,545 @@
+{
+  "event_id": "evt_0015",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "EMERSON ELECTRIC CO",
+  "ticker": "EMR",
+  "company_alias": "EMERSON ELECTRIC CO",
+  "masked_company": "Company BC",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-03",
+  "accepted_at_et": "2026-02-03T16:05:35-05:00",
+  "source_packet_path": "source_packets/evt_0015.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "ST.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "ST. LOUIS (2026-02-03T16:05:35-05:00) - EMERSON ELECTRIC CO (NYSE:EMR) today reported results for its first quarter ended December 31, 2025 and updated its full year outlook for fiscal 2026. EMERSON ELECTRIC CO also declared a quarterly cash dividend of $0.555 per share of com...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "(dollars in millions, except per share) 2025 Q1 2026 Q1 Change Underlying Orders 1 9% Net Sales $4,175 $4,346 4% Underlying Sales 2 2% Pretax Earnings $775 $775 Margin 18.6% 17.8% (80) bps Adjusted Segment EBITA 3 $1,169 $1,203 Margin 28.0% 27.7% (30) bps GAAP Earnings Per Share $1.02 $1.07 5% Adjusted Earnings Per Share 4 $1.38 $1.46 6% Operating Cash Flow $777 $699 (10)% Free Cash Flow $694 $602 (13)%",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "(dollars in millions, except per share) 2025 Q1 2026 Q1 Change Underlying Orders 1 9% Net Sales $4,175 $4,346 4% Underlying Sales 2 2% Pretax Earnings $775 $775 Margin 18.6% 17.8% (80) bps Adjusted Segment EBITA 3 $1,169 $1,203 Margin 28.0% 27.7% (30) bps GAAP Earnings Per Sha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u201cEMERSON ELECTRIC CO met sales commitments and exceeded expectations for profitability as our global teams continue to execute well,\u201d said EMERSON ELECTRIC CO President and Chief Executive Officer.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u201cEMERSON ELECTRIC CO met sales commitments and exceeded expectations for profitability as our global teams continue to execute well,\u201d said EMERSON ELECTRIC CO President and Chief Executive Officer. \u201cWe delivered a fourth consecutive quarter of strong underlying orders growth,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "Karsanbhai continued, \u201cEMERSON ELECTRIC CO is accelerating innovation, introducing new products and delivering on the critical programs we highlighted at our 2025 investor conference.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Karsanbhai continued, \u201cEMERSON ELECTRIC CO is accelerating innovation, introducing new products and delivering on the critical programs we highlighted at our 2025 investor conference. These releases advance our capabilities in software-defined automation and further enhance ou...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "The following tables summarize the fiscal year 2026 guidance framework.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "The following tables summarize the fiscal year 2026 guidance framework. As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends. 2026 Q2 2026 Net Sales Growth 3% - 4% ~5....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "1 Underlying orders do not include AspenTech.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "1 Underlying orders do not include AspenTech.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "2 Underlying sales exclude the impact of currency translation, and significant acquisitions and divestitures.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "2 Underlying sales exclude the impact of currency translation, and significant acquisitions and divestitures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "costs_or_expenses",
+      "claim": "3 Adjusted segment EBITA represents segment earnings less restructuring and intangibles amortization expense.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "3 Adjusted segment EBITA represents segment earnings less restructuring and intangibles amortization expense.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "4 Adjusted EPS excludes intangibles amortization expense, restructuring and related costs, acquisition/divestiture gains, losses, fees and related costs, and discrete taxes.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "4 Adjusted EPS excludes intangibles amortization expense, restructuring and related costs, acquisition/divestiture gains, losses, fees and related costs, and discrete taxes.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "risk_or_uncertainty",
+      "claim": "EMERSON ELECTRIC CO (NYSE:EMR) is a global automation leader delivering solutions for the most demanding technology challenges.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "EMERSON ELECTRIC CO (NYSE:EMR) is a global automation leader delivering solutions for the most demanding technology challenges. Headquartered in St. Louis, Missouri, EMERSON ELECTRIC CO is engineering the autonomous future, enabling customers to optimize operations and acceler...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "which may be of interest or material to our investors and for complying with disclosure obligations under Regulation",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "which may be of interest or material to our investors and for complying with disclosure obligations under Regulation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "SEC filings, public conference calls, webcasts and social media.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "SEC filings, public conference calls, webcasts and social media. The information contained on, or that may be",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "accessed through, our website is not incorporated by reference into, and is not a part of, this document.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "accessed through, our website is not incorporated by reference into, and is not a part of, this document.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "Investors: Media: Doug Ashby Joseph Sala / Greg Klassen (314) 553-2197 Joele Frank, Wilkinson Brimmer Katcher (212) 355-4449",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Investors: Media: Doug Ashby Joseph Sala / Greg Klassen (314) 553-2197 Joele Frank, Wilkinson Brimmer Katcher (212) 355-4449",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Table 1 EMERSON ELECTRIC CO AND SUBSIDIARIES CONSOLIDATED OPERATING RESULTS (AMOUNTS IN MILLIONS EXCEPT PER SHARE, UNAUDITED) Quarter Ended Dec 31, 2024 2025 Net sales $ 4,175 $ 4,346 Cost and expenses Cost of sales 1,940 2,035 SG&A expenses 1,224 1,242 Other deductions, net 228 204 Interest expense, net 8 90 Earnings before income taxes 775 775 Income taxes 182 169 Net earnings 593 606 Less: Noncontrolling interests in subsidiaries 8 1 Net earnings common stockholders $ 585 $ 605 Diluted avg.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Table 1 EMERSON ELECTRIC CO AND SUBSIDIARIES CONSOLIDATED OPERATING RESULTS (AMOUNTS IN MILLIONS EXCEPT PER SHARE, UNAUDITED) Quarter Ended Dec 31, 2024 2025 Net sales $ 4,175 $ 4,346 Cost and expenses Cost of sales 1,940 2,035 SG&A expenses 1,224 1,242 Other deductions, net 2...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "costs_or_expenses",
+      "claim": "Table 2 EMERSON ELECTRIC CO AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (DOLLARS IN MILLIONS, UNAUDITED) Sept 30, 2025 Dec 31, 2025 Assets Cash and equivalents $ 1,544 $ 1,748 Receivables, net 3,101 2,972 Inventories 2,213 2,353 Other current assets 1,725 1,770 Total current assets 8,583 8,843 Property, plant & equipment, net 2,871 2,867 Goodwill 18,193 18,182 Other intangibles 9,458 9,205 Other 2,859 2,842 Total assets $ 41,964 $ 41,939 Liabilities and equity Short-term borrowings and current maturities of long-term debt $ 4,797 $ 5,832 Accounts payable 1,384 1,339 Accrued expenses 3,616 3,349 Total current liabilities 9,797 10,520 Long-term debt 8,319 7,575 Other liabilities 3,550 3,552 Equity Common stockholders' equity 20,282 20,277 Noncontrolling interests in subsidiaries 16 15 Total equity 20,298 20,292 Total liabilities and equity $ 41,964 $ 41,939",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Table 2 EMERSON ELECTRIC CO AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (DOLLARS IN MILLIONS, UNAUDITED) Sept 30, 2025 Dec 31, 2025 Assets Cash and equivalents $ 1,544 $ 1,748 Receivables, net 3,101 2,972 Inventories 2,213 2,353 Other current assets 1,725 1,770 Total current...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "costs_or_expenses",
+      "claim": "Table 3 EMERSON ELECTRIC CO AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS (DOLLARS IN MILLIONS, UNAUDITED) Three Months Ended Dec 31, 2024 2025 Operating activities Net earnings $ 593 $ 606 Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization 383 359 Stock compensation 68 55 Changes in operating working capital (154) (357) Other, net (113) 36 Cash provided by operating activities 777 699 Investing activities Capital expenditures (83) (97) Purchases of businesses, net of cash and equivalents acquired (37) \u2014 Other, net (22) (28) Cash used in investing activities (142) (125) Financing activities Net increase (decrease) in short-term borrowings 2 (485) Proceeds from short-term borrowings greater than three months \u2014 3,473 Payments of short-term borrowings greater than three months \u2014 (2,099) Payments of long-term debt (2) (587) Dividends paid (301) (312) Purchases of common stock (899) (250) Other, net (91) (104) Cash used in financing activities (1,291) (364) Effect of exchange rate changes on cash and equivalents (98) (6) Increase (decrease) in cash and equivalents (754) 204 Beginning cash and equivalents 3,588 1,544 Ending cash and equivalents $ 2,834 $ 1,748",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Table 3 EMERSON ELECTRIC CO AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS (DOLLARS IN MILLIONS, UNAUDITED) Three Months Ended Dec 31, 2024 2025 Operating activities Net earnings $ 593 $ 606 Adjustments to reconcile net earnings to net cash provided by operating activi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Table 4 EMERSON ELECTRIC CO AND SUBSIDIARIES SEGMENT SALES AND EARNINGS (DOLLARS IN MILLIONS, UNAUDITED)",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Table 4 EMERSON ELECTRIC CO AND SUBSIDIARIES SEGMENT SALES AND EARNINGS (DOLLARS IN MILLIONS, UNAUDITED)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "The following tables show results for the Company's segments on an adjusted segment EBITA basis and are intended to supplement the Company's results of operations, including its segment earnings which are defined as earnings before interest and taxes.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "The following tables show results for the Company's segments on an adjusted segment EBITA basis and are intended to supplement the Company's results of operations, including its segment earnings which are defined as earnings before interest and taxes. The Company defines adjus...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Quarter Ended Dec 31, 2024 2025 Reported Underlying Sales Control Systems & Software $ 1,023 $ 1,044 2 % \u2014 % Test & Measurement 359 409 14 % 11 % Software & Systems $ 1,382 $ 1,453 5 % 3 % Sensors 972 996 2 % 1 % Final Control 1,334 1,394 4 % 2 % Intelligent Devices $ 2,306 $ 2,390 4 % 2 % Safety & Productivity $ 487 $ 503 3 % 1 % Total $ 4,175 $ 4,346 4 % 2 %",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Quarter Ended Dec 31, 2024 2025 Reported Underlying Sales Control Systems & Software $ 1,023 $ 1,044 2 % \u2014 % Test & Measurement 359 409 14 % 11 % Software & Systems $ 1,382 $ 1,453 5 % 3 % Sensors 972 996 2 % 1 % Final Control 1,334 1,394 4 % 2 % Intelligent Devices $ 2,306 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "Sales Growth by Geography Quarter Ended Dec 31, Americas 3 % Europe 3 % Asia, Middle East & Africa \u2014 %",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Sales Growth by Geography Quarter Ended Dec 31, Americas 3 % Europe 3 % Asia, Middle East & Africa \u2014 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Quarter Ended Dec 31, Quarter Ended Dec 31, 2024 2025 As Reported (GAAP) Adjusted EBITA (Non-GAAP) As Reported (GAAP) Adjusted EBITA (Non-GAAP) Earnings Control Systems & Software $ 208 $ 337 $ 232 $ 334 Margins 20.3 % 33.0 % 22.2 % 31.9 % Test & Measurement (13) 91 14 121 Margins (3.6) % 25.5 % 3.6 % 29.7 % Software & Systems $ 195 $ 428 $ 246 $ 455 Margins 14.1 % 31.1 % 17.0 % 31.3 % Sensors 285 296 266 282 Margins 29.3 % 30.5 % 26.7 % 28.3 % Final Control 305 341 331 361 Margins 22.9 % 25.5 % 23.8 % 25.9 % Intelligent Devices $ 590 $ 637 $ 597 $ 643 Margins 25.6 % 27.6 % 25.0 % 26.9 % Safety & Productivity $ 96 $ 104 $ 97 $ 105 Margins 19.7 % 21.3 % 19.2 % 20.9 % Corporate items and interest expense, net : Stock compensation (68) (66) (55) (51) Unallocated pension and postretirement costs 27 27 29 29 Corporate and other (57) (34) (49) (40) Interest expense, net (8) \u2014 (90) \u2014 Pretax Earnings / Adjusted EBITA $ 775 $ 1,096 $ 775 $ 1,141 Margins 18.6 % 26.3 % 17.8 % 26.3 % Supplemental Total Segment Earnings: Adjusted Total Segment EBITA $ 1,169 $ 1,203 Margins 28.0 % 27.7 %",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Quarter Ended Dec 31, Quarter Ended Dec 31, 2024 2025 As Reported (GAAP) Adjusted EBITA (Non-GAAP) As Reported (GAAP) Adjusted EBITA (Non-GAAP) Earnings Control Systems & Software $ 208 $ 337 $ 232 $ 334 Margins 20.3 % 33.0 % 22.2 % 31.9 % Test & Measurement (13) 91 14 121 Mar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "Quarter Ended Dec 31, Quarter Ended Dec 31, 2024 2025 Amortization of Intangibles 1 Restructuring and Related Costs 2 Amortization of Intangibles 1 Restructuring and Related Costs 2 Control Systems & Software $ 127 $ 2 $ 101 $ 1 Test & Measurement 105 (1) 107 \u2014 Software & Systems $ 232 $ 1 $ 208 $ 1 Sensors 10 1 11 5 Final Control 29 7 28 2 Intelligent Devices $ 39 $ 8 $ 39 $ 7 Safety & Productivity $ 7 $ 1 $ 7 $ 1 Corporate \u2014 3 \u2014 2 Total $ 278 $ 13 $ 254 $ 11 1 Amortization of intangibles includes $49 reported in cost of sales for the three months ended December 31, 2024 and 2025.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Quarter Ended Dec 31, Quarter Ended Dec 31, 2024 2025 Amortization of Intangibles 1 Restructuring and Related Costs 2 Amortization of Intangibles 1 Restructuring and Related Costs 2 Control Systems & Software $ 127 $ 2 $ 101 $ 1 Test & Measurement 105 (1) 107 \u2014 Software & Syst...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "costs_or_expenses",
+      "claim": "2 Restructuring and related costs includes $2 reported in selling, general and administrative expenses for the three months ended December 31, 2024 and 2025.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "2 Restructuring and related costs includes $2 reported in selling, general and administrative expenses for the three months ended December 31, 2024 and 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "Quarter Ended Dec 31, Depreciation and Amortization 2024 2025 Control Systems & Software $ 149 $ 122 Test & Measurement 118 119 Software & Systems 267 241 Sensors 31 33 Final Control 55 56 Intelligent Devices 86 89 Safety & Productivity 19 19 Corporate 11 10 Total $ 383 $ 359",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Quarter Ended Dec 31, Depreciation and Amortization 2024 2025 Control Systems & Software $ 149 $ 122 Test & Measurement 118 119 Software & Systems 267 241 Sensors 31 33 Final Control 55 56 Intelligent Devices 86 89 Safety & Productivity 19 19 Corporate 11 10 Total $ 383 $ 359",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "costs_or_expenses",
+      "claim": "The following table shows the Company's stock compensation and corporate and other expenses on an adjusted basis.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "The following table shows the Company's stock compensation and corporate and other expenses on an adjusted basis. The Company's definition of adjusted stock compensation excludes integration-related stock compensation expense. The Company's definition of adjusted corporate and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "costs_or_expenses",
+      "claim": "Quarter Ended Dec 31, 2024 2025 Stock compensation (GAAP) $ (68) $ (55) Integration-related stock compensation expense 2 4 Adjusted stock compensation (non-GAAP) $ (66) $ (51)",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Quarter Ended Dec 31, 2024 2025 Stock compensation (GAAP) $ (68) $ (55) Integration-related stock compensation expense 2 4 Adjusted stock compensation (non-GAAP) $ (66) $ (51)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "costs_or_expenses",
+      "claim": "Quarter Ended Dec 31, 2024 2025 Corporate and other (GAAP) $ (57) $ (49) Corporate restructuring and related costs 3 2 Acquisition / divestiture costs 20 7 Adjusted corporate and other (non-GAAP) $ (34) $ (40)",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Quarter Ended Dec 31, 2024 2025 Corporate and other (GAAP) $ (57) $ (49) Corporate restructuring and related costs 3 2 Acquisition / divestiture costs 20 7 Adjusted corporate and other (non-GAAP) $ (34) $ (40)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "Table 6 EMERSON ELECTRIC CO AND SUBSIDIARIES ADJUSTED EBITA & EPS SUPPLEMENTAL (AMOUNTS IN MILLIONS EXCEPT PER SHARE, UNAUDITED)",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Table 6 EMERSON ELECTRIC CO AND SUBSIDIARIES ADJUSTED EBITA & EPS SUPPLEMENTAL (AMOUNTS IN MILLIONS EXCEPT PER SHARE, UNAUDITED)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "The following tables, which show results on an adjusted EBITA basis and diluted earnings per share on an adjusted basis, are intended to supplement the Company's discussion of its results of operations herein.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "The following tables, which show results on an adjusted EBITA basis and diluted earnings per share on an adjusted basis, are intended to supplement the Company's discussion of its results of operations herein. The Company defines adjusted EBITA as earnings excluding interest e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Quarter Ended Dec 31, 2024 2025 Pretax earnings $ 775 $ 775 Percent of sales 18.6 % 17.8 % Interest expense, net 8 90 Amortization of intangibles 278 254 Restructuring and related costs 13 11 Acquisition/divestiture fees and related costs 22 11 Adjusted EBITA $ 1,096 $ 1,141 Percent of sales 26.3 % 26.3 % Quarter Ended Dec 31, 2024 2025 GAAP earnings per share $ 1.02 $ 1.07 Amortization of intangibles 0.31 0.35 Restructuring and related costs 0.02 0.02 Acquisition/divestiture fees and related costs 0.03 0.01 Discrete taxes \u2014 0.01 Adjusted earnings per share $ 1.38 $ 1.46",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Quarter Ended Dec 31, 2024 2025 Pretax earnings $ 775 $ 775 Percent of sales 18.6 % 17.8 % Interest expense, net 8 90 Amortization of intangibles 278 254 Restructuring and related costs 13 11 Acquisition/divestiture fees and related costs 22 11 Adjusted EBITA $ 1,096 $ 1,141 P...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Quarter Ended December 31, 2025 Pretax Earnings Income Taxes Net Earnings Non-Controlling Interests Net Earnings Common Stockholders Diluted Earnings Per Share As reported (GAAP) $ 775 $ 169 $ 606 $ 1 $ 605 $ 1.07 Amortization of intangibles 254 1 59 195 \u2014 195 0.35 Restructuring and related costs 11 2 3 8 \u2014 8 0.02 Acquisition/divestiture fees and related costs 11 2 9 \u2014 9 0.01 Discrete Taxes \u2014 (5) 5 \u2014 5 0.01 Adjusted (non-GAAP) $ 1,051 $ 228 $ 823 $ 1 $ 822 $ 1.46 Interest expense, net 90 Adjusted EBITA (non-GAAP) $ 1,141 1 Amortization of intangibles includes $49 reported in cost of sales.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Quarter Ended December 31, 2025 Pretax Earnings Income Taxes Net Earnings Non-Controlling Interests Net Earnings Common Stockholders Diluted Earnings Per Share As reported (GAAP) $ 775 $ 169 $ 606 $ 1 $ 605 $ 1.07 Amortization of intangibles 254 1 59 195 \u2014 195 0.35 Restructuri...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliations of Non-GAAP Financial Measures & Other Table 8 Reconciliations of Non-GAAP measures with the most directly comparable GAAP measure (dollars in millions, except per share amounts).",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Reconciliations of Non-GAAP Financial Measures & Other Table 8 Reconciliations of Non-GAAP measures with the most directly comparable GAAP measure (dollars in millions, except per share amounts). See tables 4 through 7 for ad ditional non-GAAP reconciliations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliations of Non-GAAP measures with the most directly comparable GAAP measure (dollars in millions, except per share amounts).",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Reconciliations of Non-GAAP measures with the most directly comparable GAAP measure (dollars in millions, except per share amounts). See tables 4 through 7 for ad ditional non-GAAP reconciliations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "2026 Q1 Underlying Sales Change Reported (Favorable) / Unfavorable FX (Acquisitions) / Divestitures Underlying Control Systems & Software 2 % (2) % \u2014 % \u2014 % Test & Measurement 14 % (3) % \u2014 % 11 % Software & Systems 5 % (2) % \u2014 % 3 % Sensors 2 % (1) % \u2014 % 1 % Final Control 4 % (2) % \u2014 % 2 % Intelligent Devices 4 % (2) % \u2014 % 2 % Safety and Productivity 3 % (2) % \u2014 % 1 % EMERSON ELECTRIC CO 4 % (2) % \u2014 % 2 %",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "2026 Q1 Underlying Sales Change Reported (Favorable) / Unfavorable FX (Acquisitions) / Divestitures Underlying Control Systems & Software 2 % (2) % \u2014 % \u2014 % Test & Measurement 14 % (3) % \u2014 % 11 % Software & Systems 5 % (2) % \u2014 % 3 % Sensors 2 % (1) % \u2014 % 1 % Final Control 4 % (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "guidance",
+      "claim": "Underlying Growth Guidance 2026 Q2 Guidance 2026 Guidance Reported (GAAP) 3% - 4% ~5.5% (Favorable) / Unfavorable FX ~(2 pts) ~(1.5 pts) (Acquisitions) / Divestitures - - Underlying (non-GAAP) 1% - 2% ~4%",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Underlying Growth Guidance 2026 Q2 Guidance 2026 Guidance Reported (GAAP) 3% - 4% ~5.5% (Favorable) / Unfavorable FX ~(2 pts) ~(1.5 pts) (Acquisitions) / Divestitures - - Underlying (non-GAAP) 1% - 2% ~4%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "guidance",
+      "claim": "2025 Q1 Adjusted Segment EBITA EBIT EBIT Margin Amortization of Intangibles Restructuring and Related Costs Adjusted Segment EBITA Adjusted Segment EBITA Margin Control Systems & Software $ 208 20.3 % $ 127 $ 2 $ 337 33.0 % Test & Measurement (13) (3.6) % 105 (1) 91 25.5 % Software & Systems $ 195 14.1 % $ 232 $ 1 $ 428 31.1 % Sensors 285 29.3 % 10 1 296 30.5 % Final Control 305 22.9 % 29 7 341 25.5 % Intelligent Devices $ 590 25.6 % $ 39 $ 8 $ 637 27.6 % Safety & Productivity $ 96 19.7 % $ 7 $ 1 $ 104 21.3 %",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "2025 Q1 Adjusted Segment EBITA EBIT EBIT Margin Amortization of Intangibles Restructuring and Related Costs Adjusted Segment EBITA Adjusted Segment EBITA Margin Control Systems & Software $ 208 20.3 % $ 127 $ 2 $ 337 33.0 % Test & Measurement (13) (3.6) % 105 (1) 91 25.5 % Sof...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "margins",
+      "claim": "2026 Q1 Adjusted Segment EBITA EBIT EBIT Margin Amortization of Intangibles Restructuring and Related Costs Adjusted Segment EBITA Adjusted Segment EBITA Margin Control Systems & Software $ 232 22.2 % $ 101 $ 1 $ 334 31.9 % Test & Measurement 14 3.6 % 107 \u2014 121 29.7 % Software & Systems $ 246 17.0 % $ 208 $ 1 $ 455 31.3 % Sensors 266 26.7 % 11 5 282 28.3 % Final Control 331 23.8 % 28 2 361 25.9 % Intelligent Devices $ 597 25.0 % $ 39 $ 7 $ 643 26.9 % Safety & Productivity $ 97 19.2 % $ 7 $ 1 $ 105 20.9 %",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "2026 Q1 Adjusted Segment EBITA EBIT EBIT Margin Amortization of Intangibles Restructuring and Related Costs Adjusted Segment EBITA Adjusted Segment EBITA Margin Control Systems & Software $ 232 22.2 % $ 101 $ 1 $ 334 31.9 % Test & Measurement 14 3.6 % 107 \u2014 121 29.7 % Software...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "margins",
+      "claim": "Total Adjusted Segment EBITA 2025 Q1 2026 Q1 Pretax earnings (GAAP) $ 775 $ 775 Margin 18.6 % 17.8 % Corporate items and interest expense, net 106 165 Amortization of intangibles 278 254 Restructuring and related costs 10 9 Adjusted segment EBITA (non-GAAP) $ 1,169 $ 1,203 Margin 28.0 % 27.7 %",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Total Adjusted Segment EBITA 2025 Q1 2026 Q1 Pretax earnings (GAAP) $ 775 $ 775 Margin 18.6 % 17.8 % Corporate items and interest expense, net 106 165 Amortization of intangibles 278 254 Restructuring and related costs 10 9 Adjusted segment EBITA (non-GAAP) $ 1,169 $ 1,203 Mar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "Free Cash Flow 2025 Q1 2026 Q1 2026E ($ in billions) Operating cash flow (GAAP) $ 777 $ 699 $4.0 - $4.1 Capital expenditures (83) (97) ~(0.45) Free cash flow (non-GAAP) $ 694 $ 602 $3.5 - $3.6",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Free Cash Flow 2025 Q1 2026 Q1 2026E ($ in billions) Operating cash flow (GAAP) $ 777 $ 699 $4.0 - $4.1 Capital expenditures (83) (97) ~(0.45) Free cash flow (non-GAAP) $ 694 $ 602 $3.5 - $3.6",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Note 1: Underlying sales and orders exclude the impact of currency translation and significant acquisitions and divestitures.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Note 1: Underlying sales and orders exclude the impact of currency translation and significant acquisitions and divestitures. Note 2: All fiscal year 2026E figures are approximate, except where range is given.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q1: 4346000000",
+      "value": 4346000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q1: 4346000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q1: 605000000",
+      "value": 605000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q1: 605000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "other",
+      "claim": "ProfitLoss reported for 2026Q1: 606000000",
+      "value": 606000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "ProfitLoss reported for 2026Q1: 606000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q1: 1.07",
+      "value": 1.07,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q1: 1.07",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q1: 1.08",
+      "value": 1.08,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q1: 1.08",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 699000000",
+      "value": 699000000,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 699000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.029999, ret_20d=0.064753, market_ret_20d=0.002632",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.029999, ret_20d=0.064753, market_ret_20d=0.002632",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "event_id": "evt_0066",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "YELP INC",
+  "ticker": "YELP",
+  "company_alias": "YELP INC",
+  "masked_company": "Company Q",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q3",
+  "event_date": "2026-02-12",
+  "accepted_at_et": "2026-02-12T16:09:51-05:00",
+  "source_packet_path": "source_packets/evt_0066.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "YELP INC Delivers Record Net Revenue in 2025",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "YELP INC Delivers Record Net Revenue in 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "2025 Net Revenue reached a record of $1.46 billion",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "2025 Net Revenue reached a record of $1.46 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "2025 Net Income up 10% to $146 million",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "2025 Net Income up 10% to $146 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "margins",
+      "claim": "2025 Adjusted EBITDA increased 3% to $369 million 1",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "2025 Adjusted EBITDA increased 3% to $369 million 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "Expects 2026 Net Revenue in the range of $1.455 billion to $1.475 billion and Adjusted EBITDA 2",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Expects 2026 Net Revenue in the range of $1.455 billion to $1.475 billion and Adjusted EBITDA 2",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "in the range of $310 million to $330 million",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "in the range of $310 million to $330 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u201cYELP INC delivered record net revenue and strong profitability in 2025, driven by growth in Services and product innovation, with more than 55 new features and updates introduced in the year,\u201d said Jeremy Stoppelman, YELP INC's co-founder and chief executive officer.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cYELP INC delivered record net revenue and strong profitability in 2025, driven by growth in Services and product innovation, with more than 55 new features and updates introduced in the year,\u201d said Jeremy Stoppelman, YELP INC's co-founder and chief executive officer. \u201cLooking...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "\u201cOur 2025 results reflect both disciplined execution and the margin potential of our product-led strategy,\u201d said David Schwarzbach, YELP INC's chief financial officer.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cOur 2025 results reflect both disciplined execution and the margin potential of our product-led strategy,\u201d said David Schwarzbach, YELP INC's chief financial officer. \u201cNet income increased 10% year over year to $146 million, representing a 10% net income margin, and earnings...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "1 See \u201cNon-GAAP Financial Measures\u201d for the definitions of Adjusted EBITDA and Adjusted EBITDA margin, as well as reconciliations of Adjusted EBITDA to Net income (loss) and Adjusted EBITDA margin to Net income (loss) margin, in each case the most directly comparable financial measures calculated and presented in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d).",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "1 See \u201cNon-GAAP Financial Measures\u201d for the definitions of Adjusted EBITDA and Adjusted EBITDA margin, as well as reconciliations of Adjusted EBITDA to Net income (loss) and Adjusted EBITDA margin to Net income (loss) margin, in each case the most directly comparable financial...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "2 YELP INC has not reconciled its Adjusted EBITDA outlook to GAAP Net income (loss) because it does not provide an outlook for GAAP Net income (loss) due to the uncertainty and potential variability of Other income, net and Provision for (benefit from) income taxes, which are reconciling items between Adjusted EBITDA and GAAP Net income (loss).",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "2 YELP INC has not reconciled its Adjusted EBITDA outlook to GAAP Net income (loss) because it does not provide an outlook for GAAP Net income (loss) due to the uncertainty and potential variability of Other income, net and Provision for (benefit from) income taxes, which are...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "\u2022 Net revenue increased by 4% year over year to a record $1.46 billion, $2 million above the midpoint of the updated range YELP INC provided in November 2025 and $13 million below the midpoint of the initial range we provided in February 2025.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Net revenue increased by 4% year over year to a record $1.46 billion, $2 million above the midpoint of the updated range YELP INC provided in November 2025 and $13 million below the midpoint of the initial range we provided in February 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income increased by 10% year over year to $146 million, representing a 10% net income margin.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Net income increased by 10% year over year to $146 million, representing a 10% net income margin.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA grew by 3% year over year to $369 million, $7 million above the midpoint of the updated range the company provided in November 2025 and $17 million above the midpoint of the initial range provided in February 2025, representing a 25% adjusted EBITDA margin.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA grew by 3% year over year to $369 million, $7 million above the midpoint of the updated range the company provided in November 2025 and $17 million above the midpoint of the initial range provided in February 2025, representing a 25% adjusted EBITDA margin. 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "\u2022 In Services, advertising revenue increased 8% year over year to a record $948 million.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 In Services, advertising revenue increased 8% year over year to a record $948 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "\u2022 Advertising revenue from Restaurants, Retail & Other ( \u201c RR&O \u201d ) businesses decreased by 6% year over year to $444 million.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Advertising revenue from Restaurants, Retail & Other ( \u201c RR&O \u201d ) businesses decreased by 6% year over year to $444 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u2022 With a decrease in RR&O paying advertising locations offsetting growth in Services paying advertising locations, total paying advertising locations for the year decreased by 3%, while average revenue per location reached an annual record.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 With a decrease in RR&O paying advertising locations offsetting growth in Services paying advertising locations, total paying advertising locations for the year decreased by 3%, while average revenue per location reached an annual record.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 Ad clicks for the year decreased 7% from 2024, driven primarily by lower consumer demand due to economic uncertainties and, to a lesser extent, reduced spend on paid project acquisition in 2025 compared to 2024.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 Ad clicks for the year decreased 7% from 2024, driven primarily by lower consumer demand due to economic uncertainties and, to a lesser extent, reduced spend on paid project acquisition in 2025 compared to 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Average cost per click increased 10% year over year, reflecting growth in advertiser demand in our Services categories and lower overall consumer demand.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Average cost per click increased 10% year over year, reflecting growth in advertiser demand in our Services categories and lower overall consumer demand.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "\u2022 On the consumer side of our business, YELP INC continued to grow our trusted review content through contributions from our large user base.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 On the consumer side of our business, YELP INC continued to grow our trusted review content through contributions from our large user base. YELP INC users contributed 22 million new reviews in 2025, resulting in 330 million cumulative reviews, up 7% from the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "The company expects 2026 Net Revenue will be in the range of $1.455 billion to $1.475 billion as YELP INC continues to invest in its AI transformation.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "The company expects 2026 Net Revenue will be in the range of $1.455 billion to $1.475 billion as YELP INC continues to invest in its AI transformation. The company also expects 2026 Adjusted EBITDA 2 will be in the range of $310 million to $330 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "YELP INC.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "YELP INC. ( YELP INC.com ) is a community-driven platform that connects people with great local businesses. Millions of people rely on YELP INC for useful and trusted local business information, reviews and photos to help inform their spending decisions. As a one-stop local pl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "YELP INC\u2019s actual results could differ materially from those predicted or implied and reported results should not be considered as an indication of future performance.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "YELP INC\u2019s actual results could differ materially from those predicted or implied and reported results should not be considered as an indication of future performance. Factors that could cause or contribute to such differences include, but are not limited to:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "\u2022 macroeconomic uncertainty \u2014 including related to labor and supply chain issues, inflation and recessionary concerns, interest rates and tariffs \u2014 and its effect on consumer behavior, user activity and advertiser spending;",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 macroeconomic uncertainty \u2014 including related to labor and supply chain issues, inflation and recessionary concerns, interest rates and tariffs \u2014 and its effect on consumer behavior, user activity and advertiser spending;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "\u2022 YELP INC\u2019s ability to maintain and expand its base of advertisers, particularly if advertiser turnover substantially worsens and/or consumer demand significantly degrades;",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 YELP INC\u2019s ability to maintain and expand its base of advertisers, particularly if advertiser turnover substantially worsens and/or consumer demand significantly degrades;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "\u2022 YELP INC\u2019s ability to realize the anticipated benefits of its acquisition of Hatch;",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 YELP INC\u2019s ability to realize the anticipated benefits of its acquisition of Hatch;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "\u2022 YELP INC\u2019s ability to drive continued growth through its strategic initiatives;",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 YELP INC\u2019s ability to drive continued growth through its strategic initiatives;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "\u2022 YELP INC\u2019s ability to continue to operate effectively with a primarily remote work force and attract and retain key talent;",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 YELP INC\u2019s ability to continue to operate effectively with a primarily remote work force and attract and retain key talent;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "\u2022 YELP INC\u2019s limited operating history in an evolving industry; and",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 YELP INC\u2019s limited operating history in an evolving industry; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "\u2022 YELP INC\u2019s ability to generate and maintain sufficient high-quality content from its users.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 YELP INC\u2019s ability to generate and maintain sufficient high-quality content from its users.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "Factors that could cause or contribute to such differences also include, but are not limited to, those factors that could affect YELP INC\u2019s business, operating results and stock price included under the captions \u201cRisk Factors\u201d and \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d in YELP INC\u2019s most recent Annual Report on Form 10-K or Quarterly Report on Form 10-Q at YELP INC-ir.com or the SEC\u2019s website at sec.gov .",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Factors that could cause or contribute to such differences also include, but are not limited to, those factors that could affect YELP INC\u2019s business, operating results and stock price included under the captions \u201cRisk Factors\u201d and \u201cManagement\u2019s Discussion and Analysis of Finan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "(Unaudited) December 31, 2025 December 31, 2024 Assets Current assets: Cash and cash equivalents $ 216,062 $ 217,325 Short-term marketable securities 103,290 100,581 Accounts receivable, net 153,224 155,325 Prepaid expenses and other current assets 42,359 43,648 Total current assets 514,935 516,879 Property, equipment and software, net 91,685 75,669 Operating lease right-of-use assets 16,046 24,112 Goodwill 135,847 130,980 Intangibles, net 49,038 58,787 Other non-current assets 150,927 177,140 Total assets $ 958,478 $ 983,567 Liabilities and Stockholders\u2019 Equity Current liabilities: Accounts payable and accrued liabilities $ 158,789 $ 131,322 Operating lease liabilities \u2014 current 7,426 20,679 Deferred revenue 5,845 2,973 Total current liabilities 172,060 154,974 Operating lease liabilities \u2014 long-term 17,451 22,470 Other long-term liabilities 58,115 62,154 Total liabilities 247,626 239,598 Stockholders\u2019 equity: Preferred stock \u2014 \u2014 Common stock \u2014 \u2014 Additional paid-in capital 2,010,948 1,903,598 Treasury stock (999) (3,909) Accumulated other comprehensive loss (7,677) (15,431) Accumulated deficit (1,291,420) (1,140,289) Total stockholders\u2019 equity 710,852 743,969 Total liabilities and stockholders\u2019 equity $ 958,478 $ 983,567",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "(Unaudited) December 31, 2025 December 31, 2024 Assets Current assets: Cash and cash equivalents $ 216,062 $ 217,325 Short-term marketable securities 103,290 100,581 Accounts receivable, net 153,224 155,325 Prepaid expenses and other current assets 42,359 43,648 Total current...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net revenue $ 359,989 $ 361,952 $ 1,464,955 $ 1,412,064 Costs and expenses: Cost of revenue (1) 36,033 33,270 142,596 123,684 Sales and marketing (1) 150,471 143,263 592,107 585,978 Product development (1) 73,284 74,937 313,688 325,992 General and administrative (1) 38,464 45,487 181,951 184,958 Depreciation and amortization 12,851 11,566 50,092 40,407 Total costs and expenses 311,103 308,523 1,280,434 1,261,019 Income from operations 48,886 53,429 184,521 151,045 Other income, net 2,692 6,638 19,508 31,915 Income before income taxes 51,578 60,067 204,029 182,960 Provision for income taxes 13,782 17,847 58,429 50,110 Net income attributable to common stockholders $ 37,796 $ 42,220 $ 145,600 $ 132,850 Net income per share attributable to common stockholders Basic $ 0.62 $ 0.64 $ 2.30 $ 1.97 Diluted $ 0.61 $ 0.62 $ 2.24 $ 1.88 Weighted-average shares used to compute net income per share attributable to common stockholders Basic 61,047 66,083 63,334 67,415 Diluted 62,018 67,989 65,090 70,611 (1) Includes stock-based compensation expense as follows: Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Cost of revenue $ 797 $ 1,110 $ 4,035 $ 5,209 Sales and marketing 5,939 7,531 27,925 33,436 Product development 14,856 18,436 68,718 85,510 General and administrative 7,276 7,720 33,315 34,038 Total stock-based compensation $ 28,868 $ 34,797 $ 133,993 $ 158,193",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net revenue $ 359,989 $ 361,952 $ 1,464,955 $ 1,412,064 Costs and expenses: Cost of revenue (1) 36,033 33,270 142,596 123,684 Sales and marketing (1) 150,471 143,263 592,107 585,978 Product development...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Year Ended December 31, 2025 2024 Operating Activities Net income $ 145,600 $ 132,850 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 50,092 40,407 Provision for credit losses 43,271 45,614 Stock-based compensation 133,993 158,193 Amortization of right-of-use assets 10,398 15,094 Deferred income taxes 25,073 (24,920) Amortization of deferred contract cost 27,943 24,854 Asset impairment \u2014 5,914 Write-off of website and internal use software 3,339 2,583 Other adjustments, net (491) (4,995) Changes in operating assets and liabilities: Accounts receivable (41,872) (51,033) Prepaid expenses and other assets (27,113) (24,314) Operating lease liabilities (20,926) (39,230) Accounts payable, accrued liabilities and other liabilities 22,722 4,798 Net cash provided by operating activities 372,029 285,815 Investing Activities Purchases of marketable securities \u2014 available-for-sale (80,245) (94,304) Sales and maturities of marketable securities \u2014 available-for-sale 78,530 123,094 Purchases of other investments (700) (2,500) Maturities of other investments 5,000 \u2014 Acquisition, net of cash received \u2014 (66,199) Purchases of property, equipment and software (48,353) (37,347) Other investing activities 114 (10) Net cash used in investing activities (45,654) (77,266) Financing Activities Proceeds from issuance of common stock for employee stock-based plans 19,665 20,790 Taxes paid related to the net share settlement of equity awards (56,889) (73,411) Repurchases of common stock (290,949) (250,899) Excise tax paid on net stock repurchases (1,218) (282) Payment of issuance costs for credit facility (656) \u2014 Net cash used in financing activities (330,047) (303,802) Effect of exchange rate changes on cash, cash equivalents and restricted cash 2,279 (1,067) Change in cash, cash equivalents and restricted cash (1,393) (96,320) Cash, cash equivalents and restricted cash \u2014 Beginning of period 217,682 314,002 Cash, cash equivalents and restricted cash \u2014 End of period $ 216,289 $ 217,682",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Year Ended December 31, 2025 2024 Operating Activities Net income $ 145,600 $ 132,850 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 50,092 40,407 Provision for credit losses 43,271 45,614 Stock-based compensatio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "We define Adjusted EBITDA as net income (loss), adjusted to exclude: provision for (benefit from) income taxes; other income, net; depreciation and amortization; stock-based compensation expense; and, in certain periods, certain other income and expense items, such as, asset impairment charges, expenses related to acquired indemnification obligations, acquisition and integration costs and fees related to shareholder activism, or other costs that that we deem not to be indicative of our ongoing operating performance.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "We define Adjusted EBITDA as net income (loss), adjusted to exclude: provision for (benefit from) income taxes; other income, net; depreciation and amortization; stock-based compensation expense; and, in certain periods, certain other income and expense items, such as, asset i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted EBITDA and Free cash flow, which are not prepared under any comprehensive set of accounting rules or principles, have limitations as analytical tools and you should not consider them in isolation or as substitutes for analysis of YELP INC\u2019s financial results as reported in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d).",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Adjusted EBITDA and Free cash flow, which are not prepared under any comprehensive set of accounting rules or principles, have limitations as analytical tools and you should not consider them in isolation or as substitutes for analysis of YELP INC\u2019s financial results as report...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "margins",
+      "claim": "\u2022 although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA does not reflect all cash capital expenditure requirements for such replacements or for new capital expenditure requirements;",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA does not reflect all cash capital expenditure requirements for such replacements or for new capital expenditure...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not reflect changes in, or cash requirements for, YELP INC\u2019s working capital needs;",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not reflect changes in, or cash requirements for, YELP INC\u2019s working capital needs;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not reflect the impact of the recording or release of valuation allowances or tax payments that may represent a reduction in cash available to YELP INC;",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not reflect the impact of the recording or release of valuation allowances or tax payments that may represent a reduction in cash available to YELP INC;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not consider the potentially dilutive impact of equity-based compensation;",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not consider the potentially dilutive impact of equity-based compensation;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not take into account any income or costs that management determines are not indicative of ongoing operating performance, such as impairment charges, expenses related to acquired indemnification obligations, acquisition and integration costs and fees related to shareholder activism, or other costs that management determines are not indicative of ongoing operating performance;",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not take into account any income or costs that management determines are not indicative of ongoing operating performance, such as impairment charges, expenses related to acquired indemnification obligations, acquisition and integration costs and fees rel...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Free cash flow does not represent the total residual cash flow available for discretionary purposes because it does not reflect our contractual commitments or obligations; and",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "\u2022 Free cash flow does not represent the total residual cash flow available for discretionary purposes because it does not reflect our contractual commitments or obligations; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "margins",
+      "claim": "\u2022 other companies, including those in YELP INC\u2019s industry, may calculate Adjusted EBITDA and Free cash flow differently, which reduces their usefulness as comparative measures.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "\u2022 other companies, including those in YELP INC\u2019s industry, may calculate Adjusted EBITDA and Free cash flow differently, which reduces their usefulness as comparative measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "Because of these limitations, you should consider Adjusted EBITDA, Adjusted EBITDA margin and Free cash flow alongside other financial performance measures, including net income (loss), net cash provided by (used in) operating activities and YELP INC\u2019s other GAAP results.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Because of these limitations, you should consider Adjusted EBITDA, Adjusted EBITDA margin and Free cash flow alongside other financial performance measures, including net income (loss), net cash provided by (used in) operating activities and YELP INC\u2019s other GAAP results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "earnings_or_eps",
+      "claim": "The following is a reconciliation of net income to Adjusted EBITDA, as well as the calculation of net income margin and Adjusted EBITDA margin, for each of the periods indicated (in thousands, except percentages; unaudited):",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "The following is a reconciliation of net income to Adjusted EBITDA, as well as the calculation of net income margin and Adjusted EBITDA margin, for each of the periods indicated (in thousands, except percentages; unaudited):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of Net Income to Adjusted EBITDA: Net income $ 37,796 $ 42,220 $ 145,600 $ 132,850 Provision for income taxes 13,782 17,847 58,429 50,110 Other income, net (1) (2,692) (6,638) (19,508) (31,915) Depreciation and amortization 12,851 11,566 50,092 40,407 Stock-based compensation 28,868 34,797 133,993 158,193 Asset impairment (2) \u2014 \u2014 \u2014 5,914 Expenses related to acquired indemnification obligation, net (2)(3) (4,920) \u2014 35 \u2014 Acquisition and integration costs (2) \u2014 1,266 539 1,266 Fees related to shareholder activism (2) \u2014 \u2014 \u2014 1,168 Adjusted EBITDA $ 85,685 $ 101,058 $ 369,180 $ 357,993 Net revenue $ 359,989 $ 361,952 $ 1,464,955 $ 1,412,064 Net income margin 10 % 12 % 10 % 9 % Adjusted EBITDA margin 24 % 28 % 25 % 25 %",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of Net Income to Adjusted EBITDA: Net income $ 37,796 $ 42,220 $ 145,600 $ 132,850 Provision for income taxes 13,782 17,847 58,429 50,110 Other income, net (1) (2,692) (6,638) (19,508) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "(1) Includes the release of a $3.1 million reserve related to a one-time payroll tax credit in the year ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "(1) Includes the release of a $3.1 million reserve related to a one-time payroll tax credit in the year ended December 31, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "earnings_or_eps",
+      "claim": "(2) Recorded within general and administrative expenses on our Condensed Consolidated Statements of Operations.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "(2) Recorded within general and administrative expenses on our Condensed Consolidated Statements of Operations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "earnings_or_eps",
+      "claim": "(3) The three months ended December 31, 2025 reflects the release of a portion of the RepairPal holdback to indemnify us for certain expenses in prior periods.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "(3) The three months ended December 31, 2025 reflects the release of a portion of the RepairPal holdback to indemnify us for certain expenses in prior periods. The year ended December 31, 2025 reflects the released holdback amount offsetting the associated expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "earnings_or_eps",
+      "claim": "The following is a reconciliation of net cash provided by operating activities to Free cash flow for each of the periods indicated (in thousands; unaudited):",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "The following is a reconciliation of net cash provided by operating activities to Free cash flow for each of the periods indicated (in thousands; unaudited):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow: Net cash provided by operating activities $ 84,482 $ 70,973 $ 372,029 $ 285,815 Purchases of property, equipment and software (12,217) (11,010) (48,353) (37,347) Free cash flow $ 72,265 $ 59,963 $ 323,676 $ 248,468 Net cash used in investing activities $ (7,677) $ (42,826) $ (45,654) $ (77,266) Net cash used in financing activities $ (92,268) $ (70,795) $ (330,047) $ (303,802)",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow: Net cash provided by operating activities $ 84,482 $ 70,973 $ 372,029 $ 285,815 Purchases of property, equipment and softw...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2025Q3: 376038000",
+      "value": 376038000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2025Q3: 376038000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2025Q3: 52885000",
+      "value": 52885000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2025Q3: 52885000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2025Q3: 39324000",
+      "value": 39324000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2025Q3: 39324000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2025Q3: 0.61",
+      "value": 0.61,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2025Q3: 0.61",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2025Q3: 0.62",
+      "value": 0.62,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2025Q3: 0.62",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2025Q3: 231071000",
+      "value": 231071000,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2025Q3: 231071000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2025Q3: 287547000",
+      "value": 287547000,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2025Q3: 287547000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.050333, ret_20d=-0.218418, market_ret_20d=-0.013167",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.050333, ret_20d=-0.218418, market_ret_20d=-0.013167",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+{
+  "event_id": "evt_0028",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ABBOTT LABORATORIES",
+  "ticker": "ABT",
+  "company_alias": "ABBOTT LABORATORIES",
+  "masked_company": "Company AP",
+  "sector": "Health Care",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-01-22",
+  "accepted_at_et": "2026-01-22T02:35:32-05:00",
+  "source_packet_path": "source_packets/evt_0028.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "\u2013 Fourth-quarter GAAP diluted EPS of $1.01; adjusted diluted EPS of $1.50 reflects growth of 12 percent",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2013 Fourth-quarter GAAP diluted EPS of $1.01; adjusted diluted EPS of $1.50 reflects growth of 12 percent",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "\u2013 Full-year 2025 GAAP diluted EPS of $3.72; adjusted diluted EPS of $5.15 reflects growth of 10 percent",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2013 Full-year 2025 GAAP diluted EPS of $3.72; adjusted diluted EPS of $5.15 reflects growth of 10 percent",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "\u2013 ABBOTT LABORATORIES projects full-year 2026 organic sales growth to be in the range of 6.5% to 7.5%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2013 ABBOTT LABORATORIES projects full-year 2026 organic sales growth to be in the range of 6.5% to 7.5%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "\u2013 ABBOTT LABORATORIES projects full-year 2026 adjusted diluted EPS of $5.55 to $5.80, which reflects 10 percent growth at the midpoint",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2013 ABBOTT LABORATORIES projects full-year 2026 adjusted diluted EPS of $5.55 to $5.80, which reflects 10 percent growth at the midpoint",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "ABBOTT LABORATORIES PARK, Ill., 2026-01-22T02:35:32-05:00 \u2014 ABBOTT LABORATORIES today announced financial results for the fourth quarter ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "ABBOTT LABORATORIES PARK, Ill., 2026-01-22T02:35:32-05:00 \u2014 ABBOTT LABORATORIES today announced financial results for the fourth quarter ended Dec. 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u2022 Fourth-quarter sales increased 4.4 percent on a reported basis, 3.0 percent on an organic basis, or 3.8 percent when excluding COVID-19 testing-related sales 1 .",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Fourth-quarter sales increased 4.4 percent on a reported basis, 3.0 percent on an organic basis, or 3.8 percent when excluding COVID-19 testing-related sales 1 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 Fourth-quarter GAAP diluted EPS of $1.01 and adjusted diluted EPS of $1.50, which excludes specified items and reflects growth of 12 percent.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Fourth-quarter GAAP diluted EPS of $1.01 and adjusted diluted EPS of $1.50, which excludes specified items and reflects growth of 12 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\u2022 Full-year 2025 sales of $44.3 billion increased 5.7 percent on a reported basis, 5.5 percent on an organic basis, or 6.7 percent when excluding COVID-19 testing-related sales 2 .",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Full-year 2025 sales of $44.3 billion increased 5.7 percent on a reported basis, 5.5 percent on an organic basis, or 6.7 percent when excluding COVID-19 testing-related sales 2 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\u2022 Full-year 2025 GAAP diluted EPS of $3.72 and adjusted diluted EPS of $5.15, which excludes specified items and reflects growth of 10 percent.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Full-year 2025 GAAP diluted EPS of $3.72 and adjusted diluted EPS of $5.15, which excludes specified items and reflects growth of 10 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "\u2022 ABBOTT LABORATORIES projects full-year 2026 organic sales growth to be in the range of 6.5% to 7.5%.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 ABBOTT LABORATORIES projects full-year 2026 organic sales growth to be in the range of 6.5% to 7.5%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "\u2022 ABBOTT LABORATORIES projects full-year 2026 adjusted diluted EPS of $5.55 to $5.80, which reflects growth of 10 percent at the midpoint.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 ABBOTT LABORATORIES projects full-year 2026 adjusted diluted EPS of $5.55 to $5.80, which reflects growth of 10 percent at the midpoint.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u2022 In November, ABBOTT LABORATORIES announced an agreement to acquire Exact Sciences, a move that will position the company to enter and lead in the fast-growing cancer diagnostics market.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 In November, ABBOTT LABORATORIES announced an agreement to acquire Exact Sciences, a move that will position the company to enter and lead in the fast-growing cancer diagnostics market. ABBOTT LABORATORIES continues to expect the transaction to close in the second quarter of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "\u2022 In December, ABBOTT LABORATORIES announced U.S.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 In December, ABBOTT LABORATORIES announced U.S. Food and Drug Administration (FDA) approval for its Volt\u2122 PFA System, bringing ABBOTT LABORATORIES's first pulsed field ablation (PFA) offering to patients in the United States.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "\u2022 In January, ABBOTT LABORATORIES announced the company obtained CE Mark for its TactiFlex\u2122 Duo Ablation Catheter, Sensor Enabled\u2122, designed to deliver radiofrequency (RF) and PFA energy to treat patients battling atrial fibrillation.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 In January, ABBOTT LABORATORIES announced the company obtained CE Mark for its TactiFlex\u2122 Duo Ablation Catheter, Sensor Enabled\u2122, designed to deliver radiofrequency (RF) and PFA energy to treat patients battling atrial fibrillation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "earnings_or_eps",
+      "claim": "\"In 2025, we expanded margins and achieved double-digit earnings per share growth, our new product pipeline was highly productive, and we took important strategic steps to shape the company for the future,\" said Robert B.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\"In 2025, we expanded margins and achieved double-digit earnings per share growth, our new product pipeline was highly productive, and we took important strategic steps to shape the company for the future,\" said Robert B. Ford, chairman and chief executive officer, ABBOTT LABO...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Management believes that measuring sales growth rates on an organic basis, which excludes the impact of foreign exchange and the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business, is an appropriate way for investors to best understand the core underlying performance of the business.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Management believes that measuring sales growth rates on an organic basis, which excludes the impact of foreign exchange and the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business, is an appropriate way for investors to best understand the core un...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Note: In order to compute results excluding the impact of exchange rates, current year U.S.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Note: In order to compute results excluding the impact of exchange rates, current year U.S. dollar sales are multiplied or divided, as appropriate, by the current year average foreign exchange rates and then those amounts are multiplied or divided, as appropriate, by the prior...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Sales 4Q25 ($ in millions) Total Company Nutrition Diagnostics Established Pharmaceuticals Medical Devices U.S.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Sales 4Q25 ($ in millions) Total Company Nutrition Diagnostics Established Pharmaceuticals Medical Devices U.S. 4,383 806 967 \u2014 2,605 International 7,076 1,134 1,490 1,382 3,070 Total reported 11,459 1,940 2,457 1,382 5,675",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "% Change vs. 4Q24 U.S. 0.9 (13.2) (8.4) n/a 10.7 International 6.7 (5.6) 1.8 9.0 13.7 Total reported 4.4 (8.9) (2.5) 9.0 12.3 Impact of foreign exchange 1.4 0.2 1.1 2.0 1.9 Organic 3.0 (9.1) (3.6) 7.0 10.4 Impact of COVID-19 testing sales 1 (0.8) \u2014 (3.4) \u2014 \u2014 Organic (excluding...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Sales 12M25 ($ in millions) Total Company Nutrition Diagnostics Established Pharmaceuticals Medical Devices U.S.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Sales 12M25 ($ in millions) Total Company Nutrition Diagnostics Established Pharmaceuticals Medical Devices U.S. 17,126 3,606 3,535 \u2014 9,968 International 27,202 4,845 5,402 5,536 11,419 Total reported 44,328 8,451 8,937 5,536 21,387",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "% Change vs. 12M24 U.S. 4.9 (2.3) (7.7) n/a 13.4 International 6.1 2.6 (2.0) 6.6 12.0 Total reported 5.7 0.4 (4.3) 6.6 12.6 Impact of foreign exchange 0.2 (0.7) 0.2 (0.8) 0.7 Impact of business exit* \u2014 (0.1) \u2014 \u2014 \u2014 Organic 5.5 1.2 (4.5) 7.4 11.9 Impact of COVID-19 testing sales...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "R efer to page 16 fo r a reconciliation of adjusted historical revenue to reported revenue.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "R efer to page 16 fo r a reconciliation of adjusted historical revenue to reported revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "*Re flects the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business in March 2024.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "*Re flects the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business in March 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Sales 4Q25 ($ in millions) Total Pediatric Adult U.S.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Sales 4Q25 ($ in millions) Total Pediatric Adult U.S. 806 463 343 International 1,134 439 695 Total reported 1,940 902 1,038",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "% Change vs. 4Q24 U.S. (13.2) (17.7) (6.3) International (5.6) 0.3 (8.9) Total reported (8.9) (9.8) (8.1) Impact of foreign exchange 0.2 0.3 0.1 Organic (9.1) (10.1) (8.2) U.S. (13.2) (17.7) (6.3) International (5.9) (0.3) (9.1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Worldwide Nutrition sales decreased 8.9 percent on a reported basis and 9.1 percent on an organic basis in the fourth quarter.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Worldwide Nutrition sales decreased 8.9 percent on a reported basis and 9.1 percent on an organic basis in the fourth quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "Results in the quarter reflect the impact of lower sales volumes compared to the prior year and new strategic price actions targeted to increase volume growth in the future.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Results in the quarter reflect the impact of lower sales volumes compared to the prior year and new strategic price actions targeted to increase volume growth in the future. In addition to these strategic price actions, ABBOTT LABORATORIES expects to increase volume growth wit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "Sales 12M25 ($ in millions) Total Pediatric Adult U.S.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Sales 12M25 ($ in millions) Total Pediatric Adult U.S. 3,606 2,158 1,448 International 4,845 1,816 3,029 Total reported 8,451 3,974 4,477",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "% Change vs. 12M24 U.S. (2.3) (2.3) (2.2) International 2.6 0.1 4.1 Total reported 0.4 (1.2) 2.0 Impact of foreign exchange (0.7) (0.5) (0.7) Impact of business exit* (0.1) \u2014 (0.3) Organic 1.2 (0.7) 3.0 U.S. (1.9) (2.3) (1.4) International 3.7 1.3 5.1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "*R e flects the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business in March 2024.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "*R e flects the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business in March 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Sales 4Q25 ($ in millions) Total Core Laboratory Molecular Point of Care Rapid Diagnostics U.S.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Sales 4Q25 ($ in millions) Total Core Laboratory Molecular Point of Care Rapid Diagnostics U.S. 967 376 39 107 445 International 1,490 1,085 102 51 252 Total reported 2,457 1,461 141 158 697",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "% Change vs. 4Q24 U.S. (8.4) 3.6 2.9 6.5 (19.7) International 1.8 5.9 3.3 9.8 (14.1) Total reported (2.5) 5.3 3.2 7.5 (17.8) Impact of foreign exchange 1.1 1.7 2.1 0.4 0.3 Organic (3.6) 3.6 1.1 7.1 (18.1) U.S. (8.4) 3.6 2.9 6.5 (19.7) International (0.2) 3.6 0.4 8.3 (14.9)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Global Diagnostics sales decreased 2.5 percent on a reported basis, decreased 3.6 percent on an organic basis, and decreased 0.2 percent when excluding COVID-19 testing-related sales 1 .",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Global Diagnostics sales decreased 2.5 percent on a reported basis, decreased 3.6 percent on an organic basis, and decreased 0.2 percent when excluding COVID-19 testing-related sales 1 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "COVID-19 testing-related sales were $89 million in the quarter, compared to $176 million in the fourth quarter of the prior year.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "COVID-19 testing-related sales were $89 million in the quarter, compared to $176 million in the fourth quarter of the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Global Core Laboratory Diagnostics sales increased 5.3 percent on a reported basis and increased 3.6 percent on an organic basis.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Global Core Laboratory Diagnostics sales increased 5.3 percent on a reported basis and increased 3.6 percent on an organic basis. Growth in other geographies was partially offset by challenging market conditions in China, including the impact of volume-based procurement programs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "Sales 12M25 ($ in millions) Total Core Laboratory Molecular Point of Care Rapid Diagnostics U.S.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Sales 12M25 ($ in millions) Total Core Laboratory Molecular Point of Care Rapid Diagnostics U.S. 3,535 1,425 150 422 1,538 International 5,402 3,935 367 184 916 Total reported 8,937 5,360 517 606 2,454",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "% Change vs. 12M24 U.S. (7.7) 7.0 0.4 3.4 (20.8) International (2.0) 0.8 (1.1) 2.5 (13.3) Total reported (4.3) 2.4 (0.7) 3.1 (18.1) Impact of foreign exchange 0.2 0.3 0.5 \u2014 (0.1) Organic (4.5) 2.1 (1.2) 3.1 (18.0) U.S. (7.7) 7.0 0.4 3.4 (20.8) International (2.3) 0.4 (1.8) 2.4...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "Sales 4Q25 ($ in millions) Total Key Emerging Markets Other U.S.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Sales 4Q25 ($ in millions) Total Key Emerging Markets Other U.S. \u2014 \u2014 \u2014 International 1,382 1,046 336 Total reported 1,382 1,046 336",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "% Change vs. 4Q24 U.S. n/a n/a n/a International 9.0 10.3 5.0 Total reported 9.0 10.3 5.0 Impact of foreign exchange 2.0 1.6 3.1 Organic 7.0 8.7 1.9 U.S. n/a n/a n/a International 7.0 8.7 1.9",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "Established Pharmaceuticals sales increased 9.0 percent on a reported basis and 7.0 percent on an organic basis in the fourth quarter.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Established Pharmaceuticals sales increased 9.0 percent on a reported basis and 7.0 percent on an organic basis in the fourth quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Key Emerging Markets include several emerging countries that represent the most attractive long-term growth opportunities for ABBOTT LABORATORIES's branded generics product portfolio.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Key Emerging Markets include several emerging countries that represent the most attractive long-term growth opportunities for ABBOTT LABORATORIES's branded generics product portfolio. Sales in these geographies increased 10.3 percent on a reported basis and 8.7 percent on an o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "Sales 12M25 ($ in millions) Total Key Emerging Markets Other U.S.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Sales 12M25 ($ in millions) Total Key Emerging Markets Other U.S. \u2014 \u2014 \u2014 International 5,536 4,167 1,369 Total reported 5,536 4,167 1,369",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "% Change vs. 12M24 U.S. n/a n/a n/a International 6.6 8.0 2.5 Total reported 6.6 8.0 2.5 Impact of foreign exchange (0.8) (1.5) 1.1 Organic 7.4 9.5 1.4 U.S. n/a n/a n/a International 7.4 9.5 1.4",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Sales 4Q25 ($ in millions) Total Rhythm Management Electro- physiology Heart Failure Vascular Structural Heart Neuro-modulation Diabetes Care U.S.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Sales 4Q25 ($ in millions) Total Rhythm Management Electro- physiology Heart Failure Vascular Structural Heart Neuro-modulation Diabetes Care U.S. 2,605 340 340 283 287 304 208 843 International 3,070 365 390 92 496 371 66 1,290 Total reported 5,675 705 730 375 783 675 274 2,133",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "% Change vs. 4Q24 U.S. 10.7 12.8 13.1 11.7 6.5 4.8 1.9 14.9 International 13.7 13.4 13.9 17.9 8.9 16.3 23.8 14.2 Total reported 12.3 13.1 13.5 13.2 8.0 10.8 6.5 14.5 Impact of foreign exchange 1.9 1.6 1.0 1.1 1.5 2.1 0.9 2.8 Organic 10.4 11.5 12.5 12.1 6.5 8.7 5.6 11.7 U.S. 10...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "revenue",
+      "claim": "Worldwide Medical Devices sales increased 12.3 percent on a reported basis and 10.4 percent on an organic basis in the fourth quarter.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Worldwide Medical Devices sales increased 12.3 percent on a reported basis and 10.4 percent on an organic basis in the fourth quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Sales growth in the quarter was led by double-digit growth in Electrophysiology, Heart Failure, Diabetes Care, and Rhythm Management.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Sales growth in the quarter was led by double-digit growth in Electrophysiology, Heart Failure, Diabetes Care, and Rhythm Management.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "revenue",
+      "claim": "In Diabetes Care, sales of continuous glucose monitors were $2.0 billion and grew 15.0 percent on a reported basis and 12.2 percent on an organic basis.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "In Diabetes Care, sales of continuous glucose monitors were $2.0 billion and grew 15.0 percent on a reported basis and 12.2 percent on an organic basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "Sales 12M25 ($ in millions) Total Rhythm Management Electro- physiology Heart Failure Vascular Structural Heart Neuro-modulation Diabetes Care U.S.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Sales 12M25 ($ in millions) Total Rhythm Management Electro- physiology Heart Failure Vascular Structural Heart Neuro-modulation Diabetes Care U.S. 9,968 1,334 1,283 1,107 1,118 1,172 773 3,181 International 11,419 1,315 1,481 341 1,877 1,351 237 4,817 Total reported 21,387 2,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "% Change vs.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "% Change vs. 12M24 U.S. 13.4 15.7 12.4 12.2 5.8 11.5 0.8 20.8 International 12.0 6.4 11.7 16.4 5.4 13.0 21.5 15.4 Total reported 12.6 10.9 12.0 13.2 5.6 12.3 5.0 17.5 Impact of foreign exchange 0.7 0.7 0.4 0.5 0.5 0.8 0.2 1.2 Organic 11.9 10.2 11.6 12.7 5.1 11.5 4.8 16.3 U.S....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "ABBOTT LABORATORIES projects full-year 2026 organic sales growth to be in the range of 6.5% to 7.5%.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "ABBOTT LABORATORIES projects full-year 2026 organic sales growth to be in the range of 6.5% to 7.5%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "ABBOTT LABORATORIES projects full-year 2026 adjusted diluted earnings per share of $5.55 to $5.80 and first-quarter 2026 adjusted diluted earnings per share of $1.12 to $1.18.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "ABBOTT LABORATORIES projects full-year 2026 adjusted diluted earnings per share of $5.55 to $5.80 and first-quarter 2026 adjusted diluted earnings per share of $1.12 to $1.18.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "ABBOTT LABORATORIES has not provided the related GAAP financial measures on a forward-looking basis for these forward-looking non-GAAP financial measures because the company is unable to predict with reasonable certainty and without unreasonable effort the timing and impact of certain items such as restructuring and cost reduction initiatives, charges for intangible asset impairments, acquisition-related expenses, and foreign exchange, which could significantly impact ABBOTT LABORATORIES's results in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "ABBOTT LABORATORIES has not provided the related GAAP financial measures on a forward-looking basis for these forward-looking non-GAAP financial measures because the company is unable to predict with reasonable certainty and without unreasonable effort the timing and impact of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "ABBOTT LABORATORIES DECLARES 408 th CONSECUTIVE QUARTERLY DIVIDEND",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "ABBOTT LABORATORIES DECLARES 408 th CONSECUTIVE QUARTERLY DIVIDEND",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "On Dec.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "On Dec. 12, 2025, the board of directors of ABBOTT LABORATORIES declared the company's quarterly dividend of $0.63 per share. ABBOTT LABORATORIES's cash dividend is payable Feb. 13, 2026, to shareholders of record at the close of business on Jan. 15, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "ABBOTT LABORATORIES has increased its dividend payout for 54 consecutive years and is a member of the S&P 500 Dividend Aristocrats Index, which tracks companies that have annually increased their dividend for at least 25 consecutive years.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "ABBOTT LABORATORIES has increased its dividend payout for 54 consecutive years and is a member of the S&P 500 Dividend Aristocrats Index, which tracks companies that have annually increased their dividend for at least 25 consecutive years.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "ABBOTT LABORATORIES is a global healthcare leader that helps people live more fully at all stages of life.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "ABBOTT LABORATORIES is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and brand...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "Connect with us at www.ABBOTT LABORATORIES.com and on LinkedIn, Facebook, Instagram, X and YouTube.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Connect with us at www.ABBOTT LABORATORIES.com and on LinkedIn, Facebook, Instagram, X and YouTube.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "\u2014 Private Securities Litigation Reform Act of 1995 \u2014",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "\u2014 Private Securities Litigation Reform Act of 1995 \u2014",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "ABBOTT LABORATORIES Financial: Michael Comilla, 224-668-1872 Tamika McLoughlin, 224-399-5082 Randy Blakley, 224-668-0036 ABBOTT LABORATORIES Media: Karen Twigg May, 224-668-2681 Kate Dyer, 224-668-9965",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "ABBOTT LABORATORIES Financial: Michael Comilla, 224-668-1872 Tamika McLoughlin, 224-399-5082 Randy Blakley, 224-668-0036 ABBOTT LABORATORIES Media: Karen Twigg May, 224-668-2681 Kate Dyer, 224-668-9965",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "1.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "1. In the fourth quarter of 2025, total worldwide sales were $11.459 billion, total Diagnostics sales were $2.457 billion and COVID-19 testing-related sales were $89 million. In the fourth quarter of 2024, total worldwide sales were $10.974 billion, total Diagnostics sales wer...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "2.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "2. In the full-year 2025, total worldwide sales were $44.328 billion, total Diagnostics sales were $8.937 billion and COVID-19 testing-related sales were $297 million. In the full year 2024, total worldwide sales were $41.950 billion, total Diagnostics sales were $9.341 billio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "Fourth Quarter Ended December 31, 2025 and 2024",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Fourth Quarter Ended December 31, 2025 and 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "4Q25 4Q24 % Change Net Sales $11,459 $10,974 4.4 Cost of products sold, excluding amortization expense 4,922 4,942 (0.4) Amortization of intangible assets 422 465 (9.4) Research and development 735 749 (1.9) Selling, general, and administrative 3,129 2,907 7.7 Total Operating Cost and Expenses 9,208 9,063 1.6 Operating Earnings 2,251 1,911 17.8 Interest expense, net 42 45 (8.0) Net foreign exchange (gain) loss (15) (10) n/m Other (income) expense, net (134) (154) (13.0) Earnings before taxes 2,358 2,030 16.1 Taxes on earnings 582 (7,199) n/m 1) Net Earnings $1,776 $9,229 n/m Net Earnings excluding Specified Items, as described below $2,630 $2,349 11.9 2) Diluted Earnings per Common Share $1.01 $5.27 n/m Diluted Earnings per Common Share, excluding Specified Items, as described below $1.50 $1.34 11.9 2) Average Number of Common Shares Outstanding Plus Dilutive Common Stock Options 1,747 1,746",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "4Q25 4Q24 % Change Net Sales $11,459 $10,974 4.4 Cost of products sold, excluding amortization expense 4,922 4,942 (0.4) Amortization of intangible assets 422 465 (9.4) Research and development 735 749 (1.9) Selling, general, and administrative 3,129 2,907 7.7 Total Operating...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "See tables on page 13 for an explanation of certain non-GAAP financial information.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "See tables on page 13 for an explanation of certain non-GAAP financial information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "n/m = Percent change is not meaningful.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "n/m = Percent change is not meaningful.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "See footnotes on the following page.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "See footnotes on the following page.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "1) 2025 Taxes on Earnings includes the recognition of approximately $20 million of net tax expense as a result of the resolution of various tax positions related to prior years.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "1) 2025 Taxes on Earnings includes the recognition of approximately $20 million of net tax expense as a result of the resolution of various tax positions related to prior years. 2025 Taxes on Earnings also includes approximately $150 million in adjustments related to prior rec...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "costs_or_expenses",
+      "claim": "2024 Taxes on Earnings includes $7.497 billion in non-cash valuation allowance adjustments resulting from the restructuring of certain foreign affiliates and the confirmation of certain tax filing positions.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "2024 Taxes on Earnings includes $7.497 billion in non-cash valuation allowance adjustments resulting from the restructuring of certain foreign affiliates and the confirmation of certain tax filing positions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "costs_or_expenses",
+      "claim": "2) 2025 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax charges of $854 million, or $0.49 per share, for intangible amortization, charges related to restructuring, legal reserves, acquisitions, and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "2) 2025 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax charges of $854 million, or $0.49 per share, for intangible amortization, charges related to restructuring, legal reserves, acquisitions, and other net expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "costs_or_expenses",
+      "claim": "2024 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax benefits of $6.880 billion, or $3.93 per share, for non-cash valuation allowance adjustments, intangible amortization, charges related to intangible impairments, expenses associated with restructuring actions, acquisitions and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "2024 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax benefits of $6.880 billion, or $3.93 per share, for non-cash valuation allowance adjustments, intangible amortization, charges related to intangible impairments, expenses...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2025 and 2024",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025 and 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "revenue",
+      "claim": "12M25 12M24 % Change Net Sales $44,328 $41,950 5.7 Cost of products sold, excluding amortization expense 19,319 18,706 3.3 Amortization of intangible assets 1,682 1,878 (10.5) Research and development 2,942 2,844 3.5 Selling, general, and administrative 12,332 11,697 5.4 Total Operating Cost and Expenses 36,275 35,125 3.3 Operating Earnings 8,053 6,825 18.0 Interest expense, net 185 215 (13.8) Net foreign exchange (gain) loss (50) (27) n/m Other (income) expense, net (548) (376) 45.9 Earnings before taxes 8,466 7,013 20.7 Taxes on earnings 1,942 (6,389) n/m 1) Net Earnings $6,524 $13,402 n/m Net Earnings excluding Specified Items, as described below $9,040 $8,200 10.2 2) Diluted Earnings per Common Share $3.72 $7.64 n/m Diluted Earnings per Common Share, excluding Specified Items, as described below $5.15 $4.67 10.3 2) Average Number of Common Shares Outstanding Plus Dilutive Common Stock Options 1,749 1,748",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "12M25 12M24 % Change Net Sales $44,328 $41,950 5.7 Cost of products sold, excluding amortization expense 19,319 18,706 3.3 Amortization of intangible assets 1,682 1,878 (10.5) Research and development 2,942 2,844 3.5 Selling, general, and administrative 12,332 11,697 5.4 Total...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "See tables on page 14 for an explanation of certain non-GAAP financial information.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "See tables on page 14 for an explanation of certain non-GAAP financial information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "balance_sheet_or_cash",
+      "claim": "1) 2025 Taxes on Earnings includes the recognition of approximately $70 million of net tax benefit as a result of the resolution of various tax positions related to prior years.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "1) 2025 Taxes on Earnings includes the recognition of approximately $70 million of net tax benefit as a result of the resolution of various tax positions related to prior years. 2025 Taxes on Earnings also includes approximately $610 million in adjustments related to prior rec...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "costs_or_expenses",
+      "claim": "2) 2025 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax charges of $2.516 billion, or $1.43 per share, for intangible amortization, charges related to investment impairments, restructuring, legal reserves, acquisitions, and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "2) 2025 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax charges of $2.516 billion, or $1.43 per share, for intangible amortization, charges related to investment impairments, restructuring, legal reserves, acquisitions, and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "costs_or_expenses",
+      "claim": "2024 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax benefits of $5.202 billion, or $2.97 per share, for non-cash valuation allowance adjustments, intangible amortization, charges related to intangible impairments, expenses associated with restructuring actions, acquisitions and a divestiture, and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "2024 Net Earnings and Diluted Earnings per Common Share, excluding Specified Items, excludes net after-tax benefits of $5.202 billion, or $2.97 per share, for non-cash valuation allowance adjustments, intangible amortization, charges related to intangible impairments, expenses...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "4Q25 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 422 $ (422) $ \u2014 Gross Margin 6,115 428 6,543 R&D 735 (29) 706 SG&A 3,129 (254) 2,875 Other (income) expense, net (134) (17) (151) Earnings before taxes 2,358 728 3,086 Taxes on Earnings 582 (126) 456 Net Earnings 1,776 854 2,630 Diluted Earnings per Share $ 1.01 $ 0.49 $ 1.50",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "4Q25 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 422 $ (422) $ \u2014 Gross Margin 6,115 428 6,543 R&D 735 (29) 706 SG&A 3,129 (254) 2,875 Other (income) expense, net (134) (17) (151) Earnings before taxes 2,358 728 3,086 Taxes on Earnings 582 (126) 456...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "costs_or_expenses",
+      "claim": "Specified items reflect intangible amortization expense of $422 million and other net expenses of $306 million associated with restructuring actions, legal reserves, acquisitions, and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "Specified items reflect intangible amortization expense of $422 million and other net expenses of $306 million associated with restructuring actions, legal reserves, acquisitions, and other net expenses. See page 17 for additional details regarding specified items.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "4Q24 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 465 $ (465) $ \u2014 Gross Margin 5,567 673 6,240 R&D 749 (59) 690 SG&A 2,907 (21) 2,886 Other (income) expense, net (154) 20 (134) Earnings before taxes 2,030 733 2,763 Taxes on Earnings (7,199) 7,613 414 Net Earnings 9,229 (6,880) 2,349 Diluted Earnings per Share $ 5.27 $ (3.93) $ 1.34",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "4Q24 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 465 $ (465) $ \u2014 Gross Margin 5,567 673 6,240 R&D 749 (59) 690 SG&A 2,907 (21) 2,886 Other (income) expense, net (154) 20 (134) Earnings before taxes 2,030 733 2,763 Taxes on Earnings (7,199) 7,613 41...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "costs_or_expenses",
+      "claim": "Specified items reflect intangible amortization expense of $465 million and other net expenses of $268 million associated with restructuring actions, acquisitions and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Specified items reflect intangible amortization expense of $465 million and other net expenses of $268 million associated with restructuring actions, acquisitions and other net expenses. See page 18 for additional details regarding specified items.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "earnings_or_eps",
+      "claim": "12M25 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 1,682 $ (1,682) $ \u2014 Gross Margin 23,327 1,824 25,151 R&D 2,942 (112) 2,830 SG&A 12,332 (312) 12,020 Other (income) expense, net (548) (48) (596) Earnings before taxes 8,466 2,296 10,762 Taxes on Earnings 1,942 (220) 1,722 Net Earnings 6,524 2,516 9,040 Diluted Earnings per Share $ 3.72 $ 1.43 $ 5.15",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "12M25 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 1,682 $ (1,682) $ \u2014 Gross Margin 23,327 1,824 25,151 R&D 2,942 (112) 2,830 SG&A 12,332 (312) 12,020 Other (income) expense, net (548) (48) (596) Earnings before taxes 8,466 2,296 10,762 Taxes on Ear...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "costs_or_expenses",
+      "claim": "Specified items reflect intangible amortization expense of $1.682 billion and other net expenses of $614 million associated with restructuring actions, legal reserves, acquisitions, investment impairment charges, and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "Specified items reflect intangible amortization expense of $1.682 billion and other net expenses of $614 million associated with restructuring actions, legal reserves, acquisitions, investment impairment charges, and other net expenses. See page 19 for additional details regar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "earnings_or_eps",
+      "claim": "12M24 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 1,878 $ (1,878) $ \u2014 Gross Margin 21,366 2,213 23,579 R&D 2,844 (140) 2,704 SG&A 11,697 (117) 11,580 Other (income) expense, net (376) (163) (539) Earnings before taxes 7,013 2,633 9,646 Taxes on Earnings (6,389) 7,835 1,446 Net Earnings 13,402 (5,202) 8,200 Diluted Earnings per Share $ 7.64 $ (2.97) $ 4.67",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "12M24 As Reported (GAAP) Specified Items As Adjusted Intangible Amortization $ 1,878 $ (1,878) $ \u2014 Gross Margin 21,366 2,213 23,579 R&D 2,844 (140) 2,704 SG&A 11,697 (117) 11,580 Other (income) expense, net (376) (163) (539) Earnings before taxes 7,013 2,633 9,646 Taxes on Ear...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "costs_or_expenses",
+      "claim": "Specified items reflect intangible amortization expense of $1.878 billion and other net expenses of $755 million associated with intangible impairments, restructuring actions, acquisitions, a divestiture and other net expenses.",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "Specified items reflect intangible amortization expense of $1.878 billion and other net expenses of $755 million associated with intangible impairments, restructuring actions, acquisitions, a divestiture and other net expenses. See page 19 for additional details regarding spec...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "other",
+      "claim": "4Q25 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 2,358 $ 582 24.7 % 1) Specified items 728 (126) Excluding specified items $ 3,086 $ 456 14.8 %",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "4Q25 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 2,358 $ 582 24.7 % 1) Specified items 728 (126) Excluding specified items $ 3,086 $ 456 14.8 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "other",
+      "claim": "4Q24 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 2,030 $ (7,199) (354.6 %) 2) Specified items 733 7,613 Excluding specified items $ 2,763 $ 414 15.0 %",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "4Q24 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 2,030 $ (7,199) (354.6 %) 2) Specified items 733 7,613 Excluding specified items $ 2,763 $ 414 15.0 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "costs_or_expenses",
+      "claim": "2) 2024 Taxes on Earnings includes $7.497 billion in non-cash valuation allowance adjustments resulting from the restructuring of certain foreign affiliates and the confirmation of certain tax filing positions.",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "2) 2024 Taxes on Earnings includes $7.497 billion in non-cash valuation allowance adjustments resulting from the restructuring of certain foreign affiliates and the confirmation of certain tax filing positions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "other",
+      "claim": "12M25 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 8,466 $ 1,942 22.9 % 3) Specified items 2,296 (220) Excluding specified items $ 10,762 $ 1,722 16.0 %",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "12M25 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 8,466 $ 1,942 22.9 % 3) Specified items 2,296 (220) Excluding specified items $ 10,762 $ 1,722 16.0 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "other",
+      "claim": "12M24 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 7,013 $ (6,389) (91.1 %) 4) Specified items 2,633 7,835 Excluding specified items $ 9,646 $ 1,446 15.0 %",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "12M24 ($ in millions) Pre-Tax Income Taxes on Earnings Tax Rate As reported (GAAP) $ 7,013 $ (6,389) (91.1 %) 4) Specified items 2,633 7,835 Excluding specified items $ 9,646 $ 1,446 15.0 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "balance_sheet_or_cash",
+      "claim": "3) 2025 Taxes on Earnings includes the recognition of approximately $70 million of net tax benefit as a result of the resolution of various tax positions related to prior years.",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "3) 2025 Taxes on Earnings includes the recognition of approximately $70 million of net tax benefit as a result of the resolution of various tax positions related to prior years. 2025 Taxes on Earnings also includes approximately $610 million in adjustments related to prior rec...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "costs_or_expenses",
+      "claim": "4) 2024 Taxes on Earnings includes $7.497 billion in non-cash valuation allowance adjustments resulting from the restructuring of certain foreign affiliates and the confirmation of certain tax filing positions.",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "4) 2024 Taxes on Earnings includes $7.497 billion in non-cash valuation allowance adjustments resulting from the restructuring of certain foreign affiliates and the confirmation of certain tax filing positions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "revenue",
+      "claim": "12M25 12M24 % Change vs.",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "12M25 12M24 % Change vs. 12M24 Non-GAAP ABBOTT LABORATORIES Reported ABBOTT LABORATORIES Reported Impact from business exit (a) Adjusted Revenue Reported Adjusted Organic Total Company 44,328 41,950 (13) 41,937 5.7 5.7 5.5 U.S. 17,126 16,323 (13) 16,310 4.9 5.0 5.0 Intl 27,202...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "other",
+      "claim": "(a) Reflects the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business.",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "(a) Reflects the impact of discontinuing the ZonePerfect \u00ae product line in the Nutrition business. This action was initiated in March 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "other",
+      "claim": "Fourth Quarter Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "Fourth Quarter Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "earnings_or_eps",
+      "claim": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ 2 $ 3 $ 422 $ 1 $ 428 R&D \u2014 (14) \u2014 (15) (29) SG&A (38) (51) \u2014 (165) (254) Other (income) expense, net (8) (3) \u2014 (6) (17) Earnings before taxes $ 48 $ 71 $ 422 $ 187 728 Taxes on Earnings (d) (126) Net Earnings $ 854 Diluted Earnings per Share $ 0.49",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ 2 $ 3 $ 422 $ 1 $ 428 R&D \u2014 (14) \u2014 (15) (29) SG&A (38) (51) \u2014 (165) (254) Other (income) expense, net (8) (3) \u2014 (6) (17) E...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "other",
+      "claim": "The table above provides additional details regarding the specified items described on page 13.",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "The table above provides additional details regarding the specified items described on page 13.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "costs_or_expenses",
+      "claim": "a) Acquisition-related expenses include integration costs, which represent incremental costs directly related to integrating acquired businesses, as well as other costs related to business acquisitions.",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "a) Acquisition-related expenses include integration costs, which represent incremental costs directly related to integrating acquired businesses, as well as other costs related to business acquisitions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_099",
+      "category": "costs_or_expenses",
+      "claim": "b) Restructuring and cost reduction initiative expenses include severance, outplacement and other direct costs associated with specific restructuring plans.",
+      "value": null,
+      "source_ids": [
+        "S099"
+      ],
+      "source_quote": "b) Restructuring and cost reduction initiative expenses include severance, outplacement and other direct costs associated with specific restructuring plans.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_100",
+      "category": "other",
+      "claim": "c) Other includes $165 million for legal reserves related to a certain agreed-upon settlement.",
+      "value": null,
+      "source_ids": [
+        "S100"
+      ],
+      "source_quote": "c) Other includes $165 million for legal reserves related to a certain agreed-upon settlement. Other also includes incremental costs to comply with the European Union's Medical Device Regulations (MDR) and In Vitro Diagnostics Medical Device Regulations (IVDR) requirements for...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_101",
+      "category": "costs_or_expenses",
+      "claim": "d) Reflects the net tax benefit associated with the specified items and recognition of a tax expense as a result of the resolution of various tax positions related to prior years.",
+      "value": null,
+      "source_ids": [
+        "S101"
+      ],
+      "source_quote": "d) Reflects the net tax benefit associated with the specified items and recognition of a tax expense as a result of the resolution of various tax positions related to prior years. Taxes on Earnings includes approximately $150 million in adjustments related to prior recognition...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_102",
+      "category": "other",
+      "claim": "Fourth Quarter Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S102"
+      ],
+      "source_quote": "Fourth Quarter Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_103",
+      "category": "earnings_or_eps",
+      "claim": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ \u2014 $ 49 $ 465 $ 159 $ 673 R&D (1) (20) \u2014 (38) (59) SG&A (5) (22) \u2014 6 (21) Other (income) expense, net (2) \u2014 \u2014 22 20 Earnings before taxes $ 8 $ 91 $ 465 $ 169 733 Taxes on Earnings (d) 7,613 Net Earnings $ (6,880) Diluted Earnings per Share $ (3.93)",
+      "value": null,
+      "source_ids": [
+        "S103"
+      ],
+      "source_quote": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ \u2014 $ 49 $ 465 $ 159 $ 673 R&D (1) (20) \u2014 (38) (59) SG&A (5) (22) \u2014 6 (21) Other (income) expense, net (2) \u2014 \u2014 22 20 Earning...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_104",
+      "category": "other",
+      "claim": "The table above provides additional details regarding the specified items described on page 13 .",
+      "value": null,
+      "source_ids": [
+        "S104"
+      ],
+      "source_quote": "The table above provides additional details regarding the specified items described on page 13 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_105",
+      "category": "costs_or_expenses",
+      "claim": "b) Restructuring and cost reduction initiative expenses include severance, outplacement and other direct costs associated with specific restructuring plans and cost reduction initiatives.",
+      "value": null,
+      "source_ids": [
+        "S105"
+      ],
+      "source_quote": "b) Restructuring and cost reduction initiative expenses include severance, outplacement and other direct costs associated with specific restructuring plans and cost reduction initiatives.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_106",
+      "category": "other",
+      "claim": "c) Other includes incremental costs to comply with the European Union's Medical Device Regulations (MDR) and In Vitro Diagnostics Medical Device Regulations (IVDR) requirements for previously approved products and intangible asset impairment charges.",
+      "value": null,
+      "source_ids": [
+        "S106"
+      ],
+      "source_quote": "c) Other includes incremental costs to comply with the European Union's Medical Device Regulations (MDR) and In Vitro Diagnostics Medical Device Regulations (IVDR) requirements for previously approved products and intangible asset impairment charges.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_107",
+      "category": "balance_sheet_or_cash",
+      "claim": "d) Reflects the net tax benefit associated with the specified items, including non-cash valuation allowance adjustments.",
+      "value": null,
+      "source_ids": [
+        "S107"
+      ],
+      "source_quote": "d) Reflects the net tax benefit associated with the specified items, including non-cash valuation allowance adjustments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_108",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S108"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_109",
+      "category": "earnings_or_eps",
+      "claim": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ 3 $ 128 $ 1,682 $ 11 $ 1,824 R&D (1) (56) \u2014 (55) (112) SG&A (53) (100) \u2014 (159) (312) Other (income) expense, net (26) (3) \u2014 (19) (48) Earnings before taxes $ 83 $ 287 $ 1,682 $ 244 2,296 Taxes on Earnings (d) (220) Net Earnings $ 2,516 Diluted Earnings per Share $ 1.43",
+      "value": null,
+      "source_ids": [
+        "S109"
+      ],
+      "source_quote": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ 3 $ 128 $ 1,682 $ 11 $ 1,824 R&D (1) (56) \u2014 (55) (112) SG&A (53) (100) \u2014 (159) (312) Other (income) expense, net (26) (3)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_110",
+      "category": "other",
+      "claim": "The table above provides additional details regarding the specified items described on page 14.",
+      "value": null,
+      "source_ids": [
+        "S110"
+      ],
+      "source_quote": "The table above provides additional details regarding the specified items described on page 14.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_111",
+      "category": "other",
+      "claim": "c) Other includes $165 million for legal reserves related to a certain agreed-upon settlement.",
+      "value": null,
+      "source_ids": [
+        "S111"
+      ],
+      "source_quote": "c) Other includes $165 million for legal reserves related to a certain agreed-upon settlement. Other also includes incremental costs to comply with the MDR and IVDR regulations for previously approved products and charges for investment impairments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_112",
+      "category": "balance_sheet_or_cash",
+      "claim": "d) Reflects the net tax benefit associated with the specified items and recognition of a tax benefit as a result of the resolution of various tax positions related to prior years.",
+      "value": null,
+      "source_ids": [
+        "S112"
+      ],
+      "source_quote": "d) Reflects the net tax benefit associated with the specified items and recognition of a tax benefit as a result of the resolution of various tax positions related to prior years. Taxes on Earnings includes approximately $610 million in adjustments related to prior recognition...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_113",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S113"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_114",
+      "category": "earnings_or_eps",
+      "claim": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ 2 $ 125 $ 1,878 $ 208 $ 2,213 R&D (5) (21) \u2014 (114) (140) SG&A (37) (39) \u2014 (41) (117) Other (income) expense, net (155) \u2014 \u2014 (8) (163) Earnings before taxes $ 199 $ 185 $ 1,878 $ 371 2,633 Taxes on Earnings (d) 7,835 Net Earnings $ (5,202) Diluted Earnings per Share $ (2.97)",
+      "value": null,
+      "source_ids": [
+        "S114"
+      ],
+      "source_quote": "Acquisition or Divestiture- related (a) Restructuring and Cost Reduction Initiatives (b) Intangible Amortization Other (c) Total Specifieds Gross Margin $ 2 $ 125 $ 1,878 $ 208 $ 2,213 R&D (5) (21) \u2014 (114) (140) SG&A (37) (39) \u2014 (41) (117) Other (income) expense, net (155) \u2014 \u2014...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_115",
+      "category": "costs_or_expenses",
+      "claim": "a) Includes the loss on the sale of a non-core business.",
+      "value": null,
+      "source_ids": [
+        "S115"
+      ],
+      "source_quote": "a) Includes the loss on the sale of a non-core business. Acquisition-related expenses include integration costs, which represent incremental costs directly related to integrating acquired businesses, as well as other costs related to business acquisitions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_116",
+      "category": "other",
+      "claim": "c) Other includes incremental costs to comply with the MDR and IVDR regulations for previously approved products and charges for investment and intangible asset impairments.",
+      "value": null,
+      "source_ids": [
+        "S116"
+      ],
+      "source_quote": "c) Other includes incremental costs to comply with the MDR and IVDR regulations for previously approved products and charges for investment and intangible asset impairments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.023801, ret_20d=-0.03275, market_ret_20d=0.007067",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.023801, ret_20d=-0.03275, market_ret_20d=0.007067",
+      "support_label": "supported"
+    }
+  ]
+}

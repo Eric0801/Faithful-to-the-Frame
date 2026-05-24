@@ -1,0 +1,237 @@
+{
+  "event_id": "evt_0081",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AXCELIS TECHNOLOGIES INC",
+  "ticker": "ACLS",
+  "company_alias": "AXCELIS TECHNOLOGIES INC",
+  "masked_company": "Company H",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-17",
+  "filing_metadata": {
+    "cik": "1113232",
+    "accession_number": "0001104659-26-016391",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-17T16:06:16-05:00",
+    "event_date": "2026-02-17",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "GAAP Gross Margin of 47.0%, and Non-GAAP Gross Margin of 47.3%",
+      "token_count": 16
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "GAAP Operating Margin of 15.2% and Non-GAAP Operating Margin of 21.1%",
+      "token_count": 18
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP Diluted Earnings Per Share of $1.10, and Non-GAAP Diluted Earnings Per Share of $1.49",
+      "token_count": 23
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "BEVERLY, Mass., 2026-02-17T16:06:16-05:00\u2014 AXCELIS TECHNOLOGIES INC. (Nasdaq:ACLS) today announced financial results for the fourth quarter and full year ended December 31, 2025.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "President and CEO commented, \u201cAXCELIS TECHNOLOGIES INC exited 2025 on a strong note with fourth quarter results that exceeded our outlook. We achieved another record quarter of CS&I revenue, reflecting the strength of our growing installed base and our strategic focus on driving upgrades and service contracts. We continue to execute with discipline, particularly as our customers navigate a mixed demand environment in Power and General Mature markets. At the same time, we are encouraged by the improving demand trends in our Memory market and expect this momentum to continue in 2026.\u201d",
+      "token_count": 144
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cWe continue working toward closing our pending merger with Veeco and remain confident in the compelling prospects and potential of the combined company. Together, we expect to be even better positioned to capitalize on the secular growth trends driven by AI, electrification, and next generation device architectures \u2014 and expect to leverage complementary strengths across our portfolios and teams to deliver greater value for all of our stakeholders\u201d.",
+      "token_count": 114
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Executive Vice President and Chief Financial Officer stated, \u201cWe closed the year with strong financial execution in the fourth quarter, highlighted by record CS&I performance and gross margins above expectations. These results reflect operational discipline, favorable mix, and the strength of our aftermarket strategy. For the full year, we delivered double digit CS&I growth, expanded gross margins, and generated more than $100 million of free cash flow, while continuing to invest in innovation and returning more than $120 million in capital to shareholders.\u201d",
+      "token_count": 141
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For the first quarter ending March 31, 2026, AXCELIS TECHNOLOGIES INC expects revenues of approximately $195 million, GAAP earnings per diluted share of approximately $0.38, and non-GAAP earnings per share of approximately $0.71.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "This press release includes financial measures that are not presented in accordance with U.S. generally accepted accounting principles (\u201cnon-GAAP financial measures\u201d). These non-GAAP financial measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating income, non-GAAP operating margin, non-GAAP income tax provision, Adjusted EBITDA, non-GAAP net income, and non-GAAP diluted earnings per share, and reflect adjustments for the impact of share-based compensation expense, certain items related to restructuring and severance charges and any associated adjustments and transaction and integration costs associated with the merger agreement with Veeco Instruments announced on October 1, 2025.",
+      "token_count": 179
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Reconciliations of these non-GAAP financial measures to the most directly comparable financial measures calculated and presented in accordance with GAAP are provided in the financial tables included in this release.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For further information regarding these non-GAAP financial measures, please refer to the tables presenting reconciliations of our non-GAAP results to our GAAP results and the \u201cNotes on Our Non-GAAP Financial Information\u201d at the end of this press release.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "AXCELIS TECHNOLOGIES INC (Nasdaq:ACLS), headquartered in Beverly, Mass., has been providing innovative, high-productivity solutions for the semiconductor industry for over 45 years. AXCELIS TECHNOLOGIES INC is dedicated to developing enabling process applications through the design, manufacture and complete life cycle support of ion implantation systems, one of the most critical and enabling steps in the IC manufacturing process. Learn more about AXCELIS TECHNOLOGIES INC at www.AXCELIS TECHNOLOGIES INC.com.",
+      "token_count": 115
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Common stock, $0.001 par value, 75,000 shares authorized; 30,717 shares issued and outstanding at December 31, 2025; 32,365 shares issued and outstanding at December 31, 2024",
+      "token_count": 44
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Expenditures for property, plant and equipment and capitalized software",
+      "token_count": 18
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Effect of exchange rate changes on cash and cash equivalents",
+      "token_count": 15
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net (decrease) increase in cash, cash equivalents and restricted cash",
+      "token_count": 18
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Cash, cash equivalents and restricted cash at beginning of period",
+      "token_count": 17
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Cash, cash equivalents and restricted cash at end of period",
+      "token_count": 15
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Management uses non-GAAP gross profit, gross margin, operating income, operating margin, income tax provision, net income, diluted earnings per share, and Adjusted EBITDA to evaluate the Company\u2019s operating and financial performance and for planning purposes. AXCELIS TECHNOLOGIES INC believes these measures enhance an overall understanding of its performance and investors\u2019 ability to review the Company\u2019s business from the same perspective as the Company\u2019s management.",
+      "token_count": 114
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "There are limitations in using non-GAAP financial measures because the non-GAAP financial measures are not prepared in accordance with GAAP, may be different from non-GAAP financial measures used by other companies, and may exclude certain items that may have a material impact upon our reported financial results. The presentation of this additional information is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with GAAP.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Totals presented may not sum and percentages may not recalculate using figures presented due to rounding.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Income tax effect of non-GAAP adjustments 2",
+      "token_count": 11
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Note 1: Restructuring and other costs primarily related to early retirement programs and severance costs, due to global cost-saving initiatives.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Note 2: Impact of taxes from non-GAAP adjustments, uses adjusted tax rate of 14%.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Note 3: Transaction and integration costs include expenses associated with the merger agreement with Veeco Instruments, announced on October 1, 2025.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Note 2: Transaction and integration costs include expenses associated with the merger agreement with Veeco Instruments, announced on October 1, 2025.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Income tax effect of non-GAAP adjustments1",
+      "token_count": 11
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Note 1: Impact of taxes from non-GAAP adjustments, uses adjusted tax rate of 14%.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Note 3: Restructuring and other costs primarily related to early retirement programs and severance costs, due to global cost-saving initiatives.",
+      "token_count": 36
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.152451,
+    "ret_20d": 0.057775,
+    "market_ret_20d": -0.012737
+  },
+  "outcome_blind": true
+}

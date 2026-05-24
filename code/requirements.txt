@@ -1,2 +1,6 @@
-# The public reference pipeline uses only the Python standard library.
+# The released pipeline runs in mock mode with the Python standard library.
 # Python 3.10+ is recommended.
+#
+# Optional: install sentence-transformers if you want semantic rationale
+# distances in compute_diversity_metrics.py instead of the deterministic
+# lexical fallback.

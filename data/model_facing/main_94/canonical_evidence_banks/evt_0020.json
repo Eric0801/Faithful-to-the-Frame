@@ -1,0 +1,424 @@
+{
+  "event_id": "evt_0020",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "NIKE, Inc.",
+  "ticker": "NKE",
+  "company_alias": "NIKE, Inc.",
+  "masked_company": "Company BB",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-03-31",
+  "accepted_at_et": "2026-03-31T16:15:22-04:00",
+  "source_packet_path": "source_packets/evt_0020.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Investor Contact: Media Contact: Paul Trussell Sandra Carreon-John investor.relations@NIKE, Inc..com media.relations@NIKE, Inc..com",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Investor Contact: Media Contact: Paul Trussell Sandra Carreon-John investor.relations@NIKE, Inc..com media.relations@NIKE, Inc..com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "BEAVERTON, Ore., 2026-03-31T16:15:22-04:00 \u2014 NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "BEAVERTON, Ore., 2026-03-31T16:15:22-04:00 \u2014 NIKE, Inc.. (NYSE:NKE) today reported fiscal 2026 financial results for its third quarter ended February 28, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u2022 Third quarter revenues were $11.3 billion, flat on a reported basis and down 3 percent on a currency-neutral basis*",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Third quarter revenues were $11.3 billion, flat on a reported basis and down 3 percent on a currency-neutral basis*",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u2022 Wholesale revenues were $6.5 billion, up 5 percent on a reported basis and up 1 percent on a currency-neutral basis",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Wholesale revenues were $6.5 billion, up 5 percent on a reported basis and up 1 percent on a currency-neutral basis",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 NIKE, Inc. Direct revenues were $4.5 billion, down 4 percent on a reported basis and down 7 percent on a currency-neutral basis",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u2022 Gross margin decreased 130 basis points to 40.2 percent",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Gross margin decreased 130 basis points to 40.2 percent",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted earnings per share was $0.35",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Diluted earnings per share was $0.35",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "\"This quarter we took meaningful actions to improve the health and quality of our business.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\"This quarter we took meaningful actions to improve the health and quality of our business. The pace of progress is different across the portfolio and the areas we prioritized first continue to drive momentum,\" said President and Chief Executive Officer, NIKE, Inc.. \"The work...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "\"We delivered third quarter results in line with our expectations, and our teams continue to execute with discipline,\" said Matthew Friend, Executive Vice President and Chief Financial Officer, NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\"We delivered third quarter results in line with our expectations, and our teams continue to execute with discipline,\" said Matthew Friend, Executive Vice President and Chief Financial Officer, NIKE, Inc.. \"Win Now actions will continue to impact results over the balance of th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "\u2022 Revenues for NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Revenues for NIKE, Inc.. were $11.3 billion, flat on a reported basis and down 3 percent on a currency-neutral basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "\u25e6 NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u25e6 NIKE, Inc. Brand revenues were $11.0 billion, up 1 percent on a reported basis and down 2 percent on a currency-neutral basis, primarily due to declines in EMEA and Greater China, partially offset by growth in North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "\u25e6 Wholesale revenues were $6.5 billion, up 5 percent on a reported basis and up 1 percent on a currency-neutral basis, primarily due to growth in North America.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u25e6 Wholesale revenues were $6.5 billion, up 5 percent on a reported basis and up 1 percent on a currency-neutral basis, primarily due to growth in North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "\u25e6 NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u25e6 NIKE, Inc. Direct revenues were $4.5 billion, down 4 percent on a reported basis and down 7 percent on a currency-neutral basis, due to a 9 percent decrease in NIKE, Inc. Brand Digital and a 5 percent decrease in NIKE, Inc.-owned stores.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "\u25e6 Revenues for Converse were $264 million, down 35 percent on a reported basis and down 37 percent on a currency-neutral basis, due to declines across all territories.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u25e6 Revenues for Converse were $264 million, down 35 percent on a reported basis and down 37 percent on a currency-neutral basis, due to declines across all territories.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "margins",
+      "claim": "\u2022 Gross margin decreased 130 basis points to 40.2 percent, primarily due to higher tariffs in North America.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Gross margin decreased 130 basis points to 40.2 percent, primarily due to higher tariffs in North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Selling and administrative expense increased 2 percent to $4.0 billion.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 Selling and administrative expense increased 2 percent to $4.0 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "costs_or_expenses",
+      "claim": "\u25e6 Demand creation expense was $1.1 billion, flat compared to the prior year, as higher sports marketing expense and unfavorable changes in foreign currency exchange rates were offset by lower brand marketing expense.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u25e6 Demand creation expense was $1.1 billion, flat compared to the prior year, as higher sports marketing expense and unfavorable changes in foreign currency exchange rates were offset by lower brand marketing expense.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "costs_or_expenses",
+      "claim": "\u25e6 Operating overhead expense was $2.9 billion, up 3 percent, due to employee severance costs and unfavorable changes in foreign currency exchange rates, partially offset by lower other administrative costs.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u25e6 Operating overhead expense was $2.9 billion, up 3 percent, due to employee severance costs and unfavorable changes in foreign currency exchange rates, partially offset by lower other administrative costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 The effective tax rate was 20.0 percent compared to 5.9 percent for the same period last year, primarily due to a prior period one-time, non-cash deferred tax benefit provided by U.S.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 The effective tax rate was 20.0 percent compared to 5.9 percent for the same period last year, primarily due to a prior period one-time, non-cash deferred tax benefit provided by U.S. tax regulations related to foreign currency gains and losses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income was $0.5 billion, down 35 percent, and Diluted earnings per share was $0.35, a decrease of 35 percent.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Net income was $0.5 billion, down 35 percent, and Diluted earnings per share was $0.35, a decrease of 35 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "balance_sheet_or_cash",
+      "claim": "February 28, 2026 Balance Sheet Review",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "February 28, 2026 Balance Sheet Review",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "\u2022 Inventories for NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 Inventories for NIKE, Inc.. were $7.5 billion, down 1 percent, primarily reflecting a decrease in units and product mix shifts, partially offset by increased product costs, primarily due to higher tariffs in North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Cash and equivalents and short-term investments were $8.1 billion, down approximately $2.3 billion, as cash generated by operations was more than offset by cash dividends, bond repayment, capital expenditures and share repurchases.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Cash and equivalents and short-term investments were $8.1 billion, down approximately $2.3 billion, as cash generated by operations was more than offset by cash dividends, bond repayment, capital expenditures and share repurchases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "NIKE, Inc. has a strong track record of returns to shareholders, including 24 consecutive years of increasing dividend payouts. In the third quarter, the Company returned approximately $609 million to shareholders through dividends, up 3 percent from the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "NIKE, Inc.., based near Beaverton, Oregon, is the world's leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories for a wide variety of sports and fitness activities.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "NIKE, Inc.., based near Beaverton, Oregon, is the world's leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories for a wide variety of sports and fitness activities. Converse, a wholly-owned NIKE, Inc.. subsidiary brand, d...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "* Non-GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "* Non-GAAP financial measure. See additional information in the accompanying Divisional Revenues table.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "NIKE, Inc.. CONSOLIDATED STATEMENTS OF INCOME (Unaudited) THREE MONTHS ENDED % NINE MONTHS ENDED % (In millions, except per share data) 2/28/2026 2/28/2025 Change 2/28/2026 2/28/2025 Change Revenues $ 11,279 $ 11,269 0 % $ 35,426 $ 35,212 1 % Cost of sales 6,749 6,594 2 % 20,9...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "costs_or_expenses",
+      "claim": "NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "NIKE, Inc.. CONSOLIDATED BALANCE SHEETS (Unaudited) February 28, February 28, % Change (Dollars in millions) 2026 2025 ASSETS Current assets: Cash and equivalents $ 6,660 $ 8,601 -23 % Short-term investments 1,397 1,792 -22 % Accounts receivable, net 5,369 4,491 20 % Inventori...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "NIKE, Inc.. DIVISIONAL REVENUES (Unaudited) % Change Excluding Currency Changes 1 % Change Excluding Currency Changes 1 THREE MONTHS ENDED % NINE MONTHS ENDED % (Dollars in millions) 2/28/2026 2/28/2025 Change 2/28/2026 2/28/2025 Change North America Footwear $ 3,326 $ 3,132 6...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "1 The percent change has been calculated using actual exchange rates in use during the comparative prior year period and is provided to enhance the visibility of the underlying business trends by excluding the impact of translation arising from foreign currency exchange rate fluctuations, which is considered a non-GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "1 The percent change has been calculated using actual exchange rates in use during the comparative prior year period and is provided to enhance the visibility of the underlying business trends by excluding the impact of translation arising from foreign currency exchange rate f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "2 Global Brand Divisions revenues include NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "2 Global Brand Divisions revenues include NIKE, Inc. Brand licensing and other miscellaneous revenues that are not part of a geographic operating segment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "3 Corporate revenues primarily consist of foreign currency hedge gains and losses related to revenues generated by entities within the NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "3 Corporate revenues primarily consist of foreign currency hedge gains and losses related to revenues generated by entities within the NIKE, Inc. Brand geographic operating segments and Converse, but managed through the Company's central foreign exchange risk management program.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "NIKE, Inc..",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "NIKE, Inc.. EARNINGS BEFORE INTEREST AND TAXES (\"EBIT\") 1 (Unaudited) THREE MONTHS ENDED % NINE MONTHS ENDED % (Dollars in millions) 2/28/2026 2/28/2025 Change 2/28/2026 2/28/2025 Change North America $ 981 $ 1,103 -11 % $ 3,376 $ 3,690 -9 % Europe, Middle East & Africa 515 48...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "1 Total NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "1 Total NIKE, Inc. Brand EBIT, Total NIKE, Inc.. EBIT and EBIT margin are considered non-GAAP financial measures. EBIT is calculated as Net income before Interest (income) expense, net and Income tax expense. EBIT margin is calculated as total NIKE, Inc.. EBIT divided by total...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "2 Global Brand Divisions primarily represents costs, including product creation and design expenses, that are centrally managed for the NIKE, Inc.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "2 Global Brand Divisions primarily represents costs, including product creation and design expenses, that are centrally managed for the NIKE, Inc. Brand, as well as costs associated with NIKE, Inc. Direct global digital operations and enterprise technology. Global Brand Divisi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "costs_or_expenses",
+      "claim": "3 Corporate consists primarily of unallocated general and administrative expenses, including expenses associated with centrally managed departments; depreciation and amortization related to the Company's corporate headquarters; unallocated insurance, benefit and compensation programs, including stock-based compensation; and certain foreign currency gains and losses, including certain hedge gains and losses.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "3 Corporate consists primarily of unallocated general and administrative expenses, including expenses associated with centrally managed departments; depreciation and amortization related to the Company's corporate headquarters; unallocated insurance, benefit and compensation p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.012526, ret_20d=-0.110625, market_ret_20d=-0.041471",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.012526, ret_20d=-0.110625, market_ret_20d=-0.041471",
+      "support_label": "supported"
+    }
+  ]
+}

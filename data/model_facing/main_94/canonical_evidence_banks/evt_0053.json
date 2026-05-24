@@ -1,0 +1,446 @@
+{
+  "event_id": "evt_0053",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Ollie's Bargain Outlet Holdings, Inc.",
+  "ticker": "OLLI",
+  "company_alias": "Ollie's Bargain Outlet Holdings, Inc.",
+  "masked_company": "Company AK",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-12",
+  "accepted_at_et": "2026-03-12T07:06:13-04:00",
+  "source_packet_path": "source_packets/evt_0053.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc. Announces",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "Net Sales Increased 17%, Earnings Per Share Increased 25%,",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Net Sales Increased 17%, Earnings Per Share Increased 25%,",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "and Adjusted Earnings Per Share Increased 17%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "and Adjusted Earnings Per Share Increased 17%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "HARRISBURG, PA \u2013 2026-03-12T07:06:13-04:00 \u2013 Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "HARRISBURG, PA \u2013 2026-03-12T07:06:13-04:00 \u2013 Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc. (NASDAQ:OLLI) (the \u201cCompany\u201d) today announced financial results for the fourth quarter and fiscal year ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "\u201c We had a strong fourth quarter to cap off an exceptional year,\u201d said Eric van der Valk, President and Chief Executive Officer.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u201c We had a strong fourth quarter to cap off an exceptional year,\u201d said Eric van der Valk, President and Chief Executive Officer. \u201c In the fourth quarter, we delivered better than expected sales and earnings, driven by solid comp growth, healthy margins, and disciplined expense...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "Mr.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Mr. van der Valk concluded, \u201cWe are super proud of our achievements in fiscal 2025. We delivered against virtually every single metric and goal we set for ourselves at the beginning of the year. That\u2019s now behind us, and we are focused on building on this success, seizing new...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "(1) Calculated based on the comparable number of weeks from the prior year.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "(1) Calculated based on the comparable number of weeks from the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "Fourth Quarter Fiscal 2025 Highlights and Year-Over-Year Comparisons",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Fourth Quarter Fiscal 2025 Highlights and Year-Over-Year Comparisons",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "Opened a record 86 stores for the fiscal year and ended the period with 645 stores in 34 states, an increase of 15.4%.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Opened a record 86 stores for the fiscal year and ended the period with 645 stores in 34 states, an increase of 15.4%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Army loyalty members increased 12.1% to 17.0 million members.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Army loyalty members increased 12.1% to 17.0 million members.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "Net sales increased 16.8% to $779.3 million, driven by new store unit growth and an increase in comparable store sales.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Net sales increased 16.8% to $779.3 million, driven by new store unit growth and an increase in comparable store sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "Comparable store sales increased 3.6%, driven by an increase in basket and transactions.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Comparable store sales increased 3.6%, driven by an increase in basket and transactions. Seasonal, consumables, hardware, stationery, and sporting goods were the top performing categories in the quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "Gross margin of 39.9% was ahead of plan and the year-over-year decrease of 80 basis points was primarily from planned investments in price.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Gross margin of 39.9% was ahead of plan and the year-over-year decrease of 80 basis points was primarily from planned investments in price.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "Selling, general, and administrative (\u201cSG&A\u201d) expenses as a percentage of net sales decreased 130 basis points to 24.2%.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Selling, general, and administrative (\u201cSG&A\u201d) expenses as a percentage of net sales decreased 130 basis points to 24.2%. Excluding a one-time expense of $5.5 million for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairma...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "Pre-opening expenses decreased 53.3% to $2.3 million, driven by the earlier timing of new store openings this year versus last year.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Pre-opening expenses decreased 53.3% to $2.3 million, driven by the earlier timing of new store openings this year versus last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "Adjusted net income increased 16.4% to $85.4 million and adjusted net income per diluted share increased 16.8% to $1.39 .",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Adjusted net income increased 16.4% to $85.4 million and adjusted net income per diluted share increased 16.8% to $1.39 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "Total cash and investments increased 31.3%, or $134.1 million, to $562.8 million.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Total cash and investments increased 31.3%, or $134.1 million, to $562.8 million. This included cash and cash equivalents of $259.7 million, short-term investments of $36.6 million, and long-term investments of $266.5 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "The Company repurchased $33.6 million of common stock in the fourth quarter and $73.8 million of common stock for the fiscal year.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "The Company repurchased $33.6 million of common stock in the fourth quarter and $73.8 million of common stock for the fiscal year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "The Company is providing the following initial outlook for the fiscal year 2026 ending January 30, 2027.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "The Company is providing the following initial outlook for the fiscal year 2026 ending January 30, 2027.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "Adjusted net income per diluted share (1)(2)",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Adjusted net income per diluted share (1)(2)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "(1) Includes interest income of approximately $21 million.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "(1) Includes interest income of approximately $21 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "(2) Excludes the excess tax benefits related to stock-based compensation, as the Company cannot predict such estimates without unreasonable effort.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "(2) Excludes the excess tax benefits related to stock-based compensation, as the Company cannot predict such estimates without unreasonable effort.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "Excludes the excess tax benefits related to stock-based compensation, as the Company cannot predict such estimates without unreasonable effort.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Excludes the excess tax benefits related to stock-based compensation, as the Company cannot predict such estimates without unreasonable effort.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "Ollie's Bargain Outlet Holdings, Inc.\u2019s is a leading off-price retailer of brand name household products.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Ollie's Bargain Outlet Holdings, Inc.\u2019s is a leading off-price retailer of brand name household products. Since our founding in 1982, our mission has been to sell Good Stuff Cheap\u00ae. We do this through a flexible buying model that focuses on closeout merchandise and excess inve...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "The Company\u2019s results are reported in this press release on a GAAP and as adjusted, non-GAAP basis.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "The Company\u2019s results are reported in this press release on a GAAP and as adjusted, non-GAAP basis. Adjusted net income (loss), Adjusted net income (loss) per diluted share, EBITDA, and Adjusted EBITDA are non-GAAP measures, and are not intended to replace GAAP financial infor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "Please refer to the \u201cReconciliation of GAAP to Non-GAAP Financial Measures\u201d table included in this press release, which sets forth the non-GAAP operating adjustments for the 13-week and 52-week periods ended January 31, 2026 and February 1, 2025.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Please refer to the \u201cReconciliation of GAAP to Non-GAAP Financial Measures\u201d table included in this press release, which sets forth the non-GAAP operating adjustments for the 13-week and 52-week periods ended January 31, 2026 and February 1, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "Managing Director of Corporate Communication & Business Development",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Managing Director of Corporate Communication & Business Development",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "Condensed Consolidated Statements of Income (unaudited) (In thousands except for per share amounts)",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Condensed Consolidated Statements of Income (unaudited) (In thousands except for per share amounts)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Components may not add to totals due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Components may not add to totals due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "Reconciliation of GAAP to Non-GAAP Financial Measures (unaudited)",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Reconciliation of GAAP to Non-GAAP Financial Measures (unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "Excess tax benefits related to stock-based compensation (1)",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Excess tax benefits related to stock-based compensation (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "Acceleration of stock awards expense (2)",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Acceleration of stock awards expense (2)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "margins",
+      "claim": "(1) Amount represents the impact from the recognition of excess tax benefits pursuant to Accounting Standards Update 2016-09, Stock Compensation",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "(1) Amount represents the impact from the recognition of excess tax benefits pursuant to Accounting Standards Update 2016-09, Stock Compensation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "margins",
+      "claim": "Amount represents the impact from the recognition of excess tax benefits pursuant to Accounting Standards Update 2016-09, Stock Compensation",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Amount represents the impact from the recognition of excess tax benefits pursuant to Accounting Standards Update 2016-09, Stock Compensation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "margins",
+      "claim": "(2) Represents the one-time expense for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "(2) Represents the one-time expense for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "margins",
+      "claim": "Represents the one-time expense for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Represents the one-time expense for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "margins",
+      "claim": "(1) Includes cash and cash equivalents, short-term investments, and long-term investments.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "(1) Includes cash and cash equivalents, short-term investments, and long-term investments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.049821, ret_20d=-0.084978, market_ret_20d=-0.022814",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.049821, ret_20d=-0.084978, market_ret_20d=-0.022814",
+      "support_label": "supported"
+    }
+  ]
+}

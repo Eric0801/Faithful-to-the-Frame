@@ -1,0 +1,930 @@
+{
+  "event_id": "evt_0029",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "DEERE & CO",
+  "ticker": "DE",
+  "company_alias": "DEERE & CO",
+  "masked_company": "Company BA",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-19",
+  "accepted_at_et": "2026-02-19T01:03:46-05:00",
+  "source_packet_path": "source_packets/evt_0029.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Contact: Jen Hartmann Director, Public Relations HartmannJenniferA@JohnDeere.com",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Contact: Jen Hartmann Director, Public Relations HartmannJenniferA@JohnDeere.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "earnings_or_eps",
+      "claim": "DEERE & CO Reports First Quarter Net Income of $656 Million",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "DEERE & CO Reports First Quarter Net Income of $656 Million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "First quarter shipments ahead of plan as order books strengthen",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "First quarter shipments ahead of plan as order books strengthen",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "Diverse customer segments and geographies enable resilience and growth",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Diverse customer segments and geographies enable resilience and growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "MOLINE, Illinois (2026-02-19T01:03:46-05:00) \u2014 DEERE & CO & Company reported net income of $656 million for the first quarter ended February 1, 2026, or $2.42 per share, compared with net income of $869 million, or $3.19 per share, for the quarter ended January 26, 2025.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "MOLINE, Illinois (2026-02-19T01:03:46-05:00) \u2014 DEERE & CO & Company reported net income of $656 million for the first quarter ended February 1, 2026, or $2.42 per share, compared with net income of $869 million, or $3.19 per share, for the quarter ended January 26, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "Worldwide net sales and revenues increased 13 percent, to $9,611 million, in the most recent quarter.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Worldwide net sales and revenues increased 13 percent, to $9,611 million, in the most recent quarter. Net sales were $8,001 million for the quarter, compared with $6,809 million in the same quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u201cWhile the global large agriculture industry continues to experience challenges, we\u2019re encouraged by the ongoing recovery in demand within both the construction and small agriculture segments,\u201d said John May, chairman and CEO of John DEERE & CO.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cWhile the global large agriculture industry continues to experience challenges, we\u2019re encouraged by the ongoing recovery in demand within both the construction and small agriculture segments,\u201d said John May, chairman and CEO of John DEERE & CO. \u201cThese positive developments re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "Net income attributable to DEERE & CO & Company for fiscal 2026 is forecasted to be in a range of $4.5 billion to $5.0 billion.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Net income attributable to DEERE & CO & Company for fiscal 2026 is forecasted to be in a range of $4.5 billion to $5.0 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\u201cOur sustained investment in research and development throughout the cycle is yielding measurable results as we move toward launching a wide range of innovative products and solutions across all business segments,\u201d stated May.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u201cOur sustained investment in research and development throughout the cycle is yielding measurable results as we move toward launching a wide range of innovative products and solutions across all business segments,\u201d stated May. \u201cThese advancements underscore the value of mainta...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b DEERE & CO & Company \u200b First Quarter \u200b $ in millions, except per share amounts \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales and revenues \u200b $ 9,611 \u200b $ 8,508 \u200b 13% \u200b Net income \u200b $ 656 \u200b $ 869 \u200b -25% \u200b Fully diluted EPS \u200b $ 2.42 \u200b $ 3.19 \u200b \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b DEERE & CO & Company \u200b First Quarter \u200b $ in millions, except per share amounts \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales and revenues \u200b $ 9,611 \u200b $ 8,508 \u200b 13% \u200b Net income \u200b $ 656 \u200b $ 869 \u200b -25% \u200b Fully diluted EPS \u200b $ 2.42 \u200b $ 3.19 \u200b \u200b \u200b",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "Results for the prior period were affected by special items.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Results for the prior period were affected by special items. See Note 1 to the financial statements for further details. The cost of additional tariffs for each segment is included in the \u201cProduction costs\u201d category below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Production & Precision Agriculture \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales \u200b $ 3,163 \u200b $ 3,067 \u200b 3% \u200b Operating profit \u200b $ 139 \u200b $ 338 \u200b -59% \u200b Operating margin \u200b \u200b 4.4% \u200b \u200b 11.0% \u200b \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Production & Precision Agriculture \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales \u200b $ 3,163 \u200b $ 3,067 \u200b 3% \u200b Operating profit \u200b $ 139 \u200b $ 338 \u200b -59% \u200b Operating margin \u200b \u200b 4.4% \u200b \u200b 11.0% \u200b \u200b \u200b",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "Production & Precision Agriculture sales increased for the quarter as a result of the positive effects of foreign currency translation.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Production & Precision Agriculture sales increased for the quarter as a result of the positive effects of foreign currency translation. Operating profit decreased primarily due to higher tariffs, unfavorable sales mix, and higher warranty expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "First Quarter 2026 Compared to First Quarter 2025",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "First Quarter 2026 Compared to First Quarter 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Small Agriculture & Turf \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales \u200b $ 2,168 \u200b $ 1,748 \u200b 24% \u200b Operating profit \u200b $ 196 \u200b $ 124 \u200b 58% \u200b Operating margin \u200b \u200b 9.0% \u200b \u200b 7.1% \u200b \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Small Agriculture & Turf \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales \u200b $ 2,168 \u200b $ 1,748 \u200b 24% \u200b Operating profit \u200b $ 196 \u200b $ 124 \u200b 58% \u200b Operating margin \u200b \u200b 9.0% \u200b \u200b 7.1% \u200b \u200b \u200b",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "Small Agriculture & Turf sales increased for the quarter as a result of higher shipment volumes and the positive effects of foreign currency translation.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Small Agriculture & Turf sales increased for the quarter as a result of higher shipment volumes and the positive effects of foreign currency translation. Operating profit increased primarily due to higher shipment volumes / sales mix and price realization, partially offset by...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Construction & Forestry \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales \u200b $ 2,670 \u200b $ 1,994 \u200b 34% \u200b Operating profit \u200b $ 137 \u200b $ 65 \u200b 111% \u200b Operating margin \u200b \u200b 5.1% \u200b \u200b 3.3% \u200b \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Construction & Forestry \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net sales \u200b $ 2,670 \u200b $ 1,994 \u200b 34% \u200b Operating profit \u200b $ 137 \u200b $ 65 \u200b 111% \u200b Operating margin \u200b \u200b 5.1% \u200b \u200b 3.3% \u200b \u200b \u200b",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "Construction & Forestry sales increased for the quarter as a result of higher shipment volumes and the positive effects of foreign currency translation.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Construction & Forestry sales increased for the quarter as a result of higher shipment volumes and the positive effects of foreign currency translation. Operating profit increased primarily due to higher shipment volumes / sales mix and production efficiencies, partially offse...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Financial Services \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net income \u200b $ 244 \u200b $ 230 \u200b 6% \u200b",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Financial Services \u200b First Quarter \u200b $ in millions \u200b 2026 \u200b 2025 \u200b % Change \u200b Net income \u200b $ 244 \u200b $ 230 \u200b 6% \u200b",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "Financial Services net income increased primarily due to favorable financing spreads and a lower provision for credit losses, partially offset by a favorable special item recorded in the prior period described in Note 1 to the financial statements.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Financial Services net income increased primarily due to favorable financing spreads and a lower provision for credit losses, partially offset by a favorable special item recorded in the prior period described in Note 1 to the financial statements.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Industry Outlook for Fiscal 2026 \u200b \u200b \u200b \u200b \u200b Agriculture & Turf \u200b \u200b \u200b \u200b \u200b \u200b \u200b U.S.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Industry Outlook for Fiscal 2026 \u200b \u200b \u200b \u200b \u200b Agriculture & Turf \u200b \u200b \u200b \u200b \u200b \u200b \u200b U.S. & Canada: \u200b \u200b \u200b \u200b \u200b \u200b \u200b Large Ag \u200b \u200b \u200b \u200b \u200b Down 15 to 20% \u200b Small Ag & Turf \u200b \u200b \u200b \u200b \u200b Flat to up 5% \u200b Europe \u200b \u200b \u200b \u200b \u200b Flat to up 5% \u200b South America (Tractors & Combines) \u200b \u200b \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Currency \u200b Price \u200b $ in millions \u200b Net Sales \u200b Translation \u200b Realization \u200b Production & Precision Ag \u200b Down 5 to 10% \u200b +3.0% \u200b ~ +1.5% \u200b Small Ag & Turf \u200b Up ~15% \u200b +2.0% \u200b ~ +2.0% \u200b Construction & Forestry \u200b Up ~15% \u200b +2.0% \u200b ~ +2.5% \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Financial Services \u200b Net Income \u200b ~ $840 \u200b \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Currency \u200b Price \u200b $ in millions \u200b Net Sales \u200b Translation \u200b Realization \u200b Production & Precision Ag \u200b Down 5 to 10% \u200b +3.0% \u200b ~ +1.5% \u200b Small Ag & Turf \u200b Up ~15% \u200b +2.0% \u200b ~ +2.0% \u200b Construction & Forestry \u200b Up ~15% \u200b +2.0% \u200b ~ +2.5% \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Fina...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "balance_sheet_or_cash",
+      "claim": "the agricultural business cycle, which can be unpredictable and is affected by factors such as farm income, international trade, world grain stocks, crop yields, available farm acres, soil conditions, prices for commodities and livestock, input costs, government farm programs, availability of transport for crops as well as adverse macroeconomic conditions, including unemployment, inflation, interest rate volatility, changes in consumer practices due to slower economic growth or a recession, and regional or global liquidity constraints",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "the agricultural business cycle, which can be unpredictable and is affected by factors such as farm income, international trade, world grain stocks, crop yields, available farm acres, soil conditions, prices for commodities and livestock, input costs, government farm programs,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "risk_or_uncertainty",
+      "claim": "the uncertainty of government policies and actions with respect to the global trade environment including increased and proposed tariffs announced by the U.S.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "the uncertainty of government policies and actions with respect to the global trade environment including increased and proposed tariffs announced by the U.S. government, and retaliatory trade regulations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "political, economic, and social instability in the geographies in which the company operates",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "political, economic, and social instability in the geographies in which the company operates",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "worldwide demand for food and different forms of renewable energy impacting the price of farm commodities and consequently the demand for the company\u2019s equipment",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "worldwide demand for food and different forms of renewable energy impacting the price of farm commodities and consequently the demand for the company\u2019s equipment",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "costs_or_expenses",
+      "claim": "rationalization, restructuring, relocation, expansion and/or reconfiguration of manufacturing and warehouse facilities",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "rationalization, restructuring, relocation, expansion and/or reconfiguration of manufacturing and warehouse facilities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "accurately forecasting customer demand for products and services and adequately managing inventory",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "accurately forecasting customer demand for products and services and adequately managing inventory",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "costs_or_expenses",
+      "claim": "uncertainty of the company\u2019s ability to sell products domestically or internationally, manage increased costs of production, absorb or pass on increased expenses, and accurately predict financial results and industry trends",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "uncertainty of the company\u2019s ability to sell products domestically or internationally, manage increased costs of production, absorb or pass on increased expenses, and accurately predict financial results and industry trends",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "availability and price of raw materials, components, and whole goods",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "availability and price of raw materials, components, and whole goods",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "changes in climate patterns, unfavorable weather events, and natural disasters",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "changes in climate patterns, unfavorable weather events, and natural disasters",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "suppliers\u2019 and manufacturers\u2019 business practices and compliance with laws applicable to topics such as human rights, safety, environmental, and fair wages",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "suppliers\u2019 and manufacturers\u2019 business practices and compliance with laws applicable to topics such as human rights, safety, environmental, and fair wages",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "higher interest rates and currency fluctuations which could adversely affect the U.S.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "higher interest rates and currency fluctuations which could adversely affect the U.S. dollar, customer confidence, access to capital, and demand for the company\u2019s products and solutions",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "the ability to attract, develop, engage, and retain qualified employees",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "the ability to attract, develop, engage, and retain qualified employees",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "ability to adapt in highly competitive markets, including understanding and meeting customers\u2019 changing expectations for products and solutions, including delivery and utilization of precision technology",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "ability to adapt in highly competitive markets, including understanding and meeting customers\u2019 changing expectations for products and solutions, including delivery and utilization of precision technology",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "the ability to execute business strategies, including the company\u2019s Smart Industrial Operating Model and refined Leap Ambitions",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "the ability to execute business strategies, including the company\u2019s Smart Industrial Operating Model and refined Leap Ambitions",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "dealer practices and their ability to manage new and used inventory, distribute the company\u2019s products, and to provide support and service for precision technology solutions",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "dealer practices and their ability to manage new and used inventory, distribute the company\u2019s products, and to provide support and service for precision technology solutions",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "risk_or_uncertainty",
+      "claim": "the ability to realize anticipated benefits of acquisitions and joint ventures, including challenges with successfully integrating operations and internal control processes",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "the ability to realize anticipated benefits of acquisitions and joint ventures, including challenges with successfully integrating operations and internal control processes",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "negative claims or publicity that damage the company\u2019s reputation or brand",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "negative claims or publicity that damage the company\u2019s reputation or brand",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "the impact of workforce reductions on company culture, employee retention and morale, and institutional knowledge",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "the impact of workforce reductions on company culture, employee retention and morale, and institutional knowledge",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "labor relations and contracts, including work stoppages and other disruptions",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "labor relations and contracts, including work stoppages and other disruptions",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "security breaches, cybersecurity attacks, technology failures, and other disruptions to the company\u2019s information technology infrastructure and products",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "security breaches, cybersecurity attacks, technology failures, and other disruptions to the company\u2019s information technology infrastructure and products",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "leveraging artificial intelligence and machine learning within the company\u2019s business processes",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "leveraging artificial intelligence and machine learning within the company\u2019s business processes",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "balance_sheet_or_cash",
+      "claim": "changes to existing laws and regulations, including the implementation of new, more stringent laws, as well as compliance with a variety of U.S., foreign and international laws, regulations, and policies relating to, but not limited to the following: advertising, anti-bribery and anti-corruption, anti-money laundering, antitrust, consumer finance, cybersecurity, data privacy, encryption, environmental (including climate change and engine emissions), farming, foreign exchange controls and cash repatriation restrictions, foreign ownership and investment, health and safety, human rights, import / export and trade, labor and employment, product liability, tariffs, tax, telematics, and telecommunications",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "changes to existing laws and regulations, including the implementation of new, more stringent laws, as well as compliance with a variety of U.S., foreign and international laws, regulations, and policies relating to, but not limited to the following: advertising, anti-bribery...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "governmental and other actions designed to address climate change in connection with a transition to a lower-carbon economy",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "governmental and other actions designed to address climate change in connection with a transition to a lower-carbon economy",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "revenue",
+      "claim": "warranty claims, post-sales repairs or recalls, product liability litigation, and regulatory investigations because of the deficient operation of the company\u2019s products",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "warranty claims, post-sales repairs or recalls, product liability litigation, and regulatory investigations because of the deficient operation of the company\u2019s products",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "other",
+      "claim": "investigations, claims, lawsuits, or other legal proceedings, including the lawsuit filed by the Federal Trade Commission (FTC) and the Attorneys General of the States of Arizona, Illinois, Michigan, Minnesota, and Wisconsin alleging that the company unlawfully withheld self-repair capabilities from farmers and independent repair providers",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "investigations, claims, lawsuits, or other legal proceedings, including the lawsuit filed by the Federal Trade Commission (FTC) and the Attorneys General of the States of Arizona, Illinois, Michigan, Minnesota, and Wisconsin alleging that the company unlawfully withheld self-r...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "risk_or_uncertainty",
+      "claim": "Further information concerning the company or its businesses, including factors that could materially affect the company\u2019s financial results, is included in the company\u2019s filings with the SEC (including, but not limited to, the factors discussed in Item 1A.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Further information concerning the company or its businesses, including factors that could materially affect the company\u2019s financial results, is included in the company\u2019s filings with the SEC (including, but not limited to, the factors discussed in Item 1A. \u201cRisk Factors\u201d of t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b \u200b \u200b \u200b February 1 \u200b \u200b \u200b January 26 \u200b \u200b \u200b % \u200b \u200b \u200b \u200b 2026 \u200b \u200b \u200b 2025 \u200b \u200b \u200b Change \u200b Net sales and revenues: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Production & Precision Ag net sales \u200b $ 3,163 \u200b $ 3,067 +3 \u200b Small Ag & Turf net sales \u200b \u200b 2,168 \u200b \u200b 1,748 \u200b +24 \u200b Construction & Forestry net sales \u200b 2,670 \u200b 1,994 +34 \u200b Financial Services revenues \u200b 1,384 \u200b 1,470 -6 \u200b Other revenues \u200b 226 \u200b 229 -1 \u200b Total net sales and revenues \u200b $ 9,611 \u200b $ 8,508 +13 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating profit: * \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Production & Precision Ag \u200b $ 139 \u200b $ 338 -59 \u200b Small Ag & Turf \u200b \u200b 196 \u200b \u200b 124 \u200b +58 \u200b Construction & Forestry \u200b 137 \u200b 65 +111 \u200b Financial Services \u200b 301 \u200b 266 +13 \u200b Total operating profit \u200b 773 \u200b 793 -3 \u200b Reconciling items ** \u200b 79 \u200b 103 -23 \u200b Income taxes \u200b (196) \u200b (27) +626 \u200b Net income attributable to DEERE & CO & Company \u200b $ 656 \u200b $ 869 -25 \u200b",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b \u200b \u200b \u200b February 1 \u200b \u200b \u200b January 26 \u200b \u200b \u200b % \u200b \u200b \u200b \u200b 2026 \u200b \u200b \u200b 2025 \u200b \u200b \u200b Change \u200b Net sales and revenues: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Production & Precision Ag net sales \u200b $ 3,163 \u200b $ 3,067 +3 \u200b Small Ag & Turf net sales \u200b \u200b 2,168 \u200b \u200b 1,748...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "revenue",
+      "claim": "* Operating profit is income from continuing operations before corporate expenses, certain external interest expenses, certain foreign exchange gains and losses, and income taxes.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "* Operating profit is income from continuing operations before corporate expenses, certain external interest expenses, certain foreign exchange gains and losses, and income taxes. Operating profit of Financial Services includes the effect of interest expense and foreign exchan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "** Reconciling items are primarily corporate expenses, certain interest income and expenses, certain foreign exchange gains and losses, pension and postretirement benefit costs excluding the service cost component, and net income attributable to noncontrolling interests.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "** Reconciling items are primarily corporate expenses, certain interest income and expenses, certain foreign exchange gains and losses, pension and postretirement benefit costs excluding the service cost component, and net income attributable to noncontrolling interests.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "For the Three Months Ended February 1, 2026 and January 26, 2025",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "For the Three Months Ended February 1, 2026 and January 26, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "(In millions of dollars and shares except per share amounts) Unaudited",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "(In millions of dollars and shares except per share amounts) Unaudited",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2026 \u200b \u200b \u200b 2025 Net Sales and Revenues \u200b \u200b \u200b \u200b \u200b \u200b Net sales \u200b $ 8,001 \u200b $ 6,809 Finance and interest income \u200b 1,343 \u200b 1,453 Other income \u200b 267 \u200b 246 Total \u200b 9,611 \u200b 8,508 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Costs and Expenses \u200b \u200b \u200b \u200b \u200b \u200b Cost of sales \u200b 6,280 \u200b 5,037 Research and development expenses \u200b 554 \u200b 526 Selling, administrative and general expenses \u200b 972 \u200b 972 Interest expense \u200b 719 \u200b 829 Other operating expenses \u200b 250 \u200b 249 Total \u200b 8,775 \u200b 7,613 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income of Consolidated Group before Income Taxes \u200b 836 \u200b 895 Provision for income taxes \u200b 196 \u200b 27 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income of Consolidated Group \u200b 640 \u200b 868 Equity in income (loss) of unconsolidated affiliates \u200b 15 \u200b (1) \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net Income \u200b 655 \u200b 867 Less: Net loss attributable to noncontrolling interests \u200b (1) \u200b (2) Net Income Attributable to DEERE & CO & Company \u200b $ 656 \u200b $ 869 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Per Share Data \u200b \u200b \u200b \u200b \u200b \u200b Basic \u200b $ 2.43 \u200b $ 3.20 Diluted \u200b \u200b 2.42 \u200b \u200b 3.19 Dividends declared \u200b \u200b 1.62 \u200b \u200b 1.62 Dividends paid \u200b \u200b 1.62 \u200b \u200b 1.47 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Average Shares Outstanding \u200b \u200b \u200b \u200b \u200b \u200b Basic \u200b 270.3 \u200b 271.6 Diluted \u200b 270.9 \u200b 272.3",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2026 \u200b \u200b \u200b 2025 Net Sales and Revenues \u200b \u200b \u200b \u200b \u200b \u200b Net sales \u200b $ 8,001 \u200b $ 6,809 Finance and interest income \u200b 1,343 \u200b 1,453 Other income \u200b 267 \u200b 246 Total \u200b 9,611 \u200b 8,508 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Costs and Expenses \u200b \u200b \u200b \u200b \u200b \u200b Cost of sales \u200b 6,280 \u200b 5,037 Research...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "See Condensed Notes to Interim Consolidated Financial Statements.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "See Condensed Notes to Interim Consolidated Financial Statements.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "costs_or_expenses",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b February 1 \u200b November 2 \u200b January 26 \u200b \u200b 2026 \u200b 2025 \u200b 2025 Assets \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 6,798 \u200b $ 8,276 \u200b $ 6,601 Marketable securities \u200b 1,398 \u200b 1,411 \u200b 1,214 Trade accounts and notes receivable \u2013 net \u200b 5,993 \u200b 5,317 \u200b 4,931 Financing receivables \u2013 net \u200b 42,113 \u200b 44,575 \u200b 41,396 Financing receivables securitized \u2013 net \u200b 6,479 \u200b 6,831 \u200b 8,257 Other receivables \u200b 2,411 \u200b 2,403 \u200b 2,979 Equipment on operating leases \u2013 net \u200b 7,512 \u200b 7,600 \u200b 7,157 Inventories \u200b 8,286 \u200b 7,406 \u200b 7,744 Property and equipment \u2013 net \u200b 8,084 \u200b 8,079 \u200b 7,425 Goodwill \u200b 4,280 \u200b 4,188 \u200b 3,872 Other intangible assets \u2013 net \u200b 880 \u200b 892 \u200b 937 Retirement benefits \u200b 3,378 \u200b 3,273 \u200b 3,018 Deferred income taxes \u200b 2,268 \u200b 2,284 \u200b 1,852 Other assets \u200b 3,556 \u200b 3,461 \u200b 2,807 Assets held for sale \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2,929 Total Assets \u200b $ 103,436 \u200b $ 105,996 \u200b $ 103,119 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Liabilities and Stockholders\u2019 Equity \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Liabilities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Short-term borrowings \u200b $ 14,392 \u200b $ 13,796 \u200b $ 12,811 Short-term securitization borrowings \u200b 6,283 \u200b 6,596 \u200b 8,014 Accounts payable and accrued expenses \u200b 12,533 \u200b 13,909 \u200b 12,162 Deferred income taxes \u200b 434 \u200b 434 \u200b 448 Long-term borrowings \u200b 41,804 \u200b 43,544 \u200b 43,556 Retirement benefits and other liabilities \u200b 1,633 \u200b 1,710 \u200b 1,734 Liabilities held for sale \u200b \u200b \u200b \u200b \u200b \u200b \u200b 1,830 Total liabilities \u200b 77,079 \u200b 79,989 \u200b 80,555 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Redeemable noncontrolling interest \u200b \u200b 50 \u200b \u200b 51 \u200b \u200b 78 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stockholders\u2019 Equity \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Total DEERE & CO & Company stockholders\u2019 equity \u200b 26,300 \u200b 25,950 \u200b 22,479 Noncontrolling interests \u200b 7 \u200b 6 \u200b 7 Total stockholders\u2019 equity \u200b 26,307 \u200b 25,956 \u200b 22,486 Total Liabilities and Stockholders\u2019 Equity \u200b $ 103,436 \u200b $ 105,996 \u200b $ 103,119",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b February 1 \u200b November 2 \u200b January 26 \u200b \u200b 2026 \u200b 2025 \u200b 2025 Assets \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 6,798 \u200b $ 8,276 \u200b $ 6,601 Marketable securities \u200b 1,398 \u200b 1,411 \u200b 1,214 Trade accounts and notes receivable \u2013 net \u200b 5,993 \u200b 5,317 \u200b 4,931...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2026 \u200b \u200b \u200b 2025 Cash Flows from Operating Activities \u200b \u200b \u200b \u200b \u200b \u200b Net income \u200b $ 655 \u200b $ 867 Adjustments to reconcile net income to net cash used for operating activities: \u200b \u200b \u200b \u200b \u200b \u200b Provision for credit losses \u200b 36 \u200b 69 Depreciation and amortization \u200b 590 \u200b 549 Impairments and other adjustments \u200b \u200b \u200b \u200b (32) Share-based compensation expense \u200b 41 \u200b 28 Provision for deferred income taxes \u200b 18 \u200b 208 Changes in assets and liabilities: \u200b \u200b \u200b \u200b \u200b \u200b Receivables related to sales \u200b 350 \u200b 1,063 Inventories \u200b (746) \u200b (795) Accounts payable and accrued expenses \u200b (1,486) \u200b (1,845) Accrued income taxes payable/receivable \u200b (88) \u200b (540) Retirement benefits \u200b (194) \u200b (688) Other \u200b (66) \u200b (16) Net cash used for operating activities \u200b (890) \u200b (1,132) \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash Flows from Investing Activities \u200b \u200b \u200b \u200b \u200b \u200b Collections of receivables (excluding receivables related to sales) \u200b 8,098 \u200b 8,137 Proceeds from maturities and sales of marketable securities \u200b 144 \u200b 61 Proceeds from sales of equipment on operating leases \u200b 377 \u200b \u200b 433 Cost of receivables acquired (excluding receivables related to sales) \u200b (6,023) \u200b (6,045) Purchases of marketable securities \u200b \u200b (129) \u200b \u200b (141) Purchases of property and equipment \u200b (256) \u200b (352) Cost of equipment on operating leases acquired \u200b (432) \u200b (439) Collections of receivables from unconsolidated affiliates \u200b \u200b 105 \u200b \u200b \u200b Collateral on derivatives \u2013 net \u200b \u200b (11) \u200b \u200b (191) Other \u200b (51) \u200b (47) Net cash provided by investing activities \u200b 1,822 \u200b 1,416 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash Flows from Financing Activities \u200b \u200b \u200b \u200b \u200b \u200b Net proceeds (payments) in short-term borrowings (original maturities three months or less) \u200b 848 \u200b (1,484) Proceeds from borrowings issued (original maturities greater than three months) \u200b 780 \u200b 3,168 Payments of borrowings (original maturities greater than three months) \u200b (3,360) \u200b (1,753) Repurchases of common stock \u200b (302) \u200b (441) Dividends paid \u200b (441) \u200b (403) Other \u200b (15) \u200b (10) Net cash used for financing activities \u200b (2,490) \u200b (923) \u200b \u200b \u200b \u200b \u200b \u200b \u200b Effect of Exchange Rate Changes on Cash, Cash Equivalents, and Restricted Cash \u200b 98 \u200b (87) \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net Decrease in Cash, Cash Equivalents, and Restricted Cash \u200b (1,460) \u200b (726) Cash, Cash Equivalents, and Restricted Cash at Beginning of Period \u200b 8,533 \u200b 7,633 Cash, Cash Equivalents, and Restricted Cash at End of Period \u200b $ 7,073 \u200b $ 6,907",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2026 \u200b \u200b \u200b 2025 Cash Flows from Operating Activities \u200b \u200b \u200b \u200b \u200b \u200b Net income \u200b $ 655 \u200b $ 867 Adjustments to reconcile net income to net cash used for operating activities: \u200b \u200b \u200b \u200b \u200b \u200b Provision for credit losses \u200b 36 \u200b 69 Depreciation and amortization \u200b 59...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "\u200b DEERE & CO & COMPANY \u200b Condensed Notes to Interim Consolidated Financial Statements \u200b (In millions of dollars) Unaudited \u200b",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "\u200b DEERE & CO & COMPANY \u200b Condensed Notes to Interim Consolidated Financial Statements \u200b (In millions of dollars) Unaudited \u200b",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "In the first quarter of 2025, the company recorded favorable net discrete tax items primarily due to tax benefits of $110 million related to the realization of foreign net operating losses from the consolidation of certain subsidiaries and $53 million from an adjustment to an uncertain tax position of a foreign subsidiary.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "In the first quarter of 2025, the company recorded favorable net discrete tax items primarily due to tax benefits of $110 million related to the realization of foreign net operating losses from the consolidation of certain subsidiaries and $53 million from an adjustment to an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "risk_or_uncertainty",
+      "claim": "In 2024, the company entered into an agreement with a Brazilian bank, Banco Bradesco S.A.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "In 2024, the company entered into an agreement with a Brazilian bank, Banco Bradesco S.A. (Bradesco), for Bradesco to invest and become 50% owner of the company\u2019s wholly-owned subsidiary in Brazil, Banco John DEERE & CO S.A. (BJD). BJD finances retail and wholesale loans for a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "costs_or_expenses",
+      "claim": "The BJD business was reclassified as held for sale in 2024.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "The BJD business was reclassified as held for sale in 2024. In January 2025, the valuation allowance on assets held for sale decreased, resulting in a pretax and after-tax gain (reversal of previous losses) of $32 million recorded in \u201cSelling, administrative and general expens...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "The company deconsolidated BJD upon completion of the transaction in February 2025.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "The company deconsolidated BJD upon completion of the transaction in February 2025. The company accounts for its investment in BJD using the equity method of accounting and results of its operations are reported in \u201cEquity in income (loss) of unconsolidated affiliates\u201d within...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "revenue",
+      "claim": "The consolidated financial statements represent the consolidation of all the company\u2019s subsidiaries.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "The consolidated financial statements represent the consolidation of all the company\u2019s subsidiaries. The supplemental consolidating data in Note 3 to the financial statements is presented for informational purposes. Equipment operations represent the enterprise without Financi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b EQUIPMENT \u200b FINANCIAL \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b OPERATIONS \u200b SERVICES \u200b ELIMINATIONS \u200b CONSOLIDATED \u200b \u200b \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b \u200b Net Sales and Revenues \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net sales \u200b $ 8,001 \u200b $ 6,809 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ 8,001 \u200b $ 6,809 \u200b \u200b Finance and interest income \u200b 120 \u200b 110 \u200b $ 1,351 \u200b $ 1,455 \u200b $ (128) \u200b $ (112) \u200b \u200b 1,343 \u200b \u200b 1,453 1 \u200b \u200b Other income \u200b 213 \u200b 202 \u200b 137 \u200b 118 \u200b (83) \u200b (74) \u200b 267 \u200b 246 2, 3, 4 \u200b \u200b Total \u200b 8,334 \u200b 7,121 \u200b 1,488 \u200b 1,573 \u200b (211) \u200b (186) \u200b 9,611 \u200b 8,508 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Costs and Expenses \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of sales \u200b 6,291 \u200b 5,045 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (11) \u200b \u200b (8) \u200b \u200b 6,280 \u200b \u200b 5,037 4 \u200b \u200b Research and development expenses \u200b 554 \u200b 526 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 554 \u200b \u200b 526 \u200b \u200b Selling, administrative and general expenses \u200b 806 \u200b 800 \u200b 168 \u200b 174 \u200b (2) \u200b (2) \u200b 972 \u200b 972 4 \u200b \u200b Interest expense \u200b 93 \u200b 84 \u200b 664 \u200b 766 \u200b (38) \u200b (21) \u200b 719 \u200b 829 1 \u200b \u200b Interest compensation to Financial Services \u200b 90 \u200b 91 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (90) \u200b \u200b (91) \u200b \u200b \u200b \u200b \u200b 1 \u200b \u200b Other operating expenses \u200b (46) \u200b (51) \u200b 366 \u200b 364 \u200b (70) \u200b (64) \u200b 250 \u200b 249 3, 4, 5 \u200b \u200b Total \u200b 7,788 \u200b 6,495 \u200b 1,198 \u200b 1,304 \u200b (211) \u200b (186) \u200b 8,775 \u200b 7,613 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income before Income Taxes \u200b 546 \u200b 626 \u200b 290 \u200b 269 \u200b \u200b \u200b \u200b \u200b 836 \u200b 895 \u200b \u200b Provision (credit) for income taxes \u200b 134 \u200b (13) \u200b 62 \u200b 40 \u200b \u200b \u200b \u200b \u200b 196 \u200b 27 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income after Income Taxes \u200b 412 \u200b 639 \u200b 228 \u200b 229 \u200b \u200b \u200b \u200b \u200b 640 \u200b 868 \u200b \u200b Equity in income (loss) of unconsolidated affiliates \u200b (1) \u200b (2) \u200b \u200b 16 \u200b \u200b 1 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 15 \u200b \u200b (1) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net Income \u200b 411 \u200b 637 \u200b 244 \u200b 230 \u200b \u200b \u200b \u200b \u200b 655 \u200b 867 \u200b \u200b Less: Net loss attributable to noncontrolling interests \u200b (1) \u200b (2) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (1) \u200b \u200b (2) \u200b \u200b Net Income Attributable to DEERE & CO & Company \u200b $ 412 \u200b $ 639 \u200b $ 244 \u200b $ 230 \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ 656 \u200b $ 869 \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b EQUIPMENT \u200b FINANCIAL \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b OPERATIONS \u200b SERVICES \u200b ELIMINATIONS \u200b CONSOLIDATED \u200b \u200b \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b \u200b Net Sales and Revenues \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "costs_or_expenses",
+      "claim": "1 Elimination of intercompany interest income and expense.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "1 Elimination of intercompany interest income and expense.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "margins",
+      "claim": "2 Elimination of equipment operations\u2019 margin from inventory transferred to equipment on operating leases.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "2 Elimination of equipment operations\u2019 margin from inventory transferred to equipment on operating leases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "costs_or_expenses",
+      "claim": "3 Elimination of income and expenses between equipment operations and Financial Services related to intercompany guarantees of investments in certain international markets.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "3 Elimination of income and expenses between equipment operations and Financial Services related to intercompany guarantees of investments in certain international markets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "revenue",
+      "claim": "4 Elimination of intercompany service revenues and fees.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "4 Elimination of intercompany service revenues and fees.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "costs_or_expenses",
+      "claim": "5 Elimination of Financial Services\u2019 lease depreciation expense related to inventory transferred to equipment on operating leases.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "5 Elimination of Financial Services\u2019 lease depreciation expense related to inventory transferred to equipment on operating leases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "costs_or_expenses",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b EQUIPMENT \u200b FINANCIAL \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b OPERATIONS \u200b SERVICES \u200b ELIMINATIONS \u200b CONSOLIDATED \u200b \u200b \u200b Feb 1 Nov 2 Jan 26 Feb 1 Nov 2 Jan 26 Feb 1 Nov 2 Jan 26 Feb 1 Nov 2 Jan 26 \u200b \u200b \u200b 2026 2025 2025 2026 2025 2025 2026 2025 2025 2026 2025 2025 \u200b Assets \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 4,769 \u200b $ 6,340 \u200b $ 4,840 \u200b $ 2,029 \u200b $ 1,936 \u200b $ 1,761 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ 6,798 \u200b $ 8,276 \u200b $ 6,601 \u200b \u200b Marketable securities \u200b \u200b 146 \u200b 217 \u200b 114 \u200b 1,252 \u200b 1,194 \u200b 1,100 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 1,398 \u200b 1,411 \u200b 1,214 \u200b \u200b Receivables from Financial Services \u200b 4,132 \u200b 4,649 \u200b 1,826 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ (4,132) \u200b $ (4,649) \u200b $ (1,826) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 6 \u200b \u200b Trade accounts and notes receivable \u2013 net \u200b 1,284 \u200b 1,316 \u200b 1,053 \u200b 6,609 \u200b 5,900 \u200b 5,812 \u200b (1,900) \u200b (1,899) \u200b (1,934) \u200b 5,993 \u200b 5,317 \u200b 4,931 7 \u200b \u200b Financing receivables \u2013 net \u200b 105 \u200b 88 \u200b 78 \u200b 42,008 \u200b 44,487 \u200b 41,318 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 42,113 \u200b 44,575 \u200b 41,396 \u200b \u200b Financing receivables securitized \u2013 net \u200b \u200b \u200b \u200b \u200b 1 \u200b \u200b 2 \u200b 6,479 \u200b 6,830 \u200b 8,255 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 6,479 \u200b 6,831 \u200b 8,257 \u200b \u200b Other receivables \u200b 1,841 \u200b 1,809 \u200b 2,367 \u200b 621 \u200b 658 \u200b 654 \u200b (51) \u200b (64) \u200b (42) \u200b 2,411 \u200b 2,403 \u200b 2,979 8 \u200b \u200b Equipment on operating leases \u2013 net \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 7,512 \u200b 7,600 \u200b 7,157 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 7,512 \u200b 7,600 \u200b 7,157 \u200b \u200b Inventories \u200b 8,286 \u200b 7,406 \u200b 7,744 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 8,286 \u200b \u200b 7,406 \u200b \u200b 7,744 \u200b \u200b Property and equipment \u2013 net \u200b 8,053 \u200b 8,047 \u200b 7,392 \u200b 31 \u200b 32 \u200b 33 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 8,084 \u200b 8,079 \u200b 7,425 \u200b \u200b Goodwill \u200b 4,280 \u200b 4,188 \u200b 3,872 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 4,280 \u200b \u200b 4,188 \u200b \u200b 3,872 \u200b \u200b Other intangible assets \u2013 net \u200b 880 \u200b 892 \u200b 937 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 880 \u200b 892 \u200b 937 \u200b \u200b Retirement benefits \u200b 3,282 \u200b 3,181 \u200b 2,933 \u200b 98 \u200b 94 \u200b 86 \u200b (2) \u200b (2) \u200b (1) \u200b 3,378 \u200b 3,273 \u200b 3,018 \u200b \u200b Deferred income taxes \u200b 2,476 \u200b 2,507 \u200b 2,247 \u200b 45 \u200b 46 \u200b 42 \u200b (253) \u200b (269) \u200b (437) \u200b 2,268 \u200b 2,284 \u200b 1,852 9 \u200b \u200b Other assets \u200b 2,371 \u200b 2,218 \u200b 2,295 \u200b 1,220 \u200b 1,244 \u200b 539 \u200b (35) \u200b (1) \u200b (27) \u200b 3,556 \u200b 3,461 \u200b 2,807 \u200b \u200b Assets held for sale \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2,929 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2,929 \u200b \u200b Total Assets \u200b $ 41,905 \u200b $ 42,859 \u200b $ 37,700 \u200b $ 67,904 \u200b $ 70,021 \u200b $ 69,686 \u200b $ (6,373) \u200b $ (6,884) \u200b $ (4,267) \u200b $ 103,436 \u200b $ 105,996 \u200b $ 103,119 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Liabilities and Stockholders\u2019 Equity \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Liabilities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Short-term borrowings \u200b $ 366 \u200b $ 414 \u200b $ 1,101 \u200b $ 14,026 \u200b $ 13,382 \u200b $ 11,710 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ 14,392 \u200b $ 13,796 \u200b $ 12,811 \u200b \u200b Short-term securitization borrowings \u200b \u200b \u200b \u200b \u200b 1 \u200b \u200b 1 \u200b 6,283 \u200b 6,595 \u200b 8,013 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 6,283 \u200b 6,596 \u200b 8,014 \u200b \u200b Payables to equipment operations \u200b \u200b \u200b \u200b \u200b \u200b \u200b 4,132 \u200b 4,649 \u200b 1,826 \u200b $ (4,132) \u200b $ (4,649) \u200b $ (1,826) \u200b \u200b \u200b \u200b \u200b \u200b 6 \u200b \u200b Accounts payable and accrued expenses \u200b 11,387 \u200b 12,757 \u200b 10,869 \u200b 3,132 \u200b 3,116 \u200b 3,296 \u200b (1,986) \u200b (1,964) \u200b (2,003) \u200b 12,533 \u200b 13,909 \u200b 12,162 7, 8 \u200b \u200b Deferred income taxes \u200b 343 \u200b 347 \u200b 405 \u200b 344 \u200b 356 \u200b 480 \u200b (253) \u200b (269) \u200b (437) \u200b 434 \u200b 434 \u200b 448 9 \u200b \u200b Long-term borrowings \u200b 8,897 \u200b 8,756 \u200b 8,507 \u200b 32,907 \u200b 34,788 \u200b 35,049 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 41,804 \u200b 43,544 \u200b 43,556 \u200b \u200b Retirement benefits and other liabilities \u200b 1,568 \u200b 1,646 \u200b 1,668 \u200b 67 \u200b 66 \u200b 67 \u200b (2) \u200b (2) \u200b (1) \u200b 1,633 \u200b 1,710 \u200b 1,734 \u200b \u200b Liabilities held for sale \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 1,830 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 1,830 \u200b \u200b Total liabilities \u200b 22,561 \u200b 23,921 \u200b 22,551 \u200b 60,891 \u200b 62,952 \u200b 62,271 \u200b (6,373) \u200b (6,884) \u200b (4,267) \u200b 77,079 \u200b 79,989 \u200b 80,555 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Redeemable noncontrolling interest \u200b \u200b 50 \u200b \u200b 51 \u200b \u200b 78 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 50 \u200b \u200b 51 \u200b \u200b 78 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stockholders\u2019 Equity \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Total DEERE & CO & Company stockholders\u2019 equity \u200b 26,300 \u200b 25,950 \u200b 22,479 \u200b 7,013 \u200b 7,069 \u200b 7,415 \u200b (7,013) \u200b (7,069) \u200b (7,415) \u200b 26,300 \u200b 25,950 \u200b 22,479 10 \u200b \u200b Noncontrolling interests \u200b 7 \u200b 6 \u200b 7 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 7 \u200b \u200b 6 \u200b \u200b 7 \u200b \u200b Financial Services' equity \u200b \u200b (7,013) \u200b \u200b (7,069) \u200b \u200b (7,415) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 7,013 \u200b \u200b 7,069 \u200b \u200b 7,415 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 10 \u200b \u200b Adjusted total stockholders' equity \u200b 19,294 \u200b 18,887 \u200b 15,071 \u200b 7,013 \u200b 7,069 \u200b 7,415 \u200b \u200b \u200b \u200b \u200b \u200b \u200b 26,307 \u200b 25,956 \u200b 22,486 \u200b \u200b Total Liabilities and Stockholders\u2019 Equity \u200b $ 41,905 \u200b $ 42,859 \u200b $ 37,700 \u200b $ 67,904 \u200b $ 70,021 \u200b $ 69,686 \u200b $ (6,373) \u200b $ (6,884) \u200b $ (4,267) \u200b $ 103,436 \u200b $ 105,996 \u200b $ 103,119 \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b EQUIPMENT \u200b FINANCIAL \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b OPERATIONS \u200b SERVICES \u200b ELIMINATIONS \u200b CONSOLIDATED \u200b \u200b \u200b Feb 1 Nov 2 Jan 26 Feb 1 Nov 2 Jan 26 Feb 1 Nov 2 Jan 26 Feb 1 Nov 2 Jan 26 \u200b \u200b \u200b 2026 2025 2025 20...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "other",
+      "claim": "6 Elimination of receivables / payables between equipment operations and Financial Services.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "6 Elimination of receivables / payables between equipment operations and Financial Services.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "revenue",
+      "claim": "7 Primarily reclassification of sales incentive accruals on receivables sold to Financial Services.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "7 Primarily reclassification of sales incentive accruals on receivables sold to Financial Services.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "other",
+      "claim": "8 Reclassification of other receivables / payables.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "8 Reclassification of other receivables / payables.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "9 Reclassification of deferred tax assets / liabilities in the same taxing jurisdictions.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "9 Reclassification of deferred tax assets / liabilities in the same taxing jurisdictions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "10 Elimination of Financial Services\u2019 equity.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "10 Elimination of Financial Services\u2019 equity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b EQUIPMENT \u200b FINANCIAL \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b OPERATIONS \u200b SERVICES \u200b ELIMINATIONS \u200b CONSOLIDATED \u200b \u200b \u200b \u200b 2026 \u200b 2025 \u200b \u200b 2026 \u200b 2025 \u200b \u200b 2026 \u200b 2025 \u200b \u200b 2026 \u200b 2025 \u200b \u200b \u200b \u200b Cash Flows from Operating Activities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net income \u200b $ 411 \u200b $ 637 \u200b $ 244 \u200b $ 230 \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ 655 \u200b $ 867 \u200b \u200b Adjustments to reconcile net income to net cash provided by (used for) operating activities: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Provision for credit losses \u200b 1 \u200b 3 \u200b 35 \u200b 66 \u200b \u200b \u200b \u200b \u200b 36 \u200b 69 \u200b \u200b Depreciation and amortization \u200b 342 \u200b 319 \u200b 274 \u200b 265 \u200b $ (26) \u200b $ (35) \u200b 590 \u200b 549 11 \u200b \u200b Impairments and other adjustments \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (32) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (32) \u200b \u200b Share-based compensation expense \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 41 \u200b \u200b 28 \u200b \u200b 41 \u200b \u200b 28 12 \u200b \u200b Distributed earnings of Financial Services \u200b 350 \u200b 162 \u200b \u200b \u200b \u200b \u200b (350) \u200b (162) \u200b \u200b \u200b \u200b 13 \u200b \u200b Provision (credit) for deferred income taxes \u200b 29 \u200b (17) \u200b (11) \u200b 225 \u200b \u200b \u200b \u200b \u200b 18 \u200b 208 \u200b \u200b Changes in assets and liabilities: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Receivables related to sales \u200b 18 \u200b 140 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 332 \u200b \u200b 923 \u200b \u200b 350 \u200b \u200b 1,063 14, 16 \u200b \u200b Inventories \u200b (728) \u200b (784) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (18) \u200b \u200b (11) \u200b \u200b (746) \u200b \u200b (795) 15 \u200b \u200b Accounts payable and accrued expenses \u200b (1,410) \u200b (2,073) \u200b (74) \u200b 6 \u200b (2) \u200b 222 \u200b (1,486) \u200b (1,845) 16 \u200b \u200b Accrued income taxes payable/receivable \u200b (71) \u200b (479) \u200b (17) \u200b (61) \u200b \u200b \u200b \u200b \u200b (88) \u200b (540) \u200b \u200b Retirement benefits \u200b (191) \u200b (647) \u200b (3) \u200b (41) \u200b \u200b \u200b \u200b \u200b (194) \u200b (688) \u200b \u200b Other \u200b (94) \u200b (136) \u200b 49 \u200b 117 \u200b (21) \u200b 3 \u200b (66) \u200b (16) 11, 12, 15 \u200b \u200b Net cash provided by (used for) operating activities \u200b (1,343) \u200b (2,875) \u200b 497 \u200b 775 \u200b (44) \u200b 968 \u200b (890) \u200b (1,132) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash Flows from Investing Activities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Collections of receivables (excluding receivables related to sales) \u200b \u200b \u200b \u200b \u200b \u200b \u200b 8,251 \u200b 8,345 \u200b (153) \u200b (208) \u200b 8,098 \u200b 8,137 14 \u200b \u200b Proceeds from maturities and sales of marketable securities \u200b \u200b 75 \u200b \u200b 9 \u200b 69 \u200b 52 \u200b \u200b \u200b \u200b \u200b 144 \u200b 61 \u200b \u200b Proceeds from sales of equipment on operating leases \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 377 \u200b \u200b 433 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 377 \u200b \u200b 433 \u200b \u200b Cost of receivables acquired (excluding receivables related to sales) \u200b \u200b \u200b \u200b \u200b \u200b \u200b (6,044) \u200b (6,093) \u200b 21 \u200b 48 \u200b (6,023) \u200b (6,045) 14 \u200b \u200b Purchases of marketable securities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (129) \u200b \u200b (141) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (129) \u200b \u200b (141) \u200b \u200b Purchases of property and equipment \u200b (256) \u200b (352) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (256) \u200b (352) \u200b \u200b Cost of equipment on operating leases acquired \u200b \u200b \u200b \u200b \u200b \u200b \u200b (456) \u200b (454) \u200b 24 \u200b 15 \u200b (432) \u200b (439) 15 \u200b \u200b Decrease in trade and wholesale receivables \u200b \u200b \u200b \u200b \u200b \u200b \u200b 198 \u200b 985 \u200b (198) \u200b (985) \u200b \u200b \u200b \u200b 14 \u200b \u200b Collections of receivables from unconsolidated affiliates \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 105 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b 105 \u200b \u200b \u200b \u200b \u200b Collateral on derivatives \u2013 net \u200b \u200b 1 \u200b \u200b \u200b \u200b \u200b (12) \u200b \u200b (191) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (11) \u200b \u200b (191) \u200b \u200b Other \u200b (33) \u200b (51) \u200b (18) \u200b 4 \u200b \u200b \u200b \u200b \u200b (51) \u200b (47) \u200b \u200b Net cash provided by (used for) investing activities \u200b (213) \u200b (394) \u200b 2,341 \u200b 2,940 \u200b (306) \u200b (1,130) \u200b 1,822 \u200b 1,416 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cash Flows from Financing Activities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net proceeds (payments) in short-term borrowings (original maturities three months or less) \u200b (38) \u200b 176 \u200b 886 \u200b (1,660) \u200b \u200b \u200b \u200b \u200b 848 \u200b (1,484) \u200b \u200b Change in intercompany receivables/payables \u200b 613 \u200b 1,222 \u200b (613) \u200b (1,222) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Proceeds from borrowings issued (original maturities greater than three months) \u200b 166 \u200b 2,032 \u200b 614 \u200b 1,136 \u200b \u200b \u200b \u200b \u200b 780 \u200b 3,168 \u200b \u200b Payments of borrowings (original maturities greater than three months) \u200b (78) \u200b (12) \u200b (3,282) \u200b (1,741) \u200b \u200b \u200b \u200b \u200b (3,360) \u200b (1,753) \u200b \u200b Repurchases of common stock \u200b (302) \u200b (441) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (302) \u200b \u200b (441) \u200b \u200b Dividends paid \u200b (441) \u200b (403) \u200b (350) \u200b (162) \u200b 350 \u200b 162 \u200b (441) \u200b (403) 13 \u200b \u200b Other \u200b (11) \u200b (7) \u200b (4) \u200b (3) \u200b \u200b \u200b \u200b \u200b (15) \u200b (10) \u200b \u200b Net cash provided by (used for) financing activities \u200b (91) \u200b 2,567 \u200b (2,749) \u200b (3,652) \u200b 350 \u200b 162 \u200b (2,490) \u200b (923) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Effect of Exchange Rate Changes on Cash, Cash Equivalents, and Restricted Cash \u200b 78 \u200b (74) \u200b 20 \u200b (13) \u200b \u200b \u200b \u200b \u200b 98 \u200b (87) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net Increase (Decrease) in Cash, Cash Equivalents, and Restricted Cash \u200b (1,569) \u200b (776) \u200b 109 \u200b 50 \u200b \u200b \u200b \u200b \u200b (1,460) \u200b (726) \u200b \u200b Cash, Cash Equivalents, and Restricted Cash at Beginning of Period \u200b 6,364 \u200b 5,643 \u200b 2,169 \u200b 1,990 \u200b \u200b \u200b \u200b \u200b 8,533 \u200b 7,633 \u200b \u200b Cash, Cash Equivalents, and Restricted Cash at End of Period \u200b $ 4,795 \u200b $ 4,867 \u200b $ 2,278 \u200b $ 2,040 \u200b \u200b \u200b \u200b \u200b \u200b \u200b $ 7,073 \u200b $ 6,907 \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b EQUIPMENT \u200b FINANCIAL \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b OPERATIONS \u200b SERVICES \u200b ELIMINATIONS \u200b CONSOLIDATED \u200b \u200b \u200b \u200b 2026 \u200b 2025 \u200b \u200b 2026 \u200b 2025 \u200b \u200b 2026 \u200b 2025 \u200b \u200b 2026 \u200b 2025 \u200b \u200b \u200b \u200b Cash Flows from Operating Activities \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "earnings_or_eps",
+      "claim": "11 Elimination of depreciation on leases related to inventory transferred to equipment on operating leases.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "11 Elimination of depreciation on leases related to inventory transferred to equipment on operating leases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "12 Reclassification of share-based compensation expense.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "12 Reclassification of share-based compensation expense.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "earnings_or_eps",
+      "claim": "13 Elimination of dividends from Financial Services to the equipment operations, which are included in the equipment operations operating activities.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "13 Elimination of dividends from Financial Services to the equipment operations, which are included in the equipment operations operating activities.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "14 Primarily reclassification of receivables related to the sale of equipment.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "14 Primarily reclassification of receivables related to the sale of equipment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "earnings_or_eps",
+      "claim": "15 Reclassification of direct lease agreements with retail customers.",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "15 Reclassification of direct lease agreements with retail customers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "revenue",
+      "claim": "16 Reclassification of sales incentive accruals on receivables sold to Financial Services.",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "16 Reclassification of sales incentive accruals on receivables sold to Financial Services.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.000236, ret_20d=0.166293, market_ret_20d=0.012855",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.000236, ret_20d=0.166293, market_ret_20d=0.012855",
+      "support_label": "supported"
+    }
+  ]
+}

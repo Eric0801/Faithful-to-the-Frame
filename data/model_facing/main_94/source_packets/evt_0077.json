@@ -1,0 +1,350 @@
+{
+  "event_id": "evt_0077",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "HAEMONETICS CORP",
+  "ticker": "HAE",
+  "company_alias": "HAEMONETICS CORP",
+  "masked_company": "Company AY",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-02-05",
+  "filing_metadata": {
+    "cik": "313143",
+    "accession_number": "0000313143-26-000009",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-05T01:03:40-05:00",
+    "event_date": "2026-02-05",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Josh Gitelson, Sr. Director-Communications",
+      "token_count": 11
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Boston, MA, 2026-02-05T01:03:40-05:00 - HAEMONETICS CORP Corporation (NYSE:HAE) reported financial results for its third quarter and year-to-date of fiscal 2026, which ended December 27, 2025:",
+      "token_count": 47
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "3rd Quarter 2026 Year-to-Date 2026 n Revenue, decrease $339 million, (3)% $988 million, (4)% n Organic (1) revenue increase 1.2% \u2014% n Organic ex-CSL (2) revenue increase 7.5% 9.8% n Earnings per diluted share $0.95 $2.46 n Adjusted earnings per diluted share $1.31 $3.67 n Cash flow from operating activities $94 million $222 million n Free cash flow $74 million $165 million",
+      "token_count": 94
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) Excludes the impacts of currency fluctuation, the divestiture of the Whole Blood product line as of its completion in January 2025 and the exit of certain liquid solution products.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(2) In addition to the adjustments for organic revenue, further excludes the impact of fiscal 2025 disposable sales to CSL Plasma under its transitional U.S. supply agreement with the Company.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Chris Simon, HAEMONETICS CORP\u2019 CEO, stated: \u201cThird quarter revenue growth, margin expansion, and cash flow reflect the underlying strength of our core businesses. Blood Management Technologies and Plasma continue to drive our strong performance while we take targeted actions to reestablish momentum in Interventional Technologies and prepare for a US launch of PerQseal Elite. We are well positioned to finish the fiscal year strong and deliver our long-term growth and value creation objectives throughout our business.\u201d",
+      "token_count": 129
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Third quarter fiscal 2026 revenue was $339.0 million, down 2.7% compared with the third quarter of fiscal 2025. Business unit revenue and growth rates compared with the prior year period were as follows:",
+      "token_count": 51
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "($ millions) 3rd Quarter 2026 Reported Plasma $138.9 3.5% Blood Center $56.6 (19.6)% Hospital $143.5 (0.3)% Total net revenue $339.0 (2.7)%",
+      "token_count": 35
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross margin was 59.7% in the third quarter of fiscal 2026 compared with 55.5% in the third quarter of fiscal 2025. The primary drivers of the increase in the gross margin percentage were the continued transformation of the product portfolio to higher margin offerings, benefits from product innovation, decreased restructuring costs related to portfolio rationalization initiatives, and decreased amortization of fair value inventory step-up. Operating expenses were $135.0 million, up $0.5 million, or 0.4%, compared with the third quarter of fiscal 2025. The increase in operating expenses was driven by higher performance-based compensation. The Company had operating income of $67.4 million and a 19.9% operating margin in the third quarter of fiscal 2026, compared with operating income of $59.0 million and a 16.9% operating margin in the third quarter of fiscal 2025. The effective income tax rate was 25.4% in the third quarter of fiscal 2026, compared with 24.9% in the third quarter of fiscal 2025. Third quarter fiscal 2026 net income and earnings per diluted share were $44.7 million and $0.95, respectively, compared with $37.5 million and $0.74, respectively, in the third quarter of fiscal 2025.",
+      "token_count": 303
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Third quarter organic revenue declined 1.2% and organic ex-CSL revenue growth was 7.5% com pared with the same period of fiscal 2025. Year-over-year organic and organic ex-CSL revenue growth rates by business unit were as follows:",
+      "token_count": 58
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "3rd Quarter 2026 Organic Organic ex-CSL Plasma 2.8% 20.2% Blood Center 2.8% 2.8% Hospital (0.9)% (0.9)% Total net revenue 1.2% 7.5%",
+      "token_count": 33
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Third quarter fiscal 2026 adjusted gross margi n was 60.2%, up 250 basis points compared with the prior year period. The primary drivers of the increase in the adjusted gross margin percentage included the continued transformation of the product portfolio to higher margin offerings and benefits from product innovation.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted operating expenses were $114.8 million, up $3.3 million, or 3.0%, compared with the third quarter of fiscal 2025. The increase in adjusted operating expenses was driven by higher performance-based compensation. Adjusted operating income for the third quarter of fiscal 2026 was $89.2 million, down $0.3 million, or 0.3%, compared with the third quarter of fiscal 2025. Adjusted operating margin was 26.3%, up 60 basis points when compared with the same period of fiscal 2025. The adjusted income tax rate for the third quarter of fiscal 2026 was 24.9%, down 10 basis points when compared with 25.0% in the third quarter of fiscal 2025.",
+      "token_count": 161
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Third quarter fiscal 2026 adjusted net income was $61.4 million, up $1.1 million, or 1.9%, and adjusted earnings per diluted share was $1.31, up 10.1%, each when compared with the same period of fiscal 2025.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash on hand as of December 27, 2025 was $363.4 million, an increase of $56.6 million since the end of fiscal 2025, primarily driven by cash flow provided from operating activities, partially offset by cash outflows for share repurchases and strategic investments.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Third quarter fiscal 2026 cash flow from operating activities was $93.6 million, up $49.8 million, or 113.8%, and free cash flow was $74.2 million, up $44.6 million, or 150.9%, each when compared with the same period of fiscal 2025. The primary driver of increased operating cash flow as compared to the same period of fiscal 2025 was favorable working capital adjustments driven by lower inventory purchasing. Free cash flow was also impacted by higher non-cash transfers from inventory, partially offset by lower capital expenditures.",
+      "token_count": 134
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Current Guidance Plasma Blood Center Hospital Total Company Reported (2 \u2013 4%) (16 \u2013 18%) ~4% (1 \u2013 3%) Currency impact \u2013 ~1% \u2013 ~1% Acquisitions & Divestitures (1) \u2013 (19%) \u2013 (4%) Organic (2 \u2013 4%) 1 \u2013 3% ~4% 0 \u2013 2% CSL 2025 US disposables revenue (2) 21% \u2013 \u2013 8% Organic, ex-CSL 17 \u2013 19% 1 \u2013 3% ~4% 8 \u2013 10% Previous Guidance Plasma Blood Center Hospital Total Company Reported (4 \u2013 7%) (17 \u2013 19%) 4 \u2013 7% (1 \u2013 4%) Currency impact \u2013 ~1% \u2013 1% Acquisitions & Divestitures (1) \u2013 (19%) \u2013 (4%) Organic (4 \u2013 7%) (1) \u2013 1% 4 \u2013 7% (1) \u2013 2% CSL 2025 US disposables revenue (2) 21% \u2013 \u2013 8% Organic, ex-CSL 14 \u2013 17% (1) \u2013 1% 4 \u2013 7% 7 \u2013 10%",
+      "token_count": 155
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) Reflects adjustment in Blood Center to exclude the impact of the Company\u2019s divestiture of its Whole Blood product line in January 2025 and exit of certain liquid solution products.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(2) Reflects adjustment to exclude the impact of fiscal 2025 disposable sales to CSL Plasma under its transitional U.S. supply agreement with the Company.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Additionally, the Company updated its adjusted operating margin guidance and raised adjusted earnings per diluted share guidance and free cash flow guidance as follows:",
+      "token_count": 42
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Previous Guidance Current Guidance Adjusted operating margin 26 \u2013 27% 26 \u2013 27% Adjusted earnings per diluted share $4.80 \u2013 $5.00 $4.90 \u2013 $5.00 Free cash flow $170M \u2013 $210M $200M \u2013 $220M Free cash flow to adjusted net income >70% >80%",
+      "token_count": 59
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company has also provided a supplemental earnings presentation for its third quarter of fiscal 2026, which is available on its website and can be found at the following direct link: https://HAEMONETICS CORP.gcs-web.com/static-files/54f39941-e22b-48e1-957d-fa61630cd8ca .",
+      "token_count": 67
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "HAEMONETICS CORP is a global medical technology company dedicated to improving the quality, effectiveness and efficiency of health care. Our innovative solutions addressing critical medical needs include a suite of hospital technologies designed to advance standards of care and help enhance outcomes for patients; end-to-end plasma collection techno logies to optimize operations for plasma centers; and products to enable blood centers to collect in-demand blood components. To learn more about HAEMONETICS CORP, visit www.HAEMONETICS CORP.com .",
+      "token_count": 133
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This press release contains financial measures that are considered \u201cnon-GAAP\u201d financial measures under applicable SEC rules and regulations. Management uses non-GAAP measures to monitor the financial performance of the business, make informed business decisions, establish budgets and forecast future results. Performance targets for management are also based on certain non-GAAP financial measures. These non-GAAP financial measures should be considered supplemental to, and not a substitute for, the Company\u2019s reported financial results prepared in accordance with U.S. GAAP. In this release, supplemental non-GAAP measures have been provided to assist investors in evaluating the performance of the Company\u2019s core operations and provide a baseline for analyzing trends in the Company\u2019s underlying businesses. We strongly encourage investors to review the Company\u2019s financial statements and publicly-filed reports in their entirety and not rely on any single financial measure.",
+      "token_count": 245
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "When used in this release, organic revenue growth excludes the impact of currency fluctuation, acquisitions and divestitures. Organic ex-CSL revenue growth further excludes the impact of fiscal 2025 disposable sales to CSL Plasma under its transitional U.S. supply agreement with the Company. Adjusted gross profit, adjusted operating expenses, adjusted operating income, adjusted interest and other income/expense, adjusted provision for income taxes, adjusted net income and adjusted earnings per diluted share exclude restructuring costs, restructuring related costs, digital transformation costs, amortization of acquired intangible assets, asset impairments and write downs, amortization of fair value inventory step-up, costs related to compliance with the European Union Medical Device Regulation (\"MDR\") and In Vitro Diagnostic Regulation (\"IVDR\"), acquisition, integration and divestiture related costs, net gains on the repurchase of convertible notes, gains on sales of property, plant and equipment, certain tax settlements, unusual or infrequent and material litigation-related charges, and remeasurement of contingent consideration. Adjusted net income and adjusted earnings per diluted share also exclude the tax impact of these items. The adjustments to provision for income taxes are calculated based on the jurisdictions in which pre-tax adjustments occurred. Free cash flow is defined as cash provided by operating activities less capital expenditures and additions to HAEMONETICS CORP equipment, net of the proceeds from the sale of property, plant and equipment. Because non-GAAP financial measures are not standardized, it may not be possible to compare these financial measures to similarly titled measures used by other companies.",
+      "token_count": 437
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "A reconciliation of non-GAAP historical financial measures to their most comparable GAAP measure are included at the end of the financial sections of this press release as well as on the Company\u2019s website at www.HAEMONETICS CORP.com . The Company does not attempt to provide reconciliations of forward-looking adjusted operating margin guidance, adjusted earnings per diluted share guidance or free cash flow guidance to the comparable GAAP measures because the combined impact and timing of recognition of certain potential charges or gains, such as restructuring costs, impairment charges and capital expenditures, is inherently uncertain and difficult to predict and is unavailable without unreasonable effor ts. In addition, the Company believes such reconciliations would imply a degree of precision and certainty that could be confusing to investors. Such items could have a substantial impact on GAAP measures of the Company\u2019s financial performance.",
+      "token_count": 238
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "HAEMONETICS CORP Corporation Financial Summary Condensed Consolidated Statements of Income (Unaudited) Three Months Ended Nine Months Ended 12/27/2025 12/28/2024 Inc/(Dec) % 12/27/2025 12/28/2024 Inc/(Dec) % (Dollars and Shares in Thousands, Except Per Share Data) (Dollars and Shares in Thousands, Except Per Share Data) Net revenues $ 338,967 $ 348,542 (2.7)% $ 987,676 $ 1,030,225 (4.1)% Cost of goods sold 136,581 154,995 (11.9)% 398,302 474,317 (16.0)% Gross profit 202,386 193,547 4.6% 589,374 555,908 6.0% Research and development 14,187 15,829 (10.4)% 45,320 44,417 2.0% Selling, general and administrative 109,154 106,459 2.5% 321,488 321,653 (0.1)% Amortization of acquired intangible assets 10,933 12,230 (10.6)% 33,507 36,965 (9.4)% Impairment of intangible assets 716 \u2014 100.0% 9,300 2,391 289.0% Total Operating expenses 134,990 134,518 0.4% 409,615 405,426 1.0% Operating income 67,396 59,029 14.2% 179,759 150,482 19.5% Interest and other expense, net (7,421) (9,112) (18.6)% (23,330) (9,148) 155.0% Income before provision for income taxes 59,975 49,917 20.1% 156,429 141,334 10.7% Provision for income taxes 15,235 12,423 22.6% 38,974 31,636 23.2% Net income $ 44,740 $ 37,494 19.3% $ 117,455 $ 109,698 7.1% Net income per common share assuming dilution $ 0.95 $ 0.74 28.4% $ 2.46 $ 2.14 15.0% Weighted average shares outstanding Basic 46,792 50,286 47,497 50,709 Diluted 46,987 50,639 47,668 51,148 Profit Margins: Inc/(Dec) % Inc/(Dec) % Gross profit 59.7 % 55.5 % 4.2% 59.7 % 54.0 % 5.7% Research and development 4.2 % 4.5 % (0.3)% 4.6 % 4.3 % 0.3% Selling, general and administrative 32.2 % 30.5 % 1.7% 32.5 % 31.2 % 1.3% Operating income 19.9 % 16.9 % 3.0% 18.2 % 14.6 % 3.6% Income before provision for income taxes 17.7 % 14.3 % 3.4% 15.8 % 13.7 % 2.1% Net income 13.2 % 10.8 % 2.4% 11.9 % 10.6 % 1.3%",
+      "token_count": 455
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue Analysis by Business Unit (Unaudited) Three Months Ended 12/27/2025 12/28/2024 Reported growth Currency impact Acquisitions & Divestitures (1) Organic growth 2025 CSL US Disposable Revenue (2) Organic growth, ex-CSL (Dollars in Thousands) Revenues by business unit Plasma $ 138,905 $ 134,224 3.5 % 0.7 % \u2014 % 2.8 % (17.4) % 20.2 % Apheresis 56,560 55,388 2.1 % 1.3 % (2.0) % 2.8 % \u2014 % 2.8 % Whole Blood \u2014 14,957 (100.0) % \u2014 % (100.0) % \u2014 % \u2014 % \u2014 % Blood Center 56,560 70,345 (19.6) % 1.1 % (23.5) % 2.8 % \u2014 % 2.8 % Interventional Technologies (3) 56,054 63,253 (11.4) % 0.2 % \u2014 % (11.6) % \u2014 % (11.6) % Blood Management Technologies (4) 87,448 80,720 8.3 % 0.7 % \u2014 % 7.6 % \u2014 % 7.6 % Hospital 143,502 143,973 (0.3) % 0.6 % \u2014 % (0.9) % \u2014 % (0.9) % Total net revenues $ 338,967 $ 348,542 (2.7) % 0.8 % (4.7) % 1.2 % (6.3) % 7.5 % Nine Months Ended 12/27/2025 12/28/2024 Reported growth Currency impact Acquisitions & Divestitures (1) Organic growth 2025 CSL US Disposable Revenue (2) Organic growth, ex-CSL (Dollars in Thousands) Revenues by business unit Plasma $ 394,166 $ 408,695 (3.6) % 0.5 % \u2014 % (4.1) % (26.2) % 22.1 % Apheresis 164,447 158,814 3.5 % 1.3 % (2.0) % 4.2 % \u2014 % 4.2 % Whole Blood 406 46,304 (99.1) % \u2014 % (99.1) % \u2014 % \u2014 % \u2014 % Blood Center 164,853 205,118 (19.6) % 1.2 % (25.0) % 4.2 % \u2014 % 4.2 % Interventional Technologies (3) 173,610 188,220 (7.8) % 0.3 % \u2014 % (8.1) % \u2014 % (8.1) % Blood Management Technologies (4) 255,047 228,192 11.8 % 0.7 % \u2014 % 11.1 % \u2014 % 11.1 % Hospital 428,657 416,412 2.9 % 0.5 % \u2014 % 2.4 % \u2014 % 2.4 % Total net revenues $ 987,676 $ 1,030,225 (4.1) % 0.7 % (4.8) % \u2014 % (9.8) % 9.8 %",
+      "token_count": 406
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(1) Reflects the impact in Blood Center of the divestiture of the Whole Blood product line as of its completion in January 2025 and the impact of the exit of certain liquid solution products.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Reflects the impact in Plasma of fiscal 2025 disposable sales to CSL Plasma under its transitional U.S. supply agreement with the Company.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(3) Interventional Technologies includes Vascular Closure, Sensor Guided Technologies and Esophageal Protection product lines of the Hospital business unit.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(4) Blood Management Technologies includes Hemostasis Management, Cell Salvage and Transfusion Management product lines of the Hospital business unit.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Condensed Consolidated Balance Sheets (Unaudited) December 27, 2025 March 29, 2025 (Dollars in Thousands) Assets Cash and cash equivalents $ 363,367 $ 306,763 Accounts receivable, net 195,707 202,657 Inventories, net 321,185 365,141 Other current assets 63,415 60,414 Total current assets 943,674 934,975 Property, plant & equipment, net 297,234 284,052 Intangible assets, net 419,734 455,743 Goodwill 606,825 604,269 Other assets 223,423 171,909 Total assets $ 2,490,890 $ 2,450,948 Liabilities & Stockholders' Equity Short-term debt & current maturities $ 304,746 $ 303,558 Other current liabilities 235,122 274,555 Total current liabilities 539,868 578,113 Long-term debt 919,987 921,230 Other long-term liabilities 119,584 130,769 Stockholders' equity 911,451 820,836 Total liabilities & stockholders' equity $ 2,490,890 $ 2,450,948",
+      "token_count": 209
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Condensed Consolidated Statements of Cash Flows (Unaudited) Nine Months Ended December 27, 2025 December 28, 2024 (Dollars in Thousands) Cash Flows from Operating Activities: Net income $ 117,455 $ 109,698 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 84,398 87,378 Amortization of fair value inventory step-up 5,814 12,319 Share-based compensation expense 24,700 22,699 Impairment of intangible assets 9,300 2,391 Gain on repurchase of convertible senior notes, net \u2014 (12,600) Gains on sales of property, plant and equipment (536) (14,572) Deferred income taxes (6,018) (8,593) Change in other non-cash operating activities 4,751 8,114 Change in operating assets and liabilities: Change in accounts receivable, net 7,356 (3,379) Change in inventories, net 38,899 (64,340) Change in prepaid income taxes 1,352 (2,638) Change in other assets and other liabilities (28,298) (34,493) Change in accounts payable and accrued expenses (36,893) (36,816) Net cash provided by operating activities 222,280 65,168 Cash Flows from Investing Activities: Capital expenditures (15,119) (23,635) Non-cash transfers from inventory to property, plant and equipment for HAEMONETICS CORP equipment (42,593) (12,649) Proceeds from sale of property, plant and equipment 849 20,802 Acquisitions \u2014 (150,906) Other investments (36,071) (13,547) Net cash used in investing activities (92,934) (179,935) Cash Flows from Financing Activities: Repayments, net of borrowings (4,688) 448,875 Purchase of capped call related to convertible notes \u2014 (88,200) Debt issuance costs \u2014 (23,135) Share repurchases (75,000) (75,000) Proceeds from employee stock programs 7,771 8,193 Cash used to net share settle employee equity awards (4,955) (10,243) Other financing activities (89) (222) Net cash (used in) provided by financing activities (76,961) 260,268 Effect of exchange rates on cash and cash equivalents 4,219 (3,455) Net Change in Cash and Cash Equivalents 56,604 142,046 Cash and Cash Equivalents at Beginning of the Period 306,763 178,800 Cash and Cash Equivalents at End of Period $ 363,367 $ 320,846 Free Cash Flow Reconciliation: Cash provided by operating activities $ 222,280 $ 65,168 Capital expenditures (15,119) (23,635) Additions to HAEMONETICS CORP equipment (42,593) (12,649) Proceeds from sale of property, plant and equipment 849 20,802 Free cash flow $ 165,417 $ 49,686",
+      "token_count": 603
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Reconciliation of Adjusted Measures for Third Quarter of FY26 and FY25 (Unaudited) Gross profit Operating expenses Operating income (loss) Interest and other expense Provision (benefit) for income taxes Net income (loss) Earnings per diluted share Three Months Ended December 27, 2025: (Dollars in Thousands, Except Per Share Data) Reported $ 202,386 $ 134,990 $ 67,396 $ (7,421) $ 15,235 $ 44,740 $ 0.95 Amortization of acquired intangible assets \u2014 (10,933) 10,933 \u2014 2,597 8,336 0.20 Amortization of fair value inventory step-up 1,323 \u2014 1,323 \u2014 290 1,033 0.02 Integration and transaction costs 266 (1,389) 1,655 \u2014 577 1,078 0.02 Restructuring costs (47) (1,495) 1,448 \u2014 414 1,034 0.02 Restructuring related costs 36 \u2014 36 \u2014 5 31 \u2014 Digital transformation costs \u2014 (6,113) 6,113 \u2014 1,388 4,725 0.10 Write downs of certain assets \u2014 (834) 834 \u2014 203 631 0.01 Litigation-related charges \u2014 1,278 (1,278) \u2014 (316) (962) (0.02) Impairment of intangible assets \u2014 (716) 716 \u2014 122 594 0.01 Discrete tax items \u2014 \u2014 \u2014 \u2014 (197) 197 \u2014 Adjusted $ 203,964 $ 114,788 $ 89,176 $ (7,421) $ 20,318 $ 61,437 $ 1.31 Adjusted, as a percentage of net revenues 60.2 % 33.9 % 26.3 % 18.1 % Gross profit Operating expenses Operating income (loss) Interest and other income (expense) Provision (benefit) for income taxes Net income (loss) Earnings per diluted share Three Months Ended December 28, 2024: (Dollars in Thousands, Except Per Share Data) Reported $ 193,547 $ 134,518 $ 59,029 $ (9,112) $ 12,423 $ 37,494 $ 0.74 Amortization of acquired intangible assets \u2014 (12,230) 12,230 \u2014 3,035 9,195 0.18 Amortization of fair value inventory step-up 3,341 \u2014 3,341 \u2014 811 2,530 0.05 Integration and transaction costs 410 166 244 75 194 125 \u2014 Restructuring costs 3,027 (488) 3,515 \u2014 975 2,540 0.05 Restructuring related costs 634 (834) 1,468 \u2014 334 1,134 0.02 Digital transformation costs \u2014 (4,620) 4,620 \u2014 1,103 3,517 0.07 Write downs of certain assets \u2014 (4,000) 4,000 \u2014 971 3,029 0.06 MDR and IVDR costs \u2014 (1,008) 1,008 \u2014 239 769 0.02 Litigation-related charges \u2014 18 (18) \u2014 (4) (14) \u2014 Discrete tax items \u2014 \u2014 \u2014 \u2014 28 (28) \u2014 Adjusted $ 200,959 $ 111,522 $ 89,437 $ (9,037) $ 20,109 $ 60,291 $ 1.19 Adjusted, as a percentage of net revenues 57.7 % 32.0 % 25.7 % 17.3 %",
+      "token_count": 557
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Reconciliation of Adjusted Measures for Year-to-Date FY26 and FY25 (Unaudited) Gross profit Operating expenses Operating income (loss) Interest and other income (expense) Provision (benefit) for income taxes Net income (loss) Earnings per diluted share Nine Months Ended December 27, 2025 (Dollars in Thousands, Except Per Share Data) Reported $ 589,374 $ 409,615 $ 179,759 $ (23,330) $ 38,974 $ 117,455 $ 2.46 Amortization of acquired intangible assets \u2014 (33,507) 33,507 \u2014 8,330 25,177 0.55 Amortization of fair value inventory step-up 5,814 \u2014 5,814 \u2014 1,413 4,401 0.09 Integration and transaction costs 2,632 (3,045) 5,677 2,022 2,084 5,615 0.12 Restructuring costs (573) (3,491) 2,918 \u2014 779 2,139 0.04 Restructuring related costs 61 (87) 148 \u2014 26 122 \u2014 Digital transformation costs \u2014 (16,522) 16,522 \u2014 3,958 12,564 0.26 Write downs of certain assets \u2014 (834) 834 \u2014 203 631 0.01 Litigation-related charges \u2014 474 (474) \u2014 (115) (359) (0.01) Impairment of intangible assets \u2014 (9,300) 9,300 \u2014 2,269 7,031 0.15 Discrete tax items \u2014 \u2014 \u2014 \u2014 (196) 196 \u2014 Adjusted $ 597,308 $ 343,303 $ 254,005 $ (21,308) $ 57,725 $ 174,972 $ 3.67 Adjusted, as a percentage of net revenues 60.5 % 34.8 % 25.7 % 17.7 % Gross profit Operating expenses Operating income (loss) Interest and other income (expense) Provision (benefit) for income taxes Net income (loss) Earnings per diluted share Nine Months Ended December 28, 2024 (Dollars in Thousands, Except Per Share Data) Reported $ 555,908 $ 405,426 $ 150,482 $ (9,148) $ 31,636 $ 109,698 $ 2.14 Amortization of acquired intangible assets \u2014 (36,965) 36,965 \u2014 9,181 27,784 0.54 Amortization of fair value inventory step-up 12,319 \u2014 12,319 \u2014 3,005 9,314 0.18 Integration and transaction costs 797 (12,652) 13,449 75 1,137 12,387 0.24 Restructuring costs 11,158 (1,771) 12,929 \u2014 3,156 9,773 0.19 Restructuring related costs 2,514 (3,043) 5,557 \u2014 1,304 4,253 0.08 Digital transformation costs \u2014 (15,823) 15,823 \u2014 3,773 12,050 0.24 Write downs of certain assets \u2014 (4,000) 4,000 \u2014 971 3,029 0.06 MDR and IVDR costs \u2014 (3,125) 3,125 \u2014 740 2,385 0.05 Litigation-related charges \u2014 (1,057) 1,057 \u2014 257 800 0.02 Gain on repurchase of convertible notes, net \u2014 \u2014 \u2014 (12,600) (3,059) (9,541) (0.19) Gains on sales of property, plant and equipment \u2014 14,134 (14,134) \u2014 (3,432) (10,702) (0.21) Impairment of intangible assets \u2014 (2,391) 2,391 \u2014 581 1,810 0.04 Discrete tax items \u2014 \u2014 \u2014 \u2014 3,103 (3,103) (0.06) Adjusted $ 582,696 $ 338,733 $ 243,963 $ (21,673) $ 52,353 $ 169,937 $ 3.32 Adjusted, as a percentage of net revenues 56.6 % 32.9 % 23.7 % 16.5 %",
+      "token_count": 640
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2026Q3",
+      "value": 338967000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2026Q3",
+      "value": 202386000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q3",
+      "value": 67396000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "OperatingExpenses",
+      "period": "2026Q3",
+      "value": 134990000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "NetIncomeLoss",
+      "period": "2026Q3",
+      "value": 44740000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q3",
+      "value": 0.95,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q3",
+      "value": 0.96,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X008",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2026Q3",
+      "value": 363367000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X009",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q3",
+      "value": 222280000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": -0.001665,
+    "ret_20d": -0.203214,
+    "market_ret_20d": -0.008124
+  },
+  "outcome_blind": true
+}

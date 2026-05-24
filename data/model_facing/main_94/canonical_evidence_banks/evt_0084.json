@@ -1,0 +1,1183 @@
+{
+  "event_id": "evt_0084",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "NEW YORK TIMES CO",
+  "ticker": "NYT",
+  "company_alias": "NEW YORK TIMES CO",
+  "masked_company": "Company BM",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q3",
+  "event_date": "2026-02-04",
+  "accepted_at_et": "2026-02-04T07:01:38-05:00",
+  "source_packet_path": "source_packets/evt_0084.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "NEW YORK, 2026-02-04T07:01:38-05:00 \u2013 The NEW YORK TIMES CO Company (NYSE:NYT) announced today fourth -quarter and full-year 2025 results.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "NEW YORK, 2026-02-04T07:01:38-05:00 \u2013 The NEW YORK TIMES CO Company (NYSE:NYT) announced today fourth -quarter and full-year 2025 results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "\u2022 The Company added approximately 450,000 net digital-only subscribers compared with the end of the third quarter of 2025, bringing the total number of subscribers to 12.78 million.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 The Company added approximately 450,000 net digital-only subscribers compared with the end of the third quarter of 2025, bringing the total number of subscribers to 12.78 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u2022 Total digital-only average revenue per user (\u201cARPU\u201d) increased 0.7 percent year-over-year to $9.72 largely driven by subscribers transitioning from promotional to higher prices and price increases on certain tenured subscribers.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Total digital-only average revenue per user (\u201cARPU\u201d) increased 0.7 percent year-over-year to $9.72 largely driven by subscribers transitioning from promotional to higher prices and price increases on certain tenured subscribers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u2022 Growth in both digital subscribers and ARPU drove a year-over-year increase in digital subscription revenues of 13.9 percent.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Growth in both digital subscribers and ARPU drove a year-over-year increase in digital subscription revenues of 13.9 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 Digital advertising revenues increased 24.9 percent year-over-year primarily due to strong marketer demand and new advertising supply.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Digital advertising revenues increased 24.9 percent year-over-year primarily due to strong marketer demand and new advertising supply.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u2022 Affiliate, licensing and other revenues increased 5.5 percent year-over-year as a result of higher licensing revenues.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Affiliate, licensing and other revenues increased 5.5 percent year-over-year as a result of higher licensing revenues.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u2022 Operating costs increased 10.5 percent year-over-year and adjusted operating costs (defined below) increased 9.7 percent year-over-year, largely as a result of higher cost of revenue, general and administrative costs, sales and marketing and product development costs.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Operating costs increased 10.5 percent year-over-year and adjusted operating costs (defined below) increased 9.7 percent year-over-year, largely as a result of higher cost of revenue, general and administrative costs, sales and marketing and product development costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Operating profit increased 10.2 percent year-over-year to $161.6 million, while adjusted operating profit (defined below) increased 12.8 percent year-over-year to $192.3 million.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Operating profit increased 10.2 percent year-over-year to $161.6 million, while adjusted operating profit (defined below) increased 12.8 percent year-over-year to $192.3 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Operating profit margin for the quarter was 20.1 percent, a year-over-year decrease of approximately 10 basis points and adjusted operating profit margin (defined below) was 24.0 percent, a year-over-year increase of approximately 50 basis points.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Operating profit margin for the quarter was 20.1 percent, a year-over-year decrease of approximately 10 basis points and adjusted operating profit margin (defined below) was 24.0 percent, a year-over-year increase of approximately 50 basis points.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted earnings per share for the quarter was $.79, a $.04 increase year-over-year and adjusted diluted earnings per share (defined below) was $.89, a $.09 increase year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Diluted earnings per share for the quarter was $.79, a $.04 increase year-over-year and adjusted diluted earnings per share (defined below) was $.89, a $.09 increase year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Net cash provided by operating activities for full-year 2025 was $584.5 million compared with $410.5 million in 2024, and free cash flow (defined below) for full-year 2025 was $550.5 million compared with $381.3 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities for full-year 2025 was $584.5 million compared with $410.5 million in 2024, and free cash flow (defined below) for full-year 2025 was $550.5 million compared with $381.3 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "\u2022 The Company\u2019s Board of Directors declared a $0.23 dividend per share, an increase of $.05 from the previous quarter.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 The Company\u2019s Board of Directors declared a $0.23 dividend per share, an increase of $.05 from the previous quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Meredith Kopit Levien, president and chief executive officer, The NEW YORK TIMES CO Company, said, \u201cThe fourth quarter capped another strong year for The Times, and our results demonstrated that our strategy continues to work as designed.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Meredith Kopit Levien, president and chief executive officer, The NEW YORK TIMES CO Company, said, \u201cThe fourth quarter capped another strong year for The Times, and our results demonstrated that our strategy continues to work as designed. Our world-class news coverage and prem...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "(In millions, except percentages, subscriber metrics (in thousands), ARPU and per share data)",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "(In millions, except percentages, subscriber metrics (in thousands), ARPU and per share data)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Q4 2025 Q3 2025 Q2 2025 Q1 2025 Q4 2024 Total subscribers (1) 12,780 12,330 11,880 11,660 11,430 Digital-only subscribers (1) 12,210 11,760 11,300 11,060 10,820 Digital-only subscribers quarterly net additions (1) 450 460 230 250 350 Total digital-only ARPU $ 9.72 $ 9.79 $ 9.64 $ 9.54 $ 9.65 % change year-over-year 0.7 % 3.6 % 3.2 % 3.6 % 4.4 % Digital-only subscription revenues $ 381.5 $ 367.4 $ 350.4 $ 335.0 $ 334.9 % change year-over-year 13.9 % 14.0 % 15.1 % 14.4 % 16.0 % Digital advertising revenues $ 147.2 $ 98.1 $ 94.4 $ 70.9 $ 117.9 % change year-over-year 24.9 % 20.3 % 18.7 % 12.4 % 9.5 % Total revenues $ 802.3 $ 700.8 $ 685.9 $ 635.9 $ 726.6 % change year-over-year 10.4 % 9.5 % 9.7 % 7.1 % 7.5 % Total operating costs $ 640.7 $ 596.0 $ 579.3 $ 577.3 $ 580.0 % change year-over-year 10.5 % 5.8 % 6.2 % 5.8 % 6.0 % Adjusted operating costs (2) $ 610.0 $ 569.4 $ 552.1 $ 543.2 $ 556.2 % change year-over-year 9.7 % 6.2 % 6.1 % 4.9 % 6.5 % Operating profit $ 161.6 $ 104.8 $ 106.6 $ 58.6 $ 146.6 Operating profit margin % 20.1 % 15.0 % 15.5 % 9.2 % 20.2 % Adjusted operating profit (\u201cAOP\u201d) (2) $ 192.3 $ 131.4 $ 133.8 $ 92.7 $ 170.5 AOP margin % (2) 24.0 % 18.7 % 19.5 % 14.6 % 23.5 % Diluted earnings per share (\u201cEPS\u201d) $ 0.79 $ 0.50 $ 0.50 $ 0.30 $ 0.75 Adjusted diluted EPS (2) $ 0.89 $ 0.59 $ 0.58 $ 0.41 $ 0.80 Diluted shares 164.4 164.4 164.3 164.9 165.3",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Q4 2025 Q3 2025 Q2 2025 Q1 2025 Q4 2024 Total subscribers (1) 12,780 12,330 11,880 11,660 11,430 Digital-only subscribers (1) 12,210 11,760 11,300 11,060 10,820 Digital-only subscribers quarterly net additions (1) 450 460 230 250 350 Total digital-only ARPU $ 9.72 $ 9.79 $ 9.6...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "(1) Subscribers (including net subscriber additions) are rounded to the nearest ten thousand.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "(1) Subscribers (including net subscriber additions) are rounded to the nearest ten thousand.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "(2) Non-GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "(2) Non-GAAP financial measure. See \u201cComparisons\u201d, \u201cNon-GAAP Financial Measures\u201d and \u201cReconciliation of Non-GAAP Financial Measures\u201d for more details.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "Unless otherwise noted, all comparisons are for the fourth quarter of 2025 to the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Unless otherwise noted, all comparisons are for the fourth quarter of 2025 to the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "Following the fourth quarter of 2025, we plan to make a change to our subscriber disclosures.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Following the fourth quarter of 2025, we plan to make a change to our subscriber disclosures. We will continue to report total digital-only subscribers and total digital-only ARPU. However, we will discontinue reporting digital-only subscribers and ARPU by the categories of bu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 $3.0 million of pre-tax litigation-related costs ($2.2 million, or $0.01 per share, after tax) in connection with certain lawsuits alleging unlawful and unauthorized copying and use of the Company\u2019s journalism and other content in connection with the development of generative artificial intelligence products (\u201cGenerative AI Litigation Costs\u201d).",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 $3.0 million of pre-tax litigation-related costs ($2.2 million, or $0.01 per share, after tax) in connection with certain lawsuits alleging unlawful and unauthorized copying and use of the Company\u2019s journalism and other content in connection with the development of generativ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "\u2022 A $2.9 million impairment charge ($2.1 million, or $0.01 per share, after tax) related to excess leased office space that is being marketed for sublet (the \u201clease-related impairment\u201d).",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 A $2.9 million impairment charge ($2.1 million, or $0.01 per share, after tax) related to excess leased office space that is being marketed for sublet (the \u201clease-related impairment\u201d).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "\u2022 A $1.5 million favorable adjustment ($1.1 million, or $0.01 per share, after tax) related to reductions in our multiemployer pension plan liabilities.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 A $1.5 million favorable adjustment ($1.1 million, or $0.01 per share, after tax) related to reductions in our multiemployer pension plan liabilities.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "\u2022 $3.2 million of Generative AI Litigation Costs ($2.4 million, or $0.01 per share, after tax).",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 $3.2 million of Generative AI Litigation Costs ($2.4 million, or $0.01 per share, after tax).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "\u2022 A $3.0 million favorable adjustment ($2.2 million, or $0.01 per share, after tax) related to reductions in our multiemployer pension plan liabilities.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 A $3.0 million favorable adjustment ($2.2 million, or $0.01 per share, after tax) related to reductions in our multiemployer pension plan liabilities.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "earnings_or_eps",
+      "claim": "This release refers to certain non-GAAP financial measures, including adjusted operating profit, adjusted operating profit margin, adjusted operating costs, adjusted diluted EPS and free cash flow.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "This release refers to certain non-GAAP financial measures, including adjusted operating profit, adjusted operating profit margin, adjusted operating costs, adjusted diluted EPS and free cash flow. See \u201cNon-GAAP Financial Measures\u201d and \u201cReconciliation of Non-GAAP Financial Mea...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "The Company ended the fourth quarter of 2025 with approximately 12.78 million subscribers to its print and digital products, including approximately 12.21 million digital-only subscribers.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "The Company ended the fourth quarter of 2025 with approximately 12.78 million subscribers to its print and digital products, including approximately 12.21 million digital-only subscribers. Of the 12.21 million digital-only subscribers, approximately 6.48 million were bundle an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "Compared with the end of the third quarter of 2025, there was a net increase of approximately 450,000 digital-only subscribers.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Compared with the end of the third quarter of 2025, there was a net increase of approximately 450,000 digital-only subscribers. Compared with the end of the fourth quarter of 2024, there was a net increase of approximately 1,400,000 digital-only subscribers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "Average revenue per user or \u201cARPU,\u201d a metric we calculate to track the revenue generation of our digital subscriber base, represents the average revenue per digital subscriber over a 28-day billing cycle during the applicable quarter.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Average revenue per user or \u201cARPU,\u201d a metric we calculate to track the revenue generation of our digital subscriber base, represents the average revenue per digital subscriber over a 28-day billing cycle during the applicable quarter. For more information, please refer to the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "Total digital-only ARPU was $9.72 for the fourth quarter of 2025, an increase of 0.7 percent compared with the fourth quarter of 2024 driven primarily by subscribers transitioning from promotional to higher prices and price increases on certain tenured subscribers.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Total digital-only ARPU was $9.72 for the fourth quarter of 2025, an increase of 0.7 percent compared with the fourth quarter of 2024 driven primarily by subscribers transitioning from promotional to higher prices and price increases on certain tenured subscribers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Total subscription revenues increased 9.4 percent to $510.5 million in the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Total subscription revenues increased 9.4 percent to $510.5 million in the fourth quarter of 2025. Subscription revenues from digital-only products increased 13.9 percent to $381.5 million due to an increase in bundle and multiproduct revenues and an increase in other single-p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Total advertising revenues increased 16.1 percent to $191.7 million in the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Total advertising revenues increased 16.1 percent to $191.7 million in the fourth quarter of 2025. Digital advertising revenues increased 24.9 percent to $147.2 million, primarily due to strong marketer demand and new advertising supply. Print advertising revenues decreased 5....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Affiliate, licensing and other revenues increased 5.5 percent to $100.2 million in the fourth quarter of 2025, primarily as a result of higher licensing revenues.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Affiliate, licensing and other revenues increased 5.5 percent to $100.2 million in the fourth quarter of 2025, primarily as a result of higher licensing revenues.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "In the aggregate, subscription; advertising; and affiliate, licensing and other revenues for the fourth quarter of 2025 increased 10.4 percent to $802.3 million from $726.6 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "In the aggregate, subscription; advertising; and affiliate, licensing and other revenues for the fourth quarter of 2025 increased 10.4 percent to $802.3 million from $726.6 million in the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "Total operating costs increased 10.5 percent in the fourth quarter of 2025 to $640.7 million compared with $580.0 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Total operating costs increased 10.5 percent in the fourth quarter of 2025 to $640.7 million compared with $580.0 million in the fourth quarter of 2024. Operating costs in the fourth quarter of 2025 included, as special items, Generative AI Litigation Costs of $3.0 million, a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Cost of revenue increased 8.6 percent to $367.2 million compared with $338.0 million in the fourth quarter of 2024, primarily due to higher journalism costs, higher subscriber servicing costs and higher advertising servicing costs.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Cost of revenue increased 8.6 percent to $367.2 million compared with $338.0 million in the fourth quarter of 2024, primarily due to higher journalism costs, higher subscriber servicing costs and higher advertising servicing costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "Sales and marketing costs increased 11.5 percent to $92.4 million compared with $82.9 million in the fourth quarter of 2024, primarily due to higher compensation and benefits expenses and higher marketing and promotion costs.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Sales and marketing costs increased 11.5 percent to $92.4 million compared with $82.9 million in the fourth quarter of 2024, primarily due to higher compensation and benefits expenses and higher marketing and promotion costs. Media expenses, a component of sales and marketing...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "costs_or_expenses",
+      "claim": "Product development costs increased 8.3 percent to $66.9 million compared with $61.8 million in the fourth quarter of 2024, primarily due to higher compensation and benefits expenses, higher software licensing expenses and higher outside services expenses.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Product development costs increased 8.3 percent to $66.9 million compared with $61.8 million in the fourth quarter of 2024, primarily due to higher compensation and benefits expenses, higher software licensing expenses and higher outside services expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "costs_or_expenses",
+      "claim": "General and administrative costs increased 17.0 percent to $89.0 million compared with $76.0 million in the fourth quarter of 2024, primarily due to higher expenses from compensation and benefits and severance costs.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "General and administrative costs increased 17.0 percent to $89.0 million compared with $76.0 million in the fourth quarter of 2024, primarily due to higher expenses from compensation and benefits and severance costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "Interest income and other, net in the fourth quarter of 2025 was $10.7 million compared with $10.0 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Interest income and other, net in the fourth quarter of 2025 was $10.7 million compared with $10.0 million in the fourth quarter of 2024. The increase was primarily a result of higher cash and marketable securities balances.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "The Company had income tax expense of $37.8 million in the fourth quarter of 2025 compared with $31.9 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "The Company had income tax expense of $37.8 million in the fourth quarter of 2025 compared with $31.9 million in the fourth quarter of 2024. The effective income tax rate was 22.5 percent in the fourth quarter of 2025 and 20.5 percent in the fourth quarter of 2024. The increas...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "earnings_or_eps",
+      "claim": "Diluted EPS in the fourth quarter of 2025 was $.79 compared with $.75 in the same period of 2024.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Diluted EPS in the fourth quarter of 2025 was $.79 compared with $.75 in the same period of 2024. The increase in diluted EPS was primarily driven by higher operating profit. Adjusted diluted EPS was $.89 in the fourth quarter of 2025 compared with $.80 in the fourth quarter o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "balance_sheet_or_cash",
+      "claim": "As of December 31, 2025, the Company had cash and marketable securities of $1.2 billion, an increase of $256.0 million from $911.9 million as of December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "As of December 31, 2025, the Company had cash and marketable securities of $1.2 billion, an increase of $256.0 million from $911.9 million as of December 31, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "balance_sheet_or_cash",
+      "claim": "The Company has a $400 million unsecured revolving line of credit.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "The Company has a $400 million unsecured revolving line of credit. As of December 31, 2025, there were no outstanding borrowings under this credit facility, and the Company did not have other outstanding debt.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash provided by operating activities in 2025 was $584.5 million compared with $410.5 million in the same period of 2024.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Net cash provided by operating activities in 2025 was $584.5 million compared with $410.5 million in the same period of 2024. Free cash flow in 2025 was $550.5 million compared with $381.3 million in the same period of 2024. Net cash provided by operating activities in 2025 wa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "During the quarter ended December 31, 2025, the Company repurchased 883,602 shares of its Class A Common Stock for an aggregate purchase price of approximately $55.4 million.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "During the quarter ended December 31, 2025, the Company repurchased 883,602 shares of its Class A Common Stock for an aggregate purchase price of approximately $55.4 million. As of January 30, 2026, approximately $334.4 million remains available and authorized for repurchases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "other",
+      "claim": "In February 2026, the Company\u2019s Board of Directors declared a $0.23 dividend per share on the Company\u2019s Class A and Class B common stock, an increase of $.05 from the previous quarter.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "In February 2026, the Company\u2019s Board of Directors declared a $0.23 dividend per share on the Company\u2019s Class A and Class B common stock, an increase of $.05 from the previous quarter. The dividend is payable on April 16, 2026, to shareholders of record as of the close of busi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "costs_or_expenses",
+      "claim": "Capital expenditures totaled approximately $7 million in the fourth quarter of 2025 compared with approximately $9 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Capital expenditures totaled approximately $7 million in the fourth quarter of 2025 compared with approximately $9 million in the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "Below is the Company\u2019s guidance for revenues and adjusted operating costs for the first quarter of 2026 compared with the first quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Below is the Company\u2019s guidance for revenues and adjusted operating costs for the first quarter of 2026 compared with the first quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "The NEW YORK TIMES CO Company Digital-only subscription revenues increase 14 - 17% Total subscription revenues increase 9 - 11% Digital advertising revenues increase high-teens-to-low-twenties Total advertising revenues increase low-double-digits Affiliate, licensing and other revenues increase high-single-digits Adjusted operating costs increase 8 - 9%",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "The NEW YORK TIMES CO Company Digital-only subscription revenues increase 14 - 17% Total subscription revenues increase 9 - 11% Digital advertising revenues increase high-teens-to-low-twenties Total advertising revenues increase low-double-digits Affiliate, licensing and other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "\u2022 Depreciation and amortization: approximately $80-$85 million, which includes approximately $25-$30 million of acquired intangible assets amortization,",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "\u2022 Depreciation and amortization: approximately $80-$85 million, which includes approximately $25-$30 million of acquired intangible assets amortization,",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "\u2022 Interest income and other, net: approximately $40-$45 million, and",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "\u2022 Interest income and other, net: approximately $40-$45 million, and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "\u2022 Capital expenditures: approximately $35-$45 million.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "\u2022 Capital expenditures: approximately $35-$45 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "The NEW YORK TIMES CO Company (NYSE:NYT) is a trusted source of quality, independent journalism whose mission is to seek the truth and help people understand the world.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "The NEW YORK TIMES CO Company (NYSE:NYT) is a trusted source of quality, independent journalism whose mission is to seek the truth and help people understand the world. With more than 12 million subscribers across a diverse array of print and digital products \u2014 including news,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "This release refers to certain non-GAAP financial measures, including adjusted operating profit, defined as operating profit before depreciation, amortization, severance, multiemployer pension plan withdrawal costs and special items; adjusted operating profit margin, defined as adjusted operating profit divided by revenues; adjusted operating costs, defined as operating costs before depreciation, amortization, severance, multiemployer pension plan withdrawal costs and special items; adjusted diluted EPS, defined as diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items; and free cash flow, defined as net cash provided by operating activities less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "This release refers to certain non-GAAP financial measures, including adjusted operating profit, defined as operating profit before depreciation, amortization, severance, multiemployer pension plan withdrawal costs and special items; adjusted operating profit margin, defined a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "Exhibits: Condensed Consolidated Statements of Operations Footnotes Supplemental Subscriber and ARPU Information Reconciliation of Non-GAAP Financial Measures Contacts: Media: Danielle Rhoades Ha, 212-556-4317; danielle.rhoades-ha@nytimes.com Investors: Anthony DiClemente, 212-556-7661; anthony.diclemente@nytimes.com",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Exhibits: Condensed Consolidated Statements of Operations Footnotes Supplemental Subscriber and ARPU Information Reconciliation of Non-GAAP Financial Measures Contacts: Media: Danielle Rhoades Ha, 212-556-4317; danielle.rhoades-ha@nytimes.com Investors: Anthony DiClemente, 212...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "revenue",
+      "claim": "THE NEW YORK TIMES CO COMPANY CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Dollars and shares in thousands, except per share data) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Revenues Subscription (a) $ 510,471 $ 466,553 9.4 % $ 1,950,778 $ 1,788,207 9.1 % Advertising (b) 191,652 165,067 16.1 % 565,993 506,311 11.8 % Affiliate, licensing and other (c) 100,191 95,009 5.5 % 308,147 291,401 5.7 % Total revenues 802,314 726,629 10.4 % 2,824,918 2,585,919 9.2 % Operating costs Cost of revenue (excluding depreciation and amortization) 367,222 338,034 8.6 % 1,389,713 1,309,514 6.1 % Sales and marketing 92,383 82,857 11.5 % 307,084 278,425 10.3 % Product development 66,879 61,763 8.3 % 264,347 248,198 6.5 % General and administrative 88,959 76,036 17.0 % 328,064 307,930 6.5 % Depreciation and amortization 20,892 21,071 (0.8) % 85,007 82,936 2.5 % Generative AI Litigation Costs (d) 3,023 3,208 (5.8) % 13,321 10,800 23.3 % Impairment charges (e) 2,858 \u2014 * 2,858 \u2014 * Multiemployer pension plan liability adjustments (f) (1,486) (2,980) (50.1) % 2,967 (2,980) * Total operating costs 640,730 579,989 10.5 % 2,393,361 2,234,823 7.1 % Operating profit 161,584 146,640 10.2 % 431,557 351,096 22.9 % Other components of net periodic benefit costs (4,640) (1,034) * (18,557) (4,158) * Interest income and other, net (g) 10,681 10,036 6.4 % 38,256 36,485 4.9 % Income before income taxes 167,625 155,642 7.7 % 451,256 383,423 17.7 % Income tax expense 37,787 31,917 18.4 % 107,275 89,598 19.7 % Net income $ 129,838 $ 123,725 4.9 % $ 343,981 $ 293,825 17.1 % Average number of common shares outstanding: Basic 162,448 164,093 (1.0) % 163,157 164,425 (0.8) % Diluted 164,440 165,312 (0.5) % 164,943 165,802 (0.5) % Basic earnings per share attributable to common stockholders $ 0.80 $ 0.75 6.7 % $ 2.11 $ 1.79 17.9 % Diluted earnings per share attributable to common stockholders $ 0.79 $ 0.75 5.3 % $ 2.09 $ 1.77 18.1 % Dividends declared per share $ 0.18 $ 0.13 38.5 % $ 0.72 $ 0.52 38.5 %",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "THE NEW YORK TIMES CO COMPANY CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Dollars and shares in thousands, except per share data) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Revenues Subscription (a) $ 510,471 $ 466,553 9.4 % $ 1,950,778 $ 1,788,207...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "* Represents a change equal to or in excess of 100% or not meaningful.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "* Represents a change equal to or in excess of 100% or not meaningful.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "See footnotes pages for additional information.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "See footnotes pages for additional information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "THE NEW YORK TIMES CO COMPANY FOOTNOTES (Dollars in thousands) (a) The following table summarizes digital and print subscription revenues for the fourth quarters and twelve months of 2025 and 2024: Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Digital-only subscription revenues (1) $ 381,514 $ 334,915 13.9 % $ 1,434,336 $ 1,254,592 14.3 % Print subscription revenues (2) 128,957 131,638 (2.0) % 516,442 533,615 (3.2) % Total subscription revenues $ 510,471 $ 466,553 9.4 % $ 1,950,778 $ 1,788,207 9.1 %",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "THE NEW YORK TIMES CO COMPANY FOOTNOTES (Dollars in thousands) (a) The following table summarizes digital and print subscription revenues for the fourth quarters and twelve months of 2025 and 2024: Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Digital-only...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "(1) Includes revenue from bundled subscriptions and standalone subscriptions to our news product, as well as to The Athletic and to our Audio, Cooking, Games and Wirecutter products.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(1) Includes revenue from bundled subscriptions and standalone subscriptions to our news product, as well as to The Athletic and to our Audio, Cooking, Games and Wirecutter products.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "(2) Includes domestic home-delivery subscriptions, which include access to our digital products.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "(2) Includes domestic home-delivery subscriptions, which include access to our digital products. Also includes single-copy, NEW YORK TIMES CO International and Other subscription revenues.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "(b) The following table summarizes digital and print advertising revenues for the fourth quarters and twelve months of 2025 and 2024: Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Digital advertising revenues $ 147,236 $ 117,926 24.9 % $ 410,634 $ 342,092 20.0 % Print advertising revenues 44,416 47,141 (5.8) % 155,359 164,219 (5.4) % Total advertising revenues $ 191,652 $ 165,067 16.1 % $ 565,993 $ 506,311 11.8 %",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(b) The following table summarizes digital and print advertising revenues for the fourth quarters and twelve months of 2025 and 2024: Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Digital advertising revenues $ 147,236 $ 117,926 24.9 % $ 410,634 $ 342,092...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "revenue",
+      "claim": "(c) Affiliate, licensing and other revenues include revenues from licensing, Wirecutter affiliate referrals, commercial printing, the leasing of floors in the Company headquarters, our live events business and retail commerce.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(c) Affiliate, licensing and other revenues include revenues from licensing, Wirecutter affiliate referrals, commercial printing, the leasing of floors in the Company headquarters, our live events business and retail commerce. Digital affiliate, licensing and other revenues, w...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "(d) In the fourth quarter and twelve months of 2025, the Company recorded $3.0 million ($2.2 million, or $0.01 per share, after tax) and $13.3 million ($9.8 million, or $0.06 per share, after tax), respectively, of pre-tax litigation-related costs in connection with certain lawsuits alleging unlawful and unauthorized copying and use of the Company\u2019s journalism and other content in connection with the development of generative artificial intelligence products.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(d) In the fourth quarter and twelve months of 2025, the Company recorded $3.0 million ($2.2 million, or $0.01 per share, after tax) and $13.3 million ($9.8 million, or $0.06 per share, after tax), respectively, of pre-tax litigation-related costs in connection with certain la...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "revenue",
+      "claim": "(e) In the fourth quarter of 2025, the Company recorded a $2.9 million impairment charge ($2.1 million, or $0.01 per share, after tax) related to excess leased office space that is being marketed for sublet.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "(e) In the fourth quarter of 2025, the Company recorded a $2.9 million impairment charge ($2.1 million, or $0.01 per share, after tax) related to excess leased office space that is being marketed for sublet.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "revenue",
+      "claim": "(f) In the fourth quarters of 2025 and 2024, the Company recorded favorable adjustments related to a reduction in its multiemployer pension plan liabilities of $1.5 million ($1.1 million, or $0.01 per share, after tax) and $3.0 million ($2.2 million, or $0.01 per share, after tax), respectively.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "(f) In the fourth quarters of 2025 and 2024, the Company recorded favorable adjustments related to a reduction in its multiemployer pension plan liabilities of $1.5 million ($1.1 million, or $0.01 per share, after tax) and $3.0 million ($2.2 million, or $0.01 per share, after...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "revenue",
+      "claim": "(g) In the third quarter of 2025, the Company recorded a $3.5 million charge ($2.6 million, or $0.02 per share, after tax) related to an impairment of a non-marketable equity investment.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(g) In the third quarter of 2025, the Company recorded a $3.5 million charge ($2.6 million, or $0.02 per share, after tax) related to an impairment of a non-marketable equity investment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "revenue",
+      "claim": "THE NEW YORK TIMES CO COMPANY SUPPLEMENTAL SUBSCRIBER AND ARPU INFORMATION (Amounts in thousands)",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "THE NEW YORK TIMES CO COMPANY SUPPLEMENTAL SUBSCRIBER AND ARPU INFORMATION (Amounts in thousands)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "revenue",
+      "claim": "We offer a digital subscription package (or \u201cbundle\u201d) that includes access to our digital news product (which includes our news website, NYTimes.com, and mobile applications), as well as to The Athletic and to our Audio, Cooking, Games and Wirecutter products.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "We offer a digital subscription package (or \u201cbundle\u201d) that includes access to our digital news product (which includes our news website, NYTimes.com, and mobile applications), as well as to The Athletic and to our Audio, Cooking, Games and Wirecutter products. Our subscription...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "revenue",
+      "claim": "The following tables present information regarding the number of subscribers to the Company\u2019s products as well as certain additional metrics.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "The following tables present information regarding the number of subscribers to the Company\u2019s products as well as certain additional metrics. A subscriber is defined as a user who has subscribed (and for whom a valid method of payment has been provided) for the right to access...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "revenue",
+      "claim": "The following table sets forth subscribers as of the end of the five most recent fiscal quarters.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "The following table sets forth subscribers as of the end of the five most recent fiscal quarters. Q4 2025 Q3 2025 Q2 2025 Q1 2025 Q4 2024 Digital-only subscribers: Bundle and multiproduct (1)(2)(3) 6,480 6,270 6,020 5,760 5,440 News-only (2)(4) 1,470 1,560 1,690 1,790 1,930 Ot...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "other",
+      "claim": "(1) Subscribers with a bundle subscription or standalone digital-only subscriptions to two or more of the Company\u2019s products.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "(1) Subscribers with a bundle subscription or standalone digital-only subscriptions to two or more of the Company\u2019s products.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "other",
+      "claim": "(2) Includes group corporate and group education subscriptions, which collectively represented approximately 6% of total digital-only subscribers as of the end of the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(2) Includes group corporate and group education subscriptions, which collectively represented approximately 6% of total digital-only subscribers as of the end of the fourth quarter of 2025. The number of group subscribers is derived using the value of the relevant contract an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "(3) As of the second quarter of 2025, includes subscribers related to family subscriptions.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "(3) As of the second quarter of 2025, includes subscribers related to family subscriptions. Each family subscription is priced higher than a comparable individual subscription and is counted as one billed subscriber and one additional subscriber to reflect the additional entit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "(4) Subscribers with only a digital-only news product subscription.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "(4) Subscribers with only a digital-only news product subscription.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "(5) Subscribers with only one digital-only subscription to The Athletic or to our Audio, Cooking, Games or Wirecutter products.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "(5) Subscribers with only one digital-only subscription to The Athletic or to our Audio, Cooking, Games or Wirecutter products.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "other",
+      "claim": "(6) Subscribers with digital-only subscriptions to one or more of our news product, The Athletic, or our Audio, Cooking, Games and Wirecutter products.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "(6) Subscribers with digital-only subscriptions to one or more of our news product, The Athletic, or our Audio, Cooking, Games and Wirecutter products.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "(7) Subscribers with a domestic home-delivery or mail print subscription to The NEW YORK TIMES CO, which includes access to our digital products, or a print subscription to our Book Review or Large Type Weekly products.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "(7) Subscribers with a domestic home-delivery or mail print subscription to The NEW YORK TIMES CO, which includes access to our digital products, or a print subscription to our Book Review or Large Type Weekly products.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "The sum of individual metrics may not always equal total amounts indicated due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "The sum of individual metrics may not always equal total amounts indicated due to rounding. Subscribers (including net subscriber additions) are rounded to the nearest ten thousand.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "other",
+      "claim": "The following table sets forth ARPU metrics relating to the above digital-only subscriber categories for the five most recent fiscal quarters.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "The following table sets forth ARPU metrics relating to the above digital-only subscriber categories for the five most recent fiscal quarters. Q4 2025 Q3 2025 Q2 2025 Q1 2025 Q4 2024 Digital-only ARPU: Bundle and multiproduct $ 12.92 $ 12.84 $ 12.52 $ 12.38 $ 12.53 News-only $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "other",
+      "claim": "The following table sets forth ARPU metrics relating to the above digital-only subscriber categories for the five most recent fiscal quarters.",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "The following table sets forth ARPU metrics relating to the above digital-only subscriber categories for the five most recent fiscal quarters.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "revenue",
+      "claim": "Beginning in the second quarter of 2025, ARPU metrics are calculated by dividing the digital subscription revenues in the quarter by the average number of digital-only subscribers (calculated as the weighted average of each month's daily average subscribers) divided by the number of days in the quarter multiplied by 28 to reflect a 28-day billing cycle.",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "Beginning in the second quarter of 2025, ARPU metrics are calculated by dividing the digital subscription revenues in the quarter by the average number of digital-only subscribers (calculated as the weighted average of each month's daily average subscribers) divided by the num...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "revenue",
+      "claim": "In this release, the Company has referred to non-GAAP financial information with respect to adjusted diluted EPS, defined as diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items; adjusted operating profit, defined as operating profit before depreciation, amortization, severance, multiemployer pension plan withdrawal costs and special items ; adjusted operating profit margin, defined as adjusted operating profit divided by revenues; adjusted operating costs, defined as operating costs before depreciation, amortization, severance, multiemployer pension plan withdrawal costs and special items; and free cash flow, defined as net cash provided by operating activities less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "In this release, the Company has referred to non-GAAP financial information with respect to adjusted diluted EPS, defined as diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items; adjusted operating profit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted diluted EPS provides useful information in evaluating the Company\u2019s period-to-period performance because it eliminates items that the Company does not consider to be indicative of earnings from ongoing operating activities.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "Adjusted diluted EPS provides useful information in evaluating the Company\u2019s period-to-period performance because it eliminates items that the Company does not consider to be indicative of earnings from ongoing operating activities. Adjusted operating profit and adjusted opera...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "guidance",
+      "claim": "Management considers special items, which may include impairment charges, pension settlement charges, acquisition-related costs, and beginning in the first quarter of 2024, Generative AI Litigation Costs, as well as other items that arise from time to time, to be outside the ordinary course of our operations.",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "Management considers special items, which may include impairment charges, pension settlement charges, acquisition-related costs, and beginning in the first quarter of 2024, Generative AI Litigation Costs, as well as other items that arise from time to time, to be outside the o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "balance_sheet_or_cash",
+      "claim": "The Company considers free cash flow as providing useful information to management and investors about the amount of cash that is available to be used to strengthen the Company\u2019s balance sheet, for strategic opportunities, including investing in the Company\u2019s business and strategic acquisitions, and/or for the return of capital to stockholders in the form of dividends and stock repurchases.",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "The Company considers free cash flow as providing useful information to management and investors about the amount of cash that is available to be used to strengthen the Company\u2019s balance sheet, for strategic opportunities, including investing in the Company\u2019s business and stra...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "guidance",
+      "claim": "Non-operating retirement costs include (i) interest cost, expected return on plan assets, amortization of actuarial gains and loss components and amortization of prior service credits of single-employer pension expense, (ii) interest cost, amortization of actuarial gains and loss components and (iii) all multiemployer pension plan withdrawal costs.",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "Non-operating retirement costs include (i) interest cost, expected return on plan assets, amortization of actuarial gains and loss components and amortization of prior service credits of single-employer pension expense, (ii) interest cost, amortization of actuarial gains and l...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "other",
+      "claim": "Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP measures are set out in the tables below.",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP measures are set out in the tables below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "earnings_or_eps",
+      "claim": "THE NEW YORK TIMES CO COMPANY RECONCILIATION OF NON-GAAP FINANCIAL MEASURES Reconciliation of diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items (or adjusted diluted EPS) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Diluted EPS $ 0.79 $ 0.75 5.3 % $ 2.09 $ 1.77 18.1 % Add: Amortization of acquired intangible assets 0.04 0.04 \u2014 0.17 0.17 \u2014 Severance 0.03 0.01 * 0.06 0.05 20.0 % Non-operating retirement costs: Multiemployer pension plan withdrawal costs 0.01 0.01 \u2014 0.03 0.04 (25.0) % Other components of net periodic benefit costs 0.03 0.01 * 0.11 0.03 * Special items: Generative AI Litigation Costs 0.02 0.02 \u2014 0.08 0.07 14.3 % Impairment charges 0.02 \u2014 * 0.02 \u2014 * Multiemployer pension plan liability adjustments (0.01) (0.02) (50.0) % 0.02 (0.02) * Impairment of a non-marketable equity security \u2014 \u2014 \u2014 0.02 \u2014 * Income tax expense of adjustments (0.04) (0.02) * (0.13) (0.08) 62.5 % Adjusted diluted EPS (1) $ 0.89 $ 0.80 11.3 % $ 2.46 $ 2.01 22.4 %",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "THE NEW YORK TIMES CO COMPANY RECONCILIATION OF NON-GAAP FINANCIAL MEASURES Reconciliation of diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items (or adjusted diluted EPS) Fourth Quarter Twelve Months 20...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items (or adjusted diluted EPS)",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "Reconciliation of diluted EPS excluding amortization of acquired intangible assets, severance, non-operating retirement costs and special items (or adjusted diluted EPS)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "other",
+      "claim": "(1) Amounts may not add due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "(1) Amounts may not add due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "other",
+      "claim": "THE NEW YORK TIMES CO COMPANY RECONCILIATION OF NON-GAAP FINANCIAL MEASURES (Dollars in thousands)",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "THE NEW YORK TIMES CO COMPANY RECONCILIATION OF NON-GAAP FINANCIAL MEASURES (Dollars in thousands)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "revenue",
+      "claim": "Reconciliation of operating profit before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating profit) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Operating profit $ 161,584 $ 146,640 10.2 % $ 431,557 $ 351,096 22.9 % Add: Depreciation and amortization 20,892 21,071 (0.8) % 85,007 82,936 2.5 % Severance 4,247 1,282 * 9,454 7,512 25.9 % Multiemployer pension plan withdrawal costs 1,161 1,247 (6.9) % 4,972 6,038 (17.7) % Generative AI Litigation Costs 3,023 3,208 (5.8) % 13,321 10,800 23.3 % Impairment charges 2,858 \u2014 * 2,858 \u2014 * Multiemployer pension plan liability adjustments (1,486) (2,980) (50.1) % 2,967 (2,980) * Adjusted operating profit $ 192,279 $ 170,468 12.8 % $ 550,136 $ 455,402 20.8 % Divided by: Revenues $ 802,314 $ 726,629 10.4 % $ 2,824,918 $ 2,585,919 9.2 % Operating profit margin 20.1 % 20.2 % (10) bps 15.3 % 13.6 % 170 bps Adjusted operating profit margin 24.0 % 23.5 % 50 bps 19.5 % 17.6 % 190 bps",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "Reconciliation of operating profit before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating profit) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Operating profit $ 161,584 $ 146,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of operating profit before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating profit)",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "Reconciliation of operating profit before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating profit)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "other",
+      "claim": "Reconciliation of total operating costs before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating costs) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Total operating costs $ 640,730 $ 579,989 10.5 % $ 2,393,361 $ 2,234,823 7.1 % Less: Depreciation and amortization 20,892 21,071 (0.8) % 85,007 82,936 2.5 % Severance 4,247 1,282 * 9,454 7,512 25.9 % Multiemployer pension plan withdrawal costs 1,161 1,247 (6.9) % 4,972 6,038 (17.7) % Generative AI Litigation Costs 3,023 3,208 (5.8) % 13,321 10,800 23.3 % Impairment charges 2,858 \u2014 * 2,858 \u2014 * Multiemployer pension plan liability adjustments (1,486) (2,980) (50.1) % 2,967 (2,980) * Adjusted operating costs $ 610,035 $ 556,161 9.7 % $ 2,274,782 $ 2,130,517 6.8 %",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "Reconciliation of total operating costs before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating costs) Fourth Quarter Twelve Months 2025 2024 % Change 2025 2024 % Change Total operating costs $ 640,7...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "other",
+      "claim": "Reconciliation of total operating costs before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating costs)",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "Reconciliation of total operating costs before depreciation and amortization, severance, multiemployer pension plan withdrawal costs and special items (or adjusted operating costs)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "costs_or_expenses",
+      "claim": "Reconciliation of net cash provided by operating activities before capital expenditures (or free cash flow) Twelve Months 2025 2024 Net cash provided by operating activities (1) $ 584,489 $ 410,512 Less: Capital expenditures (33,984) (29,173) Free cash flow $ 550,505 $ 381,339",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "Reconciliation of net cash provided by operating activities before capital expenditures (or free cash flow) Twelve Months 2025 2024 Net cash provided by operating activities (1) $ 584,489 $ 410,512 Less: Capital expenditures (33,984) (29,173) Free cash flow $ 550,505 $ 381,339",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "balance_sheet_or_cash",
+      "claim": "(1) Net cash provided by operating activities for full-year 2025 was impacted by lower cash tax payments due to the impact of the OBBBA, and also included net proceeds of approximately $33 million in connection with the lease and subsequent sale of approximately four acres of excess land at our printing and distribution facility in College Point, N.Y., which was finalized in February 2025.",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "(1) Net cash provided by operating activities for full-year 2025 was impacted by lower cash tax payments due to the impact of the OBBBA, and also included net proceeds of approximately $33 million in connection with the lease and subsequent sale of approximately four acres of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2025Q3: 700821000",
+      "value": 700821000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2025Q3: 700821000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2025Q3: 104788000",
+      "value": 104788000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2025Q3: 104788000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2025Q3: 81647000",
+      "value": 81647000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2025Q3: 81647000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2025Q3: 0.5",
+      "value": 0.5,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2025Q3: 0.5",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2025Q3: 0.5",
+      "value": 0.5,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2025Q3: 0.5",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2025Q3: 249339000",
+      "value": 249339000,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2025Q3: 249339000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2025Q3: 420334000",
+      "value": 420334000,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2025Q3: 420334000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.008377, ret_20d=0.032604, market_ret_20d=0.002632",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.008377, ret_20d=0.032604, market_ret_20d=0.002632",
+      "support_label": "supported"
+    }
+  ]
+}

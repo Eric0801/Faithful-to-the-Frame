@@ -1,0 +1,589 @@
+{
+  "event_id": "evt_0069",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AMERICAN EAGLE OUTFITTERS INC",
+  "ticker": "AEO",
+  "company_alias": "AMERICAN EAGLE OUTFITTERS INC",
+  "masked_company": "Company CK",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-04",
+  "accepted_at_et": "2026-03-04T16:20:45-05:00",
+  "source_packet_path": "source_packets/evt_0069.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "AMERICAN EAGLE OUTFITTERS INC Inc.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "AMERICAN EAGLE OUTFITTERS INC Inc. Reports Strong Fourth Quarter Fiscal 2025 Results; Provides Fiscal 2026 Outlook",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "Total revenue increased 10% to a record $1.8 billion, driven by total comparable sales increase of 8% with positive results across brands",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Total revenue increased 10% to a record $1.8 billion, driven by total comparable sales increase of 8% with positive results across brands",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Aerie comps +23%, AMERICAN EAGLE OUTFITTERS INC Eagle comps +2%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Aerie comps +23%, AMERICAN EAGLE OUTFITTERS INC Eagle comps +2%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "Returned $341 million to shareholders in 2025 from $256 million in shares repurchases and $85 million in dividends",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Returned $341 million to shareholders in 2025 from $256 million in shares repurchases and $85 million in dividends",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "PITTSBURGH--(BUSINESS WIRE)--AMERICAN EAGLE OUTFITTERS INC.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "PITTSBURGH--(BUSINESS WIRE)--AMERICAN EAGLE OUTFITTERS INC. (NYSE:AEO) today announced financial results for the fourth quarter and fiscal year ended January 31, 2026, and provided its outlook for fiscal year 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "Jay Schottenstein, Executive Chairman of the Board and Chief Executive Officer, AMERICAN EAGLE OUTFITTERS INC Inc., commented, \u201cI am extremely pleased with the strong execution in the back half of the year, which reignited growth across our brands and channels.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Jay Schottenstein, Executive Chairman of the Board and Chief Executive Officer, AMERICAN EAGLE OUTFITTERS INC Inc., commented, \u201cI am extremely pleased with the strong execution in the back half of the year, which reignited growth across our brands and channels. Building on the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u201cWe enter 2026 from a position of strength with the goal of building on this year\u2019s successes.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cWe enter 2026 from a position of strength with the goal of building on this year\u2019s successes. The first quarter is off to a positive start and we remain focused on investing in our brands and driving additional corporate savings and efficiency across the business. I\u2019m confide...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Total net revenue of $1.8 billion increased 10% to last year.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Total net revenue of $1.8 billion increased 10% to last year. Total comparable sales increased 8%, on top of 3% comp growth last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Aerie comparable sales increased 23% on a 6% increase last year.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Aerie comparable sales increased 23% on a 6% increase last year. AMERICAN EAGLE OUTFITTERS INC Eagle comparable sales grew 2% following 1% growth last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "earnings_or_eps",
+      "claim": "Gross profit of $651 million rose 9% from $599 million last year.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Gross profit of $651 million rose 9% from $599 million last year. The gross margin of 37.0% declined 30 basis points to last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "The net tariff impact was $50 million or 280 basis points to gross margin.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "The net tariff impact was $50 million or 280 basis points to gross margin. Increased markdowns were largely offset by leverage on positive sales combined with lower costs, favorable currency and operational efficiencies.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Buying, Occupancy and Warehousing (BOW) expenses leveraged 50 basis points due to positive sales.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Buying, Occupancy and Warehousing (BOW) expenses leveraged 50 basis points due to positive sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Selling, general and administrative (SG&A) expenses increased 4% to $418 million, leveraging 120 basis points to a rate of 23.8% to revenue.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Selling, general and administrative (SG&A) expenses increased 4% to $418 million, leveraging 120 basis points to a rate of 23.8% to revenue. Overall cost efficiencies and lower incentives were offset by planned investments in advertising.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "earnings_or_eps",
+      "claim": "GAAP operating profit was $96 million, which includes $84 million of impairment and restructuring charges related to the company\u2019s exit from the Quiet Platform third party logistics business, store impairments and general corporate restructuring.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "GAAP operating profit was $96 million, which includes $84 million of impairment and restructuring charges related to the company\u2019s exit from the Quiet Platform third party logistics business, store impairments and general corporate restructuring.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted operating profit of $180 million increased 27% from $142 million last year.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Adjusted operating profit of $180 million increased 27% from $142 million last year. The adjusted operating margin of 10.2% expanded 130 basis points from 8.9% last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "Other income of $15 million reflected unrealized gains on investments previously disclosed.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Other income of $15 million reflected unrealized gains on investments previously disclosed.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "GAAP Diluted earnings per share of $0.50 compared to $0.54 last year.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "GAAP Diluted earnings per share of $0.50 compared to $0.54 last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted diluted earnings per share of $0.84 compared to $0.54 last year.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Adjusted diluted earnings per share of $0.84 compared to $0.54 last year. Average diluted shares outstanding were 176 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "Total net revenue of $5.5 billion increased 3% versus last year.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Total net revenue of $5.5 billion increased 3% versus last year. Total comparable sales increased 3%, on top of 4% comp growth last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Aerie comparable sales increased 9% on 5% growth last year.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Aerie comparable sales increased 9% on 5% growth last year. AMERICAN EAGLE OUTFITTERS INC Eagle comparable sales were flat following 3% growth last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "Gross profit of $2.0 billion decreased 3%.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Gross profit of $2.0 billion decreased 3%. Gross margin of 36.9% decreased 230 basis points largely reflecting an inventory write-down taken in the first quarter, higher markdowns and the impact of tariffs, partially offset by business improvement and cost efficiencies in the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Selling, general and administrative expense of $1.5 billion increased 4%, up 10 basis points as a rate to revenue.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Selling, general and administrative expense of $1.5 billion increased 4%, up 10 basis points as a rate to revenue. Lower incentive costs and general cost savings were offset by planned investments in advertising.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "margins",
+      "claim": "GAAP Operating income of $226 million, which includes $102 million of impairment and restructuring charges related to the company\u2019s exit from the Quiet Platform third party logistics business, store impairments and general corporate restructuring.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "GAAP Operating income of $226 million, which includes $102 million of impairment and restructuring charges related to the company\u2019s exit from the Quiet Platform third party logistics business, store impairments and general corporate restructuring. GAAP operating income was $42...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "margins",
+      "claim": "Adjusted operating income of $328 million compared to adjusted operating income of $445 million last year.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Adjusted operating income of $328 million compared to adjusted operating income of $445 million last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "earnings_or_eps",
+      "claim": "GAAP diluted earnings per share was $1.09 compared to $1.68 last year.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "GAAP diluted earnings per share was $1.09 compared to $1.68 last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted diluted earnings per share was $1.50 compared to adjusted diluted earnings per share of $1.74 last year.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Adjusted diluted earnings per share was $1.50 compared to adjusted diluted earnings per share of $1.74 last year. Average diluted shares outstanding were 176 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "costs_or_expenses",
+      "claim": "Total ending inventory increased 10% to $702 million with units up 3%.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Total ending inventory increased 10% to $702 million with units up 3%. Ending cost inventory includes the impact of tariffs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "balance_sheet_or_cash",
+      "claim": "In the fourth quarter the company repurchased one million shares for $25 million, bringing full year repurchases to 21 million shares for $256 million.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "In the fourth quarter the company repurchased one million shares for $25 million, bringing full year repurchases to 21 million shares for $256 million. The company also returned $21 million to shareholders via its quarterly cash dividend of $0.125 per share, bringing year-to-d...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "Capital expenditures totaled $59 million in the fourth quarter, bringing full year spend to $261 million.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Capital expenditures totaled $59 million in the fourth quarter, bringing full year spend to $261 million. The company expects 2026 capital expenditures to be in the range of $250 to $260 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "*All guidance is based on estimates and includes tariffs reflecting 2025 IEEPA guidelines.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "*All guidance is based on estimates and includes tariffs reflecting 2025 IEEPA guidelines.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "AMERICAN EAGLE OUTFITTERS INC.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "AMERICAN EAGLE OUTFITTERS INC. (NYSE:AEO) is a leading global specialty retailer with a portfolio of beloved apparel brands including AMERICAN EAGLE OUTFITTERS INC Eagle, Aerie, OFFL/NE by Aerie, Todd Snyder and Unsubscribed. Rooted in optimism, inclusivity and authenticity, A...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "AMERICAN EAGLE OUTFITTERS INC Inc.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "AMERICAN EAGLE OUTFITTERS INC Inc. operates stores in the United States, Canada and Mexico, with merchandise available in more than 30 countries through a global network of license partners. Additionally, the company operates a robust e-commerce business across its brands. For...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "This press release includes operating income and diluted earnings per share presented on an \u201cadjusted\u201d or \u201cnon-GAAP\u201d basis, which are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "This press release includes operating income and diluted earnings per share presented on an \u201cadjusted\u201d or \u201cnon-GAAP\u201d basis, which are non-GAAP financial measures. Non-GAAP financial",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "measures are not based on any standardized methodology prescribed by U.S.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "measures are not based on any standardized methodology prescribed by U.S. generally accepted accounting principles (GAAP) and are not necessarily comparable to similar measures presented by other companies. Non-GAAP information is provided as a supplement to, not as a substitu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "balance_sheet_or_cash",
+      "claim": "consumer discretionary spending habits, which could have a material adverse effect on our business, results of operations and liquidity.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "consumer discretionary spending habits, which could have a material adverse effect on our business, results of operations and liquidity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "The use of the \u201ccompany,\u201d \u201cAMERICAN EAGLE OUTFITTERS INC,\u201d \u201cwe,\u201d \"us,\" and \u201cour\u201d in this release refers to AMERICAN EAGLE OUTFITTERS INC.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "The use of the \u201ccompany,\u201d \u201cAMERICAN EAGLE OUTFITTERS INC,\u201d \u201cwe,\u201d \"us,\" and \u201cour\u201d in this release refers to AMERICAN EAGLE OUTFITTERS INC.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "costs_or_expenses",
+      "claim": "Property and equipment, at cost, net of accumulated depreciation",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Property and equipment, at cost, net of accumulated depreciation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "(Unaudited; Dollars and shares in thousands, except per share amounts)",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "(Unaudited; Dollars and shares in thousands, except per share amounts)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Cost of sales, including certain buying, occupancy and warehouse expenses",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Cost of sales, including certain buying, occupancy and warehouse expenses",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "earnings_or_eps",
+      "claim": "Basic net income per common share attributable to AMERICAN EAGLE OUTFITTERS INC",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Basic net income per common share attributable to AMERICAN EAGLE OUTFITTERS INC",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "earnings_or_eps",
+      "claim": "Diluted net income per common share attributable to AMERICAN EAGLE OUTFITTERS INC",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Diluted net income per common share attributable to AMERICAN EAGLE OUTFITTERS INC",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "Add: Impairment and restructuring charges (1)",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Add: Impairment and restructuring charges (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "costs_or_expenses",
+      "claim": "(1) The adjustments relate to the Company's exit from the Quiet Platforms third party logistics business, store impairments, and corporate restructuring.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(1) The adjustments relate to the Company's exit from the Quiet Platforms third party logistics business, store impairments, and corporate restructuring.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "other",
+      "claim": "(2) The tax effect of excluded items is the difference between the tax provision calculated on a GAAP basis and on a non-GAAP basis.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "(2) The tax effect of excluded items is the difference between the tax provision calculated on a GAAP basis and on a non-GAAP basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "costs_or_expenses",
+      "claim": "Add: Impairment, restructuring and other charges (1)",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Add: Impairment, restructuring and other charges (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "costs_or_expenses",
+      "claim": "(1) The adjustments relate to restructuring costs related to employee severance, as well as impairment and restructuring costs related to the sale of the Company's Hong Kong retail operations to a third party buyer.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "(1) The adjustments relate to restructuring costs related to employee severance, as well as impairment and restructuring costs related to the sale of the Company's Hong Kong retail operations to a third party buyer. Please refer to Note 14. \u201cImpairment, Restructuring and Other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "other",
+      "claim": "Total gross square footage at end of period (in '000)",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Total gross square footage at end of period (in '000)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "International license locations at end of period (3)",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "International license locations at end of period (3)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "other",
+      "claim": "(1) AE Brand includes AE stand alone locations, AE/Aerie side-by side locations, AE/OFFL/NE side-by-side locations, and AE/Aerie/OFFL/NE side-by-side locations.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "(1) AE Brand includes AE stand alone locations, AE/Aerie side-by side locations, AE/OFFL/NE side-by-side locations, and AE/Aerie/OFFL/NE side-by-side locations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "(2) Aerie (incl.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "(2) Aerie (incl. OFFL/NE) includes Aerie stand alone locations, OFFL/NE stand alone locations, and Aerie/OFFL/NE side-by-side locations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "other",
+      "claim": "(3) International license locations (retail stores and concessions) are not included in the consolidated store data or the total gross square footage calculation.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "(3) International license locations (retail stores and concessions) are not included in the consolidated store data or the total gross square footage calculation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.06614, ret_20d=-0.065362, market_ret_20d=-0.006381",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.06614, ret_20d=-0.065362, market_ret_20d=-0.006381",
+      "support_label": "supported"
+    }
+  ]
+}

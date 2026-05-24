@@ -1,0 +1,820 @@
+{
+  "event_id": "evt_0074",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "HAIN CELESTIAL GROUP INC",
+  "ticker": "HAIN",
+  "company_alias": "HAIN CELESTIAL GROUP INC",
+  "masked_company": "Company CH",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-02-09",
+  "accepted_at_et": "2026-02-09T07:06:47-05:00",
+  "source_packet_path": "source_packets/evt_0074.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash provided by operations in the quarter +20% year-over-year,",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Net cash provided by operations in the quarter +20% year-over-year,",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "HOBOKEN, N.J., 2026-02-09T07:06:47-05:00 \u2014 The HAIN CELESTIAL GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "HOBOKEN, N.J., 2026-02-09T07:06:47-05:00 \u2014 The HAIN CELESTIAL GROUP INC. (Nasdaq:HAIN), a leading global health and wellness company whose purpose is to inspire healthier living through better-for-you brands, today reported financial results for its fiscal second quarter ended...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "margins",
+      "claim": "\u201cWe demonstrated meaningful strategic and operational progress in the second quarter and are advancing our turnaround strategy with urgency.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u201cWe demonstrated meaningful strategic and operational progress in the second quarter and are advancing our turnaround strategy with urgency. We took bold steps to sharpen our portfolio and strengthen our balance sheet through the divestiture of our North American snack busines...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "Net sales were $384 million, down 7% year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Net sales were $384 million, down 7% year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "Organic net sales decreased 7% compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Organic net sales decreased 7% compared to the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "The decrease in organic net sales was comprised of a 9-point decrease in volume/mix, partially offset by a 2-point increase in pricing.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "The decrease in organic net sales was comprised of a 9-point decrease in volume/mix, partially offset by a 2-point increase in pricing.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "earnings_or_eps",
+      "claim": "Gross profit margin was 19.4%, a 330-basis point decrease from the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Gross profit margin was 19.4%, a 330-basis point decrease from the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted gross profit margin was 19.5%, a 340-basis point decrease from the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Adjusted gross profit margin was 19.5%, a 340-basis point decrease from the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "Net loss was $116 million, compared to a net loss of $104 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Net loss was $116 million, compared to a net loss of $104 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net loss included pre-tax non-cash impairment charges of $132 million ($131 million after-tax) related to goodwill and certain intangible assets.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Net loss included pre-tax non-cash impairment charges of $132 million ($131 million after-tax) related to goodwill and certain intangible assets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted net loss was $3 million, compared to adjusted net income of $8 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Adjusted net loss was $3 million, compared to adjusted net income of $8 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "margins",
+      "claim": "Adjusted EBITDA was $24 million, compared to $38 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Adjusted EBITDA was $24 million, compared to $38 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "Loss per diluted share was $1.28, compared to a loss per diluted share of $1.15 in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Loss per diluted share was $1.28, compared to a loss per diluted share of $1.15 in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "Adjusted loss per diluted share was $0.03, compared to adjusted earnings per diluted share of $0.08 in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Adjusted loss per diluted share was $0.03, compared to adjusted earnings per diluted share of $0.08 in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "*This press release includes certain non-GAAP financial measures, which are intended to supplement, not substitute for, comparable GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "*This press release includes certain non-GAAP financial measures, which are intended to supplement, not substitute for, comparable GAAP financial measures. Reconciliations of non-GAAP financial measures to GAAP financial measures and other non-GAAP financial calculations are p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash provided by operating activities was $37 million in the fiscal second quarter, compared to $31 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Net cash provided by operating activities was $37 million in the fiscal second quarter, compared to $31 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "balance_sheet_or_cash",
+      "claim": "Free cash flow was $30 million in the fiscal second quarter, compared to $25 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Free cash flow was $30 million in the fiscal second quarter, compared to $25 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "balance_sheet_or_cash",
+      "claim": "Total debt was $705 million at the end of the fiscal second quarter, in line with $705 million at the beginning of the fiscal year.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Total debt was $705 million at the end of the fiscal second quarter, in line with $705 million at the beginning of the fiscal year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net debt was $637 million at the end of the fiscal second quarter, compared to $650 million at the beginning of the fiscal year.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Net debt was $637 million at the end of the fiscal second quarter, compared to $650 million at the beginning of the fiscal year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "balance_sheet_or_cash",
+      "claim": "The company ended the fiscal second quarter with a net secured leverage ratio of 4.9x as calculated under our credit agreement.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "The company ended the fiscal second quarter with a net secured leverage ratio of 4.9x as calculated under our credit agreement.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "The company operates under two reportable segments: North America and International.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "The company operates under two reportable segments: North America and International.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "1 Reflects the impact within reported net sales growth of the following items that are excluded from organic net sales growth: net sales from divested brands (ParmCrisps\u00ae snacks brands), held for sale businesses (Personal Care), discontinued brands, and exited product categories.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "1 Reflects the impact within reported net sales growth of the following items that are excluded from organic net sales growth: net sales from divested brands (ParmCrisps\u00ae snacks brands), held for sale businesses (Personal Care), discontinued brands, and exited product categories.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "Fiscal second quarter organic net sales decreased by 10% year-over-year, primarily driven by snacks and baby formula, partially offset by growth in beverages.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Fiscal second quarter organic net sales decreased by 10% year-over-year, primarily driven by snacks and baby formula, partially offset by growth in beverages.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "earnings_or_eps",
+      "claim": "Segment gross profit and adjusted gross profit were each $41 million in the fiscal second quarter, representing decreases of 28% and 29%, respectively, from the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Segment gross profit and adjusted gross profit were each $41 million in the fiscal second quarter, representing decreases of 28% and 29%, respectively, from the prior year period. Gross margin was 20.6%, a 420-basis point decrease from the prior year period, and adjusted gross...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA in the fiscal second quarter was $11 million, compared to $25 million in the prior year period, a decrease of 57%.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Adjusted EBITDA in the fiscal second quarter was $11 million, compared to $25 million in the prior year period, a decrease of 57%. The decrease was primarily driven by lower gross margins, as discussed above, partially offset by a reduction in SG&A. Adjusted EBITDA margin was...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Fiscal second quarter organic net sales decreased by 3% year-over-year, primarily driven by lower sales in baby & kids.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Fiscal second quarter organic net sales decreased by 3% year-over-year, primarily driven by lower sales in baby & kids. This demonstrates sequential improvement from the 4% decrease year-over-year in organic net sales in the fiscal first quarter of 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "earnings_or_eps",
+      "claim": "Segment gross profit and adjusted gross profit in the fiscal second quarter were both $34 million, each representing an 8% decrease from the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Segment gross profit and adjusted gross profit in the fiscal second quarter were both $34 million, each representing an 8% decrease from the prior year period. Gross margin and adjusted gross margin were both 18.1%, each representing a 200-basis point decrease from the prior y...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "margins",
+      "claim": "Adjusted EBITDA in the fiscal second quarter was $19 million, compared to $23 million in the prior year period, a decrease of 16%.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Adjusted EBITDA in the fiscal second quarter was $19 million, compared to $23 million in the prior year period, a decrease of 16%. The decrease was primarily driven by lower gross margins, as discussed above. Adjusted EBITDA margin was 10.2% compared to 12.4% in the prior year...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "The fiscal second quarter organic net sales decline of 20% year-over-year was driven by distribution losses and velocity challenges in North America.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "The fiscal second quarter organic net sales decline of 20% year-over-year was driven by distribution losses and velocity challenges in North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "The fiscal second quarter organic net sales decline of 14% year-over-year was driven primarily by industry-wide volume softness in purees in the UK and by formula in North America, which was lapping supply recovery from last year.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "The fiscal second quarter organic net sales decline of 14% year-over-year was driven primarily by industry-wide volume softness in purees in the UK and by formula in North America, which was lapping supply recovery from last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "The fiscal second quarter organic net sales increase of 3% year-over-year was driven by growth in tea in North America.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "The fiscal second quarter organic net sales increase of 3% year-over-year was driven by growth in tea in North America. This demonstrates acceleration from the 2% year-over-year growth in organic net sales in the fiscal first quarter of 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "The fiscal second quarter organic net sales decline of 1% year-over-year was driven primarily by spreads and drizzles in the UK, partially offset by strength in yogurt in North America.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "The fiscal second quarter organic net sales decline of 1% year-over-year was driven primarily by spreads and drizzles in the UK, partially offset by strength in yogurt in North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "HAIN CELESTIAL GROUP INC is a leading health and wellness company whose purpose is to inspire healthier living for people, communities and the planet through better-for-you brands.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "HAIN CELESTIAL GROUP INC is a leading health and wellness company whose purpose is to inspire healthier living for people, communities and the planet through better-for-you brands. For more than 30 years, HAIN CELESTIAL GROUP INC has intentionally focused on delivering nutriti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "This press release and the accompanying tables include non-GAAP financial measures, including, among others, organic net sales; adjusted gross profit and its related margin; adjusted operating income and its related margin; adjusted net (loss) income and its related margin; diluted net (loss) income per common share, as adjusted; adjusted EBITDA and its related margin; free cash flow; and net debt.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "This press release and the accompanying tables include non-GAAP financial measures, including, among others, organic net sales; adjusted gross profit and its related margin; adjusted operating income and its related margin; adjusted net (loss) income and its related margin; di...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Organic net sales : net sales excluding the impact of acquisitions, divestitures, held for sale businesses, discontinued brands, exited product categories and foreign exchange.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Organic net sales : net sales excluding the impact of acquisitions, divestitures, held for sale businesses, discontinued brands, exited product categories and foreign exchange. To adjust organic net sales for the impact of acquisitions, the net sales of an acquired business ar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted gross profit and its related margin : gross profit, before plant closure related costs, net.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Adjusted gross profit and its related margin : gross profit, before plant closure related costs, net.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "margins",
+      "claim": "Adjusted operating income and its related margin : operating loss before goodwill impairment, intangibles and long-lived asset impairment, productivity and transformation costs, costs associated with acquisitions, divestitures and other transactions, plant closure related costs, net, certain litigation expenses, net, and proceeds from insurance claim.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Adjusted operating income and its related margin : operating loss before goodwill impairment, intangibles and long-lived asset impairment, productivity and transformation costs, costs associated with acquisitions, divestitures and other transactions, plant closure related cost...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "Adjusted net (loss) income and its related margin and diluted net (loss) income per common share, as adjusted: net loss, adjusted to exclude the impact of goodwill impairment, intangibles and long-lived asset impairment, productivity and transformation costs, costs associated with acquisitions, divestitures and other transactions, plant closure related costs, net, certain litigation expenses, net, proceeds from insurance claim, (gains) losses on sales of assets, unrealized currency losses (gains) and the related tax effects of such adjustments.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Adjusted net (loss) income and its related margin and diluted net (loss) income per common share, as adjusted: net loss, adjusted to exclude the impact of goodwill impairment, intangibles and long-lived asset impairment, productivity and transformation costs, costs associated...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA and its related margin : net loss before depreciation and amortization, equity in net loss of equity-method investees, net interest expense, income taxes, stock-based compensation, net, unrealized currency losses (gains), proceeds from insurance claim, certain litigation expenses, net, productivity and transformation costs, plant closure related costs, net, costs associated with acquisitions, divestitures and other transactions, (gains) losses on sales of assets, goodwill impairment and intangibles and long-lived asset impairment.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Adjusted EBITDA and its related margin : net loss before depreciation and amortization, equity in net loss of equity-method investees, net interest expense, income taxes, stock-based compensation, net, unrealized currency losses (gains), proceeds from insurance claim, certain...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "balance_sheet_or_cash",
+      "claim": "Free cash flow : net cash provided by operating activities less purchases of property, plant and equipment.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Free cash flow : net cash provided by operating activities less purchases of property, plant and equipment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net debt : total debt less cash and cash equivalents.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Net debt : total debt less cash and cash equivalents.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "We believe that the non-GAAP financial measures presented provide useful additional information to investors about current trends in the company\u2019s operations and are useful for period-over-period comparisons of operations.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "We believe that the non-GAAP financial measures presented provide useful additional information to investors about current trends in the company\u2019s operations and are useful for period-over-period comparisons of operations. We provide:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "Organic net sales to demonstrate the growth rate of net sales excluding the impact of acquisitions, divestitures, held for sale businesses, discontinued brands, and exited product categories and foreign exchange, and believe organic net sales is useful to investors because it enables them to better understand the growth of our business from period to period.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Organic net sales to demonstrate the growth rate of net sales excluding the impact of acquisitions, divestitures, held for sale businesses, discontinued brands, and exited product categories and foreign exchange, and believe organic net sales is useful to investors because it...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "other",
+      "claim": "Adjusted results as important supplemental measures of our performance and believe they are frequently used by securities analysts, investors and other interested parties in the evaluation of our Company and companies in our industry.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Adjusted results as important supplemental measures of our performance and believe they are frequently used by securities analysts, investors and other interested parties in the evaluation of our Company and companies in our industry.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "balance_sheet_or_cash",
+      "claim": "Free cash flow as one factor in evaluating the amount of cash available for discretionary investments.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Free cash flow as one factor in evaluating the amount of cash available for discretionary investments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net debt as a useful measure to monitor leverage and evaluate the balance sheet.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Net debt as a useful measure to monitor leverage and evaluate the balance sheet.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "balance_sheet_or_cash",
+      "claim": "We discuss the Company\u2019s net secured leverage ratio as calculated under our credit agreement as a measure of our financial condition, liquidity and compliance with our credit agreement.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "We discuss the Company\u2019s net secured leverage ratio as calculated under our credit agreement as a measure of our financial condition, liquidity and compliance with our credit agreement. For a description of the material terms of our credit agreement and risks of non-compliance...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "Alexis Tessier Investor.Relations@HAIN CELESTIAL GROUP INC.com",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Alexis Tessier Investor.Relations@HAIN CELESTIAL GROUP INC.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "other",
+      "claim": "Loss before income taxes and equity in net loss of equity-method investees",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Loss before income taxes and equity in net loss of equity-method investees",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "revenue",
+      "claim": "Net Sales, Gross Profit and Adjusted EBITDA by Segment",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Net Sales, Gross Profit and Adjusted EBITDA by Segment",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "% change - FY26 net sales vs.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "% change - FY26 net sales vs. FY25 net sales",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "earnings_or_eps",
+      "claim": "% change - FY26 gross profit vs.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "% change - FY26 gross profit vs. FY25 gross profit",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "earnings_or_eps",
+      "claim": "% change - FY26 adjusted gross profit vs.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "% change - FY26 adjusted gross profit vs. FY25 adjusted gross profit",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "margins",
+      "claim": "% change - FY26 Adjusted EBITDA vs.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "% change - FY26 Adjusted EBITDA vs. FY25 Adjusted EBITDA",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "earnings_or_eps",
+      "claim": "(1) See accompanying tables \"Adjusted Gross Profit, Adjusted Operating Income, Adjusted Net (Loss) Income and Adjusted Net (Loss) Income per Diluted Share\"",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "(1) See accompanying tables \"Adjusted Gross Profit, Adjusted Operating Income, Adjusted Net (Loss) Income and Adjusted Net (Loss) Income per Diluted Share\"",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "costs_or_expenses",
+      "claim": "(a) Operating expenses include amortization of acquired intangibles, selling, general and administrative expenses, goodwill impairment, intangibles and long-lived asset impairment and productivity and transformation costs.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "(a) Operating expenses include amortization of acquired intangibles, selling, general and administrative expenses, goodwill impairment, intangibles and long-lived asset impairment and productivity and transformation costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "costs_or_expenses",
+      "claim": "(b) Expenses and items relating to securities class action, baby food litigation and SEC investigation.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "(b) Expenses and items relating to securities class action, baby food litigation and SEC investigation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "costs_or_expenses",
+      "claim": "(c) Represents a receivable under the Company's representation and warranty insurance related to one of its prior acquisitions, which was collected on January 2, 2026.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "(c) Represents a receivable under the Company's representation and warranty insurance related to one of its prior acquisitions, which was collected on January 2, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "Diluted net (loss) income per common share, as adjusted",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Diluted net (loss) income per common share, as adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "costs_or_expenses",
+      "claim": "(d) Interest and other expense, net includes interest and other financing expenses, net, (gain) loss on sale of assets, unrealized currency losses (gains) and other expense, net.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(d) Interest and other expense, net includes interest and other financing expenses, net, (gain) loss on sale of assets, unrealized currency losses (gains) and other expense, net.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "Less: Impact of held for sale businesses, discontinued brands and exited product categories",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Less: Impact of held for sale businesses, discontinued brands and exited product categories",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "Less: Impact of foreign currency exchange",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Less: Impact of foreign currency exchange",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "Less: Impact of divestitures, held for sale businesses, discontinued brands and exited product categories",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Less: Impact of divestitures, held for sale businesses, discontinued brands and exited product categories",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "other",
+      "claim": "(a) Represents a receivable under the Company's representation and warranty insurance related to one of its prior acquisitions, which was collected on January 2, 2026.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(a) Represents a receivable under the Company's representation and warranty insurance related to one of its prior acquisitions, which was collected on January 2, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q2: 384120000",
+      "value": 384120000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q2: 384120000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for 2026Q2: 74439000",
+      "value": 74439000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for 2026Q2: 74439000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q2: -98822000",
+      "value": -98822000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q2: -98822000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q2: -116006000",
+      "value": -116006000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q2: -116006000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q2: -1.28",
+      "value": -1.28,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q2: -1.28",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q2: -1.28",
+      "value": -1.28,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q2: -1.28",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q2: 68017000",
+      "value": 68017000,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q2: 68017000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q2: 28488000",
+      "value": 28488000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q2: 28488000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.016529, ret_20d=0.016529, market_ret_20d=0.00161",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.016529, ret_20d=0.016529, market_ret_20d=0.00161",
+      "support_label": "supported"
+    }
+  ]
+}

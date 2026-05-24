@@ -1,0 +1,267 @@
+{
+  "event_id": "evt_0073",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "INTERPARFUMS INC",
+  "ticker": "IPAR",
+  "company_alias": "INTERPARFUMS INC",
+  "masked_company": "Company BV",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-24",
+  "filing_metadata": {
+    "cik": "822663",
+    "accession_number": "0001753926-26-000347",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-24T17:22:47-05:00",
+    "event_date": "2026-02-24",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "7.01",
+      "8.01",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "FY2025 Net Sales $1.49 Billion and Diluted EPS of $5.24 Per Share ;",
+      "token_count": 17
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Reaffirms FY 2026 Guidance and Maintains Annual Cash Dividend of $3.20 for 2026",
+      "token_count": 20
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "New York, New York, February 24 , 2026, INTERPARFUMS INC . (NASDAQ GS: INTERPARFUMS INC) (\u201cINTERPARFUMS INC\u201d or the \u201cCompany\u201d) today reported record results for the fourth quarter and full year ended December 31, 2025.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "($ in millions , except per share amounts )",
+      "token_count": 11
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The average dollar/euro exchange rate for the 2025 fourth quarter was 1.16 compared to 1.07 in the 2024 fourth quarter leading to a positive 3% foreign exchange impact. For the 2025 full year, the average dollar/euro exchange rate was 1.13 compared to 1.08 in 2024, leading to a positive 2% foreign exchange impact.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "Chairman & Chief Executive Officer of INTERPARFUMS INC noted, \u201cIn 2025, we continued to deliver strong financial results, maintained market share, and achieved significant operational milestones, all while effectively navigating macroeconomic headwinds and the introduction of tariffs in the United States.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cOur sales rose 7% and 2% for the fourth quarter and the full year, respectively, reflecting a resilient set of growth engines anchored by our extensive portfolio of prestige and luxury fragrance brands and favorable foreign exchange dynamics. We expanded our brand portfolio with successful launches of several blockbuster fragrances and new line extensions , and introduced Solf\u00e9rino, our newly created luxury fragrance brand.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cOur current top seven brands, representing approximately 77% of our net sales, increased 8% and 5% during the fourth quarter and full year, respectively. The majority of our regions grew in 2025, highlighted by growth in our key markets of North America, Western Europe, and Central and South America which achieved gains of 3%, 5%, and 11% respectively, compared to full year 2024. Sales in Eastern Europe grew by 2%, reflecting more normalized sales levels despite the conflict in that region. The Middle East and Africa were down 4%, but increased by 4% when excluding the impact of the Dunhill phase out. Asia Pacific sales declined 4% driven by distribution challenges in South Korea and India, partially offset by growth in Australia, China and Japan. Our Travel Retail business generated disproportionate growth compared to consolidated net sales as we continue to strengthen our presence in this emerging sales channel.\u201d",
+      "token_count": 233
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Mr. Madar continued, \u201cJimmy Choo and Coach, the two largest brands in our portfolio, delivered strong annual performances, growing sales by 6% and 15% respectively, driven by the sustained success of the I Want Choo franchise and broad momentum across all Coach men\u2019s and women\u2019s lines. Montblanc and GUESS ended the year on high notes driven by increased demand for Montblanc Explorer Extreme , and the Seductive and Iconic fragrance lines for GUESS. This momentum delivered robust holiday results and fourth quarter growth of 22% and 7%, respectively, resulting in full-year sales that were broadly in line for both brands.",
+      "token_count": 157
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cLacoste and Cavalli continued to perform exceptionally in their second full year under our management, fueled by innovative new launches and healthy global demand. Lacoste full year sales of $108 million exceeded our initial expectations of $100 million, growing 23% and 28% in the 2025 fourth quarter and full year, respectively. Roberto Cavalli posted 33% growth for both the 2025 fourth quarter and full year, underscoring the brand\u2019s elevated positioning. We expect these brands to continue their upward trajectory in the coming years as we build on their momentum with new launches and broaden their global reach.\u201d",
+      "token_count": 155
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "Mr. Madar concluded, \u201cWhile macroeconomic headwinds persist in certain key markets and trade destocking continues, we are encouraged by our 2025 performance as our business continues to benefit from the resiliency of the fragrance category and the broad consumer shift toward prestige and luxury fragrances. We are excited about the near-term launches of our newest brands, including Annick Goutal, Off-White, and Longchamp, the 15-year extension of our Guess license, and the prospects of our recently announced longer-term licenses with David Beckham and Nautica. Coupled with healthy sell\u2011outs even in this still pressured environment, we believe that we are well\u2011positioned to navigate short\u2011term volatility and continue delivering durable, long\u2011term results.",
+      "token_count": 191
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cThe strength of our brand portfolio, the investments we are making to elevate our products and enhance our processes, and the commitment to innovation that has defined our growth for the last 30 years support our cautious optimism for 2026 as we prepare for what we expect will be a more favorable operating environment in 2027.\u201d",
+      "token_count": 83
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Chief Financial Officer of INTERPARFUMS INC, noted, \u201cIn 2025, we delivered record net sales of $1.49 billion and diluted earnings per share (\u201cEPS\u201d) of $5.24, exceeding our guidance of $1.47 billion net sales and $5.12 EPS. We continued to manage our costs, optimize our inventories, and generate efficiencies, while investing in our current brands as well as those that will be joining our portfolio in the future. We maintained a strong financial position and adhered to our commitment to return capital to our shareholders.\u201d",
+      "token_count": 130
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Consolidated gross margin for the year of 63.6% was marginally down 0.3% of sales compared to 63.9% in 2024, driven primarily by the impact of tariffs that produced higher costs of $12.8 million, or 0.9% of sales. The Company\u2019s tariff mitigation initiatives partially offset these impacts through favorable segment and brand mix, as did our previously announced pricing actions. We expect tariffs will continue to represent a significant headwind in 2026 as they annualize for the full year. We continue to actively implement cost saving programs and mitigating strategies to help limit the effects of tariffs. These programs, in combination with the full year impacts of the price increases we took in August 2025, should enable us to achieve gross margin stability in 2026.",
+      "token_count": 194
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "SG&A expenses as a percentage of net sales were 45.5% in 2025 compared to 44.7% in 2024, attributable to higher levels of advertising and promotional (\u201cA&P\u201d) expenditures throughout 2025, as well as unfavorable segment mix. A&P expenditures, which are included in SG&A expenses, rose by 5% to $295 million from $281 million in 2024, representing 19.8% of net sales compared to 19.3% last year, reflecting the Company\u2019s commitment to protect sell-out and support the continued success of its existing brands.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "As a result of these factors, operating income was $270 million, yielding an operating margin of 18.2%, compared to operating income of $275 million, or 18.9%, in 2024.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Below the operating line, net income reflected a gain of $8.7 million in other income and expenses during the fourth quarter of 2025 leading to a full year gain of $1.0 million compared to a loss of $6.4 million in 2024. Other income and expense for the year ended December 31, 2025 included a one-time gain of $7.6 million related to a debt extinguishment, $3.7 million in losses on foreign currency, a $1.2 million increase in interest income to $5.8 million, and a reduction in interest expense on borrowings of $0.7 million.",
+      "token_count": 132
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Consolidated effective tax rates were 22.0% and 23.3% for the fourth quarter and full year ended December 31, 2025 compared to 27.2% and 24.2% in the respective prior year periods. In 2025, the Company benefited from a favorable net tax gain of $2.0 million following a positive outcome from prior year tax assessments.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "These factors contributed to record annual net income attributable to INTERPARFUMS INC. of $168 million, or $5.24 per diluted share, a 2% increase compared to net income of $164 million, or, $5.12 per diluted share in 2024. As a percentage of sales net income was stable at 11.3%.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Mr. Atwood continued, \u201cWe maintained a strong financial condition at year end, with $295 million in cash, cash equivalents and short-term investments, and working capital of $683 million. Despite a currency headwind driven by the stronger Euro, inventories declined by 6% compared to last year as we continued to capture meaningful efficiencies from our inventory optimization programs and a normalizing supply chain. We further enhanced our cash conversion cycle, delivering operating cash flow equivalent to 103% of net income, compared to 92% in 2024. Long-term debt approximated $176 million.\u201d",
+      "token_count": 150
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Mr. Atwood concluded, \u201cWe are maintaining our 2026 outlook of $1.48 billion in sales and EPS of $4.85. We believe it is prudent to monitor global developments in the early part of 2026 before potentially revisiting our guidance later in the year. We continue to be optimistic about the strength of our diverse brand portfolio, the agility of our organization, and an innovation pipeline broadly in line with 2025. In combination, these factors should help us maintain market share in a normalizing global market.\u201d",
+      "token_count": 129
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In February 2026, INTERPARFUMS INC\u2019 Board of Directors approved the annual cash dividend rate of $3.20 per share, unchanged from 2025, reflecting the Company\u2019s commitment to maintaining a stable and prudent approach to capital allocation.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The next quarterly cash dividend of $0.80 per share is payable on March 31, 2026, to shareholders of record on March 16, 2026.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "About INTERPARFUMS INC.: Operating in the global fragrance business since 1982, INTERPARFUMS INC. produces and distributes a wide array of prestige fragrance and fragrance related products under license and other agreements with brand owners. The Company manages its business in two operating segments, European based operations, through its 72% owned subsidiary, INTERPARFUMS INC SA, and United States based operations, through wholly owned subsidiaries in the United States and Italy.",
+      "token_count": 117
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Our portfolio of prestige brands includes Abercrombie & Fitch, Anna Sui, Boucheron, Coach, Donna Karan/DKNY, Emanuel Ungaro, Ferragamo, Graff, Guess, Hollister, Jimmy Choo, Karl Lagerfeld, Kate Spade, Lacoste, Longchamp, MCM, Moncler, Montblanc, Oscar de la Renta, Roberto Cavalli, and Van Cleef & Arpels, whose products are distributed in over 120 countries around the world through an extensive and diverse network of distributors. INTERPARFUMS INC. is also the registered owner of several trademarks including Lanvin, Rochas, and Solfe\u0301rino. Goutal and Off-White joined the Company\u2019s fragrance portfolio in 2026.",
+      "token_count": 153
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Michel Atwood Chief Financial Officer (212) 983-2640",
+      "token_count": 13
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Preferred stock, $0.001 par value. Authorized 1,000,000 shares: none issued",
+      "token_count": 19
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Common stock, $0.001 par value. Authorized 100,000,000 shares: outstanding, 32,067,285 and 32,110,170 shares on December 31, 2025, and 2024, respectively",
+      "token_count": 39
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Treasury stock, at cost, 9,032,840 and 9,981,665 common shares on December 31, 2025, and 2024, respectively",
+      "token_count": 27
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Total INTERPARFUMS INC. shareholders\u2019 equity",
+      "token_count": 10
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Less: Net income attributable to the noncontrolling interest",
+      "token_count": 15
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income attributable to INTERPARFUMS INC.",
+      "token_count": 10
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income attributable to INTERPARFUMS INC. common shareholders",
+      "token_count": 15
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.022035,
+    "ret_20d": 0.047614,
+    "market_ret_20d": -0.007766
+  },
+  "outcome_blind": true
+}

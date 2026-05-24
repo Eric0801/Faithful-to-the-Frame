@@ -1,0 +1,974 @@
+{
+  "event_id": "evt_0033",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "T-Mobile US, Inc.",
+  "ticker": "TMUS",
+  "company_alias": "T-Mobile US, Inc.",
+  "masked_company": "Company O",
+  "sector": "Communication Services",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-11",
+  "accepted_at_et": "2026-02-11T02:37:24-05:00",
+  "source_packet_path": "source_packets/evt_0033.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "T-Mobile Delivers Best-in-Class Customer Results in Q4, Translating into Durable and Profitable Financial Growth Driven By Widening Differentiation",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "T-Mobile Delivers Best-in-Class Customer Results in Q4, Translating into Durable and Profitable Financial Growth Driven By Widening Differentiation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Q4 Yet Another Proof Point of the Un-carrier\u2019s Widening Pillars of Differentiation Leading to Sustained Outperformance, Including First-Ever J.D.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Q4 Yet Another Proof Point of the Un-carrier\u2019s Widening Pillars of Differentiation Leading to Sustained Outperformance, Including First-Ever J.D. Power Award for Highest Network Quality, Positioning T-Mobile for Continued Profitable Growth in 2026 and Beyond",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Industry-Leading Customer Growth Fueled by Widening Differentiation in Best Network, Best Value and Best Experiences Combination (1)",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Industry-Leading Customer Growth Fueled by Widening Differentiation in Best Network, Best Value and Best Experiences Combination (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "\u2022 Total postpaid net customer additions of 2.4 million in Q4 2025 and 7.8 million in 2025, both industry best",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Total postpaid net customer additions of 2.4 million in Q4 2025 and 7.8 million in 2025, both industry best",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "\u2022 Postpaid phone net customer additions of 962 thousand in Q4 2025 and 3.3 million in 2025, both industry best",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Postpaid phone net customer additions of 962 thousand in Q4 2025 and 3.3 million in 2025, both industry best",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u2022 Postpaid net account additions of 261 thousand in Q4 2025 and 1.2 million in 2025, both industry best",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Postpaid net account additions of 261 thousand in Q4 2025 and 1.2 million in 2025, both industry best",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "\u2022 Total broadband net customer additions of 558 thousand in Q4 2025 and 2.0 million in 2025, both industry best",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Total broadband net customer additions of 558 thousand in Q4 2025 and 2.0 million in 2025, both industry best",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "Translating Industry-Leading Customer Growth into Durable and Profitable Financial Growth",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Translating Industry-Leading Customer Growth into Durable and Profitable Financial Growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "\u2022 Service revenues of $18.7 billion in Q4 2025 and $71.3 billion in 2025, both industry-leading growth",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Service revenues of $18.7 billion in Q4 2025 and $71.3 billion in 2025, both industry-leading growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "\u2022 Postpaid service revenues of $15.4 billion in Q4 2025 and $57.9 billion in 2025, both industry-leading growth",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Postpaid service revenues of $15.4 billion in Q4 2025 and $57.9 billion in 2025, both industry-leading growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Strong net income of $2.1 billion in Q4 2025 and $11.0 billion in 2025",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Strong net income of $2.1 billion in Q4 2025 and $11.0 billion in 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted earnings per share (\u201cEPS\u201d) of $1.88 in Q4 2025 and $9.72 in 2025",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Diluted earnings per share (\u201cEPS\u201d) of $1.88 in Q4 2025 and $9.72 in 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "margins",
+      "claim": "\u2022 Core Adjusted EBITDA (2) of $8.4 billion in Q4 2025 and $33.9 billion in 2025, both industry-leading growth",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 Core Adjusted EBITDA (2) of $8.4 billion in Q4 2025 and $33.9 billion in 2025, both industry-leading growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Net cash provided by operating activities of $6.7 billion in Q4 2025 and $28.0 billion in 2025, both industry-leading growth",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities of $6.7 billion in Q4 2025 and $28.0 billion in 2025, both industry-leading growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "margins",
+      "claim": "\u2022 Adjusted Free Cash Flow (2) of $4.2 billion in Q4 2025 and $18.0 billion in 2025, both representing industry-leading margins",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Adjusted Free Cash Flow (2) of $4.2 billion in Q4 2025 and $18.0 billion in 2025, both representing industry-leading margins",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "Extending Overall Network Lead with Best Assets, Customer Centricity and Technology Leadership",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Extending Overall Network Lead with Best Assets, Customer Centricity and Technology Leadership",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "\u2022 For the first time ever, customers have rated T-Mobile highest for network quality in five of six regions in the J.D.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 For the first time ever, customers have rated T-Mobile highest for network quality in five of six regions in the J.D. Power 2026 U.S. Wireless Network Quality Study. This milestone reflects the impact of T-Mobile\u2019s long-term network strategy, as customers rated the company h...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "\u2022 T-Mobile won all five overall network experience categories from Opensignal, along with 5G Coverage Experience and 5G Availability.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 T-Mobile won all five overall network experience categories from Opensignal, along with 5G Coverage Experience and 5G Availability. Network consistency remains a key differentiator as T-Mobile was awarded back-to-back outright wins in both Reliability Experience and Consiste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "\u2022 T-Mobile once again recognized as the Best Mobile Network in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 T-Mobile once again recognized as the Best Mobile Network in the U.S. according to Ookla\u2019s latest Speedtest Connectivity report after an initial win in July 2025 in the largest, most-comprehensive tests of their kind, each leveraging half a billion real world data points on...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "margins",
+      "claim": "\u201cQ4 was a great proof point of our winning formula \u2013 and we see significant runway ahead to widen our margin of differentiation, including through maintaining our tremendous momentum in network perception gains and in our digital transformation and simplification,\u201d said CEO of T-Mobile.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u201cQ4 was a great proof point of our winning formula \u2013 and we see significant runway ahead to widen our margin of differentiation, including through maintaining our tremendous momentum in network perception gains and in our digital transformation and simplification,\u201d said CEO of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "(1) AT&T Inc.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "(1) AT&T Inc. does not disclose postpaid net account additions. Comcast and Charter do not disclose postpaid phone net customer additions. Industry-leading claims are based on consensus expectations if results are not yet reported.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "(2) Core Adjusted EBITDA and Adjusted Free Cash Flow are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "(2) Core Adjusted EBITDA and Adjusted Free Cash Flow are non-GAAP financial measures. These non-GAAP financial measures should be considered in addition to, but not as a substitute for, the information provided in accordance with GAAP. Reconciliations for these non-GAAP financ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "\u2022 Total postpaid net customer additions of 2.4 million in Q4 2025 and 7.8 million in 2025.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Total postpaid net customer additions of 2.4 million in Q4 2025 and 7.8 million in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "\u2022 Postpaid phone net customer additions of 962 thousand in Q4 2025 and 3.3 million in 2025.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 Postpaid phone net customer additions of 962 thousand in Q4 2025 and 3.3 million in 2025. Postpaid phone churn of 1.02% in Q4 2025 and 0.93% in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "\u2022 Postpaid net account additions of 261 thousand in Q4 2025 and 1.2 million in 2025.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 Postpaid net account additions of 261 thousand in Q4 2025 and 1.2 million in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "\u2022 Prepaid net customer additions of 57 thousand in Q4 2025 and 184 thousand in 2025.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 Prepaid net customer additions of 57 thousand in Q4 2025 and 184 thousand in 2025. Prepaid churn of 2.76% in Q4 2025 and 2.72% in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "\u2022 Total broadband net customer additions of 558 thousand in Q4 2025 and 2.0 million in 2025, including 63 thousand and 136 thousand fiber net customer additions.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 Total broadband net customer additions of 558 thousand in Q4 2025 and 2.0 million in 2025, including 63 thousand and 136 thousand fiber net customer additions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "\u2022 5G broadband net customer additions of 495 thousand in Q4 2025 and 1.9 million in 2025.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 5G broadband net customer additions of 495 thousand in Q4 2025 and 1.9 million in 2025. T-Mobile ended the quarter with 8.5 million 5G broadband customers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "\u2022 Total net customer additions were 2.4 million in Q4 2025 and 8.0 million in 2025.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 Total net customer additions were 2.4 million in Q4 2025 and 8.0 million in 2025. Total customers increased to 142.4 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "Quarter Year Ended December 31, (in thousands, except churn) Q4 2025 Q3 2025 Q4 2024 2025 2024 Postpaid net account additions 261 396 263 1,180 1,097 Total net customer additions 2,439 2,390 2,036 7,982 6,324 Postpaid net customer additions (2) 2,382 2,347 1,933 7,798 6,066 Postpaid phone net customer additions (3) 962 1,007 903 3,294 3,077 Postpaid other net customer additions (2) (3) (4) (5) 1,420 1,340 1,030 4,504 2,989 Prepaid net customer additions (2) (3) (6) 57 43 103 184 258 Total customers, end of period (2) 142,388 139,949 129,528 142,388 129,528 Postpaid phone churn 1.02 % 0.89 % 0.92 % 0.93 % 0.86 % Prepaid churn 2.76 % 2.77 % 2.85 % 2.72 % 2.73 % Total broadband net customer additions (3) (4) (5) 558 560 432 2,015 1,662 5G broadband net customer additions (3) 495 506 428 1,879 1,654 Total broadband customers, end of period 9,447 8,889 6,439 9,447 6,439 Total 5G broadband customers, end of period 8,450 7,955 6,430 8,450 6,430",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Quarter Year Ended December 31, (in thousands, except churn) Q4 2025 Q3 2025 Q4 2024 2025 2024 Postpaid net account additions 261 396 263 1,180 1,097 Total net customer additions 2,439 2,390 2,036 7,982 6,324 Postpaid net customer additions (2) 2,382 2,347 1,933 7,798 6,066 Po...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "(3) In the third quarter of 2025, we acquired 3,287,000 postpaid phone customers, 390,000 postpaid other customers, including 141,000 5G broadband customers, and 349,000 prepaid customers through the UScellular acquisition, which includes the impact of certain base adjustments to align the policies of UScellular and T-Mobile.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "(3) In the third quarter of 2025, we acquired 3,287,000 postpaid phone customers, 390,000 postpaid other customers, including 141,000 5G broadband customers, and 349,000 prepaid customers through the UScellular acquisition, which includes the impact of certain base adjustments...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "(4) In the third quarter of 2025, we acquired 755,000 fiber customers from Metronet and other acquisitions.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "(4) In the third quarter of 2025, we acquired 755,000 fiber customers from Metronet and other acquisitions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "(5) In the second quarter of 2025, we acquired 97,000 fiber customers from Lumos.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "(5) In the second quarter of 2025, we acquired 97,000 fiber customers from Lumos.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "(6) In the second quarter of 2024, we acquired 3,504,000 prepaid customers through our acquisition of Ka\u2019ena, which includes the impact of certain base adjustments to align the policies of Ka\u2019ena and T-Mobile.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "(6) In the second quarter of 2024, we acquired 3,504,000 prepaid customers through our acquisition of Ka\u2019ena, which includes the impact of certain base adjustments to align the policies of Ka\u2019ena and T-Mobile.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Translating Industry-Leading Customer Growth into Durable and Profitable Financial Growth (1)",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Translating Industry-Leading Customer Growth into Durable and Profitable Financial Growth (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "\u2022 Total service revenues increased 10% year-over-year to $18.7 billion in Q4 2025 and 8% year-over-year to $71.3 billion in 2025, which included Postpaid service revenues growth of 14% year-over-year to $15.4 billion in Q4 2025 and 11% growth year-over-year to $57.9 billion in 2025.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 Total service revenues increased 10% year-over-year to $18.7 billion in Q4 2025 and 8% year-over-year to $71.3 billion in 2025, which included Postpaid service revenues growth of 14% year-over-year to $15.4 billion in Q4 2025 and 11% growth year-over-year to $57.9 billion in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income of $2.1 billion in Q4 2025 included the impact of severance and related costs associated with the 2025 workforce transformation and reinvestment initiative, net of tax, of $293 million.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 Net income of $2.1 billion in Q4 2025 included the impact of severance and related costs associated with the 2025 workforce transformation and reinvestment initiative, net of tax, of $293 million. Net income of $11.0 billion in 2025 included the impact of severance and relat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted EPS of $1.88 per share in Q4 2025 included the impact of severance and related costs associated with the 2025 workforce transformation and reinvestment initiative, net of tax, of $0.26 per share.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Diluted EPS of $1.88 per share in Q4 2025 included the impact of severance and related costs associated with the 2025 workforce transformation and reinvestment initiative, net of tax, of $0.26 per share. Diluted EPS of $9.72 per share in 2025 included the impact of severance...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "margins",
+      "claim": "\u2022 Core Adjusted EBITDA increased 7% year-over-year to $8.4 billion in Q4 2025 and increased 7% year-over-year to $33.9 billion in 2025.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Core Adjusted EBITDA increased 7% year-over-year to $8.4 billion in Q4 2025 and increased 7% year-over-year to $33.9 billion in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Net cash provided by operating activities (2) increased 20% year-over-year to $6.7 billion in Q4 2025 and increased 25% year-over-year to $28.0 billion in 2025.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities (2) increased 20% year-over-year to $6.7 billion in Q4 2025 and increased 25% year-over-year to $28.0 billion in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Cash purchases of property and equipment, including capitalized interest increased 12% year-over-year to $2.5 billion in Q4 2025 and increased 13% year-over-year to $10.0 billion in 2025, which included the impact from planned higher capital purchases, including for increased greenfield site builds and incremental capital expenditures following the acquisition of UScellular.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "\u2022 Cash purchases of property and equipment, including capitalized interest increased 12% year-over-year to $2.5 billion in Q4 2025 and increased 13% year-over-year to $10.0 billion in 2025, which included the impact from planned higher capital purchases, including for increase...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Adjusted Free Cash Flow increased 2% year-over-year to $4.2 billion in Q4 2025 and increased 6% year-over-year to $18.0 billion in 2025.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "\u2022 Adjusted Free Cash Flow increased 2% year-over-year to $4.2 billion in Q4 2025 and increased 6% year-over-year to $18.0 billion in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Stockholder Returns through December 31, 2025, of $45.4 billion on a cumulative basis since the initiation of the stockholder return program included 216.0 million shares repurchased for $37.2 billion and cash dividends of $8.2 billion.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "\u2022 Stockholder Returns through December 31, 2025, of $45.4 billion on a cumulative basis since the initiation of the stockholder return program included 216.0 million shares repurchased for $37.2 billion and cash dividends of $8.2 billion. This includes 11.9 million shares of c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Quarter Year Ended December 31, Q4 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Quarter Year Ended December 31, Q4 2025 vs. Q3 2025 Q4 2025 vs. Q4 2024 2025 vs. 2024 (in millions, except EPS) Q4 2025 Q3 2025 Q4 2024 2025 2024 Total service revenues $ 18,702 $ 18,241 $ 16,928 $ 71,306 $ 66,178 2.5 % 10.5 % 7.7 % Postpaid service revenues 15,378 14,882 13,5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "(1) Industry-leading claims are based on consensus expectations if results are not yet reported.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "(1) Industry-leading claims are based on consensus expectations if results are not yet reported.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "balance_sheet_or_cash",
+      "claim": "(2) Effective November 1, 2024, following amendments to the company\u2019s Equipment Installment Plan Sale and Service Receivable Sale arrangements, all cash proceeds associated with the sale of such receivables, a portion of which was previously recognized as Proceeds related to beneficial interests in securitization transactions within investing cash flows, were recognized as operating cash flows.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "(2) Effective November 1, 2024, following amendments to the company\u2019s Equipment Installment Plan Sale and Service Receivable Sale arrangements, all cash proceeds associated with the sale of such receivables, a portion of which was previously recognized as Proceeds related to b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "other",
+      "claim": "\u2022 For the first time ever, customers have rated T-Mobile highest for network quality in five of six regions in the J.D.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "\u2022 For the first time ever, customers have rated T-Mobile highest for network quality in five of six regions in the J.D. Power 2026 U.S. Wireless Network Quality Study. This milestone reflects the impact of T-Mobile\u2019s long-term network strategy, as customers rated the company h...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "See 5G device, coverage, and access details at T-Mobile.com.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "See 5G device, coverage, and access details at T-Mobile.com. J.D. Power Award: The 2026 U.S. Wireless Network Quality Performance Study\u2014Volume 1 is based on responses from 20,050 wireless customers. Carrier performance is examined in six regions: Mid-Atlantic, North Central, N...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "\u2022 Postpaid net account additions are expected to be between 900 thousand and 1.0 million.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "\u2022 Postpaid net account additions are expected to be between 900 thousand and 1.0 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "\u2022 Core Adjusted EBITDA, which is Adjusted EBITDA less lease revenues, is expected to be between $37.0 billion and $37.5 billion, up 10% year-over-year at the midpoint.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "\u2022 Core Adjusted EBITDA, which is Adjusted EBITDA less lease revenues, is expected to be between $37.0 billion and $37.5 billion, up 10% year-over-year at the midpoint.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "\u2022 Net cash provided by operating activities, including payments for UScellular merger-related costs, is expected to be between $28.0 billion and $28.7 billion.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities, including payments for UScellular merger-related costs, is expected to be between $28.0 billion and $28.7 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "\u2022 Cash purchases of property and equipment, including capitalized interest, are expected to be approximately $10.0 billion.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "\u2022 Cash purchases of property and equipment, including capitalized interest, are expected to be approximately $10.0 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "\u2022 Adjusted Free Cash Flow, including payments for UScellular merger-related costs, is expected to be between $18.0 billion and $18.7 billion.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "\u2022 Adjusted Free Cash Flow, including payments for UScellular merger-related costs, is expected to be between $18.0 billion and $18.7 billion. Adjusted Free Cash Flow guidance does not assume any material net cash inflows from securitization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "(in millions, except Postpaid net account additions and Effective tax rate) FY 2026 Guidance Postpaid net account additions (thousands) 900 1,000 Net income (1) N/A N/A Effective tax rate 25% 26% Core Adjusted EBITDA (2) $37,000 $37,500 Net cash provided by operating activities 28,000 28,700 Capital expenditures (3) ~10,000 Adjusted Free Cash Flow 18,000 18,700",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "(in millions, except Postpaid net account additions and Effective tax rate) FY 2026 Guidance Postpaid net account additions (thousands) 900 1,000 Net income (1) N/A N/A Effective tax rate 25% 26% Core Adjusted EBITDA (2) $37,000 $37,500 Net cash provided by operating activitie...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "(1) T-Mobile is not able to forecast Net income on a forward-looking basis without unreasonable efforts due to the high variability and difficulty in predicting certain items that affect GAAP Net income, including, but not limited to, Special Items, Income tax expense and Interest expense.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "(1) T-Mobile is not able to forecast Net income on a forward-looking basis without unreasonable efforts due to the high variability and difficulty in predicting certain items that affect GAAP Net income, including, but not limited to, Special Items, Income tax expense and Inte...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "revenue",
+      "claim": "(2) Management uses Core Adjusted EBITDA as a measure to monitor the financial performance of company operations, excluding the impact of lease revenues from related device financing programs.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "(2) Management uses Core Adjusted EBITDA as a measure to monitor the financial performance of company operations, excluding the impact of lease revenues from related device financing programs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "costs_or_expenses",
+      "claim": "(3) Capital expenditures means cash purchases of property and equipment, including capitalized interest.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "(3) Capital expenditures means cash purchases of property and equipment, including capitalized interest.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "\u2022 Wednesday, 2026-02-11T02:37:24-05:00, at 8:30 a.m.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "\u2022 Wednesday, 2026-02-11T02:37:24-05:00, at 8:30 a.m. (EDT)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "\u2022 Media Relations: mediarelations@t-mobile.com",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "\u2022 Media Relations: mediarelations@t-mobile.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "As the supercharged Un-carrier, T-Mobile US, Inc..",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "As the supercharged Un-carrier, T-Mobile US, Inc.. (NASDAQ:TMUS) is powered by an award-winning 5G network that connects more people, in more places, than ever before. With T-Mobile\u2019s unique value proposition of best network, best value and best experiences, the Un-carrier is...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "Reconciliation of Non-GAAP Financial Measures to GAAP Financial Measures",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Reconciliation of Non-GAAP Financial Measures to GAAP Financial Measures",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "guidance",
+      "claim": "This Press Release includes non-GAAP financial measures, including Adjusted EBITDA, Core Adjusted EBITDA, Adjusted Free Cash Flow and Adjusted Free Cash Flow margin.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "This Press Release includes non-GAAP financial measures, including Adjusted EBITDA, Core Adjusted EBITDA, Adjusted Free Cash Flow and Adjusted Free Cash Flow margin. The non-GAAP financial measures should be considered in addition to, but not as a substitute for, the informati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "revenue",
+      "claim": "Quarter Year Ended December 31, (in millions) Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025 Q4 2025 2024 2025 Net income $ 2,374 $ 2,925 $ 3,059 $ 2,981 $ 2,953 $ 3,222 $ 2,714 $ 2,103 $ 11,339 $ 10,992 Adjustments: Interest expense, net 880 854 836 841 916 922 924 1,012 3,411 3,774 Other (income) expense, net (20) 8 (7) (94) 46 11 78 89 (113) 224 Income tax expense 764 843 908 858 885 1,058 814 532 3,373 3,289 Operating income 3,998 4,630 4,796 4,586 4,800 5,213 4,530 3,736 18,010 18,279 Depreciation and amortization 3,371 3,248 3,151 3,149 3,198 3,146 3,408 3,756 12,919 13,508 Stock-based compensation (1) 140 147 143 156 168 178 217 209 586 772 Merger-related costs (gain), net (2) (3) 130 (9) 16 10 14 33 73 143 147 263 Network restructuring initiative costs (4) \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 93 \u2014 93 Legal-related expenses (recoveries), net (5) \u2014 15 1 (105) 6 (4) 8 6 (89) 16 Impairment expense \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 278 \u2014 \u2014 278 Other, net (6) 13 22 136 120 73 (19) 170 504 291 728 Adjusted EBITDA 7,652 8,053 8,243 7,916 8,259 8,547 8,684 8,447 31,864 33,937 Lease revenues (35) (26) (21) (11) (1) (6) (4) (2) (93) (13) Core Adjusted EBITDA $ 7,617 $ 8,027 $ 8,222 $ 7,905 $ 8,258 $ 8,541 $ 8,680 $ 8,445 $ 31,771 $ 33,924",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Quarter Year Ended December 31, (in millions) Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025 Q4 2025 2024 2025 Net income $ 2,374 $ 2,925 $ 3,059 $ 2,981 $ 2,953 $ 3,222 $ 2,714 $ 2,103 $ 11,339 $ 10,992 Adjustments: Interest expense, net 880 854 836 841 916 922 924 1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "costs_or_expenses",
+      "claim": "(1) Stock-based compensation includes payroll tax impacts and may not agree to stock-based compensation expense in the Condensed Consolidated Financial Statements.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(1) Stock-based compensation includes payroll tax impacts and may not agree to stock-based compensation expense in the Condensed Consolidated Financial Statements. Additionally, certain stock-based compensation expenses associated with the Sprint merger have been included in M...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "(2) Merger-related costs (gain), net includes Sprint merger-related costs and UScellular merger-related costs.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "(2) Merger-related costs (gain), net includes Sprint merger-related costs and UScellular merger-related costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "(3) Merger-related costs (gain), net, for the three months ended June 30, 2024 and the year ended December 31, 2024, includes the $100 million gain recognized for the extension fee previously paid by DISH associated with the DISH License Purchase Agreement.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "(3) Merger-related costs (gain), net, for the three months ended June 30, 2024 and the year ended December 31, 2024, includes the $100 million gain recognized for the extension fee previously paid by DISH associated with the DISH License Purchase Agreement.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "costs_or_expenses",
+      "claim": "(4) In Q4 2025, we began implementing network restructuring initiatives as a result of recent technological advancements that enhanced our Customer-Driven Coverage insights.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(4) In Q4 2025, we began implementing network restructuring initiatives as a result of recent technological advancements that enhanced our Customer-Driven Coverage insights. Network restructuring initiative costs consist of network decommissioning and contract termination cost...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "(5) Legal-related expenses (recoveries), net consists of the settlement of certain litigation and compliance costs associated with the August 2021 cyberattack, net of insurance recoveries.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "(5) Legal-related expenses (recoveries), net consists of the settlement of certain litigation and compliance costs associated with the August 2021 cyberattack, net of insurance recoveries.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "margins",
+      "claim": "(6) Other, net, primarily consists of certain severance, restructuring and other expenses, gains and losses, not directly attributable to the Sprint merger or UScellular acquisition, which are not reflective of T-Mobile\u2019s ongoing core business activities and are, therefore, excluded from Adjusted EBITDA and Core Adjusted EBITDA.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "(6) Other, net, primarily consists of certain severance, restructuring and other expenses, gains and losses, not directly attributable to the Sprint merger or UScellular acquisition, which are not reflective of T-Mobile\u2019s ongoing core business activities and are, therefore, ex...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA represents earnings before Interest expense, net of Interest income, Income tax expense, Depreciation and amortization, stock-based compensation and certain expenses, gains and losses, which are not reflective of our ongoing operating performance (\u201cSpecial Items\u201d).",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Adjusted EBITDA represents earnings before Interest expense, net of Interest income, Income tax expense, Depreciation and amortization, stock-based compensation and certain expenses, gains and losses, which are not reflective of our ongoing operating performance (\u201cSpecial Item...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "other",
+      "claim": "Reconciliation of Non-GAAP Financial Measures to GAAP Financial Measures (continued)",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Reconciliation of Non-GAAP Financial Measures to GAAP Financial Measures (continued)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "revenue",
+      "claim": "Quarter Year Ended December 31, (in millions, except percentages) Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025 Q4 2025 2024 2025 Net cash provided by operating activities $ 5,084 $ 5,521 $ 6,139 $ 5,549 $ 6,847 $ 6,992 $ 7,457 $ 6,654 $ 22,293 $ 27,950 Cash purchases of property and equipment, including capitalized interest (2,627) (2,040) (1,961) (2,212) (2,451) (2,396) (2,639) (2,469) (8,840) (9,955) Proceeds related to beneficial interests in securitization transactions 890 958 984 747 \u2014 \u2014 \u2014 \u2014 3,579 \u2014 Adjusted Free Cash Flow $ 3,347 $ 4,439 $ 5,162 $ 4,084 $ 4,396 $ 4,596 $ 4,818 $ 4,185 $ 17,032 $ 17,995 Net cash provided by operating activities margin (Net cash provided by operating activities divided by Service revenues) 31.6 % 33.6 % 36.7 % 32.8 % 40.5 % 40.1 % 40.9 % 35.6 % 33.7 % 39.2 % Adjusted Free Cash Flow margin (Adjusted Free Cash Flow divided by Service revenues) 20.8 % 27.0 % 30.9 % 24.1 % 26.0 % 26.4 % 26.4 % 22.4 % 25.7 % 25.2 %",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Quarter Year Ended December 31, (in millions, except percentages) Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025 Q4 2025 2024 2025 Net cash provided by operating activities $ 5,084 $ 5,521 $ 6,139 $ 5,549 $ 6,847 $ 6,992 $ 7,457 $ 6,654 $ 22,293 $ 27,950 Cash purchase...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "margins",
+      "claim": "Effective November 1, 2024, following amendments to the company\u2019s Equipment Installment Plan Sale and Service Receivable Sale arrangements, all cash proceeds associated with the sale of such receivables, a portion of which was previously recognized as Proceeds related to beneficial interests in securitization transactions within investing cash flows, were recognized as operating cash flows.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "Effective November 1, 2024, following amendments to the company\u2019s Equipment Installment Plan Sale and Service Receivable Sale arrangements, all cash proceeds associated with the sale of such receivables, a portion of which was previously recognized as Proceeds related to benef...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "margins",
+      "claim": "Adjusted Free Cash Flow - Net cash provided by operating activities less Cash purchases of property and equipment, plus Proceeds related to beneficial interests in securitization transactions.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "Adjusted Free Cash Flow - Net cash provided by operating activities less Cash purchases of property and equipment, plus Proceeds related to beneficial interests in securitization transactions. Adjusted Free Cash Flow is utilized by T-Mobile\u2019s management, investors and analysts...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "revenue",
+      "claim": "Adjusted Free Cash Flow margin - Adjusted Free Cash Flow divided by Service revenues.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "Adjusted Free Cash Flow margin - Adjusted Free Cash Flow divided by Service revenues. Adjusted Free Cash Flow margin is utilized by T-Mobile\u2019s management, investors, and analysts to evaluate the company\u2019s ability to convert service revenue efficiently into cash available to pa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "guidance",
+      "claim": "FY 2026 (in millions) Guidance Range Net cash provided by operating activities $ 28,000 $ 28,700 Cash purchases of property and equipment, including capitalized interest (10,000) (10,000) Adjusted Free Cash Flow $ 18,000 $ 18,700",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "FY 2026 (in millions) Guidance Range Net cash provided by operating activities $ 28,000 $ 28,700 Cash purchases of property and equipment, including capitalized interest (10,000) (10,000) Adjusted Free Cash Flow $ 18,000 $ 18,700",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "revenue",
+      "claim": "Quarter Year Ended December 31, (in dollars) Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025 Q4 2025 2024 2025 Postpaid ARPA $ 140.88 $ 142.54 $ 145.60 $ 146.28 $ 146.22 $ 149.87 $ 149.44 $ 150.17 $ 143.85 $ 148.97 Postpaid phone ARPU 48.79 49.07 49.79 49.73 49.38 50.62 50.71 50.71 49.35 50.37 Prepaid ARPU 37.18 35.94 35.81 35.49 34.67 34.63 33.93 33.33 36.06 34.14 Postpaid Average Revenue Per Account (\u201cARPA\u201d) - Average monthly postpaid service revenue earned per account.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Quarter Year Ended December 31, (in dollars) Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025 Q4 2025 2024 2025 Postpaid ARPA $ 140.88 $ 142.54 $ 145.60 $ 146.28 $ 146.22 $ 149.87 $ 149.44 $ 150.17 $ 143.85 $ 148.97 Postpaid phone ARPU 48.79 49.07 49.79 49.73 49.38 50.6...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "revenue",
+      "claim": "Average Revenue Per User (\u201cARPU\u201d) - Average monthly service revenue earned per customer.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "Average Revenue Per User (\u201cARPU\u201d) - Average monthly service revenue earned per customer. Service revenues for the specified period divided by the average number of customers during the period, further divided by the number of months in the period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "revenue",
+      "claim": "Postpaid phone ARPU excludes postpaid other customers and related revenues.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "Postpaid phone ARPU excludes postpaid other customers and related revenues.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for FY2025: 88309000000",
+      "value": 88309000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for FY2025: 88309000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for FY2025: 18279000000",
+      "value": 18279000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for FY2025: 18279000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for FY2025: 10992000000",
+      "value": 10992000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "NetIncomeLoss reported for FY2025: 10992000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for FY2025: 9.72",
+      "value": 9.72,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for FY2025: 9.72",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for FY2025: 9.75",
+      "value": 9.75,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for FY2025: 9.75",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 5598000000",
+      "value": 5598000000,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 5598000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 27950000000",
+      "value": 27950000000,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 27950000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.008853, ret_20d=0.009721, market_ret_20d=-0.004373",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.008853, ret_20d=0.009721, market_ret_20d=-0.004373",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "event_id": "evt_0078",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AAR CORP",
+  "ticker": "AIR",
+  "company_alias": "AAR CORP",
+  "masked_company": "Company AM",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-03-24",
+  "filing_metadata": {
+    "cik": "1750",
+    "accession_number": "0001104659-26-033901",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-24T16:36:53-04:00",
+    "event_date": "2026-03-24",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Wood Dale, Illinois, 2026-03-24T16:36:53-04:00 \u2014 AAR CORP. (NYSE:AIR), a leading provider of aviation services to commercial and government operators, MROs, and OEMs, reported today financial results for the fiscal year 2026 third quarter ended February 28, 2026.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Sales of $845 million; increased 25%",
+      "token_count": 9
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted diluted EPS of $1.25; increased 26%",
+      "token_count": 11
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA of $102 million; increased 26%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA margin increased to 12.1% from 12.0%",
+      "token_count": 13
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cAAR CORP delivered another outstanding quarter, continuing our momentum. Total sales were up 25%, including 14% organic adjusted sales growth,\u201d stated John M. Holmes, AAR CORP\u2019s Chairman, President and CEO. \u201cWe saw growth across each of our parts, repair, and software platform activities in the quarter. Our Parts Supply segment grew 45% led by 36% organic growth in our new parts Distribution activity. Within new parts Distribution we saw 55% organic growth in sales to our government customers. Our Repair & Engineering business also reported strong sales growth in the period on continued volume increases in our hangars and component repair facilities, while Trax results showcased further expansion of its recurring software revenue.",
+      "token_count": 187
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cOur continued strong revenue growth translated to an adjusted EBITDA increase of 26% in the quarter, and we expanded our adjusted EBITDA margins from 12.0% to 12.1% year over year. We expect continued margin expansion as we shift our sales mix to higher margin offerings as well as realize synergies from our recent acquisitions.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u201cRegarding acquisitions, the execution of our integration and performance improvement plan for HAECO Americas is progressing well and is ahead of schedule. Furthermore, our acquisition of ADI is exceeding our expectations, and we continue to find new opportunities for growth, particularly given its government product lines. Finally, we remain on track to close our acquisition of A-R-T in the fourth quarter of fiscal year 2026.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u201cWe also made solid progress with respect to our leverage. Cash from operations was $75 million in the quarter, which helped us to reduce net leverage to 2.17x. We are now comfortably within our target range of 2.0x to 2.5x, giving us flexibility to continue funding our strategic growth.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Holmes concluded, \u201cWe see significant opportunity for continued profitable growth ahead, supported by resilient and growing demand for our aviation aftermarket solutions. We are closely following the conflict in the Middle East and are in constant contact with our customers. Fundamental demand for AAR CORP travel remains extremely strong, and we are the preferred solution for the markets we serve. We remain extremely well positioned in the market and are committed to delivering for our customers in all environments while executing on our disciplined growth strategy.\u201d",
+      "token_count": 144
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Commenced exclusive distribution agreement with TRIUMPH for its actuation power line on Boeing and Airbus commercial platforms",
+      "token_count": 32
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Recently awarded new multi-year contracts with the U.S. AAR CORP Force to repair and build new pallets at our Mobility Systems location worth up to $450 million",
+      "token_count": 41
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Completed Oklahoma City Airframe MRO facility expansion, inducted first aircraft in early March",
+      "token_count": 24
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Trax signed a multi-year contract expansion with AAR CORP Atlanta Icelandic to add eMobility and cloud hosting solutions to its current eMRO platform offering",
+      "token_count": 40
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Signed a new agreement with Otto Instrument Service to distribute the LASEREF IV inertial reference system product line, further broadening our new parts Distribution activities in the business aviation market",
+      "token_count": 53
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Consolidated third quarter sales increased 25% to $845.1 million, compared to $678.2 million in the same quarter last year. Sales to commercial customers increased 27%, or $130 million, primarily due to double-digit organic growth across new parts Distribution within the Company's Parts Supply segment and the impact of the Company\u2019s acquisitions of HAECO Americas and ADI. Sales to government customers increased 19% over the same period last year, primarily due to increased order volume for new parts Distribution activities and the impact of ADI\u2019s sales to government customers. Sales to commercial customers were 73% of consolidated sales, compared to 72% in the prior year quarter.",
+      "token_count": 172
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The Company reported net income of $68.0 million, or $1.71 per diluted share. For the third quarter of the prior year, the Company reported a net loss of $8.9 million, or $0.25 per share. The prior year quarter included a pre-tax charge of $63.7 million associated with the divestiture of the Company\u2019s Landing Gear Overhaul business. Adjusted diluted earnings per share in the third quarter of fiscal year 2026 were $1.25, compared to $0.99 in the third quarter of the prior year.",
+      "token_count": 121
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Selling, general, and administrative expenses were $89.8 million in the current quarter, compared to $61.3 million in the prior year quarter. The prior year quarter included the reversal of a legal charge of $11.1 million related to a Russian court judgment, which we successfully appealed. Acquisition, amortization, and integration expenses were $8.7 million in the quarter, compared to $5.3 million in the prior year quarter.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating margins were 7.8% in the quarter, compared to 10.5% in the prior year quarter. Adjusted operating margin increased to 10.2% in the current year quarter from 9.7% in the prior year quarter, primarily as a result of increased volume and profitability in the Company\u2019s new parts Distribution activities.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net interest expense for the quarter was $17.1 million, compared to $18.1 million last year. Average diluted share count increased from 35.4 million shares in the prior year quarter to 39.5 million shares in the current year quarter primarily due to the Company\u2019s equity offering in the second quarter of fiscal year 2026.",
+      "token_count": 81
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash flow provided by operating activities was $74.7 million during the current quarter, compared to cash used in operating activities of $18.7 million in the prior year quarter. As of February 28, 2026, net debt was $816.5 million and net leverage was 2.17x.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "1 Organic sales growth reflects growth from prior year adjusted organic sales for the relevant period, which excludes Landing Gear sales and impact of acquisitions completed in FY2026.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "AAR CORP is a global aerospace and defense aftermarket solutions company with operations in over 20 countries. Headquartered in the Chicago area, AAR CORP supports commercial and government customers through four operating segments: Parts Supply, Repair & Engineering, Integrated Solutions, and Expeditionary Services. Additional information can be found at aarcorp.com/ .",
+      "token_count": 94
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Condensed consolidated statements of operations (In millions except per share data - unaudited)",
+      "token_count": 24
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gain (Loss) related to sale and exit of businesses, net",
+      "token_count": 14
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities",
+      "token_count": 25
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Short-term borrowings (repayments) on Revolving Credit Facility, net",
+      "token_count": 17
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "token_count": 17
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash at end of period",
+      "token_count": 15
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted net income, adjusted diluted earnings per share, organic adjusted sales growth, adjusted operating margin, adjusted cash flow used in operating activities, adjusted EBITDA, adjusted EBITDA margin, net debt, and net debt to adjusted EBITDA (net leverage) are \u201cnon-GAAP financial measures\u201d as defined in Regulation G of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d). We believe these non-GAAP financial measures are relevant and useful for investors as they illustrate our core operating performance, cash flows, and leverage unaffected by the impact of certain items that management does not believe are indicative of our ongoing and core operating activities. When reviewed in conjunction with our GAAP results and the accompanying reconciliations, we believe these non-GAAP financial measures provide additional information that is useful to gain an understanding of the factors and trends affecting our business and provide a means by which to compare our operating performance and leverage against that of other companies in the industries we compete. These non-GAAP measures should be considered as a supplement to, and not as a substitute for, or superior to, the corresponding measures calculated in accordance with GAAP.",
+      "token_count": 315
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Costs associated with U.S. Foreign Corrupt Practices Act (\u201cFCPA\u201d) matters that we self-reported to the U.S. Department of Justice and other agencies, including investigation costs and settlement charges.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Expenses associated with recent acquisition activity, including professional fees for legal, due diligence, and other acquisition activities, intangible asset amortization (including amortization of favorable lease assets classified within operating lease right-of-use assets), integration costs, bargain purchase gains, and compensation expense related to contingent consideration and retention agreements.",
+      "token_count": 102
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Legal judgments and reversals related to or impacted by the Russia/Ukraine conflict.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Contract termination costs and benefits are comprised of gains and losses that are recognized at the time of modifying, terminating, or restructuring certain customer and vendor contracts, including the impact from the U.S. government exercising their termination for convenience in the first quarter of fiscal year 2025 for our Mobility Systems business\u2019s new-generation pallet contract.",
+      "token_count": 97
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Losses related to our exit from our Indian joint venture, our Landing Gear Overhaul business, and our Composites manufacturing business, including legal fees for the performance guarantee associated with the Composites\u2019 A220 aircraft contract.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted EBITDA is net income before interest income (expense), other income (expense), income taxes, depreciation and amortization, stock-based compensation, and items of an unusual nature including but not limited to business divestitures and acquisitions, FCPA settlement and investigation costs, certain legal judgments, acquisition, integration, and amortization expenses from recent acquisition activity, headquarters relocation activity, product line exits, and significant customer contract terminations.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company is not providing a reconciliation of forward-looking financial measures to the most directly comparable forward-looking GAAP measure because the information is not available without unreasonable effort. This is due to the inherent difficulty of forecasting the timing and amount of certain items, such as, but not limited to, unusual gains and losses, the ultimate outcome of pending litigation, the impact and timing of potential acquisitions and divestitures, and other structural changes or their probable significance. Each of the adjustments has not occurred, are out of the Company's control and/or cannot be reasonably predicted. For this reason, the Company is unable to address the probable significance of the unavailable information.",
+      "token_count": 189
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Pursuant to the requirements of Regulation G of the Exchange Act, we are providing the following tables that reconcile the above-mentioned non-GAAP financial measures to the most directly comparable GAAP financial measures:",
+      "token_count": 56
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Loss (Gain) related to sale of business/joint venture, net",
+      "token_count": 15
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Calculation uses estimated statutory tax rates on non-GAAP adjustments except for the impact of the non-deductible portion of the FCPA settlement charge.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Organic adjusted sales growth for the three months ended February 28, 2026",
+      "token_count": 19
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA for the year ended May 31, 2025",
+      "token_count": 12
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Less: Adjusted EBITDA for the nine months ended February 28, 2025",
+      "token_count": 17
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Plus: Adjusted EBITDA for the nine months ended February 28, 2026",
+      "token_count": 17
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA for the twelve months ended February 28, 2026",
+      "token_count": 16
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.008735,
+    "ret_20d": -0.088365,
+    "market_ret_20d": -0.047117
+  },
+  "outcome_blind": true
+}

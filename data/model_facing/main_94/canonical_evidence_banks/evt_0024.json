@@ -1,0 +1,50 @@
+{
+  "event_id": "evt_0024",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AbbVie Inc.",
+  "ticker": "ABBV",
+  "company_alias": "AbbVie Inc.",
+  "masked_company": "Company AA",
+  "sector": "Health Care",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-04-03",
+  "accepted_at_et": "2026-04-03T16:05:55-04:00",
+  "source_packet_path": "source_packets/evt_0024.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "(in millions, except per share data) Quarter Ended March 31, 2026 Full-Year Ended December 31, 2026 Acquired IPR&D and Milestones Expense Adjusted Diluted EPS Range Acquired IPR&D and Milestones Expense Adjusted Diluted EPS Range Low High Low High Previously announced guidance excluding Q1 2026 acquired IPR&D and milestones expense $ \u2014 $ 2.97 $ 3.01 $ \u2014 $ 14.37 $ 14.57 Q1 2026 acquired IPR&D and milestones expense 744 (0.41) (0.41) 744 (0.41) (0.41) Guidance including Q1 2026 acquired IPR&D and milestones expense a $ 744 $ 2.56 $ 2.60 $ 744 $ 13.96 $ 14.16",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "(in millions, except per share data) Quarter Ended March 31, 2026 Full-Year Ended December 31, 2026 Acquired IPR&D and Milestones Expense Adjusted Diluted EPS Range Acquired IPR&D and Milestones Expense Adjusted Diluted EPS Range Low High Low High Previously announced guidance...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "a The Company's 2026 adjusted diluted EPS guidance excludes any impact from acquired IPR&D and milestones expense that may be incurred beyond the first quarter of 2026, as both cannot be reliably forecasted.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "a The Company's 2026 adjusted diluted EPS guidance excludes any impact from acquired IPR&D and milestones expense that may be incurred beyond the first quarter of 2026, as both cannot be reliably forecasted.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.010799, ret_20d=-0.101184, market_ret_20d=-0.03477",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.010799, ret_20d=-0.101184, market_ret_20d=-0.03477",
+      "support_label": "supported"
+    }
+  ]
+}

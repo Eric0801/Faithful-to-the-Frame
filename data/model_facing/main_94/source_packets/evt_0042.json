@@ -1,0 +1,146 @@
+{
+  "event_id": "evt_0042",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CSX CORP",
+  "ticker": "CSX",
+  "company_alias": "CSX CORP",
+  "masked_company": "Company AV",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-22",
+  "filing_metadata": {
+    "cik": "277948",
+    "accession_number": "0000277948-26-000003",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-22T11:01:20-05:00",
+    "event_date": "2026-01-22",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "JACKSONVILLE, Fla. \u2013 2026-01-22T11:01:20-05:00 \u2013 CSX CORP. (NASDAQ:CSX) today announced fourth quarter 2025 operating income of $1.11 billion and net earnings of $720 million, or $0.39 per share. Fourth quarter operating income and earnings per share include approximately $50 million and $0.02, respectively, in expenses related to severance and rationalization of specific technology investments. In the fourth quarter of 2024, the company reported operating income of $1.11 billion and net earnings of $733 million, or $0.38 per share. Excluding a pre-tax, non-cash goodwill impairment charge, adjusted operating income was $1.21 billion and adjusted net earnings were $815 million, or $0.42 per share, in the prior year quarter. 1",
+      "token_count": 184
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u201cOur quarterly results reflect the subdued industrial demand environment and actions taken to adjust our cost structure,\u201d said Steve Angel, president and chief executive officer. \u201cCSX CORP has a strong operational foundation, and we are positioned to deliver improved financial performance in 2026 as we focus on driving productivity, cost control, and capital discipline while continuing to provide safe and reliable service.\u201d",
+      "token_count": 108
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fourth Quarter Financia l Highlights 1",
+      "token_count": 10
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue totaled $3.51 billion for the quarter, decreasing 1% year-over-year, as the effects of lower merchandise volume and reduced export coal revenue offset higher pricing in merchandise and intermodal, an increase in intermodal volume, and higher fuel surcharge revenue.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating income was $1.11 billion, compared to adjusted operating income of $1.21 billion in the prior year. Operating margin was 31.6%, compared to operating margin of 31.3% and adjusted operating margin of 34.3% in the fourth quarter of 2024.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 EPS was $0.39, compared to adjusted EPS of $0.42 in the prior year.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Fourth quarter operating income and EPS include $50 million and $0.02, respectively, in severance and technology rationalization expense.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Full Year 2025 Financia l Highlights 1",
+      "token_count": 10
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue totaled $14.09 billion in 2025.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating income was $4.52 billion, and adjusted operating income was $4.69 billion, excluding a $164 million goodwill impairment charge in the third quarter. CSX CORP\u2019s operating margin was 32.1% for the full year, and adjusted operating margin was 33.2%.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 EPS was $1.54, and adjusted EPS was $1.61.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "This earnings announcement, as well as additional detailed financial information, is contained in the CSX CORP Quarterly Financial Report available through the company\u2019s website at http://investors.CSX CORP.com and on Form 8-K with the Securities and Exchange Commission.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "1 See the Non-GAAP Measures section of the quarterly financial report for non-GAAP reconciliations and additional information.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "CSX CORP, based in Jacksonville, Florida, is a premier transportation company. It provides rail, intermodal and rail-to-truck transload services and solutions to customers across a broad array of markets, including energy, industrial, construction, agricultural, and consumer products. For nearly 200 years, CSX CORP has played a critical role in the nation's economic expansion and industrial development. Its network connects every major metropolitan area in the eastern United States, where nearly two-thirds of the nation's population resides. It also links more than 240 short-line railroads and more than 70 ocean, river and lake ports with major population centers and farming towns alike.",
+      "token_count": 175
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "This announcement, as well as additional financial information, is available on the company's website at http://investors.CSX CORP.com . CSX CORP also uses social media channels to communicate information about the company. Although social media channels are not intended to be the primary method of disclosure for material information, it is possible that certain information CSX CORP posts on social media could be deemed to be material. Therefore, we encourage investors, the media, and others interested in the company to review the information we post on X, formerly known as Twitter, ( http://twitter.com/CSX CORP ) and on Facebook ( http://www.facebook.com/OfficialCSX ). The social media channels used by CSX CORP may be updated from time to time. More information about CSX CORP Corporation and its subsidiaries is available at www.CSX CORP.com.",
+      "token_count": 217
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "CSX CORP reports its financial results in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). CSX CORP also uses certain non-GAAP measures that fall within the meaning of Securities and Exchange Commission Regulation G and Regulation S-K Item 10(e), which may provide users of the financial information with additional meaningful comparison to prior reported results. Non-GAAP measures do not have standardized definitions and are not defined by U.S. GAAP. Therefore, CSX CORP\u2019s non-GAAP measures are unlikely to be comparable to similar measures presented by other companies. The presentation of these non-GAAP measures should not be considered in isolation from, as a substitute for, or as superior to the financial information presented in accordance with GAAP.",
+      "token_count": 205
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.02526,
+    "ret_20d": 0.000822,
+    "market_ret_20d": 0.007067
+  },
+  "outcome_blind": true
+}

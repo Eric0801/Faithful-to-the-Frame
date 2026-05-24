@@ -1,0 +1,798 @@
+{
+  "event_id": "evt_0005",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Hilton Worldwide Holdings Inc.",
+  "ticker": "HLT",
+  "company_alias": "Hilton Worldwide Holdings Inc.",
+  "masked_company": "Company AD",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-11",
+  "filing_metadata": {
+    "cik": "1585689",
+    "accession_number": "0001585689-26-000005",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-11T06:01:15-05:00",
+    "event_date": "2026-02-11",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Investor Contact 7930 Jones Branch Drive Charlie Ruehr McLean, VA 22102 +1 703 883 1000 ir.Hilton Worldwide Holdings Inc..com Media Contact Kent Landers +1 703 883 3246",
+      "token_count": 37
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "MCLEAN, VA (2026-02-11T06:01:15-05:00) - Hilton Worldwide Holdings Inc.. (\"Hilton Worldwide Holdings Inc.,\" \"the Company,\" \"we,\" \"us\" or \"our\") (NYSE:HLT) today reported its fourth quarter and full year 2025 results. Highlights include:",
+      "token_count": 49
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Diluted EPS was $1.27 for the fourth quarter and $6.12 for the full year",
+      "token_count": 19
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Diluted EPS, adjusted for special items, was $2.08 for the fourth quarter and $8.11 for the full year",
+      "token_count": 26
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net income was $298 million for the fourth quarter and $1,461 million for the full year",
+      "token_count": 23
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Adjusted EBITDA was $946 million for the fourth quarter and $3,725 million for the full year",
+      "token_count": 24
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 System-wide comparable RevPAR increased 0.5 percent and 0.4 percent, on a currency neutral basis, for the fourth quarter and full year, respectively, compared to the same periods in 2024",
+      "token_count": 47
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Approved 37,400 new rooms for development during the fourth quarter, bringing our development pipeline to a record 520,500 rooms as of December 31, 2025, representing growth of 4 percent from December 31, 2024",
+      "token_count": 53
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Added 26,000 rooms to our system in the fourth quarter, resulting in 97,000 room openings for the full year, contributing to net unit growth of 6.7 percent from December 31, 2024",
+      "token_count": 45
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Issued $1.0 billion aggregate principal amount of 5.500% Senior Notes due 2034 in December 2025",
+      "token_count": 25
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Announced the launch of a new brand, Apartment Collection by Hilton Worldwide Holdings Inc., in January 2026",
+      "token_count": 23
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Expanded Hilton Worldwide Holdings Inc. Honors Adventures in December 2025, welcoming Explora Journeys as the second partner, following AutoCamp in 2024, and expanding into luxury ocean travel",
+      "token_count": 44
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Repurchased 2.8 million shares of Hilton Worldwide Holdings Inc. common stock during the fourth quarter, bringing total capital return, including dividends, to $792 million for the quarter and $3.3 billion for the full year",
+      "token_count": 52
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Full year 2026 system-wide RevPAR is projected to increase between 1.0 percent and 2.0 percent on a comparable and currency neutral basis compared to 2025; full year net income is projected to be between $1,982 million and $2,011 million; full year Adjusted EBITDA is projected to be between $4,000 million and $4,040 million",
+      "token_count": 82
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Full year 2026 capital return is projected to be approximately $3.5 billion",
+      "token_count": 20
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Net unit growth for 2026 is expected to be between 6.0% and 7.0%",
+      "token_count": 17
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Christopher J. Nassetta, President & Chief Executive Officer of Hilton Worldwide Holdings Inc., said, \"We delivered another quarter of strong bottom-line results, demonstrating the continued strength of our business model. As we look ahead to 2026, we are increasingly optimistic about the tailwinds building, including improving demand patterns, driven by broader macroeconomic growth and major global and domestic events, which, when paired with limited supply growth, should result in stronger RevPAR performance. The quality of our development pipeline, the introduction of our exciting new brands and partnerships, as well as the continued growth in the presence of our existing brands globally, give us confidence in delivering net unit growth between 6.0 percent and 7.0 percent in 2026 and beyond.\"",
+      "token_count": 197
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "For the three months ended December 31, 2025, system-wide comparable RevPAR increased 0.5 percent compared to the same period in 2024 due to an increase in ADR, partially offset by modest occupancy declines. Management and franchise fee revenues increased 7.4 percent compared to the same period in 2024.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "For the year ended December 31, 2025, system-wide comparable RevPAR increased 0.4 percent compared to the same period in 2024 due to an increase in ADR. Management and franchise fee revenues increased 6.4 percent compared to the same period in 2024.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "For the three months ended December 31, 2025, diluted EPS was $1.27 and diluted EPS, adjusted for special items, was $2.08, compared to $2.06 and $1.76, respectively, for the three months ended December 31, 2024. Net income and Adjusted EBITDA were $298 million and $946 million, respectively, for the three months ended December 31, 2025, compared to $505 million and $858 million, respectively, for the three months ended December 31, 2024.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "For the year ended December 31, 2025, diluted EPS was $6.12 and diluted EPS, adjusted for special items, was $8.11, compared to $6.14 and $7.12, respectively, for the year ended December 31, 2024. Net income and Adjusted EBITDA were $1,461 million and $3,725 million, respectively, for the year ended December 31, 2025, compared to $1,539 million and $3,429 million, respectively, for the year ended December 31, 2024.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In the fourth quarter of 2025, we opened 190 hotels, totaling 26,000 rooms, resulting in 21,300 net room additions. Notable openings included the Waldorf Astoria Shanghai Qiantan in China and over 10 Tapestry Collection hotels, including the Anise Aluma Athens, Tapestry Collection by Hilton Worldwide Holdings Inc. in Greece and the Diyar Ajwa, Tapestry Collection by Hilton Worldwide Holdings Inc. in Saudi Arabia, continuing the expansion of the lifestyle brand across the globe. We expect to continue to see our Tapestry brand grow, with nearly 20 signings in the fourth quarter. Other notable lifestyle openings include the Canopy by Hilton Worldwide Holdings Inc. Istanbul Taksim and the Canopy by Hilton Worldwide Holdings Inc. Izmir Bomonti, representing the brand's first hotels in T\u00fcrkiye. We also introduced our first Outset Collection by Hilton Worldwide Holdings Inc. hotels with the openings of the Slackline Moab and ACME Hotel Chicago. In January 2026, we announced the launch of our new brand, Apartment Collection by Hilton Worldwide Holdings Inc., which will initially add as many as 3,000 incremental units to our already established base of apartment-style units in our system, with bookings starting in the first half of 2026.",
+      "token_count": 282
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "We added 37,400 rooms to the development pipeline during the fourth quarter, and, as of December 31, 2025, our development pipeline totaled 3,703 hotels representing 520,500 rooms throughout 129 countries and territories, including 26 countries and territories where we had no existing hotels. Additionally, of the rooms in the development pipeline, almost half were under construction and more than half were located outside of the U.S.",
+      "token_count": 110
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "As of December 31, 2025, we had $12.5 billion of debt outstanding, excluding the deduction for unamortized deferred financing costs and discount, with a weighted average interest rate of 4.76 percent. Excluding all finance lease liabilities, we had $12.1 billion of debt outstanding with a weighted average interest rate of 4.76 percent and no material indebtedness that matures prior to April 2027. We believe that we have sufficient sources of liquidity and access to debt markets to address the repayment of all indebtedness that becomes due at or prior to the respective maturity dates.",
+      "token_count": 148
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "In December 2025, we issued $1.0 billion aggregate principal amount of 5.500% Senior Notes due 2034 and used a portion of the net proceeds to redeem all $500 million in aggregate principal amount of the 5.750% Senior Notes due 2028, plus accrued and unpaid interest. No borrowings were outstanding under our Revolving Credit Facility as of December 31, 2025, which had an available borrowing capacity of $1,894 million after considering $106 million of letters of credit outstanding. Total cash and cash equivalents were $970 million as of December 31, 2025, including $52 million of restricted cash and cash equivalents.",
+      "token_count": 156
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "In December 2025, we paid a quarterly cash dividend of $0.15 per share of common stock, for a total payment of $35 million, bringing total dividend payments for the year to $143 million. In February 2026, our board of directors authorized a regular quarterly cash dividend of $0.15 per share of common stock to be paid on March 31, 2026 to holders of record of our common stock as of the close of business on February 27, 2026.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "During the three months ended December 31, 2025, we repurchased 2.8 million shares of Hilton Worldwide Holdings Inc. common stock at an average price per share of $272.40, for a total of $757 million. During the year ended December 31, 2025, we repurchased 12.5 million shares of Hilton Worldwide Holdings Inc. common stock at an average price per share of $253.71, returning $3.3 billion of capital to shareholders,",
+      "token_count": 94
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "including dividends. The amount authorized remaining under our stock repurchase program as of December 31, 2025 was approximately $1.3 billion. In January 2026, our board of directors authorized an additional $3.5 billion for share repurchases under our stock repurchase program.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The number of shares outstanding as of February 6, 2026 was 229.3 million.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Share-based metrics in Hilton Worldwide Holdings Inc.'s outlook include actual share repurchases through the fourth quarter but do not include the effects of potential share repurchases thereafter.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 System-wide comparable RevPAR, on a currency neutral basis, is projected to increase between 1.0 percent and 2.0 percent compared to 2025.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted EPS is projected to be between $8.49 and $8.61.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted EPS, adjusted for special items, is projected to be between $8.65 and $8.77.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Net income is projected to be between $1,982 million and $2,011 million.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Adjusted EBITDA is projected to be between $4,000 million and $4,040 million.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Contract acquisition costs and capital expenditures, excluding amounts reimbursed by third parties, are projected to be approximately $300 million.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Capital return is projected to be approximately $3.5 billion.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 General and administrative expenses are projected to be approximately $400 million.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Net unit growth is projected to be between 6.0 percent and 7.0 percent.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 System-wide comparable RevPAR, on a currency neutral basis, is projected to increase between 1.0 percent and 2.0 percent compared to the first quarter of 2025.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted EPS is projected to be between $1.87 and $1.93.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted EPS, adjusted for special items, is projected to be between $1.91 and $1.97.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Net income is projected to be between $436 million and $450 million.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Adjusted EBITDA is projected to be between $875 million and $895 million.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "See the \"Definitions\" section for the definition of certain terms used within this press release, including within the schedules.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We refer to certain financial measures that are not recognized under U.S. generally accepted accounting principles (\"GAAP\") in this press release, including: net income, adjusted for special items; diluted EPS, adjusted for special items; Adjusted EBITDA; Adjusted EBITDA margin; net debt; and net debt to Adjusted EBITDA ratio. See the schedules to this press release, including the \"Definitions\" section, for additional information and reconciliations of such non-GAAP financial measures, as well as the most comparable GAAP financial measures.",
+      "token_count": 137
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Hilton Worldwide Holdings Inc. (NYSE:HLT) is a leading global hospitality company with a portfolio of 26 world-class brands comprising more than 9,100 properties and over 1.3 million rooms, in 143 countries and territories. Dedicated to fulfilling its founding vision to fill the earth with the light and warmth of hospitality, Hilton Worldwide Holdings Inc. has welcomed over 4 billion guests in its more than 100-year history. Named as the No. 1 World's Best Workplace by Great Place to Work and Fortune, Hilton Worldwide Holdings Inc. aims to create the best culture for its 500,000 team members around the world. Hilton Worldwide Holdings Inc. has introduced industry-leading technology enhancements to improve the guest experience, including Digital Key Share, automated complimentary room upgrades and the ability to book confirmed connecting rooms. Through the award-winning guest loyalty program Hilton Worldwide Holdings Inc. Honors, the more than 243 million Hilton Worldwide Holdings Inc. Honors members who book directly with Hilton Worldwide Holdings Inc. can earn Points for hotel stays and experiences money can't buy. With the free Hilton Worldwide Holdings Inc. Honors app, guests can book their stay, select their room, check in, unlock their door with a Digital Key and check out, all from their smartphone. Visit stories.Hilton Worldwide Holdings Inc..com for more information, and connect with Hilton Worldwide Holdings Inc. on facebook.com/hiltonnewsroom , x.com/hiltonnewsroom , linkedin.com/company/Hilton Worldwide Holdings Inc. , instagram.com/hiltonnewsroom and youtube.com/@Hilton Worldwide Holdings Inc. .",
+      "token_count": 351
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Page Condensed Consolidated Statements of Operations 6 Comparable and Currency Neutral System-Wide Hotel Operating Statistics 7 Property Summary 9 Capital Expenditures and Contract Acquisition Costs 10 Reconciliations of Non-GAAP Financial Measures 11 Definitions 16",
+      "token_count": 67
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Revenues Franchise and licensing fees $ 671 $ 642 $ 2,780 $ 2,600 Base and other management fees 98 82 376 369 Incentive management fees 101 86 313 290 Ownership 345 333 1,233 1,255 Other revenues 65 53 252 232 1,280 1,196 4,954 4,746 Cost reimbursement revenues 1,807 1,587 7,085 6,428 Total revenues 3,087 2,783 12,039 11,174 Expenses Ownership 292 293 1,094 1,126 Depreciation and amortization 47 39 177 146 General and administrative 95 97 393 415 Other expenses 57 44 132 137 491 473 1,796 1,824 Reimbursed expenses 1,994 1,821 7,550 6,985 Total expenses 2,485 2,294 9,346 8,809 Gain on sales of assets, net \u2014 \u2014 \u2014 5 Operating income 602 489 2,693 2,370 Interest expense (165) (157) (620) (569) Loss on foreign currency transactions (3) (7) (11) (12) Other non-operating income (loss), net (5) 11 10 (6) Income before income taxes 429 336 2,072 1,783 Income tax benefit (expense) (131) 169 (611) (244) Net income 298 505 1,461 1,539 Net income attributable to redeemable and nonredeemable noncontrolling interests (1) \u2014 (4) (4) Net income attributable to Hilton Worldwide Holdings Inc. stockholders $ 297 $ 505 $ 1,457 $ 1,535 Weighted average shares outstanding: Basic 232 243 236 248 Diluted 234 246 238 250 Earnings per share: Basic $ 1.28 $ 2.08 $ 6.18 $ 6.20 Diluted $ 1.27 $ 2.06 $ 6.12 $ 6.14 Cash dividends declared per share $ 0.15 $ 0.15 $ 0.60 $ 0.60",
+      "token_count": 356
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended December 31, Occupancy ADR RevPAR 2025 vs. 2024 2025 vs. 2024 2025 vs. 2024 System-wide 69.6 % (0.3) % pts. $ 159.25 0.9 % $ 110.89 0.5 % Region U.S. 68.8 % (0.9) % pts. $ 166.53 (0.2) % $ 114.57 (1.6) % Americas (excluding U.S.) 67.2 1.2 153.44 2.0 103.12 3.8 Europe 75.1 1.5 170.11 3.1 127.82 5.3 Middle East & Africa 78.7 2.8 216.59 11.8 170.35 15.9 Asia Pacific 69.4 0.5 108.70 2.8 75.46 3.5 Brand (1) Waldorf Astoria Hotels & Resorts 69.7 % 4.0 % pts. $ 484.11 5.6 % $ 337.55 12.1 % Conrad Hotels & Resorts 77.8 3.3 294.35 3.8 229.10 8.4 LXR Hotels & Resorts 66.5 8.6 483.71 10.9 321.50 27.4 Canopy by Hilton Worldwide Holdings Inc. 74.0 2.4 227.96 (1.0) 168.74 2.3 Hilton Worldwide Holdings Inc. Hotels & Resorts 69.9 1.0 195.09 1.7 136.31 3.2 Curio Collection by Hilton Worldwide Holdings Inc. 71.3 0.7 243.58 2.4 173.65 3.4 DoubleTree by Hilton Worldwide Holdings Inc. 67.2 (0.4) 146.26 1.6 98.26 1.0 Tapestry Collection by Hilton Worldwide Holdings Inc. 66.8 0.8 184.80 0.6 123.40 1.8 Embassy Suites by Hilton Worldwide Holdings Inc. 70.7 (1.1) 177.28 (1.1) 125.38 (2.6) Motto by Hilton Worldwide Holdings Inc. 85.1 1.1 273.83 2.3 232.96 3.6 Hilton Worldwide Holdings Inc. Garden Inn 67.8 (0.9) 141.06 (0.5) 95.65 (1.8) Hampton by Hilton Worldwide Holdings Inc. 68.6 (1.0) 126.42 (0.8) 86.78 (2.2) Tru by Hilton Worldwide Holdings Inc. 68.0 (1.4) 121.82 (2.2) 82.79 (4.2) Homewood Suites by Hilton Worldwide Holdings Inc. 75.4 (0.9) 154.61 (1.1) 116.65 (2.2) Home2 Suites by Hilton Worldwide Holdings Inc. 73.4 (0.5) 133.32 \u2014 97.81 (0.7) Segment Management and franchise 69.5 % (0.3) % pts. $ 158.10 0.8 % $ 109.84 0.3 % Ownership (2) 81.9 3.0 238.78 3.0 195.61 6.9",
+      "token_count": 364
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Year Ended December 31, Occupancy ADR RevPAR 2025 vs. 2024 2025 vs. 2024 2025 vs. 2024 System-wide 71.5 % (0.1) % pts. $ 159.89 0.5 % $ 114.39 0.4 % Region U.S. 72.0 % (0.5) % pts. $ 169.28 \u2014 % $ 121.91 (0.8) % Americas (excluding U.S.) 68.3 0.5 153.79 4.4 105.06 5.1 Europe 74.3 0.8 168.43 1.8 125.13 2.9 Middle East & Africa 72.8 4.2 192.15 5.0 139.89 11.5 Asia Pacific 68.7 0.4 104.62 0.5 71.86 1.1 Brand (1) Waldorf Astoria Hotels & Resorts 65.1 % 4.0 % pts. $ 467.39 3.1 % $ 304.14 9.7 % Conrad Hotels & Resorts 75.6 2.3 276.54 2.0 209.10 5.1 LXR Hotels & Resorts 60.3 5.0 489.67 0.2 295.34 9.2 Canopy by Hilton Worldwide Holdings Inc. 73.6 2.2 227.75 (0.9) 167.67 2.1 Hilton Worldwide Holdings Inc. Hotels & Resorts 70.5 0.5 193.00 1.1 135.98 1.8 Curio Collection by Hilton Worldwide Holdings Inc. 71.9 1.9 240.77 1.1 173.15 3.8 DoubleTree by Hilton Worldwide Holdings Inc. 68.9 (0.1) 145.70 0.9 100.35 0.7 Tapestry Collection by Hilton Worldwide Holdings Inc. 68.2 0.3 186.52 0.9 127.30 1.3 Embassy Suites by Hilton Worldwide Holdings Inc. 73.8 (0.9) 184.36 (0.4) 136.05 (1.6) Motto by Hilton Worldwide Holdings Inc. 83.0 2.0 226.28 0.8 187.85 3.3 Hilton Worldwide Holdings Inc. Garden Inn 70.4 (0.3) 143.09 (0.5) 100.68 (0.9) Hampton by Hilton Worldwide Holdings Inc. 71.1 (0.6) 130.00 (0.3) 92.38 (1.2) Tru by Hilton Worldwide Holdings Inc. 71.3 (0.4) 127.68 (1.4) 91.04 (2.0) Homewood Suites by Hilton Worldwide Holdings Inc. 78.6 (0.5) 159.47 (0.5) 125.39 (1.1) Home2 Suites by Hilton Worldwide Holdings Inc. 76.2 (0.4) 137.20 0.2 104.54 (0.3) Segment Management and franchise 71.5 % (0.1) % pts. $ 159.02 0.5 % $ 113.64 0.3 % Ownership (2) 78.1 2.0 224.80 2.1 175.47 4.8",
+      "token_count": 361
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Excludes brands for which a significant number of the hotels were designated as non-comparable hotels as of the end of the period so as to make comparative statistics for such brand not meaningful.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Includes hotels owned or leased by entities in which we own a noncontrolling financial interest.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Ownership (1) Managed Franchised / Licensed Total Properties Rooms Properties Rooms Properties Rooms Properties Rooms Waldorf Astoria Hotels & Resorts 2 463 37 9,225 \u2014 \u2014 39 9,688 Conrad Hotels & Resorts 1 164 44 14,121 5 2,779 50 17,064 LXR Hotels & Resorts \u2014 \u2014 7 1,155 11 1,788 18 2,943 NoMad \u2014 \u2014 1 91 \u2014 \u2014 1 91 Signia by Hilton Worldwide Holdings Inc. \u2014 \u2014 5 3,293 \u2014 \u2014 5 3,293 Canopy by Hilton Worldwide Holdings Inc. \u2014 \u2014 14 2,393 34 6,103 48 8,496 Hilton Worldwide Holdings Inc. Hotels & Resorts 43 14,660 309 130,725 270 83,226 622 228,611 Curio Collection by Hilton Worldwide Holdings Inc. \u2014 \u2014 31 7,720 165 30,629 196 38,349 Graduate by Hilton Worldwide Holdings Inc. \u2014 \u2014 \u2014 \u2014 35 5,881 35 5,881 DoubleTree by Hilton Worldwide Holdings Inc. \u2014 \u2014 169 45,523 546 114,615 715 160,138 Tapestry Collection by Hilton Worldwide Holdings Inc. \u2014 \u2014 8 2,479 184 21,385 192 23,864 Embassy Suites by Hilton Worldwide Holdings Inc. \u2014 \u2014 37 9,703 233 52,613 270 62,316 Tempo by Hilton Worldwide Holdings Inc. \u2014 \u2014 1 661 5 763 6 1,424 Outset Collection by Hilton Worldwide Holdings Inc. \u2014 \u2014 \u2014 \u2014 2 268 2 268 Motto by Hilton Worldwide Holdings Inc. \u2014 \u2014 \u2014 \u2014 10 2,261 10 2,261 Hilton Worldwide Holdings Inc. Garden Inn \u2014 \u2014 131 25,718 993 140,064 1,124 165,782 Hampton by Hilton Worldwide Holdings Inc. \u2014 \u2014 52 8,355 3,143 351,531 3,195 359,886 Tru by Hilton Worldwide Holdings Inc. \u2014 \u2014 14 1,565 324 31,372 338 32,937 Spark by Hilton Worldwide Holdings Inc. \u2014 \u2014 \u2014 \u2014 228 20,191 228 20,191 Homewood Suites by Hilton Worldwide Holdings Inc. \u2014 \u2014 8 1,020 551 63,223 559 64,243 Home2 Suites by Hilton Worldwide Holdings Inc. \u2014 \u2014 2 210 863 95,137 865 95,347 LivSmart Studios by Hilton Worldwide Holdings Inc. \u2014 \u2014 \u2014 \u2014 2 226 2 226 Strategic partner hotels (2) \u2014 \u2014 \u2014 \u2014 509 23,567 509 23,567 Other (3) \u2014 \u2014 3 803 12 3,278 15 4,081 Total hotels 46 15,287 873 264,760 8,125 1,050,900 9,044 1,330,947 Hilton Worldwide Holdings Inc. Grand Vacations (4) \u2014 \u2014 \u2014 \u2014 114 20,404 114 20,404 Total system 46 15,287 873 264,760 8,239 1,071,304 9,158 1,351,351 Ownership (1) Managed Franchised / Licensed Total Properties Rooms Properties Rooms Properties Rooms Properties Rooms U.S. \u2014 \u2014 180 79,351 6,031 772,231 6,211 851,582 Americas (excluding U.S.) 1 405 69 18,118 432 55,895 502 74,418 Europe 37 10,662 113 28,116 754 90,987 904 129,765 Middle East & Africa 3 1,376 120 34,437 45 6,704 168 42,517 Asia Pacific 5 2,844 391 104,738 863 125,083 1,259 232,665 Total hotels 46 15,287 873 264,760 8,125 1,050,900 9,044 1,330,947 Hilton Worldwide Holdings Inc. Grand Vacations (4) \u2014 \u2014 \u2014 \u2014 114 20,404 114 20,404 Total system 46 15,287 873 264,760 8,239 1,071,304 9,158 1,351,351",
+      "token_count": 556
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Includes hotels owned or leased by entities in which we own a noncontrolling financial interest.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Includes hotels that are included in our booking channels and participate in the Hilton Worldwide Holdings Inc. Honors guest loyalty program through strategic partnership arrangements.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) Includes other hotels in our system that are not distinguished by a specific Hilton Worldwide Holdings Inc. brand.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(4) Includes properties under our timeshare brands including Hilton Worldwide Holdings Inc. Club, Hilton Worldwide Holdings Inc. Grand Vacations Club and Hilton Worldwide Holdings Inc. Vacation Club.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Three Months Ended December 31, Increase / (Decrease) 2025 2024 $ % Capital expenditures for property and equipment (2) $ 30 $ 48 (18) (37.5) Capitalized software costs (3) 22 31 (9) (29.0) Total capital expenditures 52 79 (27) (34.2) Contract acquisition costs, net of refunds (4) 128 18 110 NM (1) Total capital expenditures and contract acquisition costs $ 180 $ 97 83 85.6",
+      "token_count": 94
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Year Ended December 31, Increase / (Decrease) 2025 2024 $ % Capital expenditures for property and equipment (2) $ 101 $ 96 5 5.2 Capitalized software costs (3) 84 102 (18) (17.6) Total capital expenditures 185 198 (13) (6.6) Contract acquisition costs, net of refunds (4) 231 105 126 NM (1) Total capital expenditures and contract acquisition costs $ 416 $ 303 113 37.3",
+      "token_count": 93
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Fluctuation in terms of percentage change is not meaningful.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Represents expenditures for hotels, corporate and other property and equipment, which include amounts reimbursed by third parties of $12 million and $16 million for the three months ended December 31, 2025 and 2024, respectively, and $49 million and $37 million for the years ended December 31, 2025 and 2024, respectively. Excludes expenditures for FF&E replacement reserves of $23 million and $19 million for the three months ended December 31, 2025 and 2024, respectively, and $73 million and $57 million for the years ended December 31, 2025 and 2024, respectively.",
+      "token_count": 144
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) Includes $20 million and $29 million of expenditures that were reimbursed to us by third parties for the three months ended December 31, 2025 and 2024, respectively, and $76 million and $95 million for the years ended December 31, 2025 and 2024, respectively.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(4) The increases during the three months and year ended December 31, 2025 were primarily due to the timing of certain strategic hotel developments supporting our growth resulting in higher contract acquisition costs during the periods.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Net income attributable to Hilton Worldwide Holdings Inc. stockholders, as reported $ 297 $ 505 $ 1,457 $ 1,535 Diluted EPS, as reported $ 1.27 $ 2.06 $ 6.12 $ 6.14 Special items: Cost reimbursement revenues (1) $ (1,807) $ (1,587) $ (7,085) $ (6,428) Reimbursed expenses (1) 1,994 1,821 7,550 6,985 Loss on debt guarantees (2) \u2014 \u2014 \u2014 50 FF&E replacement reserves 23 19 73 57 Gain on sales of assets, net \u2014 \u2014 \u2014 (5) Tax-related adjustments (3) 1 (274) 4 (278) Other adjustments (4) 40 15 80 32 Total special items before taxes 251 (6) 622 413 Income tax expense on special items (61) (67) (149) (168) Total special items after taxes $ 190 $ (73) $ 473 $ 245 Net income, adjusted for special items $ 487 $ 432 $ 1,930 $ 1,780 Diluted EPS, adjusted for special items $ 2.08 $ 1.76 $ 8.11 $ 7.12",
+      "token_count": 212
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not operate these programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures.",
+      "token_count": 103
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(2) Amount includes losses on debt guarantees for certain hotels that we manage which were recognized in other non-operating income (loss), net.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(3) Amounts for the three months and year ended December 31, 2024 primarily relate to an affirmative tax claim filed with a foreign taxing authority to increase the tax basis of certain brand assets that were part of an intercompany transfer. Amounts for all periods include income tax expenses (benefits) related to the enactment of new tax laws and certain changes in unrecognized tax benefits.",
+      "token_count": 99
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(4) Amount for the year ended December 31, 2025 includes expected future credit losses on financing receivables, which were recognized in other non-operating income (loss), net. Amounts for the years ended December 31, 2025 and 2024 include restructuring costs related to certain leased hotels which were recognized in ownership expenses. Amount for the year ended December 31, 2024 also includes transaction costs incurred for acquisitions, which were recognized in general and administrative expenses, and transaction costs resulting from the amendment of our senior secured term loan facility (the \"Term Loans\") which were recognized in other non-operating income (loss), net. Amounts for all periods include losses for the full or partial settlement of certain pension plans which were recognized in other non-operating income (loss), net, severance and other items, including non-cash charges, such as net losses (gains) related to certain of our investments in unconsolidated affiliates which were recognized in other non-operating income (loss), net, as well as the amortization expense related to finite-lived intangible assets that were recorded at fair value in 2007 when the Company became a wholly owned subsidiary of affiliates of Blackstone Inc., which was recognized in depreciation and amortization expenses.",
+      "token_count": 331
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Net income $ 298 $ 505 $ 1,461 $ 1,539 Interest expense 165 157 620 569 Income tax expense (benefit) 131 (169) 611 244 Depreciation and amortization expenses 47 39 177 146 Gain on sales of assets, net \u2014 \u2014 \u2014 (5) Loss on foreign currency transactions 3 7 11 12 Loss on debt guarantees (1) \u2014 \u2014 \u2014 50 FF&E replacement reserves 23 19 73 57 Share-based compensation expense 35 36 170 176 Amortization of contract acquisition costs 15 13 57 50 Cost reimbursement revenues (2) (1,807) (1,587) (7,085) (6,428) Reimbursed expenses (2) 1,994 1,821 7,550 6,985 Other adjustments (3) 42 17 80 34 Adjusted EBITDA $ 946 $ 858 $ 3,725 $ 3,429",
+      "token_count": 176
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(1) Amount includes losses on debt guarantees for certain hotels that we manage which were recognized in other non-operating income (loss), net.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not operate these programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures.",
+      "token_count": 103
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(3) Amount for the year ended December 31, 2025 includes expected future credit losses on financing receivables. Amounts for the years ended December 31, 2025 and 2024 include restructuring costs related to certain leased hotels. Amount for the year ended December 31, 2024 also includes transaction costs resulting from the amendment of our Term Loans and transaction costs incurred for acquisitions. Amounts for all periods include losses for the full or partial settlement of certain pension plans, severance and other items, including non-cash charges, such as net losses (gains) related to certain of our investments in unconsolidated affiliates.",
+      "token_count": 163
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Total revenues, as reported $ 3,087 $ 2,783 $ 12,039 $ 11,174 Add: amortization of contract acquisition costs 15 13 57 50 Less: cost reimbursement revenues (1) (1,807) (1,587) (7,085) (6,428) Total revenues, as adjusted $ 1,295 $ 1,209 $ 5,011 $ 4,796 Net income $ 298 $ 505 $ 1,461 $ 1,539 Net income margin 9.7 % 18.2 % 12.1 % 13.8 % Adjusted EBITDA $ 946 $ 858 $ 3,725 $ 3,429 Adjusted EBITDA margin 73.0 % 71.0 % 74.4 % 71.5 %",
+      "token_count": 127
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Amounts include revenues from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not operate these programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures.",
+      "token_count": 104
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "December 31, 2025 2024 Long-term debt, including current maturities $ 12,363 $ 11,151 Add: unamortized deferred financing costs and discount 96 85 Long-term debt, including current maturities and excluding the deduction for unamortized deferred financing costs and discount 12,459 11,236 Less: cash and cash equivalents (918) (1,301) Less: restricted cash and cash equivalents (52) (75) Net debt $ 11,489 $ 9,860 Net income $ 1,461 $ 1,539 Long-term debt to net income ratio 8.5 7.2 Adjusted EBITDA $ 3,725 $ 3,429 Net debt to Adjusted EBITDA ratio 3.1 2.9",
+      "token_count": 139
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Three Months Ending March 31, 2026 Low Case High Case Net income attributable to Hilton Worldwide Holdings Inc. stockholders $ 435 $ 449 Diluted EPS (1) $ 1.87 $ 1.93 Special items (2) : FF&E replacement reserves $ 11 $ 11 Other adjustments 1 1 Total special items before taxes 12 12 Income tax expense on special items (3) (3) Total special items after taxes $ 9 $ 9 Net income, adjusted for special items $ 444 $ 458 Diluted EPS, adjusted for special items (1) $ 1.91 $ 1.97",
+      "token_count": 114
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Year Ending December 31, 2026 Low Case High Case Net income attributable to Hilton Worldwide Holdings Inc. stockholders $ 1,979 $ 2,008 Diluted EPS (1) $ 8.49 $ 8.61 Special items (2) : FF&E replacement reserves $ 43 $ 43 Other adjustments 5 5 Total special items before taxes 48 48 Income tax expense on special items (10) (10) Total special items after taxes $ 38 $ 38 Net income, adjusted for special items $ 2,017 $ 2,046 Diluted EPS, adjusted for special items (1) $ 8.65 $ 8.77 ____________",
+      "token_count": 119
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Does not include the effect of share repurchases made after December 31, 2025.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(2) See \"\u2014Net Income and Diluted EPS, Adjusted for Special Items\" for details of these special items.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Three Months Ending March 31, 2026 Low Case High Case Net income $ 436 $ 450 Interest expense 164 164 Income tax expense 159 165 Depreciation and amortization expenses 48 48 FF&E replacement reserves 11 11 Share-based compensation expense 40 40 Amortization of contract acquisition costs 16 16 Other adjustments (1) 1 1 Adjusted EBITDA $ 875 $ 895",
+      "token_count": 87
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Year Ending December 31, 2026 Low Case High Case Net income $ 1,982 $ 2,011 Interest expense 720 720 Income tax expense 791 802 Depreciation and amortization expenses 201 201 FF&E replacement reserves 43 43 Share-based compensation expense 192 192 Amortization of contract acquisition costs 65 65 Other adjustments (1) 6 6 Adjusted EBITDA $ 4,000 $ 4,040 ____________",
+      "token_count": 92
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) See \"\u2014Net Income Margin and Adjusted EBITDA and Adjusted EBITDA Margin\" for details of these adjustments.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net Income (Loss), Adjusted for Special Items, and Diluted EPS, Adjusted for Special Items",
+      "token_count": 23
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net income (loss), adjusted for special items is calculated as net income (loss) attributable to Hilton Worldwide Holdings Inc. stockholders, as reported, plus total special items after taxes. Net income (loss), adjusted for special items, and diluted earnings (loss) per share (\"EPS\"), adjusted for special items, are not recognized terms under GAAP and should not be considered as alternatives to net income (loss), diluted EPS or other measures of financial performance or liquidity derived in accordance with GAAP. In addition, our definition of net income (loss), adjusted for special items, and diluted EPS, adjusted for special items, may not be comparable to similarly titled measures of other companies.",
+      "token_count": 173
+    },
+    {
+      "source_id": "S086",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net income (loss), adjusted for special items, and diluted EPS, adjusted for special items, are included to assist investors in performing meaningful comparisons of past, present and future operating results and as a means of highlighting the results of our ongoing operations.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S087",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted EBITDA, Net Income (Loss) Margin and Adjusted EBITDA Margin",
+      "token_count": 17
+    },
+    {
+      "source_id": "S088",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted EBITDA is calculated as net income (loss), excluding interest expense, a provision for income tax benefit (expense) and depreciation and amortization expenses, as well as gains, losses, revenues and expenses earned or incurred in connection with: (i) asset dispositions for both consolidated and unconsolidated investments; (ii) foreign currency transactions; (iii) debt restructurings and retirements; (iv) furniture, fixtures and equipment (\"FF&E\") replacement reserves required under certain lease agreements; (v) share-based compensation; (vi) reorganization, severance, relocation and other expenses; (vii) non-cash impairment; (viii) amortization of contract acquisition costs; (ix) cost reimbursement revenues and reimbursed expenses; and (x) other items .",
+      "token_count": 193
+    },
+    {
+      "source_id": "S089",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net income (loss) margin represents net income (loss) as a percentage of total revenues. Adjusted EBITDA margin represents Adjusted EBITDA as a percentage of total revenues, adjusted to exclude the amortization of contract acquisition costs and cost reimbursement revenues.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S090",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We believe that Adjusted EBITDA and Adjusted EBITDA margin provide useful information to investors about us and our financial condition and results of operations for the following reasons: (i) these measures are used by our management team to evaluate our operating performance and make day-to-day operating decisions and (ii) these measures are frequently used by securities analysts, investors and other interested parties as a common performance measure to compare results or estimate valuations across companies in our industry. Additionally, these measures exclude certain items that can vary widely across different industries and among competitors within our industry. For instance, interest expense and income taxes are dependent on company specifics, including, among other things, capital structure and operating jurisdictions, respectively, and, therefore, could vary significantly across companies. Depreciation and amortization expenses, as well as amortization of contract acquisition costs, are dependent upon company policies, including the method of acquiring and depreciating assets and the useful lives that are assigned to those depreciating or amortizing assets for accounting purposes. We also exclude items such as: (i) FF&E replacement reserves for leased hotels to be consistent with the treatment of capital expenditures for property and equipment, where depreciation of such capitalized assets is reported within depreciation and amortization expenses; (ii) share-based compensation, as this could vary widely among companies due to the different plans in place and the usage of them; and (iii) other items that are not reflective of our operating performance, such as amounts related to debt restructurings and debt retirements and reorganization and related severance costs, to enhance period-over-period comparisons of our ongoing operations. Further, Adjusted EBITDA excludes both cost reimbursement revenues and reimbursed expenses as we contractually do not operate the related programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures. The direct reimbursements from property owners are billable and reimbursable as the costs are incurred and have no net effect on net income (loss) in the reporting period. The indirect reimbursements from property owners are typically billed and collected monthly, based on the underlying hotel's sales or usage (e.g., gross room revenue or number of reservations processed), while the associated costs are recognized as incurred by Hilton Worldwide Holdings Inc., creating timing differences, with the net effect impacting net income (loss) in the reporting period. These timing differences are due to our discretion to spend in excess of revenues earned or less than revenues earned in a single period to ensure that the programs are operated in the best long-term interests of our property owners. However, over the life of the operation of these programs, the expenses incurred related to the indirect reimbursements are designed to equal the revenues earned from the indirect reimbursements over time such that, in the long term, the programs will not earn a profit or generate a loss and do not impact our economics, either positively or negatively. Therefore, the net effect of our reimbursed revenues and expenses is not used by management to evaluate our operating performance, determine executive compensation or make other operating decisions, and we exclude their impact when evaluating period over period performance results.",
+      "token_count": 889
+    },
+    {
+      "source_id": "S091",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted EBITDA and Adjusted EBITDA margin are not recognized terms under GAAP and should not be considered as alternatives, either in isolation or as a substitute, for net income (loss), net income (loss) margin or other measures of financial performance or liquidity, including cash flows, derived in accordance with GAAP. Further, Adjusted EBITDA and Adjusted EBITDA margin have limitations as analytical tools, may not be comparable to similarly titled measures of other companies and should not be considered as other methods of analyzing our results as reported under GAAP.",
+      "token_count": 145
+    },
+    {
+      "source_id": "S092",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net Debt, Long-Term Debt to Net Income (Loss) Ratio and Net Debt to Adjusted EBITDA Ratio",
+      "token_count": 23
+    },
+    {
+      "source_id": "S093",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Long-term debt to net income (loss) ratio is calculated as the ratio of Hilton Worldwide Holdings Inc.'s long-term debt, including current maturities, to net income (loss). Net debt is calculated as: long-term debt, including current maturities and excluding the deduction for unamortized deferred financing costs and discounts; reduced by: (i) cash and cash equivalents and (ii) restricted cash and cash equivalents. Net debt to Adjusted EBITDA ratio is calculated as the ratio of Hilton Worldwide Holdings Inc.'s net debt to Adjusted EBITDA. Net debt and net debt to Adjusted EBITDA ratio, presented herein, are non-GAAP financial measures that the Company uses to evaluate its financial leverage.",
+      "token_count": 165
+    },
+    {
+      "source_id": "S094",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net debt should not be considered as a substitute to debt presented in accordance with GAAP, and net debt to Adjusted EBITDA ratio should not be considered as an alternative to measures of financial condition derived in accordance with GAAP. Net debt and net debt to Adjusted EBITDA ratio may not be comparable to similarly titled measures of other companies. We believe net debt and net debt to Adjusted EBITDA ratio provide useful information about our indebtedness to investors as they are frequently used by securities analysts, investors and other interested parties to compare the indebtedness between companies.",
+      "token_count": 155
+    },
+    {
+      "source_id": "S095",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We define our comparable hotels as those that were active and operating in our system for at least one full calendar year and were open January 1st of the previous year. We exclude hotels that have undergone a change in brand or ownership type or a large-scale capital project during the current or comparable periods or otherwise do not have available comparable results, such as those that have sustained substantial property damage or encountered business interruption. We exclude strategic partner hotels from our comparable hotels. Of the 9,044 hotels in our system as of December 31, 2025, 509 hotels were strategic partner hotels and 6,162 hotels were classified as comparable hotels. Our 2,373 non-comparable hotels as of December 31, 2025 included (i) 1,281 hotels that were added to our system after January 1, 2024 or that have undergone a change in brand or ownership type during the current or comparable periods reported and (ii) 1,092 hotels that were removed from the comparable group for the current or comparable periods reported because they underwent or are undergoing large-scale capital projects, sustained substantial property damage, encountered business interruption or comparable results were otherwise not available for them.",
+      "token_count": 313
+    },
+    {
+      "source_id": "S096",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Occupancy represents the total number of room nights sold divided by the total number of room nights available at a hotel or group of hotels for a given period. Occupancy measures the utilization of available capacity at a hotel or group of hotels. Management uses occupancy to gauge demand at a specific hotel or group of hotels in a given period. Occupancy levels also help management determine achievable Average Daily Rate (\"ADR\") pricing levels as demand for hotel rooms increases or decreases.",
+      "token_count": 125
+    },
+    {
+      "source_id": "S097",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ADR represents hotel room revenue divided by the total number of room nights sold for a given period. ADR measures the average room price attained by a hotel, and ADR trends provide useful information concerning the pricing environment and the nature of the customer base of a hotel or group of hotels. ADR is a commonly used performance measure in the industry, and we use ADR to assess pricing levels that we are able to generate by type of customer, as changes in rates charged to customers have different effects on overall revenues and incremental profitability than changes in occupancy, as described above.",
+      "token_count": 154
+    },
+    {
+      "source_id": "S098",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "RevPAR is calculated by dividing hotel room revenue by the total number of room nights available to guests for a given period. We consider RevPAR to be a meaningful indicator of our performance as it provides a metric correlated to two primary and key drivers of operations at a hotel or group of hotels, as previously described: occupancy and ADR. RevPAR is also a useful indicator in measuring performance over comparable periods for comparable hotels.",
+      "token_count": 114
+    },
+    {
+      "source_id": "S099",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "References to occupancy, ADR and RevPAR are presented on a comparable basis, based on the comparable hotels as of December 31, 2025, and references to ADR and RevPAR are presented on a currency neutral basis, unless otherwise noted. As such, comparisons of these hotel operating statistics for the three months and years ended December 31, 2025 and 2024 use foreign currency exchange rates for the three months and year ended year ended December 31, 2025, respectively.",
+      "token_count": 118
+    },
+    {
+      "source_id": "S100",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Rooms under construction include rooms for hotels under construction or operating hotels that are in the process of conversion to our system.",
+      "token_count": 36
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "Revenues",
+      "period": "FY2025",
+      "value": 12039000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "FY2025",
+      "value": 12039000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "FY2025",
+      "value": 2693000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "FY2025",
+      "value": 1457000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "ProfitLoss",
+      "period": "FY2025",
+      "value": 1461000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareDiluted",
+      "period": "FY2025",
+      "value": 6.12,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "EarningsPerShareBasic",
+      "period": "FY2025",
+      "value": 6.18,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X008",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "FY2025",
+      "value": 918000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X009",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "FY2025",
+      "value": 2129000000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.062705,
+    "ret_20d": 0.077563,
+    "market_ret_20d": -0.004373
+  },
+  "outcome_blind": true
+}

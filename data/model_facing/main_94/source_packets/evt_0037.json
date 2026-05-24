@@ -1,0 +1,916 @@
+{
+  "event_id": "evt_0037",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "KROGER CO",
+  "ticker": "KR",
+  "company_alias": "KROGER CO",
+  "masked_company": "Company BI",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-03-05",
+  "filing_metadata": {
+    "cik": "56873",
+    "accession_number": "0001104659-26-023800",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-05T01:52:13-05:00",
+    "event_date": "2026-03-05",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Identical Sales without fuel increased 2.4%",
+      "token_count": 11
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Operating Profit of $1,246 million; EPS of $1.35",
+      "token_count": 12
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted FIFO Operating Profit of $1,206 million and Adjusted EPS of $1.28",
+      "token_count": 19
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted eCommerce sales 1 increased 20%",
+      "token_count": 10
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Identical Sales without fuel 2 increased 2.9%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Operating Profit of $1.9 billion; EPS of $1.54",
+      "token_count": 12
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Includes $2.5 billion in previously announced impairment and related charges ($2.91 loss per diluted share) for the automated fulfillment network",
+      "token_count": 37
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted FIFO Operating Profit of $4.9 billion and Adjusted EPS of $4.85",
+      "token_count": 18
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Delivered more than $16 billion in eCommerce sales",
+      "token_count": 13
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Completed eCommerce strategic review, which is expected to deliver $400 million in eCommerce operating profit improvement in 2026, and establish a path to eCommerce profitability",
+      "token_count": 45
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Delivered $1.5B in Operating Profit from Alternative Profit Businesses",
+      "token_count": 18
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Completed a $7.5 billion share repurchase authorization, including a $5 billion accelerated share repurchase program and $2.5 billion in open market transactions; Board of Directors approved an additional $2 billion share repurchase authorization",
+      "token_count": 62
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CINCINNATI, 2026-03-05T01:52:13-05:00 \u2013 The KROGER CO. (NYSE: KR) today reported its fourth quarter and fiscal year 2025 results, provided 2026 guidance, and shared progress on key priorities.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "1 Adjusted eCommerce sales exclude the effect of fulfillment center exits in markets where KROGER CO does not operate stores, the sale of Vitacost, and the discontinuation of Ship Marketplace.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cKROGER CO delivered a strong finish to the year, with improving market share trends and solid sales growth that reflect meaningful progress strengthening the business.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We have the right foundation in place, and I\u2019m focused on making it even stronger by delivering more value to customers, improving the customer experience in stores and online, and driving cost savings and productivity to fund our growth.\"",
+      "token_count": 60
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted FIFO Operating Profit (Table 7)",
+      "token_count": 10
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "(1) Without fuel and adjustment items, if applicable, and includes an unfavorable 38 basis point impact from the Inflation Reduction Act.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Without rent, depreciation and amortization, fuel and adjustment items, if applicable.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) Without fuel and adjustment items, if applicable.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total company sales were $34.7 billion in the fourth quarter compared to $34.3 billion for the same period last year. Excluding fuel, sales increased 2.1% compared to the same period last year.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross margin was 23.1% of sales for the fourth quarter compared to 22.7% for the same period last year. The result was primarily attributable to sourcing improvements, lower supply chain costs, better fuel margins, decreased depreciation, and lower shrink, partially offset by price investments and the mix effect from growth in pharmacy sales, which has lower margins.",
+      "token_count": 93
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The FIFO gross margin rate, excluding rent, depreciation and amortization, and fuel, was flat compared to the same period last year. The result was primarily attributable to sourcing improvements, lower supply chain costs, and lower shrink offset by price investments and the mix effect from growth in pharmacy sales, which has lower margins.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The LIFO charge for the quarter was $11 million, compared to a LIFO charge of $30 million for the same period last year.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "The Operating, General and Administrative rate, excluding fuel and adjustment items, increased 21 basis points compared to the same period last year. The increase in rate was primarily attributable to cycling real estate gains from a year ago and labor investments to improve the customer experience, partially offset by lower incentive plan costs and improved productivity.",
+      "token_count": 94
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Increased 44 basis points (including 30 basis points increase from the sale of KROGER CO Specialty Pharmacy)",
+      "token_count": 28
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Increased 29 basis points (including 22 basis points increase from the sale of KROGER CO Specialty Pharmacy)",
+      "token_count": 28
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "(1) Without fuel and adjustment items, if applicable, and includes an unfavorable 9 basis point impact from the Inflation Reduction Act.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Includes $2.5 billion in previously announced impairment and related charges ($2.91 loss per diluted share) for the automated fulfillment network in 2025.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) Without rent, depreciation and amortization, fuel and adjustment items, if applicable.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(4) Without fuel and adjustment items, if applicable.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total company sales were $147.6 billion in 2025 compared to $147.1 billion in 2024, which included $2.0 billion from KROGER CO Specialty Pharmacy sales. Excluding fuel and KROGER CO Specialty Pharmacy in both periods, sales increased 3.0% compared to last year.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross margin was 22.9% of sales for 2025 compared to 22.3% last year. The improvement in rate was primarily attributable to the sale of KROGER CO Specialty Pharmacy, sourcing improvements, lower fuel sales, lower shrink, and lower supply chain costs partially offset by the mix effect from growth in pharmacy sales, which has lower margins, and price investments.",
+      "token_count": 91
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The FIFO gross margin rate, excluding rent, depreciation and amortization, fuel, and adjustment items, increased 44 basis points compared to last year. The improvement in rate was primarily attributable to the sale of KROGER CO Specialty Pharmacy, sourcing improvements, lower shrink, and lower supply chain costs partially offset by the mix effect from growth in pharmacy sales, which has lower margins, and price investments.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The LIFO charge for 2025 was $157 million, compared to a LIFO charge of $95 million last year.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Operating, General and Administrative rate, excluding fuel and adjustment items, increased 29 basis points compared to last year. The increase in rate was primarily attributable to the sale of KROGER CO Specialty Pharmacy, partially offset by improved productivity.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "KROGER CO expects to continue to generate strong free cash flow and remains committed to investing in the business to drive long-term sustainable net earnings growth, as well as maintaining its current investment grade debt rating. The Company expects to continue to pay its quarterly dividend and expects this to increase over time, subject to board approval.",
+      "token_count": 91
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "As part of its previously announced $7.5 billion share repurchase authorization, KROGER CO executed a $5 billion accelerated share repurchase program and subsequently completed repurchases of the remaining authorization through open market share transactions by the end of fiscal 2025.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In December 2025, KROGER CO\u2019s Board of Directors approved an additional $2 billion share repurchase authorization. KROGER CO expects to complete these repurchases by the end of Fiscal 2026.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "KROGER CO\u2019s net total debt to adjusted EBITDA ratio is 1.76, compared to 1.79 a year ago (Table 5). The company\u2019s net total debt to adjusted EBITDA ratio target range is 2.30 to 2.50. KROGER CO\u2019s strong balance sheet provides ample opportunities for the Company to invest in the business and enhance shareholder value.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "* Without adjusted items, if applicable. KROGER CO is unable to provide a full reconciliation of the GAAP and non-GAAP measures used in 2026 guidance without unreasonable effort because it is not possible to predict certain of our adjustment items with a reasonable degree of certainty. This information is dependent upon future events and may be outside of our control and its unavailability could have a significant impact on 2026 GAAP financial results.",
+      "token_count": 115
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "** Includes approximately 130 basis points unfavorable impact from the Inflation Reduction Act.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "*** The adjusted tax rate reflects typical tax adjustments and does not reflect changes to the rate from the completion of income tax audit examinations and changes in tax laws and policies, which cannot be predicted.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cFor 2026, we expect identical sales without fuel growth of 1.0% to 2.0%, adjusted FIFO operating profit of $5.0 to $5.2 billion, and adjusted EPS of $5.10 to $5.30. Our identical sales without fuel guidance includes an approximately 130 basis point headwind from the Inflation Reduction Act.",
+      "token_count": 73
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This guidance reflects our ability to invest more aggressively in value for customers while improving gross margins, funded by eCommerce reaching profitability, meaningful procurement efficiencies, and productivity gains across the business.\u201d",
+      "token_count": 61
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "KROGER CO's fourth quarter 2025 ended on January 31, 2026.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Note: Fuel sales have historically had a low gross margin rate and operating expense rate as compared to corresponding rates on non-fuel sales. As a result, KROGER CO discusses the changes in these rates excluding the effect of fuel.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Please refer to the supplemental information presented in the tables for reconciliations of the non-GAAP financial measures used in this press release to the most comparable GAAP financial measure and related disclosure. As noted above, KROGER CO is unable to provide a full reconciliation of the GAAP and non-GAAP measures used in its guidance without unreasonable effort because it is not possible to predict certain of our adjustment items with a reasonable degree of certainty. This information is dependent upon future events and may be outside of our control and its unavailability could have a significant impact on GAAP financial results.",
+      "token_count": 162
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "KROGER CO's ability to achieve sales, earnings, incremental FIFO operating profit, and adjusted free cash flow goals may be affected by: labor negotiations; potential work stoppages; changes in the unemployment rate; pressures in the labor market; changes in government-funded benefit programs; changes in the types and numbers of businesses that compete with KROGER CO; pricing and promotional activities of existing and new competitors, and the aggressiveness of that competition; KROGER CO's response to these actions; the state of the economy, including interest rates, the inflationary, disinflationary and/or deflationary trends and such trends in certain commodities, products and/or operating costs; the geopolitical environment including wars and conflicts; unstable political situations and social unrest; changes in tariffs; the effect that fuel costs have on consumer spending; volatility of fuel margins; manufacturing commodity costs; supply constraints; diesel fuel costs related to KROGER CO\u2019s logistics operations; trends in consumer spending; the extent to which KROGER CO\u2019s customers exercise caution in their purchasing in response to economic conditions; the uncertainty of economic growth or recession; stock repurchases; changes in the regulatory environment in which KROGER CO operates, along with changes in federal policy and at state and federal regulatory agencies; KROGER CO\u2019s ability to retain pharmacy sales from third party payors; consolidation in the healthcare industry, including pharmacy benefit managers; KROGER CO\u2019s ability to negotiate modifications to multi-employer pension plans; natural disasters or adverse weather conditions; the effect of public health crises or other significant catastrophic events; the potential costs and risks associated with potential cyber-attacks or data security breaches; the success of KROGER CO's future growth plans; the ability to execute our growth strategy and value creation model, including continued cost savings, growth of our alternative profit businesses, and our ability to better serve our customers and to generate customer loyalty and sustainable growth through our strategic pillars of fresh, our brands, personalization, and eCommerce; the outcome of litigation matters, including those relating to the terminated transaction with Albertsons; and the risks relating to or arising from our opioid litigation settlements, including the risk of litigation relating to persons, entities, or jurisdictions that do not participate in those settlements . Our ability to achieve these goals may also be affected by our ability to manage the factors identified above. Our ability to execute our financial strategy may be affected by our ability to generate cash flow.",
+      "token_count": 690
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "KROGER CO\u2019s adjusted effective tax rate may differ from the expected rate due to changes in tax laws and policies, the status of pending items with various taxing authorities, and the deductibility of certain expenses.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "KROGER CO assumes no obligation to update the information contained herein unless required by applicable law. Please refer to KROGER CO's reports and filings with the Securities and Exchange Commission for a further discussion of these risks and uncertainties.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Reconciliation of Net Total Debt and Net Earnings Attributable to The KROGER CO. to Adjusted EBITDA",
+      "token_count": 25
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Net Earnings Per Diluted Share Excluding the Adjustment Items",
+      "token_count": 16
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Contacts: Media: Holly Stutz Smith (513) 762-1080; Investors: Rob Quast (513) 762-4969",
+      "token_count": 22
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "MERCHANDISE COSTS, INCLUDING ADVERTISING, WAREHOUSING AND TRANSPORTATION (a), AND LIFO CHARGE (b)",
+      "token_count": 25
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Certain percentages may not sum due to rounding.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The Company defines First-In First-Out (FIFO) gross profit as sales minus merchandise costs, including advertising, warehousing and transportation, but excluding the Last-In First-Out (LIFO) charge, rent and depreciation and amortization.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The Company defines FIFO gross margin as FIFO gross profit divided by sales.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The Company defines FIFO operating profit as operating profit excluding the LIFO charge.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The Company defines FIFO operating margin as FIFO operating profit divided by sales.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The above FIFO financial metrics are important measures used by management to evaluate operational effectiveness. Management believes these FIFO financial metrics are useful to investors and analysts because they measure our day-to-day operational effectiveness.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Merchandise costs (\"COGS\") and operating, general and administrative expenses (\"OG&A\") exclude depreciation and amortization expense and rent expense which are included in separate expense lines.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Current portion of long-term debt including obligations under finance leases",
+      "token_count": 19
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Payments for property and equipment, including payments for lease buyouts",
+      "token_count": 19
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Payments on long-term debt including obligations under finance leases",
+      "token_count": 18
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 4. Supplemental Sales Information",
+      "token_count": 10
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Items identified below should not be considered as alternatives to sales or any other GAAP measure of performance. Identical sales is an industry-specific measure, and it is important to review it in conjunction with KROGER CO's financial results reported in accordance with GAAP. Other companies in our industry may calculate identical sales differently than KROGER CO does, limiting the comparability of the measure.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "KROGER CO defines identical sales, excluding fuel, as sales to retail customers, including sales from all departments at identical supermarket locations, jewelry and ship-to-home solutions. KROGER CO defines a supermarket as identical when it has been in operation without expansion or relocation for five full quarters. We include KROGER CO Delivery sales as identical if the delivery occurs in an existing KROGER CO Supermarket geography or when the location has been in operation for five full quarters.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(a) Identical sales, excluding fuel, were adjusted to exclude stores involved in the labor disputes in Colorado in the first quarter of 2025. Identical sales, excluding fuel, were excluded for the first four weeks of the first quarter for stores involved in this labor dispute.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Table 5. Reconciliation of Net Total Debt and",
+      "token_count": 12
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Net Earnings Attributable to The KROGER CO. to Adjusted EBITDA",
+      "token_count": 16
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "The items identified below should not be considered an alternative to any GAAP measure of performance or access to liquidity. Net total debt to adjusted EBITDA is an important measure used by management to evaluate the Company's access to liquidity. The items below should be reviewed in conjunction with KROGER CO's financial results reported in accordance with GAAP.",
+      "token_count": 93
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The following table provides a reconciliation of net total debt.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "The following table provides a reconciliation from net earnings attributable to The KROGER CO. to adjusted EBITDA, as defined in the Company's credit agreement, on a rolling four quarter basis.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for executive stock compensation for a former executive",
+      "token_count": 17
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy",
+      "token_count": 15
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for fulfillment network impairment and related charges",
+      "token_count": 17
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Merger-related costs primarily include third-party professional fees and credit facility fees associated with the terminated merger with Albertsons Companies, Inc.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Table 6. Net Earnings Per Diluted Share Excluding the Adjustment Items",
+      "token_count": 18
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on net earnings per diluted common share for certain items described below. Adjusted net earnings and adjusted net earnings per diluted share are useful metrics to investors and analysts because they present more accurately year-over-year comparisons for net earnings and net earnings per diluted share because adjusted items are not the result of normal operations. Items identified in this table should not be considered alternatives to net earnings attributable to The KROGER CO. or any other GAAP measure of performance. These items should not be reviewed in isolation or considered substitutes for the Company's financial results as reported in accordance with GAAP. Due to the nature of these items, as further described below, it is important to identify these items and to review them in conjunction with the Company's financial results reported in accordance with GAAP.",
+      "token_count": 253
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The following table summarizes items that affected the Company's financial results during the periods presented.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for executive stock compensation for a former executive (a)(e)",
+      "token_count": 19
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for merger-related litigation and settlement charges (a)(g)",
+      "token_count": 18
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for opioid settlement charges and vendor reserves (a)(j)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy (a)(l)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S086",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for fulfillment network impairment and related charges (a)(n)",
+      "token_count": 18
+    },
+    {
+      "source_id": "S087",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Executive stock compensation for a former executive income tax adjustment",
+      "token_count": 19
+    },
+    {
+      "source_id": "S088",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Net earnings attributable to The KROGER CO. excluding the adjustment items above",
+      "token_count": 21
+    },
+    {
+      "source_id": "S089",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for executive stock compensation for a former executive (o)",
+      "token_count": 18
+    },
+    {
+      "source_id": "S090",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for merger-related litigation and settlement charges (o)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S091",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for opioid settlement charges and vendor reserves (o)",
+      "token_count": 16
+    },
+    {
+      "source_id": "S092",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy (o)",
+      "token_count": 16
+    },
+    {
+      "source_id": "S093",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for fulfillment network impairment and related charges (o)",
+      "token_count": 18
+    },
+    {
+      "source_id": "S094",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Executive stock compensation for a former executive income tax adjustment (o)",
+      "token_count": 20
+    },
+    {
+      "source_id": "S095",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Net earnings attributable to The KROGER CO. per diluted common share excluding the adjustment items above",
+      "token_count": 27
+    },
+    {
+      "source_id": "S096",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Table 6. Net Earnings Per Diluted Share Excluding the Adjustment Items (continued)",
+      "token_count": 21
+    },
+    {
+      "source_id": "S097",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The amounts presented represent the after-tax effect of each adjustment.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S098",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The pre-tax adjustments for (gain) loss on investments were $(23) and $22 in the fourth quarters of 2025 and 2024, respectively. The year-to-date pre-tax adjustments for (gain) loss on investments were $41 and $148 in 2025 and 2024, respectively.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S099",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The pre-tax adjustments to Sales, COGS and OG&A expenses for labor dispute charges were $44.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S100",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for store closures was $100.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S101",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for executive stock compensation for a former executive was $(21).",
+      "token_count": 27
+    },
+    {
+      "source_id": "S102",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for merger-related costs was $175 in the fourth quarter of 2024. The year-to-date pre-tax adjustment to OG&A expenses for merger-related costs was $684 in 2024.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S103",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for merger-related litigation and settlement charges was $17 in the fourth quarter of 2025. The year-to-date pre-tax adjustment to OG&A expenses for merger-related litigation and settlement charges was $161 for 2025.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S104",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for property losses was $25.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S105",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to net interest expense for merger-related net interest expense was $34.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S106",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustments to OG&A expenses for opioid settlement charges and vendor reserves were $(28) and $(27) in the fourth quarters of 2025 and 2024, respectively. The year-to-date pre-tax adjustments to OG&A expenses for opioid settlement charges and vender reserves were $(6) and $(27) in 2025 and 2024, respectively.",
+      "token_count": 81
+    },
+    {
+      "source_id": "S107",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustments to OG&A expenses for impairment of intangible assets were $50 and $30 in the fourth quarters and year-to-date in 2025 and 2024, respectively.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S108",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The pre-tax adjustment for gain on sale of KROGER CO Specialty Pharmacy was $(79).",
+      "token_count": 21
+    },
+    {
+      "source_id": "S109",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for severance charge and related benefits was $32 in the fourth quarter of 2024. The year-to-date pre-tax adjustments to OG&A expenses for severance charges and related benefits were $47 in 2025 and $32 in 2024.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S110",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The pre-tax adjustment to OG&A expenses for fulfillment network impairment and related charges was $(88) in the fourth quarter of 2025. The year-to-date pre-tax adjustment to OG&A expenses for fulfillment network impairment and related charges was $2,497 in 2025.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S111",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The amounts presented represent the net earnings (loss) per diluted common share effect of each adjustment.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S112",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2025 Fourth Quarter Adjustment Items include adjustments for the gain on investments, merger-related litigation and settlement charges, fulfillment network impairment and related charges, opioid settlement charges and vendor reserves and impairment of intangible assets.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S113",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2025 Adjustment Items include the Fourth Quarter Adjustment Items plus the adjustments that occurred in the first three quarters of 2025 for the loss on investments, labor dispute charges, store closures, executive stock compensation for a former executive, merger-related litigation costs and settlement charges, opioid settlement charges and vendor reserves, severance charge and related benefits, fulfillment network impairment and related charges, executive stock compensation for a former executive income tax and held for sale income tax.",
+      "token_count": 136
+    },
+    {
+      "source_id": "S114",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "2024 Fourth Quarter Adjustment Items include adjustments for the loss on investments, severance charge and related benefits, impairment of intangible assets, property losses, merger-related costs, merger-related net interest expense and opioid settlement charges.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S115",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2024 Adjustment Items include the Fourth Quarter Adjustment Items plus the adjustments that occurred in the first three quarters of 2024 for loss on investments, merger-related costs, the gain on sale of KROGER CO Specialty Pharmacy and held for sale income tax.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S116",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Table 7. Operating Profit Excluding the Adjustment Items",
+      "token_count": 14
+    },
+    {
+      "source_id": "S117",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on operating profit for certain items described below. Adjusted FIFO operating profit is a useful metric to investors and analysts because it presents more accurately year-over-year comparisons for operating profit because adjusted items are not the result of normal operations. Items identified in this table should not be considered alternatives to operating profit or any other GAAP measure of performance. These items should not be reviewed in isolation or considered substitutes for the Company's financial results as reported in accordance with GAAP. Due to the nature of these items, as further described below, it is important to identify these items and to review them in conjunction with the Company's financial results reported in accordance with GAAP.",
+      "token_count": 224
+    },
+    {
+      "source_id": "S118",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted FIFO operating profit excluding the adjustment items above",
+      "token_count": 17
+    },
+    {
+      "source_id": "S119",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Merger-related costs primarily include third party professional fees and credit facility fees associated with the terminated merger with Albertsons Companies, Inc.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S120",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Adjusted free cash flow is an important performance measure used by management, and management believes it is also a useful metric for investors and analysts to evaluate the Company's ability to generate additional funding from business operations available for dividends, managing debt levels, share repurchases and other strategic investments. Adjusted free cash flow is one of the key financial indicators of the Company's business performance and the Company also uses adjusted free cash flow to evaluate the Company's senior management. However, adjusted free cash flow is not a measure of financial performance or liquidity under GAAP and, therefore, should not be considered an alternative to net earnings or net cash provided by operating activities as an indicator of the Company's performance or liquidity. Although free cash flow is a relatively standard term, numerous methods exist for calculating free cash flow. As a result, the method used by the Company's management to calculate adjusted free cash flow may differ from methods other companies use to calculate free cash flow.",
+      "token_count": 274
+    },
+    {
+      "source_id": "S121",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The following table sets forth a reconciliation of net cash provided by operating activities to adjusted free cash flow.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S122",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjustment for payments related to the Ocado exit liability",
+      "token_count": 15
+    },
+    {
+      "source_id": "S123",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Adjustment for company pension plans and payments related to the restructuring of multi-employer pension plans",
+      "token_count": 28
+    },
+    {
+      "source_id": "S124",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "In the Consolidated Statements of Operations within Table 1, the Company separately presents rent and depreciation and amortization to evaluate operational effectiveness. The table below calculates gross margin in accordance with Generally Accepted Accounting Principles (\"GAAP\") by including a portion of rent and depreciation and amortization related to the Company's manufacturing and warehousing and transportation activities.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S125",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The following table provides the calculation of gross profit and gross margin in accordance with GAAP.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S126",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Merchandise costs, including advertising, warehousing and transportation and LIFO charge, excluding rent and depreciation and amortization",
+      "token_count": 35
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.005918,
+    "ret_20d": 0.064843,
+    "market_ret_20d": -0.006381
+  },
+  "outcome_blind": true
+}

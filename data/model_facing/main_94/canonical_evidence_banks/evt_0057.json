@@ -1,0 +1,490 @@
+{
+  "event_id": "evt_0057",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "J&J SNACK FOODS CORP",
+  "ticker": "JJSF",
+  "company_alias": "J&J SNACK FOODS CORP",
+  "masked_company": "Company BQ",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-03",
+  "accepted_at_et": "2026-02-03T02:01:41-05:00",
+  "source_packet_path": "source_packets/evt_0057.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Announces new $50 million share repurchase authorization",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Announces new $50 million share repurchase authorization",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Mount Laurel, NJ.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Mount Laurel, NJ. 2026-02-03T02:01:41-05:00 \u2013 J&J SNACK FOODS CORP. (Nasdaq:JJSF) today reported financial results for the first quarter ended December 27, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "This press release contains non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "This press release contains non-GAAP financial measures. Please refer to the Non-GAAP Financial Measures section below for reconciliations to the most comparable GAAP measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\"Our first quarter results reflect disciplined execution of our key priorities to drive profitability,\u201d said Dan Fachner, J&J SNACK FOODS CORP Chairman, President, and CEO.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\"Our first quarter results reflect disciplined execution of our key priorities to drive profitability,\u201d said Dan Fachner, J&J SNACK FOODS CORP Chairman, President, and CEO. \u201cWe are pleased to deliver 7% year-over-year growth in adjusted EBITDA and a 200 basis point expansion i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "\u201cWe remain optimistic about our trajectory and have several exciting commercial initiatives underway.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u201cWe remain optimistic about our trajectory and have several exciting commercial initiatives underway. The momentum in our pretzel business from the second half of fiscal 2025 continued in the first quarter. We have several innovative product launches that will reach customers...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "Net sales decreased 5.2% from the prior year quarter to $343.8 million, with most of the decline attributable to our bakery business and strategic portfolio rationalization efforts.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Net sales decreased 5.2% from the prior year quarter to $343.8 million, with most of the decline attributable to our bakery business and strategic portfolio rationalization efforts.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "Food Service segment net sales decreased 8.3%",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Food Service segment net sales decreased 8.3%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Retail Supermarket segment net sales increased 2.6%",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Retail Supermarket segment net sales increased 2.6%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "Gross profit increased from $93.9 million in the prior year quarter to $96.0 million, while gross margin improved from 25.9% to 27.9%.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Gross profit increased from $93.9 million in the prior year quarter to $96.0 million, while gross margin improved from 25.9% to 27.9%. The improvement in gross margin primarily reflects the early benefits of our Apollo transformation initiatives and favorable product mix, part...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "costs_or_expenses",
+      "claim": "Total operating expenses of $95.4 million included $6.1 million in non-recurring plant closure costs as well as other non-recurring impacts.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Total operating expenses of $95.4 million included $6.1 million in non-recurring plant closure costs as well as other non-recurring impacts.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Selling and Marketing expenses increased 9.9% to $31.5 million, or 9.2% of sales, up from 7.9% in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Selling and Marketing expenses increased 9.9% to $31.5 million, or 9.2% of sales, up from 7.9% in the prior year quarter. Approximately 140 basis points of the increase was associated with higher commissions for retail vending sales, which is a growing component of our Dippin\u2019...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Distribution expenses decreased 3.9% to $38.1 million, or 11.1% of sales up from 10.9% in the prior year quarter, primarily reflecting lower volume.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Distribution expenses decreased 3.9% to $38.1 million, or 11.1% of sales up from 10.9% in the prior year quarter, primarily reflecting lower volume.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Administrative expenses increased 7.8% to $20.4 million, or 5.9% of sales, up from 5.2% in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Administrative expenses increased 7.8% to $20.4 million, or 5.9% of sales, up from 5.2% in the prior year quarter. Approximately 300 basis points of the increase was attributed to non-recurring restructuring and legal expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "margins",
+      "claim": "Operating income was $0.6 million, compared to $6.2 million in the prior year quarter, while adjusted operating income was $8.0 million, compared to $8.2 million in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Operating income was $0.6 million, compared to $6.2 million in the prior year quarter, while adjusted operating income was $8.0 million, compared to $8.2 million in the prior year quarter. Earnings per diluted share were $0.05, compared to $0.26 in the prior year quarter, whil...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Net sales of $219.2 million, a year-over-year decrease of $19.7 million, or 8.3%.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Net sales of $219.2 million, a year-over-year decrease of $19.7 million, or 8.3%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "Bakery was down approximately 17% and accounted for $18 million of the decline in Food Service, reflecting ongoing efforts to improve profitability through portfolio rationalization.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Bakery was down approximately 17% and accounted for $18 million of the decline in Food Service, reflecting ongoing efforts to improve profitability through portfolio rationalization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Pretzel sales increased approximately 6.9%, continuing the growth momentum from the second half of fiscal 2025, with share gains driven by Bavarian formula pretzels.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Pretzel sales increased approximately 6.9%, continuing the growth momentum from the second half of fiscal 2025, with share gains driven by Bavarian formula pretzels.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Handheld sales declined approximately 22% on lower volumes and a contractual pricing true-up on lower costs of certain ingredients.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Handheld sales declined approximately 22% on lower volumes and a contractual pricing true-up on lower costs of certain ingredients.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "margins",
+      "claim": "Operating income increased 14.6% to $10.1 million.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Operating income increased 14.6% to $10.1 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Net sales of $45.9 million, a year-over-year increase of $1.2 million, or 2.6%.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Net sales of $45.9 million, a year-over-year increase of $1.2 million, or 2.6%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "Handheld sales increased 35% as we lapped capacity constraints from the prior year facility fire.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Handheld sales increased 35% as we lapped capacity constraints from the prior year facility fire.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Sales within the remaining retail portfolio decreased $0.6 million, primarily driven by lower frozen novelty sales as growth in Dogsters and Dippin\u2019 Dots at retail was more than offset by decreases in other frozen novelties.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Sales within the remaining retail portfolio decreased $0.6 million, primarily driven by lower frozen novelty sales as growth in Dogsters and Dippin\u2019 Dots at retail was more than offset by decreases in other frozen novelties.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "margins",
+      "claim": "Operating income decreased 2.6% to $1.2 million.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Operating income decreased 2.6% to $1.2 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Net sales of $78.7 million were approximately flat with the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Net sales of $78.7 million were approximately flat with the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Beverage sales were up modestly, whereas service and machine sales combined were down modestly.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Beverage sales were up modestly, whereas service and machine sales combined were down modestly.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "margins",
+      "claim": "Operating income decreased 13.7% to $4.0 million.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Operating income decreased 13.7% to $4.0 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "During the quarter, we repurchased approximately 458,467 shares of common stock for $42 million, completing our $50 million authorization.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "During the quarter, we repurchased approximately 458,467 shares of common stock for $42 million, completing our $50 million authorization. Including shares bought in fiscal 2025, we repurchased 525,243 shares for $50 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "balance_sheet_or_cash",
+      "claim": "Our Board of Directors has approved a new $50 million share repurchase authorization that is effective for approximately two years.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Our Board of Directors has approved a new $50 million share repurchase authorization that is effective for approximately two years. The new authorization reflects our confidence in the company\u2019s long-term value, as well as our strong balance sheet and liquidity position. Our a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "risk_or_uncertainty",
+      "claim": "J&J SNACK FOODS CORP.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "J&J SNACK FOODS CORP. (Nasdaq:JJSF) is a leader and innovator in the snack food and frozen beverage industry. For over fifty years, the company has specialized in delicious snack and beverage brands for the foodservice and retail segments, serving up fun across the U.S. market...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "margins",
+      "claim": "Adjusted EBITDA consists of net earnings adjusted to exclude: income taxes (benefit); investment income; interest expense; depreciation and amortization; share-based compensation expense; net (gain) loss on sale or disposal of assets; impairment charges, restructuring costs, merger and acquisition costs, acquisition related inventory adjustments, strategic business transformation costs, integration costs, non-recurring legal fee expenses and gain on insurance proceeds received for damage to property, plant and equipment.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Adjusted EBITDA consists of net earnings adjusted to exclude: income taxes (benefit); investment income; interest expense; depreciation and amortization; share-based compensation expense; net (gain) loss on sale or disposal of assets; impairment charges, restructuring costs, m...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "Gain on insurance proceeds received for damage to property, plant, and equipment",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Gain on insurance proceeds received for damage to property, plant, and equipment",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "Preferred stock, $1 par value; authorized 10,000,000 shares; none issued",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Preferred stock, $1 par value; authorized 10,000,000 shares; none issued",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "Common stock, no par value; authorized, 50,000,000 shares; issued and outstanding 18,996,000 as of December 27, 2025 and 19,440,000 as of September 27, 2025",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Common stock, no par value; authorized, 50,000,000 shares; issued and outstanding 18,996,000 as of December 27, 2025 and 19,440,000 as of September 27, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "balance_sheet_or_cash",
+      "claim": "Adjustments to reconcile net earnings to net cash provided by operating activities",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Adjustments to reconcile net earnings to net cash provided by operating activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Changes in assets and liabilities, net of effects from purchase of companies",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Changes in assets and liabilities, net of effects from purchase of companies",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Purchase of vested employee service share units and performance share units",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Purchase of vested employee service share units and performance share units",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "balance_sheet_or_cash",
+      "claim": "Effect of exchange rates on cash and cash equivalents",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Effect of exchange rates on cash and cash equivalents",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "margins",
+      "claim": "Gain on insurance proceeds received for damage to property, plant and equipment",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Gain on insurance proceeds received for damage to property, plant and equipment",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "margins",
+      "claim": "Reconciliation of GAAP Operating Income to Adjusted Operating Income",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Reconciliation of GAAP Operating Income to Adjusted Operating Income",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "margins",
+      "claim": "Reconciliation of GAAP Earnings per Diluted Share to Adjusted Earnings per Diluted Share",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Reconciliation of GAAP Earnings per Diluted Share to Adjusted Earnings per Diluted Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "margins",
+      "claim": "Tax Effect of Non-GAAP Adjustments (1)",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Tax Effect of Non-GAAP Adjustments (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "margins",
+      "claim": "(1) Income taxes associated with pre-tax adjustments determined using statutory tax rates",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "(1) Income taxes associated with pre-tax adjustments determined using statutory tax rates",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.019381, ret_20d=0.051701, market_ret_20d=0.017916",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.019381, ret_20d=0.051701, market_ret_20d=0.017916",
+      "support_label": "supported"
+    }
+  ]
+}

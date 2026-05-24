@@ -1,0 +1,413 @@
+{
+  "event_id": "evt_0061",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "FORWARD AIR CORP",
+  "ticker": "FWRD",
+  "company_alias": "FORWARD AIR CORP",
+  "masked_company": "Company CJ",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2024 Q4",
+  "event_date": "2026-02-23",
+  "accepted_at_et": "2026-02-23T11:01:37-05:00",
+  "source_packet_path": "source_packets/evt_0061.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "balance_sheet_or_cash",
+      "claim": "Ended 2025 in a Solid Liquidity Position",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Ended 2025 in a Solid Liquidity Position",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "DALLAS \u2013 (BUSINESS WIRE) \u2013 2026-02-23T11:01:37-05:00 \u2013 FORWARD AIR CORP Corporation (NASDAQ:FWRD) (the \u201cCompany\u201d, \u201cwe\u201d, \u201cour\u201d, or \u201cus\u201d) today reported financial results for the three months and twelve months ended December 31, 2025, as presented in the tables below.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "DALLAS \u2013 (BUSINESS WIRE) \u2013 2026-02-23T11:01:37-05:00 \u2013 FORWARD AIR CORP Corporation (NASDAQ:FWRD) (the \u201cCompany\u201d, \u201cwe\u201d, \u201cour\u201d, or \u201cus\u201d) today reported financial results for the three months and twelve months ended December 31, 2025, as presented in the tables below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "margins",
+      "claim": "\u201cWe delivered solid results in 2025 despite less than favorable freight market conditions,\u201d said President & Chief Executive Officer.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u201cWe delivered solid results in 2025 despite less than favorable freight market conditions,\u201d said President & Chief Executive Officer. \u201cFor the full year we reported operating income of $36 million and Consolidated EBITDA of $307 million. During the year we diligently focused o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u201cOur fourth quarter results were consistent with recent quarters, led by the Omni segment which continued to see strong demand for its diversified service offerings.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u201cOur fourth quarter results were consistent with recent quarters, led by the Omni segment which continued to see strong demand for its diversified service offerings. This segment achieved its highest revenue, highest Reported EBITDA and highest Reported EBITDA margin, excludin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "margins",
+      "claim": "\u201cAt the Expedited Freight segment, we remained focused on charging the optimal price for freight moving through our network and actively managed expenses.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u201cAt the Expedited Freight segment, we remained focused on charging the optimal price for freight moving through our network and actively managed expenses. Fourth quarter Reported EBITDA improved by $7 million to $25 million compared to the fourth quarter 2024. We also saw a me...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u201cAt the Intermodal segment, port activity was unfavorably impacted by trade-related softness and the typical seasonality contributed to declining shipments and revenue per shipment compared to a year ago.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cAt the Intermodal segment, port activity was unfavorably impacted by trade-related softness and the typical seasonality contributed to declining shipments and revenue per shipment compared to a year ago. In the fourth quarter the Intermodal segment\u2019s Reported EBITDA and margi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "Chief Financial Officer added, \u201cWe reported consolidated revenue of $631 million in the fourth quarter compared to $633 million a year ago.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Chief Financial Officer added, \u201cWe reported consolidated revenue of $631 million in the fourth quarter compared to $633 million a year ago. Consolidated EBITDA, a non-GAAP measure calculated pursuant to our Term Loan Credit Agreement, was $77 million compared to $72 million fo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u201cLiquidity at the end of the fourth quarter was $367 million comprised of $106 million in cash and $261 million of availability under our credit facility.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cLiquidity at the end of the fourth quarter was $367 million comprised of $106 million in cash and $261 million of availability under our credit facility. This compares to $382 million in liquidity at the end of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u201cCash provided by operating activities was $44 million in 2025 compared to cash used in operating activities of $69 million in 2024, reflecting a year over year improvement of $113 million,\u201d concluded Pierson.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u201cCash provided by operating activities was $44 million in 2025 compared to cash used in operating activities of $69 million in 2024, reflecting a year over year improvement of $113 million,\u201d concluded Pierson.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "Three Months Ended (in thousands, except per share data) December 31, 2025 December 31, 2024 Change Percent Change Operating revenue $ 631,230 $ 632,846 $ (1,616) (0.3) % Income (loss) from continuing operations $ (2,868) $ 75,855 $ (78,723) (103.8) % Operating margin (0.5) % 12.0 % (12.5)% Loss from continuing operations $ (36,413) $ (35,378) $ (1,035) (2.9) % Net loss attributable to FORWARD AIR CORP per diluted share $ (0.91) $ (1.23) $ 0.32 26.0 % Cash provided by (used in) operating activities $ (22,728) $ (23,245) $ 517 2.2 % Non-GAAP Financial Measures: 1 Consolidated EBITDA $ 76,628 $ 72,263 $ 4,365 6.0 % Free cash flow $ (30,664) $ (27,851) $ (2,813) (10.1) % 1 Reconciliation of these non-GAAP financial measures are provided below the financial tables.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Three Months Ended (in thousands, except per share data) December 31, 2025 December 31, 2024 Change Percent Change Operating revenue $ 631,230 $ 632,846 $ (1,616) (0.3) % Income (loss) from continuing operations $ (2,868) $ 75,855 $ (78,723) (103.8) % Operating margin (0.5) %...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Twelve Months Ended (in thousands, except per share data) December 31, 2025 December 31, 2024 Change Percent Change Operating revenue $ 2,495,118 $ 2,474,262 $ 20,856 0.8 % Income (loss) from continuing operations $ 36,424 $ (1,062,936) $ 1,099,360 103.4 % Operating margin 1.5 % (43.0) % 44.5% Loss from continuing operations $ (141,725) $ (1,124,841) $ 983,116 87.4 % Net loss attributable to FORWARD AIR CORP per diluted share $ (3.51) $ (30.40) $ 26.89 88.5 % Cash provided by (used in) operating activities $ 44,384 $ (69,015) $ 113,399 164.3 % Non-GAAP Financial Measures: 1 Consolidated EBITDA $ 307,129 $ 310,714 $ (3,585) (1.2) % Free cash flow $ 17,472 $ (100,938) $ 118,410 117.3 % 1 Reconciliation of these non-GAAP financial measures are provided below the financial tables.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Twelve Months Ended (in thousands, except per share data) December 31, 2025 December 31, 2024 Change Percent Change Operating revenue $ 2,495,118 $ 2,474,262 $ 20,856 0.8 % Income (loss) from continuing operations $ 36,424 $ (1,062,936) $ 1,099,360 103.4 % Operating margin 1.5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "FORWARD AIR CORP is a leading asset-light provider of transportation services across the United States, Canada and Latin America.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "FORWARD AIR CORP is a leading asset-light provider of transportation services across the United States, Canada and Latin America. We provide expedited less-than-truckload services, including local pick-up and delivery, shipment consolidation/deconsolidation, warehousing, and c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "FORWARD AIR CORP Corporation Condensed Consolidated Statements of Comprehensive (Loss) Income (Unaudited, in thousands, except per share data) Three Months Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Operating revenue: Expedited Freight $ 246,928 $ 265,879 $ 1,012,559 $ 1,115,163 Omni 359,794 325,609 1,351,164 1,196,841 Intermodal 50,563 59,829 230,533 232,832 Eliminations and other operations (26,055) (18,471) (99,138) (70,574) Operating revenue 631,230 632,846 2,495,118 2,474,262 Operating expenses: Purchased transportation 320,519 319,498 1,244,471 1,250,570 Salaries, wages and employee benefits 116,367 130,024 535,681 536,406 Operating leases 53,581 48,326 204,029 182,197 Depreciation and amortization 40,724 37,657 152,638 143,978 Insurance and claims 15,709 19,721 58,970 64,682 Fuel expense 4,166 5,500 20,122 21,460 Other operating expenses 83,032 75,333 242,783 309,508 Impairment of goodwill \u2014 (79,068) \u2014 1,028,397 Total operating expenses 634,098 556,991 2,458,694 3,537,198 Income (loss) from continuing operations: Expedited Freight 15,206 7,238 69,780 67,951 Omni Logistics 9,852 88,520 30,162 (1,044,803) Intermodal 2,865 5,931 16,924 18,925 Other Operations (30,791) (25,834) (80,442) (105,009) Income (loss) from continuing operations (2,868) 75,855 36,424 (1,062,936) Other expense: Interest expense, net (45,099) (48,427) (180,747) (189,215) Foreign exchange loss 222 3,005 (5,892) 1,093 Other income (expense), net 2,635 1,188 3,018 1,226 Total other expense (42,242) (44,234) (183,621) (186,896) Income (loss) from continuing operations before income taxes (45,110) 31,621 (147,197) (1,249,832) Income tax (benefit) expense (8,697) 66,999 (5,472) (124,991) Loss from continuing operations (36,413) (35,378) (141,725) (1,124,841) Loss from discontinued operations, net of tax \u2014 (374) \u2014 (6,387) Net loss (36,413) (35,752) $ (141,725) $ (1,131,228) Net income (loss) attributable to noncontrolling interest (8,087) 664 (33,929) (314,259) Net loss attributable to FORWARD AIR CORP $ (28,326) $ (36,416) $ (107,796) $ (816,969) Basic and diluted loss per share attributable to FORWARD AIR CORP: Continuing operations $ (0.91) $ (1.23) $ (3.51) $ (30.40) Discontinued operation (0.01) \u2014 (0.23) Net loss per basic and diluted share $ (0.91) $ (1.24) $ (3.51) $ (30.63)",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "FORWARD AIR CORP Corporation Condensed Consolidated Statements of Comprehensive (Loss) Income (Unaudited, in thousands, except per share data) Three Months Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Operating revenue: Expe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Expedited Freight Segment Information (In thousands) (Unaudited) Three Months Ended December 31, 2025 Percent of Revenue December 31, 2024 Percent of Revenue Change Percent Change Operating revenue: Network 1 $ 183,914 74.5 % $ 199,022 74.8 % $ (15,108) (7.6) % Truckload 41,597 16.8 45,087 17.0 (3,490) (7.7) Other 21,417 8.7 21,770 8.2 (353) (1.6) Total operating revenue 246,928 100.0 265,879 100.0 (18,951) (7.1) Operating expenses: Purchased transportation 121,524 49.2 136,151 51.2 (14,627) (10.7) Salaries, wages and employee benefits 49,500 20.0 56,587 21.3 (7,087) (12.5) Operating leases 15,768 6.4 18,130 6.8 (2,362) (13.0) Depreciation and amortization 9,825 4.0 10,395 3.9 (570) (5.5) Insurance and claims 9,330 3.8 10,423 3.9 (1,093) (10.5) Fuel expense 1,841 0.7 2,605 1.0 (764) (29.3) Other operating expenses 23,934 9.7 24,350 9.2 (416) (1.7) Total operating expenses 231,722 93.8 258,641 97.3 (26,919) (10.4) Income from operations $ 15,206 6.2 % $ 7,238 2.7 % $ 7,968 110.1 % 1 Network revenue is comprised of all revenue, including linehaul, pickup and/or delivery, and fuel surcharge revenue, excluding accessorial and Truckload revenue.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Expedited Freight Segment Information (In thousands) (Unaudited) Three Months Ended December 31, 2025 Percent of Revenue December 31, 2024 Percent of Revenue Change Percent Change Operating revenue: Network 1 $ 183,914 74.5 % $ 199,022 74.8 % $ (15,108) (7.6) % Truckload 41,59...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "1 Network revenue is comprised of all revenue, including linehaul, pickup and/or delivery, and fuel surcharge revenue, excluding accessorial and Truckload revenue.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "1 Network revenue is comprised of all revenue, including linehaul, pickup and/or delivery, and fuel surcharge revenue, excluding accessorial and Truckload revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Expedited Freight Operating Statistics Three Months Ended December 31, 2025 December 31, 2024 Percent Change Business days 64 64 \u2014 % Tonnage 1,2 Total pounds 598,724 670,168 (10.7) Pounds per day 9,355 10,471 (10.7) Shipments 1,2 Total shipments 708 783 (9.6) Shipments per day 11.1 12.2 (9.0) Weight per shipment 846 856 (1.2) Revenue per hundredweight 3 $ 30.70 $ 29.70 3.4 Revenue per hundredweight, ex fuel 3 $ 24.30 $ 23.74 2.4 Revenue per shipment 3 $ 259.77 $ 254.30 2.2 Revenue per shipment, ex fuel 3 $ 205.63 $ 203.26 1.2 1 In thousands.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Expedited Freight Operating Statistics Three Months Ended December 31, 2025 December 31, 2024 Percent Change Business days 64 64 \u2014 % Tonnage 1,2 Total pounds 598,724 670,168 (10.7) Pounds per day 9,355 10,471 (10.7) Shipments 1,2 Total shipments 708 783 (9.6) Shipments per day...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Omni Logistics Segment Information (In thousands) (Unaudited) Three Months Ended December 31, 2025 Percent of Revenue December 31, 2024 Percent of Revenue Change Percent Change Operating revenue $ 359,794 100.0 % 325,609 100.0 % 34,185 10.5 % Operating expenses: Purchased transportation 207,699 57.7 183,084 56.2 24,615 13.4 Salaries, wages and employee benefits 55,398 15.4 54,056 16.6 1,342 2.5 Operating leases 31,818 8.8 23,036 7.1 8,782 38.1 Depreciation and amortization 26,058 7.2 22,605 6.9 3,453 15.3 Insurance and claims 1,117 0.3 3,911 1.2 (2,794) (71.4) Fuel expense 903 0.3 863 0.3 40 4.6 Other operating expenses 26,949 7.5 28,602 8.8 (1,653) (5.8) Impairment of goodwill \u2014 \u2014 (79,068) (24.3) 79,068 100.0 Total operating expenses 349,942 97.3 237,089 72.8 112,853 47.6 Income from operations 9,852 2.7 % 88,520 27.2 % (78,668) (88.9) %",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Omni Logistics Segment Information (In thousands) (Unaudited) Three Months Ended December 31, 2025 Percent of Revenue December 31, 2024 Percent of Revenue Change Percent Change Operating revenue $ 359,794 100.0 % 325,609 100.0 % 34,185 10.5 % Operating expenses: Purchased tran...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Intermodal Segment Information (In thousands) (Unaudited) Three Months Ended December 31, 2025 Percent of Revenue December 31, 2024 Percent of Revenue Change Percent Change Operating revenue $ 50,563 100.0 % $ 59,829 100.0 % $ (9,266) (15.5) % Operating expenses: Purchased transportation 17,351 34.3 18,901 31.6 (1,550) (8.2) Salaries, wages and employee benefits 12,126 24.0 14,227 23.8 (2,101) (14.8) Operating leases 4,910 9.7 6,463 10.8 (1,553) (24.0) Depreciation and amortization 4,325 8.6 4,519 7.6 (194) (4.3) Insurance and claims 2,829 5.6 2,498 4.2 331 13.3 Fuel expense 1,422 2.8 2,032 3.4 (610) (30.0) Other operating expenses 4,735 9.4 5,258 8.8 (523) (9.9) Total operating expenses 47,698 94.3 53,898 90.1 (6,200) (11.5) Income from operations $ 2,865 5.7 % $ 5,931 9.9 % $ (3,066) (51.7) %",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Intermodal Segment Information (In thousands) (Unaudited) Three Months Ended December 31, 2025 Percent of Revenue December 31, 2024 Percent of Revenue Change Percent Change Operating revenue $ 50,563 100.0 % $ 59,829 100.0 % $ (9,266) (15.5) % Operating expenses: Purchased tra...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "Intermodal Operating Statistics Three Months Ended December 31, 2025 December 31, 2024 Percent Change Drayage shipments 57,953 63,920 (9.3) % Drayage revenue per shipment $ 790 $ 847 (6.7) %",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Intermodal Operating Statistics Three Months Ended December 31, 2025 December 31, 2024 Percent Change Drayage shipments 57,953 63,920 (9.3) % Drayage revenue per shipment $ 790 $ 847 (6.7) %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "costs_or_expenses",
+      "claim": "FORWARD AIR CORP Corporation Condensed Consolidated Balance Sheets (In thousands) (Unaudited) December 31, 2025 December 31, 2024 Assets Current assets: Cash and cash equivalents $ 105,996 $ 104,903 Restricted cash and restricted cash equivalents \u2014 363 Accounts receivable, net 343,559 322,291 Other receivables 6,147 205 Prepaid expenses 28,045 29,053 Other current assets 37,254 15,685 Total current assets 521,001 472,500 Property and equipment, net of accumulated depreciation and amortization of $340,021 in 2025 and $292,855 in 2024 297,882 326,188 Operating lease right-of-use assets 412,535 410,084 Goodwill 522,712 522,712 Other acquired intangibles, net of accumulated amortization of $301,453 in 2025 and $212,905 in 2024 906,791 999,216 Other long term assets 58,023 71,941 Total assets $ 2,718,944 $ 2,802,641 Liabilities and Shareholders' Equity Current liabilities: Accounts payable $ 121,752 $ 105,692 Accrued expenses 114,422 119,836 Other current liabilities 69,130 45,148 Current portion finance lease obligations 15,995 16,930 Current portion of operating lease liabilities 107,026 96,440 Total current liabilities 428,325 384,046 Finance lease obligations, less current portion 22,387 30,858 Long-term debt 1,687,248 1,675,930 Liabilities under tax receivable agreement 11,548 13,295 Operating lease liabilities, less current portion 327,011 325,640 Other long-term liabilities 53,540 48,835 Deferred income taxes 27,221 38,169 Shareholders' equity: Preferred stock \u2014 \u2014 Common stock 313 298 Additional paid-in capital 559,551 542,392 Accumulated deficit (447,100) (338,230) Accumulated other comprehensive income (loss) 580 (2,732) Total FORWARD AIR CORP shareholders' equity 113,344 201,728 Noncontrolling interest 48,320 84,140 Total shareholders' equity 161,664 285,868 Total liabilities and shareholders' equity $ 2,718,944 $ 2,802,641",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "FORWARD AIR CORP Corporation Condensed Consolidated Balance Sheets (In thousands) (Unaudited) December 31, 2025 December 31, 2024 Assets Current assets: Cash and cash equivalents $ 105,996 $ 104,903 Restricted cash and restricted cash equivalents \u2014 363 Accounts receivable, net...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "FORWARD AIR CORP Corporation Condensed Consolidated Statements of Cash Flows (In thousands) (Unaudited) Three Months Ended December 31, 2025 December 31, 2024 Operating activities: Net loss from continuing operations $ (36,413) $ (35,378) Adjustments to reconcile net loss to net cash provided by (used in) operating activities: Depreciation and amortization 40,724 37,657 Impairment of goodwill \u2014 (79,068) Share-based compensation expense 2,380 2,100 Provision for revenue adjustments 930 874 Deferred income tax (benefit) expense (10,425) 63,646 Impairment of abandoned software project costs 19,765 \u2014 Other 493 10,621 Changes in operating assets and liabilities, net of effects from the purchase of acquired businesses: Accounts receivable (2,114) 43,596 Other receivables (7,092) 3,518 Other current and noncurrent assets (28,804) 3,130 Accounts payable and accrued expenses (2,172) (73,941) Net cash used in operating activities of continuing operations (22,728) (23,245) Investing activities: Proceeds from sale of property and equipment 415 2,644 Purchases of property and equipment (8,351) (7,250) Purchases of a business, net of cash acquired \u2014 (10,977) Other (125) Net cash used in investing activities of continuing operations (7,936) (15,708) Financing activities: Repayments of finance lease obligations (4,319) (3,086) Proceeds from credit facility 25,000 75,000 Payments on credit facility (25,000) (75,000) Payment of debt issuance costs \u2014 8,120 Proceeds from common stock issued under employee stock purchase plan 412 398 Payment of minimum tax withholdings on share-based awards (21) 130 Net cash (used in) provided by financing activities of continuing operations (3,928) 5,562 Effect of exchange rate changes on cash 234 875 Net decrease in cash and cash equivalents and restricted cash and restricted cash equivalents from continuing operations (34,358) (32,516) Cash from discontinued operation: Net cash used in operating activities of discontinued operations \u2014 (374) Net decrease in cash and cash equivalents, and restricted cash and restricted cash equivalents (34,358) (32,890) Cash and cash equivalents, and restricted cash and restricted cash equivalents at beginning of period 140,354 138,156 Net decrease in cash and cash equivalents, and restricted cash and restricted cash equivalents (34,358) (32,890) Cash and cash equivalents, and restricted cash and restricted cash equivalents at end of period $ 105,996 $ 105,266",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "FORWARD AIR CORP Corporation Condensed Consolidated Statements of Cash Flows (In thousands) (Unaudited) Three Months Ended December 31, 2025 December 31, 2024 Operating activities: Net loss from continuing operations $ (36,413) $ (35,378) Adjustments to reconcile net loss to n...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "FORWARD AIR CORP Corporation Condensed Consolidated Statements of Cash Flows (In thousands) (Unaudited) Twelve Months Ended December 31, 2025 December 31, 2024 Operating activities: Net loss from continuing operations $ (141,725) $ (1,124,841) Adjustments to reconcile net loss to net cash provided by (used in) operating activities: Depreciation and amortization 152,638 143,978 Impairment of goodwill \u2014 1,028,397 Share-based compensation expense 13,429 10,188 Provision for revenue adjustments 3,249 3,635 Deferred income tax benefit (10,948) (133,510) Impairment of abandoned software project costs 19,765 \u2014 Other 11,504 14,917 Changes in operating assets and liabilities, net of effects from the purchase of acquired businesses: Accounts receivable (18,005) 9,546 Other receivables (7,365) 9,677 Other current and noncurrent assets (24,422) (15,085) Accounts payable and accrued expenses 46,264 (15,917) Net cash provided by (used in) operating activities of continuing operations 44,384 (69,015) Investing activities: Proceeds from sale of property and equipment 2,204 5,137 Purchases of property and equipment (29,116) (37,060) Purchase of a business, net of cash acquired \u2014 (1,576,219) Other \u2014 (444) Net cash used in investing activities of continuing operations (26,912) (1,608,586) Financing activities: Repayments of finance lease obligations (17,305) (18,425) Proceeds from credit facility 110,000 75,000 Payments on credit facility (110,000) (155,000) Payment of debt issuance costs \u2014 (52,471) Payment of earn-out liability \u2014 (12,247) Proceeds from common stock issued under employee stock purchase plan 846 753 Payment of minimum tax withholdings on share-based awards (1,074) (1,442) Net cash used in financing activities of continuing operations (17,533) (163,832) Effect of exchange rate changes on cash 791 1,013 Net increase (decrease) in cash and cash equivalents and restricted cash and restricted cash equivalents from continuing operations 730 (1,840,420) Cash from discontinued operation: Net cash used in operating activities of discontinued operations \u2014 (6,387) Net increase (decrease) in cash and cash equivalents, and restricted cash and restricted cash equivalents 730 (1,846,807) Cash and cash equivalents, and restricted cash and restricted cash equivalents at beginning of period 105,266 1,952,073 Net increase (decrease) in cash, cash equivalents, and restricted cash equivalents 730 (1,846,807) Cash and cash equivalents, and restricted cash and restricted cash equivalents at end of period $ 105,996 $ 105,266",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "FORWARD AIR CORP Corporation Condensed Consolidated Statements of Cash Flows (In thousands) (Unaudited) Twelve Months Ended December 31, 2025 December 31, 2024 Operating activities: Net loss from continuing operations $ (141,725) $ (1,124,841) Adjustments to reconcile net loss...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "balance_sheet_or_cash",
+      "claim": "FORWARD AIR CORP Corporation Reconciliation of Non-GAAP Financial Measures",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "FORWARD AIR CORP Corporation Reconciliation of Non-GAAP Financial Measures",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "In this press release, the Company includes financial measures that are derived on the basis of methodologies other than in accordance with accounting principles generally accepted in the United States (GAAP).",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "In this press release, the Company includes financial measures that are derived on the basis of methodologies other than in accordance with accounting principles generally accepted in the United States (GAAP). The Company believes that meaningful analysis of its financial perf...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "margins",
+      "claim": "For the three and twelve months ended December 31, 2025 and 2024, this press release contains the following non-GAAP financial measures: earnings before interest, taxes, depreciation and amortization (\u201cReported EBITDA\u201d), Consolidated EBITDA and free cash flow.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "For the three and twelve months ended December 31, 2025 and 2024, this press release contains the following non-GAAP financial measures: earnings before interest, taxes, depreciation and amortization (\u201cReported EBITDA\u201d), Consolidated EBITDA and free cash flow.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "balance_sheet_or_cash",
+      "claim": "All non-GAAP financial measures are presented on a continuing operations basis.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "All non-GAAP financial measures are presented on a continuing operations basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "margins",
+      "claim": "The Company believes that Reported EBITDA improves comparability from period to period by removing the impact of its capital structure (interest and financing expenses), asset base (depreciation and amortization) and tax impacts.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "The Company believes that Reported EBITDA improves comparability from period to period by removing the impact of its capital structure (interest and financing expenses), asset base (depreciation and amortization) and tax impacts. The Company believes that free cash flow is an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "margins",
+      "claim": "The Company is also providing Consolidated EBITDA calculated in accordance with our credit agreement as we believe it provides investors with important information regarding our financial condition and compliance with our obligations under our credit agreement.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "The Company is also providing Consolidated EBITDA calculated in accordance with our credit agreement as we believe it provides investors with important information regarding our financial condition and compliance with our obligations under our credit agreement.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "balance_sheet_or_cash",
+      "claim": "Non-GAAP financial measures should be viewed in addition to, and not as an alternative to or substitute for, the Company\u2019s financial results prepared in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Non-GAAP financial measures should be viewed in addition to, and not as an alternative to or substitute for, the Company\u2019s financial results prepared in accordance with GAAP. The Company has included, for the periods indicated, a reconciliation of the non-GAAP financial measur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "The following is a reconciliation of net income to Consolidated EBITDA for the three and twelve months ended December 31, 2025 and 2024 (in thousands):",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "The following is a reconciliation of net income to Consolidated EBITDA for the three and twelve months ended December 31, 2025 and 2024 (in thousands):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "margins",
+      "claim": "Three Months Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Loss from continuing operations $ (36,413) $ (35,378) $ (141,725) $ (1,124,841) Interest expense 45,099 48,427 180,747 189,215 Income tax (benefit) expense (8,697) 66,999 (5,472) (124,991) Depreciation and amortization 40,724 37,657 152,638 143,978 Reported EBITDA 40,713 117,705 186,188 (916,639) Impairment of Goodwill \u2014 (79,068) \u2014 1,028,397 Transaction and integration costs 5,746 10,074 31,473 81,467 Severance costs 570 1,923 5,743 16,337 Change in the TRA Liability (2,583) \u2014 (1,747) \u2014 Optimization project costs \u2014 9,873 2,732 9,873 Abandoned software project costs 19,765 \u2014 19,765 \u2014 Proforma synergies \u2014 1,353 \u2014 22,239 Proforma savings 1,350 8,051 14,117 35,625 Other 11,067 2,352 48,858 33,415 Consolidated EBITDA $ 76,628 $ 72,263 $ 307,129 $ 310,714",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Three Months Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Loss from continuing operations $ (36,413) $ (35,378) $ (141,725) $ (1,124,841) Interest expense 45,099 48,427 180,747 189,215 Income tax (benefit) expense (8,697) 66...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "balance_sheet_or_cash",
+      "claim": "The following is a reconciliation of net cash (used in) provided by operating activities to free cash flow for the three and twelve months ended December 31, 2025 and 2024 (in thousands):",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "The following is a reconciliation of net cash (used in) provided by operating activities to free cash flow for the three and twelve months ended December 31, 2025 and 2024 (in thousands):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "balance_sheet_or_cash",
+      "claim": "Three Months Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net cash (used in) provided by operating activities $ (22,728) $ (23,245) $ 44,384 $ (69,015) Proceeds from sale of property and equipment 415 2,644 2,204 5,137 Purchases of property and equipment (8,351) (7,250) (29,116) (37,060) Free cash flow $ (30,664) $ (27,851) $ 17,472 $ (100,938)",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Three Months Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net cash (used in) provided by operating activities $ (22,728) $ (23,245) $ 44,384 $ (69,015) Proceeds from sale of property and equipment 415 2,644 2,204 5,137 Purch...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "FORWARD AIR CORP-looking statements are neither historical facts nor assurances of future performance.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "FORWARD AIR CORP-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, projections, anticipated...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "balance_sheet_or_cash",
+      "claim": "We caution readers that any FORWARD AIR CORP-looking statement made by us in this press release is based only on information currently available to us and they should not place undue reliance on any FORWARD AIR CORP-looking statement, which reflects management's opinion as of the date on which it is made.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "We caution readers that any FORWARD AIR CORP-looking statement made by us in this press release is based only on information currently available to us and they should not place undue reliance on any FORWARD AIR CORP-looking statement, which reflects management's opinion as of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.025811, ret_20d=-0.022831, market_ret_20d=0.000653",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.025811, ret_20d=-0.022831, market_ret_20d=0.000653",
+      "support_label": "supported"
+    }
+  ]
+}

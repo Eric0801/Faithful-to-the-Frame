@@ -1,0 +1,809 @@
+{
+  "event_id": "evt_0007",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Kraft Heinz Co",
+  "ticker": "KHC",
+  "company_alias": "Kraft Heinz Co",
+  "masked_company": "Company AJ",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-11",
+  "accepted_at_et": "2026-02-11T07:06:00-05:00",
+  "source_packet_path": "source_packets/evt_0007.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Contacts: Kraft Heinz Co Media Team Anne-Marie Megela (investors) media@kraftheinz.com Anne-Marie.Megela@kraftheinz.com",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Contacts: Kraft Heinz Co Media Team Anne-Marie Megela (investors) media@kraftheinz.com Anne-Marie.Megela@kraftheinz.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "Announces $600 Million Investment in Commercial Levers to Return to Profitable Growth; Pauses Work Related to Separation",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Announces $600 Million Investment in Commercial Levers to Return to Profitable Growth; Pauses Work Related to Separation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "\u2022 Net sales decreased 3.5%; Organic Net Sales (1) decreased 3.4%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Net sales decreased 3.5%; Organic Net Sales (1) decreased 3.4%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "\u2022 Gross profit margin decreased 140 basis points to 33.3%; Adjusted Gross Profit Margin (1) decrease d 120 basis points to 33.5%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Gross profit margin decreased 140 basis points to 33.3%; Adjusted Gross Profit Margin (1) decrease d 120 basis points to 33.5%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "\u2022 Operating Income/(Loss) was a loss of $4.7 billion, driven by non-cash impairment losses of $9.3 billion; Adjusted Operating Income (1) was $4.7 billion, down 11.5%",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Operating Income/(Loss) was a loss of $4.7 billion, driven by non-cash impairment losses of $9.3 billion; Adjusted Operating Income (1) was $4.7 billion, down 11.5%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u2022 Net cash provided by operating activities was $4.5 billion, up 6.6%; Free Cash Flow (1) was $3.7 billion, up 15.9%",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities was $4.5 billion, up 6.6%; Free Cash Flow (1) was $3.7 billion, up 15.9%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 Return of capital to stockholders was $2.3 billion",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Return of capital to stockholders was $2.3 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\u2022 Net sales decreased 3.4%; Organic Net Sales decreased 4.2%",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Net sales decreased 3.4%; Organic Net Sales decreased 4.2%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\u2022 Gross profit margin decreased 150 basis points to 32.6%; Adjusted Gross Profit Margin decreased 130 basis points to 33.1%",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Gross profit margin decreased 150 basis points to 32.6%; Adjusted Gross Profit Margin decreased 130 basis points to 33.1%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "\u2022 Operating Income/(Loss) was income of $1.1 billion; Adjusted Operating Income was $1.2 billion, down 15.9%.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Operating Income/(Loss) was income of $1.1 billion; Adjusted Operating Income was $1.2 billion, down 15.9%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "\u2022 Diluted EPS was $0.55, down 68.8%; Adjusted EPS was $0.67, down 20.2%",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Diluted EPS was $0.55, down 68.8%; Adjusted EPS was $0.67, down 20.2%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "PITTSBURGH & CHICAGO \u2013 2026-02-11T07:06:00-05:00 \u2013 The Kraft Heinz Co Company (Nasdaq:KHC) (\u201cKraft Heinz Co\u201d or the \u201cCompany\u201d) today reported financial results for the fourth quarter and full year 2025 and introduced its 2026 operating plan.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "PITTSBURGH & CHICAGO \u2013 2026-02-11T07:06:00-05:00 \u2013 The Kraft Heinz Co Company (Nasdaq:KHC) (\u201cKraft Heinz Co\u201d or the \u201cCompany\u201d) today reported financial results for the fourth quarter and full year 2025 and introduced its 2026 operating plan.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "\u201cWhen I decided to join Kraft Heinz Co, I knew that this was an exciting opportunity to contemporize iconic brands, better serve consumers and customers, and build meaningful shareholder value.\u201d said CEO of Kraft Heinz Co.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u201cWhen I decided to join Kraft Heinz Co, I knew that this was an exciting opportunity to contemporize iconic brands, better serve consumers and customers, and build meaningful shareholder value.\u201d said CEO of Kraft Heinz Co. \u201cSince joining the company, I have seen that the oppor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "returning the business to profitable growth, which will require ensuring all resources are fully focused on the execution of our operating plan.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "returning the business to profitable growth, which will require ensuring all resources are fully focused on the execution of our operating plan. As a result, we believe it is prudent to pause work related to the separation and we will no longer incur related dis-synergies this...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "Cahillane continued, \u201cIn order to accelerate the momentum we are already seeing in our Taste Elevation portfolio and to drive recovery in our U.S.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Cahillane continued, \u201cIn order to accelerate the momentum we are already seeing in our Taste Elevation portfolio and to drive recovery in our U.S. business, we are today announcing a $600 million investment across Marketing, Sales, and R&D as well as product superiority and se...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "\u201cKraft Heinz Co is already seeing the benefit of Steve\u2019s deep industry experience and proven track record of building brands and leading large-scale transformations,\u201d said John T.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u201cKraft Heinz Co is already seeing the benefit of Steve\u2019s deep industry experience and proven track record of building brands and leading large-scale transformations,\u201d said John T. Cahill, Chair of Kraft Heinz Co\u2019s Board. \u201cFrom day one, he has brought a fresh, consumer-first pe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "Net Sales In millions Net Sales Organic Net Sales (1) December 27, 2025 December 28, 2024 % Chg vs PY YoY Growth Rate Price Volume/Mix For the Three Months Ended North America $ 4,700 $ 4,968 (5.4) % (5.4) % 0.0 pp (5.4) pp International Developed Markets 930 913 1.8 % (2.4) % 1.8 pp (4.2) pp Emerging Markets (a) 724 695 4.3 % 2.2 % 2.4 pp (0.2) pp Kraft Heinz Co $ 6,354 $ 6,576 (3.4) % (4.2) % 0.5 pp (4.7) pp For the Year Ended North America $ 18,586 $ 19,543 (4.9) % (4.7) % 0.3 pp (5.0) pp International Developed Markets 3,539 3,535 0.1 % (1.9) % 0.9 pp (2.8) pp Emerging Markets (a) 2,817 2,768 1.8 % 4.6 % 4.0 pp 0.6 pp Kraft Heinz Co $ 24,942 $ 25,846 (3.5) % (3.4) % 0.7 pp (4.1) pp",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Net Sales In millions Net Sales Organic Net Sales (1) December 27, 2025 December 28, 2024 % Chg vs PY YoY Growth Rate Price Volume/Mix For the Three Months Ended North America $ 4,700 $ 4,968 (5.4) % (5.4) % 0.0 pp (5.4) pp International Developed Markets 930 913 1.8 % (2.4) %...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "(a) Emerging Markets represents the aggregation of our WEEM and AEM operating segments.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "(a) Emerging Markets represents the aggregation of our WEEM and AEM operating segments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "Net Income/(Loss) and Diluted EPS In millions, except per share data For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 % Chg vs PY December 27, 2025 December 28, 2024 % Chg vs PY Gross profit $ 2,072 $ 2,245 (7.7) % $ 8,309 $ 8,968 (7.3) % Operating income/(loss) 1,084 (40) 2,810.0 % (4,669) 1,683 (377.4) % Net income/(loss) 648 2,132 (69.6) % (5,848) 2,746 (313.0) % Net income/(loss) attributable to common shareholders 651 2,131 (69.5) % (5,846) 2,744 (313.0) % Diluted EPS $ 0.55 $ 1.76 (68.8) % $ (4.93) $ 2.26 (318.1) % Adjusted EPS (1) 0.67 0.84 (20.2) % 2.60 3.06 (15.0) % Adjusted Operating Income (1) $ 1,164 $ 1,385 (15.9) % $ 4,745 $ 5,360 (11.5) %",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Net Income/(Loss) and Diluted EPS In millions, except per share data For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 % Chg vs PY December 27, 2025 December 28, 2024 % Chg vs PY Gross profit $ 2,072 $ 2,245 (7.7) % $ 8,309 $ 8,968 (7.3) % Opera...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "\u2022 Net Sales decreased 3.5 percent versus the year-ago period to $24.9 billion, including an unfavorable 0.1 percentage point impact from foreign curren cy.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Net Sales decreased 3.5 percent versus the year-ago period to $24.9 billion, including an unfavorable 0.1 percentage point impact from foreign curren cy. Organic Net Sales (1) decreased 3.4 percent versus the prior year period. Price increased 0.7 percentage points versus th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "margins",
+      "claim": "\u2022 Operating Income/(Loss) decreas ed 377.4 percent versus the year-ago period to a loss of $4.7 billion, primarily due to non-cash impairment losses that were $5.6 billion higher than the prior year.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 Operating Income/(Loss) decreas ed 377.4 percent versus the year-ago period to a loss of $4.7 billion, primarily due to non-cash impairment losses that were $5.6 billion higher than the prior year. The remaining change to Operating Income/(Loss) was a decrease of $715 millio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted EPS was $(4.93), down 318.1 percent versus the prior year period, primarily driven by higher non-cash impairment losses in the current year.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 Diluted EPS was $(4.93), down 318.1 percent versus the prior year period, primarily driven by higher non-cash impairment losses in the current year. Adjusted EPS (1) was $2.60, down 15.0 percent versus the prior year period, primarily driven by lower Adjusted Operating Incom...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "margins",
+      "claim": "\u2022 Net cash provided by/(used for) operating activities was $4.5 billion, up 6.6 percent versus the year-ago period.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Net cash provided by/(used for) operating activities was $4.5 billion, up 6.6 percent versus the year-ago period. This increase was primarily driven by improvements in working capital, predominately within inventory, lower income taxes paid, reduced cash outflows for variabl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Capital Return: In fiscal year 2025, the Company paid $1.9 billion in cash dividends and repurchased $436 million of common stock.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 Capital Return: In fiscal year 2025, the Company paid $1.9 billion in cash dividends and repurchased $436 million of common stock. Of the $436 million in share repurchases, approximately $400 million were repurchased under the Company\u2019s publicly announced share repurchase pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "\u2022 Net sales decreased 3.4 percent versus the year-ago period to $6.4 billion, including a favorable 0.8 percentage point impact from foreign currency.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 Net sales decreased 3.4 percent versus the year-ago period to $6.4 billion, including a favorable 0.8 percentage point impact from foreign currency. Organic Net Sales (1) decreased 4.2 percent versus the prior year period. Price increased 0.5 percentage points versus the pri...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "margins",
+      "claim": "\u2022 Operating Income/(Loss) increased 2,810.0 percent versus the year-ago period to $1,084 million, primarily due to non-cash impairment losses that were $1.4 billion higher in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 Operating Income/(Loss) increased 2,810.0 percent versus the year-ago period to $1,084 million, primarily due to non-cash impairment losses that were $1.4 billion higher in the prior year period. Adjusted Operating Income (1) decreased 15.9 percent versus the year-ago period...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted EPS was $0.55, down 68.8 percent versus the prior year period, primarily driven by the recognition of a $3.0 billion non-U.S.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 Diluted EPS was $0.55, down 68.8 percent versus the prior year period, primarily driven by the recognition of a $3.0 billion non-U.S. deferred tax asset and associated valuation allowance of $0.6 billion related to the transfer of certain business operations to a wholly-owne...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "\u2022 Organic Net Sales (1)(2) down 1.5 percent to down 3.5 percent versus the prior year.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 Organic Net Sales (1)(2) down 1.5 percent to down 3.5 percent versus the prior year. This includes an approximate 100 basis point impact from incremental SNAP headwinds.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "\u2022 Constant Currency Adjusted Operating Income (1)(2) down 14 percent to down 18 percent versus the prior year.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 Constant Currency Adjusted Operating Income (1)(2) down 14 percent to down 18 percent versus the prior year. This includes incremental investments of approximately $600 million across marketing, sales, and R&D as well as product superiority and price. It also includes the im...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "\u2022 Adjusted EPS (1)(2) in the range of $1.98 to $2.10.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "\u2022 Adjusted EPS (1)(2) in the range of $1.98 to $2.10. The Company expects an effective tax rate on Adjusted EPS to be approximately 25.5 percent. Additionally, the Company expects interest expense to be approximately $940 million and other expense/(income) to be approximately...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "\u2022 Free Cash Flow Conversion (1)(2) of approximately 100 percent.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 Free Cash Flow Conversion (1)(2) of approximately 100 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "(1) Organic Net Sales, Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Operating Income, Constant Currency Adjusted Operating Income, Adjusted EBITDA, Adjusted EPS, Free Cash Flow, Free Cash Flow Conversion, and Net Leverage are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "(1) Organic Net Sales, Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Operating Income, Constant Currency Adjusted Operating Income, Adjusted EBITDA, Adjusted EPS, Free Cash Flow, Free Cash Flow Conversion, and Net Leverage are non-GAAP financial measures. Pleas...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "(2) Guidance for Organic Net Sales, Adjusted Gross Profit Margin, Constant Currency Adjusted Operating Income, Adjusted EPS, Free Cash Flow, and Free Cash Flow Conversion is provided on a non-GAAP basis only because certain information necessary to calculate the most comparable GAAP measure is unavailable due to the uncertainty and inherent difficulty of predicting the occurrence and the future financial statement impact of such items impacting comparability, including, but not limited to, the impact of currency, acquisitions and divestitures, divestiture-related license income, restructuring activities, deal costs, separation costs, unrealized losses/(gains) on commodity hedges, impairment losses, certain non-ordinary course legal and regulatory matters, equity award compensation expense, nonmonetary currency devaluation, and debt prepayment and extinguishment (benefit)/costs, among other items.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "(2) Guidance for Organic Net Sales, Adjusted Gross Profit Margin, Constant Currency Adjusted Operating Income, Adjusted EPS, Free Cash Flow, and Free Cash Flow Conversion is provided on a non-GAAP basis only because certain information necessary to calculate the most comparabl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "We are driving transformation at The Kraft Heinz Co Company (Nasdaq:KHC), inspired by our Purpose, Let\u2019s Make Life Delicious .",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "We are driving transformation at The Kraft Heinz Co Company (Nasdaq:KHC), inspired by our Purpose, Let\u2019s Make Life Delicious . Consumers are at the center of everything we do. With 2025 net sales of approximately $25 billion, we are committed to growing our iconic and emerging...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "The non-GAAP financial measures provided in this press release should be viewed in addition to, and not as an alternative for, results prepared in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d).",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "The non-GAAP financial measures provided in this press release should be viewed in addition to, and not as an alternative for, results prepared in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "To supplement the financial information provided, the Company has presented Organic Net Sales, Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Operating Income, Constant Currency Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income/(Loss), Adjusted EPS, Free Cash Flow, and Net Leverage which are considered non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "To supplement the financial information provided, the Company has presented Organic Net Sales, Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Operating Income, Constant Currency Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income/(Loss), Adjusted EPS...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Management uses these non-GAAP financial measures to assist in comparing the Company\u2019s performance on a consistent basis for purposes of business decision making by removing the impact of certain items that management believes do not directly reflect the Company\u2019s underlying operations.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Management uses these non-GAAP financial measures to assist in comparing the Company\u2019s performance on a consistent basis for purposes of business decision making by removing the impact of certain items that management believes do not directly reflect the Company\u2019s underlying o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "\u2022 Organic Net Sales, Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Operating Income, Constant Currency Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income/(Loss), and Adjusted EPS provide important comparability of underlying operating results, allowing investors and management to assess the Company\u2019s operating performance on a consistent basis; and",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Organic Net Sales, Adjusted Gross Profit, Adjusted Gross Profit Margin, Adjusted Operating Income, Constant Currency Adjusted Operating Income, Adjusted EBITDA, Adjusted Net Income/(Loss), and Adjusted EPS provide important comparability of underlying operating results, allo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Free Cash Flow and Net Leverage provide a measure of the Company\u2019s core operating performance, the cash-generating capabilities of the Company\u2019s business operations, and are factors used in determining the Company\u2019s borrowing capacity and the amount of cash available for debt repayments, dividends, acquisitions, share repurchases, and other corporate purposes.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Free Cash Flow and Net Leverage provide a measure of the Company\u2019s core operating performance, the cash-generating capabilities of the Company\u2019s business operations, and are factors used in determining the Company\u2019s borrowing capacity and the amount of cash available for deb...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "Management believes that presenting the Company\u2019s non-GAAP financial measures is useful to investors because it (i) provides investors with meaningful supplemental information regarding financial performance by excluding certain items, (ii) permits investors to view performance using the same tools that management uses to budget, make operating and strategic decisions, and evaluate historical performance, and (iii) otherwise provides supplemental information that may be useful to investors in evaluating the Company\u2019s results.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Management believes that presenting the Company\u2019s non-GAAP financial measures is useful to investors because it (i) provides investors with meaningful supplemental information regarding financial performance by excluding certain items, (ii) permits investors to view performanc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Organic Net Sales is defined as net sales excluding, when they occur, the impact of currency, acquisitions and divestitures, and a 53rd week of shipments.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Organic Net Sales is defined as net sales excluding, when they occur, the impact of currency, acquisitions and divestitures, and a 53rd week of shipments. The Company calculates the impact of currency on net sales by holding exchange rates constant at the previous year's excha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "margins",
+      "claim": "Adjusted Operating Income is defined as operating income/(loss) excluding, when they occur, the impacts of restructuring activities, deal costs, separation costs, unrealized gains/(losses) on commodity hedges (the unrealized gains and losses are recorded in general corporate expenses until realized; once realized, the gains and losses are recorded in the applicable segment\u2019s operating results), impairment losses, and certain non-ordinary course legal and regulatory matters.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Adjusted Operating Income is defined as operating income/(loss) excluding, when they occur, the impacts of restructuring activities, deal costs, separation costs, unrealized gains/(losses) on commodity hedges (the unrealized gains and losses are recorded in general corporate e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "Adjusted Gross Profit, Adjusted Net Income/(Loss), and Adjusted EPS are defined as gross profit, net income/(loss), and diluted earnings per share, respectively, excluding, when they occur, the impacts of restructuring activities, deal costs, separation costs, unrealized losses/(gains) on commodity hedges, impairment losses, certain non-ordinary course legal and regulatory matters, losses/(gains) on the sale of a business, other losses/(gains) related to acquisitions and divestitures (e.g., tax and hedging impacts), nonmonetary currency devaluation (e.g., remeasurement gains and losses), debt prepayment and extinguishment (benefit)/costs, and certain significant discrete income tax items, and including when they occur, adjustments to reflect preferred stock dividend payments on an accrual basis.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Adjusted Gross Profit, Adjusted Net Income/(Loss), and Adjusted EPS are defined as gross profit, net income/(loss), and diluted earnings per share, respectively, excluding, when they occur, the impacts of restructuring activities, deal costs, separation costs, unrealized losse...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "earnings_or_eps",
+      "claim": "Net Leverage is defined as debt less cash, cash equivalents and short-term investments divided by Adjusted EBITDA.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Net Leverage is defined as debt less cash, cash equivalents and short-term investments divided by Adjusted EBITDA. Adjusted EBITDA is defined as net income/(loss) from continuing operations before interest expense, other expense/(income), provision for/(benefit from) income ta...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "costs_or_expenses",
+      "claim": "Free Cash Flow is defined as net cash provided by/(used for) operating activities less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Free Cash Flow is defined as net cash provided by/(used for) operating activities less capital expenditures. The use of this non-GAAP measure does not imply or represent the residual cash flow for discretionary expenditures since the Company has certain non-discretionary oblig...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "revenue",
+      "claim": "Schedule 1 The Kraft Heinz Co Company Consolidated Statements of Income (in millions, except per share data) (Unaudited) For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 December 27, 2025 December 28, 2024 Net sales $ 6,354 $ 6,576 $ 24,942 $ 25,846 Cost of products sold 4,282 4,331 16,633 16,878 Gross profit 2,072 2,245 8,309 8,968 Selling, general and administrative expenses, excluding impairment losses 983 898 3,672 3,616 Goodwill impairment losses 5 77 6,734 1,638 Intangible asset impairment losses \u2014 1,310 2,572 2,031 Selling, general and administrative expenses 988 2,285 12,978 7,285 Operating income/(loss) 1,084 (40) (4,669) 1,683 Interest expense 238 227 947 912 Other expense/(income) (51) (29) (171) (85) Income/(loss) before income taxes 897 (238) (5,445) 856 Provision for/(benefit from) income taxes 249 (2,370) 403 (1,890) Net income/(loss) 648 2,132 (5,848) 2,746 Net income/(loss) attributable to noncontrolling interest (3) 1 (2) 2 Net income/(loss) attributable to common shareholders $ 651 $ 2,131 $ (5,846) $ 2,744 Basic shares outstanding 1,184 1,203 1,187 1,210 Diluted shares outstanding 1,187 1,207 1,187 1,215 Per share data applicable to common shareholders: Basic earnings/(loss) per share $ 0.55 $ 1.77 $ (4.93) $ 2.27 Diluted earnings/(loss) per share 0.55 1.76 (4.93) 2.26",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Schedule 1 The Kraft Heinz Co Company Consolidated Statements of Income (in millions, except per share data) (Unaudited) For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 December 27, 2025 December 28, 2024 Net sales $ 6,354 $ 6,576 $ 24,942 $ 2...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Schedule 2 The Kraft Heinz Co Company Reconciliation of Net Sales to Organic Net Sales For the Three Months Ended (dollars in millions) (Unaudited) Net Sales Currency Organic Net Sales Price Volume/Mix December 27, 2025 North America $ 4,700 $ \u2014 $ 4,700 International Developed Markets 930 39 891 Emerging Markets (a) 724 38 686 Kraft Heinz Co $ 6,354 $ 77 $ 6,277 December 28, 2024 North America $ 4,968 $ \u2014 $ 4,968 International Developed Markets 913 \u2014 913 Emerging Markets (a) 695 24 671 Kraft Heinz Co $ 6,576 $ 24 $ 6,552",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Schedule 2 The Kraft Heinz Co Company Reconciliation of Net Sales to Organic Net Sales For the Three Months Ended (dollars in millions) (Unaudited) Net Sales Currency Organic Net Sales Price Volume/Mix December 27, 2025 North America $ 4,700 $ \u2014 $ 4,700 International Developed...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "Year-over-year growth rates North America (5.4) % 0.0 pp (5.4) % 0.0 pp (5.4) pp International Developed Markets 1.8 % 4.2 pp (2.4) % 1.8 pp (4.2) pp Emerging Markets (a) 4.3 % 2.1 pp 2.2 % 2.4 pp (0.2) pp Kraft Heinz Co (3.4) % 0.8 pp (4.2) % 0.5 pp (4.7) pp",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Year-over-year growth rates North America (5.4) % 0.0 pp (5.4) % 0.0 pp (5.4) pp International Developed Markets 1.8 % 4.2 pp (2.4) % 1.8 pp (4.2) pp Emerging Markets (a) 4.3 % 2.1 pp 2.2 % 2.4 pp (0.2) pp Kraft Heinz Co (3.4) % 0.8 pp (4.2) % 0.5 pp (4.7) pp",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "Schedule 3 The Kraft Heinz Co Company Reconciliation of Net Sales to Organic Net Sales For the Year Ended (dollars in millions) (Unaudited) Net Sales Currency Acquisitions and Divestitures Organic Net Sales Price Volume/Mix December 27, 2025 North America $ 18,586 $ (35) $ \u2014 $ 18,621 International Developed Markets 3,539 73 \u2014 3,466 Emerging Markets 2,817 15 \u2014 2,802 Kraft Heinz Co $ 24,942 $ 53 $ \u2014 $ 24,889 December 28, 2024 North America $ 19,543 $ \u2014 $ \u2014 $ 19,543 International Developed Markets 3,535 \u2014 \u2014 3,535 Emerging Markets 2,768 80 10 2,678 Kraft Heinz Co $ 25,846 $ 80 $ 10 $ 25,756",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Schedule 3 The Kraft Heinz Co Company Reconciliation of Net Sales to Organic Net Sales For the Year Ended (dollars in millions) (Unaudited) Net Sales Currency Acquisitions and Divestitures Organic Net Sales Price Volume/Mix December 27, 2025 North America $ 18,586 $ (35) $ \u2014 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "Year-over-year growth rates North America (4.9) % (0.2) pp 0.0 pp (4.7) % 0.3 pp (5.0) pp International Developed Markets 0.1 % 2.0 pp 0.0 pp (1.9) % 0.9 pp (2.8) pp Emerging Markets 1.8 % (2.4) pp (0.4) pp 4.6 % 4.0 pp 0.6 pp Kraft Heinz Co (3.5) % (0.1) pp 0.0 pp (3.4) % 0.7 pp (4.1) pp",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Year-over-year growth rates North America (4.9) % (0.2) pp 0.0 pp (4.7) % 0.3 pp (5.0) pp International Developed Markets 0.1 % 2.0 pp 0.0 pp (1.9) % 0.9 pp (2.8) pp Emerging Markets 1.8 % (2.4) pp (0.4) pp 4.6 % 4.0 pp 0.6 pp Kraft Heinz Co (3.5) % (0.1) pp 0.0 pp (3.4) % 0.7...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "margins",
+      "claim": "Schedule 4 The Kraft Heinz Co Company Reconciliation of Operating Income/(Loss) to Adjusted Operating Income (dollars in millions) (Unaudited) For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 December 27, 2025 December 28, 2024 Operating income/(loss) $ 1,084 $ (40) $ (4,669) $ 1,683 Restructuring activities 3 27 13 27 Unrealized losses/(gains) on commodity hedges 29 11 35 (19) Impairment losses 5 1,387 9,306 3,669 Separation costs 43 \u2014 60 \u2014 Adjusted Operating Income $ 1,164 $ 1,385 $ 4,745 $ 5,360 Segment Adjusted Operating Income: North America $ 1,097 $ 1,318 $ 4,389 $ 5,111 International Developed Markets 150 140 543 537 Total Segment Adjusted Operating Income 1,247 1,458 4,932 5,648 Emerging Markets 63 89 341 321 General corporate expenses (146) (162) (528) (609) Adjusted Operating Income $ 1,164 $ 1,385 $ 4,745 $ 5,360",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Schedule 4 The Kraft Heinz Co Company Reconciliation of Operating Income/(Loss) to Adjusted Operating Income (dollars in millions) (Unaudited) For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 December 27, 2025 December 28, 2024 Operating income...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "margins",
+      "claim": "Schedule 5 The Kraft Heinz Co Company Reconciliation of Adjusted Operating Income to Constant Currency Adjusted Operating Income For the Three Months Ended (dollars in millions) (Unaudited) Adjusted Operating Income Currency Constant Currency Adjusted Operating Income December 27, 2025 North America $ 1,097 $ \u2014 $ 1,097 International Developed Markets 150 7 143 Emerging Markets 63 4 59 General corporate expenses (146) (4) (142) Kraft Heinz Co $ 1,164 $ 7 $ 1,157 December 28, 2024 North America $ 1,318 $ \u2014 $ 1,318 International Developed Markets 140 \u2014 140 Emerging Markets 89 8 81 General corporate expenses (162) \u2014 (162) Kraft Heinz Co $ 1,385 $ 8 $ 1,377",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Schedule 5 The Kraft Heinz Co Company Reconciliation of Adjusted Operating Income to Constant Currency Adjusted Operating Income For the Three Months Ended (dollars in millions) (Unaudited) Adjusted Operating Income Currency Constant Currency Adjusted Operating Income December...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "margins",
+      "claim": "Year-over-year growth rates North America (16.8) % 0.0 pp (16.8) % International Developed Markets 6.6 % 4.5 pp 2.1 % Emerging Markets (28.8) % (1.9) pp (26.9) % General corporate expenses (10.1) % 2.1 pp (12.2) % Kraft Heinz Co (15.9) % 0.1 pp (16.0) %",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Year-over-year growth rates North America (16.8) % 0.0 pp (16.8) % International Developed Markets 6.6 % 4.5 pp 2.1 % Emerging Markets (28.8) % (1.9) pp (26.9) % General corporate expenses (10.1) % 2.1 pp (12.2) % Kraft Heinz Co (15.9) % 0.1 pp (16.0) %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "margins",
+      "claim": "Schedule 6 The Kraft Heinz Co Company Reconciliation of Adjusted Operating Income to Constant Currency Adjusted Operating Income For the Year Ended (dollars in millions) (Unaudited) Adjusted Operating Income Currency Constant Currency Adjusted Operating Income December 27, 2025 North America $ 4,389 $ (6) $ 4,395 International Developed Markets 543 18 525 Emerging Markets 341 6 335 General corporate expenses (528) (8) (520) Kraft Heinz Co $ 4,745 $ 10 $ 4,735 December 28, 2024 North America $ 5,111 $ \u2014 $ 5,111 International Developed Markets 537 \u2014 537 Emerging Markets 321 19 302 General corporate expenses (609) \u2014 (609) Kraft Heinz Co $ 5,360 $ 19 $ 5,341",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Schedule 6 The Kraft Heinz Co Company Reconciliation of Adjusted Operating Income to Constant Currency Adjusted Operating Income For the Year Ended (dollars in millions) (Unaudited) Adjusted Operating Income Currency Constant Currency Adjusted Operating Income December 27, 202...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "margins",
+      "claim": "Year-over-year growth rates North America (14.1) % (0.1) pp (14.0) % International Developed Markets 1.0 % 3.2 pp (2.2) % Emerging Markets 6.2 % (4.5) pp 10.7 % General corporate expenses (13.6) % 1.0 pp (14.6) % Kraft Heinz Co (11.5) % (0.1) pp (11.4) %",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Year-over-year growth rates North America (14.1) % (0.1) pp (14.0) % International Developed Markets 1.0 % 3.2 pp (2.2) % Emerging Markets 6.2 % (4.5) pp 10.7 % General corporate expenses (13.6) % 1.0 pp (14.6) % Kraft Heinz Co (11.5) % (0.1) pp (11.4) %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 7 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Three Months Ended December 27, 2025 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expense/(income) Income/(loss) before income taxes Provision for/(benefit from) income taxes Net income/(loss) Net income/(loss) attributable to noncontrolling interest Net income/(loss) attributable to common shareholders Diluted EPS GAAP Results $ 2,072 $ 988 $ 1,084 $ 238 $ (51) $ 897 $ 249 $ 648 $ (3) $ 651 $ 0.55 Items Affecting Comparability Restructuring activities \u2014 (3) 3 \u2014 \u2014 3 (6) 9 \u2014 9 0.01 Unrealized losses/(gains) on commodity hedges 29 \u2014 29 \u2014 \u2014 29 8 21 \u2014 21 0.02 Impairment losses \u2014 (5) 5 \u2014 \u2014 5 (2) 7 \u2014 7 0.01 Separation costs \u2014 (43) 43 \u2014 \u2014 43 3 40 \u2014 40 0.03 Losses/(gains) on sale of business \u2014 \u2014 \u2014 \u2014 2 (2) \u2014 (2) \u2014 (2) \u2014 Nonmonetary currency devaluation \u2014 \u2014 \u2014 \u2014 (8) 8 \u2014 8 \u2014 8 0.01 Certain significant discrete income tax items \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (63) 63 \u2014 63 0.04 Adjusted Non-GAAP Results $ 2,101 $ 1,164 $ 794 $ 0.67",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Schedule 7 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Three Months Ended December 27, 2025 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 8 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Three Months Ended December 28, 2024 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expense/(income) Income/(loss) before income taxes Provision for/(benefit from) income taxes Net income/(loss) Net income/(loss) attributable to noncontrolling interest Net income/(loss) attributable to common shareholders Diluted EPS GAAP Results $ 2,245 $ 2,285 $ (40) $ 227 $ (29) $ (238) $ (2,370) $ 2,132 $ 1 $ 2,131 $ 1.76 Items Affecting Comparability Restructuring activities 6 (21) 27 \u2014 (1) 28 4 24 \u2014 24 0.02 Unrealized losses/(gains) on commodity hedges 11 \u2014 11 \u2014 \u2014 11 4 7 \u2014 7 0.01 Impairment losses \u2014 (1,387) 1,387 \u2014 \u2014 1,387 304 1,083 \u2014 1,083 0.90 Losses/(gains) on sale of business \u2014 \u2014 \u2014 \u2014 (3) 3 \u2014 3 \u2014 3 \u2014 Nonmonetary currency devaluation \u2014 \u2014 \u2014 \u2014 (9) 9 \u2014 9 \u2014 9 0.01 Certain significant discrete income tax items \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 2,239 (2,239) \u2014 (2,239) (1.86) Adjusted Non-GAAP Results $ 2,262 $ 1,385 $ 1,019 $ 0.84",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Schedule 8 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Three Months Ended December 28, 2024 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 9 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Year Ended December 27, 2025 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expense/(income) Income/(loss) before income taxes Provision for/(benefit from) income taxes Net income/(loss) Net income/(loss) attributable to noncontrolling interest Net income/(loss) attributable to common shareholders Diluted EPS GAAP Results $ 8,309 $ 12,978 $ (4,669) $ 947 $ (171) $ (5,445) $ 403 $ (5,848) $ (2) $ (5,846) $ (4.93) Items Affecting Comparability Restructuring activities 1 (12) 13 \u2014 (8) 21 3 18 \u2014 18 0.02 Unrealized losses/(gains) on commodity hedges 35 \u2014 35 \u2014 \u2014 35 9 26 \u2014 26 0.02 Impairment losses \u2014 (9,306) 9,306 \u2014 \u2014 9,306 624 8,682 \u2014 8,682 7.31 Separation costs \u2014 (60) 60 \u2014 \u2014 60 7 53 \u2014 53 0.05 Losses/(gains) on sale of business \u2014 \u2014 \u2014 \u2014 (42) 42 \u2014 42 \u2014 42 0.04 Nonmonetary currency devaluation \u2014 \u2014 \u2014 \u2014 (34) 34 \u2014 34 \u2014 34 0.03 Certain significant discrete income tax items \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (73) 73 \u2014 73 0.06 Adjusted Non-GAAP Results $ 8,345 $ 4,745 $ 3,080 $ 2.60",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Schedule 9 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Year Ended December 27, 2025 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expense/(inc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 10 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Year Ended December 28, 2024 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expense/(income) Income/(loss) before income taxes Provision for/(benefit from) income taxes Net income/(loss) Net income/(loss) attributable to noncontrolling interest Net income/(loss) attributable to common shareholders Diluted EPS GAAP Results $ 8,968 $ 7,285 $ 1,683 $ 912 $ (85) $ 856 $ (1,890) $ 2,746 $ 2 $ 2,744 $ 2.26 Items Affecting Comparability Restructuring activities 8 (19) 27 \u2014 7 20 2 18 \u2014 18 0.01 Unrealized losses/(gains) on commodity hedges (19) \u2014 (19) \u2014 \u2014 (19) (4) (15) \u2014 (15) (0.01) Impairment losses \u2014 (3,669) 3,669 \u2014 \u2014 3,669 533 3,136 \u2014 3,136 2.58 Losses/(gains) on sale of business \u2014 \u2014 \u2014 \u2014 (81) 81 21 60 \u2014 60 0.05 Nonmonetary currency devaluation \u2014 \u2014 \u2014 \u2014 (16) 16 \u2014 16 \u2014 16 0.01 Certain significant discrete income tax items \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 2,239 (2,239) \u2014 (2,239) (1.84) Adjusted Non-GAAP Results $ 8,957 $ 5,360 $ 3,722 $ 3.06",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Schedule 10 The Kraft Heinz Co Company Reconciliation of GAAP Results to Non-GAAP Results (dollars in millions) (Unaudited) For the Year Ended December 28, 2024 Gross profit Selling, general and administrative expenses Operating income/(loss) Interest expense Other expense/(in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "Schedule 11 The Kraft Heinz Co Company Adjusted Gross Profit Margin (dollars in millions) (Unaudited) For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 December 27, 2025 December 28, 2024 Adjusted Gross Profit $ 2,101 $ 2,262 $ 8,345 $ 8,957 Net sales 6,354 $ 6,576 24,942 25,846 Adjusted Gross Profit Margin 33.1 % 34.4 % 33.5 % 34.7 %",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Schedule 11 The Kraft Heinz Co Company Adjusted Gross Profit Margin (dollars in millions) (Unaudited) For the Three Months Ended For the Year Ended December 27, 2025 December 28, 2024 December 27, 2025 December 28, 2024 Adjusted Gross Profit $ 2,101 $ 2,262 $ 8,345 $ 8,957 Net...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 12 The Kraft Heinz Co Company Key Drivers of Change in Adjusted EPS (Unaudited) For the Three Months Ended December 27, 2025 December 28, 2024 $ Change Key drivers of change in Adjusted EPS: Results of operations (a)(b) $ 0.82 $ 0.97 $ (0.15) Interest expense (0.17) (0.16) (0.01) Other expense/(income) 0.04 0.03 0.01 Effective tax rate (0.03) \u2014 (0.03) Effect of share repurchases 0.01 \u2014 0.01 Adjusted EPS $ 0.67 $ 0.84 $ (0.17)",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Schedule 12 The Kraft Heinz Co Company Key Drivers of Change in Adjusted EPS (Unaudited) For the Three Months Ended December 27, 2025 December 28, 2024 $ Change Key drivers of change in Adjusted EPS: Results of operations (a)(b) $ 0.82 $ 0.97 $ (0.15) Interest expense (0.17) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "earnings_or_eps",
+      "claim": "(a) Includes non-cash amortization of definite-lived intangible assets, which accounted for a negative impact to Adjusted EPS from results of operations of $0.04 for the three months ended December 27, 2025 and December 28, 2024.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(a) Includes non-cash amortization of definite-lived intangible assets, which accounted for a negative impact to Adjusted EPS from results of operations of $0.04 for the three months ended December 27, 2025 and December 28, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "earnings_or_eps",
+      "claim": "(b) Includes divestiture-related license income, which accounted for a benefit to Adjusted EPS from results of operations of $0.01 for the three months ended December 27, 2025 and December 28, 2024.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(b) Includes divestiture-related license income, which accounted for a benefit to Adjusted EPS from results of operations of $0.01 for the three months ended December 27, 2025 and December 28, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 13 The Kraft Heinz Co Company Key Drivers of Change in Adjusted EPS (Unaudited) For the Year Ended December 27, 2025 December 28, 2024 $ Change Key drivers of change in Adjusted EPS: Results of operations (a)(b) $ 3.15 $ 3.55 $ (0.40) Interest expense (0.63) (0.61) (0.02) Other expense/(income) (c) 0.17 0.12 0.05 Effective tax rate (0.15) \u2014 (0.15) Effect of share repurchases 0.06 \u2014 0.06 Adjusted EPS $ 2.60 $ 3.06 $ (0.46)",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Schedule 13 The Kraft Heinz Co Company Key Drivers of Change in Adjusted EPS (Unaudited) For the Year Ended December 27, 2025 December 28, 2024 $ Change Key drivers of change in Adjusted EPS: Results of operations (a)(b) $ 3.15 $ 3.55 $ (0.40) Interest expense (0.63) (0.61) (0...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "earnings_or_eps",
+      "claim": "(a) Includes non-cash amortization of definite-lived intangible assets, which accounted for a negative impact to Adjusted EPS from results of operations of $0.16 for the year ended December 27, 2025 and $0.17 for the year ended December 28, 2024.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "(a) Includes non-cash amortization of definite-lived intangible assets, which accounted for a negative impact to Adjusted EPS from results of operations of $0.16 for the year ended December 27, 2025 and $0.17 for the year ended December 28, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "earnings_or_eps",
+      "claim": "(b) Includes divestiture-related license income, which accounted for a benefit to Adjusted EPS from results of operations of $0.03 for the years ended December 27, 2025 and $0.04 for the year ended December 28, 2024.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "(b) Includes divestiture-related license income, which accounted for a benefit to Adjusted EPS from results of operations of $0.03 for the years ended December 27, 2025 and $0.04 for the year ended December 28, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "earnings_or_eps",
+      "claim": "(c) Includes non-cash amortization of prior service credits, which accounted for a benefit to Adjusted EPS from other expense/(income) of $0.01 for the years ended December 27, 2025 and December 28, 2024.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(c) Includes non-cash amortization of prior service credits, which accounted for a benefit to Adjusted EPS from other expense/(income) of $0.01 for the years ended December 27, 2025 and December 28, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "Schedule 14 The Kraft Heinz Co Company Consolidated Balance Sheets (in millions, except per share data) (Unaudited) December 27, 2025 December 28, 2024 ASSETS Cash and cash equivalents $ 2,615 $ 1,334 Trade receivables, net 2,254 2,147 Inventories 3,167 3,376 Prepaid expenses 291 215 Marketable securities 1,060 \u2014 Other current assets 588 583 Assets held for sale 152 \u2014 Total current assets 10,127 7,655 Property, plant and equipment, net 7,318 7,152 Goodwill 22,179 28,673 Intangible assets, net 37,529 40,099 Other non-current assets 4,633 4,708 TOTAL ASSETS $ 81,786 $ 88,287 LIABILITIES AND EQUITY Current portion of long-term debt 1,908 654 Accounts payable 4,308 4,188 Accrued marketing 801 697 Interest payable 298 263 Other current liabilities 1,455 1,451 Liabilities held for sale 8 \u2014 Total current liabilities 8,778 7,253 Long-term debt 19,311 19,215 Deferred income taxes 9,022 9,679 Accrued postemployment costs 131 135 Long-term deferred income 1,321 1,374 Other non-current liabilities 1,434 1,306 TOTAL LIABILITIES 39,997 38,962 Redeemable noncontrolling interest 12 6 Equity: Common stock, $0.01 par value 12 12 Additional paid-in capital 51,287 52,135 Retained earnings/(deficit) (4,629) 2,171 Accumulated other comprehensive income/(losses) (2,370) (2,915) Treasury stock, at cost (2,636) (2,218) Total shareholders' equity 41,664 49,185 Noncontrolling interest 113 134 TOTAL EQUITY 41,777 49,319 TOTAL LIABILITIES AND EQUITY $ 81,786 $ 88,287",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "Schedule 14 The Kraft Heinz Co Company Consolidated Balance Sheets (in millions, except per share data) (Unaudited) December 27, 2025 December 28, 2024 ASSETS Cash and cash equivalents $ 2,615 $ 1,334 Trade receivables, net 2,254 2,147 Inventories 3,167 3,376 Prepaid expenses...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 15 The Kraft Heinz Co Company Consolidated Statements of Cash Flows (in millions) (Unaudited) For the Year Ended December 27, 2025 December 28, 2024 CASH FLOWS FROM OPERATING ACTIVITIES: Net income/(loss) $ (5,848) $ 2,746 Adjustments to reconcile net income/(loss) to operating cash flows: Depreciation and amortization 968 948 Divestiture-related license income (52) (54) Equity award compensation expense 95 109 Deferred income tax provision/(benefit) (495) (2,857) Postemployment benefit plan asset transfers/(contributions) 185 161 Goodwill and intangible asset impairment losses 9,306 3,669 Nonmonetary currency devaluation 34 16 Loss/(gain) on sale of business 42 81 Other items, net (3) (46) Changes in current assets and liabilities: Trade receivables (55) (139) Inventories 133 (6) Accounts payable (97) (308) Other current assets (88) (38) Other current liabilities 337 (98) Net cash provided by/(used for) operating activities 4,462 4,184 CASH FLOWS FROM INVESTING ACTIVITIES: Capital expenditures (801) (1,024) Payments to acquire intangible assets \u2014 (140) Purchases of marketable securities (1,724) \u2014 Proceeds from sale of marketable securities 686 \u2014 Proceeds from sale of business, net of cash disposed and working capital adjustments 9 8 Other investing activities, net (3) 133 Net cash provided by/(used for) investing activities (1,833) (1,023) CASH FLOWS FROM FINANCING ACTIVITIES: Repayments of long-term debt (678) (618) Proceeds from issuance of long-term debt 1,620 594 Repurchases of common stock (436) (988) Dividends paid (1,898) (1,931) Other financing activities, net 141 (65) Net cash provided by/(used for) financing activities (1,251) (3,008) Effect of exchange rate changes on cash, cash equivalents, and restricted cash 80 (71) Cash, cash equivalents, and restricted cash Net increase/(decrease) 1,458 82 Balance at beginning of period 1,486 1,404 Balance at end of period $ 2,944 $ 1,486",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Schedule 15 The Kraft Heinz Co Company Consolidated Statements of Cash Flows (in millions) (Unaudited) For the Year Ended December 27, 2025 December 28, 2024 CASH FLOWS FROM OPERATING ACTIVITIES: Net income/(loss) $ (5,848) $ 2,746 Adjustments to reconcile net income/(loss) to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 16 The Kraft Heinz Co Company Reconciliation of Net Cash Provided By/(Used for) Operating Activities to Free Cash Flow (in millions) (Unaudited) For the Year Ended December 27, 2025 December 28, 2024 Net cash provided by/(used for) operating activities $ 4,462 $ 4,184 Capital expenditures (801) (1,024) Free Cash Flow $ 3,661 $ 3,160 Adjusted Net Income/(Loss) $ 3,080 $ 3,722 Free Cash Flow Conversion 119 % 85 %",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Schedule 16 The Kraft Heinz Co Company Reconciliation of Net Cash Provided By/(Used for) Operating Activities to Free Cash Flow (in millions) (Unaudited) For the Year Ended December 27, 2025 December 28, 2024 Net cash provided by/(used for) operating activities $ 4,462 $ 4,184...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "earnings_or_eps",
+      "claim": "Schedule 17 The Kraft Heinz Co Company Reconciliation of Net Income/(Loss) to Adjusted EBITDA (dollars in millions) (Unaudited) For the Twelve Months Ended December 27, 2025 Net income/(loss) $ (5,848) Interest expense 947 Other expense/(income) (171) Provision for/(benefit from) income taxes 403 Operating income/(loss) (4,669) Depreciation and amortization (excluding restructuring activities) 967 Divestiture-related license income (52) Restructuring activities 13 Separation costs 60 Unrealized losses/(gains) on commodity hedges 35 Impairment losses 9,306 Equity award compensation expense 95 Adjusted EBITDA $ 5,755 Current portion of long-term debt $ 1,908 Long-term debt 19,311 Less: Cash and cash equivalents (2,615) Less: Short-term Investments (1,060) $ 17,544 Net Leverage 3.0",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Schedule 17 The Kraft Heinz Co Company Reconciliation of Net Income/(Loss) to Adjusted EBITDA (dollars in millions) (Unaudited) For the Twelve Months Ended December 27, 2025 Net income/(loss) $ (5,848) Interest expense 947 Other expense/(income) (171) Provision for/(benefit fr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.04315, ret_20d=0.064558, market_ret_20d=-0.004373",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.04315, ret_20d=0.064558, market_ret_20d=-0.004373",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "event_id": "evt_0092",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "APPIAN CORP",
+  "ticker": "APPN",
+  "company_alias": "APPIAN CORP",
+  "masked_company": "Company U",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-19",
+  "filing_metadata": {
+    "cik": "1441683",
+    "accession_number": "0001441683-26-000008",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-19T07:31:59-05:00",
+    "event_date": "2026-02-19",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth quarter cloud subscriptions revenue increased 18% year-over-year to $117.0 million",
+      "token_count": 23
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Full year cloud subscriptions revenue increased 19% year-over year to $437.4 million",
+      "token_count": 21
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "McLean, VA \u2013 2026-02-19T07:31:59-05:00 \u2013 APPIAN CORP (Nasdaq:APPN) today announced financial results for the fourth quarter and full year ended December 31, 2025.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue: Cloud subscriptions revenue was $117.0 million, up 18% compared to the fourth quarter of 2024. Total subscriptions revenue, which includes sales of our cloud subscriptions, license subscriptions, and maintenance and support, increased 19% year-over-year to $162.3 million. Professional services revenue was $40.6 million, an increase of 36% compared to the fourth quarter of 2024. Total revenue was $202.9 million, up 22% compared to the fourth quarter of 2024. Cloud net annualized recurring revenue (\u201cARR\u201d) expansion was 114% as of December 31, 2025.",
+      "token_count": 141
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating (loss) income and non-GAAP operating income: GAAP operating loss was $(0.7) million, compared to GAAP operating income of $5.0 million for the fourth quarter of 2024. Non-GAAP operating income was $17.4 million, compared to non-GAAP operating income of $18.7 million for the fourth quarter of 2024.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net loss and non-GAAP net income (loss): GAAP net loss was $(5.1) million, compared to $(13.6) million for the fourth quarter of 2024. GAAP net loss per share was $(0.07) for the fourth quarter of 2025, compared to $(0.18) for the fourth quarter of 2024. Non-GAAP net income was $11.1 million, compared to non-GAAP net income of $13.2 million for the fourth quarter of 2024. Non-GAAP net income per share was $0.15, compared to the $0.18 net income per share for the fourth quarter of 2024.",
+      "token_count": 123
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Adjusted EBITDA: Adjusted EBITDA was $19.7 million, compared to adjusted EBITDA of $21.2 million for the fourth quarter of 2024.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Cash flows: Net cash provided by operating activities was $1.1 million for the three months ended December 31, 2025 compared to $13.9 million of net cash provided by operating activities for the same period in 2024.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue: Cloud subscriptions revenue was $437.4 million for the full year 2025, up 19% compared to the full year 2024. Total subscriptions revenue increased 18% year-over-year to $576.5 million for the full year 2025. Professional services revenue was $150.5 million for the full year 2025, compared to $126.5 million for the full year 2024. Total revenue was $726.9 million for the full year 2025, up 18% compared to the full year 2024.",
+      "token_count": 110
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating income (loss) and non-GAAP operating income: GAAP operating income was $0.6 million for the full year 2025, compared to GAAP operating losses of $(60.9) million for the full year 2024. Non-GAAP operating income was $67.1 million for the full year 2025, compared to non-GAAP operating income $10.2 million for the full year 2024.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net income (loss) and non-GAAP net income (loss): GAAP net income was $1.2 million for the full year 2025, compared to GAAP net loss of $(92.3) million for the full year 2024. GAAP basic and diluted net income per share was $0.02 for the full year 2025, compared to $(1.26) net loss per share for the full year 2024. Non-GAAP net income was $45.6 million for the full year 2025, compared to $(9.4) million of non-GAAP net loss for the full year 2024. Non-GAAP net income per diluted share was $0.61 for the full year 2025, compared to the $(0.13) net loss per share for the full year 2024.",
+      "token_count": 148
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Adjusted EBITDA : Adjusted EBITDA was $76.8 million for the full year 2025, compared to adjusted EBITDA of $20.3 million for the full year 2024.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Balance sheet and cash flows: As of December 31, 2025, APPIAN CORP had total cash, cash equivalents, and investments of $187.2 million. Net cash provided by operating activities was $62.9 million for the full year 2025, compared to $6.9 million of net cash provided by operating activities for the full year 2024.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "A reconciliation of GAAP to non-GAAP financial measures has been provided in the tables following the financial statements in this press release. An explanation of these measures is also included below under the heading \u201cNon-GAAP Financial Measures.\u201d",
+      "token_count": 63
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 US Army Awards APPIAN CORP Enterprise Agreement to Support AI-Powered Transformation Efforts",
+      "token_count": 23
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 APPIAN CORP AI Transforms Clinical Workflows for Global Public Health Agencies",
+      "token_count": 20
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 APPIAN CORP Launches New AI Capabilities to Automate Complex Work & Accelerate App Modernization",
+      "token_count": 24
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 APPIAN CORP Names 2025 Public Sector Partner Award Winners",
+      "token_count": 15
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 New Zealand Police Use APPIAN CORP for Case Processing",
+      "token_count": 14
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Cloud subscriptions revenue is expected to be between $119.0 million and $121.0 million, representing year-over-year growth of 19% to 21%.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Total revenue is expected to be between $189.0 million and $193.0 million, representing a year-over-year increase of 14% to 16%.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Adjusted EBITDA is expected to be between $19.0 million and $22.0 million.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Non-GAAP net income per share is expected to be between $0.16 and $0.20, assuming weighted average common shares outstanding of 75.1 million.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Cloud subscriptions revenue is expected to be between $502.0 million and $510.0 million, representing year-over-year growth of 15% to 17%.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Total revenue is expected to be between $801.0 million and $817.0 million, representing a year-over-year increase of 10% to 12%.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Adjusted EBITDA is expected to be between $89.0 million and $99.0 million.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Non-GAAP net income per share is expected to be between $0.82 and $0.96, assuming weighted average common shares outstanding of 74.8 million.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "APPIAN CORP provides process automation technology. We automate complex processes in large enterprises and governments. Our platform is known for its unique reliability and scale. We\u2019ve been automating processes for 25 years and understand enterprise operations like no one else. For more information, visit APPIAN CORP.com. [Nasdaq: APPIAN CORP]",
+      "token_count": 85
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "To supplement its consolidated financial statements, which are prepared and presented in accordance with GAAP, APPIAN CORP provides investors with certain non-GAAP financial performance measures. APPIAN CORP uses these non-GAAP financial performance measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons. APPIAN CORP\u2019s management believes these non-GAAP financial measures provide meaningful supplemental information regarding APPIAN CORP\u2019s performance by excluding certain expenses that may not be indicative of our recurring core business operating results. APPIAN CORP believes both management and investors benefit from referring to these non-GAAP financial measures in assessing APPIAN CORP\u2019s performance and when planning, forecasting, and analyzing future periods. These non-GAAP financial measures also facilitate management\u2019s internal comparisons to historical performance as well as comparisons to competitors\u2019 operating results. APPIAN CORP believes these non-GAAP financial measures are useful to investors both because (1) they allow for greater transparency with respect to measures used by management in its financial and operational decision-making and (2) they are used by institutional investors and the analyst community to help them analyze the health of APPIAN CORP\u2019s business.",
+      "token_count": 335
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The non-GAAP financial performance measures include the following: non-GAAP subscriptions cost of revenue, non-GAAP professional services cost of revenue, non-GAAP total cost of revenue, non-GAAP total operating expense, non-GAAP operating income (loss), non-GAAP income tax expense, non-GAAP net income (loss), and non-GAAP net income (loss) per share, basic and diluted. These non-GAAP financial performance measures exclude the effect of stock-based compensation expense, unrealized foreign exchange rate gains and losses, certain non-ordinary litigation-related expenses consisting of legal and other professional fees associated with the Pegasystems cases (net of insurance reimbursements), or Litigation Expense, amortization of the judgment preservation insurance policy, or JPI Amortization, severance costs related to involuntary reductions in our workforce, or Severance Costs, lease impairments and lease-related charges associated with actions taken to reduce the footprint of our leased office spaces, or Lease Impairment and Lease-Related Charges, and a short-swing profit disgorgement paid to us by an investor, or Short-Swing Profit Payment. While some of these items may be recurring in nature and should not be disregarded in the evaluation of our earnings performance, it is useful to exclude such items when analyzing current results and trends compared to other periods as these items can vary significantly from period to period depending on specific underlying transactions or events that may occur. Therefore, while we may incur or recognize these types of expenses in the future, we believe removing these items for purposes of calculating our non-GAAP financial measures provides investors with a more focused presentation of our ongoing operating performance.",
+      "token_count": 447
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "APPIAN CORP also discusses adjusted EBITDA, a non-GAAP financial performance measure it believes offers a useful view of the overall operation of its businesses. The Company defines adjusted EBITDA as net (loss) income before (1) other (income) expense, net, (2) interest expense, (3) income tax expense, (4) depreciation expense and amortization of intangible assets, (5) stock-based compensation expense, (6) Litigation Expense, (7) JPI Amortization, (8) Severance Costs, and (9) Lease Impairment and Lease-Related Charges. The most directly",
+      "token_count": 136
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "1 https://register-conf.media-server.com/register/BI615bc1f3042f4951a1f347fb0187d4be",
+      "token_count": 21
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "comparable GAAP financial measure to adjusted EBITDA is net income (loss). Users should consider the limitations of using adjusted EBITDA, including the fact this measure does not provide a complete depiction of our operating performance. Adjusted EBITDA is not intended to purport to be an alternative to net income (loss) as a measure of operating performance or to cash flows from operating activities as a measure of liquidity.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The presentation of these non-GAAP financial measures is not intended to be considered in isolation from, as a substitute for, or superior to the financial information prepared and presented in accordance with GAAP, and APPIAN CORP\u2019s non-GAAP measures may be different from non-GAAP measures used by other companies. For more information on these non-GAAP financial measures, see the reconciliation of these non-GAAP financial measures to their nearest comparable GAAP measures at the end of this press release.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "APPIAN CORP provides guidance ranges for non-GAAP net income (loss) per share and adjusted EBITDA; however, we are not able to reconcile these amounts to their comparable GAAP financial measures without unreasonable efforts because certain information necessary to calculate such measures on a GAAP basis is unavailable, subject to high variability, dependent on future events outside of our control, and cannot be predicted. In addition, APPIAN CORP believes such reconciliations could imply a degree of precision that might be confusing or misleading to investors. The actual effect of the reconciling items that APPIAN CORP may exclude from these non-GAAP expense numbers, when determined, may be significant to the calculation of the comparable GAAP measures.",
+      "token_count": 190
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "As of December 31, 2025 2024 Assets Current assets Cash and cash equivalents $ 135,810 $ 118,552 Short-term investments and marketable securities 51,415 41,308 Accounts receivable, net of allowance of $3,362 and $3,396, respectively 255,063 195,069 Deferred commissions, current 35,166 36,630 Prepaid expenses and other current assets 41,970 43,984 Total current assets 519,424 435,543 Property and equipment, net of accumulated depreciation of $40,747 and $32,142, respectively 32,087 37,109 Goodwill 28,811 25,555 Intangible assets, net of accumulated amortization of $7,301 and $5,341, respectively 1,246 2,240 Right-of-use assets for operating leases 28,075 31,081 Deferred commissions, net of current portion 65,199 60,540 Deferred tax assets 4,850 4,129 Other assets 11,703 24,842 Total assets $ 691,395 $ 621,039 Liabilities and Stockholders\u2019 Equity Current liabilities Accounts payable $ 6,655 $ 4,322 Accrued expenses 18,483 11,388 Accrued compensation and related benefits 61,781 34,223 Deferred revenue 341,281 281,760 Debt 9,598 9,598 Operating lease liabilities 13,181 12,378 Other current liabilities 1,128 1,087 Total current liabilities 452,107 354,756 Long-term debt 231,228 240,826 Non-current operating lease liabilities 45,693 52,189 Deferred revenue, non-current 8,962 5,477 Other non-current liabilities 398 431 Total liabilities 738,388 653,679 Stockholders\u2019 deficit Class A common stock\u2014par value $0.0001; 500,000,000 shares authorized as of December 31, 2025 and 2024 and 43,408,828 and 42,938,701 shares issued as of December 31, 2025 and 2024, respectively 4 4 Class B common stock\u2014par value $0.0001; 100,000,000 shares authorized as December 31, 2025 and 2024 and 31,088,085 and 31,090,085 shares issued as of December 31, 2025 and 2024, respectively 3 3 Treasury stock at cost, 542,288 shares as of December 31, 2025 (16,935) \u2014 Additional paid-in capital 617,318 591,281 Accumulated other comprehensive loss (36,462) (11,774) Accumulated deficit (610,921) (612,154) Total stockholders\u2019 deficit (46,993) (32,640) Total liabilities and stockholders\u2019 deficit $ 691,395 $ 621,039",
+      "token_count": 526
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Class A common stock\u2014par value $0.0001; 500,000,000 shares authorized as of December 31, 2025 and 2024 and 43,408,828 and 42,938,701 shares issued as of December 31, 2025 and 2024, respectively",
+      "token_count": 49
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Class B common stock\u2014par value $0.0001; 100,000,000 shares authorized as December 31, 2025 and 2024 and 31,088,085 and 31,090,085 shares issued as of December 31, 2025 and 2024, respectively",
+      "token_count": 48
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Note: The Company has reclassified certain information technology, cybersecurity and facility operating expenses from general and administrative expenses to cost of revenue, research and development, and sales and marketing expense. Prior year amounts have been reclassified to conform to the current period presentation.",
+      "token_count": 81
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 (unaudited) Revenue Subscriptions $ 162,265 $ 136,779 $ 576,462 $ 490,568 Professional services 40,602 29,906 150,475 126,454 Total revenue 202,867 166,685 726,937 617,022 Cost of revenue Subscriptions 23,093 16,774 83,988 65,680 Professional services 32,808 23,209 115,611 102,560 Total cost of revenue 55,901 39,983 199,599 168,240 Gross profit 146,966 126,702 527,338 448,782 Operating expenses Sales and marketing 69,145 57,073 241,186 238,454 Research and development 45,142 39,193 172,188 163,400 General and administrative 33,366 25,403 113,355 107,781 Total operating expenses 147,653 121,669 526,729 509,635 Operating (loss) income (687) 5,033 609 (60,853) Other non-operating expense (income) Other (income) expense, net (2,007) 12,655 (26,685) 6,773 Interest expense 4,902 5,661 20,850 23,582 Total other non-operating expense (income) 2,895 18,316 (5,835) 30,355 (Loss) income before income taxes (3,582) (13,283) 6,444 (91,208) Income tax expense 1,521 364 5,211 1,054 Net (loss) income $ (5,103) $ (13,647) $ 1,233 $ (92,262) (Loss) earnings per Class A and Class B share: Basic $ (0.07) $ (0.18) $ 0.02 $ (1.26) Diluted $ (0.07) $ (0.18) $ 0.02 $ (1.26) Weighted average common shares outstanding: Basic 73,895 73,953 74,049 72,988 Diluted 73,895 73,953 74,649 72,988",
+      "token_count": 340
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 (unaudited) Cost of revenue Subscriptions $ 475 $ 395 $ 1,810 $ 1,638 Professional services 1,483 1,362 5,787 5,925 Operating expenses Sales and marketing 2,219 1,991 8,434 8,526 Research and development 3,045 2,937 12,407 12,077 General and administrative 3,326 2,349 13,102 10,879 Total stock-based compensation expense $ 10,548 $ 9,034 $ 41,540 $ 39,045",
+      "token_count": 108
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Year Ended December 31, 2025 2024 Cash flows from operating activities: Net income (loss) $ 1,233 $ (92,262) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Stock-based compensation 41,540 39,045 Depreciation expense and amortization of intangible assets 9,706 10,030 Lease impairment charges 779 5,462 Bad debt expense 1,232 1,760 Amortization of debt issuance costs 600 589 Benefit for deferred income taxes (349) (899) Foreign currency transaction (gains) losses, net (21,732) 16,745 Changes in assets and liabilities: Accounts receivable (51,673) (28,353) Prepaid expenses and other assets 15,316 16,551 Deferred commissions (3,195) (3,144) Accounts payable and accrued expenses 9,269 (871) Accrued compensation and related benefits 19,993 (2,947) Other current and non-current liabilities (3,489) (1,478) Deferred revenue 47,200 49,309 Operating lease assets and liabilities (3,556) (2,659) Net cash provided by operating activities 62,874 6,878 Cash flows from investing activities: Proceeds from maturities of investments 52,540 20,038 Purchases of investments (62,048) (51,630) Purchases of property and equipment (3,318) (3,798) Net cash used by investing activities (12,826) (35,390) Cash flows from financing activities: Proceeds from borrowings \u2014 50,000 Payments for debt issuance costs \u2014 (463) Debt repayments (10,000) (6,250) Repurchase of common stock (20,000) (50,019) Payments for employee taxes related to the net share settlement of equity awards (7,396) (7,987) Proceeds from exercise of common stock options 1,118 14,461 Net cash used by financing activities (36,278) (258) Effect of foreign exchange rate changes on cash and cash equivalents 3,488 (2,029) Net increase (decrease) in cash and cash equivalents 17,258 (30,799) Cash and cash equivalents at beginning of period 118,552 149,351 Cash and cash equivalents at end of period $ 135,810 $ 118,552 Supplemental cash flow information: Cash paid for interest $ 19,644 $ 22,574 Cash paid for income taxes $ 5,120 $ 3,334 Supplemental non-cash investing and financing information: Accrued capital expenditures $ 87 $ 155",
+      "token_count": 534
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "GAAP Measure Stock-Based Compensation Litigation Expense JPI Amortization Lease Impairment and Lease-Related Charges Unrealized Foreign Exchange Rate Gains and Losses Non-GAAP Measure Three Months Ended December 31, 2025 Subscriptions cost of revenue $ 23,093 $ (475) $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 22,618 Professional services cost of revenue 32,808 (1,483) \u2014 \u2014 \u2014 \u2014 31,325 Total cost of revenue 55,901 (1,958) \u2014 \u2014 \u2014 \u2014 53,943 Sales and marketing expense 69,145 (2,219) \u2014 \u2014 \u2014 \u2014 66,926 Research and development expense 45,142 (3,045) \u2014 \u2014 \u2014 \u2014 42,097 General and administrative expense 33,366 (3,326) (4,083) (3,153) (318) \u2014 22,486 Total operating expense 147,653 (8,590) (4,083) (3,153) (318) \u2014 131,509 Operating (loss) income (687) 10,548 4,083 3,153 318 \u2014 17,415 Non-operating expense 2,895 \u2014 \u2014 \u2014 \u2014 1,060 3,955 Income tax impact of above items 1,521 183 \u2014 \u2014 \u2014 618 2,322 Net (loss) income (5,103) 10,365 4,083 3,153 318 (1,678) 11,138 Net (loss) income per share, basic and diluted (a) $ (0.07) $ 0.14 $ 0.05 $ 0.04 $ \u2014 $ (0.02) $ 0.15 Three Months Ended December 31, 2024 Subscriptions cost of revenue $ 16,774 $ (395) $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 16,379 Professional services cost of revenue 23,209 (1,362) \u2014 \u2014 \u2014 \u2014 21,847 Total cost of revenue 39,983 (1,757) \u2014 \u2014 \u2014 \u2014 38,226 Sales and marketing expense 57,073 (1,991) \u2014 \u2014 \u2014 \u2014 55,082 Research and development expense 39,193 (2,937) \u2014 \u2014 \u2014 \u2014 36,256 General and administrative expense 25,403 (2,349) (1,160) (3,152) (318) \u2014 18,424 Total operating expense 121,669 (7,277) (1,160) (3,152) (318) \u2014 109,762 Operating income 5,033 9,034 1,160 3,152 318 \u2014 18,697 Non-operating expense (income) 18,316 \u2014 \u2014 \u2014 \u2014 (13,840) 4,476 Income tax impact of above items 364 241 \u2014 \u2014 \u2014 398 1,003 Net (loss) income (13,647) 8,793 1,160 3,152 318 13,442 13,218 Net (loss) income per share, basic and diluted $ (0.18) $ 0.12 $ 0.02 $ 0.04 $ \u2014 $ 0.18 $ 0.18",
+      "token_count": 464
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Per share amounts do not foot due to rounding.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "GAAP Measure Stock-Based Compensation Litigation Expense JPI Amortization Lease Impairment and Lease-Related Charges Unrealized Foreign Exchange Rate Gains and Losses Non-GAAP Measure Year Ended December 31, 2025 Subscriptions cost of revenue $ 83,988 $ (1,810) $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 82,178 Professional services cost of revenue 115,611 (5,787) \u2014 \u2014 \u2014 \u2014 109,824 Total cost of revenue 199,599 (7,597) \u2014 \u2014 \u2014 \u2014 192,002 Sales and marketing expense 241,186 (8,434) \u2014 \u2014 \u2014 \u2014 232,752 Research and development expense 172,188 (12,407) \u2014 \u2014 \u2014 \u2014 159,781 General and administrative expense 113,355 (13,102) (10,407) (12,508) (2,032) \u2014 75,306 Total operating expense 526,729 (33,943) (10,407) (12,508) (2,032) \u2014 467,839 Operating income 609 41,540 10,407 12,508 2,032 \u2014 67,096 Non-operating (income) expense (5,835) \u2014 \u2014 \u2014 \u2014 21,939 16,104 Income tax impact of above items 5,211 1,308 \u2014 \u2014 \u2014 (1,114) 5,405 Net income (loss) 1,233 40,232 10,407 12,508 2,032 (20,825) 45,587 Net income (loss) per share, basic $ 0.02 $ 0.54 $ 0.14 $ 0.17 $ 0.03 $ (0.28) $ 0.62 Net income (loss) per share, diluted (a),(b) $ 0.02 $ 0.54 $ 0.14 $ 0.17 $ 0.03 $ (0.28) $ 0.61",
+      "token_count": 283
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Accounts for the impact of 0.6 million shares of dilutive securities.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(b) Per share amounts do not foot due to rounding.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "GAAP Measure Stock-Based Compensation Litigation Expense JPI Amortization Severance Costs Lease Impairment and Lease-Related Charges Short-Swing Profit Payment Unrealized Foreign Exchange Rate Gains and Losses Non-GAAP Measure Year Ended December 31, 2024 Subscriptions cost of revenue $ 65,680 $ (1,638) $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 64,042 Professional services cost of revenue 102,560 (5,925) \u2014 \u2014 (1,398) \u2014 \u2014 \u2014 95,237 Total cost of revenue 168,240 (7,563) \u2014 \u2014 (1,398) \u2014 \u2014 \u2014 159,279 Sales and marketing expense 238,454 (8,526) \u2014 \u2014 (3,937) \u2014 \u2014 \u2014 225,991 Research and development expense 163,400 (12,077) \u2014 \u2014 (5) \u2014 \u2014 \u2014 151,318 General and administrative expense 107,781 (10,879) (4,602) (15,795) (194) (6,104) \u2014 \u2014 70,207 Total operating expense 509,635 (31,482) (4,602) (15,795) (4,136) (6,104) \u2014 \u2014 447,516 Operating (loss) income (60,853) 39,045 4,602 15,795 5,534 6,104 \u2014 \u2014 10,227 Non-operating expense (income) 30,355 \u2014 \u2014 \u2014 \u2014 \u2014 1,799 (16,697) 15,457 Income tax impact of above items 1,054 1,499 \u2014 \u2014 1,096 \u2014 \u2014 479 4,128 Net (loss) income (92,262) 37,546 4,602 15,795 4,438 6,104 (1,799) 16,218 (9,358) Net (loss) income per share, basic and diluted $ (1.26) $ 0.51 $ 0.06 $ 0.22 $ 0.06 $ 0.08 $ (0.02) $ 0.22 $ (0.13)",
+      "token_count": 304
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of adjusted EBITDA: GAAP net (loss) income $ (5,103) $ (13,647) $ 1,233 $ (92,262) Other (income) expense, net (2,007) 12,655 (26,685) 6,773 Interest expense 4,902 5,661 20,850 23,582 Income tax expense 1,521 364 5,211 1,054 Depreciation expense and amortization of intangible assets 2,276 2,527 9,706 10,030 Stock-based compensation expense 10,548 9,034 41,540 39,045 Litigation Expense 4,083 1,160 10,407 4,602 JPI Amortization 3,153 3,152 12,508 15,795 Severance Costs \u2014 \u2014 \u2014 5,534 Lease Impairment and Lease-Related Charges 318 318 2,032 6,104 Adjusted EBITDA $ 19,691 $ 21,224 $ 76,802 $ 20,257",
+      "token_count": 173
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.084475,
+    "ret_20d": -0.150724,
+    "market_ret_20d": 0.012855
+  },
+  "outcome_blind": true
+}

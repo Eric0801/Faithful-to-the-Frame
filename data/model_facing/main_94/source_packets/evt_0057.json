@@ -1,0 +1,328 @@
+{
+  "event_id": "evt_0057",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "J&J SNACK FOODS CORP",
+  "ticker": "JJSF",
+  "company_alias": "J&J SNACK FOODS CORP",
+  "masked_company": "Company BQ",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-03",
+  "filing_metadata": {
+    "cik": "785956",
+    "accession_number": "0001437749-26-002719",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-03T02:01:41-05:00",
+    "event_date": "2026-02-03",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Announces new $50 million share repurchase authorization",
+      "token_count": 14
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Mount Laurel, NJ. 2026-02-03T02:01:41-05:00 \u2013 J&J SNACK FOODS CORP. (Nasdaq:JJSF) today reported financial results for the first quarter ended December 27, 2025.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "This press release contains non-GAAP financial measures. Please refer to the Non-GAAP Financial Measures section below for reconciliations to the most comparable GAAP measures.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\"Our first quarter results reflect disciplined execution of our key priorities to drive profitability,\u201d said Dan Fachner, J&J SNACK FOODS CORP Chairman, President, and CEO. \u201cWe are pleased to deliver 7% year-over-year growth in adjusted EBITDA and a 200 basis point expansion in gross margin despite a 5.2% decline in sales and a $1 million expense for product disposal. Our results were enabled by our Project Apollo initiatives including strategic portfolio rationalization of lower margin products within our bakery business.\u201d",
+      "token_count": 130
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "\u201cWe remain optimistic about our trajectory and have several exciting commercial initiatives underway. The momentum in our pretzel business from the second half of fiscal 2025 continued in the first quarter. We have several innovative product launches that will reach customers in the second quarter, including Dippin\u2019 Dots products for retail, as well as pretzel and frozen novelty products centered around better-for-you attributes. Project Apollo, our business transformation program, is progressing and we are on track to deliver the $20 million of annualized savings we outlined last quarter. Underscoring our confidence in the future and our focus on driving long-term value, we repurchased $42 million of stock during the first quarter and today are announcing a new $50 million repurchase authorization.\"",
+      "token_count": 203
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales decreased 5.2% from the prior year quarter to $343.8 million, with most of the decline attributable to our bakery business and strategic portfolio rationalization efforts.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Food Service segment net sales decreased 8.3%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Retail Supermarket segment net sales increased 2.6%",
+      "token_count": 13
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit increased from $93.9 million in the prior year quarter to $96.0 million, while gross margin improved from 25.9% to 27.9%. The improvement in gross margin primarily reflects the early benefits of our Apollo transformation initiatives and favorable product mix, partially offset by $1.0 million in product disposal costs and approximately $0.6 million in tariff-related costs net of pricing offsets.",
+      "token_count": 103
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Total operating expenses of $95.4 million included $6.1 million in non-recurring plant closure costs as well as other non-recurring impacts.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling and Marketing expenses increased 9.9% to $31.5 million, or 9.2% of sales, up from 7.9% in the prior year quarter. Approximately 140 basis points of the increase was associated with higher commissions for retail vending sales, which is a growing component of our Dippin\u2019 Dots business. Investments to support our brands in preparation for our peak summer season accounted for approximately 250 basis points of the increase. Higher depreciation associated with customer equipment accounted for approximately 190 basis points of the increase, with almost half of that associated with growth in Dippin\u2019 Dots.",
+      "token_count": 153
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Distribution expenses decreased 3.9% to $38.1 million, or 11.1% of sales up from 10.9% in the prior year quarter, primarily reflecting lower volume.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Administrative expenses increased 7.8% to $20.4 million, or 5.9% of sales, up from 5.2% in the prior year quarter. Approximately 300 basis points of the increase was attributed to non-recurring restructuring and legal expenses.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income was $0.6 million, compared to $6.2 million in the prior year quarter, while adjusted operating income was $8.0 million, compared to $8.2 million in the prior year quarter. Earnings per diluted share were $0.05, compared to $0.26 in the prior year quarter, while adjusted earnings per diluted share were $0.33, flat with the prior year quarter. The effective tax rate was 27.0%, compared to 27.2% in the prior year quarter.",
+      "token_count": 110
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $219.2 million, a year-over-year decrease of $19.7 million, or 8.3%.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Bakery was down approximately 17% and accounted for $18 million of the decline in Food Service, reflecting ongoing efforts to improve profitability through portfolio rationalization.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Pretzel sales increased approximately 6.9%, continuing the growth momentum from the second half of fiscal 2025, with share gains driven by Bavarian formula pretzels.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Handheld sales declined approximately 22% on lower volumes and a contractual pricing true-up on lower costs of certain ingredients.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income increased 14.6% to $10.1 million.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $45.9 million, a year-over-year increase of $1.2 million, or 2.6%.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Handheld sales increased 35% as we lapped capacity constraints from the prior year facility fire.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Sales within the remaining retail portfolio decreased $0.6 million, primarily driven by lower frozen novelty sales as growth in Dogsters and Dippin\u2019 Dots at retail was more than offset by decreases in other frozen novelties.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income decreased 2.6% to $1.2 million.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $78.7 million were approximately flat with the prior year period.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Beverage sales were up modestly, whereas service and machine sales combined were down modestly.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income decreased 13.7% to $4.0 million.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "During the quarter, we repurchased approximately 458,467 shares of common stock for $42 million, completing our $50 million authorization. Including shares bought in fiscal 2025, we repurchased 525,243 shares for $50 million.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Our Board of Directors has approved a new $50 million share repurchase authorization that is effective for approximately two years. The new authorization reflects our confidence in the company\u2019s long-term value, as well as our strong balance sheet and liquidity position. Our approach to share repurchases will be opportunistic, and the extent of our repurchases and the timing will depend on market conditions, regulatory requirements and other factors. We may repurchase shares in the open market, through private transactions, or otherwise, including through Rule 10b5-1 trading plans. The authorization is consistent with our capital deployment discipline and focus on driving shareholder returns.",
+      "token_count": 176
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "J&J SNACK FOODS CORP. (Nasdaq:JJSF) is a leader and innovator in the snack food and frozen beverage industry. For over fifty years, the company has specialized in delicious snack and beverage brands for the foodservice and retail segments, serving up fun across the U.S. market. J&J SNACK FOODS CORP\u2019 core brands include SUPERPRETZEL, the #1 soft pretzel brand, ICEE and SLUSH PUPPIE frozen beverages, and Dippin\u2019 Dots, the original beaded ice cream. The company\u2019s broad brand portfolio also includes LUIGI\u2019S Real Italian Ice, MINUTE MAID* frozen ices, WHOLE FRUIT frozen fruit bars, DOGSTERS ice cream style treats for dogs, \u00a1Hola! Churros, THE FUNNEL CAKE FACTORY funnel cakes and fries, and bakery brands including MARY B\u2019S, DADDY RAY\u2019S, COUNTRY HOME BAKERS, and HILL & VALLEY. For more information, please visit http://www.jjsnack.com. *MINUTE MAID is a registered trademark of The Coca-Cola Company.",
+      "token_count": 223
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA consists of net earnings adjusted to exclude: income taxes (benefit); investment income; interest expense; depreciation and amortization; share-based compensation expense; net (gain) loss on sale or disposal of assets; impairment charges, restructuring costs, merger and acquisition costs, acquisition related inventory adjustments, strategic business transformation costs, integration costs, non-recurring legal fee expenses and gain on insurance proceeds received for damage to property, plant and equipment. Adjusted Operating Income consists of operating income adjusted to exclude: impairment charges, restructuring costs, merger and acquisition costs, acquisition related amortization expenses and inventory adjustments, strategic business transformation costs, integration costs, non-recurring legal fee expenses, and gain on insurance proceeds received for damage to property, plant and equipment. Adjusted Earnings per Diluted Share consists of net earnings adjusted to exclude: impairment charges, restructuring costs, merger and acquisition costs, acquisition related amortization expenses and inventory adjustment, strategic business transformation costs, integration costs, non-recurring legal fee expenses, and gain on insurance proceeds received for damage to property, plant and equipment. For purposes of comparability, the income tax effect of pre-tax adjustments is determined using statutory tax rates. This press release contains certain non-GAAP financial measures; Adjusted EBITDA, Adjusted Operating Income, and Adjusted Earnings per Diluted Share. A \"non-GAAP financial measure\" is a numerical measure of a company's financial performance that excludes or includes amounts so as to be different than the most directly comparable measure calculated and presented in accordance with U.S. generally accepted accounting principles (\"GAAP\") in the statements of income, balance sheets, or statements of cash flow of the company. Pursuant to applicable reporting requirements, the company has provided reconciliations below of non-GAAP financial measures to the most directly comparable GAAP measure. The non-GAAP financial measures presented within the Company's earnings release are not indicators of our financial performance under GAAP and should not be considered as an alternative to the applicable GAAP measure. These non-GAAP measures have limitations as analytical tools, and you should not consider them in isolation or as a substitute for analysis of our results as reported under GAAP. In addition, in evaluating these non-GAAP measures, you should be aware that in the future we may incur income, expenses, gains and losses, similar to the adjustments in this press release. Our presentation of these non-GAAP measures should not be construed as an inference that our future results will be unaffected by unusual or infrequent items. We compensate for these limitations by providing equal prominence to our GAAP results and using non-GAAP measures only as supplemental presentations. The non-GAAP measures presented are utilized by management to evaluate the Company's business performance and profitability by excluding certain items that may not be indicative of our recurring core business operating results. The Company believes that these measures provide additional clarity for investors by excluding specific income, expenses, gains, and losses, in an effort to show comparable business operating results for the periods presented. Similarly, Management believes these adjusted measures are useful performance measures because certain items included in the calculations may either mask or exaggerate trends in the Company\u2019s ongoing operating performance. See the reconciliation of Non-GAAP Financial Measures below.",
+      "token_count": 943
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gain on insurance proceeds received for damage to property, plant, and equipment",
+      "token_count": 20
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Preferred stock, $1 par value; authorized 10,000,000 shares; none issued",
+      "token_count": 18
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Common stock, no par value; authorized, 50,000,000 shares; issued and outstanding 18,996,000 as of December 27, 2025 and 19,440,000 as of September 27, 2025",
+      "token_count": 39
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Adjustments to reconcile net earnings to net cash provided by operating activities",
+      "token_count": 21
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Changes in assets and liabilities, net of effects from purchase of companies",
+      "token_count": 19
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Purchase of vested employee service share units and performance share units",
+      "token_count": 19
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Effect of exchange rates on cash and cash equivalents",
+      "token_count": 14
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Gain on insurance proceeds received for damage to property, plant and equipment",
+      "token_count": 20
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Reconciliation of GAAP Operating Income to Adjusted Operating Income",
+      "token_count": 17
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Reconciliation of GAAP Earnings per Diluted Share to Adjusted Earnings per Diluted Share",
+      "token_count": 22
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Tax Effect of Non-GAAP Adjustments (1)",
+      "token_count": 10
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(1) Income taxes associated with pre-tax adjustments determined using statutory tax rates",
+      "token_count": 23
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.019381,
+    "ret_20d": 0.051701,
+    "market_ret_20d": 0.017916
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,1172 @@
+{
+  "event_id": "evt_0016",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "LOCKHEED MARTIN CORP",
+  "ticker": "LMT",
+  "company_alias": "LOCKHEED MARTIN CORP",
+  "masked_company": "Company CM",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-29",
+  "accepted_at_et": "2026-01-29T07:25:24-05:00",
+  "source_packet_path": "source_packets/evt_0016.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "\u2022 2025 sales increased 6% to $75.0 billion",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 2025 sales increased 6% to $75.0 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "\u2022 Net earnings of $5.0 billion, or $21.49 per share, in 2025, including a pension settlement charge of $479 million ($377 million, or $1.63 per share, after-tax)",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Net earnings of $5.0 billion, or $21.49 per share, in 2025, including a pension settlement charge of $479 million ($377 million, or $1.63 per share, after-tax)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash from operations of $8.6 billion and free cash flow of $6.9 billion in 2025 after a pension contribution of $860 million fulfilling 2026 obligation",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Cash from operations of $8.6 billion and free cash flow of $6.9 billion in 2025 after a pension contribution of $860 million fulfilling 2026 obligation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "\u2022 Record backlog of $194 billion at end of 2025",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Record backlog of $194 billion at end of 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "BETHESDA, Md., 2026-01-29T07:25:24-05:00 \u2013 LOCKHEED MARTIN CORP Corporation [NYSE: LOCKHEED MARTIN CORP] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "BETHESDA, Md., 2026-01-29T07:25:24-05:00 \u2013 LOCKHEED MARTIN CORP Corporation [NYSE: LOCKHEED MARTIN CORP] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of 2024. Net earnings in the fourth quarter of 2025 were $1.3 bil...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u201cWith a record $194 billion backlog, 6% year-over-year sales growth, and free cash flow generation above our prior expectation, 2025 marked a year of unprecedented demand for LOCKHEED MARTIN CORP capabilities.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cWith a record $194 billion backlog, 6% year-over-year sales growth, and free cash flow generation above our prior expectation, 2025 marked a year of unprecedented demand for LOCKHEED MARTIN CORP capabilities. This escalating demand for our signature programs and systems has b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u201cHaving long advocated for a new way of doing business between government and industry, we are well positioned to perform under the Department of War\u2019s Acquisition Transformation Strategy, as evidenced by our landmark, seven-year framework agreement for PAC-3 missiles early in the first quarter.\u201d Taiclet continued.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cHaving long advocated for a new way of doing business between government and industry, we are well positioned to perform under the Department of War\u2019s Acquisition Transformation Strategy, as evidenced by our landmark, seven-year framework agreement for PAC-3 missiles early in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\u201cThis notable start to 2026 reinforces our confidence in LOCKHEED MARTIN CORP\u2019s continued operational and financial growth in the year ahead.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cThis notable start to 2026 reinforces our confidence in LOCKHEED MARTIN CORP\u2019s continued operational and financial growth in the year ahead. We expect sales and reported segment operating profit growth of approximately 5% and 25% year-over-year, respectively, and free cash fl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "(in millions, except per share data) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "(in millions, except per share data) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales $ 20,321 $ 18,622 $ 75,048 $ 71,043 Business segment operating profit 1,2 $ 2,058 $ 426 $ 6,743 $ 6,083 Unallocated items FAS/CAS pension operating adjustment 380 406 1,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "earnings_or_eps",
+      "claim": "Business segment operating profit and free cash flow are non-GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Business segment operating profit and free cash flow are non-GAAP measures. See the \"Use of Non-GAAP Financial Measures\" section of this news release for more information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "Business segment operating profit for the year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Business segment operating profit for the year ended Dec. 31, 2025 included losses, recognized in second quarter of 2025, of $950 million ($713 million, or $3.04 per share, after-tax) on a classified program at its Aeronautics business segment, and $570 million ($428 million,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Impairment and other charges for the year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Impairment and other charges for the year ended Dec. 31, 2025 included $66 million ($52 million, or $0.22 per share, after-tax) primarily for the write-off of fixed assets at its Aeronautics business segment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "Net earnings for the quarter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Net earnings for the quarter and year ended Dec. 31, 2025 included a non-operational charge of $479 million ($377 million, or $1.63 per share, after-tax) in connection with the transfer of $943 million of our gross defined benefit pension obligations and related plan assets to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash from operations in the quarter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Cash from operations in the quarter and year ended Dec. 31, 2025 was $3.2 billion and $8.6 billion with free cash flow of $2.8 billion and $6.9 billion compared to $1.0 billion and $7.0 billion with $441 million and $5.3 billion in free cash flow in the quarter and year ended...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 capital expenditures of $463 million and $1.6 billion ;",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 capital expenditures of $463 million and $1.6 billion ;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 independent research and development of $665 million and $2.0 billion;",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 independent research and development of $665 million and $2.0 billion;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 cash dividends of $799 million and $3.1 billion;",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 cash dividends of $799 million and $3.1 billion;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 $750 million to repurchase 1.6 million shares and $3.0 billion to repurchase 6.6 million shares;",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 $750 million to repurchase 1.6 million shares and $3.0 billion to repurchase 6.6 million shares;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 pension contribution of $860 million; and",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 pension contribution of $860 million; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 scheduled long-term debt repayments of $500 million and $642 million.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 scheduled long-term debt repayments of $500 million and $642 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "(in millions, except per share data) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "(in millions, except per share data) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Aeronautics classified program losses 1 $ \u2014 $ (410) $ (950) $ (555) MFC classified program losses \u2014 (1,310) \u2014 (1,410) RMS program losses 1 \u2014 \u2014 (665) \u2014 Business segment operati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "As previously described, during the second quarter of 2025, the company recognized losses of $950 million ($713 million, or $3.04 per share, after-tax) on a classified program at its Aeronautics business segment, and $570 million ($428 million, or $1.83 per share, after-tax) on CMHP and $95 million ($71 million, or $0.30 per share, after-tax) on TUHP at its RMS business segment.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "As previously described, during the second quarter of 2025, the company recognized losses of $950 million ($713 million, or $3.04 per share, after-tax) on a classified program at its Aeronautics business segment, and $570 million ($428 million, or $1.83 per share, after-tax) o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "During the fourth quarter of 2025, the company recognized a non-operational charge of $479 million ($377 million, or $1.63 per share, after-tax) in connection with the transfer of $943 million of our gross defined benefit pension obligations and related plan assets to insurance companies.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "During the fourth quarter of 2025, the company recognized a non-operational charge of $479 million ($377 million, or $1.63 per share, after-tax) in connection with the transfer of $943 million of our gross defined benefit pension obligations and related plan assets to insuranc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "As previously described, during the second quarter of 2025, the company recognized a charge of $66 million ($52 million, or $0.22 per share, after-tax) primarily for the write-off of fixed assets at its Aeronautics business segment.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "As previously described, during the second quarter of 2025, the company recognized a charge of $66 million ($52 million, or $0.22 per share, after-tax) primarily for the write-off of fixed assets at its Aeronautics business segment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Calculated using the 21% federal statutory rate for both the quarter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Calculated using the 21% federal statutory rate for both the quarter and year ended Dec. 31, 2025. Fourth quarter of 2025 also includes $109 million benefit as a result of the favorable resolution of certain federal income tax audit items with the Internal Revenue Service.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "(in millions, except per share data) 2026 Outlook Sales $77,500 - $80,000 Business segment operating profit 1 $8,425 - $8,675 Total FAS/CAS pension adjustment ~$1,365 Diluted earnings per share $29.35 - $30.25 Cash from operations $9,150 - $9,450 Capital expenditures $2,500 - $2,800 Free cash flow 1 $6,500 - $6,800 1 Business segment operating profit and free cash flow are non-GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "(in millions, except per share data) 2026 Outlook Sales $77,500 - $80,000 Business segment operating profit 1 $8,425 - $8,675 Total FAS/CAS pension adjustment ~$1,365 Diluted earnings per share $29.35 - $30.25 Cash from operations $9,150 - $9,450 Capital expenditures $2,500 -...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "The company operates in four business segments organized based on the nature of products and services offered: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS) and Space.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "The company operates in four business segments organized based on the nature of products and services offered: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS) and Space. The following table presents summary operating results of the company's busi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "(in millions) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "(in millions) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales Aeronautics $ 8,524 $ 8,009 $ 30,257 $ 28,618 Missiles and Fire Control 4,020 3,412 14,450 12,682 Rotary and Mission Systems 4,616 4,261 17,312 17,264 Space 3,161 2,940 13,029 12,479 Total sal...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "For information on factors impacting comparability of the company's segment sales, operating profit and operating margins, see \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d in the company\u2019s Annual Report on Form 10-K for the year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "For information on factors impacting comparability of the company's segment sales, operating profit and operating margins, see \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d in the company\u2019s Annual Report on Form 10-K for the year ended...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "Consolidated net profit booking rate adjustments increased segment operating profit by approximately $275 million and $75 million in the quar ter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Consolidated net profit booking rate adjustments increased segment operating profit by approximately $275 million and $75 million in the quar ter and year ended Dec. 31, 2025. Net profit booking rate adjustments for the year ended Dec. 31, 2025 includ e a loss of $950 million...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "earnings_or_eps",
+      "claim": "Consolidated net profit booking rate ad justments decreased segment operating profit by approximately $1.2 billion and $180 million in the quarter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Consolidated net profit booking rate ad justments decreased segment operating profit by approximately $1.2 billion and $180 million in the quarter and year ended Dec. 31, 2024 , which include losses of $1.7 billion and $2.0 billion recognized on classified programs as previous...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "(in millions) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "(in millions) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales $ 8,524 $ 8,009 $ 30,257 $ 28,618 Operating profit 782 434 2,086 2,523 Operating margin 9.2 % 5.4 % 6.9 % 8.8 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Sales in the fourth quarter of 2025 increased $515 million, or 6%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Sales in the fourth quarter of 2025 increased $515 million, or 6%, compared to the same period in 2024. The increase was primarily attributable to higher sales of $300 million on classified programs due to the sales impact of losses recognized on a classified contract in 2024,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "Operating profit in the fourth quarter of 2025 increased $348 million, or 80%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Operating profit in the fourth quarter of 2025 increased $348 million, or 80%, compared to the same period in 2024. This increase was attributable to $290 million of higher profit rate adjustments and $35 million from higher sales volume previously described. The higher profit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Sales in 2025 increased $1.6 billion , or 6% , compared to 2024 .",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Sales in 2025 increased $1.6 billion , or 6% , compared to 2024 . This increase was primarily attributable to higher sales of $1.9 billion on the F-35 program due to higher volume on production and sustainment contracts, partially offset by lower sales of $215 million due to l...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "Operating profit in 2025 decreased $437 million, or 17% , compared to 2024 .",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Operating profit in 2025 decreased $437 million, or 17% , compared to 2024 . The decrease was attributable to $585 million of lower profit rate adjustments, partially offset by $160 million from higher sales volume previously described . The lower profit rate adjustments were...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "(in millions) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "(in millions) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales $ 4,020 $ 3,412 $ 14,450 $ 12,682 Operating profit 535 (804) 1,989 413 Operating margin 13.3 % (23.6 %) 13.8 % 3.3 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "Sales in the fourth quarter of 2025 increased $608 million, or 18%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Sales in the fourth quarter of 2025 increased $608 million, or 18%, compared to the same period in 2024. This increase was primarily attributable to production ramp-up of $380 million at tactical and strike missile programs (precision fires) and $180 million at integrated air...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Operating profit in the fourth quarter of 2025 increased $1.3 billion, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Operating profit in the fourth quarter of 2025 increased $1.3 billion, compared to the same period in 2024. This increase was attributable to a $1.2 billion increase in profit booking rate adjustments and $65 million from higher sales volume previously described. The increase...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "Sales in 2025 increased $1.8 billion, or 14%, compared to 2024.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Sales in 2025 increased $1.8 billion, or 14%, compared to 2024. This increase was primarily attributable to production ramp-up of $1.4 billion at tactical and strike missile programs (Joint Air-to-Surface Standoff Missile (JASSM), Long Range Anti-Ship Missile (LRASM) and preci...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Operating profit in 2025 increased $1.6 billion , or 382%, compared to 2024 .",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Operating profit in 2025 increased $1.6 billion , or 382%, compared to 2024 . This increase was attributable to a $1.3 billion increase in profit booking rate adjustments primarily driven by reach-forward losses of $1.4 billion recognized in 2024 on a classified program and $1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "(in millions) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "(in millions) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales $ 4,616 $ 4,261 $ 17,312 $ 17,264 Operating profit 468 513 1,323 1,921 Operating margin 10.1 % 12.0 % 7.6 % 11.1 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "Sales in the fourth quarter of 2025 increased $355 million, or 8%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Sales in the fourth quarter of 2025 increased $355 million, or 8%, compared to the same period in 2024. The increase was primarily attributable to higher net sales of $225 million on Integrated warfare systems and sensors (IWSS) programs due to higher volume on radar programs...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Operating profit in the fourth quarter of 2025 decreased $45 million, or 9%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Operating profit in the fourth quarter of 2025 decreased $45 million, or 9%, compared to the same period in 2024. This decrease was attributable to a $40 million decrease in profit booking rate adjustments and $40 million from lower cost recoveries and contract mix, partially...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "Sales in 2025 were comparable to 2024.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Sales in 2025 were comparable to 2024. Sales increased $95 million on Sikorsky helicopter programs primarily due to higher production volume on Black Hawk programs, partially offset by the impact of unfavorable cumulative adjustments to sales driven by recognizing reach-forwar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "Operating profit in 2025 decreased $598 million , or 31% , compared to 2024.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Operating profit in 2025 decreased $598 million , or 31% , compared to 2024. This decrease was attributable to a $610 million decrease in profit booking rate adjustments. The decrease in profit booking rate adjustments was primarily due to the reach-forward losses recognized o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "(in millions) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "(in millions) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales $ 3,161 $ 2,940 $ 13,029 $ 12,479 Operating profit 273 283 1,345 1,226 Operating margin 8.6 % 9.6 % 10.3 % 9.8 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "revenue",
+      "claim": "Sales in the fourth quarter of 2025 increased $221 million , or 8%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Sales in the fourth quarter of 2025 increased $221 million , or 8%, compared to the same period in 2024. This increase was primarily attributable to higher sales volume of $135 million for strategic and missile defense programs on the NGI and FBM programs, $45 million for nati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "Operating profit in the fourth quarter of 2025 decreased $10 million , or 4%, compared to the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Operating profit in the fourth quarter of 2025 decreased $10 million , or 4%, compared to the same period in 2024. This decrease was due to $20 million of lower equity earnings from the company's investment in United Launch Alliance (ULA), partially offset by $15 million incre...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "revenue",
+      "claim": "S ales in 2025 increased $550 million, or 4%, compared to 2024.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "S ales in 2025 increased $550 million, or 4%, compared to 2024. This increase was primarily attributable to higher sales volume of $380 million for strategic and missile defense programs on the NGI and FBM programs, and $255 million for commercial civil space programs primaril...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "Operating profit in 2025 increased $119 million , or 10%, compared to 2024.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Operating profit in 2025 increased $119 million , or 10%, compared to 2024. This increase was attributable to a $145 million increase in profit booking rate adjustments, and $30 million increase from higher sales volume previously described; which were partially offset by $40...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "earnings_or_eps",
+      "claim": "Total equity (losses) and earnings (ULA) were not significant during both the quarter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Total equity (losses) and earnings (ULA) were not significant during both the quarter and year ended Dec. 31, 2025, compared to approximately $15 million, or 5%, and $45 million, or 4%, of Space's operating profit for the same periods in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "revenue",
+      "claim": "The company's effective income tax rate was 12.2% and (1.5)% for the quarters ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "The company's effective income tax rate was 12.2% and (1.5)% for the quarters ended Dec. 31, 2025 and 2024. The company's effective income tax rate was 15.3% and 14.2% for the years ended Dec. 31, 2025 and 2024. The higher effective income tax rate for the quarter ended Dec. 3...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "This news release contains the following non-generally accepted accounting principles (non-GAAP) financial measures (as defined by U.S.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "This news release contains the following non-generally accepted accounting principles (non-GAAP) financial measures (as defined by U.S. Securities and Exchange Commission (SEC) Regulation G). While management believes that these non-GAAP financial measures may be useful in eva...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "revenue",
+      "claim": "Business segment operating profit represents operating profit from the company's business segments before unallocated income and expense.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Business segment operating profit represents operating profit from the company's business segments before unallocated income and expense. This measure is used by the company's senior management in evaluating the performance of its business segments and is a performance goal in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "(in millions) 2026 Outlook Business segment operating profit (non-GAAP) $8,425 - $8,675 FAS/CAS operating adjustment 1 ~1,685 Intangible asset amortization expense ~(200) Other, net ~(475) Consolidated operating profit (GAAP) $9,435 - $9,685 1 Reflects the amount by which total CAS pension cost of $1.7 billion exceeds FAS pension service cost and excludes non-service FAS pension expense.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "(in millions) 2026 Outlook Business segment operating profit (non-GAAP) $8,425 - $8,675 FAS/CAS operating adjustment 1 ~1,685 Intangible asset amortization expense ~(200) Other, net ~(475) Consolidated operating profit (GAAP) $9,435 - $9,685 1 Reflects the amount by which tota...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "costs_or_expenses",
+      "claim": "Reflects the amount by which total CAS pension cost of $1.7 billion exceeds FAS pension service cost and excludes non-service FAS pension expense.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Reflects the amount by which total CAS pension cost of $1.7 billion exceeds FAS pension service cost and excludes non-service FAS pension expense. Refer to the supplemental table \"Selected Financial Data\" included in this news release for a detail of the FAS/CAS operating adju...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "costs_or_expenses",
+      "claim": "Free cash flow is cash from operations less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Free cash flow is cash from operations less capital expenditures. The company's capital expenditures are comprised of equipment and facilities infrastructure and information technology (inclusive of costs for the development or purchase of internal-use software that are capita...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "For additional information, visit the company\u2019s website: www.lockheedmartin.com .",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "For additional information, visit the company\u2019s website: www.lockheedmartin.com .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "LOCKHEED MARTIN CORP is a global defense technology company driving innovation and advancing scientific discovery.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "LOCKHEED MARTIN CORP is a global defense technology company driving innovation and advancing scientific discovery. Our all-domain mission solutions and 21st Century Security \u00ae vision accelerate the delivery of transformative technologies to ensure those we serve always stay ah...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "+1 301-214-3030, media.relations@lmco.com",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "+1 301-214-3030, media.relations@lmco.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "+1 301-897-6800, investor.relations@lmco.com",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "+1 301-897-6800, investor.relations@lmco.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "\u2022 the company's reliance on contracts with the U.S.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "\u2022 the company's reliance on contracts with the U.S. Government, which are dependent on U.S. Government funding and can be terminated for convenience, and the company's ability to negotiate favorable contract terms;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 budget uncertainty, the risk of future budget cuts, the impact of continuing resolution funding mechanisms, the debt ceiling and government shutdowns, and changing funding and acquisition priorities;",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "\u2022 budget uncertainty, the risk of future budget cuts, the impact of continuing resolution funding mechanisms, the debt ceiling and government shutdowns, and changing funding and acquisition priorities;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 risks related to the development, production, sustainment, performance, schedule, cost and requirements of complex and technologically advanced programs, including the F-35 program;",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "\u2022 risks related to the development, production, sustainment, performance, schedule, cost and requirements of complex and technologically advanced programs, including the F-35 program;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "\u2022 planned production rates and orders for significant programs, compliance with stringent performance and reliability standards, and materials availability, including government furnished equipment and rare earth minerals;",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "\u2022 planned production rates and orders for significant programs, compliance with stringent performance and reliability standards, and materials availability, including government furnished equipment and rare earth minerals;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "\u2022 the timing of contract awards or contract definitization, decisions by government customers to impose contract terms following undefinitized contract actions, achievement of performance milestones, customer acceptance of product deliveries, and receipt of customer payments;",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "\u2022 the timing of contract awards or contract definitization, decisions by government customers to impose contract terms following undefinitized contract actions, achievement of performance milestones, customer acceptance of product deliveries, and receipt of customer payments;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 the company's ability to recover costs under U.S.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "\u2022 the company's ability to recover costs under U.S. Government contracts, the mix of fixed-price and cost-reimbursable contracts and the risks inherent in preparing estimates for fixed-price contracts (particularly for complex and technologically advanced programs);",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "other",
+      "claim": "\u2022 customer procurement and other policies, laws, regulations and executive actions that affect the company and its industry, programs, future opportunities, and financial performance, including those relating to mission priorities, competing domestic and international spending, contracting terms (such as fixed-price requirements), acquisition process reforms, treatment of contractor performance issues, and contractor access to competitive opportunities;",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "\u2022 customer procurement and other policies, laws, regulations and executive actions that affect the company and its industry, programs, future opportunities, and financial performance, including those relating to mission priorities, competing domestic and international spending...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "other",
+      "claim": "\u2022 performance and/or financial viability of key suppliers, teammates, joint ventures (including United Launch Alliance), joint venture partners, subcontractors and customers;",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "\u2022 performance and/or financial viability of key suppliers, teammates, joint ventures (including United Launch Alliance), joint venture partners, subcontractors and customers;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "other",
+      "claim": "\u2022 economic, industry, business and political conditions including their effects on governmental policy;",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "\u2022 economic, industry, business and political conditions including their effects on governmental policy;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 the impact of inflation and other cost pressures;",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "\u2022 the impact of inflation and other cost pressures;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "other",
+      "claim": "\u2022 government actions that restrict or prevent the sale or delivery of the company's products (such as delays in approvals for exports requiring Congressional notification);",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "\u2022 government actions that restrict or prevent the sale or delivery of the company's products (such as delays in approvals for exports requiring Congressional notification);",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "\u2022 foreign policy and international trade actions taken by governments such as tariffs, sanctions, embargoes, export and import controls, buying preferences, and other trade restrictions;",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "\u2022 foreign policy and international trade actions taken by governments such as tariffs, sanctions, embargoes, export and import controls, buying preferences, and other trade restrictions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "revenue",
+      "claim": "\u2022 the company's success expanding into and doing business in adjacent markets and internationally and the risks posed by international sales, including potential effects from fluctuations in currency exchange rates;",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "\u2022 the company's success expanding into and doing business in adjacent markets and internationally and the risks posed by international sales, including potential effects from fluctuations in currency exchange rates;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "\u2022 changes in non-U.S.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "\u2022 changes in non-U.S. national priorities and government budgets and planned orders;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "other",
+      "claim": "\u2022 the competitive environment for the company's products and services;",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "\u2022 the competitive environment for the company's products and services;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "\u2022 the company's ability to develop and commercialize new technologies and products, including emerging digital and network technologies and capabilities;",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "\u2022 the company's ability to develop and commercialize new technologies and products, including emerging digital and network technologies and capabilities;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "\u2022 the company's ability to benefit fully from or adequately protect its intellectual property rights;",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "\u2022 the company's ability to benefit fully from or adequately protect its intellectual property rights;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "other",
+      "claim": "\u2022 the company's ability to attract and retain a highly skilled workforce and the impact of work stoppages or other labor disruptions;",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "\u2022 the company's ability to attract and retain a highly skilled workforce and the impact of work stoppages or other labor disruptions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "other",
+      "claim": "\u2022 cyber or other security threats or other disruptions faced by the company or its suppliers;",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "\u2022 cyber or other security threats or other disruptions faced by the company or its suppliers;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "other",
+      "claim": "\u2022 the company's ability to implement and continue, and the timing and impact of, capitalization changes such as share repurchases, dividend payments and financing transactions, including as a result of presidential executive orders;",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "\u2022 the company's ability to implement and continue, and the timing and impact of, capitalization changes such as share repurchases, dividend payments and financing transactions, including as a result of presidential executive orders;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "other",
+      "claim": "\u2022 the accuracy of the company's estimates and projections;",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "\u2022 the accuracy of the company's estimates and projections;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 changes in pension plan assumptions and actual returns on pension assets; cash funding requirements and pension annuity contracts and associated charges;",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "\u2022 changes in pension plan assumptions and actual returns on pension assets; cash funding requirements and pension annuity contracts and associated charges;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "other",
+      "claim": "\u2022 realizing the anticipated benefits of acquisitions or divestitures, investments, joint ventures, teaming arrangements or internal reorganizations, and market volatility affecting the fair value of investments that are marked to market;",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "\u2022 realizing the anticipated benefits of acquisitions or divestitures, investments, joint ventures, teaming arrangements or internal reorganizations, and market volatility affecting the fair value of investments that are marked to market;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 the company's efforts to fund and increase production capabilities and the efficiency of its operations and improve the affordability of its products and services, including through digital transformation and cost reduction initiatives;",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "\u2022 the company's efforts to fund and increase production capabilities and the efficiency of its operations and improve the affordability of its products and services, including through digital transformation and cost reduction initiatives;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the risk of an impairment of the company's assets, including the potential impairment of goodwill and intangibles;",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "\u2022 the risk of an impairment of the company's assets, including the potential impairment of goodwill and intangibles;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "other",
+      "claim": "\u2022 the availability and adequacy of the company's insurance and indemnities;",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "\u2022 the availability and adequacy of the company's insurance and indemnities;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "other",
+      "claim": "\u2022 compliance with laws, regulations, policies, and customer requirements relating to environmental matters;",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "\u2022 compliance with laws, regulations, policies, and customer requirements relating to environmental matters;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "other",
+      "claim": "\u2022 the impact of public health crises, natural disasters and other severe weather conditions on the company's business and financial results, including supply chain disruptions and delays, employee absences, and program delays;",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "\u2022 the impact of public health crises, natural disasters and other severe weather conditions on the company's business and financial results, including supply chain disruptions and delays, employee absences, and program delays;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "other",
+      "claim": "\u2022 changes in accounting, U.S.",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "\u2022 changes in accounting, U.S. or foreign tax, export or other laws, regulations, and policies and their interpretation or application, and changes in the amount or reevaluation of uncertain tax positions; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "other",
+      "claim": "\u2022 the outcome of legal proceedings, bid protests, environmental remediation efforts, audits, administrative reviews, government investigations or government allegations that the company has failed to comply with law, other contingencies and U.S.",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "\u2022 the outcome of legal proceedings, bid protests, environmental remediation efforts, audits, administrative reviews, government investigations or government allegations that the company has failed to comply with law, other contingencies and U.S. Government identification of de...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "revenue",
+      "claim": "(unaudited; in millions, except per share data) Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "(unaudited; in millions, except per share data) Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 2025 2024 Sales $ 20,321 $ 18,622 $ 75,048 $ 71,043 Operating costs and expenses (17,999) (17,932) (67,429) (64,113) Gross profit 2,322 690 7,619 6,930 Other income, net 9 6...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "other",
+      "claim": "In the quarter and year ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "In the quarter and year ended Dec. 31, 2025, the company recognized a non-operational charge of $479 million ($377 million, or $1.63 per share, after-tax) related to a pension transfer.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "revenue",
+      "claim": "Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "Quarters Ended Dec. 31, Years Ended Dec. 31, 2025 2024 % Change 2025 2024 % Change Sales Aeronautics $ 8,524 $ 8,009 6% $ 30,257 $ 28,618 6% Missiles and Fire Control 4,020 3,412 18% 14,450 12,682 14% Rotary and Mission Systems 4,616 4,261 8% 17,312 17,264 \u2014% Space 3,161 2,940...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "balance_sheet_or_cash",
+      "claim": "(in millions, except par value) Dec.",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "(in millions, except par value) Dec. 31, 2025 Dec. 31, 2024 (unaudited) Assets Current assets Cash and cash equivalents $ 4,121 $ 2,483 Receivables, net 3,901 2,351 Contract assets 13,001 12,957 Inventories 3,524 3,474 Other current assets 815 584 Total current assets 25,362 2...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "costs_or_expenses",
+      "claim": "(unaudited; in millions) Years Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "(unaudited; in millions) Years Ended Dec. 31, 2025 2024 Operating activities Net earnings $ 5,017 $ 5,336 Adjustments to reconcile net earnings to net cash provided by operating activities Depreciation and amortization 1,687 1,559 Stock-based compensation 304 277 Deferred inco...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "guidance",
+      "claim": "2026 Outlook 2025 Actual Total FAS expense and CAS cost FAS pension expense $ (370) $ (924) Less: CAS pension cost 1,735 1,568 Total FAS/CAS pension adjustment $ 1,365 $ 644 Less: pension settlement charge \u2014 479 Total FAS/CAS pension adjustment - adjusted 1 $ 1,365 $ 1,123 Service and non-service cost reconciliation FAS pension service cost $ (50) $ (50) Less: CAS pension cost 1,735 1,568 FAS/CAS pension operating adjustment 1,685 1,518 Non-service FAS pension expense (320) (874) Total FAS/CAS pension adjustment $ 1,365 $ 644 Less: pension settlement charge \u2014 479 Total FAS/CAS pension adjustment - adjusted 1 $ 1,365 $ 1,123 1 The cost components in the table above relate only to the company's qualified defined benefit pension plans.",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "2026 Outlook 2025 Actual Total FAS expense and CAS cost FAS pension expense $ (370) $ (924) Less: CAS pension cost 1,735 1,568 Total FAS/CAS pension adjustment $ 1,365 $ 644 Less: pension settlement charge \u2014 479 Total FAS/CAS pension adjustment - adjusted 1 $ 1,365 $ 1,123 Ser...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_099",
+      "category": "costs_or_expenses",
+      "claim": "The cost components in the table above relate only to the company's qualified defined benefit pension plans.",
+      "value": null,
+      "source_ids": [
+        "S099"
+      ],
+      "source_quote": "The cost components in the table above relate only to the company's qualified defined benefit pension plans. The company recognized a noncash, non-operating pretax settlement charge of $479 million in the fourth quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_100",
+      "category": "other",
+      "claim": "(unaudited; in millions, except for aircraft deliveries and weeks)",
+      "value": null,
+      "source_ids": [
+        "S100"
+      ],
+      "source_quote": "(unaudited; in millions, except for aircraft deliveries and weeks)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_101",
+      "category": "other",
+      "claim": "Backlog Dec.",
+      "value": null,
+      "source_ids": [
+        "S101"
+      ],
+      "source_quote": "Backlog Dec. 31, 2025 Dec. 31, 2024 Aeronautics $ 59,435 $ 62,763 Missiles and Fire Control 46,650 38,783 Rotary and Mission Systems 47,715 38,117 Space 39,822 36,377 Total backlog $ 193,622 $ 176,040",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_102",
+      "category": "other",
+      "claim": "Quarters Ended Dec.",
+      "value": null,
+      "source_ids": [
+        "S102"
+      ],
+      "source_quote": "Quarters Ended Dec. 31, Years Ended Dec. 31, Aircraft Deliveries 2025 2024 2025 2024 F-35 48 62 191 110 F-16 4 7 16 16 C-130J \u2014 8 2 21 Government helicopter programs 35 25 90 72 Commercial helicopter programs \u2014 1 2 1 International military helicopter programs 11 8 17 17",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_103",
+      "category": "other",
+      "claim": "Number of Weeks in Reporting Period 1 2026 2025 2024 First quarter 12 13 13 Second quarter 13 13 13 Third quarter 13 13 13 Fourth quarter 14 13 13 1 Calendar quarters are typically comprised of 13 weeks.",
+      "value": null,
+      "source_ids": [
+        "S103"
+      ],
+      "source_quote": "Number of Weeks in Reporting Period 1 2026 2025 2024 First quarter 12 13 13 Second quarter 13 13 13 Third quarter 13 13 13 Fourth quarter 14 13 13 1 Calendar quarters are typically comprised of 13 weeks. However, the company closes its books and records on the last Sunday of e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_104",
+      "category": "other",
+      "claim": "Calendar quarters are typically comprised of 13 weeks.",
+      "value": null,
+      "source_ids": [
+        "S104"
+      ],
+      "source_quote": "Calendar quarters are typically comprised of 13 weeks. However, the company closes its books and records on the last Sunday of each month, except for the month of Dec., as its fiscal year ends on Dec. 31. As a result, the number of weeks in a reporting quarter may vary slightl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.018832, ret_20d=0.221736, market_ret_20d=0.011005",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.018832, ret_20d=0.221736, market_ret_20d=0.011005",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "event_id": "evt_0041",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ILLINOIS TOOL WORKS INC",
+  "ticker": "ITW",
+  "company_alias": "ILLINOIS TOOL WORKS INC",
+  "masked_company": "Company BG",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-03",
+  "accepted_at_et": "2026-02-03T04:48:08-05:00",
+  "source_packet_path": "source_packets/evt_0041.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "\u2022 Revenue of $4.1 billion, an increase of 4.1%",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Revenue of $4.1 billion, an increase of 4.1%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "margins",
+      "claim": "\u2022 Operating margin of 26.5%, as enterprise initiatives contributed 140 bps",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Operating margin of 26.5%, as enterprise initiatives contributed 140 bps",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 GAAP EPS of $2.72, an increase of 7%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 GAAP EPS of $2.72, an increase of 7%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u2022 Revenue of $16 billion, an increase of 0.9%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Revenue of $16 billion, an increase of 0.9%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 Customer-Back Innovation contributed 2.4% to revenue growth, an increase of 40 bps",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Customer-Back Innovation contributed 2.4% to revenue growth, an increase of 40 bps",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u2022 Operating margin of 26.3%, as enterprise initiatives contributed 130 bps",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Operating margin of 26.3%, as enterprise initiatives contributed 130 bps",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 Revenue growth of 2 to 4%, organic growth of 1 to 3%",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Revenue growth of 2 to 4%, organic growth of 1 to 3%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\u2022 Operating margin expansion of approximately 100 bps with enterprise initiatives contributing 100 bps",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Operating margin expansion of approximately 100 bps with enterprise initiatives contributing 100 bps",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\u2022 GAAP EPS of $11.00 to $11.40, an increase of 7% at the mid-point",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 GAAP EPS of $11.00 to $11.40, an increase of 7% at the mid-point",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "GLENVIEW, IL., 2026-02-03T04:48:08-05:00 - ILLINOIS TOOL WORKS INC.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "GLENVIEW, IL., 2026-02-03T04:48:08-05:00 - ILLINOIS TOOL WORKS INC. (NYSE:ITW) today reported its fourth quarter and full year 2025 results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "\u201cILLINOIS TOOL WORKS INC delivered a solid finish to the year, marked by more than four percent revenue growth and a seven percent increase in GAAP earnings per share.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u201cILLINOIS TOOL WORKS INC delivered a solid finish to the year, marked by more than four percent revenue growth and a seven percent increase in GAAP earnings per share. As a result of our disciplined execution across all seven segments, we expanded both operating margin and inc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u201cOur results over the past year demonstrate that ILLINOIS TOOL WORKS INC is well-positioned to deliver solid financial performance in any environment as we consistently exceeded market growth while improving profitability and margins.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u201cOur results over the past year demonstrate that ILLINOIS TOOL WORKS INC is well-positioned to deliver solid financial performance in any environment as we consistently exceeded market growth while improving profitability and margins. Notably, our Customer-Back Innovation init...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Fourth quarter revenue of $4.1 billion increased by 4.1 percent and organic revenue growth was 1.3 percent.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Fourth quarter revenue of $4.1 billion increased by 4.1 percent and organic revenue growth was 1.3 percent. Foreign currency translation increased revenue by 2.5 percent and acquisitions added 0.3 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "earnings_or_eps",
+      "claim": "GAAP EPS of $2.72 increased seven percent.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "GAAP EPS of $2.72 increased seven percent. Operating margin of 26.5 percent increased 30 basis points as enterprise initiatives contributed 140 basis points. Segment operating margin increased 120 basis points to 27.7 percent. Operating cash flow was $1 billion, and free cash...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Full year revenue of $16 billion increased 0.9 percent as organic revenue was flat.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Full year revenue of $16 billion increased 0.9 percent as organic revenue was flat. Foreign currency translation increased revenue by 0.8 percent and acquisitions contributed 0.1 percent to revenues.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "GAAP EPS of $10.49 exceeded the prior guidance mid-point of $10.45.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "GAAP EPS of $10.49 exceeded the prior guidance mid-point of $10.45. Operating income was $4.2 billion and operating margin was 26.3 percent with enterprise initiatives contributing 130 basis points. Segment operating margin of 27.2 percent increased 70 basis points. Pricing an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "Operating cash flow was $3.1 billion and free cash flow was $2.7 billion, with a conversion of 88 percent to net income.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Operating cash flow was $3.1 billion and free cash flow was $2.7 billion, with a conversion of 88 percent to net income. The company invested approximately $0.8 billion to support the long-term growth of its highly profitable businesses and returned $3.3 billion to shareholder...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "ILLINOIS TOOL WORKS INC is initiating 2026 guidance including GAAP EPS in the range of $11.00 to $11.40 per share, which represents seven percent earnings growth at the mid-point.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "ILLINOIS TOOL WORKS INC is initiating 2026 guidance including GAAP EPS in the range of $11.00 to $11.40 per share, which represents seven percent earnings growth at the mid-point. The company projects revenue growth of two to four percent and organic growth of one to three per...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "margins",
+      "claim": "Operating margin is projected to be in the range of 26.5 to 27.5 percent, an improvement of approximately 100 basis points with enterprise initiatives contributing 100 basis points.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Operating margin is projected to be in the range of 26.5 to 27.5 percent, an improvement of approximately 100 basis points with enterprise initiatives contributing 100 basis points.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "All seven segments are expected to deliver positive organic growth and operating margin expansion in 2026.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "All seven segments are expected to deliver positive organic growth and operating margin expansion in 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "Free cash flow is projected to be greater than 100 percent of net income, and the company plans to repurchase approximately $1.5 billion of its own shares.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Free cash flow is projected to be greater than 100 percent of net income, and the company plans to repurchase approximately $1.5 billion of its own shares. The projected effective tax rate is 23.5 to 24.5 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "This earnings release contains certain non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "This earnings release contains certain non-GAAP financial measures. A reconciliation of these measures to the most directly comparable GAAP measures is included in the attached supplemental reconciliation schedule. The estimated guidance of free cash flow to net income convers...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "ILLINOIS TOOL WORKS INC (NYSE:ITW) is a Fortune 300 global multi-industrial manufacturing leader with revenue of $16 billion in 2025.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "ILLINOIS TOOL WORKS INC (NYSE:ITW) is a Fortune 300 global multi-industrial manufacturing leader with revenue of $16 billion in 2025. The company\u2019s seven industry-leading segments leverage the unique ILLINOIS TOOL WORKS INC Business Model to drive solid growth with best-in-cla...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Three Months Ended Twelve Months Ended December 31, December 31, In millions except per share amounts 2025 2024 2025 2024 Operating Revenue $ 4,093 $ 3,932 $ 16,044 $ 15,898 Cost of revenue 2,284 2,221 8,969 8,858 Selling, administrative, and research and development expenses 704 655 2,779 2,675 Amortization and impairment of intangible assets 20 25 80 101 Operating Income 1,085 1,031 4,216 4,264 Interest expense (75) (68) (292) (283) Other income (expense) 14 20 42 441 Income Before Taxes 1,024 983 3,966 4,422 Income taxes 234 233 900 934 Net Income $ 790 $ 750 $ 3,066 $ 3,488 Net Income Per Share: Basic $ 2.73 $ 2.55 $ 10.52 $ 11.75 Diluted $ 2.72 $ 2.54 $ 10.49 $ 11.71 Cash Dividends Per Share: Paid $ 1.61 $ 1.50 $ 6.11 $ 5.70 Declared $ 1.61 $ 1.50 $ 6.22 $ 5.80 Shares of Common Stock Outstanding During the Period: Average 289.5 294.7 291.5 296.8 Average assuming dilution 290.2 295.8 292.3 297.8",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Three Months Ended Twelve Months Ended December 31, December 31, In millions except per share amounts 2025 2024 2025 2024 Operating Revenue $ 4,093 $ 3,932 $ 16,044 $ 15,898 Cost of revenue 2,284 2,221 8,969 8,858 Selling, administrative, and research and development expenses...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "costs_or_expenses",
+      "claim": "In millions December 31, 2025 December 31, 2024 Assets Current Assets: Cash and equivalents $ 851 $ 948 Trade receivables 3,227 2,991 Inventories 1,659 1,605 Prepaid expenses and other current assets 463 312 Total current assets 6,200 5,856 Net plant and equipment 2,230 2,036 Goodwill 5,098 4,839 Intangible assets 591 592 Deferred income taxes 519 369 Other assets 1,510 1,375 $ 16,148 $ 15,067 Liabilities and Stockholders' Equity Current Liabilities: Short-term debt $ 2,286 $ 1,555 Accounts payable 522 519 Accrued expenses 1,636 1,576 Cash dividends payable 465 441 Income taxes payable 217 217 Total current liabilities 5,126 4,308 Noncurrent Liabilities: Long-term debt 6,683 6,308 Deferred income taxes 154 119 Other liabilities 959 1,015 Total noncurrent liabilities 7,796 7,442 Stockholders' Equity: Common stock 6 6 Additional paid-in-capital 1,771 1,669 Retained earnings 30,150 28,893 Common stock held in treasury (26,875) (25,375) Accumulated other comprehensive income (loss) (1,827) (1,877) Noncontrolling interest 1 1 Total stockholders' equity 3,226 3,317 $ 16,148 $ 15,067",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "In millions December 31, 2025 December 31, 2024 Assets Current Assets: Cash and equivalents $ 851 $ 948 Trade receivables 3,227 2,991 Inventories 1,659 1,605 Prepaid expenses and other current assets 463 312 Total current assets 6,200 5,856 Net plant and equipment 2,230 2,036...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, 2025 Dollars in millions Total Revenue Operating Income Operating Margin Automotive OEM $ 827 $ 180 21.8 % Food Equipment 698 196 28.0 % Test & Measurement and Electronics 789 221 28.1 % Welding 462 153 33.3 % Polymers & Fluids 457 132 29.0 % Construction Products 431 126 29.0 % Specialty Products 433 124 28.7 % Intersegment (4) \u2014 \u2014 % Total Segments 4,093 1,132 27.7 % Unallocated \u2014 (47) \u2014 % Total Company $ 4,093 $ 1,085 26.5 %",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 Dollars in millions Total Revenue Operating Income Operating Margin Automotive OEM $ 827 $ 180 21.8 % Food Equipment 698 196 28.0 % Test & Measurement and Electronics 789 221 28.1 % Welding 462 153 33.3 % Polymers & Fluids 457 132 29.0 % Co...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "Twelve Months Ended December 31, 2025 Dollars in millions Total Revenue Operating Income Operating Margin Automotive OEM $ 3,288 $ 693 21.1 % Food Equipment 2,699 753 27.9 % Test & Measurement and Electronics 2,825 694 24.6 % Welding 1,890 621 32.9 % Polymers & Fluids 1,765 493 27.9 % Construction Products 1,820 550 30.2 % Specialty Products 1,775 553 31.2 % Intersegment (18) \u2014 \u2014 % Total Segments 16,044 4,357 27.2 % Unallocated \u2014 (141) \u2014 % Total Company $ 16,044 $ 4,216 26.3 %",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025 Dollars in millions Total Revenue Operating Income Operating Margin Automotive OEM $ 3,288 $ 693 21.1 % Food Equipment 2,699 753 27.9 % Test & Measurement and Electronics 2,825 694 24.6 % Welding 1,890 621 32.9 % Polymers & Fluids 1,765 49...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "Q4 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Q4 2025 vs. Q4 2024 Favorable/(Unfavorable) Operating Revenue Automotive OEM Food Equipment Test & Measurement and Electronics Welding Polymers & Fluids Construction Products Specialty Products Total ILLINOIS TOOL WORKS INC Organic 1.9 % 0.7 % 1.8 % 2.3 % 4.7 % (3.5) % 1.1 % 1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "Q4 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Q4 2025 vs. Q4 2024 Favorable/(Unfavorable) Change in Operating Margin Automotive OEM Food Equipment Test & Measurement and Electronics Welding Polymers & Fluids Construction Products Specialty Products Total ILLINOIS TOOL WORKS INC Operating Leverage 40 bps 10 bps 40 bps 40 b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.05) on GAAP earnings per share for the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.05) on GAAP earnings per share for the fourth quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Full Year 2025 vs Full Year 2024 Favorable/(Unfavorable) Operating Revenue Automotive OEM Food Equipment Test & Measurement and Electronics Welding Polymers & Fluids Construction Products Specialty Products Total ILLINOIS TOOL WORKS INC Organic 2.0 % 0.8 % (1.4) % 2.0 % (0.2) % (5.1) % 1.0 % \u2014 % Acquisitions/ Divestitures \u2014 % \u2014 % 0.4 % \u2014 % \u2014 % \u2014 % \u2014 % 0.1 % Translation 1.2 % 1.1 % 1.2 % 0.1 % 0.3 % 0.5 % 0.8 % 0.8 % Operating Revenue 3.2 % 1.9 % 0.2 % 2.1 % 0.1 % (4.6) % 1.8 % 0.9 %",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Full Year 2025 vs Full Year 2024 Favorable/(Unfavorable) Operating Revenue Automotive OEM Food Equipment Test & Measurement and Electronics Welding Polymers & Fluids Construction Products Specialty Products Total ILLINOIS TOOL WORKS INC Organic 2.0 % 0.8 % (1.4) % 2.0 % (0.2)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "earnings_or_eps",
+      "claim": "Full Year 2025 vs Full Year 2024 Favorable/(Unfavorable) Change in Operating Margin Automotive OEM Food Equipment Test & Measurement and Electronics Welding Polymers & Fluids Construction Products Specialty Products Total ILLINOIS TOOL WORKS INC Operating Leverage 40 bps 20 bps (40) bps 30 bps 10 bps (110) bps 20 bps \u2014 Changes in Variable Margin & OH Costs 110 bps 40 bps 60 bps 30 bps 50 bps 170 bps 70 bps (50) bps Total Organic 150 bps 60 bps 20 bps 60 bps 60 bps 60 bps 90 bps (50) bps Acquisitions/ Divestitures \u2014 \u2014 (20) bps \u2014 \u2014 \u2014 \u2014 \u2014 Restructuring/Other \u2014 10 bps (30) bps \u2014 (10) bps 30 bps \u2014 \u2014 Total Operating Margin Change 150 bps 70 bps (30) bps 60 bps 50 bps 90 bps 90 bps (50) bps Total Operating Margin % * 21.1% 27.9% 24.6% 32.9% 27.9% 30.2% 31.2% 26.3% * Includes unfavorable operating margin impact of amortization expense from acquisition-related intangible assets 20 bps 10 bps 130 bps 10 bps 150 bps 10 bps 10 bps 50 bps ** ** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.21) on GAAP earnings per share for 2025.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Full Year 2025 vs Full Year 2024 Favorable/(Unfavorable) Change in Operating Margin Automotive OEM Food Equipment Test & Measurement and Electronics Welding Polymers & Fluids Construction Products Specialty Products Total ILLINOIS TOOL WORKS INC Operating Leverage 40 bps 20 bp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.21) on GAAP earnings per share for 2025.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.21) on GAAP earnings per share for 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Twelve Months Ended December 31, December 31, Dollars in millions 2025 2024 2025 2024 Numerator: Net income $ 790 $ 750 $ 3,066 $ 3,488 Net discrete tax benefit related to the third quarter 2025 \u2014 \u2014 (27) \u2014 Discrete tax benefit related to the first quarter 2025 \u2014 \u2014 (21) \u2014 Net discrete tax benefit related to the third quarter 2024 \u2014 \u2014 \u2014 (121) Interest expense, net of tax (1) 57 51 222 215 Other (income) expense, net of tax (1) (10) (16) (32) (336) Operating income after taxes $ 837 $ 785 $ 3,208 $ 3,246 Denominator: Invested capital: Cash and equivalents $ 851 $ 948 $ 851 $ 948 Trade receivables 3,227 2,991 3,227 2,991 Inventories 1,659 1,605 1,659 1,605 Net plant and equipment 2,230 2,036 2,230 2,036 Goodwill and intangible assets 5,689 5,431 5,689 5,431 Accounts payable and accrued expenses (2,158) (2,095) (2,158) (2,095) Debt (8,969) (7,863) (8,969) (7,863) Other, net 697 264 697 264 Total net assets (stockholders' equity) 3,226 3,317 3,226 3,317 Cash and equivalents (851) (948) (851) (948) Debt 8,969 7,863 8,969 7,863 Total invested capital $ 11,344 $ 10,232 $ 11,344 $ 10,232 Average invested capital (2) $ 11,285 $ 10,511 $ 10,959 $ 10,419 Net income to average invested capital (3) 28.0 % 28.6 % 28.0 % 33.5 % After-tax return on average invested capital (3) 29.7 % 29.9 % 29.3 % 31.2 %",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Three Months Ended Twelve Months Ended December 31, December 31, Dollars in millions 2025 2024 2025 2024 Numerator: Net income $ 790 $ 750 $ 3,066 $ 3,488 Net discrete tax benefit related to the third quarter 2025 \u2014 \u2014 (27) \u2014 Discrete tax benefit related to the first quarter 20...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "costs_or_expenses",
+      "claim": "(1) Effective tax rate used for interest expense and other (income) expense for the three months ended December 31, 2025 and 2024 was 22.8% and 23.7%, respectively, and 23.9%, and 23.8% for the twelve months ended December 31, 2025 and 2024, respectively.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "(1) Effective tax rate used for interest expense and other (income) expense for the three months ended December 31, 2025 and 2024 was 22.8% and 23.7%, respectively, and 23.9%, and 23.8% for the twelve months ended December 31, 2025 and 2024, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "(2) Average invested capital is calculated using the total invested capital balances at the start of the period and at the end of each quarter within each of the periods presented.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "(2) Average invested capital is calculated using the total invested capital balances at the start of the period and at the end of each quarter within each of the periods presented.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "(3) Returns for the three months ended December 31, 2025 and 2024 were converted to an annual rate by multiplying the calculated return by 4.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "(3) Returns for the three months ended December 31, 2025 and 2024 were converted to an annual rate by multiplying the calculated return by 4.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "costs_or_expenses",
+      "claim": "A reconciliation of the 2025 effective tax rate, excluding the third quarter 2025 net discrete tax benefit of $27 million, which included a favorable discrete tax benefit of $43 million related to the estimated U.S.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "A reconciliation of the 2025 effective tax rate, excluding the third quarter 2025 net discrete tax benefit of $27 million, which included a favorable discrete tax benefit of $43 million related to the estimated U.S. federal tax liability for 2024, partially offset by a $16 mil...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2025 Dollars in millions Income Taxes Tax Rate As reported $ 900 22.7 % Net discrete tax benefit related to the third quarter 2025 27 0.7 % Discrete tax benefit related to the first quarter 2025 21 0.5 % As adjusted $ 948 23.9 %",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025 Dollars in millions Income Taxes Tax Rate As reported $ 900 22.7 % Net discrete tax benefit related to the third quarter 2025 27 0.7 % Discrete tax benefit related to the first quarter 2025 21 0.5 % As adjusted $ 948 23.9 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "A reconciliation of the 2024 effective tax rate excluding the third quarter 2024 net discrete tax benefit of $121 million, which included favorable discrete tax benefits of $107 million related to the utilization of capital loss carryforwards upon the sale of Wilsonart and $87 million related to a reorganization of the Company's intellectual property, partially offset by a $73 million discrete tax expense related to the remeasurement of unrecognized tax benefits associated with various intercompany transactions, is as follows:",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "A reconciliation of the 2024 effective tax rate excluding the third quarter 2024 net discrete tax benefit of $121 million, which included favorable discrete tax benefits of $107 million related to the utilization of capital loss carryforwards upon the sale of Wilsonart and $87...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2024 Dollars in millions Income Taxes Tax Rate As reported $ 934 21.1 % Net discrete tax benefit related to the third quarter 2024 121 2.7 % As adjusted $ 1,055 23.8 %",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2024 Dollars in millions Income Taxes Tax Rate As reported $ 934 21.1 % Net discrete tax benefit related to the third quarter 2024 121 2.7 % As adjusted $ 1,055 23.8 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Twelve Months Ended December 31, December 31, Dollars in millions 2025 2024 2025 2024 Net cash provided by operating activities $ 963 $ 1,114 $ 3,126 $ 3,281 Less: Additions to plant and equipment (105) (118) (419) (437) Free cash flow $ 858 $ 996 $ 2,707 $ 2,844 Net income $ 790 $ 750 $ 3,066 $ 3,488 Net cash provided by operating activities to net income conversion rate 122 % 149 % 102 % 94 % Free cash flow to net income conversion rate 109 % 133 % 88 % 82 %",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Three Months Ended Twelve Months Ended December 31, December 31, Dollars in millions 2025 2024 2025 2024 Net cash provided by operating activities $ 963 $ 1,114 $ 3,126 $ 3,281 Less: Additions to plant and equipment (105) (118) (419) (437) Free cash flow $ 858 $ 996 $ 2,707 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "Twelve Months Ended December 31, 2024 As reported $ 11.71 Impact of sale of noncontrolling interest in Wilsonart (1) (1.26) Cumulative effect of change in inventory accounting method, net of tax (2) (0.30) As adjusted $ 10.15",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2024 As reported $ 11.71 Impact of sale of noncontrolling interest in Wilsonart (1) (1.26) Cumulative effect of change in inventory accounting method, net of tax (2) (0.30) As adjusted $ 10.15",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "earnings_or_eps",
+      "claim": "(1) Includes the $363 million pre-tax gain on the sale of noncontrolling interest in Wilsonart and related taxes.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "(1) Includes the $363 million pre-tax gain on the sale of noncontrolling interest in Wilsonart and related taxes.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "earnings_or_eps",
+      "claim": "(2) Represents the cumulative effect of the change from the LIFO method of accounting to the FIFO method for certain U.S.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "(2) Represents the cumulative effect of the change from the LIFO method of accounting to the FIFO method for certain U.S. businesses ($117 million pre-tax, or $88 million after-tax).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.019525, ret_20d=0.058958, market_ret_20d=0.017916",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.019525, ret_20d=0.058958, market_ret_20d=0.017916",
+      "support_label": "supported"
+    }
+  ]
+}

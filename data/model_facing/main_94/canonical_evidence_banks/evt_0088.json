@@ -1,0 +1,215 @@
+{
+  "event_id": "evt_0088",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "ticker": "INSP",
+  "company_alias": "Inspire Medical Systems, Inc.",
+  "masked_company": "Company AF",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-01-12",
+  "accepted_at_et": "2026-01-12T17:04:28-05:00",
+  "source_packet_path": "source_packets/evt_0088.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "Inspire Medical Systems, Inc..",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Inspire Medical Systems, Inc.. Announces Preliminary Unaudited Revenue Results for the Fourth Quarter and Full Year 2025 and Provides Initial 2026 Revenue Guidance",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Inspire Medical Systems, Inc.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Inspire Medical Systems, Inc. Announces Appointment of Matt Osberg as Executive Vice President and Chief Financial Officer Joining the Company in the First Quarter of 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "MINNEAPOLIS, MN - 2026-01-12T17:04:28-05:00 - Inspire Medical Systems, Inc..",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "MINNEAPOLIS, MN - 2026-01-12T17:04:28-05:00 - Inspire Medical Systems, Inc.. (NYSE:INSP) (\u201cInspire Medical Systems, Inc.\u201d, or the \u201cCompany\u201d), a medical technology company focused on the development and commercialization of innovative, minimally invasive solutions for patients...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "Preliminary, Unaudited Fourth Quarter and Full Year 2025 Revenue",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Preliminary, Unaudited Fourth Quarter and Full Year 2025 Revenue",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 Revenue for the fourth quarter of 2025 is anticipated to be in the range of $268.9 million to $269.1 million, an approximately 12% increase over the same quarter of 2024",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Revenue for the fourth quarter of 2025 is anticipated to be in the range of $268.9 million to $269.1 million, an approximately 12% increase over the same quarter of 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u2022 Revenue for full year 2025 is anticipated to be in the range of $911.8 million to $912.0 million, an approximately 14% increase over full year 2024",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Revenue for full year 2025 is anticipated to be in the range of $911.8 million to $912.0 million, an approximately 14% increase over full year 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 Revenue for full year 2026 is anticipated to be in the range of $1,003 million to $1,013 million, a 10% to 11% increase over full year 2025",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Revenue for full year 2026 is anticipated to be in the range of $1,003 million to $1,013 million, a 10% to 11% increase over full year 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\u201cWe are very pleased with our strong preliminary revenue performance in the fourth quarter as the team executed exceptionally well and finished the year with significant momentum,\u201d said Chairman and Chief Executive Officer of Inspire Medical Systems, Inc..",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cWe are very pleased with our strong preliminary revenue performance in the fourth quarter as the team executed exceptionally well and finished the year with significant momentum,\u201d said Chairman and Chief Executive Officer of Inspire Medical Systems, Inc.. \u201c2025 was a transiti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\u201cWith the momentum we are seeing, we are pleased to reaffirm the preliminary outlook we provided on our third quarter earnings call of 10% to 11% revenue growth in 2026 as compared to 2025.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u201cWith the momentum we are seeing, we are pleased to reaffirm the preliminary outlook we provided on our third quarter earnings call of 10% to 11% revenue growth in 2026 as compared to 2025. We view the recent reimbursement developments as a positive step and are continuing to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "The Company also announced the appointment of Matt Osberg as its new Executive Vice President and Chief Financial Officer.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "The Company also announced the appointment of Matt Osberg as its new Executive Vice President and Chief Financial Officer. Mr. Osberg is an accomplished C-suite financial executive with over 20 years of experience in global financial leadership, corporate governance, and strat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "TX, and prior to that held various finance leadership roles at Best Buy, Inc.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "TX, and prior to that held various finance leadership roles at Best Buy, Inc. Mr. Osberg started his career at Ernst & Young LLP. Mr. Osberg\u2019s start date is January 19, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u201cWe are very excited to have Matt Osberg join Inspire Medical Systems, Inc.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u201cWe are very excited to have Matt Osberg join Inspire Medical Systems, Inc. and bring his years of public company experience to take us through our next wave of growth as we continue the adoption of Inspire Medical Systems, Inc. therapy globally,\u201d continued Mr. Herbert. \u201cFinal...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "Inspire Medical Systems, Inc.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Inspire Medical Systems, Inc. previously announced its participation in the 44 th Annual J.P. Morgan Healthcare Conference at the Westin St. Francis Hotel in San Francisco, CA, including a formal company presentation at 9:45 a.m. P.T. on Monday, 2026-01-12T17:04:28-05:00.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "Full consolidated financial statements as of and for the quarter and year ended December 31, 2025 are not yet complete as of the date of this press release, and the Company\u2019s financial results for such period may differ materially from the preliminary, unaudited financial results herein.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Full consolidated financial statements as of and for the quarter and year ended December 31, 2025 are not yet complete as of the date of this press release, and the Company\u2019s financial results for such period may differ materially from the preliminary, unaudited financial resu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "Inspire Medical Systems, Inc.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Inspire Medical Systems, Inc. is a medical technology company focused on the development and commercialization of innovative, minimally invasive solutions for patients with obstructive sleep apnea. Inspire Medical Systems, Inc.\u2019s proprietary Inspire Medical Systems, Inc. thera...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "For additional information about Inspire Medical Systems, Inc., please visit www.inspiresleep.com.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "For additional information about Inspire Medical Systems, Inc., please visit www.inspiresleep.com.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "senior management and other highly qualified personnel; risk related to product liability claims and warranty claims; our ability to address quality issues that may arise with our Inspire Medical Systems, Inc.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "senior management and other highly qualified personnel; risk related to product liability claims and warranty claims; our ability to address quality issues that may arise with our Inspire Medical Systems, Inc. therapy; our ability to successfully integrate any acquired busines...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.0229, ret_20d=-0.294387, market_ret_20d=0.011672",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.0229, ret_20d=-0.294387, market_ret_20d=0.011672",
+      "support_label": "supported"
+    }
+  ]
+}

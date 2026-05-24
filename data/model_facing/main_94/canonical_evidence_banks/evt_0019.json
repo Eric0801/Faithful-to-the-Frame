@@ -1,0 +1,413 @@
+{
+  "event_id": "evt_0019",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Fox Corp",
+  "ticker": "FOX",
+  "company_alias": "Fox Corp",
+  "masked_company": "Company AN",
+  "sector": "Communication Services",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-02-04",
+  "accepted_at_et": "2026-02-04T03:03:26-05:00",
+  "source_packet_path": "source_packets/evt_0019.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "margins",
+      "claim": "NEW YORK, NY, 2026-02-04T03:03:26-05:00 \u2013 Fox Corp Corporation (Nasdaq: FOXA, Fox Corp; \u201cFox Corp\u201d or the \u201cCompany\u201d) today reported financial results for the three months ended December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "NEW YORK, NY, 2026-02-04T03:03:26-05:00 \u2013 Fox Corp Corporation (Nasdaq: FOXA, Fox Corp; \u201cFox Corp\u201d or the \u201cCompany\u201d) today reported financial results for the three months ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "The Company reported total quarterly revenues of $5.18 billion, an increase of $104 million or 2% from the amount reported in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "The Company reported total quarterly revenues of $5.18 billion, an increase of $104 million or 2% from the amount reported in the prior year quarter. Distribution revenues increased 4%, primarily driven by 5% growth at the Cable Network Programming segment. Advertising revenue...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "The Company reported quarterly net income of $247 million as compared to the $388 million reported in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "The Company reported quarterly net income of $247 million as compared to the $388 million reported in the prior year quarter. Net income attributable to Fox Corp Corporation stockholders was $229 million ($0.52 per share) as compared to the $373 million ($0.81 per share) repor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "Quarterly Adjusted EBITDA 2 was $692 million as compared to $781 million reported in the prior year quarter as the revenue increase noted above was more than offset by higher expenses.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Quarterly Adjusted EBITDA 2 was $692 million as compared to $781 million reported in the prior year quarter as the revenue increase noted above was more than offset by higher expenses. The increase in expenses was primarily due to higher sports programming rights amortization...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\"Fox Corp delivered robust results in the second quarter of fiscal 2026 with broad based contributions from across our portfolio, including notable strength in advertising, where despite strong political advertising revenues a year ago, we still grew total company advertising revenue.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\"Fox Corp delivered robust results in the second quarter of fiscal 2026 with broad based contributions from across our portfolio, including notable strength in advertising, where despite strong political advertising revenues a year ago, we still grew total company advertising...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "earnings_or_eps",
+      "claim": "1 Excludes net income effects of Restructuring, impairment and other corporate matters, adjustments to Equity earnings (losses) of affiliates, Non-operating other, net, Tax provision and Noncontrolling interest adjustments.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "1 Excludes net income effects of Restructuring, impairment and other corporate matters, adjustments to Equity earnings (losses) of affiliates, Non-operating other, net, Tax provision and Noncontrolling interest adjustments. See Note 1 for a description of adjusted net income a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "earnings_or_eps",
+      "claim": "2 Adjusted EBITDA is considered a non-GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "2 Adjusted EBITDA is considered a non-GAAP financial measure. See Note 2 for a description of Adjusted EBITDA and a reconciliation of net income to Adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Revenues by Component: Distribution 3 $ 2,002 $ 1,933 $ 3,917 $ 3,801 Advertising 2,455 2,422 3,867 3,751 Content and other 725 723 1,136 1,090 Total revenues $ 5,182 $ 5,078 $ 8,920 $ 8,642 Segment Revenues: Cable Network Programming $ 2,275 $ 2,165 $ 3,937 $ 3,762 Television 2,937 2,961 4,987 4,914 Corporate and Other 124 58 213 123 Eliminations (154) (106) (217) (157) Total revenues $ 5,182 $ 5,078 $ 8,920 $ 8,642 Adjusted EBITDA: Cable Network Programming $ 687 $ 657 $ 1,487 $ 1,405 Television 143 205 542 577 Corporate and Other (138) (81) (272) (153) Adjusted EBITDA 4 $ 692 $ 781 $ 1,757 $ 1,829 Depreciation and amortization: Cable Network Programming $ 27 $ 25 $ 53 $ 45 Television 30 30 60 59 Corporate and Other 43 42 85 84 Total depreciation and amortization $ 100 $ 97 $ 198 $ 188",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Revenues by Component: Distribution 3 $ 2,002 $ 1,933 $ 3,917 $ 3,801 Advertising 2,455 2,422 3,867 3,751 Content and other 725 723 1,136 1,090 Total revenues $ 5,182 $ 5,078 $ 8,920 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "3 The Company generates distribution revenue from agreements with MVPDs for cable network programming and retransmission fees for the broadcast of the Company\u2019s owned and operated television stations and from subscription fees for the Company\u2019s direct-to-consumer streaming services.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "3 The Company generates distribution revenue from agreements with MVPDs for cable network programming and retransmission fees for the broadcast of the Company\u2019s owned and operated television stations and from subscription fees for the Company\u2019s direct-to-consumer streaming ser...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "earnings_or_eps",
+      "claim": "4 Adjusted EBITDA is considered a non-GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "4 Adjusted EBITDA is considered a non-GAAP financial measure. See Note 2 for a description of Adjusted EBITDA and a reconciliation of net income to Adjusted EBITDA.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Revenues Distribution $ 1,163 $ 1,109 $ 2,253 $ 2,171 Advertising 491 460 836 781 Content and other 621 596 848 810 Total revenues 2,275 2,165 3,937 3,762 Operating expenses (1,426) (1,354) (2,129) (2,056) Selling, general and administrative (162) (158) (321) (309) Amortization of cable distribution investments \u2014 4 \u2014 8 Segment EBITDA $ 687 $ 657 $ 1,487 $ 1,405",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Revenues Distribution $ 1,163 $ 1,109 $ 2,253 $ 2,171 Advertising 491 460 836 781 Content and other 621 596 848 810 Total revenues 2,275 2,165 3,937 3,762 Operating expenses (1,426) (1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Cable Network Programming reported quarterly segment revenues of $2.28 billion, an increase of $110 million or 5% from the amount reported in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Cable Network Programming reported quarterly segment revenues of $2.28 billion, an increase of $110 million or 5% from the amount reported in the prior year quarter. Distribution revenues increased $54 million or 5% as contractual price increases were partially offset by the i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Cable Network Programming reported quarterly segment EBITDA of $687 million, an increase of $30 million or 5% from the amount reported in the prior year quarter, primarily due to the revenue increase noted above, partially offset by higher expenses.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Cable Network Programming reported quarterly segment EBITDA of $687 million, an increase of $30 million or 5% from the amount reported in the prior year quarter, primarily due to the revenue increase noted above, partially offset by higher expenses. The increase in expenses wa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Revenues Advertising $ 1,964 $ 1,962 $ 3,031 $ 2,970 Distribution 831 824 1,652 1,630 Content and other 142 175 304 314 Total revenues 2,937 2,961 4,987 4,914 Operating expenses (2,521) (2,499) (3,906) (3,832) Selling, general and administrative (273) (257) (539) (505) Segment EBITDA $ 143 $ 205 $ 542 $ 577",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Revenues Advertising $ 1,964 $ 1,962 $ 3,031 $ 2,970 Distribution 831 824 1,652 1,630 Content and other 142 175 304 314 Total revenues 2,937 2,961 4,987 4,914 Operating expenses (2,521...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Television reported quarterly segment revenues of $2.94 billion as compared to the $2.96 billion reported in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Television reported quarterly segment revenues of $2.94 billion as compared to the $2.96 billion reported in the prior year quarter. Advertising revenues were essentially unchanged from the prior year quarter as continued digital growth led by the Tubi AVOD service, the impact...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "margins",
+      "claim": "Television reported quarterly segment EBITDA of $143 million as compared to the $205 million reported in the prior year quarter, primarily due to higher expenses.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Television reported quarterly segment EBITDA of $143 million as compared to the $205 million reported in the prior year quarter, primarily due to higher expenses. The increase in expenses was led by higher sports programming rights amortization and production costs and higher...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "The Company has declared a dividend of $0.28 per Class A and Class B share.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "The Company has declared a dividend of $0.28 per Class A and Class B share. This dividend is payable on March 25, 2026 with a record date for determining dividend entitlements of March 4, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "As of December 31, 2025, the Company has cumulatively repurchased approximately $6.6 billion of its Class A common stock and approximately $1.8 billion of its Class B common stock, with a remaining authorization of $3.6 billion.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "As of December 31, 2025, the Company has cumulatively repurchased approximately $6.6 billion of its Class A common stock and approximately $1.8 billion of its Class B common stock, with a remaining authorization of $3.6 billion. During the quarter, the Company repurchased appr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "To access a copy of this press release through the Internet, access Fox Corp Corporation\u2019s corporate website located at http://www.foxcorporation.com.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "To access a copy of this press release through the Internet, access Fox Corp Corporation\u2019s corporate website located at http://www.foxcorporation.com.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions, except per share amounts Revenues $ 5,182 $ 5,078 $ 8,920 $ 8,642 Operating expenses (3,895) (3,776) (5,979) (5,794) Selling, general and administrative (595) (525) (1,184) (1,027) Depreciation and amortization (100) (97) (198) (188) Restructuring, impairment and other corporate matters (14) (170) (6) (196) Equity earnings of affiliates 3 4 2 7 Interest expense, net (98) (80) (148) (130) Non-operating other, net (161) 81 (286) 314 Income before income tax expense 322 515 1,121 1,628 Income tax expense (75) (127) (265) (408) Net income 247 388 856 1,220 Less: Net income attributable to noncontrolling interests (18) (15) (28) (20) Net income attributable to Fox Corp Corporation stockholders $ 229 $ 373 $ 828 $ 1,200 Weighted average shares: 441 462 448 463 Net income attributable to Fox Corp Corporation stockholders per share: $ 0.52 $ 0.81 $ 1.85 $ 2.59",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions, except per share amounts Revenues $ 5,182 $ 5,078 $ 8,920 $ 8,642 Operating expenses (3,895) (3,776) (5,979) (5,794) Selling, general and administrative (595) (525) (1,184) (1,027) De...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "CONSOLIDATED BALANCE SHEETS December 31, 2025 June 30, 2025 $ Millions Assets: Current assets: Cash and cash equivalents $ 2,017 $ 5,351 Receivables, net 3,557 2,472 Inventories, net 828 432 Other 324 174 Total current assets 6,726 8,429 Non-current assets: Property, plant and equipment, net 1,739 1,705 Intangible assets, net 2,951 2,969 Goodwill 3,638 3,639 Deferred tax assets 2,621 2,721 Other non-current assets 3,796 3,732 Total assets $ 21,471 $ 23,195 Liabilities and Equity: Current liabilities: Accounts payable, accrued expenses and other current liabilities $ 2,416 $ 2,897 Total current liabilities 2,416 2,897 Non-current liabilities: Borrowings 6,604 6,602 Other liabilities 1,329 1,341 Redeemable noncontrolling interests 84 288 Commitments and contingencies Equity: Class A common stock, $0.01 par value 2 2 Class B common stock, $0.01 par value 2 2 Additional paid-in capital 7,264 7,603 Retained earnings 3,783 4,479 Accumulated other comprehensive loss (123) (124) Total Fox Corp Corporation stockholders\u2019 equity 10,928 11,962 Noncontrolling interests 110 105 Total equity 11,038 12,067 Total liabilities and equity $ 21,471 $ 23,195",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "CONSOLIDATED BALANCE SHEETS December 31, 2025 June 30, 2025 $ Millions Assets: Current assets: Cash and cash equivalents $ 2,017 $ 5,351 Receivables, net 3,557 2,472 Inventories, net 828 432 Other 324 174 Total current assets 6,726 8,429 Non-current assets: Property, plant and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "earnings_or_eps",
+      "claim": "Six Months Ended December 31, 2025 2024 $ Millions OPERATING ACTIVITIES: Net income $ 856 $ 1,220 Adjustments to reconcile net income to net cash used in operating activities Depreciation and amortization 198 188 Restructuring, impairment and other corporate matters 6 196 Equity-based compensation 60 68 Equity earnings of affiliates (2) (7) Cash distributions received from affiliates \u2014 13 Non-operating other, net 286 (314) Deferred income taxes 100 145 Change in operating assets and liabilities, net of acquisitions and dispositions Receivables and other assets (1,173) (1,190) Inventories net of programming payable (937) (431) Accounts payable and accrued expenses (92) (75) Other changes, net (101) (17) Net cash used in operating activities (799) (204) INVESTING ACTIVITIES: Property, plant and equipment (226) (138) Purchase of investments (143) (79) Other investing activities, net (24) (23) Net cash used in investing activities (393) (240) FINANCING ACTIVITIES: Repurchase of shares (1,800) (500) Dividends paid and distributions (147) (134) Purchase of noncontrolling interest (208) \u2014 Other financing activities, net 13 81 Net cash used in financing activities (2,142) (553) Net decrease in cash and cash equivalents (3,334) (997) Cash and cash equivalents, beginning of year 5,351 4,319 Cash and cash equivalents, end of period $ 2,017 $ 3,322",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Six Months Ended December 31, 2025 2024 $ Millions OPERATING ACTIVITIES: Net income $ 856 $ 1,220 Adjustments to reconcile net income to net cash used in operating activities Depreciation and amortization 198 188 Restructuring, impairment and other corporate matters 6 196 Equi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "The Company uses net income attributable to Fox Corp Corporation stockholders and earnings per share (\u201cEPS\u201d) attributable to Fox Corp Corporation stockholders excluding net income effects of Restructuring, impairment and other corporate matters, adjustments to Equity earnings (losses) of affiliates, Non-operating other, net, Tax provision and Noncontrolling interest adjustments (\u201cAdjusted Net Income\u201d and \u201cAdjusted EPS\u201d respectively) to evaluate the performance of the Company\u2019s operations exclusive of certain items that impact the comparability of results from period to period.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "The Company uses net income attributable to Fox Corp Corporation stockholders and earnings per share (\u201cEPS\u201d) attributable to Fox Corp Corporation stockholders excluding net income effects of Restructuring, impairment and other corporate matters, adjustments to Equity earnings...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted Net Income and Adjusted EPS may not be comparable to similarly titled measures reported by other companies.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Adjusted Net Income and Adjusted EPS may not be comparable to similarly titled measures reported by other companies. Adjusted Net Income and Adjusted EPS are not measures of performance under GAAP and should be considered in addition to, and not as substitutes for, net income...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "earnings_or_eps",
+      "claim": "The following table reconciles net income attributable to Fox Corp Corporation stockholders and EPS attributable to Fox Corp Corporation stockholders to Adjusted Net Income and Adjusted EPS for the three months ended December 31, 2025 and 2024:",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "The following table reconciles net income attributable to Fox Corp Corporation stockholders and EPS attributable to Fox Corp Corporation stockholders to Adjusted Net Income and Adjusted EPS for the three months ended December 31, 2025 and 2024:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, 2025 December 31, 2024 Income EPS Income EPS $ Millions, except per share data Net income attributable to Fox Corp Corporation stockholders $ 229 $ 0.52 $ 373 $ 0.81 Restructuring, impairment and other corporate matters 14 0.03 170 0.37 Non-operating other, net 161 0.37 (81) (0.18) Tax provision (44) (0.10) (20) (0.04) As adjusted $ 360 $ 0.82 $ 442 $ 0.96",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 December 31, 2024 Income EPS Income EPS $ Millions, except per share data Net income attributable to Fox Corp Corporation stockholders $ 229 $ 0.52 $ 373 $ 0.81 Restructuring, impairment and other corporate matters 14 0.03 170 0.37 Non-oper...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA is defined as Revenues less Operating expenses and Selling, general and administrative expenses.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Adjusted EBITDA is defined as Revenues less Operating expenses and Selling, general and administrative expenses. Adjusted EBITDA does not include: Depreciation and amortization, Restructuring, impairment and other corporate matters, Equity earnings (losses) of affiliates, Inte...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "Management believes that information about Adjusted EBITDA assists all users of the Company\u2019s Unaudited Consolidated Financial Statements by allowing them to evaluate changes in the operating results of the Company\u2019s portfolio of businesses separate from non-operational factors that affect Net income, thus providing insight into both operations and the other factors that affect reported results.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Management believes that information about Adjusted EBITDA assists all users of the Company\u2019s Unaudited Consolidated Financial Statements by allowing them to evaluate changes in the operating results of the Company\u2019s portfolio of businesses separate from non-operational factor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted EBITDA is considered a non-GAAP financial measure and should be considered in addition to, not as a substitute for, net income, cash flow and other measures of financial performance reported in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Adjusted EBITDA is considered a non-GAAP financial measure and should be considered in addition to, not as a substitute for, net income, cash flow and other measures of financial performance reported in accordance with GAAP. In addition, this measure does not reflect cash avai...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Net income $ 247 $ 388 $ 856 $ 1,220 Add: Amortization of cable distribution investments \u2014 4 \u2014 8 Depreciation and amortization 100 97 198 188 Restructuring, impairment and other corporate matters 14 170 6 196 Equity earnings of affiliates (3) (4) (2) (7) Interest expense, net 98 80 148 130 Non-operating other, net 161 (81) 286 (314) Income tax expense 75 127 265 408 Adjusted EBITDA $ 692 $ 781 $ 1,757 $ 1,829",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 $ Millions Net income $ 247 $ 388 $ 856 $ 1,220 Add: Amortization of cable distribution investments \u2014 4 \u2014 8 Depreciation and amortization 100 97 198 188 Restructuring, impairment and other corpor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q2: 5182000000",
+      "value": 5182000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q2: 5182000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "other",
+      "claim": "ProfitLoss reported for 2026Q2: 247000000",
+      "value": 247000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "ProfitLoss reported for 2026Q2: 247000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q2: 0.52",
+      "value": 0.52,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q2: 0.52",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q2: 0.53",
+      "value": 0.53,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q2: 0.53",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q2: -799000000",
+      "value": -799000000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q2: -799000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.026502, ret_20d=-0.067592, market_ret_20d=0.002632",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.026502, ret_20d=-0.067592, market_ret_20d=0.002632",
+      "support_label": "supported"
+    }
+  ]
+}

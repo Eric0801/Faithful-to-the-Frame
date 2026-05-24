@@ -1,0 +1,721 @@
+{
+  "event_id": "evt_0062",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CASELLA WASTE SYSTEMS INC",
+  "ticker": "CWST",
+  "company_alias": "CASELLA WASTE SYSTEMS INC",
+  "masked_company": "Company CI",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-19",
+  "accepted_at_et": "2026-02-19T16:16:45-05:00",
+  "source_packet_path": "source_packets/evt_0062.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "CASELLA WASTE SYSTEMS INC.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "CASELLA WASTE SYSTEMS INC. ANNOUNCES FOURTH QUARTER AND FISCAL YEAR 2025 RESULTS AND PROVIDES FISCAL YEAR 2026 GUIDANCE",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "RUTLAND, VERMONT (February, 19, 2026) \u2014 CASELLA WASTE SYSTEMS INC.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "RUTLAND, VERMONT (February, 19, 2026) \u2014 CASELLA WASTE SYSTEMS INC. (NASDAQ:CWST), a regional solid waste, recycling and resource management services company, today reported its financial results for the three and twelve-month periods ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u2022 Revenues were $469.1 million for the quarter, up $41.6 million, or up 9.7%, from the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Revenues were $469.1 million for the quarter, up $41.6 million, or up 9.7%, from the same period in 2024. Revenues were $1.837 billion for the fiscal year ended December 31, 2025 (\u201cfiscal year 2025\u201d), up $279.6 million, or up 18.0% from the fiscal year ended December 31, 202...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "\u2022 Solid waste pricing for fiscal year 2025 was up 4.9% from fiscal year 2024, driven by 5.0% collection price growth and 4.9% disposal price growth.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Solid waste pricing for fiscal year 2025 was up 4.9% from fiscal year 2024, driven by 5.0% collection price growth and 4.9% disposal price growth.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net (loss) income was $(2.5) million for the quarter, down $(7.4) million, as compared to $4.9 million for the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Net (loss) income was $(2.5) million for the quarter, down $(7.4) million, as compared to $4.9 million for the same period in 2024. Net income was $7.9 million for fiscal year 2025, down $(5.7) million, or down (41.9)%, as compared to $13.5 million in fiscal year 2024. Adjus...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA, a non-GAAP measure, was $107.0 million for the quarter, up $12.0 million, or up 12.7%, from the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA, a non-GAAP measure, was $107.0 million for the quarter, up $12.0 million, or up 12.7%, from the same period in 2024. Adjusted EBITDA was $422.8 million for fiscal year 2025, up $62.2 million, or up 17.3%, from fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Net cash provided by operating activities was $329.8 million for fiscal year 2025, up $48.4 million, or up 17.2%, from fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities was $329.8 million for fiscal year 2025, up $48.4 million, or up 17.2%, from fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Adjusted Free Cash Flow, a non-GAAP measure, was $179.9 million for fiscal year 2025, up $21.6 million, or up 13.6%, from fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Adjusted Free Cash Flow, a non-GAAP measure, was $179.9 million for fiscal year 2025, up $21.6 million, or up 13.6%, from fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "\u2022 Acquired nine businesses in fiscal year 2025 with approximately $115 million in annualized revenue, with approximately another $30 million added with the closing of the previously announced Mountain State Waste acquisition on January 1, 2026.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Acquired nine businesses in fiscal year 2025 with approximately $115 million in annualized revenue, with approximately another $30 million added with the closing of the previously announced Mountain State Waste acquisition on January 1, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "\u201cWe delivered strong fourth quarter results in line with expectations, closing the year on a high note and carrying positive momentum into 2026,\u201d said Edmond (\u201cNed\u201d) R.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u201cWe delivered strong fourth quarter results in line with expectations, closing the year on a high note and carrying positive momentum into 2026,\u201d said Edmond (\u201cNed\u201d) R. Coletta, President and CEO of CASELLA WASTE SYSTEMS INC. \u201cThese results reflect the success of our ongoing a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "\u201cSince assuming the role of CEO on January 1 st , I remain impressed by, and deeply grateful for, the efforts of our entire team,\u201d Coletta said.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u201cSince assuming the role of CEO on January 1 st , I remain impressed by, and deeply grateful for, the efforts of our entire team,\u201d Coletta said. \u201cOur execution of long-term strategy continues to strengthen our foundation for future growth, with a clear focus on investing in ou...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "\u201cIn 2025, we acquired nine businesses, and on January 1, 2026, we successfully closed the previously announced Mountain State Waste acquisition.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u201cIn 2025, we acquired nine businesses, and on January 1, 2026, we successfully closed the previously announced Mountain State Waste acquisition. Combined these deals represent approximately $145 million in annualized revenue. Over the past five years, we have acquired more tha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Revenues were $469.1 million for the quarter, up $41.6 million, or up 9.7%, from the same period in 2024, with revenue growth mainly driven by: the positive impact from acquisitions, including the rollover contribution from deals closed in prior periods; sustained collection and disposal price growth; and strong National Accounts growth in our Resource Solutions operating segment.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Revenues were $469.1 million for the quarter, up $41.6 million, or up 9.7%, from the same period in 2024, with revenue growth mainly driven by: the positive impact from acquisitions, including the rollover contribution from deals closed in prior periods; sustained collection a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "margins",
+      "claim": "Operating income was $11.9 million for the quarter, down $(6.6) million, or down (35.9)%, from the same period in 2024, reflecting higher depreciation and amortization expense mainly related to acquisition growth.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Operating income was $11.9 million for the quarter, down $(6.6) million, or down (35.9)%, from the same period in 2024, reflecting higher depreciation and amortization expense mainly related to acquisition growth.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "earnings_or_eps",
+      "claim": "Net (loss) income was $(2.5) million for the quarter, down $(7.4) million, as compared to $4.9 million, from the same period in 2024, largely driven by the same factor impacting operating income.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Net (loss) income was $(2.5) million for the quarter, down $(7.4) million, as compared to $4.9 million, from the same period in 2024, largely driven by the same factor impacting operating income. Adjusted Net Income, a non-GAAP measure, was $18.9 million for the quarter, down...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "margins",
+      "claim": "Adjusted EBITDA was $107.0 million for the quarter, up $12.0 million, or up 12.7%, from the same period in 2024, driven by both acquisition contribution and organic growth .",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Adjusted EBITDA was $107.0 million for the quarter, up $12.0 million, or up 12.7%, from the same period in 2024, driven by both acquisition contribution and organic growth .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "Please refer to \"Non-GAAP Performance Measures\" included in \"Unaudited Reconciliation of Certain Non-GAAP Measures\" below for additional information and reconciliations of Adjusted Net Income, Adjusted EBITDA and other non-GAAP performance measures to their most directly comparable GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Please refer to \"Non-GAAP Performance Measures\" included in \"Unaudited Reconciliation of Certain Non-GAAP Measures\" below for additional information and reconciliations of Adjusted Net Income, Adjusted EBITDA and other non-GAAP performance measures to their most directly compa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Revenues were $1.837 billion for fiscal year 2025 , up $279.6 million , or up 18.0% , from fiscal year 2024 .",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Revenues were $1.837 billion for fiscal year 2025 , up $279.6 million , or up 18.0% , from fiscal year 2024 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "margins",
+      "claim": "Operating income was $63.7 million for fiscal year 2025, down $(9.1) million, or down (12.5)%, from fiscal year 2024, as a result of higher operating costs and depreciation and amortization expense mainly related to acquisitions.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Operating income was $63.7 million for fiscal year 2025, down $(9.1) million, or down (12.5)%, from fiscal year 2024, as a result of higher operating costs and depreciation and amortization expense mainly related to acquisitions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "earnings_or_eps",
+      "claim": "Net income was $7.9 million for fiscal year 2025, or $0.12 per diluted common share, down $(5.7) million and $(0.11) per diluted common share, or down (41.9)% and (47.8)%, respectively, from fiscal year 2024, driven by lower operating income, partially offset by lower taxes.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Net income was $7.9 million for fiscal year 2025, or $0.12 per diluted common share, down $(5.7) million and $(0.11) per diluted common share, or down (41.9)% and (47.8)%, respectively, from fiscal year 2024, driven by lower operating income, partially offset by lower taxes.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted Net Income was $80.6 million for fiscal year 2025, up $1.8 million, or up 2.3%, from fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Adjusted Net Income was $80.6 million for fiscal year 2025, up $1.8 million, or up 2.3%, from fiscal year 2024. Adjusted Diluted Earnings Per Common Share for fiscal year 2025 was $1.27, down $(0.05) per Adjusted Diluted Earnings Per Common Share, or down (3.8)% from fiscal ye...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "margins",
+      "claim": "Adjusted EBITDA was $422.8 million for fiscal year 2025, up $62.2 million, or up 17.3%, from fiscal year 2024, driven by both acquisition contribution and organic growth.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Adjusted EBITDA was $422.8 million for fiscal year 2025, up $62.2 million, or up 17.3%, from fiscal year 2024, driven by both acquisition contribution and organic growth.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash provided by operating activities was $329.8 million for fiscal year 2025 , up $48.4 million , or up 17.2%, from fiscal year 2024 .",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Net cash provided by operating activities was $329.8 million for fiscal year 2025 , up $48.4 million , or up 17.2%, from fiscal year 2024 . Adjusted Free Cash Flow was $179.9 million for fiscal year 2025 , up $21.6 million, or up 13.6%, from fiscal year 2024 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "Please refer to \"Non-GAAP Liquidity Measures\" included in \"Unaudited Reconciliation of Certain Non-GAAP Measures\" below for additional information and reconciliation of Adjusted Free Cash Flow to its most directly comparable GAAP measure.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Please refer to \"Non-GAAP Liquidity Measures\" included in \"Unaudited Reconciliation of Certain Non-GAAP Measures\" below for additional information and reconciliation of Adjusted Free Cash Flow to its most directly comparable GAAP measure.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "\u2022 Revenues between $1.970 billion and $1.990 billion;",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 Revenues between $1.970 billion and $1.990 billion;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "\u2022 Net income between $16 million and $22 million;",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 Net income between $16 million and $22 million;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "\u2022 Adjusted EBITDA between $455 million and $465 million;",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA between $455 million and $465 million;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "\u2022 Net cash provided by operating activities between $370 million and $380 million; and",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities between $370 million and $380 million; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "\u2022 Adjusted Free Cash Flow between $195 million and $205 million.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 Adjusted Free Cash Flow between $195 million and $205 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "The guidance ranges do not include the impact of any acquisitions that have not been completed.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "The guidance ranges do not include the impact of any acquisitions that have not been completed. Adjusted EBITDA and Adjusted Free Cash Flow related to fiscal year 2026 are described in the Unaudited Reconciliation of Fiscal Year 2026 Outlook Non-GAAP Measures section of this p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "CASELLA WASTE SYSTEMS INC., headquartered in Rutland, Vermont, provides resource management expertise and services to residential, commercial, municipal, institutional and industrial customers, primarily in the areas of solid waste collection and disposal, transfer, recycling and organics services in the eastern United States.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "CASELLA WASTE SYSTEMS INC., headquartered in Rutland, Vermont, provides resource management expertise and services to residential, commercial, municipal, institutional and industrial customers, primarily in the areas of solid waste collection and disposal, transfer, recycling...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "Such risks and uncertainties include or relate to, among other things, the following: the Company may be unable to adequately increase prices or drive operating efficiencies to adequately offset increased costs and inflationary pressures, including increased fuel prices, wages, and tariffs; it is difficult to determine the timing or future impact of a sustained economic slowdown that could negatively affect our operations and financial results; the increasing focus on per - and polyfluoroalkyl substances (\u201cPFAS\u201d) and other emerging contaminants, including the recent designation by the U.S.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Such risks and uncertainties include or relate to, among other things, the following: the Company may be unable to adequately increase prices or drive operating efficiencies to adequately offset increased costs and inflationary pressures, including increased fuel prices, wages...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Twelve Months Ended December 31, Unaudited 2025 2024 2025 2024 Revenues $ 469,055 $ 427,486 $ 1,836,841 $ 1,557,283 Operating expenses: Cost of operations 312,823 285,641 1,216,605 1,027,336 General and administration 55,937 52,208 224,219 190,754 Depreciation and amortization 79,509 66,357 306,835 234,907 Expense from acquisition activities 7,564 6,582 24,174 24,879 Organics facility closure charge 1,339 \u2014 1,339 \u2014 Southbridge Landfill closure (recovery) charge \u2014 (92) \u2014 8,385 Landfill capping recovery - veneer failure \u2014 (1,739) \u2014 (1,739) 457,172 408,957 1,773,172 1,484,522 Operating income 11,883 18,529 63,669 72,761 Other expense (income): Interest expense, net 14,083 11,849 52,596 51,983 Debt modification expense \u2014 1,396 \u2014 1,396 Other income (610) (427) (1,979) (1,666) Other expense, net 13,473 12,818 50,617 51,713 (Loss) income before income taxes (1,590) 5,711 13,052 21,048 Provision for income taxes 921 835 5,181 7,512 Net (loss) income $ (2,511) $ 4,876 $ 7,871 $ 13,536 Basic weighted average common shares outstanding 63,494 63,323 63,462 59,576 Basic (loss) earnings per common share $ (0.04) $ 0.08 $ 0.12 $ 0.23 Diluted weighted average common shares outstanding 63,494 63,449 63,565 59,681 Diluted (loss) earnings per common share $ (0.04) $ 0.08 $ 0.12 $ 0.23",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Three Months Ended December 31, Twelve Months Ended December 31, Unaudited 2025 2024 2025 2024 Revenues $ 469,055 $ 427,486 $ 1,836,841 $ 1,557,283 Operating expenses: Cost of operations 312,823 285,641 1,216,605 1,027,336 General and administration 55,937 52,208 224,219 190,7...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "balance_sheet_or_cash",
+      "claim": "December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash, cash equivalents and restricted cash $ 123,773 $ 383,303 Accounts receivable, net of allowance for credit losses 178,068 165,917 Other current assets 67,440 64,085 Total current assets 369,281 613,305 Property and equipment, net of accumulated depreciation and amortization 1,289,409 1,164,815 Operating lease right-of-use assets 105,252 98,050 Goodwill 1,120,056 1,002,266 Intangible assets, net of accumulated amortization 290,855 313,468 Restricted cash and assets 96,265 2,499 Other non-current assets 32,208 35,665 Total assets $ 3,303,326 $ 3,230,068 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Current maturities of debt $ 25,735 $ 42,619 Current operating lease liabilities 11,952 10,291 Accounts payable 102,468 111,087 Current accrued final capping, closure and post-closure costs 7,562 3,224 Contract liabilities 45,153 50,690 Other accrued liabilities 101,032 89,406 Total current liabilities 293,902 307,317 Debt, less current portion 1,128,927 1,090,632 Operating lease liabilities, less current portion 72,513 64,449 Accrued final capping, closure and post-closure costs, less current portion 185,160 169,006 Other long-term liabilities 54,115 47,825 Total stockholders' equity 1,568,709 1,550,839 Total liabilities and stockholders' equity $ 3,303,326 $ 3,230,068",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash, cash equivalents and restricted cash $ 123,773 $ 383,303 Accounts receivable, net of allowance for credit losses 178,068 165,917 Other current assets 67,440 64,085 Total current assets 369,281 613,305 Property an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "earnings_or_eps",
+      "claim": "Twelve Months Ended December 31, 2025 2024 Cash Flows from Operating Activities: Net income $ 7,871 $ 13,536 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 306,835 234,907 Interest accretion on landfill and environmental remediation liabilities 14,718 11,601 Amortization of debt issuance costs 3,023 2,960 Stock-based compensation 14,217 12,186 Operating lease right-of-use assets expense 22,140 17,784 Other items and charges, net 1,954 12,980 Landfill capping recovery - veneer failure \u2014 (889) Deferred income taxes 3,262 6,894 Changes in assets and liabilities, net of effects of acquisitions and divestitures (44,244) (30,604) Net cash provided by operating activities 329,776 281,355 Cash Flows from Investing Activities: Acquisitions, net of cash acquired (224,213) (468,628) Additions to intangible assets (672) (280) Additions to property and equipment (245,071) (203,227) Proceeds from sale of property and equipment 809 1,380 Proceeds from property insurance settlement \u2014 146 Net cash used in investing activities (469,147) (670,609) Cash Flows from Financing Activities: Proceeds from debt borrowings 91,500 846,750 Principal payments on debt (116,341) (783,684) Payments of debt issuance costs (2,232) (6,619) Proceeds from the exercise of share based awards \u2014 349 Proceeds from the public offering of Class A common stock \u2014 496,245 Payments of debt modification costs \u2014 (1,396) Net cash (used in) provided by financing activities (27,073) 551,645 Net (decrease) increase in cash, cash equivalents and restricted cash, including non-current (166,444) 162,391 Cash, cash equivalents and restricted cash, beginning of period 383,303 220,912 Cash, cash equivalents and restricted cash, including non-current, end of period $ 216,859 $ 383,303 Supplemental Disclosure of Cash Flow Information: Cash interest payments $ 58,969 $ 61,217 Cash income tax (refunds) payments, net $ (154) $ 6,776 Non-current assets obtained through long-term financing obligations $ 45,311 $ 30,551 Right-of-use assets obtained in exchange for operating lease obligations $ 24,221 $ 11,686",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025 2024 Cash Flows from Operating Activities: Net income $ 7,871 $ 13,536 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 306,835 234,907 Interest accretion on landfill and envir...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "In addition to disclosing financial results prepared in accordance with generally accepted accounting principles in the United States (\"GAAP\"), the Company also presents non-GAAP performance measures such as Adjusted EBITDA, Adjusted EBITDA as a percentage of revenues, Adjusted Operating Income, Adjusted Operating Income as a percentage of revenues, Adjusted Net Income and Adjusted Diluted Earnings Per Common Share that provide an understanding of operational performance because it considers them important supplemental measures of the Company's performance that are frequently used by securities analysts, investors and other interested parties in the evaluation of the Company's results.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "In addition to disclosing financial results prepared in accordance with generally accepted accounting principles in the United States (\"GAAP\"), the Company also presents non-GAAP performance measures such as Adjusted EBITDA, Adjusted EBITDA as a percentage of revenues, Adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Net (loss) income $ (2,511) $ 4,876 $ 7,871 $ 13,536 Net (loss) income as a percentage of revenues (0.5) % 1.1 % 0.4 % 0.9 % Provision for income taxes 921 835 5,181 7,512 Other income (610) (427) (1,979) (1,666) Interest expense, net 14,083 11,849 52,596 51,983 Depreciation and landfill amortization 60,596 48,721 230,360 178,426 Amortization of intangibles (i) 18,913 17,636 76,475 56,481 Expense from acquisition activities (ii) 7,564 6,582 24,174 24,879 Organics facility closure charge (iii) 1,339 \u2014 1,339 \u2014 Southbridge Landfill closure (recovery) charge (iv) \u2014 (92) \u2014 8,385 Landfill capping recovery - veneer failure (v) \u2014 (1,739) \u2014 (1,739) Debt modification expense (vi) \u2014 1,396 \u2014 1,396 Depletion of landfill operating lease obligations 3,108 2,517 12,055 9,763 Interest accretion on landfill and environmental remediation liabilities 3,613 2,843 14,718 11,601 Adjusted EBITDA $ 107,016 $ 94,997 $ 422,790 $ 360,557 Adjusted EBITDA as a percentage of revenues 22.8 % 22.2 % 23.0 % 23.2 % Depreciation and landfill amortization (60,596) (48,721) (230,360) (178,426) Depletion of landfill operating lease obligations (3,108) (2,517) (12,055) (9,763) Interest accretion on landfill and environmental remediation liabilities (3,613) (2,843) (14,718) (11,601) Adjusted Operating Income $ 39,699 $ 40,916 $ 165,657 $ 160,767 Adjusted Operating Income as a percentage of revenues 8.5 % 9.6 % 9.0 % 10.3 %",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Net (loss) income $ (2,511) $ 4,876 $ 7,871 $ 13,536 Net (loss) income as a percentage of revenues (0.5) % 1.1 % 0.4 % 0.9 % Provision for income taxes 921 835 5,181 7,512 Other income (610) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Net (loss) income $ (2,511) $ 4,876 $ 7,871 $ 13,536 Amortization of intangibles (i) 18,913 17,636 76,475 56,481 Expense from acquisition activities (ii) 7,564 6,582 24,174 24,879 Organics facility closure charge (iii) 1,339 \u2014 1,339 \u2014 Southbridge Landfill closure (recovery) charge (iv) \u2014 (92) \u2014 8,385 Landfill capping recovery - veneer failure (v) \u2014 (1,739) \u2014 (1,739) Debt modification expense (vi) \u2014 1,396 \u2014 1,396 Tax effect (vii) (6,410) (6,411) (29,225) (24,098) Adjusted Net Income $ 18,895 $ 22,248 $ 80,634 $ 78,840 Diluted weighted average common shares outstanding 63,494 63,449 63,565 59,681 Dilutive effect of options and other stock awards 114 \u2014 \u2014 \u2014 Adjusted Diluted Weighted Average Common Shares Outstanding 63,608 63,449 63,565 59,681 Diluted (loss) earnings per common share $ (0.04) $ 0.08 $ 0.12 $ 0.23 Amortization of intangibles (i) 0.30 0.27 1.20 0.95 Expense from acquisition activities (ii) 0.12 0.11 0.38 0.42 Organics facility closure charge (iii) 0.02 \u2014 0.02 \u2014 Southbridge Landfill closure (recovery) charge (iv) \u2014 \u2014 \u2014 0.14 Landfill capping recovery - veneer failure (v) \u2014 (0.03) \u2014 (0.03) Debt modification expense (vi) \u2014 0.02 \u2014 0.02 Tax effect (vii) (0.10) (0.10) (0.45) (0.41) Adjusted Diluted Earnings Per Common Share $ 0.30 $ 0.35 $ 1.27 $ 1.32",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Net (loss) income $ (2,511) $ 4,876 $ 7,871 $ 13,536 Amortization of intangibles (i) 18,913 17,636 76,475 56,481 Expense from acquisition activities (ii) 7,564 6,582 24,174 24,879 Organics fac...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "(i) Amortization of intangibles is the add-back of non-cash amortization of acquired intangibles such as covenants not-to-compete, customer relationships and trade names.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "(i) Amortization of intangibles is the add-back of non-cash amortization of acquired intangibles such as covenants not-to-compete, customer relationships and trade names.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "(ii) Expense from acquisition activities is comprised primarily of legal, consulting, rebranding, information technology and other costs associated with the due diligence, acquisition and integration of acquired businesses.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "(ii) Expense from acquisition activities is comprised primarily of legal, consulting, rebranding, information technology and other costs associated with the due diligence, acquisition and integration of acquired businesses. Fiscal year 2024 included a charge for an increase in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "(iii) Organics facility closure charge are expenses related to us ceasing operations at an organic residuals composting facility that we own in Maine related to a change in state law prohibiting land application of biosolids based recycled products.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "(iii) Organics facility closure charge are expenses related to us ceasing operations at an organic residuals composting facility that we own in Maine related to a change in state law prohibiting land application of biosolids based recycled products. The charge includes costs r...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "(iv) Southbridge Landfill closure (recovery) charge are expenses, and related recoveries, related to the unplanned early closure of the landfill located in Southbridge, Massachusetts (\u201cSouthbridge Landfill\u201d).",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "(iv) Southbridge Landfill closure (recovery) charge are expenses, and related recoveries, related to the unplanned early closure of the landfill located in Southbridge, Massachusetts (\u201cSouthbridge Landfill\u201d). The Company initiated the unplanned, premature closure of the Southb...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "costs_or_expenses",
+      "claim": "(v) Landfill capping recovery - veneer failure is associated with a veneer failure that occurred in the fiscal year ended December 31, 2023 at a Subtitle D landfill we operate located in Seneca, New York.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(v) Landfill capping recovery - veneer failure is associated with a veneer failure that occurred in the fiscal year ended December 31, 2023 at a Subtitle D landfill we operate located in Seneca, New York. In fiscal year 2024, we recorded a recovery consisting of both (i) a par...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "costs_or_expenses",
+      "claim": "(vi) Debt modification expense associated with agent fees and other third party costs we paid during the refinancing of our second amended and restated credit agreement.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "(vi) Debt modification expense associated with agent fees and other third party costs we paid during the refinancing of our second amended and restated credit agreement.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "(vii) Tax effect of the adjustments is an aggregate of the current and deferred tax impact of each adjustment, including the impact to the effective tax rate, current provision and deferred provision.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "(vii) Tax effect of the adjustments is an aggregate of the current and deferred tax impact of each adjustment, including the impact to the effective tax rate, current provision and deferred provision. The computation considers all relevant impacts of the adjustments, including...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "costs_or_expenses",
+      "claim": "In addition to disclosing financial results prepared in accordance with GAAP, the Company also presents non-GAAP liquidity measures, such as Adjusted Free Cash Flow, that provide an understanding of the Company's liquidity because it considers them important supplemental measures of its liquidity that are frequently used by securities analysts, investors and other interested parties in the evaluation of the Company's cash flow generation from its core operations that are then available to be deployed for strategic acquisitions, growth investments, development projects, unusual landfill closures, site improvement and remediation, and strengthening the Company\u2019s balance sheet through paying down debt.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "In addition to disclosing financial results prepared in accordance with GAAP, the Company also presents non-GAAP liquidity measures, such as Adjusted Free Cash Flow, that provide an understanding of the Company's liquidity because it considers them important supplemental measu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "costs_or_expenses",
+      "claim": "(i) Acquisition capital expenditures are acquisition-related capital expenditures that are necessary to transition and upgrade acquired assets to Company operating standards and to achieve strategic synergies associated with integrating newly acquired operations, which can be considered, together with acquisition purchase price, as part of the initial overall investment in an acquired business.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "(i) Acquisition capital expenditures are acquisition-related capital expenditures that are necessary to transition and upgrade acquired assets to Company operating standards and to achieve strategic synergies associated with integrating newly acquired operations, which can be...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "costs_or_expenses",
+      "claim": "(ii) Cash outlays for acquisition expenses are cash outlays for transaction and integration costs relating to specific acquisition transactions and include legal, consulting, rebranding, information technology and other costs as part of the Company\u2019s strategic growth initiative.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "(ii) Cash outlays for acquisition expenses are cash outlays for transaction and integration costs relating to specific acquisition transactions and include legal, consulting, rebranding, information technology and other costs as part of the Company\u2019s strategic growth initiative.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "costs_or_expenses",
+      "claim": "(iii) McKean Landfill rail capital expenditures are long-term infrastructure capital expenditures related to rail side development at the Company's landfill in Mount Jewett, PA (\"McKean Landfill\"), which is different from the landfill construction investments in the normal course of operations.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "(iii) McKean Landfill rail capital expenditures are long-term infrastructure capital expenditures related to rail side development at the Company's landfill in Mount Jewett, PA (\"McKean Landfill\"), which is different from the landfill construction investments in the normal cou...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "(iv) Cash outlays for organics facility closure are cash outlays related to us ceasing operations at an organic residuals composting facility that we own in Maine related to a change in state law prohibiting land application of biosolids based recycled products.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "(iv) Cash outlays for organics facility closure are cash outlays related to us ceasing operations at an organic residuals composting facility that we own in Maine related to a change in state law prohibiting land application of biosolids based recycled products. We expect to i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "balance_sheet_or_cash",
+      "claim": "(v) FLSA legal settlement payment is the cash outlay of a legal settlement related to reaching an agreement in June 2023 with the collective class members of a class action lawsuit relating to certain claims under the Fair Labor Standards Act of 1938 (\"FLSA\") as well as state wage and hours laws.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "(v) FLSA legal settlement payment is the cash outlay of a legal settlement related to reaching an agreement in June 2023 with the collective class members of a class action lawsuit relating to certain claims under the Fair Labor Standards Act of 1938 (\"FLSA\") as well as state...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "(vi) Cash outlays for Southbridge Landfill closure are cash outlays associated with the unplanned, early closure of the Southbridge Landfill.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "(vi) Cash outlays for Southbridge Landfill closure are cash outlays associated with the unplanned, early closure of the Southbridge Landfill. The Company initiated the unplanned, premature closure of the Southbridge Landfill in the fiscal year ended December 31, 2017, and expe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "the environmental remediation process.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "the environmental remediation process. In fiscal year 2024, the Company received the final closure permit related to Southbridge Landfill and entered the post-closure period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "costs_or_expenses",
+      "claim": "(vii) Cash inflow for landfill capping recovery - veneer failure payment is the cash inflow associated with recovering certain operating expenses incurred to clean up the affected capping material at the Company's landfill in Seneca, New York that has been reimbursed to us by a third party.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "(vii) Cash inflow for landfill capping recovery - veneer failure payment is the cash inflow associated with recovering certain operating expenses incurred to clean up the affected capping material at the Company's landfill in Seneca, New York that has been reimbursed to us by...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "revenue",
+      "claim": "Non-GAAP financial measures are not in accordance with or an alternative for GAAP.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Non-GAAP financial measures are not in accordance with or an alternative for GAAP. Adjusted EBITDA, Adjusted EBITDA as a percentage of revenues, Adjusted Operating Income, Adjusted Operating Income as a percentage of revenues, Adjusted Net Income, Adjusted Diluted Weighted Ave...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "Following is a reconciliation of the Company's estimated Adjusted EBITDA (i) from estimated Net income for fiscal year 2026: (Estimated) Twelve Months Ending December 31, 2026 Net income $16,000 - $22,000 Provision for income taxes 9,000 - 13,000 Other income (2,000) Interest expense, net 55,000 Expense from acquisition activities 15,000 Depreciation and landfill amortization 255,000 Amortization of intangibles 75,000 Depletion of landfill operating lease obligations 14,000 Interest accretion on landfill and environmental remediation liabilities 15,000 Organics facility closure charge 3,000 Adjusted EBITDA $455,000 - $465,000",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Following is a reconciliation of the Company's estimated Adjusted EBITDA (i) from estimated Net income for fiscal year 2026: (Estimated) Twelve Months Ending December 31, 2026 Net income $16,000 - $22,000 Provision for income taxes 9,000 - 13,000 Other income (2,000) Interest...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "guidance",
+      "claim": "Following is a reconciliation of the Company's estimated Adjusted Free Cash Flow (i) from estimated Net cash provided by operating activities for fiscal year 2026: (Estimated) Twelve Months Ending December 31, 2026 Net cash provided by operating activities $370,000 - $380,000 Capital expenditures (260,000) Acquisition capital expenditures 65,000 Cash outlays for acquisition expenses 15,000 McKean Landfill rail capital expenditures 2,000 Cash outlays for organics facility closure 3,000 Adjusted Free Cash Flow $195,000 - $205,000",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Following is a reconciliation of the Company's estimated Adjusted Free Cash Flow (i) from estimated Net cash provided by operating activities for fiscal year 2026: (Estimated) Twelve Months Ending December 31, 2026 Net cash provided by operating activities $370,000 - $380,000...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "guidance",
+      "claim": "(i) See footnotes for Non-GAAP Performance Measures and Non-GAAP Liquidity Measures included in the Unaudited Reconciliation of Certain Non-GAAP Measures for further disclosure over the nature of the various adjustments to estimated Adjusted EBITDA and estimated Adjusted Free Cash Flow.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "(i) See footnotes for Non-GAAP Performance Measures and Non-GAAP Liquidity Measures included in the Unaudited Reconciliation of Certain Non-GAAP Measures for further disclosure over the nature of the various adjustments to estimated Adjusted EBITDA and estimated Adjusted Free...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "Amounts of total revenues attributable to services provided for the three months ended December 31, 2025 and 2024 are as follows: Three Months Ended December 31, 2025 2024 Gross Revenues Intercompany Revenues Third-Party Revenues Gross Revenues (i) Intercompany Revenues (i) Third-Party Revenues Collection $ 331,252 $ (23,602) $ 307,650 $ 292,637 $ (18,749) $ 273,888 Disposal 138,062 (73,738) 64,324 131,329 (67,326) 64,003 Landfill gas-to-energy 1,742 \u2014 1,742 1,814 \u2014 1,814 Processing 3,358 (903) 2,455 3,394 (729) 2,665 Solid waste 474,414 (98,243) 376,171 429,174 (86,804) 342,370 Processing 38,004 (5,981) 32,023 36,401 (3,934) 32,467 National Accounts 60,879 (18) 60,861 52,844 (195) 52,649 Resource Solutions 98,883 (5,999) 92,884 89,245 (4,129) 85,116 Total revenues $ 573,297 $ (104,242) $ 469,055 $ 518,419 $ (90,933) $ 427,486",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Amounts of total revenues attributable to services provided for the three months ended December 31, 2025 and 2024 are as follows: Three Months Ended December 31, 2025 2024 Gross Revenues Intercompany Revenues Third-Party Revenues Gross Revenues (i) Intercompany Revenues (i) Th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "(i) Prior period amounts have been updated to correct an immaterial error by reclassifying certain intercompany amounts from contra-revenue to costs of operations.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(i) Prior period amounts have been updated to correct an immaterial error by reclassifying certain intercompany amounts from contra-revenue to costs of operations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "Components of consolidated revenues growth for the three months ended December 31, 2025 compared to the three months ended December 31, 2024 are as follows: Amount % of Related Business % of Total Company Solid waste operations: Collection $ 12,572 4.6 % 2.9 % Disposal 2,602 4.1 % 0.6 % Solid waste price 15,174 4.4 % 3.5 % Collection (884) (0.3) % (0.2) % Disposal (2,911) (4.5) % (0.7) % Processing 86 3.2 % \u2014 % Solid waste volume (3,709) (1.1) % (0.9) % Intercompany transfers to National Accounts (1,611) (0.4) % Surcharges and other fees 2,143 0.6 % Commodity price and volume (369) (0.1) % Acquisitions 22,173 6.5 % 5.2 % Total solid waste operations 33,801 9.9 % 7.9 % Resource Solutions operations: Price (1,069) (1.3) % (0.3) % Volume 8,002 9.4 % 1.8 % Intercompany transfers from solid waste 1,611 0.4 % Surcharges and other fees 227 0.1 % Facility closure (1,913) (0.4) % Acquisitions 910 1.1 % 0.2 % Total Resource Solutions operations 7,768 9.1 % 1.8 % Total Company $ 41,569 9.7 %",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Components of consolidated revenues growth for the three months ended December 31, 2025 compared to the three months ended December 31, 2024 are as follows: Amount % of Related Business % of Total Company Solid waste operations: Collection $ 12,572 4.6 % 2.9 % Disposal 2,602 4...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "costs_or_expenses",
+      "claim": "Components of capital expenditures (i) for the three and twelve months ended December 31, 2025 and 2024 are as follows: Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Growth capital expenditures: Acquisition capital expenditures $ 12,127 $ 24,006 $ 62,383 $ 49,495 McKean Landfill rail capital expenditures 1,956 145 3,581 3,688 Other 3,743 5,231 17,036 14,867 Growth capital expenditures 17,826 29,382 83,000 68,050 Replacement capital expenditures: Landfill development 9,733 11,337 23,932 43,873 Vehicles, machinery, equipment and containers 15,425 23,447 95,588 64,795 Facilities 11,099 11,354 32,720 21,890 Other 3,185 1,346 9,831 4,619 Replacement capital expenditures 39,442 47,484 162,071 135,177 Capital expenditures $ 57,268 $ 76,866 $ 245,071 $ 203,227",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Components of capital expenditures (i) for the three and twelve months ended December 31, 2025 and 2024 are as follows: Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Growth capital expenditures: Acquisition capital expenditures $ 12,127 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "costs_or_expenses",
+      "claim": "(i) The Company's capital expenditures are broadly defined as pertaining to either growth or replacement activities.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(i) The Company's capital expenditures are broadly defined as pertaining to either growth or replacement activities. Growth capital expenditures are defined as costs related to development projects, organic business growth, and the integration of newly acquired operations. Gro...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.056456, ret_20d=-0.042088, market_ret_20d=-0.001342",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.056456, ret_20d=-0.042088, market_ret_20d=-0.001342",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "event_id": "evt_0054",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "FLOWERS FOODS INC",
+  "ticker": "FLO",
+  "company_alias": "FLOWERS FOODS INC",
+  "masked_company": "Company I",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-12",
+  "accepted_at_et": "2026-02-12T16:15:13-05:00",
+  "source_packet_path": "source_packets/evt_0054.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "THOMASVILLE, Ga., 2026-02-12T16:15:13-05:00 \u2013 FLOWERS FOODS INC.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "THOMASVILLE, Ga., 2026-02-12T16:15:13-05:00 \u2013 FLOWERS FOODS INC. (NYSE:FLO) today reported financial results for the company\u2019s 13-week fourth quarter and 53-week fiscal year ended January 3, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Compared to the prior year fourth quarter where applicable",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Compared to the prior year fourth quarter where applicable",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "Net sales (1) increased 11.0% to $1.233 billion as the extra week, Simple Mills acquisition benefit, and higher price/mix more than offset volume declines.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Net sales (1) increased 11.0% to $1.233 billion as the extra week, Simple Mills acquisition benefit, and higher price/mix more than offset volume declines.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "Net income decreased $110.2 million to a net loss of $67.1 million, primarily due to a $136.0 million non-cash impairment of intangible assets.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Net income decreased $110.2 million to a net loss of $67.1 million, primarily due to a $136.0 million non-cash impairment of intangible assets. Adjusted net income (2) decreased 1.5% to $45.8 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA (2) increased 14.7% to $117.4 million, representing 9.5% of net sales, a 30-basis point increase.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Adjusted EBITDA (2) increased 14.7% to $117.4 million, representing 9.5% of net sales, a 30-basis point increase.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "earnings_or_eps",
+      "claim": "Diluted EPS decreased $0.52 to a net loss per share of $0.32.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Diluted EPS decreased $0.52 to a net loss per share of $0.32. Adjusted diluted EPS (2) was consistent with the prior year period at $0.22. The additional week contributed $0.02.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "Simple Mills contributed $57.5 million in net sales, net loss of $6.2 million, $6.3 million to adjusted EBITDA (2) , and ($0.03) to diluted EPS (2) .",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Simple Mills contributed $57.5 million in net sales, net loss of $6.2 million, $6.3 million to adjusted EBITDA (2) , and ($0.03) to diluted EPS (2) .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Net sales (1) increased 3.0% to $5.256 billion as the 53rd week and Simple Mills acquisition benefit more than offset volume declines and lower price/mix.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Net sales (1) increased 3.0% to $5.256 billion as the 53rd week and Simple Mills acquisition benefit more than offset volume declines and lower price/mix.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Net income decreased 66.2% to $83.8 million, representing 1.6% of sales, a 330-basis point decrease, primarily due to a $136.0 million non-cash impairment of intangible assets.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Net income decreased 66.2% to $83.8 million, representing 1.6% of sales, a 330-basis point decrease, primarily due to a $136.0 million non-cash impairment of intangible assets. Adjusted net income (2) decreased 14.7% to $231.6 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA (2) decreased 0.6% to $535.2 million, representing 10.2% of net sales, a 40-basis point decrease.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Adjusted EBITDA (2) decreased 0.6% to $535.2 million, representing 10.2% of net sales, a 40-basis point decrease.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "Diluted EPS decreased $0.77 to $0.40.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Diluted EPS decreased $0.77 to $0.40. Adjusted diluted EPS (2) decreased $0.19 to $1.09. The additional week contributed $0.02.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Simple Mills contributed $213.9 million in net sales, net loss of $14.4 million, $32.0 million to adjusted EBITDA (2) , and ($0.07) to diluted EPS (2) .",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Simple Mills contributed $213.9 million in net sales, net loss of $14.4 million, $32.0 million to adjusted EBITDA (2) , and ($0.07) to diluted EPS (2) .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "\u201cFLOWERS FOODS INC concluded 2025 on a positive note driven by the strong performance of our leading brands,\u201d said Ryals McMullian, chairman and CEO of FLOWERS FOODS INC.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u201cFLOWERS FOODS INC concluded 2025 on a positive note driven by the strong performance of our leading brands,\u201d said Ryals McMullian, chairman and CEO of FLOWERS FOODS INC. \u201cOur disciplined execution of efficiency initiatives produced results at the high end of our guidance rang...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u201cLooking ahead to 2026, we anticipate these category headwinds, combined with one fewer week of operations, will result in financial performance below 2025 levels.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u201cLooking ahead to 2026, we anticipate these category headwinds, combined with one fewer week of operations, will result in financial performance below 2025 levels. In response, we are conducting a comprehensive review of our operations, including our brand portfolio, supply ch...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "Net sales of approximately $5.163 billion to $5.267 billion, representing a -1.8% to 0.2% change compared to the prior year.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Net sales of approximately $5.163 billion to $5.267 billion, representing a -1.8% to 0.2% change compared to the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "Adjusted EBITDA (3) in the range of approximately $465 million to $495 million.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Adjusted EBITDA (3) in the range of approximately $465 million to $495 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "Adjusted diluted EPS (3) of approximately $0.80 to $0.90.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Adjusted diluted EPS (3) of approximately $0.80 to $0.90.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "Depreciation and amortization of approximately $165 million to $170 million.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Depreciation and amortization of approximately $165 million to $170 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "Net interest expense of approximately $65 million to $70 million.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Net interest expense of approximately $65 million to $70 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "An effective tax rate of approximately 26%.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "An effective tax rate of approximately 26%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "Weighted average diluted share count for the year of approximately 213.5 million shares.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Weighted average diluted share count for the year of approximately 213.5 million shares.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of Earnings per Share to Adjusted Earnings per Share",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Reconciliation of Earnings per Share to Adjusted Earnings per Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "Certain amounts may not add due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Certain amounts may not add due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Net sales increased 11.0% to $1.233 billion.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Net sales increased 11.0% to $1.233 billion. Pricing/mix (4) increased 0.7%, volume (5) declined 2.2%, and the extra week and the Simple Mills acquisition added 7.8% and 4.7%, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Branded Retail net sales increased $115.3 million, or 16.6%, to $811.6 million due to the extra week, acquisition contribution, and increased pricing/mix (4) , partially offset by volume declines.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Branded Retail net sales increased $115.3 million, or 16.6%, to $811.6 million due to the extra week, acquisition contribution, and increased pricing/mix (4) , partially offset by volume declines. Pricing/mix (4) increased 2.3%, volume (5) decreased 1.7%, the Simple Mills acqu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Other net sales increased $6.5 million, or 1.6%, to $421.3 million due to the extra week, partially offset by unfavorable price/mix and lower volumes.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Other net sales increased $6.5 million, or 1.6%, to $421.3 million due to the extra week, partially offset by unfavorable price/mix and lower volumes. Pricing/mix (4) declined 2.5%, volume (5) decreased 2.7%, and the extra week contributed 6.8%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "Materials, supplies, labor, and other production costs (exclusive of depreciation and amortization) were 51.5% of net sales, a 30-basis point increase.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Materials, supplies, labor, and other production costs (exclusive of depreciation and amortization) were 51.5% of net sales, a 30-basis point increase. These costs increased as a percentage of net sales mostly due to increased outside purchases of product (sales with no associ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "Selling, distribution, and administrative (SD&A) expenses were 39.9% of net sales, a 10-basis point decrease.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Selling, distribution, and administrative (SD&A) expenses were 39.9% of net sales, a 10-basis point decrease. SD&A expenses decreased slightly as a percentage of net sales primarily due to lower distributor distribution fees and the addition of Simple Mills, partly offset by i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "Impairment of intangible assets was $136.0 million related to finite-lived intangible assets with a triggering event in the fourth quarter and the loss on inferior ingredients was $2.7 million.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Impairment of intangible assets was $136.0 million related to finite-lived intangible assets with a triggering event in the fourth quarter and the loss on inferior ingredients was $2.7 million. The prior year quarter included plant closure costs and impairment of assets of $0....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Depreciation and amortization (D&A) expenses were $38.5 million or 3.1% of net sales, a 20-basis point decrease.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Depreciation and amortization (D&A) expenses were $38.5 million or 3.1% of net sales, a 20-basis point decrease.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "costs_or_expenses",
+      "claim": "Net interest expense increased $11.4 million primarily due to higher interest expense from the issuance of debt to fund the Simple Mills acquisition and related fees and expenses.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Net interest expense increased $11.4 million primarily due to higher interest expense from the issuance of debt to fund the Simple Mills acquisition and related fees and expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "earnings_or_eps",
+      "claim": "Net income decreased $110.2 million to a net loss of $67.1 million, primarily due to a $136.0 million non-cash impairment of intangible assets, and diluted EPS decreased $0.52 to a net loss per share of $0.32.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Net income decreased $110.2 million to a net loss of $67.1 million, primarily due to a $136.0 million non-cash impairment of intangible assets, and diluted EPS decreased $0.52 to a net loss per share of $0.32. Adjusted net income (2) decreased 1.5% to $45.8 million and adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Simple Mills contributed $57.5 million in net sales, net loss of $6.2 million, $6.3 million to adjusted EBITDA (2) , and ($0.03) to diluted EPS.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Simple Mills contributed $57.5 million in net sales, net loss of $6.2 million, $6.3 million to adjusted EBITDA (2) , and ($0.03) to diluted EPS.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "costs_or_expenses",
+      "claim": "For fiscal year 2025, cash flow from operating activities increased $33.5 million to $446.2 million, capital expenditures decreased $5.0 million to $127.1 million, and dividends paid to shareholders increased $6.3 million to $209.3 million.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "For fiscal year 2025, cash flow from operating activities increased $33.5 million to $446.2 million, capital expenditures decreased $5.0 million to $127.1 million, and dividends paid to shareholders increased $6.3 million to $209.3 million. Cash and cash equivalents were $12.1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Any reference to sales refers to net sales inclusive of allowances and deductions against gross sales for variable consideration and consideration payable to customers",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Any reference to sales refers to net sales inclusive of allowances and deductions against gross sales for variable consideration and consideration payable to customers",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted for items affecting comparability.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Adjusted for items affecting comparability. See reconciliations of non-GAAP measures in the financial statements following this release. Earnings are net income. EBITDA and Adjusted EBITDA are reconciled to net income.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "No reconciliation of the forecasted range for (i) adjusted EBITDA to net income or (ii) adjusted diluted EPS to diluted EPS for the 52-week Fiscal 2026 is included in this press release because the company is unable to quantify certain amounts that would be required to be included in the GAAP measure without unreasonable efforts.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "No reconciliation of the forecasted range for (i) adjusted EBITDA to net income or (ii) adjusted diluted EPS to diluted EPS for the 52-week Fiscal 2026 is included in this press release because the company is unable to quantify certain amounts that would be required to be incl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "Calculated as (current year period units X change in price per unit) / prior year period net sales dollars",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Calculated as (current year period units X change in price per unit) / prior year period net sales dollars",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Calculated as (prior year period price per unit X change in units) / prior year period net sales dollars",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Calculated as (prior year period price per unit X change in units) / prior year period net sales dollars",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "Headquartered in Thomasville, Ga., FLOWERS FOODS INC.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Headquartered in Thomasville, Ga., FLOWERS FOODS INC. (NYSE:FLO) is one of the largest producers of packaged bakery foods in the United States with 2025 net sales of $5.3 billion. FLOWERS FOODS INC operates bakeries across the country that produce a wide range of bakery produc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Investor Contact: Eric Jacobson, InvestorRelations@flocorp.com",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Investor Contact: Eric Jacobson, InvestorRelations@flocorp.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "Media Contact: http://flowersfoods.com/contact/",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Media Contact: http://flowersfoods.com/contact/",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "The company prepares its consolidated financial statements in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "The company prepares its consolidated financial statements in accordance with U.S. Generally Accepted Accounting Principles (GAAP). However, from time to time, the company may present in its public statements, press releases and SEC filings, non-GAAP financial measures such as...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "earnings_or_eps",
+      "claim": "The company defines EBITDA as earnings before interest, taxes, depreciation and amortization.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "The company defines EBITDA as earnings before interest, taxes, depreciation and amortization. Earnings are net income. The company believes that EBITDA is a useful tool for managing the operations of its business and is an indicator of the company\u2019s ability to incur and servic...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "earnings_or_eps",
+      "claim": "EBITDA should not be considered an alternative to (a) income from operations or net income (loss) as a measure of operating performance; (b) cash flows provided by operating, investing and financing activities (as determined in accordance with GAAP) as a measure of the company\u2019s ability to meet its cash needs; or (c) any other indicator of performance or liquidity that has been determined in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "EBITDA should not be considered an alternative to (a) income from operations or net income (loss) as a measure of operating performance; (b) cash flows provided by operating, investing and financing activities (as determined in accordance with GAAP) as a measure of the company...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "The company defines adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted diluted EPS, adjusted income tax expense and adjusted SD&A, respectively, to exclude additional costs that the company considers important to present to investors to increase the investors\u2019 insights about the company\u2019s core operations.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "The company defines adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted diluted EPS, adjusted income tax expense and adjusted SD&A, respectively, to exclude additional costs that the company considers important to present to investors to increase the investo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "margins",
+      "claim": "Presentation of gross margin includes depreciation and amortization in the materials, supplies, labor and other production costs according to GAAP.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Presentation of gross margin includes depreciation and amortization in the materials, supplies, labor and other production costs according to GAAP. Our method of presenting gross margin excludes the depreciation and amortization components, as discussed above.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "The reconciliations attached provide reconciliations of the non-GAAP measures used in this release to the most comparable GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "The reconciliations attached provide reconciliations of the non-GAAP measures used in this release to the most comparable GAAP financial measure.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "other",
+      "claim": "(1) Includes current portion of $22,241 and $20,117, respectively.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "(1) Includes current portion of $22,241 and $20,117, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "(2) Includes current portion of $399,575 and $0, respectively.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "(2) Includes current portion of $399,575 and $0, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "other",
+      "claim": "(3) Includes current portion of $73,778 and $68,524, respectively.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "(3) Includes current portion of $73,778 and $68,524, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "(000\u2019s omitted, except per share data)",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "(000\u2019s omitted, except per share data)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "Materials, supplies, labor and other production costs (exclusive of depreciation and amortization shown separately below)",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Materials, supplies, labor and other production costs (exclusive of depreciation and amortization shown separately below)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "revenue",
+      "claim": "Net Sales by Sales Class and Net Sales Bridge",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Net Sales by Sales Class and Net Sales Bridge",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "balance_sheet_or_cash",
+      "claim": "For the 13-week period ended January 3, 2026",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "For the 13-week period ended January 3, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "balance_sheet_or_cash",
+      "claim": "Acquisition (excluding impact of Week 53)",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Acquisition (excluding impact of Week 53)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "balance_sheet_or_cash",
+      "claim": "For the 53-week period ended January 3, 2026",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "For the 53-week period ended January 3, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "revenue",
+      "claim": "The table above presents certain sales by category that have been reclassified from amounts previously reported to conform to the current period presentation.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "The table above presents certain sales by category that have been reclassified from amounts previously reported to conform to the current period presentation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "^ Includes sales reductions from variable consideration and payments to customers.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "^ Includes sales reductions from variable consideration and payments to customers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "Price/Mix $ = Current year period units \u00d7 change in price per unit",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Price/Mix $ = Current year period units \u00d7 change in price per unit",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "Price/Mix % = Price/Mix $ \u00f7 Prior year period Net Sales $",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Price/Mix % = Price/Mix $ \u00f7 Prior year period Net Sales $",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "Volume $ = Prior year period price per unit \u00d7 change in units",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Volume $ = Prior year period price per unit \u00d7 change in units",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "revenue",
+      "claim": "Volume % = Volume $ \u00f7 Prior year period Net Sales $",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Volume % = Volume $ \u00f7 Prior year period Net Sales $",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of (Loss) Earnings per Share to Adjusted Earnings per Share",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Reconciliation of (Loss) Earnings per Share to Adjusted Earnings per Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "Materials, supplies, labor and other production costs (exclusive of depreciation and amortization)",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Materials, supplies, labor and other production costs (exclusive of depreciation and amortization)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "Depreciation and amortization for selling, distribution, and administrative activities",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Depreciation and amortization for selling, distribution, and administrative activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "costs_or_expenses",
+      "claim": "Reconciliation of Selling, Distribution, and Administrative Expenses to Adjusted SD&A",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Reconciliation of Selling, Distribution, and Administrative Expenses to Adjusted SD&A",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "margins",
+      "claim": "Reconciliation of Net (Loss) Income to EBITDA and Adjusted EBITDA",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "Reconciliation of Net (Loss) Income to EBITDA and Adjusted EBITDA",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "margins",
+      "claim": "Reconciliation of Income Tax (Benefit) Expense to Adjusted Income Tax Expense",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Reconciliation of Income Tax (Benefit) Expense to Adjusted Income Tax Expense",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of Net (Loss) Income to Adjusted Net Income",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Reconciliation of Net (Loss) Income to Adjusted Net Income",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.047019, ret_20d=0.041284, market_ret_20d=-0.013167",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.047019, ret_20d=0.041284, market_ret_20d=-0.013167",
+      "support_label": "supported"
+    }
+  ]
+}

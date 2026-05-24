@@ -1,0 +1,1029 @@
+{
+  "event_id": "evt_0080",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "BOX INC",
+  "ticker": "BOX",
+  "company_alias": "BOX INC",
+  "masked_company": "Company R",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026",
+  "event_date": "2026-03-03",
+  "accepted_at_et": "2026-03-03T16:07:28-05:00",
+  "source_packet_path": "source_packets/evt_0080.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "Fourth Quarter Revenue of $306 Million and Fiscal 2026 Revenue of $1.18 Billion",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Fourth Quarter Revenue of $306 Million and Fiscal 2026 Revenue of $1.18 Billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Fourth Quarter Remaining Performance Obligations of $1.7 Billion, up 17% Year-Over-Year, up 16% in Constant Currency",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Fourth Quarter Remaining Performance Obligations of $1.7 Billion, up 17% Year-Over-Year, up 16% in Constant Currency",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "margins",
+      "claim": "Fourth Quarter GAAP Operating Margin of 10.2% and Non-GAAP Operating Margin of 30.6%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Fourth Quarter GAAP Operating Margin of 10.2% and Non-GAAP Operating Margin of 30.6%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "Fourth Quarter GAAP Net Income Per Share of $0.47 and Non-GAAP Net Income Per Share of $0.49",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Fourth Quarter GAAP Net Income Per Share of $0.47 and Non-GAAP Net Income Per Share of $0.49",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "REDWOOD CITY, Calif.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "REDWOOD CITY, Calif. \u2013 2026-03-03T16:07:28-05:00 \u2013 BOX INC. (NYSE:BOX), the leading Intelligent Content Management (\u201cICM\u201d) platform, today announced preliminary financial results for the fourth quarter and fiscal year 2026, which ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u201cFiscal 2026 was a defining year for BOX INC, as we executed on the launch of Enterprise Advanced, delivering customers our most powerful capabilities around advanced AI and intelligent workflow automation, all anchored in a secure platform,\u201d said Aaron Levie, co-founder and CEO of BOX INC.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cFiscal 2026 was a defining year for BOX INC, as we executed on the launch of Enterprise Advanced, delivering customers our most powerful capabilities around advanced AI and intelligent workflow automation, all anchored in a secure platform,\u201d said Aaron Levie, co-founder and C...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u201cOur strong results in fiscal 2026 demonstrate the success of our Intelligent Content Management platform strategy as we drove a significant improvement in our net retention rate,\u201d said Dylan Smith, co-founder and CFO of BOX INC.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cOur strong results in fiscal 2026 demonstrate the success of our Intelligent Content Management platform strategy as we drove a significant improvement in our net retention rate,\u201d said Dylan Smith, co-founder and CFO of BOX INC. \u201cLooking ahead, we will continue to execute on...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "All comparisons are against the prior year comparable quarter",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "All comparisons are against the prior year comparable quarter",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Record revenue of $305.9 million, up 9%, or 8% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Record revenue of $305.9 million, up 9%, or 8% on a constant currency basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "Record remaining performance obligations (\u201cRPO\u201d) of $1.711 billion, up 17%, or 16% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Record remaining performance obligations (\u201cRPO\u201d) of $1.711 billion, up 17%, or 16% on a constant currency basis. Short-term RPO of $913.7 million, up 12%, and long-term RPO of $797.0 million, up 22%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "Record billings of $419.8 million, up 5%, or 4% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Record billings of $419.8 million, up 5%, or 4% on a constant currency basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Record GAAP gross profit of $245.0 million, or 80.1% of revenue, up from $220.7 million, or 79.0% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Record GAAP gross profit of $245.0 million, or 80.1% of revenue, up from $220.7 million, or 79.0% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Record non-GAAP gross profit of $251.8 million, or 82.3% of revenue, up from $226.4 million, or 81.0% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Record non-GAAP gross profit of $251.8 million, or 82.3% of revenue, up from $226.4 million, or 81.0% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Record GAAP operating income of $31.2 million, or 10.2% of revenue, up from $17.9 million, or 6.4% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Record GAAP operating income of $31.2 million, or 10.2% of revenue, up from $17.9 million, or 6.4% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Record non-GAAP operating income of $93.7 million, or 30.6% of revenue, up from $76.4 million, or 27.3% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Record non-GAAP operating income of $93.7 million, or 30.6% of revenue, up from $76.4 million, or 27.3% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "earnings_or_eps",
+      "claim": "GAAP diluted earnings per share (\u201cEPS\u201d) of $0.47, which includes a $0.01 year-over-year benefit from favorable foreign exchange rates, as well as $0.43 from various net tax benefits.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "GAAP diluted earnings per share (\u201cEPS\u201d) of $0.47, which includes a $0.01 year-over-year benefit from favorable foreign exchange rates, as well as $0.43 from various net tax benefits. This compares to the prior year period of $1.12, which includes a net tax benefit of $1.04 fro...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP diluted EPS of $0.49, which includes a $0.01 year-over-year benefit from favorable foreign exchange rates, as well as $0.14 from various net tax benefits.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Non-GAAP diluted EPS of $0.49, which includes a $0.01 year-over-year benefit from favorable foreign exchange rates, as well as $0.14 from various net tax benefits. This compares to the prior year period of $0.42.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash provided by operating activities of $110.4 million, up 8%.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Net cash provided by operating activities of $110.4 million, up 8%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "balance_sheet_or_cash",
+      "claim": "Non-GAAP free cash flow of $97.5 million, up 7%.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Non-GAAP free cash flow of $97.5 million, up 7%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Record revenue of $1.177 billion, up 8%, or 7% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Record revenue of $1.177 billion, up 8%, or 7% on a constant currency basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "Record billings of $1.223 billion, up 10%, or 9% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Record billings of $1.223 billion, up 10%, or 9% on a constant currency basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Record GAAP gross profit of $932.6 million, or 79.2% of revenue, up from $862.0 million, or 79.1% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Record GAAP gross profit of $932.6 million, or 79.2% of revenue, up from $862.0 million, or 79.1% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "Record non-GAAP gross profit of $959.4 million, or 81.5% of revenue, up from $884.9 million, or 81.2% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Record non-GAAP gross profit of $959.4 million, or 81.5% of revenue, up from $884.9 million, or 81.2% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Record GAAP operating income of $83.2 million, or 7.1% of revenue, up from $79.6 million, or 7.3% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Record GAAP operating income of $83.2 million, or 7.1% of revenue, up from $79.6 million, or 7.3% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Record non-GAAP operating income of $333.6 million, or 28.3% of revenue, up from $303.6 million, or 27.9% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Record non-GAAP operating income of $333.6 million, or 28.3% of revenue, up from $303.6 million, or 27.9% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "GAAP diluted EPS of $0.58, which includes a $0.03 year-over year benefit from favorable foreign exchange rates, as well as $0.42 from various net tax benefits.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "GAAP diluted EPS of $0.58, which includes a $0.03 year-over year benefit from favorable foreign exchange rates, as well as $0.42 from various net tax benefits. This compares to the prior year period of $1.36, which includes a net tax benefit of $1.06 from the release of a valu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP diluted EPS of $1.44, which includes a $0.03 year-over-year benefit from favorable foreign exchange rates, as well as $0.14 from various net tax benefits.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Non-GAAP diluted EPS of $1.44, which includes a $0.03 year-over-year benefit from favorable foreign exchange rates, as well as $0.14 from various net tax benefits. This compares to the prior year period of $1.71.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash provided by operating activities of $356.5 million, up 7%.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Net cash provided by operating activities of $356.5 million, up 7%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "balance_sheet_or_cash",
+      "claim": "Record non-GAAP free cash flow of $312.9 million, up 3%.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Record non-GAAP free cash flow of $312.9 million, up 3%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "Growth on a constant currency basis and impact from foreign exchange is determined by comparing current period reported results with the current results calculated using the equivalent rates in the prior period, excluding the effect of hedging.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Growth on a constant currency basis and impact from foreign exchange is determined by comparing current period reported results with the current results calculated using the equivalent rates in the prior period, excluding the effect of hedging.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "For more information on the non-GAAP financial measures and key metrics discussed in this press release, please see the section titled, \u201cAbout Non-GAAP Financial Measures and Other Key Metrics,\u201d and the reconciliations of non-GAAP financial measures and certain key metrics to their nearest comparable GAAP financial measures at the end of this press release.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "For more information on the non-GAAP financial measures and key metrics discussed in this press release, please see the section titled, \u201cAbout Non-GAAP Financial Measures and Other Key Metrics,\u201d and the reconciliations of non-GAAP financial measures and certain key metrics to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "Delivered wins or expansions with leading organizations across a variety of industries, including Financial Services (Robinhood Markets and Zurich Insurance Group AG), Healthcare (Mayo Clinic and University of Virginia Health System), Legal (Gibson, Dunn & Crutcher and Ropes & Gray), Life Sciences (LivaNova and Novo Nordisk A/S), Media & Entertainment (Sega Europe Limited and Sony Music Entertainment), Public Sector (County of San Diego and Department of Energy, Savannah River Nuclear Solutions), and Retail (Ace Hardware and Chanel S.A.).",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Delivered wins or expansions with leading organizations across a variety of industries, including Financial Services (Robinhood Markets and Zurich Insurance Group AG), Healthcare (Mayo Clinic and University of Virginia Health System), Legal (Gibson, Dunn & Crutcher and Ropes &...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "Announced the general availability of BOX INC Extract, enabling enterprises to intelligently and securely pull the most valuable information from content and save it as metadata in BOX INC--all powered by leading generative AI models.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Announced the general availability of BOX INC Extract, enabling enterprises to intelligently and securely pull the most valuable information from content and save it as metadata in BOX INC--all powered by leading generative AI models.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "Announced the general availability of BOX INC Shield Pro, a powerful new add-on that expands on existing BOX INC Shield content protection and leverages agentic AI to bring new levels of scale, speed, and automation to advanced security controls.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Announced the general availability of BOX INC Shield Pro, a powerful new add-on that expands on existing BOX INC Shield content protection and leverages agentic AI to bring new levels of scale, speed, and automation to advanced security controls.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Launched a new BOX INC developer documentation site that includes AI-powered chat and advanced search, a BOX INC developer documentation MCP server, and an interactive API playground.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Launched a new BOX INC developer documentation site that includes AI-powered chat and advanced search, a BOX INC developer documentation MCP server, and an interactive API playground.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Served as an early launch partner and announced support for Anthropic\u2019s Claude Opus 4.5, Opus 4.6, & Sonnet 4.6, Google\u2019s Gemini 3 Flash & 3.1 Pro, and OpenAI\u2019s GPT-5.2 in BOX INC AI Studio.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Served as an early launch partner and announced support for Anthropic\u2019s Claude Opus 4.5, Opus 4.6, & Sonnet 4.6, Google\u2019s Gemini 3 Flash & 3.1 Pro, and OpenAI\u2019s GPT-5.2 in BOX INC AI Studio.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Partnered with Anthropic to support MCP Apps within the BOX INC Connector in Claude, bringing visual interfaces to AI interactions to transform how users engage with enterprise content and bridge the gap between conversational AI and tangible work.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Partnered with Anthropic to support MCP Apps within the BOX INC Connector in Claude, bringing visual interfaces to AI interactions to transform how users engage with enterprise content and bridge the gap between conversational AI and tangible work.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "Served as a launch partner for Atlassian's new MCP Gallery in Rovo and Assign to Agent feature in Jira, bridging the gap between an organization's most important unstructured data in BOX INC and the Atlassian ecosystem.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Served as a launch partner for Atlassian's new MCP Gallery in Rovo and Assign to Agent feature in Jira, bridging the gap between an organization's most important unstructured data in BOX INC and the Atlassian ecosystem.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "Announced the launch of the BOX INC connector for Figma Make, a specialized integration designed to bring secure enterprise content directly into creative and product workflows.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Announced the launch of the BOX INC connector for Figma Make, a specialized integration designed to bring secure enterprise content directly into creative and product workflows.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "Announced the general availability of BOX INC AI Agents in ServiceNow\u2019s Agentic AI Marketplace, providing easy, direct access to AI-powered data extraction and content insights within ServiceNow NowAssist.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Announced the general availability of BOX INC AI Agents in ServiceNow\u2019s Agentic AI Marketplace, providing easy, direct access to AI-powered data extraction and content insights within ServiceNow NowAssist.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Introduced the BOX INC Sign for Workday integration that enables organizations to seamlessly and securely send and manage documents for e-signature, right from within Workday.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Introduced the BOX INC Sign for Workday integration that enables organizations to seamlessly and securely send and manage documents for e-signature, right from within Workday.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "In the fourth quarter of fiscal year 2026, BOX INC repurchased 4.4 million shares for approximately $126 million.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "In the fourth quarter of fiscal year 2026, BOX INC repurchased 4.4 million shares for approximately $126 million. As of January 31, 2026, approximately $59 million of buyback capacity was remaining under BOX INC\u2019s current share repurchase plan. BOX INC remains committed to opp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "Approximately 40% of BOX INC\u2019s revenue is generated outside of the U.S., of which approximately 65% is in Japanese Yen.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Approximately 40% of BOX INC\u2019s revenue is generated outside of the U.S., of which approximately 65% is in Japanese Yen. The following guidance includes the expected impact of FX headwinds, assuming present foreign currency exchange rates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "All forward-looking non-GAAP financial measures contained in this section titled \u201cOutlook\u201d exclude estimates for stock-based compensation expense, intangible assets amortization, and as applicable, other special items.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "All forward-looking non-GAAP financial measures contained in this section titled \u201cOutlook\u201d exclude estimates for stock-based compensation expense, intangible assets amortization, and as applicable, other special items. BOX INC has provided a reconciliation of GAAP to non-GAAP...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "Note that FY27 guidance reflects a lower expected tax rate, benefiting GAAP and non-GAAP net income per share.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Note that FY27 guidance reflects a lower expected tax rate, benefiting GAAP and non-GAAP net income per share.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "Revenue is expected to be approximately $304 million, up 10% year-over-year, or 9% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Revenue is expected to be approximately $304 million, up 10% year-over-year, or 9% on a constant currency basis. This includes an expected positive tailwind of approximately 90 basis points due to FX.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "GAAP operating margin is expected to be approximately 8.5% and non-GAAP operating margin is expected to be approximately 27.5%.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "GAAP operating margin is expected to be approximately 8.5% and non-GAAP operating margin is expected to be approximately 27.5%. This includes an expected headwind of approximately 20 basis points due to FX.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "GAAP net income per share attributable to common stockholders is expected to be approximately $0.09.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "GAAP net income per share attributable to common stockholders is expected to be approximately $0.09.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "Non-GAAP diluted net income per share attributable to common stockholders is expected to be approximately $0.36.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Non-GAAP diluted net income per share attributable to common stockholders is expected to be approximately $0.36.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "Weighted-average diluted shares outstanding are expected to be approximately 141 million.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Weighted-average diluted shares outstanding are expected to be approximately 141 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "Revenue is expected to be approximately $1.275 billion, up 8% year-over-year, or 9% on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Revenue is expected to be approximately $1.275 billion, up 8% year-over-year, or 9% on a constant currency basis. This includes an expected headwind of approximately 60 basis points due to FX.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "GAAP operating margin is expected to be approximately 9.5% and non-GAAP operating margin is expected to be approximately 28%.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "GAAP operating margin is expected to be approximately 9.5% and non-GAAP operating margin is expected to be approximately 28%. This includes an expected headwind of approximately 50 basis points due to FX.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "GAAP net income per share attributable to common stockholders is expected to be approximately $0.45.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "GAAP net income per share attributable to common stockholders is expected to be approximately $0.45. GAAP EPS guidance includes an expected headwind of $0.03 due to FX.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "Non-GAAP diluted net income per share attributable to common stockholders is expected to be approximately $1.55.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Non-GAAP diluted net income per share attributable to common stockholders is expected to be approximately $1.55. Non-GAAP EPS guidance includes an expected headwind of $0.03 due to FX.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "macroeconomic conditions on its business, its ability to grow and scale its business and drive operating efficiencies, the impact of fluctuations in foreign currency exchange rates on its future results, its net retention rate, its ability to achieve revenue targets and billings expectations, its revenue and billings growth rates, its ability to expand operating margins, its long-term financial targets, its ability to maintain profitability on a quarterly or ongoing basis, its free cash flow, its ability to continue to grow unrecognized revenue and remaining performance obligations, its revenue, billings, GAAP and non-GAAP gross margins, GAAP and non-GAAP net income per share, GAAP and non-GAAP operating margins, the related components of GAAP and non-GAAP net income per share, weighted-average outstanding share count expectations for BOX INC\u2019s fiscal first quarter and full fiscal year 2027 in the section titled \u201cOutlook\u201d above, equity burn rate, any potential repurchase of its common stock, whether, when, in what amount and by what method any such repurchase would be consummated, and the share price of any such repurchase.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "macroeconomic conditions on its business, its ability to grow and scale its business and drive operating efficiencies, the impact of fluctuations in foreign currency exchange rates on its future results, its net retention rate, its ability to achieve revenue targets and billin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "To supplement BOX INC\u2019s consolidated financial statements, which are prepared and presented in accordance with GAAP, BOX INC provides investors with certain non-GAAP financial measures and other key metrics, including non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating income, non-GAAP operating margin, non-GAAP net income attributable to common stockholders, non-GAAP net income per share attributable to common stockholders, billings, remaining performance obligations, non-GAAP free cash flow and free cash flow margin.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "To supplement BOX INC\u2019s consolidated financial statements, which are prepared and presented in accordance with GAAP, BOX INC provides investors with certain non-GAAP financial measures and other key metrics, including non-GAAP gross profit, non-GAAP gross margin, non-GAAP oper...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "guidance",
+      "claim": "BOX INC uses these non-GAAP financial measures and key metrics for financial and operational decision-making (including for purposes of determining variable compensation of members of management and other employees) and as a means to evaluate period-to-period comparisons.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "BOX INC uses these non-GAAP financial measures and key metrics for financial and operational decision-making (including for purposes of determining variable compensation of members of management and other employees) and as a means to evaluate period-to-period comparisons. BOX...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "guidance",
+      "claim": "A limitation of non-GAAP financial measures and key metrics is that they do not have uniform definitions.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "A limitation of non-GAAP financial measures and key metrics is that they do not have uniform definitions. Further, BOX INC\u2019s definitions will likely differ from the definitions used by other companies, including peer companies, and therefore comparability may be limited. Thus,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "guidance",
+      "claim": "revenue and operating expenses would be higher, which would affect BOX INC\u2019s cash position.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "revenue and operating expenses would be higher, which would affect BOX INC\u2019s cash position. The accompanying tables have more details on the reconciliations of non-GAAP financial measures and certain key metrics to their nearest comparable GAAP financial measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "guidance",
+      "claim": "Non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating income, non-GAAP operating margin, non-GAAP net income attributable to common stockholders, and non-GAAP net income per share attributable to common stockholders.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating income, non-GAAP operating margin, non-GAAP net income attributable to common stockholders, and non-GAAP net income per share attributable to common stockholders. BOX INC defines these non-GAAP financial measures...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "guidance",
+      "claim": "Billings.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Billings. Billings reflect, in any particular period, (1) sales to new customers, plus (2) subscription renewals and (3) expansion within existing customers, and represent amounts invoiced for all products and professional services. BOX INC calculates billings for a period by...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "guidance",
+      "claim": "Remaining performance obligations.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Remaining performance obligations. Remaining performance obligations (\u201cRPO\u201d) represent, at a point in time, contracted revenue that has not yet been recognized. RPO consists of deferred revenue and backlog. Backlog is defined as non-cancellable contracts deemed certain to be i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "guidance",
+      "claim": "Non-GAAP free cash flow and free cash flow margin.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Non-GAAP free cash flow and free cash flow margin. BOX INC defines non-GAAP free cash flow as cash flows from operating activities less net capital expenditures (purchases of property and equipment less proceeds from sales of property and equipment), principal payments of fina...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "guidance",
+      "claim": "BOX INC (NYSE:BOX) is the leader in Intelligent Content Management.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "BOX INC (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enables organizations to fuel collaboration, manage the entire content lifecycle, secure critical content, and transform business workflows with enterprise AI. Founded in 2005, BOX INC simplifies...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "Total liabilities, convertible preferred stock and stockholders\u2019 deficit",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Total liabilities, convertible preferred stock and stockholders\u2019 deficit",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "costs_or_expenses",
+      "claim": "Accretion and dividend on series A convertible preferred stock",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Accretion and dividend on series A convertible preferred stock",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "earnings_or_eps",
+      "claim": "Weighted-average shares used to compute net income per share attributable to common stockholders",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Weighted-average shares used to compute net income per share attributable to common stockholders",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "balance_sheet_or_cash",
+      "claim": "Proceeds from issuance of 2029 Convertible Notes, net of issuance costs",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "Proceeds from issuance of 2029 Convertible Notes, net of issuance costs",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "balance_sheet_or_cash",
+      "claim": "Partial repurchase of 2026 Convertible Notes",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Partial repurchase of 2026 Convertible Notes",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "balance_sheet_or_cash",
+      "claim": "Principal payments upon maturity of 2026 Convertible Notes",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Principal payments upon maturity of 2026 Convertible Notes",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "balance_sheet_or_cash",
+      "claim": "Proceeds from issuances of common stock under employee stock purchase plan",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Proceeds from issuances of common stock under employee stock purchase plan",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "balance_sheet_or_cash",
+      "claim": "Employee payroll taxes paid for net settlement of stock awards",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Employee payroll taxes paid for net settlement of stock awards",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "balance_sheet_or_cash",
+      "claim": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net (decrease) increase in cash, cash equivalents, and restricted cash",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "Net (decrease) increase in cash, cash equivalents, and restricted cash",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash, beginning of period",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash, beginning of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash, end of period",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash, end of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "earnings_or_eps",
+      "claim": "GAAP net income and net income per share attributable to common stockholders, diluted",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "GAAP net income and net income per share attributable to common stockholders, diluted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "Benefit from the release of a valuation allowance on deferred tax assets",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "Benefit from the release of a valuation allowance on deferred tax assets",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "Income tax effects of non-GAAP adjustments (2)",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "Income tax effects of non-GAAP adjustments (2)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP net income and net income per share attributable to common stockholders, diluted",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "Non-GAAP net income and net income per share attributable to common stockholders, diluted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "earnings_or_eps",
+      "claim": "Weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted (1)",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "earnings_or_eps",
+      "claim": "Weighted-average shares used to compute non-GAAP net income per share attributable to common stockholders, diluted",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "Weighted-average shares used to compute non-GAAP net income per share attributable to common stockholders, diluted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "earnings_or_eps",
+      "claim": "For the fiscal year and three months ended January 31, 2025, weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted exclude weighted-average shares related to the induced conversion of our convertible senior notes due January 15, 2026 because the impact was antidilutive.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "For the fiscal year and three months ended January 31, 2025, weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted exclude weighted-average shares related to the induced conversion of our convertible senior notes due Jan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "other",
+      "claim": "Non-GAAP tax provision for the fiscal year ended January 31, 2026 uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "Non-GAAP tax provision for the fiscal year ended January 31, 2026 uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "revenue",
+      "claim": "Less: deferred revenue, beginning of period",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "Less: deferred revenue, beginning of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "revenue",
+      "claim": "Less: contract assets, end of period",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "Less: contract assets, end of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "guidance",
+      "claim": "GAAP net income per share attributable to common stockholders range, diluted",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "GAAP net income per share attributable to common stockholders range, diluted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "guidance",
+      "claim": "Income tax effects of non-GAAP adjustments (1)",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "Income tax effects of non-GAAP adjustments (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "guidance",
+      "claim": "Non-GAAP net income per share attributable to common stockholders range, diluted",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "Non-GAAP net income per share attributable to common stockholders range, diluted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "guidance",
+      "claim": "Non-GAAP tax provision uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "Non-GAAP tax provision uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "guidance",
+      "claim": "Other includes acquired intangible assets amortization and expense related to litigation.",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "Other includes acquired intangible assets amortization and expense related to litigation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.048203, ret_20d=-0.075734, market_ret_20d=-0.021685",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.048203, ret_20d=-0.075734, market_ret_20d=-0.021685",
+      "support_label": "supported"
+    }
+  ]
+}

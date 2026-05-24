@@ -1,0 +1,552 @@
+{
+  "event_id": "evt_0068",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "GENESCO INC",
+  "ticker": "GCO",
+  "company_alias": "GENESCO INC",
+  "masked_company": "Company AR",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-03-06",
+  "filing_metadata": {
+    "cik": "18498",
+    "accession_number": "0001193125-26-094963",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-06T07:09:05-05:00",
+    "event_date": "2026-03-06",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "--Journeys Q4 Comparable Sales +12%, Overall Comparable Sales +9%--",
+      "token_count": 17
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "--Sixth Consecutive Quarter of Positive Comparable Sales Growth--",
+      "token_count": 17
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "--Operating Income Increased 11% for Q4 and Increased 24% for Fiscal 2026--",
+      "token_count": 19
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "NASHVILLE, Tenn., 2026-03-06T07:09:05-05:00 --- GENESCO INC. (NYSE:GCO) today reported fourth quarter and full fiscal year results for the three and twelve months ended January 31, 2026.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $800 million increased 7% compared to Q4FY25",
+      "token_count": 15
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Comparable sales increased 9%, with stores up 9% and e-commerce up 8%",
+      "token_count": 18
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "E-commerce sales represented 31% of retail sales compared to 30% last year",
+      "token_count": 19
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Selling and administrative expenses leveraged 140 basis points compared to last year",
+      "token_count": 21
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP EPS was $4.43 vs. $3.06 last year and Non-GAAP EPS was $3.74 vs. $3.26 last year 1",
+      "token_count": 22
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $2.4 billion increased 5% compared to FY25",
+      "token_count": 14
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Comparable sales increased 6%, with stores up 6% and e-commerce up 4%",
+      "token_count": 18
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "E-commerce sales represented 25% of retail sales for both this year and last year",
+      "token_count": 21
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Selling and administrative expenses leveraged 120 basis points compared to last year",
+      "token_count": 21
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP EPS was $1.25 vs. ($1.80) last year and Non-GAAP EPS was $1.45 vs. $0.94 last year 1",
+      "token_count": 23
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Mimi E. Vaughn, GENESCO INC\u2019s President and Chief Executive Officer, said, \"We are very pleased to close out Fiscal 2026 with another quarter of strong performance, highlighted by our sixth consecutive quarter of positive comparable sales growth, demonstrating the sustainability of our momentum, combined with a meaningful increase in profitability. Journeys once again led the way with",
+      "token_count": 97
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "1 Non-GAAP earnings per share (\u201cEPS\u201d) is a non-GAAP measure. Non-GAAP EPS excludes (i) a gross margin charge for an inventory write-down related to license exits in GENESCO INC Brands Group, net of tax effect, in the fourth quarter and year of Fiscal 2026, (ii) a gross margin charge related to a distribution model transition in GENESCO INC Brands Group, net of tax effect, in Fiscal 2025, and (iii) costs associated with information technology transformation, store restructuring, asset impairments and severance, net of tax effect, in the fourth quarter and year of Fiscal 2026 and asset impairments and severance, net of tax effect, in the fourth quarter and year of Fiscal 2025 (\u201cthe Excluded Items\u201d). Non-GAAP EPS also excludes the tax impact of the One Big Beautiful Bill Act (\u201cOBBBA\u201d) in Fiscal 2026 and income tax expense of $26.2 million related to a U.S. valuation allowance in Fiscal 2025. A reconciliation of earnings (loss) and earnings (loss) per share from continuing operations in accordance with U.S. Generally Accepted Accounting Principles (\u201cGAAP\u201d) to the adjusted earnings (loss) and earnings (loss) per share numbers is set forth on Schedule B to this press release. The Company believes that disclosure of earnings (loss) and earnings (loss) per share from continuing operations adjusted for the items not reflected in the previously announced expectations will be meaningful to investors, especially in light of the impact of such items on the results. Non-GAAP EPS is not intended to be a substitute for GAAP measures and may differ from similarly titled metrics supported by other companies. Investors should consider Non-GAAP EPS in addition to, and not as a replacement for, GAAP results reported in our financial statements.",
+      "token_count": 438
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "double-digit comp growth on top of double digits last year, fueled by an exceptional holiday performance. Our strategic initiatives around product elevation and customer experience continue to resonate with teens, driving market share gains and positioning Journeys as the clear destination for style-led footwear. At the same time, Johnston & Murphy\u2019s comparable sales improved in each successive month, while Schuh navigated a promotional U.K. environment and exited the year with clean inventories.\u201d",
+      "token_count": 126
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Vaughn continued, \u201cWe are optimistic about Fiscal 2027. We expect another year of comparable sales growth driven by our strategic growth plan and ongoing strength at Journeys, and improved acceleration at Johnston & Murphy as our product and marketing strategies gain more traction. These results will be partially offset by Schuh as we reset the promotional posture and apply the learnings from Journeys' successful transformation. Our Footwear First strategy, combined with our disciplined approach to cost management and inventory control, positions us well to deliver improved profitability and create meaningful shareholder value.\"",
+      "token_count": 159
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales for the fourth quarter increased 7% to $800 million in Fiscal 2026 compared to $746 million in the fourth quarter of Fiscal 2025. The net sales increase reflects a 9% increase in comparable sales, including a 9% increase in same store sales and an 8% increase in e-commerce comparable sales and a favorable foreign exchange impact, partially offset by decreased wholesale sales and the impact of net store closings.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The overall sales increase of 7% for the fourth quarter of Fiscal 2026 compared to the fourth quarter of Fiscal 2025 was driven by an increase of 10% at Journeys, 9% at Schuh and 2% at Johnston & Murphy, partially offset by a decrease of 27% or $10 million at GENESCO INC Brands. On a constant currency basis, Schuh sales were up 3% for the fourth quarter.",
+      "token_count": 89
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fiscal 2026 fourth quarter gross margin was 45.9% compared to 46.9% last year. Adjusted gross margin for the fourth quarter was 46.0%, down 90 basis points compared with 46.9% last year. The decrease in adjusted gross margin as a percentage of sales compared to Fiscal 2025 is due primarily to increased promotional activity at Schuh and lower margins at GENESCO INC Brands related to ongoing tariff pressure and changes in channel mix.",
+      "token_count": 109
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling and administrative expenses for the fourth quarter of Fiscal 2026 decreased 140 basis points as a percentage of sales to 39.1% compared with 40.5% last year. The decrease as a percentage of sales compared to Fiscal 2025 primarily reflects decreased occupancy costs and selling salaries, along with other expenses as part of our cost savings initiatives.",
+      "token_count": 91
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "GENESCO INC\u2019s GAAP operating income for the fourth quarter was $51.3 million, or 6.4% of sales in Fiscal 2026, compared with $46.1 million, or 6.2% of sales in the fourth quarter last year. Adjusted for the Excluded Items in the fourth quarters of both Fiscal 2026 and 2025, operating income for the fourth quarter of Fiscal 2026 was $55.9 million compared to $47.9 million last year. Adjusted operating margin was 7.0% of sales in the fourth quarter of Fiscal 2026 and 6.4% in the fourth quarter last year.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The effective tax rate for the quarter was 6.4% in Fiscal 2026 compared to 25.8% in the fourth quarter last year. The adjusted tax rate, reflecting Excluded Items, was 27.4% in Fiscal 2026 compared to 23.8% in the fourth quarter last year. The higher adjusted tax rate for the fourth quarter of Fiscal 2026 compared to the fourth quarter last year primarily reflects a higher expected tax rate for Fiscal 2026 versus Fiscal 2025 due to the impact of the valuation allowance in certain jurisdictions and additional global minimum tax under the Organization for Economic Cooperation and Development\u2019s Pillar Two framework. The divergence between the effective tax rate and the adjusted tax rate is due to income tax law changes under the OBBBA in Fiscal 2026, which we have excluded from the adjusted tax rate in Fiscal 2026.",
+      "token_count": 206
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GAAP earnings from continuing operations were $47.5 million in the fourth quarter of Fiscal 2026 compared to $33.6 million in the fourth quarter last year. Adjusted for the Excluded Items, fourth quarter earnings from continuing operations were $40.2 million, or $3.74 per share, in Fiscal 2026, compared to $35.8 million, or $3.26 per share, in the fourth quarter last year.",
+      "token_count": 94
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales for Fiscal 2026 increased 5% to $2.4 billion compared to $2.3 billion in Fiscal 2025. The net sales increase for Fiscal 2026 reflected a 6% increase in comparable sales, including a 6% increase in same store sales and a 4% increase in e-commerce comparable sales, and a favorable foreign exchange impact, partially offset by 42 net store closings and decreased wholesale sales.",
+      "token_count": 97
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Overall sales for Fiscal 2026 compared to Fiscal 2025 increased 7% at Journeys and 4% at Schuh, partially offset by a decrease of 4% at GENESCO INC Brands, while sales at Johnston & Murphy were flat. On a constant currency basis, Schuh sales were flat for Fiscal 2026.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross margin for Fiscal 2026 was 46.3% compared with 47.2% last year. Adjusted gross margin for Fiscal 2026 decreased 90 basis points as a percentage of sales compared to last year. The decrease as a percentage of sales compared to Fiscal 2025 is due primarily to increased promotional activity at Schuh and lower margins at GENESCO INC Brands related to the exit of licenses and ongoing tariff pressure. Gross margins were flat for both Journeys and Johnston & Murphy for Fiscal 2026.",
+      "token_count": 121
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling and administrative expenses for Fiscal 2026 decreased 120 basis points as a percentage of sales to 45.2% compared to 46.4% last year. The decrease as a percentage of sales compared to Fiscal 2025 reflects decreased occupancy costs and selling salaries along with other expenses as part of our cost savings initiatives.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "GENESCO INC\u2019s GAAP operating income for Fiscal 2026 was $17.3 million, or 0.7% of sales, compared to $13.9 million, or 0.6% of sales last year. Adjusted for the Excluded Items in Fiscal 2026 and 2025, operating income was $26.6 million in Fiscal 2026 compared to $18.9 million last year. Adjusted operating margin was 1.1% of sales in Fiscal 2026 and 0.8% of sales last year.",
+      "token_count": 94
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The effective tax rate was -5.4% in Fiscal 2026 compared to 309.6% last year. The adjusted tax rate, reflecting the Excluded Items, was 29.9% in Fiscal 2026 compared to 27.7% last year. The higher adjusted tax rate for Fiscal 2026 compared to Fiscal 2025 reflects a higher expected tax rate for Fiscal 2026 versus Fiscal 2025 due to the impact of the valuation allowance in certain jurisdictions and additional global minimum tax under the Organization for Economic Cooperation and Development\u2019s Pillar Two framework. The divergence between the effective tax rate and the adjusted tax rate is due to income tax law changes under the OBBBA in Fiscal 2026 and recording a $26.3 million U.S. valuation allowance in Fiscal 2025, both of which we have excluded from the adjusted tax rate in Fiscal 2026 and 2025.",
+      "token_count": 202
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GAAP earnings from continuing operations were $13.3 million in Fiscal 2026 compared to a loss from continuing operations of $19.5 million last year. Adjusted for the Excluded Items in Fiscal 2026 and 2025, tax law changes under OBBBA in Fiscal 2026 and the U.S. valuation allowance in Fiscal 2025, earnings from continuing operations were $15.4 million, or $1.45 per share, in Fiscal 2026, compared to $10.3 million, or $0.94 per share, last year.",
+      "token_count": 112
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash as of January 31, 2026 was $105.4 million, compared with $34.0 million as of February 1, 2025. Total debt at the end of the fourth quarter of Fiscal 2026 was $3.4 million compared with zero at the end of last year\u2019s fourth quarter. Inventories increased 2% on a year-over-year basis reflecting increased inventory for Journeys and Johnston & Murphy, partially offset by decreased inventory at GENESCO INC Brands, while inventory at Schuh was down on a constant currency basis.",
+      "token_count": 120
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "For the fourth quarter of Fiscal 2026, capital expenditures were $10 million, related primarily to retail stores and other initiatives. Depreciation and amortization was $13 million. During the quarter, the Company opened six stores and closed 15 stores. The Company ended the quarter with 1,236 stores compared with 1,278 stores at the end of the fourth quarter last year, or a decrease of 3%. Square footage was down 2% on a year-over-year basis.",
+      "token_count": 112
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company did not repurchase any shares during the fourth quarter of Fiscal 2026. The Company repurchased 604,531 shares for $12.6 million, or $20.79 per share, during Fiscal 2026. The Company currently has $29.8 million remaining on its expanded share repurchase authorization announced in June 2023.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Vaughn concluded, \u201cWe have clear plans in place to drive continued improvement in Fiscal 2027. Our top-line guidance reflects another year of overall positive comparable sales growth, offset by store closures and license transitions in our branded footwear group. The projected increase in our bottom line is being driven by another year of increased profitability at Journeys, improvement at Johnston & Murphy and higher gross margins, primarily at Schuh, as we reduce the business\u2019 dependency on promotions and focus on returning to a full price, full margin sales model.\u201d",
+      "token_count": 144
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Expects positive comparable sales of 1% to 2%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Expects total sales to be down 1% to flat compared to Fiscal 2026 including a reduction in sales of approximately $30 million net due to the exit of licenses and approximately $30 million related to net store closures",
+      "token_count": 55
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Expects adjusted diluted earnings per share from continuing operations in the range of $1.90 to $2.30 2",
+      "token_count": 26
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Guidance assumes no further share repurchases and a tax rate of 30% for Fiscal 2027 but due to the valuation allowance, the tax rate for the first three quarters of the year will be in the range of approximately 7% to 8%",
+      "token_count": 55
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "2 A reconciliation of the adjusted financial measures cited in the guidance to their corresponding measures as reported pursuant to GAAP is included in Schedule B to this press release.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "markets, including trends with respect to the popularity of casual and dress footwear; any failure to increase sales at our existing stores, given our high fixed expense cost structure, and in our e -commerce businesses; risks related to the potential for terrorist events; risks related to public health and safety events; changes in buying patterns by significant wholesale customers; changes in consumer preferences; our ability to continue to complete and integrate acquisitions; our ability to expand our business and diversify our product base; impairment of goodwill in connection with acquisitions; payment related risks that could increase our operating cost, expose us to fraud or theft, subject us to potential liability and disrupt our business; retained liabilities associated with divestitures of businesses including potential liabilities under leases as the prior tenant or as a guarantor of certain leases; and changes in the timing of holidays or in the onset of seasonal weather affecting period-to-period sales comparisons. Additional factors that could cause differences from expectations include the ability to secure allocations to refine product assortments to address consumer demand; the ability to renew leases in existing stores and control or lower occupancy costs, to open or close stores in the number and on the planned schedule, and to conduct required remodeling or refurbishment on schedule and at expected expense levels; the Company\u2019s ability to realize anticipated cost savings, including rent savings and savings in connection with the restructuring of the Company\u2019s information technology functions; the amount and timing of share repurchases; our ability to make our occupancy costs more variable; the Company\u2019s ability to achieve expected digital gains and gain market share; deterioration in the performance of individual businesses or of the Company's market value relative to its book value, resulting in impairments of fixed assets, operating lease right of use assets or intangible assets or other adverse financial consequences and the timing and amount of such impairments or other consequences; unexpected changes to the market for the Company's shares or for the retail sector in general; costs and reputational harm as a result of disruptions in the Company\u2019s business or information technology systems, including as a result of security breaches and incidents or by potential problems associated with the implementation of new or upgraded systems or as the result of the restructuring of the Company\u2019s information technology functions; changes in tax laws and tax rates and the Company\u2019s ability to realize any anticipated tax benefits in both the amount and timeframe anticipated; and the cost and outcome of litigation, investigations, environmental matters and other disputes involving the Company. Additional factors are cited in the \"Risk Factors,\" \"Legal Proceedings\" and \"Management's Discussion and Analysis of Financial Condition and Results of Operations\" sections of, and elsewhere in, the Company\u2019s SEC filings, copies of which may be",
+      "token_count": 775
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "GENESCO INC. (NYSE:GCO) is a footwear first company with distinctively positioned retail and lifestyle brands and proven omnichannel capabilities offering customers the footwear they desire in engaging shopping environments, including more than 1,230 retail stores and branded e-commerce websites. Its Journeys, Little Burgundy and Schuh brands serve teens, kids and young adults with on-trend fashion footwear inspired by youth culture in the U.S., Canada and the U.K. Johnston & Murphy serves successful, affluent men and women with premium footwear, apparel and accessories in the U.S. and Canada, and GENESCO INC Brands Group sells branded lifestyle footwear to leading retailers under licensed brands including Wrangler, Dockers and Starter. Founded in 1924, GENESCO INC is based in Nashville, Tennessee. For more information on GENESCO INC and its operating divisions, please visit www.GENESCO INC.com .",
+      "token_count": 228
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "jware@GENESCO INC.com (615) 367-8283 / cmccall@GENESCO INC.com",
+      "token_count": 15
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Asset impairments and other, net (2)",
+      "token_count": 9
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gain from discontinued operations, net of tax (3)",
+      "token_count": 13
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Includes a $1.3 million gross margin charge in the fourth quarter of Fiscal 2026 for inventory write-down in GENESCO INC Brands Group related to license exits.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Includes a $3.3 million charge in the fourth quarter of Fiscal 2026 which includes $2.9 million for costs associated with information technology transformation and $0.4 million for asset impairments.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Includes a $1.7 million charge in the fourth quarter of Fiscal 2025 which includes $0.9 million for asset impairments and $0.8 million for severance.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The gain from discontinued operations in the fourth quarter of Fiscal 2025 includes a $1.2 million pretax gain from insurance proceeds related to legacy environmental matters.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gain (loss) from discontinued operations, net of tax (4)",
+      "token_count": 14
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Includes a $1.3 million gross margin charge in Fiscal 2026 for inventory write-down in GENESCO INC Brands Group related to license exits and a $1.8 million gross margin charge in Fiscal 2025 related to a distribution model transition in GENESCO INC Brands Group.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Includes an $8.1 million charge in Fiscal 2026 which includes $3.9 million for store restructuring, $2.9 million for costs associated with information technology transformation, $0.7 million for asset impairments and $0.6 million for severance.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Includes a $3.2 million charge in Fiscal 2025 which includes $1.8 million for severance and $1.4 million for asset impairments.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Includes a $26.2 million U.S. valuation allowance in Fiscal 2025.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The gain from discontinued operations in Fiscal 2025 includes a $1.2 million pretax gain from insurance proceeds related to legacy environmental matters.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Includes prepaid income taxes of $66.0 million at February 1, 2025.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Three Months Ended January 31, 2026 and February 1, 2025",
+      "token_count": 14
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The Company believes that disclosure of earnings and earnings per share from continuing operations and operating income adjusted for the items not reflected in the previously announced expectations will be meaningful to investors, especially in light of the impact of such items on the results.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Adjusted earnings from continuing operations (1) and (2)",
+      "token_count": 14
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The adjusted tax rate for the fourth quarter of Fiscal 2026 and 2025 is 27.4% and 23.8%, respectively.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "EPS reflects 10.7 million and 11.0 million share count for the fourth quarter of Fiscal 2026 and 2025, respectively, which includes common stock equivalents in both periods.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Adjustments to Reported Earnings (Loss) from Continuing Operations",
+      "token_count": 17
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Fiscal Year Ended January 31, 2026 and February 1, 2025",
+      "token_count": 14
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "The Company believes that disclosure of earnings (loss) and earnings (loss) per share from continuing operations and operating income (loss) adjusted for the items not reflected in the previously announced expectations will be meaningful to investors, especially in light of the impact of such items on the results.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The adjusted tax rate for Fiscal 2026 and 2025 is 29.9% and 27.7%, respectively.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "EPS reflects 10.6 million and 11.0 million share count for Fiscal 2026 and 2025, respectively, which includes common stock equivalents in both periods for adjusted earnings from continuing operations. The loss from continuing operations for Fiscal 2025, as reported, excludes common stock equivalents.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted earnings before interest, taxes, depreciation and amortization (\"EBITDA\") (1)",
+      "token_count": 22
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(1) Excludes \"Other components of net periodic benefit cost\" line item on the Consolidated Statements of Operations.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Fiscal Year Ending January 30, 2027",
+      "token_count": 9
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Total asset impairments and other adjustments (1)",
+      "token_count": 13
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted forecasted earnings from continuing operations (2)",
+      "token_count": 15
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "All adjustments are net of tax where applicable. The forecasted tax rate for Fiscal 2027 is approximately 30%. Due to the valuation allowance, the tax rate for quarters 1-3 will be in the range of approximately 7% to 8%.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "EPS reflects 10.9 million share count for Fiscal 2027 which includes common stock equivalents.",
+      "token_count": 24
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.051618,
+    "ret_20d": -0.087443,
+    "market_ret_20d": -0.007112
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,215 @@
+{
+  "event_id": "evt_0079",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Hub Group, Inc.",
+  "ticker": "HUBG",
+  "company_alias": "Hub Group, Inc.",
+  "masked_company": "Company CN",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-05",
+  "accepted_at_et": "2026-02-05T16:11:07-05:00",
+  "source_packet_path": "source_packets/evt_0079.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Fourth quarter intermodal volume increased 1% from prior year",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Fourth quarter intermodal volume increased 1% from prior year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "balance_sheet_or_cash",
+      "claim": "Strong year-end balance sheet with cash and restricted cash of approximately $140 million and lower net debt",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Strong year-end balance sheet with cash and restricted cash of approximately $140 million and lower net debt",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "balance_sheet_or_cash",
+      "claim": "2025 preliminary operating cash flow of approximately $194 million",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "2025 preliminary operating cash flow of approximately $194 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "costs_or_expenses",
+      "claim": "2025 capital expenditures of approximately $45 million",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "2025 capital expenditures of approximately $45 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "Introduced preliminary 2026 outlook with expected revenue of $3.65 billion to $3.95 billion and capital expenditures of $35 million to $45 million",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Introduced preliminary 2026 outlook with expected revenue of $3.65 billion to $3.95 billion and capital expenditures of $35 million to $45 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u201cHub Group, Inc.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cHub Group, Inc. delivered strong operating cash flows and revenue performance in 2025 despite industry headwinds. Intermodal volume growth and new business awards supported top-line results through the year and during the fourth quarter. The Marten Intermodal acquisition perf...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "Consolidated operating revenue for full year 2025 is expected to be approximately $3.7 billion compared to 2024 operating revenues of $3.9 billion, in line with the previously communicated guidance range.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Consolidated operating revenue for full year 2025 is expected to be approximately $3.7 billion compared to 2024 operating revenues of $3.9 billion, in line with the previously communicated guidance range.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "Full year 2025 ITS Segment operating revenue is expected to be approximately $2.2 billion.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Full year 2025 ITS Segment operating revenue is expected to be approximately $2.2 billion. Full year 2025 ITS Segment operating revenue reflects a fourth quarter increase of 1% in intermodal volumes with flat revenue per load on a year-over-year basis and an intermodal volume...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "Full year Logistics Segment operating revenue is expected to be approximately $1.6 billion.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Full year Logistics Segment operating revenue is expected to be approximately $1.6 billion. Full year 2025 Logistics Segment operating revenue reflects softer fourth quarter demand across business lines partially offset by new business wins. Final mile volume was negatively im...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "costs_or_expenses",
+      "claim": "Capital expenditures for full year 2025 totaled approximately $45 million and decreased year-over-year due to lower tractor fleet spending.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Capital expenditures for full year 2025 totaled approximately $45 million and decreased year-over-year due to lower tractor fleet spending. As of December 31, 2025, Hub Group, Inc. had cash and restricted cash of approximately $140 million. Debt at December 31, 2025 totaled ap...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "For full year 2025, the Company returned $44 million to shareholders through dividend payments of $30 million and stock repurchases of $14 million.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "For full year 2025, the Company returned $44 million to shareholders through dividend payments of $30 million and stock repurchases of $14 million. As of today, the Company has $142 million remaining under its share repurchase authorization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "In connection with the preparation of its financial statements for the year ended December 31, 2025, the Company identified an error that resulted in the understatement of purchased transportation costs and accounts payable in the first nine months of 2025.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "In connection with the preparation of its financial statements for the year ended December 31, 2025, the Company identified an error that resulted in the understatement of purchased transportation costs and accounts payable in the first nine months of 2025. The total amount of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "\u201cAccuracy and transparency in reporting on our performance is of the utmost importance at Hub Group, Inc.,\u201d said Mr.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u201cAccuracy and transparency in reporting on our performance is of the utmost importance at Hub Group, Inc.,\u201d said Mr. Yeager. \u201cWe look forward to reporting our full financial results as soon as possible and are enhancing our processes. Our team continues to focus on serving our...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "The Company plans to restate its financial statements for the first, second and third quarters of 2025.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "The Company plans to restate its financial statements for the first, second and third quarters of 2025. The Company is continuing to assess the potential impact to its consolidated financial statements for the years ended December 31, 2024 and 2023. The Company expects to file...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "For full year 2026, the Company estimates revenue of approximately $3.65 to $3.95 billion and capital expenditures of approximately $35 million to $45 million for the full year.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "For full year 2026, the Company estimates revenue of approximately $3.65 to $3.95 billion and capital expenditures of approximately $35 million to $45 million for the full year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "Hub Group, Inc.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Hub Group, Inc. offers comprehensive transportation and logistics management solutions. Keeping our customers\u2019 needs in focus, Hub Group, Inc. designs, continually optimizes, and applies industry-leading technology to our customers\u2019 supply chains for better service, greater ef...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "CONTACT: Garrett Holland, InvestorRelations@hubgroup.com",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "CONTACT: Garrett Holland, InvestorRelations@hubgroup.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.062953, ret_20d=0.14016, market_ret_20d=-0.017344",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.062953, ret_20d=0.14016, market_ret_20d=-0.017344",
+      "support_label": "supported"
+    }
+  ]
+}

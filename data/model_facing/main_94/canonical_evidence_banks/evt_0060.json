@@ -1,0 +1,578 @@
+{
+  "event_id": "evt_0060",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "GLAUKOS Corp",
+  "ticker": "GKOS",
+  "company_alias": "GLAUKOS Corp",
+  "masked_company": "Company L",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-17",
+  "accepted_at_et": "2026-02-17T16:10:25-05:00",
+  "source_packet_path": "source_packets/evt_0060.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Aliso Viejo, CA \u2013 2026-02-17T16:10:25-05:00 \u2013 GLAUKOS Corp Corporation (NYSE:GKOS), an ophthalmic pharmaceutical and medical technology company focused on novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases, today announced financial results for the fourth quarter and full year ended December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Aliso Viejo, CA \u2013 2026-02-17T16:10:25-05:00 \u2013 GLAUKOS Corp Corporation (NYSE:GKOS), an ophthalmic pharmaceutical and medical technology company focused on novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases, today announced financial results...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "Record net sales of $143.1 million in Q4 2025 increased 36% year-over-year on a reported basis and 34% year-over-year on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Record net sales of $143.1 million in Q4 2025 increased 36% year-over-year on a reported basis and 34% year-over-year on a constant currency basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "Glaucoma record net sales of $119.2 million in Q4 2025 increased 42% year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Glaucoma record net sales of $119.2 million in Q4 2025 increased 42% year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "U.S.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "U.S. Glaucoma record net sales of $86.4 million in Q4 2025 increased 53% year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "Net sales of $507.4 million in 2025 increased 32% year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Net sales of $507.4 million in 2025 increased 32% year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u201cOur record fourth quarter results cap off a highly successful year of global execution across our key commercial and development initiatives, leaving us well positioned to sustain our strong growth momentum in 2026 and beyond driven by two transformational growth drivers in iDose TR and now Epioxa ,\u201d said Thomas Burns, GLAUKOS Corp chairman and chief executive officer.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cOur record fourth quarter results cap off a highly successful year of global execution across our key commercial and development initiatives, leaving us well positioned to sustain our strong growth momentum in 2026 and beyond driven by two transformational growth drivers in i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "Net sales in the fourth quarter of 2025 of $143.1 million increased 36% on a reported basis, or 34% on a constant currency basis, compared to $105.5 million in the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Net sales in the fourth quarter of 2025 of $143.1 million increased 36% on a reported basis, or 34% on a constant currency basis, compared to $105.5 million in the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "margins",
+      "claim": "Gross margin for the fourth quarter of 2025 was approximately (1%), compared to approximately 73% in the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Gross margin for the fourth quarter of 2025 was approximately (1%), compared to approximately 73% in the same period in 2024. Non-GAAP gross margin for the fourth quarter of 2025 was approximately 85%, compared to approximately 82% in the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "costs_or_expenses",
+      "claim": "Selling, general and administrative (SG&A) expenses for the fourth quarter of 2025 increased 37% to $94.7 million, compared to $69.0 million in the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Selling, general and administrative (SG&A) expenses for the fourth quarter of 2025 increased 37% to $94.7 million, compared to $69.0 million in the same period in 2024. Non-GAAP SG&A expenses for the fourth quarter of 2025 increased 38% to $94.5 million, compared to $68.6 mill...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "costs_or_expenses",
+      "claim": "GAAP and non-GAAP research and development (R&D) expenses for the fourth quarter of 2025 increased 20% to $43.7 million, compared to $36.5 million in the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "GAAP and non-GAAP research and development (R&D) expenses for the fourth quarter of 2025 increased 20% to $43.7 million, compared to $36.5 million in the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "Loss from operations in the fourth quarter of 2025 was $139.9 million, compared to operating loss of $28.7 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Loss from operations in the fourth quarter of 2025 was $139.9 million, compared to operating loss of $28.7 million in the fourth quarter of 2024. Non-GAAP loss from operations in the fourth quarter of 2025 was $16.4 million, compared to non-GAAP operating loss of $18.3 million...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Net loss in the fourth quarter of 2025 was $133.7 million, or ($2.32) per diluted share, compared to net loss of $33.6 million, or ($0.60) per diluted share, in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Net loss in the fourth quarter of 2025 was $133.7 million, or ($2.32) per diluted share, compared to net loss of $33.6 million, or ($0.60) per diluted share, in the fourth quarter of 2024. Non-GAAP net loss in the fourth quarter of 2025 was $16.4 million, or ($0.28) per dilute...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "earnings_or_eps",
+      "claim": "Included in GAAP gross margin, GAAP loss from operations, GAAP net loss, and GAAP EPS for the fourth quarter of 2025 is a one-time, non-cash impairment charge of $112.9 million related to an acquired intangible asset associated with the Avedro acquisition, reflecting the Photrexa \u00ae to Epioxa \u2122 transition.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Included in GAAP gross margin, GAAP loss from operations, GAAP net loss, and GAAP EPS for the fourth quarter of 2025 is a one-time, non-cash impairment charge of $112.9 million related to an acquired intangible asset associated with the Avedro acquisition, reflecting the Photr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Net sales in 2025 of $507.4 million increased 32%, both on a reported and constant currency basis, compared to $383.5 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Net sales in 2025 of $507.4 million increased 32%, both on a reported and constant currency basis, compared to $383.5 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "margins",
+      "claim": "Gross margin for 2025 was approximately 56%, compared to approximately 75% in 2024.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Gross margin for 2025 was approximately 56%, compared to approximately 75% in 2024. Non-GAAP gross margin for 2025 was approximately 84%, compared to approximately 82% in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "costs_or_expenses",
+      "claim": "SG&A expenses in 2025 increased 27% to $331.7 million, compared to $261.2 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "SG&A expenses in 2025 increased 27% to $331.7 million, compared to $261.2 million in 2024. Non-GAAP SG&A expenses in 2025 increased 28% to $331.5 million, compared to $258.6 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "costs_or_expenses",
+      "claim": "GAAP and non-GAAP R&D expenses in 2025 increased 10% to $150.6 million, compared to $136.4 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "GAAP and non-GAAP R&D expenses in 2025 increased 10% to $150.6 million, compared to $136.4 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "Loss from operations in 2025 was $199.6 million, compared to operating loss of $122.4 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Loss from operations in 2025 was $199.6 million, compared to operating loss of $122.4 million in 2024. Non-GAAP loss from operations in 2025 was $57.4 million, compared to non-GAAP operating loss of $93.3 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "Net loss in 2025 was $187.7 million, or ($3.28) per diluted share, compared to net loss of $146.4 million, or ($2.77) per diluted share, in 2024.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Net loss in 2025 was $187.7 million, or ($3.28) per diluted share, compared to net loss of $146.4 million, or ($2.77) per diluted share, in 2024. Non-GAAP net loss in 2025 was $51.7 million, or ($0.90) per diluted share, compared to non-GAAP net loss of $98.3 million, or ($1.8...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "earnings_or_eps",
+      "claim": "Included in GAAP gross margin, GAAP loss from operations, GAAP net loss, and GAAP EPS for 2025 is a one-time, non-cash impairment charge of $112.9 million related to an acquired intangible asset associated with the Avedro acquisition, reflecting the Photrexa to Epioxa transition.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Included in GAAP gross margin, GAAP loss from operations, GAAP net loss, and GAAP EPS for 2025 is a one-time, non-cash impairment charge of $112.9 million related to an acquired intangible asset associated with the Avedro acquisition, reflecting the Photrexa to Epioxa transition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "balance_sheet_or_cash",
+      "claim": "The company ended the fourth quarter of 2025 with approximately $282.6 million in cash and cash equivalents, short-term investments and restricted cash, and no debt.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "The company ended the fourth quarter of 2025 with approximately $282.6 million in cash and cash equivalents, short-term investments and restricted cash, and no debt.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "The company expects 2026 net sales to be in the range of $600 million to $620 million based on the latest foreign currency exchange rates.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "The company expects 2026 net sales to be in the range of $600 million to $620 million based on the latest foreign currency exchange rates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "GLAUKOS Corp (www.GLAUKOS Corp.com) is an ophthalmic pharmaceutical and medical technology company focused on developing and commercializing novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "GLAUKOS Corp (www.GLAUKOS Corp.com) is an ophthalmic pharmaceutical and medical technology company focused on developing and commercializing novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases. GLAUKOS Corp first developed Micro-Invasive Glau...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "costs_or_expenses",
+      "claim": "To supplement the consolidated financial results prepared in accordance with Generally Accepted Accounting Principles (\"GAAP\"), the Company uses certain non-GAAP historical financial measures.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "To supplement the consolidated financial results prepared in accordance with Generally Accepted Accounting Principles (\"GAAP\"), the Company uses certain non-GAAP historical financial measures. Management makes adjustments to the GAAP measures for items (both charges and gains)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "In addition, in order to remove the impact of fluctuations in foreign currency exchange rates, the Company also presents certain net sales information on a constant currency basis, which represents the outcome that would have resulted had exchange rates in the current period been the same as the average exchange rates in effect in the comparable prior period.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "In addition, in order to remove the impact of fluctuations in foreign currency exchange rates, the Company also presents certain net sales information on a constant currency basis, which represents the outcome that would have resulted had exchange rates in the current period b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b 2025 \u200b 2024 \u200b 2025 \u200b 2024 Net sales \u200b $ 143,121 \u200b \u200b \u200b $ 105,499 \u200b \u200b \u200b $ 507,442 \u200b \u200b \u200b $ 383,481 Cost of sales \u200b \u200b 31,771 \u200b \u200b 28,635 \u200b \u200b 111,814 \u200b \u200b 94,027 Impairment of intangible asset \u200b \u200b 112,867 \u200b \u200b \u2014 \u200b \u200b 112,867 \u200b \u200b \u2014 Gross profit \u200b \u200b (1,517) \u200b \u200b 76,864 \u200b \u200b 282,761 \u200b \u200b 289,454 Operating expenses: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Selling, general and administrative \u200b \u200b 94,700 \u200b \u200b 69,003 \u200b \u200b 331,747 \u200b \u200b 261,166 Research and development \u200b \u200b 43,651 \u200b \u200b 36,527 \u200b \u200b 150,614 \u200b \u200b 136,425 Acquired in-process research and development \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 14,229 Total operating expenses \u200b \u200b 138,351 \u200b \u200b 105,530 \u200b \u200b 482,361 \u200b \u200b 411,820 Loss from operations \u200b \u200b (139,868) \u200b \u200b (28,666) \u200b \u200b (199,600) \u200b \u200b (122,366) Non-operating income (expense): \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Interest income \u200b \u200b 2,512 \u200b \u200b 2,494 \u200b \u200b 10,714 \u200b \u200b 11,105 Interest expense \u200b \u200b (1,146) \u200b \u200b (1,572) \u200b \u200b (4,635) \u200b \u200b (10,040) Charges associated with convertible senior notes \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (18,012) Other (expense) income, net \u200b \u200b (1,314) \u200b \u200b (5,950) \u200b \u200b 479 \u200b \u200b (6,288) Total non-operating income (expense) \u200b \u200b 52 \u200b \u200b (5,028) \u200b \u200b 6,558 \u200b \u200b (23,235) Loss before taxes \u200b \u200b (139,816) \u200b \u200b (33,694) \u200b \u200b (193,042) \u200b \u200b (145,601) Income tax (benefit) provision \u200b \u200b (6,159) \u200b \u200b (114) \u200b \u200b (5,351) \u200b \u200b 771 Net loss \u200b $ (133,657) \u200b $ (33,580) \u200b $ (187,691) \u200b $ (146,372) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic and diluted net loss per share \u200b $ (2.32) \u200b $ (0.60) \u200b $ (3.28) \u200b $ (2.77) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Weighted-average shares outstanding used to compute basic and diluted net loss per share \u200b \u200b 57,506 \u200b \u200b 55,584 \u200b \u200b 57,190 \u200b \u200b 52,755",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b 2025 \u200b 2024 \u200b 2025 \u200b 2024 Net sales \u200b $ 143,121 \u200b \u200b \u200b $ 105,499 \u200b \u200b \u200b $ 507,442 \u200b \u200b \u200b $ 383,481 Cost of sales \u200b \u200b 31,771 \u200b \u200b 28,635 \u200b \u200b 111,814 \u200b \u200b 94,027 Impairment of intang...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "costs_or_expenses",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b December 31, \u200b \u200b 2025 \u200b 2024 \u200b \u200b (unaudited) \u200b \u200b Assets \u200b \u200b \u200b \u200b Current assets: \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 90,813 \u200b $ 169,626 Short-term investments \u200b \u200b 187,947 \u200b \u200b 149,289 Accounts receivable, net \u200b \u200b 108,608 \u200b \u200b 60,744 Inventory \u200b \u200b 63,564 \u200b \u200b 57,678 Prepaid expenses and other current assets \u200b \u200b 24,052 \u200b \u200b 12,455 Total current assets \u200b \u200b 474,984 \u200b \u200b 449,792 Restricted cash \u200b \u200b 3,834 \u200b \u200b 4,733 Property and equipment, net \u200b \u200b 113,253 \u200b \u200b 97,867 Operating lease right-of-use asset \u200b \u200b 31,527 \u200b \u200b 30,254 Finance lease right-of-use asset \u200b \u200b 39,404 \u200b \u200b 41,816 Intangible assets, net \u200b \u200b 141,916 \u200b \u200b 263,445 Goodwill \u200b \u200b 66,710 \u200b \u200b 66,134 Deposits and other assets \u200b \u200b 21,859 \u200b \u200b 20,715 Total assets \u200b $ 893,487 \u200b $ 974,756 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Liabilities and stockholders' equity \u200b \u200b \u200b \u200b \u200b \u200b Current liabilities: \u200b \u200b \u200b \u200b \u200b \u200b Accounts payable \u200b $ 24,624 \u200b $ 13,026 Accrued liabilities \u200b \u200b 76,651 \u200b \u200b 62,099 Total current liabilities \u200b \u200b 101,275 \u200b \u200b 75,125 Operating lease liability \u200b \u200b 35,767 \u200b \u200b 33,936 Finance lease liability \u200b \u200b 68,109 \u200b \u200b 69,463 Deferred tax liability, net \u200b \u200b 441 \u200b \u200b 6,928 Other liabilities \u200b \u200b 31,740 \u200b \u200b 22,373 Total liabilities \u200b \u200b 237,332 \u200b \u200b 207,825 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stockholders' equity: \u200b \u200b \u200b \u200b \u200b \u200b Preferred stock, $0.001 par value; 5,000 shares authorized; no shares \u200b \u200b \u200b \u200b \u200b \u200b issued and outstanding as of December, 2025 and December 31, 2024 \u200b \u200b \u2014 \u200b \u200b \u2014 Common stock, $0.001 par value; 150,000 shares authorized; 57,539 \u200b \u200b \u200b \u200b \u200b \u200b and 56,472 shares issued and 57,511 and 56,544 shares outstanding \u200b \u200b \u200b \u200b \u200b \u200b at December 31, 2025 and December 31, 2024, respectively \u200b \u200b 58 \u200b \u200b 56 Additional paid-in capital \u200b \u200b 1,586,056 \u200b \u200b 1,509,831 Accumulated other comprehensive income \u200b \u200b 3,303 \u200b \u200b 2,615 Accumulated deficit \u200b \u200b (933,130) \u200b \u200b (745,439) Less treasury stock (28 shares as of December 31, 2025 and December 31, 2024) \u200b \u200b (132) \u200b \u200b (132) Total stockholders' equity \u200b \u200b 656,155 \u200b \u200b 766,931 Total liabilities and stockholders' equity \u200b $ 893,487 \u200b $ 974,756",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b December 31, \u200b \u200b 2025 \u200b 2024 \u200b \u200b (unaudited) \u200b \u200b Assets \u200b \u200b \u200b \u200b Current assets: \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 90,813 \u200b $ 169,626 Short-term investments \u200b \u200b 187,947 \u200b \u200b 149,289 Accounts receivable, net \u200b \u200b 108,608 \u200b \u200b 60,744 Inve...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "(in thousands, except per share amounts and percentage data)",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "(in thousands, except per share amounts and percentage data)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Q4 2025 \u200b \u200b \u200b Q4 2024 \u200b \u200b \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b Cost of sales \u200b $ 31,771 \u200b $ (10,452) (a)(b)(c) $ 21,319 \u200b $ 28,635 \u200b $ (9,972) (a)(c) $ 18,663 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Impairment of intangible asset \u200b $ 112,867 \u200b $ (112,867) (d) $ \u2014 \u200b $ \u2014 \u200b $ \u2014 \u200b $ \u2014 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Gross Margin \u200b \u200b (1.1) % \u200b 86.2 % \u200b 85.1 % \u200b 72.9 % \u200b 9.4 % \u200b 82.3 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating expenses: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Selling, general and administrative \u200b $ 94,700 \u200b $ (187) (e) $ 94,513 \u200b $ 69,003 \u200b $ (411) (f) $ 68,592 Loss from operations \u200b $ (139,868) \u200b $ 123,506 \u200b $ (16,362) \u200b $ (28,666) \u200b $ 10,383 \u200b $ (18,283) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-operating (expense) income: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Other (expense) income, net \u200b $ (1,314) \u200b $ \u2014 \u200b $ (1,314) \u200b $ (5,950) \u200b $ 951 (g) $ (4,999) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income tax (benefit) provision \u200b $ (6,159) \u200b $ 6,204 (h) $ 45 \u200b \u200b (114) \u200b $ \u2014 \u200b $ (114) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net loss \u200b $ (133,657) \u200b $ 117,302 (i) $ (16,355) \u200b $ (33,580) \u200b $ 11,334 (i) $ (22,246) \u200b Basic and diluted net loss per share \u200b $ (2.32) \u200b $ 2.04 \u200b $ (0.28) \u200b $ (0.60) \u200b $ 0.20 \u200b $ (0.40) \u200b",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Q4 2025 \u200b \u200b \u200b Q4 2024 \u200b \u200b \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b Cost of sales \u200b $ 31,771 \u200b $ (10,452) (a)(b)(c) $ 21,319 \u200b $ 28,635 \u200b $ (9,972) (a)(c) $ 18,663 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Cost of sales adjustment related to amortization of developed technology intangible assets associated with the acquisition of Avedro, Inc.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Cost of sales adjustment related to amortization of developed technology intangible assets associated with the acquisition of Avedro, Inc. (Avedro) of $8.6 million in Q4 2025 and $5.5 million in Q4 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "costs_or_expenses",
+      "claim": "Mobius acquisition-related amortization expense of developed intellectual property of $0.5 million.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Mobius acquisition-related amortization expense of developed intellectual property of $0.5 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "costs_or_expenses",
+      "claim": "Inventory write-down charges associated with the transition from Photrexa to Epioxa of $1.3 million in Q4 2025 and product line optimizations of $4.4 million in Q4 2024.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Inventory write-down charges associated with the transition from Photrexa to Epioxa of $1.3 million in Q4 2025 and product line optimizations of $4.4 million in Q4 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "Impairment of intangible asset associated with the transition from Photrexa to Epioxa .",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Impairment of intangible asset associated with the transition from Photrexa to Epioxa .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "costs_or_expenses",
+      "claim": "Mobius contingent consideration fair value adjustment.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Mobius contingent consideration fair value adjustment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "costs_or_expenses",
+      "claim": "Avedro acquisition-related amortization expense of customer relationship intangible assets of $0.4 million.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Avedro acquisition-related amortization expense of customer relationship intangible assets of $0.4 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "costs_or_expenses",
+      "claim": "Remeasurement loss on derivative asset and direct transaction costs associated with the capped call unwind agreements.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Remeasurement loss on derivative asset and direct transaction costs associated with the capped call unwind agreements.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "costs_or_expenses",
+      "claim": "Tax effect from conversion of Avedro acquisition developed technology intangible asset from indefinite-lived to finite-lived.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Tax effect from conversion of Avedro acquisition developed technology intangible asset from indefinite-lived to finite-lived.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "costs_or_expenses",
+      "claim": "Includes total tax effect for non-GAAP pre-tax adjustments.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Includes total tax effect for non-GAAP pre-tax adjustments. For non-GAAP adjustments associated with the U.S., the tax effect is $0 given the Company's U.S. taxable loss positions in both 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Full Year 2025 \u200b Full Year 2024 \u200b \u200b \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b \u200b \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b Cost of sales \u200b $ 111,814 \u200b $ (29,049) (a)(b)(c)(d) $ 82,765 \u200b $ 94,027 \u200b $ (26,541) (a)(d) $ 67,486 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Impairment of intangible asset \u200b $ 112,867 \u200b $ (112,867) (e) $ \u2014 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Gross Margin \u200b \u200b 55.7 % \u200b 28.0 % \u200b 83.7 % \u200b 75.5 % \u200b 6.9 % \u200b 82.4 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating expenses: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Selling, general and administrative \u200b $ 331,747 \u200b $ (239) (f) $ 331,508 \u200b $ 261,166 \u200b $ (2,526) (g) $ 258,640 Loss from operations \u200b $ (199,600) \u200b $ 142,155 \u200b $ (57,445) \u200b $ (122,366) \u200b $ 29,067 \u200b $ (93,299) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-operating expense: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Charges associated with convertible senior notes \u200b $ \u2014 \u200b $ \u2014 \u200b $ \u2014 \u200b $ (18,012) \u200b $ 18,012 (h) $ \u2014 \u200b Other income (expense), net \u200b $ 479 \u200b $ \u2014 \u200b $ 479 \u200b $ (6,288) \u200b $ 951 (i) $ (5,337) \u200b Income tax (benefit) provision \u200b $ (5,351) \u200b $ 6,204 (j) $ 853 \u200b $ 771 \u200b $ \u2014 \u200b $ 771 \u200b Net loss \u200b $ (187,691) \u200b $ 135,951 (k) $ (51,740) \u200b $ (146,372) \u200b $ 48,030 (k) $ (98,342) \u200b Basic and diluted net loss per share \u200b $ (3.28) \u200b $ 2.38 \u200b $ (0.90) \u200b $ (2.77) \u200b $ 0.91 \u200b $ (1.86) \u200b",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Full Year 2025 \u200b Full Year 2024 \u200b \u200b \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b \u200b \u200b GAAP \u200b \u200b \u200b Adjustments \u200b \u200b \u200b Non-GAAP \u200b Cost of sales \u200b $ 111,814 \u200b $ (29,049) (a)(b)(c)(d) $ 82,765 \u200b $ 94,027 \u200b $ (26,541) (a)(d) $ 67,486 \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "Cost of sales adjustment related to amortization of developed technology intangible assets associated with the acquisition of Avedro, Inc.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Cost of sales adjustment related to amortization of developed technology intangible assets associated with the acquisition of Avedro, Inc. (Avedro) of $25.2 million in 2025 and $22.1 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "costs_or_expenses",
+      "claim": "Mobius acquisition-related amortization expense of developed intellectual property of $1.2 million.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Mobius acquisition-related amortization expense of developed intellectual property of $1.2 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "Non-recurring, non-cash charge related to the write-down of certain inventory of $1.3 million.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Non-recurring, non-cash charge related to the write-down of certain inventory of $1.3 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "costs_or_expenses",
+      "claim": "Inventory write-down charges associated with the transition from Photrexa to Epioxa of $1.3 million in 2025 and product line optimizations of $4.4 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Inventory write-down charges associated with the transition from Photrexa to Epioxa of $1.3 million in 2025 and product line optimizations of $4.4 million in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "costs_or_expenses",
+      "claim": "Mobius acquisition-related transaction expense of $0.3 million and contingent consideration fair value adjustment of ($0.1) million.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Mobius acquisition-related transaction expense of $0.3 million and contingent consideration fair value adjustment of ($0.1) million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "costs_or_expenses",
+      "claim": "Avedro acquisition-related amortization expense of customer relationship intangible assets.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Avedro acquisition-related amortization expense of customer relationship intangible assets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "costs_or_expenses",
+      "claim": "Expenses associated with the exchange of convertible senior notes, consisting of a non-cash inducement charge of $17.4 million and direct transaction costs of $0.6 million.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Expenses associated with the exchange of convertible senior notes, consisting of a non-cash inducement charge of $17.4 million and direct transaction costs of $0.6 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Reported Sales vs.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Reported Sales vs. Prior Periods (in thousands) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year-over-Year Percent Change \u200b \u200b Quarter-over-Quarter Percent Change \u200b \u200b 4Q 2025 \u200b \u200b \u200b 4Q 2024 \u200b \u200b \u200b 3Q 2025 \u200b \u200b Reported \u200b \u200b \u200b Operations (1) \u200b \u200b \u200b Currency (2)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "(1) Operational growth excludes the effect of translational currency",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "(1) Operational growth excludes the effect of translational currency",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "other",
+      "claim": "(2) Calculated by converting the current period numbers using the prior period\u2019s average foreign exchange rates",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "(2) Calculated by converting the current period numbers using the prior period\u2019s average foreign exchange rates",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Reported Sales vs.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Reported Sales vs. Prior Periods (in thousands) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year-over-Year Percent Change \u200b \u200b \u200b 2025 \u200b 2024 \u200b Reported \u200b \u200b \u200b Operations (1) \u200b \u200b \u200b Currency (2) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b International Glaucoma \u200b $ 122,482 \u200b $ 103,705 \u200b 18....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.058533, ret_20d=-0.113107, market_ret_20d=-0.012737",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.058533, ret_20d=-0.113107, market_ret_20d=-0.012737",
+      "support_label": "supported"
+    }
+  ]
+}

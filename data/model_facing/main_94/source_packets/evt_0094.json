@@ -1,0 +1,41 @@
+{
+  "event_id": "evt_0094",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CALIX, INC",
+  "ticker": "CALX",
+  "company_alias": "CALIX, INC",
+  "masked_company": "Company S",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-28",
+  "filing_metadata": {
+    "cik": "1406666",
+    "accession_number": "0001406666-26-000004",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-28T16:18:28-05:00",
+    "event_date": "2026-01-28",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "CALIX, INC. (NYSE:CALX) \u2014 CALIX, INC delivers the industry\u2019s leading agentic AI cloud and appliance-based platform, purpose-built over two decades with open standards and advanced security so service providers of all sizes can transform into experience providers. The platform combines agentic AI, intelligent appliances, and fully integrated managed services with CALIX, INC Customer Success and a partner community to simplify operations, engagement, and service, innovate for their consumer, business, and municipal subscribers, and grow their value for members, investors, and the communities they serve.",
+      "token_count": 153
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.062489,
+    "ret_20d": -0.008797,
+    "market_ret_20d": 0.011005
+  },
+  "outcome_blind": true
+}

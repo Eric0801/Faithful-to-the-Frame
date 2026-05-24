@@ -1,0 +1,140 @@
+{
+  "event_id": "evt_0071",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CAL-MAINE FOODS INC",
+  "ticker": "CALM",
+  "company_alias": "CAL-MAINE FOODS INC",
+  "masked_company": "Company AH",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-04-01",
+  "filing_metadata": {
+    "cik": "16160",
+    "accession_number": "0001562762-26-000044",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-04-01T06:09:25-04:00",
+    "event_date": "2026-04-01",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "of how effectively we manage mix, pricing structures, costs, and capital across the cycle. Despite materially",
+      "token_count": 28
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "capacity comes online and utilization improves, supported by steady underlying demand. Importantly, these",
+      "token_count": 27
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Our strategy is designed to strengthen the quality and consistency of our earnings over time. By building on",
+      "token_count": 27
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "repurchase authorization during the quarter for a total of $24.3 million. The repurchase program permits the",
+      "token_count": 27
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Upon registration, participants will receive a confirmation email with detailed instructions, including a dial-",
+      "token_count": 28
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Less: Income (loss) attributable to",
+      "token_count": 9
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2026Q3",
+      "value": 666951000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2026Q3",
+      "value": 119283000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q3",
+      "value": 35944000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "2026Q3",
+      "value": 50459000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "ProfitLoss",
+      "period": "2026Q3",
+      "value": 51118000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q3",
+      "value": 1.06,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q3",
+      "value": 1.07,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X008",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2026Q3",
+      "value": 392159000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X009",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q3",
+      "value": 476922000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.006997,
+    "ret_20d": -0.100466,
+    "market_ret_20d": -0.041471
+  },
+  "outcome_blind": true
+}

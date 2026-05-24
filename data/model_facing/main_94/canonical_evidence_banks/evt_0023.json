@@ -1,0 +1,963 @@
+{
+  "event_id": "evt_0023",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CAMPBELL'S Co",
+  "ticker": "CPB",
+  "company_alias": "CAMPBELL'S Co",
+  "masked_company": "Company AL",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-03-11",
+  "accepted_at_et": "2026-03-11T03:17:14-04:00",
+  "source_packet_path": "source_packets/evt_0023.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "\u2022 Net Sales decreased 5% to $2.6 billion and decreased 3% on an organic basis.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Net Sales decreased 5% to $2.6 billion and decreased 3% on an organic basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "\u2022 Earnings Before Interest and Taxes (EBIT) decreased to $273 million.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Earnings Before Interest and Taxes (EBIT) decreased to $273 million. Adjusted EBIT decreased 24% to $282 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Earnings Per Share (EPS) decreased to $0.48.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Earnings Per Share (EPS) decreased to $0.48. Adjusted EPS decreased 31% to $0.51.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Fiscal year-to-date cash flow from operations was $740 million; r eturned $263 million to shareholders including $237 million in dividends.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Fiscal year-to-date cash flow from operations was $740 million; r eturned $263 million to shareholders including $237 million in dividends.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 January storm-related shipment delays and associated supply chain costs impacted net sales by approximately 1%, adjusted EBIT by approximately $14 million and adjusted EPS by approximately $0.04 per share in the quarter.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 January storm-related shipment delays and associated supply chain costs impacted net sales by approximately 1%, adjusted EBIT by approximately $14 million and adjusted EPS by approximately $0.04 per share in the quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "CAMDEN, N.J., 2026-03-11T03:17:14-04:00 \u2014The CAMPBELL'S Co Company (NASDAQ:CPB) today reported results for its second quarter fiscal 2026 ended February 1, 2026.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "CAMDEN, N.J., 2026-03-11T03:17:14-04:00 \u2014The CAMPBELL'S Co Company (NASDAQ:CPB) today reported results for its second quarter fiscal 2026 ended February 1, 2026. Unless otherwise stated, all comparisons are to the same period of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\"Our core Meals & Beverages portfolio delivered in-market consumption growth in the second quarter, highlighted by the Rao\u2019s brand surpassing $1 billion in trailing twelve-month net sales.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\"Our core Meals & Beverages portfolio delivered in-market consumption growth in the second quarter, highlighted by the Rao\u2019s brand surpassing $1 billion in trailing twelve-month net sales. Overall results, however, fell short of our expectations due to weaker-than-expected per...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Three Months Ended ($ in millions, except per share) February 1, 2026 January 26, 2025 % Change Net Sales As Reported (GAAP) $2,564 $2,685 (5)% Organic (3)% Earnings Before Interest and Taxes (EBIT) As Reported (GAAP) $273 $327 (17)% Adjusted $282 $372 (24)% Diluted Earnings Per Share As Reported (GAAP) $0.48 $0.58 (17)% Adjusted $0.51 $0.74 (31)%",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Three Months Ended ($ in millions, except per share) February 1, 2026 January 26, 2025 % Change Net Sales As Reported (GAAP) $2,564 $2,685 (5)% Organic (3)% Earnings Before Interest and Taxes (EBIT) As Reported (GAAP) $273 $327 (17)% Adjusted $282 $372 (24)% Diluted Earnings P...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "Note: A detailed reconciliation of the reported (GAAP) financial information to the adjusted financial information is included at the end of this news release.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Note: A detailed reconciliation of the reported (GAAP) financial information to the adjusted financial information is included at the end of this news release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "earnings_or_eps",
+      "claim": "The table below presents a summary of items impacting comparability in each period.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "The table below presents a summary of items impacting comparability in each period. A detailed reconciliation of the re ported (GAAP) financial information to the adjusted information is included at the end of this news release. Diluted Earnings Per Share Three Months Ended Fe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Net sales in the quarter decreased 5% to $2.6 billion.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Net sales in the quarter decreased 5% to $2.6 billion. Organic net sales, which exclude the impact from divestitures, decreased 3% to $2.6 billion primarily driven by lower volume/mix, with neutral net price realization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "Gross profit decreased to $717 million from $819 million.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Gross profit decreased to $717 million from $819 million. Gross profit margin was 28.0% compared to 30.5%. Adjusted gross profit decreased to $710 million from $815 million. Adjusted gross profit margin decreased 270 basis points to 27.7% mainly driven by cost inflation and ot...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Marketing and selling expenses, which represented approximately 10% of net sales, decreased 2% to $252 million.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Marketing and selling expenses, which represented approximately 10% of net sales, decreased 2% to $252 million. Adjusted marketing and selling expenses decreased 3% to $248 million primarily driven by lower selling expenses and the benefit from cost savings initiatives.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "costs_or_expenses",
+      "claim": "Administrative expenses decreased 3% to $160 million.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Administrative expenses decreased 3% to $160 million. Adjusted administrative expenses decreased 3% to $152 million mainly driven by the benefit from cost savings initiatives, partially offset by higher benefit-related costs and inflation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "costs_or_expenses",
+      "claim": "Other expenses were $7 million compared to $41 million.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Other expenses were $7 million compared to $41 million. Adjusted other expenses were $7 million compared to $8 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "earnings_or_eps",
+      "claim": "EBIT decreased to $273 million from $327 million.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "EBIT decreased to $273 million from $327 million. Adjusted EBIT decreased 24% to $282 million primarily due to lower adjusted gross profit, partially offset by lower adjusted marketing and selling expenses and lower adjusted administrative expenses .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "costs_or_expenses",
+      "claim": "Net interest expense of $80 million is consistent with prior year as lower levels of debt were offset by lower interest income in the quarter.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Net interest expense of $80 million is consistent with prior year as lower levels of debt were offset by lower interest income in the quarter. The effective tax rate decreased to 24.9% compared to 30.0% and the adjusted effective tax rate was 24.8% compared to 24.0%. Excluding...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "earnings_or_eps",
+      "claim": "EPS decreased to $0.48 per share from $0.58 per share.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "EPS decreased to $0.48 per share from $0.58 per share. Adjusted EPS decreased 31% to $0.51 per share primarily reflecting lower adjusted EBIT.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "costs_or_expenses",
+      "claim": "Cash flow from operations for the six months ended February 1, 2026 was $740 million, compared to $737 million in the prior-year.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Cash flow from operations for the six months ended February 1, 2026 was $740 million, compared to $737 million in the prior-year. Capital expenditures year-to-date were $227 million compared to $211 million. In line with CAMPBELL'S Co\u2019s commitment to return value to its shareh...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "costs_or_expenses",
+      "claim": "In the second quarter, CAMPBELL'S Co delivered approximately $20 million in savin gs, bringing total cost savings achieved to $180 million pursuant to its fiscal 2028 target of $375 million.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "In the second quarter, CAMPBELL'S Co delivered approximately $20 million in savin gs, bringing total cost savings achieved to $180 million pursuant to its fiscal 2028 target of $375 million. The company intends to use these savings as one of several levers to help offset tarif...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "Largely driven by the near-term outlook for our Snacks business and select incremental trade investments, CAMPBELL'S Co is lowering its full-year fiscal 2026 guidance provided on December 9, 2025 to reflect a more cautious view for the balance of the year.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Largely driven by the near-term outlook for our Snacks business and select incremental trade investments, CAMPBELL'S Co is lowering its full-year fiscal 2026 guidance provided on December 9, 2025 to reflect a more cautious view for the balance of the year. Fiscal 2026 guidance...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "Additional underlying guidance assumptions can be found in the accompanying investor presentation available at https://investor.thecampbellscompany.com/events-presentations.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Additional underlying guidance assumptions can be found in the accompanying investor presentation available at https://investor.thecampbellscompany.com/events-presentations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "($ in millions, except per share) FY25 Results* (52 weeks) Prior FY26 Guidance Updated FY26 Guidance Organic Net Sales 1 $9,979 (1)% to +1% (2)% to (1)% Adjusted EBIT $1,458 (13)% to (9)% (20)% to (17)% Adjusted EPS $2.91 (18)% to (12)% (26)% to (23)% $2.40 to $2.55 $2.15 to $2.25",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "($ in millions, except per share) FY25 Results* (52 weeks) Prior FY26 Guidance Updated FY26 Guidance Organic Net Sales 1 $9,979 (1)% to +1% (2)% to (1)% Adjusted EBIT $1,458 (13)% to (9)% (20)% to (17)% Adjusted EPS $2.91 (18)% to (12)% (26)% to (23)% $2.40 to $2.55 $2.15 to $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "1 Adjusted for the impact of the 53rd week in fiscal 2025, the noosa business which was divested on February 24, 2025, and the Pop Secret business which was divested on August 26, 2024.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "1 Adjusted for the impact of the 53rd week in fiscal 2025, the noosa business which was divested on February 24, 2025, and the Pop Secret business which was divested on August 26, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "* Adjusted - refer to the detailed reconciliation of the reported (GAAP) financial information to the adjusted financial information at the end of this news release.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "* Adjusted - refer to the detailed reconciliation of the reported (GAAP) financial information to the adjusted financial information at the end of this news release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Three Months Ended February 1, 2026 ($ in millions) Meals & Beverages* Snacks Total* Net Sales, as Reported $1,650 $914 $2,564 Volume/Mix (2)% (6)% (4)% Net Price Realization 1% \u2014% \u2014% Organic Net Sales (2)% (6)% (3)% Currency \u2014% \u2014% \u2014% Divestiture 1 (2)% \u2014% (1)% % Change vs.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Three Months Ended February 1, 2026 ($ in millions) Meals & Beverages* Snacks Total* Net Sales, as Reported $1,650 $914 $2,564 Volume/Mix (2)% (6)% (4)% Net Price Realization 1% \u2014% \u2014% Organic Net Sales (2)% (6)% (3)% Currency \u2014% \u2014% \u2014% Divestiture 1 (2)% \u2014% (1)% % Change vs. Pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "*Numbers may not add due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "*Numbers may not add due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "1 Reflects the loss of net sales associated with the divestiture of the noosa yoghurt business, which was completed on February 24, 2025.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "1 Reflects the loss of net sales associated with the divestiture of the noosa yoghurt business, which was completed on February 24, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "Note: A detailed reconciliation of the reported (GAAP) net sales to organic net sales is included at the end of this news release.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Note: A detailed reconciliation of the reported (GAAP) net sales to organic net sales is included at the end of this news release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Net sales decreased 4%.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Net sales decreased 4%. Excluding the impact of the noosa divestiture, organic net sales decreased 2% mainly driven by declines in U.S. soup, Prego pasta sauces, foodservice and V8 beverages, partially offset by gains in Rao's . Unfavorable volume/mix of 2% was partially offse...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Operating earnings decreased 15% primarily due to lower gross profit and the impact of the noosa divestiture, partially offset by lower marketing and selling expenses.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Operating earnings decreased 15% primarily due to lower gross profit and the impact of the noosa divestiture, partially offset by lower marketing and selling expenses. Gross profit margin decreased mainly due to the gross impact of tariffs, cost inflation and other supply chai...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Net sales, both reported and organic, decreased 6% primarily driven by declines in chips and pretzels, supply constraints related to fresh bakery and third-party partner brands and contract manufacturing.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Net sales, both reported and organic, decreased 6% primarily driven by declines in chips and pretzels, supply constraints related to fresh bakery and third-party partner brands and contract manufacturing. Sales were impacted by unfavorable volume/mix of 6%, with neutral net pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Operating earnings decreased 39% primarily due to lower gross profit.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Operating earnings decreased 39% primarily due to lower gross profit. Gross profit margin decreased mainly due to cost inflation and other supply chain costs, the gross impact of tariffs and unfavorable volume/mix, partially offset by cost savings and supply chain productivity...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "Corporate expense was $43 million in the quarter compared to $73 million in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Corporate expense was $43 million in the quarter compared to $73 million in the prior year. The decrease was primarily due to non-cash impairment charges in the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Meals & Beverages , which consists of soup, simple meals and beverages products in retail and foodservice in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Meals & Beverages , which consists of soup, simple meals and beverages products in retail and foodservice in the U.S. and Canada. The segment includes the following products: CAMPBELL'S Co\u2019s condensed and ready-to-serve soups; Swanson broth and stocks; Pacific Foods broth, sou...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Snacks , which consists of Pepperidge Farm cookies, crackers, fresh bakery and frozen products, including Goldfish crackers, Snyder\u2019s of Hanover pretzels, Lance sandwich crackers, Cape Cod potato chips, Kettle Brand potato chips, Late July snacks, Snack Factory pretzel crisps, and other snacking products in retail in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Snacks , which consists of Pepperidge Farm cookies, crackers, fresh bakery and frozen products, including Goldfish crackers, Snyder\u2019s of Hanover pretzels, Lance sandwich crackers, Cape Cod potato chips, Kettle Brand potato chips, Late July snacks, Snack Factory pretzel crisps,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Through the fourth quarter of fiscal 2025, the snacking and meals and beverages retail business in Latin America was managed under the Snacks segment.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Through the fourth quarter of fiscal 2025, the snacking and meals and beverages retail business in Latin America was managed under the Snacks segment. Beginning in fiscal 2026, the business is managed under the Meals & Beverages segment. Segment results have been adjusted retr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "The company refers to the following products as our \u201cleadership brands\u201d: CAMPBELL'S Co\u2019s condensed and ready-to-serve soups; Chunky soups; Swanson broth, stocks and canned poultry; Pacific Foods broth, soups and non-dairy beverages; Prego pasta sauces; Pace Mexican sauces; V8 juices and beverages; Rao's pasta sauces, dry pasta, frozen entr\u00e9es, frozen pizza and soups; Pepperidge Farm cookies, crackers and fresh bakery; Goldfish crackers; Snyder\u2019s of Hanover pretzels; Lance sandwich crackers; Cape Cod potato chips; Kettle Brand potato chips; Late July snacks; and Snack Factory pretzel crisps.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "The company refers to the following products as our \u201cleadership brands\u201d: CAMPBELL'S Co\u2019s condensed and ready-to-serve soups; Chunky soups; Swanson broth, stocks and canned poultry; Pacific Foods broth, soups and non-dairy beverages; Prego pasta sauces; Pace Mexican sauces; V8...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "For more than 155 years, The CAMPBELL'S Co\u2019s Company ( NASDAQ:CAMPBELL'S Co) has been connecting people through food they love.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "For more than 155 years, The CAMPBELL'S Co\u2019s Company ( NASDAQ:CAMPBELL'S Co) has been connecting people through food they love. Headquartered in Camden, N.J. since 1869, generations of consumers have tru sted CAMPBELL'S Co to provide delicious and affordable food and beverages...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "INVESTOR CONTACT: MEDIA CONTACT: Rebecca Gardy James Regan (856) 342-6081 (856) 219-6409 Rebecca_Gardy@campbells.com James_Regan@campbells.com",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "INVESTOR CONTACT: MEDIA CONTACT: Rebecca Gardy James Regan (856) 342-6081 (856) 219-6409 Rebecca_Gardy@campbells.com James_Regan@campbells.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "associated with imposed and threatened tariffs by the U.S.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "associated with imposed and threatened tariffs by the U.S. and reciprocal tariffs by its trading partners; the risks related to the availability of, and cost inflation in, supply chain inputs, including labor, raw materials, commodities, packaging and transportation, including...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "Three Months Ended February 1, 2026 January 26, 2025 Net sales $ 2,564 $ 2,685 Costs and expenses Cost of products sold 1,847 1,866 Marketing and selling expenses 252 256 Administrative expenses 160 165 Research and development expenses 22 25 Other expenses / (income) 7 41 Restructuring charges 3 5 Total costs and expenses 2,291 2,358 Earnings before interest and taxes 273 327 Interest, net 80 80 Earnings before taxes 193 247 Taxes on earnings 48 74 Net earnings 145 173 Net loss attributable to noncontrolling interests \u2014 \u2014 Net earnings attributable to The CAMPBELL'S Co Company $ 145 $ 173 Per share - basic Net earnings attributable to The CAMPBELL'S Co Company $ .49 $ .58 Weighted average shares outstanding - basic 298 298 Per share - assuming dilution Net earnings attributable to The CAMPBELL'S Co Company $ .48 $ .58 Weighted average shares outstanding - assuming dilution 299 299",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Three Months Ended February 1, 2026 January 26, 2025 Net sales $ 2,564 $ 2,685 Costs and expenses Cost of products sold 1,847 1,866 Marketing and selling expenses 252 256 Administrative expenses 160 165 Research and development expenses 22 25 Other expenses / (income) 7 41 Res...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "(millions, except per share amounts) Six Months Ended February 1, 2026 January 26, 2025 Net sales $ 5,241 $ 5,457 Costs and expenses Cost of products sold 3,732 3,771 Marketing and selling expenses 505 506 Administrative expenses 327 340 Research and development expenses 46 51 Other expenses / (income) 16 84 Restructuring charges 6 11 Total costs and expenses 4,632 4,763 Earnings before interest and taxes 609 694 Interest, net 160 163 Earnings before taxes 449 531 Taxes on earnings 110 140 Net earnings 339 391 Net loss attributable to noncontrolling interests \u2014 \u2014 Net earnings attributable to The CAMPBELL'S Co Company $ 339 $ 391 Per share - basic Net earnings attributable to The CAMPBELL'S Co Company $ 1.14 $ 1.31 Weighted average shares outstanding - basic 298 298 Per share - assuming dilution Net earnings attributable to The CAMPBELL'S Co Company $ 1.13 $ 1.30 Weighted average shares outstanding - assuming dilution 299 300",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(millions, except per share amounts) Six Months Ended February 1, 2026 January 26, 2025 Net sales $ 5,241 $ 5,457 Costs and expenses Cost of products sold 3,732 3,771 Marketing and selling expenses 505 506 Administrative expenses 327 340 Research and development expenses 46 51...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "CONSOLIDATED SUPPLEMENTAL SCHEDULE OF SALES AND EARNINGS (unaudited)",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "CONSOLIDATED SUPPLEMENTAL SCHEDULE OF SALES AND EARNINGS (unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "Three Months Ended February 1, 2026 January 26, 2025 Percent Change Sales Contributions: Meals & Beverages $ 1,650 $ 1,711 (4)% Snacks 914 974 (6)% Total sales $ 2,564 $ 2,685 (5)% Earnings Contributions: Meals & Beverages $ 252 $ 296 (15)% Snacks 67 109 (39)% Total operating earnings 319 405 (21)% Corporate income (expense) (43) (73) Restructuring charges (3) (5) Earnings before interest and taxes 273 327 (17)% Interest, net 80 80 Taxes on earnings 48 74 Net earnings 145 173 (16)% Net loss attributable to noncontrolling interests \u2014 \u2014 Net earnings attributable to The CAMPBELL'S Co Company $ 145 $ 173 (16)% Per share - assuming dilution Net earnings attributable to The CAMPBELL'S Co Company $ .48 $ .58 (17)%",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Three Months Ended February 1, 2026 January 26, 2025 Percent Change Sales Contributions: Meals & Beverages $ 1,650 $ 1,711 (4)% Snacks 914 974 (6)% Total sales $ 2,564 $ 2,685 (5)% Earnings Contributions: Meals & Beverages $ 252 $ 296 (15)% Snacks 67 109 (39)% Total operating...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "other",
+      "claim": "Beginning in fiscal 2026, the snacking and meals and beverages retail business in Latin America formerly included in the Snacks segment is now managed under the Meals & Beverages segment.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Beginning in fiscal 2026, the snacking and meals and beverages retail business in Latin America formerly included in the Snacks segment is now managed under the Meals & Beverages segment. Segment results have been adjusted retrospectively to reflect this change.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "(millions, except per share amounts) Six Months Ended February 1, 2026 January 26, 2025 Percent Change Sales Contributions: Meals & Beverages $ 3,315 $ 3,450 (4)% Snacks 1,926 2,007 (4)% Total sales $ 5,241 $ 5,457 (4)% Earnings Contributions: Meals & Beverages $ 549 $ 639 (14)% Snacks 190 245 (22)% Total operating earnings 739 884 (16)% Corporate income (expense) (124) (179) Restructuring charges (6) (11) Earnings before interest and taxes 609 694 (12)% Interest, net 160 163 Taxes on earnings 110 140 Net earnings 339 391 (13)% Net loss attributable to noncontrolling interests \u2014 \u2014 Net earnings attributable to The CAMPBELL'S Co Company $ 339 $ 391 (13)% Per share - assuming dilution Net earnings attributable to The CAMPBELL'S Co Company $ 1.13 $ 1.30 (13)%",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "(millions, except per share amounts) Six Months Ended February 1, 2026 January 26, 2025 Percent Change Sales Contributions: Meals & Beverages $ 3,315 $ 3,450 (4)% Snacks 1,926 2,007 (4)% Total sales $ 5,241 $ 5,457 (4)% Earnings Contributions: Meals & Beverages $ 549 $ 639 (14...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "balance_sheet_or_cash",
+      "claim": "February 1, 2026 January 26, 2025 Current assets $ 2,730 $ 2,946 Assets of business held for sale \u2014 235 Plant assets, net 2,751 2,637 Intangible assets, net 9,327 9,523 Other assets 540 569 Total assets $ 15,348 $ 15,910 Current liabilities $ 2,690 $ 3,359 Liabilities of business held for sale \u2014 54 Long-term debt 6,647 6,496 Other liabilities 2,004 2,089 Total equity 4,007 3,912 Total liabilities and equity $ 15,348 $ 15,910 Total debt $ 7,075 $ 7,675 Total cash and cash equivalents $ 561 $ 829",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "February 1, 2026 January 26, 2025 Current assets $ 2,730 $ 2,946 Assets of business held for sale \u2014 235 Plant assets, net 2,751 2,637 Intangible assets, net 9,327 9,523 Other assets 540 569 Total assets $ 15,348 $ 15,910 Current liabilities $ 2,690 $ 3,359 Liabilities of busin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "(millions) Six Months Ended February 1, 2026 January 26, 2025 Cash flows from operating activities: Net earnings $ 339 $ 391 Adjustments to reconcile net earnings to operating cash flow Impairment charges \u2014 26 Restructuring charges 6 11 Stock-based compensation 33 36 Pension and postretirement benefit expense (income) (2) 2 Depreciation and amortization 201 219 Deferred income taxes 40 5 Loss on sale of business \u2014 25 Other 63 67 Changes in working capital, net of divestitures Accounts receivable (94) (94) Inventories 64 52 Other current assets (30) (24) Accounts payable and accrued liabilities 137 40 Other (17) (19) Net cash provided by operating activities 740 737 Cash flows from investing activities: Purchases of plant assets (227) (211) Purchases of routes (56) (90) Sales of routes 45 61 Sales of businesses 5 70 Other (1) (5) Net cash used in investing activities (234) (175) Cash flows from financing activities: Short-term borrowings, including commercial paper 1,039 663 Short-term repayments, including commercial paper (1,387) (925) Long-term borrowings 549 1,144 Long-term repayments \u2014 (400) Dividends paid (237) (227) Treasury stock purchases (26) (56) Payments related to tax withholding for stock-based compensation (11) (28) Payments of debt issuance costs (5) (11) Net cash provided by (used in) financing activities (78) 160 Effect of exchange rate changes on cash 1 (1) Net change in cash and cash equivalents 429 721 Cash and cash equivalents \u2014 beginning of period 132 108 Cash and cash equivalents \u2014 end of period $ 561 $ 829",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "(millions) Six Months Ended February 1, 2026 January 26, 2025 Cash flows from operating activities: Net earnings $ 339 $ 391 Adjustments to reconcile net earnings to operating cash flow Impairment charges \u2014 26 Restructuring charges 6 11 Stock-based compensation 33 36 Pension a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "balance_sheet_or_cash",
+      "claim": "Second Quarter Ended February 1, 2026",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Second Quarter Ended February 1, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "costs_or_expenses",
+      "claim": "The CAMPBELL'S Co Company (the \"company\") uses certain non-GAAP financial measures as defined by the Securities and Exchange Commission in certain communications.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "The CAMPBELL'S Co Company (the \"company\") uses certain non-GAAP financial measures as defined by the Securities and Exchange Commission in certain communications. These non-GAAP financial measures are measures of performance not defined by accounting principles generally accep...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "Organic net sales are net sales excluding the impact of currency, acquisitions, divestitures and the additional week in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Organic net sales are net sales excluding the impact of currency, acquisitions, divestitures and the additional week in fiscal 2025. Management believes that excluding these items, which are not part of the ongoing business, improves the comparability of year-to-year results....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "revenue",
+      "claim": "Six Months Ended February 1, 2026 January 26, 2025 % Change (millions) Net Sales, as Reported Impact of Currency Organic Net Sales Net Sales, as Reported Impact of Divestitures Organic Net Sales Net Sales, as Reported Organic Net Sales Meals & Beverages $ 3,315 $ (2) $ 3,313 $ 3,450 $ (83) $ 3,367 (4)% (2)% Snacks 1,926 \u2014 1,926 2,007 (9) 1,998 (4)% (4)% Total Net Sales $ 5,241 $ (2) $ 5,239 $ 5,457 $ (92) $ 5,365 (4)% (2)%",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Six Months Ended February 1, 2026 January 26, 2025 % Change (millions) Net Sales, as Reported Impact of Currency Organic Net Sales Net Sales, as Reported Impact of Divestitures Organic Net Sales Net Sales, as Reported Organic Net Sales Meals & Beverages $ 3,315 $ (2) $ 3,313 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "Twelve Months Ended August 3, 2025 (millions) Net Sales, as Reported Estimated Impact of 53 rd Week Impact of Divestitures Organic Net Sales for FY 2026 Guidance Meals & Beverages $ 6,179 $ (88) $ (99) $ 5,992 Snacks 4,074 (78) (9) 3,987 Total Net Sales $ 10,253 $ (166) $ (108) $ 9,979",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Twelve Months Ended August 3, 2025 (millions) Net Sales, as Reported Estimated Impact of 53 rd Week Impact of Divestitures Organic Net Sales for FY 2026 Guidance Meals & Beverages $ 6,179 $ (88) $ (99) $ 5,992 Snacks 4,074 (78) (9) 3,987 Total Net Sales $ 10,253 $ (166) $ (108...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "Adjusted Net earnings are net earnings excluding the impact of costs associated with cost savings and optimization initiatives, unrealized mark-to-market gains or losses on outstanding undesignated commodity hedges, costs associated with acquisitions, certain litigation expenses or recoveries, impairment charges, costs or recoveries related to a cybersecurity incident, accelerated",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Adjusted Net earnings are net earnings excluding the impact of costs associated with cost savings and optimization initiatives, unrealized mark-to-market gains or losses on outstanding undesignated commodity hedges, costs associated with acquisitions, certain litigation expens...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "amortization, gains or losses on divestitures, actuarial gains or losses on pension and postretirement plans, and the additional week in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "amortization, gains or losses on divestitures, actuarial gains or losses on pension and postretirement plans, and the additional week in fiscal 2025. Management believes that financial information excluding certain items that are not considered to reflect the ongoing operating...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "costs_or_expenses",
+      "claim": "(1) The company has implemented several cost savings initiatives in recent years.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "(1) The company has implemented several cost savings initiatives in recent years. In the second quarter of fiscal 2026, the company recorded Restructuring charges of $3 million and implementation costs and other related costs of $9 million in Cost of products, $7 million in Ad...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "costs_or_expenses",
+      "claim": "In the second quarter of fiscal 2024, the company began implementation of an optimization initiative to improve the effectiveness of its Snacks direct-store-delivery route-to-market network.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "In the second quarter of fiscal 2024, the company began implementation of an optimization initiative to improve the effectiveness of its Snacks direct-store-delivery route-to-market network. In the second quarter of fiscal 2026, the company recognized $2 million in Marketing a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "In the second quarter of fiscal 2026, the total aggregate impact related to the cost savings and optimization initiatives was $24 million ($18 million after tax, or $.06 per share).",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "In the second quarter of fiscal 2026, the total aggregate impact related to the cost savings and optimization initiatives was $24 million ($18 million after tax, or $.06 per share). In the second quarter of fiscal 2025, the total aggregate impact related to the cost savings an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "costs_or_expenses",
+      "claim": "(2) In the second quarter of fiscal 2026, the company recognized gains in Cost of products sold of $16 million ($12 million after tax, or $.04 per share) associated with unrealized mark-to-market adjustments on outstanding undesignated commodity hedges.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(2) In the second quarter of fiscal 2026, the company recognized gains in Cost of products sold of $16 million ($12 million after tax, or $.04 per share) associated with unrealized mark-to-market adjustments on outstanding undesignated commodity hedges. In the second quarter o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "costs_or_expenses",
+      "claim": "(3) In the second quarter of fiscal 2026, the company entered into purchase agreements to acquire 49% of the issued and outstanding equity interests of La Regina di San Marzano di Antonio Romano S.p.A.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "(3) In the second quarter of fiscal 2026, the company entered into purchase agreements to acquire 49% of the issued and outstanding equity interests of La Regina di San Marzano di Antonio Romano S.p.A. and La Regina Atlantica, LLC. The acquisition is subject to certain customa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "costs_or_expenses",
+      "claim": "(4) In the second quarter of fiscal 2026, the company recorded litigation expenses in Administrative expenses of $1 million ($1 million after tax) related to the Plum baby food and snacks business (Plum), which was divested on May 3,",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(4) In the second quarter of fiscal 2026, the company recorded litigation expenses in Administrative expenses of $1 million ($1 million after tax) related to the Plum baby food and snacks business (Plum), which was divested on May 3,",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "costs_or_expenses",
+      "claim": "2021, and certain other litigation matters.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "2021, and certain other litigation matters. In the second quarter of fiscal 2025, the company recorded litigation expenses in Administrative expenses of $1 million ($1 million after tax) related to Plum and certain other litigation matters. In the six-month period of fiscal 20...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "other",
+      "claim": "(5) In the second quarter of fiscal 2025, the company performed an interim impairment assessment on certain salty snacks and cookie trademarks within the Snacks segment, including Tom's , Jays , Kruncher's , O-Ke-Doke , Stella D'oro and Archway , collectively referred to as the company's \"Allied brands,\" and recognized an impairment charge of $15 million on the trademarks.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(5) In the second quarter of fiscal 2025, the company performed an interim impairment assessment on certain salty snacks and cookie trademarks within the Snacks segment, including Tom's , Jays , Kruncher's , O-Ke-Doke , Stella D'oro and Archway , collectively referred to as th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "In the second quarter of fiscal 2025, the company performed an interim impairment assessment on the Late July trademark within the Snacks segment and recognized an impairment charge of $11 million on the trademark.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "In the second quarter of fiscal 2025, the company performed an interim impairment assessment on the Late July trademark within the Snacks segment and recognized an impairment charge of $11 million on the trademark.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "In the second quarter of fiscal 2025, the total aggregate impact of the impairment charges was $26 million ($19 million after tax, or $.06 per share).",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "In the second quarter of fiscal 2025, the total aggregate impact of the impairment charges was $26 million ($19 million after tax, or $.06 per share).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "In the third quarter of fiscal 2025, the company performed an interim impairment assessment on the Snyder's of Hanover trademark within the Snacks segment and recognized an impairment charge of $150 million on the trademark.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "In the third quarter of fiscal 2025, the company performed an interim impairment assessment on the Snyder's of Hanover trademark within the Snacks segment and recognized an impairment charge of $150 million on the trademark.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "other",
+      "claim": "For the year ended August 3, 2025, the total aggregate impact of the impairment charges was $176 million ($131 million after tax, or $.44 per share).",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "For the year ended August 3, 2025, the total aggregate impact of the impairment charges was $176 million ($131 million after tax, or $.44 per share).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "costs_or_expenses",
+      "claim": "The charges were included in Other expenses / (income).",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "The charges were included in Other expenses / (income).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "costs_or_expenses",
+      "claim": "(6) In the six-month periods of fiscal 2026 and 2025, the company recognized insurance recoveries in Administrative expenses of $1 million ($1 million after tax) related to a cybersecurity incident that was identified in the fourth quarter of fiscal 2023.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "(6) In the six-month periods of fiscal 2026 and 2025, the company recognized insurance recoveries in Administrative expenses of $1 million ($1 million after tax) related to a cybersecurity incident that was identified in the fourth quarter of fiscal 2023.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "costs_or_expenses",
+      "claim": "(7) In the second quarter of fiscal 2025, the company recorded accelerated amortization expense in Other expenses / (income) of $7 million ($5 million after tax, or $.02 per share) related to customer relationship intangible assets due to the loss of certain contract manufacturing customers, which began in the fourth quarter of fiscal 2023.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "(7) In the second quarter of fiscal 2025, the company recorded accelerated amortization expense in Other expenses / (income) of $7 million ($5 million after tax, or $.02 per share) related to customer relationship intangible assets due to the loss of certain contract manufactu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "costs_or_expenses",
+      "claim": "(8) In the second quarter of fiscal 2025, the company recorded $15 million ($.05 per share) of deferred tax expense related to the sale of the noosa yoghurt business, which was completed on February 24, 2025.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "(8) In the second quarter of fiscal 2025, the company recorded $15 million ($.05 per share) of deferred tax expense related to the sale of the noosa yoghurt business, which was completed on February 24, 2025. In the first quarter of fiscal 2025, the company recorded a loss in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "costs_or_expenses",
+      "claim": "(9) In the six-month period of fiscal 2025, the company recognized an actuarial loss in Other expenses / (income) of $2 million ($1 million after tax) related to an interim remeasurement of a postretirement plan due to a plan amendment.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(9) In the six-month period of fiscal 2025, the company recognized an actuarial loss in Other expenses / (income) of $2 million ($1 million after tax) related to an interim remeasurement of a postretirement plan due to a plan amendment. For the year ended August 3, 2025, the c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "(10) Fiscal 2026 has 52 weeks and Fiscal 2025 had 53 weeks.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "(10) Fiscal 2026 has 52 weeks and Fiscal 2025 had 53 weeks. The estimated impact of the additional week in the fourth quarter of fiscal 2025 was $29 million on earnings before interest and taxes, $6 million on interest, net, $4 million on taxes on earnings and $19 million ($.0...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Six Months Ended (millions, except per share amounts) February 1, 2026 January 26, 2025 Percent Change February 1, 2026 January 26, 2025 Percent Change Gross profit, as reported $ 717 $ 819 (12)% $ 1,509 $ 1,686 (10)% Gross profit margin, as reported 28.0 % 30.5 % (250) pts 28.8 % 30.9 % (210) pts Costs associated with cost savings and optimization initiatives (1) 9 10 16 18 Commodity mark-to-market gains (2) (16) (14) (14) (18) Adjusted Gross profit $ 710 $ 815 (13)% $ 1,511 $ 1,686 (10)% Adjusted Gross profit margin 27.7 % 30.4 % (270) pts 28.8 % 30.9 % (210) pts Marketing and selling expenses, as reported $ 252 $ 256 (2)% $ 505 $ 506 \u2014% Costs associated with cost savings and optimization initiatives (1) (4) (1) (20) (10) Adjusted Marketing and selling expenses $ 248 $ 255 (3)% $ 485 $ 496 (2)% Administrative expenses, as reported $ 160 $ 165 (3)% $ 327 $ 340 (4)% Costs associated with cost savings and optimization initiatives (1) (7) (8) (15) (19) Certain litigation expenses (4) (1) (1) (11) (2) Cybersecurity incident recoveries (6) \u2014 \u2014 1 1 Adjusted Administrative expenses $ 152 $ 156 (3)% $ 302 $ 320 (6)% Research and development expenses, as reported $ 22 $ 25 $ 46 $ 51 Costs associated with cost savings and optimization initiatives (1) (1) (1) (1) (2) Adjusted Research and development expenses $ 21 $ 24 $ 45 $ 49 Other expenses / (income), as reported $ 7 $ 41 $ 16 $ 84 Costs associated with acquisition (3) \u2014 \u2014 (2) \u2014 Impairment charges (5) \u2014 (26) \u2014 (26) Accelerated amortization (7) \u2014 (7) \u2014 (14) Charges associated with divestitures (8) \u2014 \u2014 \u2014 (25) Pension and postretirement actuarial losses (9) \u2014 \u2014 \u2014 (2) Adjusted Other expenses / (income) $ 7 $ 8 $ 14 $ 17",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended (millions, except per share amounts) February 1, 2026 January 26, 2025 Percent Change February 1, 2026 January 26, 2025 Percent Change Gross profit, as reported $ 717 $ 819 (12)% $ 1,509 $ 1,686 (10)% Gross profit margin, as reported 28.0 %...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended Six Months Ended Year Ended (millions, except per share amounts) February 1, 2026 January 26, 2025 Percent Change February 1, 2026 January 26, 2025 Percent Change August 3, 2025 Earnings before interest and taxes, as reported $ 273 $ 327 (17)% $ 609 $ 694 (12)% $ 1,124 Costs associated with cost savings and optimization initiatives (1) 24 25 58 60 125 Commodity mark-to-market gains (2) (16) (14) (14) (18) (11) Costs associated with acquisition (3) \u2014 \u2014 2 \u2014 \u2014 Certain litigation expenses (4) 1 1 11 2 5 Impairment charges (5) \u2014 26 \u2014 26 176 Cybersecurity incident recoveries (6) \u2014 \u2014 (1) (1) (1) Accelerated amortization (7) \u2014 7 \u2014 14 20 Charges associated with divestitures (8) \u2014 \u2014 \u2014 25 25 Pension and postretirement actuarial losses (9) \u2014 \u2014 \u2014 2 24 Estimated impact of 53 rd week (10) \u2014 \u2014 \u2014 \u2014 (29) Adjusted Earnings before interest and taxes $ 282 $ 372 (24)% $ 665 $ 804 (17)% $ 1,458 Interest, net, as reported $ 80 $ 80 $ 160 $ 163 $ 328 Estimated impact of 53 rd week (10) \u2014 \u2014 \u2014 \u2014 (6) Adjusted Interest, net $ 80 $ 80 $ 160 $ 163 $ 322 Adjusted Earnings before taxes $ 202 $ 292 $ 505 $ 641 $ 1,136 Taxes on earnings, as reported $ 48 $ 74 (35)% $ 110 $ 140 (21)% $ 194 Effective income tax rate, as reported 24.9 % 30.0 % (510) pts 24.5 % 26.4 % (190) pts 24.4 % Costs associated with cost savings and optimization initiatives (1) 6 6 14 14 29 Commodity mark-to-market gains (2) (4) (4) (4) (5) (3) Costs associated with acquisition (3) \u2014 \u2014 \u2014 \u2014 \u2014 Certain litigation expenses (4) \u2014 \u2014 3 \u2014 \u2014 Impairment charges (5) \u2014 7 \u2014 7 45 Cybersecurity incident recoveries (6) \u2014 \u2014 \u2014 \u2014 \u2014 Accelerated amortization (7) \u2014 2 \u2014 4 5 Charges associated with divestitures (8) \u2014 (15) \u2014 (9) (9) Pension and postretirement actuarial losses (9) \u2014 \u2014 \u2014 1 6 Estimated impact of 53 rd week (10) \u2014 \u2014 \u2014 \u2014 (4) Adjusted Taxes on earnings $ 50 $ 70 (29)% $ 123 $ 152 (19)% $ 263 Adjusted effective income tax rate 24.8 % 24.0 % 80 pts 24.4 % 23.7 % 70 pts 23.2 %",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended Year Ended (millions, except per share amounts) February 1, 2026 January 26, 2025 Percent Change February 1, 2026 January 26, 2025 Percent Change August 3, 2025 Earnings before interest and taxes, as reported $ 273 $ 327 (17)% $ 609 $ 694 (1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Six Months Ended Year Ended (millions, except per share amounts) February 1, 2026 January 26, 2025 Percent Change February 1, 2026 January 26, 2025 Percent Change August 3, 2025 Net earnings attributable to The CAMPBELL'S Co Company, as reported $ 145 $ 173 (16)% $ 339 $ 391 (13)% $ 602 Costs associated with cost savings and optimization initiatives (1) 18 19 44 46 96 Commodity mark-to-market gains (2) (12) (10) (10) (13) (8) Costs associated with acquisition (3) \u2014 \u2014 2 \u2014 \u2014 Certain litigation expenses (4) 1 1 8 2 5 Impairment charges (5) \u2014 19 \u2014 19 131 Cybersecurity incident recoveries (6) \u2014 \u2014 (1) (1) (1) Accelerated amortization (7) \u2014 5 \u2014 10 15 Charges associated with divestitures (8) \u2014 15 \u2014 34 34 Pension and postretirement actuarial losses (9) \u2014 \u2014 \u2014 1 18 Estimated impact of 53 rd week (10) \u2014 \u2014 \u2014 \u2014 (19) Adjusted Net earnings attributable to The CAMPBELL'S Co Company $ 152 $ 222 (32)% $ 382 $ 489 (22)% $ 873 Diluted net earnings per share attributable to The CAMPBELL'S Co Company, as reported $ .48 $ .58 (17)% $ 1.13 $ 1.30 (13)% $ 2.01 Costs associated with cost savings and optimization initiatives (1) .06 .06 .15 .15 .32 Commodity mark-to-market gains (2) (.04) (.03) (.03) (.04) (.03) Costs associated with acquisition (3) \u2014 \u2014 .01 \u2014 \u2014 Certain litigation expenses (4) \u2014 \u2014 .03 .01 .02 Impairment charges (5) \u2014 .06 \u2014 .06 .44 Cybersecurity incident recoveries (6) \u2014 \u2014 \u2014 \u2014 \u2014 Accelerated amortization (7) \u2014 .02 \u2014 .03 .05 Charges associated with divestitures (8) \u2014 .05 \u2014 .11 .11 Pension and postretirement actuarial losses (9) \u2014 \u2014 \u2014 \u2014 .06 Estimated impact of 53 rd week (10) \u2014 \u2014 \u2014 \u2014 (.06) Adjusted Diluted net earnings per share attributable to The CAMPBELL'S Co Company* $ .51 $ .74 (31)% $ 1.28 $ 1.63 (21)% $ 2.91 *The sum of individual per share amounts may not add due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended Year Ended (millions, except per share amounts) February 1, 2026 January 26, 2025 Percent Change February 1, 2026 January 26, 2025 Percent Change August 3, 2025 Net earnings attributable to The CAMPBELL'S Co Company, as reported $ 145 $ 173...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "revenue",
+      "claim": "Revenues reported for 2026Q2: 2564000000",
+      "value": 2564000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "Revenues reported for 2026Q2: 2564000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q2: 273000000",
+      "value": 273000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q2: 273000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q2: 145000000",
+      "value": 145000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q2: 145000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "other",
+      "claim": "ProfitLoss reported for 2026Q2: 145000000",
+      "value": 145000000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "ProfitLoss reported for 2026Q2: 145000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q2: 0.48",
+      "value": 0.48,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q2: 0.48",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q2: 0.49",
+      "value": 0.49,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q2: 0.49",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q2: 561000000",
+      "value": 561000000,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q2: 561000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q2: 740000000",
+      "value": 740000000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q2: 740000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.052591, ret_20d=-0.146906, market_ret_20d=-0.024166",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.052591, ret_20d=-0.146906, market_ret_20d=-0.024166",
+      "support_label": "supported"
+    }
+  ]
+}

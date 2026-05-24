@@ -1,0 +1,447 @@
+{
+  "event_id": "evt_0087",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CHEMED CORP",
+  "ticker": "CHE",
+  "company_alias": "CHEMED CORP",
+  "masked_company": "Company AS",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2024 Q4",
+  "event_date": "2026-02-25",
+  "filing_metadata": {
+    "cik": "19584",
+    "accession_number": "0000019584-26-000002",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-25T16:30:37-05:00",
+    "event_date": "2026-02-25",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "CINCINNATI, 2026-02-25T16:30:37-05:00\u2014CHEMED CORP Corporation (CHEMED CORP) (NYSE: CHEMED CORP ), which operates VITAS Healthcare Corporation (VITAS), the nation\u2019s largest providers of end-of-life care, and Roto-Rooter, the nation\u2019s largest commercial and residential plumbing and drain cleaning services provider, reported financial results for its fourth quarter ended December 31, 2025, versus the comparable prior-year period.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u00b7 Revenue was $639.3 million, essentially flat with the fourth quarter of 2024",
+      "token_count": 20
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u00b7 GAAP Diluted Earnings-per-Share (EPS) of $5.48, a decrease of 9.0%",
+      "token_count": 17
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u00b7 Adjusted Diluted EPS of $6.42, a decrease of 6.0%",
+      "token_count": 13
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u00b7 Net Patient Revenue of $418.8 million, an increase of 1.9%",
+      "token_count": 15
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u00b7 Average Daily Census (ADC) of 22,462, an increase of 1.3%",
+      "token_count": 15
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u00b7 Admissions of 17,419, an increase of 6.0%",
+      "token_count": 11
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u00b7 Net Income, excluding certain discrete items, of $69.5 million, a decrease of 0.6%",
+      "token_count": 21
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u00b7 Adjusted EBITDA, excluding Medicare Cap, of $91.6 million, a decrease of 1.7%",
+      "token_count": 20
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u00b7 Adjusted EBITDA margin, excluding Medicare Cap, of 21.7%, a decrease of 79-basis points",
+      "token_count": 23
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u00b7 Revenue of $220.6 million, a decrease of 3.7%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u00b7 Net Income, excluding certain discrete items, of $33.8 million, a decrease of 20.6%",
+      "token_count": 22
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u00b7 Adjusted EBITDA of $47.5 million, a decline of 21.1%",
+      "token_count": 14
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u00b7 Adjusted EBITDA margin of 21.5%, a decline of 477-basis points",
+      "token_count": 16
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "VITAS net revenue was $418.8 million in the fourth quarter of 2025, which is an increase of 1.9% when compared to the prior-year period. This revenue increase is comprised primarily of a 1.3% increase in days-of-care and a geographically weighted average Medicare reimbursement rate increase of approximately 2.2%. Acuity mix shift negatively impacted revenue growth 143-basis",
+      "token_count": 94
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "points in the quarter when compared to the prior-year period\u2019s revenue and level-of-care mix. The combination of Medicare Cap and other contra revenue changes negatively impacted revenue growth by 20-basis points.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Total VITAS admissions increased 6.0% in the fourth quarter of 2025 compared to the fourth quarter of 2024.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In the fourth quarter of 2025, VITAS accrued $2.4 million in Medicare Cap billing limitation, essentially flat compared to the fourth quarter of 2024. There was no Medicare Cap billing limitation recorded in the fourth quarter of 2025 related to the Florida combined program.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Of VITAS\u2019 33 Medicare provider numbers, 22 provider numbers have a projected full-year Medicare Cap cushion of 10% or greater, six provider numbers have a projected cushion between 0% and 10%, and five provider numbers have a Medicare Cap billing limitation totaling $9.5 million projected for the full-year 2026 Medicare Cap year. There is no Medicare Cap for the 2026 Cap year currently projected for the Florida combined program.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Average revenue per patient per day in the fourth quarter of 2025 was $208.01 which is 86-basis points above the prior-year period. Reimbursement for routine home care and high acuity care averaged $187.19 and $1,153.55, respectively. During the quarter, high acuity days-of-care were 2.2% of total days of care, a decline of 32-basis points when compared to the prior-year quarter.",
+      "token_count": 96
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "The fourth quarter 2025 gross margin, excluding Medicare Cap, was 27.3%, a 150-basis point decline from the same period of 2024. Selling, general and administrative expenses were $23.8 million in the fourth quarter of 2025 compared to $25.6 million in the prior-year quarter.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA, excluding Medicare Cap, totaled $91.6 million in the quarter, a decline of 1.7% when compared to the prior year period. Adjusted EBITDA margin in the quarter, excluding Medicare Cap, was 21.7%.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Roto-Rooter generated quarterly revenue of $220.6 million in the fourth quarter of 2025, a decrease of 3.7%, when compared to the prior-year quarter.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Roto-Rooter branch commercial revenue in the quarter totaled $55.2 million, an increase of 1.6% from the prior-year period. This aggregate commercial revenue change consisted of excavation increasing 10.9%, drain cleaning increasing 2.0%, plumbing flat between years, offset by a decline in water restoration of 20.0%.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Roto-Rooter branch residential revenue in the quarter totaled $155.6 million, a decrease of 3.1%, over the prior-year period. This aggregate residential revenue change consisted of plumbing increasing 6.3%, excavation essentially flat between periods, offset by water restoration decreasing 10.3% and drain cleaning declining 3.2%.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "In the fourth quarter of 2025, revenue from independent contractors was $16.7 million which is a decline of 2.8% as compared to the same period of 2024.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Roto-Rooter\u2019s fourth quarter 2025 gross margin was 49.8%. This compares to the prior year quarter\u2019s gross margin of 51.3%. Roto-Rooter\u2019s selling, general and administrative expenses were $63.2 million in the quarter, which is an increase of 10.5% compared to the fourth quarter of 2024.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA in the fourth quarter of 2025 totaled $47.5 million, a decrease of 21.1% when compared to the fourth quarter of 2024. The Adjusted EBITDA margin in the quarter was 21.5% which represents a 477-basis point decline from the fourth quarter of 2024.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "As of December 31, 2025, CHEMED CORP had total cash and cash equivalents of $74.5 million and no current or long-term debt.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In June 2022, CHEMED CORP entered into a five-year $550 million Amended and Restated Credit Agreement (Credit Agreement). This Credit Agreement consisted of a $100 million amortizable term loan and a $450 million revolving credit facility. The interest rate on this Credit Agreement has a floating rate that is currently SOFR plus 100-basis points. There is approximately $404.5 million undrawn borrowing capacity under the Credit Agreement after excluding $45.5 million for Letters of Credit.",
+      "token_count": 123
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "During the quarter, the Company repurchased 400,000 shares of CHEMED CORP stock for $174.6 million which equates to a cost per share of $436.39. As of December 31, 2025, there was approximately $127.3 million of remaining share repurchase authorization under its plan.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "VITAS 2026 revenue, prior to Medicare Cap, is estimated to increase 5.5% to 6.5% when compared to 2025. ADC is estimated to increase 3.5% to 4.0%. Full year EBITDA margin, prior to Medicare Cap is estimated to be 17.5% to 18.0%. Medicare Cap billing limitations are estimated to be $9.5 million in calendar 2026 compared to $27.2 million in calendar 2025.",
+      "token_count": 89
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Roto-Rooter is forecasted to achieve full year 2026 revenue growth of 3.0% to 3.5%. Roto-Rooter\u2019s adjusted EBITDA margin for 2026 is expected to be 22.5% to 23.0%.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Based upon the above, full-year 2026 earnings per diluted share, excluding non-cash expenses for stock options, tax benefits from stock option exercises, costs related to litigation and other discrete items, is estimated to be in the range of $23.25 to $24.25. This compares to full-year 2025 adjusted earnings per diluted share of $21.55. The 2026 guidance assumes an effective corporate tax rate on adjusted earnings of 24.5% and a diluted share count of 13.9 million shares.",
+      "token_count": 120
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The 2026 earnings trajectory is weighted towards the second half of the year. An estimated 55% of the consolidated adjusted net income and consolidated adjusted EBITDA, prior to Medicare",
+      "token_count": 47
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Cap, is projected to be generated in the second half of the year. Momentum is expected to build sequentially, quarter-to-quarter throughout the year.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We believe VITAS has successfully mitigated its Florida Medicare Cap issue. As a result, in 2026, the patient mix should moderate to a more favorable balance of short and longer-stay patients. However, the financial impact of admitting a higher number of potentially longer-stay patients does not come until roughly a fiscal quarter post-admission.",
+      "token_count": 87
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Roto-Rooter\u2019s first quarter of 2025 was its strongest revenue and EBITDA margin quarter of the year. Additionally, Roto-Rooter is projected to have elevated expenses in the first half of the year in order to fund revenue growth and long-term margin improvement projects currently underway.",
+      "token_count": 73
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "https://register-conf.media-server.com/register/BIe4160b0d86fb4a3cb11588d64e00d9e7 .",
+      "token_count": 21
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Once registration is completed, participants will be provided with a dial-in number containing a personalized conference code to access the call. All participants are instructed to dial-in 15 minutes prior to the start time.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "CHEMED CORP operates in the healthcare field through its VITAS Healthcare Corporation subsidiary. VITAS provides daily hospice services to patients with severe, life-limiting illnesses. This type of care is focused on making the terminally ill patient's final days as comfortable and pain-free as possible.",
+      "token_count": 77
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "CHEMED CORP operates in the residential and commercial plumbing and drain cleaning industry under the brand name Roto-Rooter. Roto-Rooter provides plumbing, drain cleaning, and water cleanup services through company-owned branches, independent contractors and franchisees in the United States and Canada. Roto-Rooter also has licensed master franchisees in the republics of Indonesia and Singapore, and the Philippines.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "This press release contains information about CHEMED CORP\u2019s EBITDA, Adjusted EBITDA, and Adjusted Diluted EPS, which are not measures derived in accordance with GAAP and which exclude components that are important to understanding CHEMED CORP\u2019s financial performance. In reporting its operating results, CHEMED CORP provides EBITDA, Adjusted EBITDA and Adjusted Diluted EPS measures to help investors and others evaluate the Company\u2019s operating results, compare its operating performance with that of similar companies that have different capital structures and evaluate its ability to meet its future debt service, capital expenditures and working capital requirements. CHEMED CORP\u2019s management similarly uses EBITDA, Adjusted EBITDA, and Adjusted Diluted EPS to assist it in evaluating the performance of the Company across fiscal periods and in assessing how its performance compares to its peer companies. These measures also help CHEMED CORP\u2019s management to estimate the resources required to meet CHEMED CORP\u2019s future financial obligations and expenditures. CHEMED CORP\u2019s EBITDA, Adjusted EBITDA and Adjusted Diluted EPS should not be considered in isolation or as a substitute for comparable measures calculated and presented in accordance with GAAP. We calculated Adjusted EBITDA Margin by dividing Adjusted EBITDA by service revenue and sales. A reconciliation of CHEMED CORP\u2019s net income to its EBITDA, Adjusted EBITDA and Adjusted Diluted EPS is presented in the tables following the text of this press release.",
+      "token_count": 379
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "and the impact of market value adjustments related to",
+      "token_count": 14
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES CONSOLIDATED BALANCE SHEETS (in thousands, except per share data)(unaudited) \ufeff \ufeff December 31, \ufeff 2025 2024 Assets Current assets Cash and cash equivalents $ 74,515 $ 178,350 Accounts receivable less allowances 182,575 171,163 Inventories 7,543 8,193 Prepaid income taxes 11,165 11,068 Prepaid expenses 26,818 25,974 Total current assets 302,616 394,748 Investments of deferred compensation plans held in trust 140,347 130,960 Properties and equipment, at cost less accumulated depreciation 205,662 200,837 Lease right of use asset 131,151 127,323 Identifiable intangible assets less accumulated amortization 82,764 92,206 Goodwill 666,999 666,744 Other assets 8,650 55,757 Total Assets $ 1,538,189 $ 1,668,575 Liabilities Current liabilities Accounts payable $ 64,459 $ 44,146 Accrued insurance 62,054 56,703 Accrued income taxes 2,504 7,593 Accrued compensation 58,329 92,073 Short-term lease liability 40,892 42,306 Other current liabilities 58,892 42,874 Total current liabilities 287,130 285,695 Deferred income taxes 19,313 25,945 Deferred compensation liabilities 136,139 126,035 Long-term lease liability 102,867 98,538 Other liabilities 13,335 13,369 Total Liabilities 558,784 549,582 Stockholders' Equity Capital stock 37,595 37,422 Paid-in capital 1,592,197 1,484,176 Retained earnings 2,955,375 2,721,832 Treasury stock, at cost (3,608,117) (3,126,660) Deferred compensation payable in Company stock 2,355 2,223 Total Stockholders' Equity 979,405 1,118,993 Total Liabilities and Stockholders' Equity $ 1,538,189 $ 1,668,575",
+      "token_count": 396
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands)(unaudited) \ufeff \ufeff For the Years Ended December 31, \ufeff 2025 2024 Cash Flows from Operating Activities Net income $ 265,238 $ 301,999 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 64,841 63,049 Stock option expense 32,671 32,033 Benefit for deferred income taxes (5,944) (4,138) Noncash long-term incentive compensation 4,886 18,794 Litigation settlements 1,425 (5,750) Noncash directors' compensation 1,123 1,282 Amortization of debt issuance costs 321 321 Changes in operating assets and liabilities, excluding amounts acquired in business combinations: (Increase)/decrease in accounts receivable (11,596) 10,678 Decrease in inventories 650 3,831 (Increase)/decrease in prepaid expenses (844) 4,237 Decrease in accounts payable and other current liabilities (5,194) (9,279) Change in current income taxes (6,217) 2,182 Net change in lease assets and liabilities (806) (674) Decrease/(increase) in other assets 36,835 (25,591) Increase in other liabilities 10,424 22,749 Other sources 459 1,774 Net cash provided by operating activities 388,272 417,497 Cash Flows from Investing Activities Capital expenditures (62,795) (49,531) Proceeds from sale of fixed assets 4,568 3,315 Business combinations, net of cash acquired (225) (97,400) Other uses (888) (295) Net cash used by investing activities (59,340) (143,911) Cash Flows from Financing Activities Purchases of treasury stock (431,500) (361,389) Dividends paid (31,695) (27,092) Proceeds from exercise of stock options 27,152 56,517 Change in cash overdrafts payable 10,970 (15,749) Capital stock surrendered to pay taxes on stock-based compensation (8,819) (9,457) Other sources/(uses) 1,125 (2,024) Net cash used by financing activities (432,767) (359,194) Decrease in Cash and Cash Equivalents (103,835) (85,608) Cash and cash equivalents at beginning of year 178,350 263,958 Cash and cash equivalents at end of period $ 74,515 $ 178,350",
+      "token_count": 515
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES CONSOLIDATING STATEMENTS OF INCOME FOR THE THREE MONTHS ENDED DECEMBER 31, 2025 AND 2024 (in thousands)(unaudited) \ufeff CHEMED CORP \ufeff VITAS Roto-Rooter Corporate Consolidated 2025 (a) Service revenues and sales $ 418,760 $ 220,577 $ - $ 639,337 Cost of services provided and goods sold 306,238 110,778 - 417,016 Selling, general and administrative expenses 23,814 63,192 18,497 105,503 Depreciation 5,446 8,301 12 13,759 Amortization 26 2,545 - 2,571 Other operating income 219 (385) - (166) Total costs and expenses 335,743 184,431 18,509 538,683 Income/(loss) from operations 83,017 36,146 (18,509) 100,654 Interest expense (35) (217) (269) (521) Intercompany interest income/(expense) 6,020 4,315 (10,335) - Other income\u2014net 156 13 5,143 5,312 Income/(loss) before income taxes 89,158 40,257 (23,970) 105,445 Income taxes (20,169) (8,692) 167 (28,694) Net income/(loss) $ 68,989 $ 31,565 $ (23,803) $ 76,751 \ufeff 2024 (b) Service revenues and sales $ 411,008 $ 228,985 $ - $ 639,993 Cost of services provided and goods sold 294,456 111,419 - 405,875 Selling, general and administrative expenses 25,597 57,168 21,486 104,251 Depreciation 5,074 8,177 12 13,263 Amortization 26 2,542 - 2,568 Other operating expense 18 140 - 158 Total costs and expenses 325,171 179,446 21,498 526,115 Income/(loss) from operations 85,837 49,539 (21,498) 113,878 Interest expense (33) (81) (385) (499) Intercompany interest income/(expense) 5,114 3,759 (8,873) - Other income\u2014net 90 5 6,649 6,744 Income/(loss) before income taxes 91,008 53,222 (24,107) 120,123 Income taxes (20,897) (12,500) 3,593 (29,804) Net income/(loss) $ 70,111 $ 40,722 $ (20,514) $ 90,319 \ufeff \ufeff The \"Footnotes to Financial Statements\" are integral parts of this financial information.",
+      "token_count": 446
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES CONSOLIDATING STATEMENTS OF INCOME FOR THE YEARS ENDED DECEMBER 31, 2025 AND 2024 (in thousands)(unaudited) \ufeff \ufeff CHEMED CORP \ufeff VITAS Roto-Rooter Corporate Consolidated 2025 (a) Service revenues and sales $ 1,630,101 $ 899,877 $ - $ 2,529,978 Cost of services provided and goods sold 1,257,704 449,090 - 1,706,794 Selling, general and administrative expenses 100,675 247,047 69,466 417,188 Depreciation 21,308 33,200 49 54,557 Amortization 104 10,180 - 10,284 Other operating expense/(income) 3,375 (466) - 2,909 Total costs and expenses 1,383,166 739,051 69,515 2,191,732 Income/(loss) from operations 246,935 160,826 (69,515) 338,246 Interest expense (185) (611) (954) (1,750) Intercompany interest income/(expense) 22,455 16,245 (38,700) - Other income\u2014net 327 70 18,885 19,282 Income/(loss) before income taxes 269,532 176,530 (90,284) 355,778 Income taxes (65,523) (41,037) 16,020 (90,540) Net income/(loss) $ 204,009 $ 135,493 $ (74,264) $ 265,238 \ufeff 2024 (b) Service revenues and sales $ 1,530,978 $ 900,309 $ - $ 2,431,287 Cost of services provided and goods sold 1,146,803 430,136 - 1,576,939 Selling, general and administrative expenses 99,564 232,852 91,944 424,360 Depreciation 20,362 32,452 50 52,864 Amortization 105 10,080 - 10,185 Other operating expense 178 268 - 446 Total costs and expenses 1,267,012 705,788 91,994 2,064,794 Income/(loss) from operations 263,966 194,521 (91,994) 366,493 Interest expense (171) (431) (1,178) (1,780) Intercompany interest income/(expense) 20,211 14,397 (34,608) - Other income\u2014net 227 69 34,456 34,752 Income/(loss) before income taxes 284,233 208,556 (93,324) 399,465 Income taxes (67,414) (48,510) 18,458 (97,466) Net income/(loss) $ 216,819 $ 160,046 $ (74,866) $ 301,999 \ufeff \ufeff The \"Footnotes to Financial Statements\" are integral parts of this financial information.",
+      "token_count": 467
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES CONSOLIDATING SUMMARIES OF EBITDA FOR THREE MONTHS ENDED DECEMBER 31, 2025 AND 2024 (in thousands)(unaudited) \ufeff CHEMED CORP \ufeff VITAS Roto-Rooter Corporate Consolidated 2025 Net income/(loss) $ 68,989 $ 31,565 $ (23,803) $ 76,751 Add/(deduct): Interest expense 35 217 269 521 Income taxes 20,169 8,692 (167) 28,694 Depreciation 5,446 8,301 12 13,759 Amortization 26 2,545 - 2,571 EBITDA 94,665 51,320 (23,689) 122,296 Add/(deduct): Intercompany interest expense/(income) (6,020) (4,315) 10,335 - Interest income (156) (19) (1,384) (1,559) Stock option expense - - 8,297 8,297 Long-term incentive compensation - - 2,332 2,332 Legal settlements 221 - - 221 Other 500 530 25 1,055 Adjusted EBITDA $ 89,210 $ 47,516 $ (4,084) $ 132,642 \ufeff 2024 Net income/(loss) $ 70,111 $ 40,722 $ (20,514) $ 90,319 Add/(deduct): Interest expense 33 81 385 499 Income taxes 20,897 12,500 (3,593) 29,804 Depreciation 5,074 8,177 12 13,263 Amortization 26 2,542 - 2,568 EBITDA 96,141 64,022 (23,710) 136,453 Add/(deduct): Intercompany interest expense/(income) (5,114) (3,759) 8,873 - Interest income (89) (5) (3,111) (3,205) Stock option expense - - 8,100 8,100 Long-term incentive compensation - - 4,354 4,354 Acquisition expense (203) (3) - (206) Adjusted EBITDA $ 90,735 $ 60,255 $ (5,494) $ 145,496 \ufeff The \"Footnotes to Financial Statements\" are integral parts of this financial information.",
+      "token_count": 355
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES CONSOLIDATING SUMMARIES OF EBITDA FOR THE YEARS ENDED DECEMBER 31, 2025 AND 2024 (in thousands)(unaudited) \ufeff CHEMED CORP \ufeff VITAS Roto-Rooter Corporate Consolidated 2025 Net income/(loss) $ 204,009 $ 135,493 $ (74,264) $ 265,238 Add/(deduct): Interest expense 185 611 954 1,750 Income taxes 65,523 41,037 (16,020) 90,540 Depreciation 21,308 33,200 49 54,557 Amortization 104 10,180 - 10,284 EBITDA 291,129 220,521 (89,281) 422,369 Add/(deduct): Intercompany interest expense/(income) (22,455) (16,245) 38,700 - Interest income (334) (77) (8,335) (8,746) Stock option expense - - 32,671 32,671 Long-term incentive compensation - - 5,625 5,625 Legal settlements 3,071 - - 3,071 Other 500 530 2,690 3,720 Adjusted EBITDA $ 271,911 $ 204,729 $ (17,930) $ 458,710 2024 Net income/(loss) $ 216,819 $ 160,046 $ (74,866) $ 301,999 Add/(deduct): Interest expense 171 431 1,178 1,780 Income taxes 67,414 48,510 (18,458) 97,466 Depreciation 20,362 32,452 50 52,864 Amortization 105 10,080 - 10,185 EBITDA 304,871 251,519 (92,096) 464,294 Add/(deduct): Intercompany interest expense/(income) (20,211) (14,397) 34,608 - Interest income (224) (69) (14,317) (14,610) Stock option expense - - 32,033 32,033 Long-term incentive compensation - - 20,152 20,152 Acquisition expense 1,099 34 - 1,133 Adjusted EBITDA $ 285,535 $ 237,087 $ (19,620) $ 503,002 \ufeff The \"Footnotes to Financial Statements\" are integral parts of this financial information.",
+      "token_count": 369
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES RECONCILIATION OF ADJUSTED NET INCOME (in thousands, except per share data)(unaudited) \ufeff \ufeff \ufeff Three Months Ended December 31, For the Years Ended December 31, \ufeff 2025 2024 2025 2024 Net income as reported $ 76,751 $ 90,319 $ 265,238 $ 301,999 Add/(deduct) pre-tax cost of: Stock option expense 8,297 8,100 32,671 32,033 Amortization of reacquired franchise rights 2,352 2,352 9,408 9,408 Long-term incentive compensation 2,332 4,354 5,625 20,152 Legal settlements 221 - 3,071 - Acquisition expense - (206) - 1,133 Other 1,055 - 3,720 - Add/(deduct) tax impacts: Tax impact of the above pre-tax adjustments (1) (2,337) (2,333) (8,849) (9,095) Excess tax benefits on stock compensation 1,209 (133) 696 (4,442) Adjusted net income $ 89,880 $ 102,453 $ 311,580 $ 351,188 \ufeff Diluted Earnings Per Share As Reported Net income $ 5.48 $ 6.02 $ 18.34 $ 19.89 Average number of shares outstanding 14,010 14,992 14,460 15,186 \ufeff Adjusted Diluted Earnings Per Share Adjusted net income $ 6.42 $ 6.83 $ 21.55 $ 23.13 Average number of shares outstanding 14,010 14,992 14,460 15,186 \ufeff (1) The tax impact of pre-tax adjustments was calculated using the effective tax rate of the operating unit for which each adjustment is associated. \ufeff The \"Footnotes to Financial Statements\" are integral parts of this financial information.",
+      "token_count": 340
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) The tax impact of pre-tax adjustments was calculated using the effective tax rate of the operating unit for which each adjustment is associated.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES OPERATING STATISTICS FOR VITAS SEGMENT (unaudited) \ufeff Three Months Ended December 31, For the Years Ended December 31, OPERATING STATISTICS 2025 2024 2025 2024 Net revenue ($000) (c) Homecare $ 372,480 $ 358,507 $ 1,444,494 $ 1,326,488 Inpatient 32,903 31,307 133,048 120,604 Continuous care 18,438 25,451 86,661 99,746 Other 6,029 5,556 22,926 19,455 Subtotal $ 429,850 $ 420,821 $ 1,687,129 $ 1,566,293 Room and board, net (4,285) (3,867) (15,562) (13,304) Contractual allowances (4,430) (3,521) (14,305) (13,597) Medicare cap allowance (2,375) (2,425) (27,161) (8,414) Net Revenue $ 418,760 $ 411,008 $ 1,630,101 $ 1,530,978 Net revenue as a percent of total before Medicare cap allowance Homecare 86.7 % 85.2 % 85.6 % 84.7 % Inpatient 7.7 7.4 7.9 7.7 Continuous care 4.3 6.0 5.1 6.4 Other 1.3 1.4 1.4 1.2 Subtotal 100.0 100.0 100.0 100.0 Room and board, net (0.9) (0.9) (0.9) (0.8) Contractual allowances (1.0) (0.8) (0.9) (0.9) Medicare cap allowance (0.6) (0.6) (1.6) (0.5) Net Revenue 97.5 % 97.7 % 96.6 % 97.8 % Days of care Homecare 1,705,085 1,656,206 6,685,968 6,277,961 Nursing home 305,331 322,713 1,228,789 1,230,726 Respite 11,602 11,155 45,221 37,961 Subtotal routine homecare and respite 2,022,018 1,990,074 7,959,978 7,546,648 Inpatient 27,444 27,235 113,891 106,299 Continuous care 17,063 23,189 79,639 95,524 Total 2,066,525 2,040,498 8,153,508 7,748,471 \ufeff Number of days in relevant time period 92 92 365 366 Average daily census (\"ADC\") (days) Homecare 18,533 18,002 18,318 17,153 Nursing home 3,319 3,508 3,367 3,363 Respite 126 121 123 104 Subtotal routine homecare and respite 21,978 21,631 21,808 20,620 Inpatient 298 296 312 290 Continuous care 186 252 218 261 Total 22,462 22,179 22,338 21,171 \ufeff Total Admissions 17,419 16,427 70,817 67,447 Total Discharges 17,599 16,333 70,530 64,618 Average length of stay (days) 115.1 105.5 120.2 103.0 Median length of stay (days) 17.0 18.0 18.0 17.0 \ufeff ADC by major diagnosis Cerebro 44.3 % 44.2 % 44.6 % 44.0 % Neurological 11.4 12.9 11.7 13.2 Cancer 10.0 9.9 9.8 10.0 Cardio 16.0 16.2 16.0 16.2 Respiratory 7.6 6.9 7.4 7.1 Other 10.7 9.9 10.5 9.5 Total 100.0 % 100.0 % 100.0 % 100.0 % Admissions by major diagnosis Cerebro 27.3 % 28.0 % 27.4 % 27.8 % Neurological 6.8 7.0 6.9 7.6 Cancer 26.4 25.9 26.0 25.3 Cardio 14.6 15.3 14.7 15.6 Respiratory 10.8 9.8 10.9 9.9 Other 14.1 14.0 14.1 13.8 Total 100.0 % 100.0 % 100.0 % 100.0 % \ufeff Estimated uncollectible accounts as a percent of revenues 1.1 % 0.9 % 1.0 % 0.9 % \ufeff Accounts receivable -- Days of revenue outstanding-excluding unapplied Medicare payments 38.7 40.0 n.a. n.a. Days of revenue outstanding-including unapplied Medicare payments 28.9 28.5 n.a. n.a.",
+      "token_count": 682
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\ufeff CHEMED CORP CORPORATION AND SUBSIDIARY COMPANIES FOOTNOTES TO FINANCIAL STATEMENTS FOR THE THREE MONTHS AND YEARS ENDED DECEMBER 31, 2025 AND 2024 (unaudited) \ufeff (a) Included in the results of operations for 2025 are the following significant credits/(charges) which may not be indicative of ongoing operations \ufeff (in thousands): \ufeff Three Months Ended December 31, 2025 \ufeff VITAS Roto-Rooter Corporate Consolidated \ufeff \ufeff Stock option expense $ - $ - $ (8,297) $ (8,297) \ufeff Amortization of reacquired franchise agreements - (2,352) - (2,352) \ufeff Long-term incentive compensation - - (2,332) (2,332) \ufeff Legal settlements (221) - - (221) \ufeff Other (500) (530) (25) (1,055) \ufeff Pretax impact on earnings (721) (2,882) (10,654) (14,257) \ufeff Excess tax benefits on stock compensation - - (1,209) (1,209) \ufeff Income tax benefit on the above 170 679 1,488 2,337 \ufeff After-tax impact on earnings $ (551) $ (2,203) $ (10,375) $ (13,129) \ufeff \ufeff For the Years Ended December 31, 2025 \ufeff VITAS Roto-Rooter Corporate Consolidated \ufeff \ufeff Stock option expense $ - $ - $ (32,671) $ (32,671) \ufeff Amortization of reacquired franchise agreements - (9,408) - (9,408) \ufeff Long-term incentive compensation - - (5,625) (5,625) \ufeff Legal settlements (3,071) - - (3,071) \ufeff Other (500) (530) (2,690) (3,720) \ufeff Pretax impact on earnings (3,571) (9,938) (40,986) (54,495) \ufeff Excess tax benefits on stock compensation - - (696) (696) \ufeff Income tax benefit on the above 868 2,316 5,665 8,849 \ufeff After-tax impact on earnings $ (2,703) $ (7,622) $ (36,017) $ (46,342) \ufeff",
+      "token_count": 375
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Included in the results of operations for 2025 are the following significant credits/(charges) which may not be indicative of ongoing operations",
+      "token_count": 36
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Included in the results of operations for 2024 are the following significant credits/(charges) which may not be indicative of ongoing operations",
+      "token_count": 36
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended December 31, 2024",
+      "token_count": 9
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For the Years Ended December 31, 2024",
+      "token_count": 10
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "VITAS has 12 large (greater than 450 ADC), 23 medium (greater than 200 but less than 450 ADC) and 24 small (less than 200 ADC) hospice programs. Of Vitas' 33 Medicare provider numbers, for the current cap year, 22 provider numbers have a Medicare cap cushion of greater than 10%, six provider numbers have a Medicare cap cushion between 0% and 10%, and five provider numbers have a Medicare cap liability.",
+      "token_count": 102
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.000984,
+    "ret_20d": 0.069769,
+    "market_ret_20d": -0.003364
+  },
+  "outcome_blind": true
+}

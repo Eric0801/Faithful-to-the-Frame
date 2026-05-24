@@ -1,0 +1,523 @@
+{
+  "event_id": "evt_0078",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AAR CORP",
+  "ticker": "AIR",
+  "company_alias": "AAR CORP",
+  "masked_company": "Company AM",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-03-24",
+  "accepted_at_et": "2026-03-24T16:36:53-04:00",
+  "source_packet_path": "source_packets/evt_0078.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Wood Dale, Illinois, 2026-03-24T16:36:53-04:00 \u2014 AAR CORP.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Wood Dale, Illinois, 2026-03-24T16:36:53-04:00 \u2014 AAR CORP. (NYSE:AIR), a leading provider of aviation services to commercial and government operators, MROs, and OEMs, reported today financial results for the fiscal year 2026 third quarter ended February 28, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "Sales of $845 million; increased 25%",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Sales of $845 million; increased 25%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted diluted EPS of $1.25; increased 26%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Adjusted diluted EPS of $1.25; increased 26%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "margins",
+      "claim": "Adjusted EBITDA of $102 million; increased 26%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Adjusted EBITDA of $102 million; increased 26%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "margins",
+      "claim": "Adjusted EBITDA margin increased to 12.1% from 12.0%",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Adjusted EBITDA margin increased to 12.1% from 12.0%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u201cAAR CORP delivered another outstanding quarter, continuing our momentum.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cAAR CORP delivered another outstanding quarter, continuing our momentum. Total sales were up 25%, including 14% organic adjusted sales growth,\u201d stated John M. Holmes, AAR CORP\u2019s Chairman, President and CEO. \u201cWe saw growth across each of our parts, repair, and software platfor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u201cOur continued strong revenue growth translated to an adjusted EBITDA increase of 26% in the quarter, and we expanded our adjusted EBITDA margins from 12.0% to 12.1% year over year.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cOur continued strong revenue growth translated to an adjusted EBITDA increase of 26% in the quarter, and we expanded our adjusted EBITDA margins from 12.0% to 12.1% year over year. We expect continued margin expansion as we shift our sales mix to higher margin offerings as we...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "\u201cRegarding acquisitions, the execution of our integration and performance improvement plan for HAECO Americas is progressing well and is ahead of schedule.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cRegarding acquisitions, the execution of our integration and performance improvement plan for HAECO Americas is progressing well and is ahead of schedule. Furthermore, our acquisition of ADI is exceeding our expectations, and we continue to find new opportunities for growth,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u201cWe also made solid progress with respect to our leverage.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u201cWe also made solid progress with respect to our leverage. Cash from operations was $75 million in the quarter, which helped us to reduce net leverage to 2.17x. We are now comfortably within our target range of 2.0x to 2.5x, giving us flexibility to continue funding our strate...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "Holmes concluded, \u201cWe see significant opportunity for continued profitable growth ahead, supported by resilient and growing demand for our aviation aftermarket solutions.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Holmes concluded, \u201cWe see significant opportunity for continued profitable growth ahead, supported by resilient and growing demand for our aviation aftermarket solutions. We are closely following the conflict in the Middle East and are in constant contact with our customers. F...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "Commenced exclusive distribution agreement with TRIUMPH for its actuation power line on Boeing and Airbus commercial platforms",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Commenced exclusive distribution agreement with TRIUMPH for its actuation power line on Boeing and Airbus commercial platforms",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Recently awarded new multi-year contracts with the U.S.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Recently awarded new multi-year contracts with the U.S. AAR CORP Force to repair and build new pallets at our Mobility Systems location worth up to $450 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "Completed Oklahoma City Airframe MRO facility expansion, inducted first aircraft in early March",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Completed Oklahoma City Airframe MRO facility expansion, inducted first aircraft in early March",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "Trax signed a multi-year contract expansion with AAR CORP Atlanta Icelandic to add eMobility and cloud hosting solutions to its current eMRO platform offering",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Trax signed a multi-year contract expansion with AAR CORP Atlanta Icelandic to add eMobility and cloud hosting solutions to its current eMRO platform offering",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "Signed a new agreement with Otto Instrument Service to distribute the LASEREF IV inertial reference system product line, further broadening our new parts Distribution activities in the business aviation market",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Signed a new agreement with Otto Instrument Service to distribute the LASEREF IV inertial reference system product line, further broadening our new parts Distribution activities in the business aviation market",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Consolidated third quarter sales increased 25% to $845.1 million, compared to $678.2 million in the same quarter last year.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Consolidated third quarter sales increased 25% to $845.1 million, compared to $678.2 million in the same quarter last year. Sales to commercial customers increased 27%, or $130 million, primarily due to double-digit organic growth across new parts Distribution within the Compa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "The Company reported net income of $68.0 million, or $1.71 per diluted share.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "The Company reported net income of $68.0 million, or $1.71 per diluted share. For the third quarter of the prior year, the Company reported a net loss of $8.9 million, or $0.25 per share. The prior year quarter included a pre-tax charge of $63.7 million associated with the div...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "costs_or_expenses",
+      "claim": "Selling, general, and administrative expenses were $89.8 million in the current quarter, compared to $61.3 million in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Selling, general, and administrative expenses were $89.8 million in the current quarter, compared to $61.3 million in the prior year quarter. The prior year quarter included the reversal of a legal charge of $11.1 million related to a Russian court judgment, which we successfu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "margins",
+      "claim": "Operating margins were 7.8% in the quarter, compared to 10.5% in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Operating margins were 7.8% in the quarter, compared to 10.5% in the prior year quarter. Adjusted operating margin increased to 10.2% in the current year quarter from 9.7% in the prior year quarter, primarily as a result of increased volume and profitability in the Company\u2019s n...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "costs_or_expenses",
+      "claim": "Net interest expense for the quarter was $17.1 million, compared to $18.1 million last year.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Net interest expense for the quarter was $17.1 million, compared to $18.1 million last year. Average diluted share count increased from 35.4 million shares in the prior year quarter to 39.5 million shares in the current year quarter primarily due to the Company\u2019s equity offeri...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash flow provided by operating activities was $74.7 million during the current quarter, compared to cash used in operating activities of $18.7 million in the prior year quarter.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Cash flow provided by operating activities was $74.7 million during the current quarter, compared to cash used in operating activities of $18.7 million in the prior year quarter. As of February 28, 2026, net debt was $816.5 million and net leverage was 2.17x.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "1 Organic sales growth reflects growth from prior year adjusted organic sales for the relevant period, which excludes Landing Gear sales and impact of acquisitions completed in FY2026.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "1 Organic sales growth reflects growth from prior year adjusted organic sales for the relevant period, which excludes Landing Gear sales and impact of acquisitions completed in FY2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "AAR CORP is a global aerospace and defense aftermarket solutions company with operations in over 20 countries.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "AAR CORP is a global aerospace and defense aftermarket solutions company with operations in over 20 countries. Headquartered in the Chicago area, AAR CORP supports commercial and government customers through four operating segments: Parts Supply, Repair & Engineering, Integrat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "Condensed consolidated statements of operations (In millions except per share data - unaudited)",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Condensed consolidated statements of operations (In millions except per share data - unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "Gain (Loss) related to sale and exit of businesses, net",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Gain (Loss) related to sale and exit of businesses, net",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "balance_sheet_or_cash",
+      "claim": "Short-term borrowings (repayments) on Revolving Credit Facility, net",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Short-term borrowings (repayments) on Revolving Credit Facility, net",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash at end of period",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash at end of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Adjusted net income, adjusted diluted earnings per share, organic adjusted sales growth, adjusted operating margin, adjusted cash flow used in operating activities, adjusted EBITDA, adjusted EBITDA margin, net debt, and net debt to adjusted EBITDA (net leverage) are \u201cnon-GAAP financial measures\u201d as defined in Regulation G of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d).",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Adjusted net income, adjusted diluted earnings per share, organic adjusted sales growth, adjusted operating margin, adjusted cash flow used in operating activities, adjusted EBITDA, adjusted EBITDA margin, net debt, and net debt to adjusted EBITDA (net leverage) are \u201cnon-GAAP...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "Costs associated with U.S.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Costs associated with U.S. Foreign Corrupt Practices Act (\u201cFCPA\u201d) matters that we self-reported to the U.S. Department of Justice and other agencies, including investigation costs and settlement charges.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "costs_or_expenses",
+      "claim": "Expenses associated with recent acquisition activity, including professional fees for legal, due diligence, and other acquisition activities, intangible asset amortization (including amortization of favorable lease assets classified within operating lease right-of-use assets), integration costs, bargain purchase gains, and compensation expense related to contingent consideration and retention agreements.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Expenses associated with recent acquisition activity, including professional fees for legal, due diligence, and other acquisition activities, intangible asset amortization (including amortization of favorable lease assets classified within operating lease right-of-use assets),...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "Legal judgments and reversals related to or impacted by the Russia/Ukraine conflict.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Legal judgments and reversals related to or impacted by the Russia/Ukraine conflict.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "costs_or_expenses",
+      "claim": "Contract termination costs and benefits are comprised of gains and losses that are recognized at the time of modifying, terminating, or restructuring certain customer and vendor contracts, including the impact from the U.S.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Contract termination costs and benefits are comprised of gains and losses that are recognized at the time of modifying, terminating, or restructuring certain customer and vendor contracts, including the impact from the U.S. government exercising their termination for convenien...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Losses related to our exit from our Indian joint venture, our Landing Gear Overhaul business, and our Composites manufacturing business, including legal fees for the performance guarantee associated with the Composites\u2019 A220 aircraft contract.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Losses related to our exit from our Indian joint venture, our Landing Gear Overhaul business, and our Composites manufacturing business, including legal fees for the performance guarantee associated with the Composites\u2019 A220 aircraft contract.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted EBITDA is net income before interest income (expense), other income (expense), income taxes, depreciation and amortization, stock-based compensation, and items of an unusual nature including but not limited to business divestitures and acquisitions, FCPA settlement and investigation costs, certain legal judgments, acquisition, integration, and amortization expenses from recent acquisition activity, headquarters relocation activity, product line exits, and significant customer contract terminations.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Adjusted EBITDA is net income before interest income (expense), other income (expense), income taxes, depreciation and amortization, stock-based compensation, and items of an unusual nature including but not limited to business divestitures and acquisitions, FCPA settlement an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "The Company is not providing a reconciliation of forward-looking financial measures to the most directly comparable forward-looking GAAP measure because the information is not available without unreasonable effort.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "The Company is not providing a reconciliation of forward-looking financial measures to the most directly comparable forward-looking GAAP measure because the information is not available without unreasonable effort. This is due to the inherent difficulty of forecasting the timi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "Pursuant to the requirements of Regulation G of the Exchange Act, we are providing the following tables that reconcile the above-mentioned non-GAAP financial measures to the most directly comparable GAAP financial measures:",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Pursuant to the requirements of Regulation G of the Exchange Act, we are providing the following tables that reconcile the above-mentioned non-GAAP financial measures to the most directly comparable GAAP financial measures:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "Loss (Gain) related to sale of business/joint venture, net",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Loss (Gain) related to sale of business/joint venture, net",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "Calculation uses estimated statutory tax rates on non-GAAP adjustments except for the impact of the non-deductible portion of the FCPA settlement charge.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Calculation uses estimated statutory tax rates on non-GAAP adjustments except for the impact of the non-deductible portion of the FCPA settlement charge.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Organic adjusted sales growth for the three months ended February 28, 2026",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Organic adjusted sales growth for the three months ended February 28, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "margins",
+      "claim": "Adjusted EBITDA for the year ended May 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Adjusted EBITDA for the year ended May 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "margins",
+      "claim": "Less: Adjusted EBITDA for the nine months ended February 28, 2025",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Less: Adjusted EBITDA for the nine months ended February 28, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "margins",
+      "claim": "Plus: Adjusted EBITDA for the nine months ended February 28, 2026",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Plus: Adjusted EBITDA for the nine months ended February 28, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "margins",
+      "claim": "Adjusted EBITDA for the twelve months ended February 28, 2026",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Adjusted EBITDA for the twelve months ended February 28, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.008735, ret_20d=-0.088365, market_ret_20d=-0.047117",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.008735, ret_20d=-0.088365, market_ret_20d=-0.047117",
+      "support_label": "supported"
+    }
+  ]
+}

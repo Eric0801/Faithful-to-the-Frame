@@ -1,0 +1,600 @@
+{
+  "event_id": "evt_0044",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ANALOG DEVICES INC",
+  "ticker": "ADI",
+  "company_alias": "ANALOG DEVICES INC",
+  "masked_company": "Company BJ",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-18",
+  "accepted_at_et": "2026-02-18T07:02:27-05:00",
+  "source_packet_path": "source_packets/evt_0044.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "\u2022 Revenue of $3.16 billion, with year-over-year growth across all end markets, led by Industrial and Communications",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Revenue of $3.16 billion, with year-over-year growth across all end markets, led by Industrial and Communications",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\u2022 Operating cash flow of $5.1 billion and free cash flow of $4.6 billion on a trailing twelve-month basis or 43% and 39% of revenue, respectively",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Operating cash flow of $5.1 billion and free cash flow of $4.6 billion on a trailing twelve-month basis or 43% and 39% of revenue, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "\u2022 Returned $1.0 billion to shareholders via dividends and share repurchases in the first quarter",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Returned $1.0 billion to shareholders via dividends and share repurchases in the first quarter",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "\u2022 Raised quarterly dividend 11% to $1.10, marking twenty-two consecutive years of increases",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Raised quarterly dividend 11% to $1.10, marking twenty-two consecutive years of increases",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "WILMINGTON, Mass.--2026-02-18T07:02:27-05:00 --ANALOG DEVICES INC.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "WILMINGTON, Mass.--2026-02-18T07:02:27-05:00 --ANALOG DEVICES INC. (Nasdaq:ADI), a global semiconductor leader, today announced financial results for its fiscal first quarter 2026, which ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u201cANALOG DEVICES INC\u2019s robust first quarter built upon the strong position and momentum with which we entered the year,\u201d said CEO and Chair.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cANALOG DEVICES INC\u2019s robust first quarter built upon the strong position and momentum with which we entered the year,\u201d said CEO and Chair. \u201cOur success continues to be the result of relentless innovation to solve our customers toughest problems and deliver enduring business i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u201cDuring our first quarter, bookings growth continued, driven by broad strength in Industrial and record orders for our Data Center segment.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cDuring our first quarter, bookings growth continued, driven by broad strength in Industrial and record orders for our Data Center segment. While the macro and geopolitical backdrop remains challenging, our revenue outlook for the second quarter reflects a new high watermark f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "Performance for the First Quarter of Fiscal 2026",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Performance for the First Quarter of Fiscal 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Results Summary (1) (in millions, except per-share amounts and percentages) Three Months Ended Jan.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Results Summary (1) (in millions, except per-share amounts and percentages) Three Months Ended Jan. 31, 2026 Feb. 1, 2025 Change Revenue $ 3,160 $ 2,423 30 % Gross margin $ 2,045 $ 1,430 43 % Gross margin percentage 64.7 % 59.0 % 570 bps Operating income $ 997 $ 491 103 % Oper...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "(2) Reconciliations of non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this press release.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "(2) Reconciliations of non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this press release. See also the \u201cNon-GAAP Financial Information\u201d section for additional information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "For the second quarter of fiscal 2026, we are forecasting revenue of $3.5 billion, +/- $100 million.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "For the second quarter of fiscal 2026, we are forecasting revenue of $3.5 billion, +/- $100 million. At the midpoint of this revenue outlook, we expect reported operating margin of approximately 36.4%, +/-150 bps, and adjusted operating margin of approximately 47.5%, +/-100 bp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "The adjusted results and adjusted anticipated results above are financial measures presented on a non-GAAP basis.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "The adjusted results and adjusted anticipated results above are financial measures presented on a non-GAAP basis. Reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in thi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "The ANALOG DEVICES INC Board of Directors has declared a quarterly cash dividend of $1.10 per outstanding share of common stock.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "The ANALOG DEVICES INC Board of Directors has declared a quarterly cash dividend of $1.10 per outstanding share of common stock. The dividend will be paid on March 17, 2026 to all shareholders of record at the close of business on March 3, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "This release includes non-GAAP financial measures that are not in accordance with, nor an alternative to, U.S.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "This release includes non-GAAP financial measures that are not in accordance with, nor an alternative to, U.S. generally accepted accounting principles (GAAP) and may be different from non-GAAP measures presented by other companies. In addition, these non-GAAP measures are not...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "Management uses non-GAAP measures internally to evaluate the Company\u2019s operating performance from continuing operations against past periods and to budget and allocate resources in future periods.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Management uses non-GAAP measures internally to evaluate the Company\u2019s operating performance from continuing operations against past periods and to budget and allocate resources in future periods. These non-GAAP measures also assist management in evaluating the Company\u2019s core...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "useful to investors because it provides investors with the operating results that management uses to manage the Company and enables investors and analysts to evaluate the Company\u2019s core business.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "useful to investors because it provides investors with the operating results that management uses to manage the Company and enables investors and analysts to evaluate the Company\u2019s core business. Management also believes that free cash flow, a non-GAAP liquidity measure, is us...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "The non-GAAP financial measures referenced by ANALOG DEVICES INC in this release include: adjusted gross margin, adjusted gross margin percentage, adjusted operating expenses, adjusted operating expenses percentage, adjusted operating income, adjusted operating margin, adjusted nonoperating expense (income), adjusted income before income taxes, adjusted provision for income taxes, adjusted tax rate, adjusted diluted earnings per share (EPS), free cash flow, and free cash flow revenue percentage.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "The non-GAAP financial measures referenced by ANALOG DEVICES INC in this release include: adjusted gross margin, adjusted gross margin percentage, adjusted operating expenses, adjusted operating expenses percentage, adjusted operating income, adjusted operating margin, adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "Adjusted gross margin is defined as gross margin, determined in accordance with GAAP, excluding: certain acquisition related expenses 1 , which are described further below .",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Adjusted gross margin is defined as gross margin, determined in accordance with GAAP, excluding: certain acquisition related expenses 1 , which are described further below . Adjusted gross margin percentage represents adjusted gross margin divided by revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "Adjusted operating expenses is defined as operating expenses, determined in accordance with GAAP, excluding: certain acquisition related expenses 1 and special charges, net 2 , which are described further below.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Adjusted operating expenses is defined as operating expenses, determined in accordance with GAAP, excluding: certain acquisition related expenses 1 and special charges, net 2 , which are described further below. Adjusted operating expenses percentage represents adjusted operat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "Adjusted operating income is defined as operating income, determined in accordance with GAAP, excluding: acquisition related expenses 1 and special charges, net 2 , which are described further below.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Adjusted operating income is defined as operating income, determined in accordance with GAAP, excluding: acquisition related expenses 1 and special charges, net 2 , which are described further below. Adjusted operating margin represents adjusted operating income divided by rev...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "Adjusted nonoperating expense (income) is defined as nonoperating expense (income), determined in accordance with GAAP, excluding: certain acquisition related expenses 1 , which is described further below.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Adjusted nonoperating expense (income) is defined as nonoperating expense (income), determined in accordance with GAAP, excluding: certain acquisition related expenses 1 , which is described further below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "Adjusted income before income taxes is defined as income before income taxes, determined in accordance with GAAP, excluding: acquisition related expenses 1 and s pecial charges, net 2 , which are described further below.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Adjusted income before income taxes is defined as income before income taxes, determined in accordance with GAAP, excluding: acquisition related expenses 1 and s pecial charges, net 2 , which are described further below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "Adjusted provision for income taxes is defined as provision for income taxes, determined in accordance with GAAP, excluding tax related items 3 , which are described further below.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Adjusted provision for income taxes is defined as provision for income taxes, determined in accordance with GAAP, excluding tax related items 3 , which are described further below. Adjusted tax rate represents adjusted provision for income taxes divided by adjusted income befo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "Adjusted diluted EPS is defined as diluted EPS, determined in accordance with GAAP, excluding: acquisition related expenses 1 , special charges, net 2 , and tax related items 3 , which are described further below.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Adjusted diluted EPS is defined as diluted EPS, determined in accordance with GAAP, excluding: acquisition related expenses 1 , special charges, net 2 , and tax related items 3 , which are described further below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "Free cash flow is defined as net cash provided by operating activities, determined in accordance with GAAP, less additions to property, plant and equipment, net.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Free cash flow is defined as net cash provided by operating activities, determined in accordance with GAAP, less additions to property, plant and equipment, net. Free cash flow revenue percentage represents free cash flow divided by revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "1 Acquisition Related Expenses : Expenses incurred as a result of current and prior period acquisitions and primarily include expenses associated with the fair value adjustments to debt, property, plant and equipment and amortization of acquisition related intangibles, which include acquired intangibles such as purchased technology and customer relationships.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "1 Acquisition Related Expenses : Expenses incurred as a result of current and prior period acquisitions and primarily include expenses associated with the fair value adjustments to debt, property, plant and equipment and amortization of acquisition related intangibles, which i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "2 Special Charges, Net : Expenses, net, incurred in connection with facility closures, consolidation of manufacturing facilities, severance, other accelerated stock-based compensation expense and other cost reduction efforts or reorganizational initiatives.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "2 Special Charges, Net : Expenses, net, incurred in connection with facility closures, consolidation of manufacturing facilities, severance, other accelerated stock-based compensation expense and other cost reduction efforts or reorganizational initiatives. We excluded these e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "non-GAAP measures because apart from ongoing expense savings as a result of such items, these expenses have no direct correlation to the operation of our business in the future.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "non-GAAP measures because apart from ongoing expense savings as a result of such items, these expenses have no direct correlation to the operation of our business in the future.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "3 Tax Related Items: Income tax effect of the non-GAAP items discussed above.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "3 Tax Related Items: Income tax effect of the non-GAAP items discussed above. We excluded the income tax effect of these tax related items from our non-GAAP measures because they are not associated with the tax expense on our current operating results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "ANALOG DEVICES INC.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "ANALOG DEVICES INC. (NASDAQ:ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ANALOG DEVICES INC combines ANALOG DEVICES INC, digital, AI, and software technologies into solutions that combat cli...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "ANALOG DEVICES INC and the ANALOG DEVICES INC logo are registered trademarks or trademarks of ANALOG DEVICES INC.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "ANALOG DEVICES INC and the ANALOG DEVICES INC logo are registered trademarks or trademarks of ANALOG DEVICES INC. All other trademarks mentioned in this document are the property of their respective owners.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Three Months Ended Jan.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Three Months Ended Jan. 31, 2026 Feb. 1, 2025 Revenue $ 3,160,263 $ 2,423,174 Cost of sales 1,115,287 992,871 Gross margin 2,044,976 1,430,303 Operating expenses: Research and development 467,400 402,892 Selling, marketing, general and administrative 345,253 284,796 Amortizati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "Jan.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Jan. 31, 2026 Nov. 1, 2025 ASSETS Current Assets Cash and cash equivalents $ 2,905,860 $ 2,499,406 Short-term investments 1,142,987 1,152,915 Accounts receivable 1,360,184 1,436,075 Inventories 1,767,104 1,656,323 Prepaid expenses and other current assets 426,391 363,342 Total...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Jan.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Three Months Ended Jan. 31, 2026 Feb. 1, 2025 Cash flows from operating activities: Net income $ 830,826 $ 391,316 Adjustments to reconcile net income to net cash provided by operations: Depreciation 105,886 98,447 Amortization of intangibles 384,615 417,156 Stock-based compen...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the \u201csold to\u201d customer information, the \u201cship to\u201d customer information and the end customer product or application into which our product will be incorporated.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the \u201csold to\u201d customer information, the \u201cship to\u201d customer information and the end customer product or application into which our pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, 2026 February 1, 2025 Revenue % of Revenue 1 Y/Y% Revenue % of Revenue 1 Industrial $ 1,489,256 47% 38% $ 1,080,650 45% Automotive 794,402 25% 8% 735,646 30% Communications 476,797 15% 63% 292,186 12% Consumer 399,808 13% 27% 314,692 13% Total revenue $ 3,160,263 100% 30% $ 2,423,174 100% 1) The sum of the individual percentages may not equal the total due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Three Months Ended January 31, 2026 February 1, 2025 Revenue % of Revenue 1 Y/Y% Revenue % of Revenue 1 Industrial $ 1,489,256 47% 38% $ 1,080,650 45% Automotive 794,402 25% 8% 735,646 30% Communications 476,797 15% 63% 292,186 12% Consumer 399,808 13% 27% 314,692 13% Total re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "Three Months Ended Jan.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Three Months Ended Jan. 31, 2026 Feb. 1, 2025 Gross margin $ 2,044,976 $ 1,430,303 Gross margin percentage 64.7 % 59.0 % Acquisition related expenses 204,748 237,832 Adjusted gross margin $ 2,249,724 $ 1,668,135 Adjusted gross margin percentage 71.2 % 68.8 % Operating expenses...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "* The sum of the individual per share amounts may not equal the total due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "* The sum of the individual per share amounts may not equal the total due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Trailing Twelve Months Three Months Ended Jan.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Trailing Twelve Months Three Months Ended Jan. 31, 2026 Jan. 31, 2026 Nov. 1, 2025 Aug. 2, 2025 May 3, 2025 Revenue $ 11,756,796 $ 3,160,263 $ 3,076,117 $ 2,880,348 $ 2,640,068 Net cash provided by operating activities $ 5,053,908 $ 1,368,515 $ 1,700,810 $ 1,165,105 $ 819,478...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "Three Months Ending May 2, 2026 Reported Adjusted Revenue $3.5 Billion $3.5 Billion (+/- $100 Million) (+/- $100 Million) Operating margin 36.4% 47.5% (1) (+/-150 bps) (+/-100 bps) Tax rate 11% - 13% 11% - 13% (2) Earnings per share $2.19 $2.88 (3) (+/- $0.15) (+/- $0.15)",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Three Months Ending May 2, 2026 Reported Adjusted Revenue $3.5 Billion $3.5 Billion (+/- $100 Million) (+/- $100 Million) Operating margin 36.4% 47.5% (1) (+/-150 bps) (+/-100 bps) Tax rate 11% - 13% 11% - 13% (2) Earnings per share $2.19 $2.88 (3) (+/- $0.15) (+/- $0.15)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "costs_or_expenses",
+      "claim": "(1) Includes $391 million of adjustments related to acquisition related expenses as previously defined in the Non-GAAP Financial Information section of this press release.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "(1) Includes $391 million of adjustments related to acquisition related expenses as previously defined in the Non-GAAP Financial Information section of this press release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "(2) Includes $51 million of tax effects associated with the adjustment for acquisition related expenses noted above.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "(2) Includes $51 million of tax effects associated with the adjustment for acquisition related expenses noted above.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "costs_or_expenses",
+      "claim": "(3) Includes $0.69 of adjustments related to the net impact of acquisition related expenses and the tax effects on those items.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(3) Includes $0.69 of adjustments related to the net impact of acquisition related expenses and the tax effects on those items.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q1: 3160263000",
+      "value": 3160263000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q1: 3160263000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for 2026Q1: 2044976000",
+      "value": 2044976000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for 2026Q1: 2044976000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q1: 997026000",
+      "value": 997026000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q1: 997026000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "other",
+      "claim": "OperatingExpenses reported for 2026Q1: 1047950000",
+      "value": 1047950000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "OperatingExpenses reported for 2026Q1: 1047950000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q1: 830826000",
+      "value": 830826000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q1: 830826000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q1: 1.69",
+      "value": 1.69,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q1: 1.69",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q1: 1.7",
+      "value": 1.7,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q1: 1.7",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 2905860000",
+      "value": 2905860000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 2905860000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 1368515000",
+      "value": 1368515000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 1368515000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.04502, ret_20d=0.124097, market_ret_20d=-0.012737",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.04502, ret_20d=0.124097, market_ret_20d=-0.012737",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "event_id": "evt_0014",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CARRIER GLOBAL Corp",
+  "ticker": "CARR",
+  "company_alias": "CARRIER GLOBAL Corp",
+  "masked_company": "Company AO",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-05",
+  "filing_metadata": {
+    "cik": "1783180",
+    "accession_number": "0001783180-26-000005",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-05T01:56:04-05:00",
+    "event_date": "2026-02-05",
+    "after_close": false,
+    "items": [
+      "2.02"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net sales down 6%; organic sales down 9%",
+      "token_count": 11
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP EPS from continuing operations of $0.03 and adjusted EPS of $0.34",
+      "token_count": 18
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Net cash flows from operating activities were $1,040 million and free cash flow was $909 million",
+      "token_count": 25
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Sales of $21.75 billion, down 3% compared to 2024, organic sales down 1%",
+      "token_count": 19
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Global commercial HVAC 1 and aftermarket 1 up double-digits",
+      "token_count": 16
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP EPS from continuing operations of $1.69 and adjusted EPS of $2.59",
+      "token_count": 18
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating margin of 10.0% and adjusted operating margin of 15.1%",
+      "token_count": 17
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Returned ~$3.7 billion to shareholders, including ~$0.8 billion in dividends and ~$2.9 billion in share repurchases",
+      "token_count": 30
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "PALM BEACH GARDENS, Fla . , 2026-02-05T01:56:04-05:00 \u2013 CARRIER GLOBAL Corp Corporation (NYSE:CARR), global leader in intelligent climate and energy solutions, today reported financial results for the fourth quarter and full year of 2025.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "\u201cWe continue to drive outsized growth in commercial HVAC 1 with Q4 orders up nearly 50% driven by key data center wins and are well positioned to drive our sixth consecutive year of double-digit growth in this business in 2026. Our aftermarke t 1 playbook also continues to yield results, reflected in our fifth consecutive year of double-digit growth. We continue to control the controllables, reducing discretionary costs and building backlog in our long-cycle businesses to mitigate residential market challenges,\" said CARRIER GLOBAL Corp Chairman & CEO.",
+      "token_count": 138
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31 (In millions) 2025 2024 Change Net sales $ 4,837 $ 5,148 (6) % Organic sales (9) % Operating profit $ 101 $ 774 (87) % Operating margin 2.1 % 15.0 % (1,290) bps Adjusted operating profit $ 455 $ 678 (33) % Adjusted operating margin 9.4 % 13.2 % (380) bps Diluted earnings per share: Continuing operations $ 0.03 $ (0.05) (160) % Continuing operations - Adjusted $ 0.34 $ 0.54 (37) %",
+      "token_count": 107
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "CARRIER GLOBAL Corp\u2019s fourth quarter sales of $4.8 billion decreased 6% versus the prior year, with organic sales down 9%, partially offset by a 3% tailwind from foreign currency translation.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP operating profit of $101 million in the quarter declined 87% from last year reflecting the prior year gain from the sale of our commercial refrigeration business, weaker residential end-markets and distributor destocking in the Americas. This was partially offset by the continued strength in our global commercial HVAC and aftermarket businesses and operating efficiencies.",
+      "token_count": 95
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted operating profit of $455 million was down 33% primarily due to lower volume in our Climate Solutions Americas residential business, partially offset by profit growth in Climate Solutions Europe and Climate Solutions Transportation. Net earnings from continued operations were $28 million and adjusted net earnings from continuing operations were $285 million. GAAP EPS from continuing operations was $0.03 and adjusted EPS was $0.34. The declines versus the prior year were primarily driven by lower operating profit, partially offset by the benefit of a lower share count.",
+      "token_count": 146
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, (In millions) 2025 2024 Change Net sales $ 1,935 $ 2,341 (17) % Organic sales (17) % Segment operating profit $ 168 $ 435 (61) % Segment operating margin 8.7 % 18.6 % (990) bps",
+      "token_count": 55
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "CSA segment sales declined 17%. Organic sales were down 17% with continued strength in Commercial 1 , up double digits, more than offset by lower volumes in Residential, down 38%, and Light Commercial down 20%.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Segment operating margin declined 10 points, reflecting the significant volume decline in the Residential and Light Commercial businesses.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, (In millions) 2025 2024 Change Net sales $ 1,332 $ 1,252 6 % Organic sales (2) % Segment operating profit $ 120 $ 80 50 % Segment operating margin 9.0 % 6.4 % 260 bps",
+      "token_count": 53
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "CSE segment sales increased 6% . Organic sales were down 2% with Commercial up mid-single digits and Residential and Light Commercial down mid-single digits.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Segment operating margin increased over 250 basis points driven by strong productivity, including cost synergies, partially offset by lower organic sales and mix.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Climate Solutions Asia Pacific, Middle East & Africa (CSAME)",
+      "token_count": 15
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, (In millions) 2025 2024 Change Net sales $ 798 $ 874 (9) % Organic sales (9) % Segment operating profit $ 95 $ 95 \u2014 % Segment operating margin 11.9 % 10.9 % 100 bps",
+      "token_count": 52
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "CSAME segment sales declined 9%. Organic sales were down 9% mainly driven by Residential and Light Commercial (RLC) in China, partially offset by modest growth in the rest of Asia.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Segment operating margin increased 100 basis points driven by strong productivity partially offset by lower sales.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, (In millions) 2025 2024 Change Net sales $ 772 $ 681 13 % Organic sales 10 % Segment operating profit $ 112 $ 97 15 % Segment operating margin 14.5 % 14.2 % 30 bps",
+      "token_count": 52
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "CST sales increased 13%. Organic sales increased 10% with nearly 50% growth in Container and Global Truck and Trailer flat.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Segment operating margin increased 30 basis points largely due to organic growth and productivity, offset by business mix .",
+      "token_count": 31
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(Unaudited) (Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions) 2025 2024 2025 2024 Net cash flows provided by operating activities $ 1,040 $ 132 $ 2,513 $ 563 Less: Capital expenditures - continuing operations (131) (217) (392) (519) Less: Capital expenditures - discontinued operations \u2014 (4) \u2014 (14) Free cash flow $ 909 $ (89) $ 2,121 $ 30",
+      "token_count": 93
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net cash flows generated from operating activities were $1,040 million and capital expenditures were $131 million, resulting in free cash flow of $909 million.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CARRIER GLOBAL Corp expects continued double-digit growth in global commercial HVAC 1 and aftermarke t 1 with continued weakness in our Residential and Light Commercial businesses, particularly in the Americas. The full year guidance assumes the divestiture of Riello to conclude by the end of 1Q 2026 2 , reflecting a year-over-year headwind of ~$350 million sales and ~$0.03 adjusted EPS.",
+      "token_count": 96
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Flat to low-single-digit organic* growth; Reported sales flat to up LSD",
+      "token_count": 19
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Adjusted operating profit* of ~$3.4 billion",
+      "token_count": 12
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 ~$1.5 billion in share repurchases",
+      "token_count": 9
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "2 The closure of Riello is subject to regulatory approvals",
+      "token_count": 15
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "2026 Guidance Sales ~$22 billion ~$350 million revenue headwind from Riello exit Organic* flat to up LSD FX 1% Net, Acquisitions / Divestitures (1%) Adjusted Operating Profit* ~$3.4 billion Adjusted EPS* ~$2.80 Free Cash Flow* ~$2 billion",
+      "token_count": 60
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "*Note: When the company provides expectations for organic sales, adjusted operating profit, adjusted operating margin, adjusted EPS and free cash flow on a forward-looking basis, a reconciliation of the differences between the non-GAAP expectations and the corresponding GAAP measures generally is not available without unreasonable effort. See \u201cUse and Definitions of Non-GAAP Financial Measures\u201d below for additional information.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "CARRIER GLOBAL Corp Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure the safe transport of food, life-saving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the center of everything we do. For more information, visit www.CARRIER GLOBAL Corp.com or follow CARRIER GLOBAL Corp on social media at @CARRIER GLOBAL Corp.",
+      "token_count": 189
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Following are tables that present selected financial data of CARRIER GLOBAL Corp Corporation (\"CARRIER GLOBAL Corp\").",
+      "token_count": 25
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "As a result of CARRIER GLOBAL Corp's portfolio transformation, CARRIER GLOBAL Corp revised its reportable segments during the first quarter of 2025 to better reflect its business strategy, align its management reporting and increase transparency for investors. In connection with the revised structure, the Chief Operating Decision Maker changed the measure used to evaluate segment profitability from Operating profit to Segment operating profit. It represents operating profit (a measure prepared in accordance with accounting principles generally accepted in the United States (\"GAAP\")) adjusted to exclude restructuring costs, amortization of acquired intangible assets and other significant items of a nonoperational nature. All prior period comparative information has been recast to reflect the revised segment structure.",
+      "token_count": 203
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "CARRIER GLOBAL Corp reports its financial results in accordance with accounting principles generally accepted in the United States (\"GAAP\"). We supplement the reporting of our financial information determined under GAAP with certain non-GAAP financial information. The non-GAAP information presented provides investors with additional useful information, but should not be considered in isolation or as substitutes for the related GAAP measures. Moreover, other companies may define non-GAAP measures differently, which limits the usefulness of these measures for comparisons with such other companies. We encourage investors to review our financial statements and publicly filed reports in their entirety and not to rely on any single financial measure. A reconciliation of the non-GAAP measures to the corresponding amounts prepared in accordance with GAAP appears in the tables in this Appendix. The tables provide additional information as to the items and amounts that have been excluded from the adjusted measures.",
+      "token_count": 253
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Organic sales, adjusted operating profit, adjusted operating margin, adjusted earnings per share (\u201cEPS\u201d), adjusted effective tax rate and net debt are non-GAAP financial measures and are associated with CARRIER GLOBAL Corp's continuing operations unless specifically noted.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Organic sales represents consolidated net sales (a GAAP measure), excluding the impact of foreign currency translation, acquisitions and divestitures completed in the preceding twelve months and other significant items of a nonoperational nature (hereinafter referred to as \u201cother significant items\u201d). Adjusted operating profit represents consolidated operating profit (a GAAP measure), excluding restructuring costs, amortization of acquired intangibles and other significant items. Adjusted operating margin represents adjusted operating profit as a percentage of consolidated net sales (a GAAP measure). Adjusted EPS represents diluted earnings per share (a GAAP measure), excluding restructuring costs, amortization of acquired intangibles and other significant items. The adjusted effective tax rate represents the effective tax rate (a GAAP measure), excluding restructuring costs, amortization of acquired intangibles and other significant items. Net debt represents long-term debt (a GAAP measure) less cash and cash equivalents (a GAAP measure).",
+      "token_count": 264
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Free cash flow is a non-GAAP financial measure that represents net cash flows provided by continuing operating activities (a GAAP measure) less capital expenditures. Management believes free cash flow is a useful measure of liquidity and an additional basis for assessing CARRIER GLOBAL Corp\u2019s ability to fund its activities, including the financing of acquisitions, debt service, repurchases of CARRIER GLOBAL Corp's common stock and distribution of earnings to shareowners. Orders are contractual commitments with customers to provide specified goods or services for an agreed upon price and may not be subject to penalty if cancelled.",
+      "token_count": 155
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "When CARRIER GLOBAL Corp provides our expectations for organic sales, adjusted operating profit (including on a segment basis), adjusted operating margin (including on a segment basis), adjusted effective tax rate, adjusted EPS, free cash flor, and interest expense, net on a forward-looking basis, a reconciliation of the differences between the non-GAAP expectations and the corresponding GAAP measures generally is not available without unreasonable effort due to potentially high variability, complexity and low visibility as to the items that would be excluded from the GAAP measure in the relevant future period, such as unusual gains and losses, the ultimate outcome of pending litigation, fluctuations in foreign currency exchange rates, the impact and timing of potential acquisitions and divestitures, future restructuring costs, and other structural changes or their probable significance. The variability of the excluded items may have a significant, and potentially unpredictable, impact on our future GAAP results.",
+      "token_count": 255
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Consolidated Statement of Operations (Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions, except per share amounts) 2025 2024 2025 2024 Net sales Product sales $ 4,138 $ 4,530 $ 19,173 $ 19,990 Service sales 699 618 2,574 2,496 Total Net sales 4,837 5,148 21,747 22,486 Costs and expenses Cost of products sold (3,351) (3,335) (14,232) (14,580) Cost of services sold (525) (469) (1,891) (1,925) Research and development (160) (162) (625) (686) Selling, general and administrative (747) (803) (3,092) (3,197) Total Costs and expenses (4,783) (4,769) (19,840) (20,388) Equity method investment net earnings 47 44 229 231 Other income (expense), net \u2014 351 36 317 Operating profit 101 774 2,172 2,646 Non-service pension benefit (expense) (2) \u2014 (10) (1) Interest (expense) income, net (94) (81) (364) (371) Earnings before income taxes 5 693 1,798 2,274 Income tax (expense) benefit 32 (723) (240) (1,062) Earnings from continuing operations 37 (30) 1,558 1,212 Discontinued operations, net of tax 25 2,599 29 4,496 Net earnings (loss) 62 2,569 1,587 5,708 Less: Non-controlling interest in subsidiaries' 9 18 103 104 Net earnings (loss) attributable to common shareowners $ 53 $ 2,551 $ 1,484 $ 5,604 Amounts attributable to common shareowners: Continuing operations $ 28 $ (48) $ 1,455 $ 1,108 Discontinued operations 25 2,599 29 4,496 Net earnings (loss) attributable to common shareowners $ 53 $ 2,551 $ 1,484 $ 5,604 Earnings per share Basic: Continuing operations $ 0.03 $ (0.05) $ 1.71 $ 1.23 Discontinued operations 0.03 2.92 0.03 5.01 Net earnings (loss) $ 0.06 $ 2.87 $ 1.74 $ 6.24 Diluted: Continuing operations $ 0.03 $ (0.05) $ 1.69 $ 1.22 Discontinued operations 0.03 2.87 0.03 4.93 Net earnings (loss) $ 0.06 $ 2.82 $ 1.72 $ 6.15 Weighted-average number of shares outstanding Basic 839.2 890.1 852.4 898.2 Diluted 846.7 903.4 862.4 911.7",
+      "token_count": 470
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Consolidated Balance Sheet (Unaudited) As of December 31, (In millions) 2025 2024 Assets Cash and cash equivalents $ 1,555 $ 3,969 Accounts receivable, net 2,639 2,651 Inventories, net 2,483 2,299 Assets held for sale 592 \u2014 Other assets, current 1,264 972 Total current assets 8,533 9,891 Future income tax benefits 1,074 1,131 Fixed assets, net 3,165 2,999 Operating lease right-of-use assets 546 554 Intangible assets, net 6,326 6,432 Goodwill 15,501 14,601 Pension and post-retirement assets 56 43 Equity method investments 1,321 1,194 Other assets 668 558 Total Assets $ 37,190 $ 37,403 Liabilities and Equity Accounts payable $ 2,702 $ 2,458 Accrued liabilities 3,774 4,098 Liabilities held for sale 170 \u2014 Short-term borrowings and current portion of long-term debt 468 1,336 Total current liabilities 7,114 7,892 Long-term debt 11,365 11,026 Future pension and post-retirement obligations 192 214 Future income tax obligations 1,833 2,015 Operating lease liabilities 418 432 Other long-term liabilities 2,140 1,429 Total Liabilities 23,062 23,008 Equity Common stock, par value $0.01; 4,000,000,000 shares authorized; 950,633,287 and 948,068,772 shares issued; 836,141,122 and 878,337,677 outstanding as of December 31, 2025 and 2024, respectively 10 9 Treasury stock (6,795) (3,915) Additional paid-in capital 8,665 8,610 Retained earnings 12,193 11,483 Accumulated other comprehensive loss (269) (2,106) Non-controlling interest 324 314 Total Equity 14,128 14,395 Total Liabilities and Equity $ 37,190 $ 37,403",
+      "token_count": 380
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Common stock, par value $0.01; 4,000,000,000 shares authorized; 950,633,287 and 948,068,772 shares issued; 836,141,122 and 878,337,677 outstanding as of December 31, 2025 and 2024, respectively",
+      "token_count": 49
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions) 2025 2024 2025 2024 Operating Activities Net earnings (loss) $ 62 $ 2,569 $ 1,587 $ 5,708 Discontinued operations, net of tax (25) (2,599) (29) (4,496) Adjustments for non-cash items, net: Depreciation and amortization 329 318 1,274 1,232 Deferred income tax provision (85) (56) (401) (352) Stock-based compensation cost 19 21 74 86 Equity method investment net earnings (47) (44) (229) (231) (Gain) loss on extinguishment of debt \u2014 6 \u2014 (82) (Gain) loss on sale of investments / deconsolidation (15) (320) (32) (322) Changes in operating assets and liabilities Accounts receivable, net 392 95 (98) (40) Inventories, net 447 216 (81) 292 Accounts payable and accrued liabilities (389) 345 (219) 87 Distributions from equity method investments 96 10 201 46 Other operating activities, net 229 (198) 42 (357) Net cash flows provided by (used in) continuing operating activities 1,013 363 2,089 1,571 Net cash flows provided by (used in) discontinued operating activities 27 (231) 424 (1,008) Net cash flows provided by (used in) operating activities 1,040 132 2,513 563 Investing Activities Capital expenditures (131) (217) (392) (519) Investment in businesses, net of cash acquired (15) (17) (107) (10,890) Dispositions of businesses 19 634 27 634 Settlement of derivative contracts, net (15) (77) 105 (264) Other investing activities, net 31 (17) 24 14 Net cash flows provided by (used in) continuing investing activities (111) 306 (343) (11,025) Net cash flows provided by (used in) discontinued investing activities 1 2,783 36 9,000 Net cash flows provided by (used in) investing activities (110) 3,089 (307) (2,025) Financing Activities (Decrease) increase in short-term borrowings, net (112) 13 275 50 Issuance of long-term debt 16 826 48 3,412 Repayment of long-term debt (3) (815) (1,212) (5,345) Repurchases of common stock (479) (1,513) (2,892) (1,944) Dividends paid on common stock (189) (156) (772) (670) Dividends paid to non-controlling interest (20) (12) (101) (84) Other financing activities, net \u2014 (15) (18) (30) Net cash flows provided by (used in) continuing financing activities (787) (1,672) (4,672) (4,611) Net cash flows provided by (used in) discontinued financing activities \u2014 (14) \u2014 (25) Net cash flows provided by (used in) financing activities (787) (1,686) (4,672) (4,636) Effect of foreign exchange rate changes on cash and cash equivalents 13 (85) 76 (103) Net increase (decrease) in cash and cash equivalents and restricted cash, including cash classified in current assets held for sale 156 1,450 (2,390) (6,201) Less: Change in cash balances classified as assets held for sale 25 (284) 25 (320) Net increase (decrease) in cash and cash equivalents and restricted cash 131 1,734 (2,415) (5,881) Cash, cash equivalents and restricted cash, beginning of period 1,426 2,238 3,972 9,853 Cash, cash equivalents and restricted cash, end of period 1,557 3,972 1,557 3,972 Less: restricted cash 2 3 2 3 Cash and cash equivalents, end of period $ 1,555 $ 3,969 $ 1,555 $ 3,969",
+      "token_count": 770
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions) 2025 2024 2025 2024 Segment net sales Climate Solutions Americas $ 1,935 $ 2,341 $ 10,470 $ 10,527 Climate Solutions Europe 1,332 1,252 5,044 4,984 Climate Solutions Asia Pacific, Middle East & Africa 798 874 3,339 3,500 Climate Solutions Transportation 772 681 2,894 3,475 Segment net sales $ 4,837 $ 5,148 $ 21,747 $ 22,486 Segment operating profit Climate Solutions Americas $ 168 $ 435 $ 2,150 $ 2,323 Climate Solutions Europe 120 80 444 469 Climate Solutions Asia Pacific, Middle East & Africa 95 95 448 466 Climate Solutions Transportation 112 97 452 485 Segment operating profit $ 495 $ 707 $ 3,494 $ 3,743 Segment operating margin Climate Solutions Americas 8.7 % 18.6 % 20.5 % 22.1 % Climate Solutions Europe 9.0 % 6.4 % 8.8 % 9.4 % Climate Solutions Asia Pacific, Middle East & Africa 11.9 % 10.9 % 13.4 % 13.3 % Climate Solutions Transportation 14.5 % 14.2 % 15.6 % 14.0 %",
+      "token_count": 242
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended December 31, 2025 Compared with Three Months Ended December 31, 2024",
+      "token_count": 22
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Factors Contributing to Total % change in Net Sales Organic FX Translation Acquisitions / Divestitures, net Other Total Climate Solutions Americas (17)% \u2014% \u2014% \u2014% (17)% Climate Solutions Europe (2)% 8% \u2014% \u2014% 6% Climate Solutions Asia Pacific, Middle East & Africa (9)% \u2014% \u2014% \u2014% (9)% Climate Solutions Transportation 10% 3% \u2014% \u2014% 13% Consolidated (9)% 3% \u2014% \u2014% (6)%",
+      "token_count": 94
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Year Ended December 31, 2025 Compared with Year Ended December 31, 2024",
+      "token_count": 18
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Factors Contributing to Total % change in Net Sales Organic FX Translation Acquisitions / Divestitures, net Other Total Climate Solutions Americas (1)% \u2014% \u2014% \u2014% (1)% Climate Solutions Europe (3)% 4% \u2014% \u2014% 1% Climate Solutions Asia Pacific, Middle East & Africa (5)% \u2014% \u2014% \u2014% (5)% Climate Solutions Transportation 4% 1% (22)% \u2014% (17)% Consolidated (1)% 1% (3)% \u2014% (3)%",
+      "token_count": 95
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions) 2025 2024 2025 2024 Reconciliation to Earnings before income taxes Segment operating profit $ 495 $ 707 $ 3,494 $ 3,743 Corporate and other (40) (29) (202) (201) Restructuring costs (73) (11) (178) (108) Amortization of acquired intangibles (220) (172) (856) (689) Acquisition step-up amortization \u2014 (31) \u2014 (282) Acquisition/divestiture-related costs (23) (8) (55) (95) Viessmann-related hedges \u2014 \u2014 \u2014 (86) CCR gain \u2014 318 7 318 VCS pre-acquisition product replacement cost (38) \u2014 (38) \u2014 Gain on liability adjustment \u2014 \u2014 \u2014 46 Non-service pension (expense) benefit (2) \u2014 (10) (1) Interest (expense) income, net (94) (81) (364) (371) Earnings before income taxes $ 5 $ 693 $ 1,798 $ 2,274",
+      "token_count": 192
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions) 2025 2024 2025 2024 Reconciliation of Segment operating profit to Adjusted operating profit Climate Solutions Americas $ 168 $ 435 $ 2,150 $ 2,323 Climate Solutions Europe 120 80 444 469 Climate Solutions Asia Pacific, Middle East & Africa 95 95 448 466 Climate Solutions Transportation 112 97 452 485 Segment operating profit $ 495 $ 707 $ 3,494 $ 3,743 Corporate and other (40) (29) (202) (201) Adjusted operating profit $ 455 $ 678 $ 3,292 $ 3,542",
+      "token_count": 133
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net Earnings (Loss), Earnings Per Share, and Effective Tax Rate",
+      "token_count": 16
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, 2025 Year Ended December 31, 2025 (In millions, except per share amounts) Reported Adjustments Adjusted Reported Adjustments Adjusted Net sales $ 4,837 $ \u2014 $ 4,837 $ 21,747 $ \u2014 $ 21,747 Operating profit $ 101 354 a $ 455 $ 2,172 1,120 a $ 3,292 Operating margin 2.1 % 9.4 % 10.0 % 15.1 % Earnings before income taxes $ 5 354 a,b $ 359 $ 1,798 1,131 a,b $ 2,929 Income tax (expense) benefit $ 32 (97) c $ (65) $ (240) (356) c $ (596) Effective tax rate (741.2) % 18.1 % 13.4 % 20.4 % Earnings from continuing operations attributable to common shareowners $ 28 $ 257 $ 285 $ 1,455 $ 775 $ 2,230 Summary of Adjustments: Restructuring costs $ 73 a $ 178 a Amortization of acquired intangibles 220 a 856 a Acquisition/divestiture-related costs 23 a 55 a CCR gain \u2014 a (7) a VCS pre-acquisition product replacement cost 38 a 38 a Defined benefit pension settlement \u2014 b 11 b Total adjustments $ 354 $ 1,131 Tax effect on adjustments above $ (97) $ (301) Tax specific adjustments \u2014 (55) Total tax adjustments $ (97) c $ (356) c Diluted shares outstanding 846.7 846.7 862.4 862.4 Diluted earnings per share: Continuing operations $ 0.03 $ 0.34 $ 1.69 $ 2.59",
+      "token_count": 298
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Three Months Ended December 31, 2024 Year Ended December 31, 2024 (In millions, except per share amounts) Reported Adjustments Adjusted Reported Adjustments Adjusted Net sales $ 5,148 $ \u2014 $ 5,148 $ 22,486 $ \u2014 $ 22,486 Operating profit $ 774 (96) a $ 678 $ 2,646 896 a $ 3,542 Operating margin 15.0 % 13.2 % 11.8 % 15.8 % Earnings before income taxes $ 693 (87) a,b $ 606 $ 2,274 831 a,b $ 3,105 Income tax (expense) benefit $ (723) 627 c $ (96) $ (1,062) 400 c $ (662) Effective tax rate 104.3 % 15.8 % 46.7 % 21.3 % Earnings from continuing operations attributable to common shareowners $ (48) $ 540 $ 492 $ 1,108 $ 1,231 $ 2,339 Summary of Adjustments: Restructuring costs $ 11 a $ 108 a Amortization of acquired intangibles 172 a 689 a Acquisition step-up amortization (1) 31 a 282 a Acquisition/divestiture-related costs 8 a 95 a CCR gain (318) a (318) a Viessmann-related hedges \u2014 a 86 a Gain on liability adjustment (2) \u2014 a (46) a Debt extinguishment (gain) \u2014 b (97) b Debt prepayment costs 9 b 32 b Total adjustments $ (87) $ 831 Tax effect on adjustments above $ (35) $ (262) Tax specific adjustments (3) 662 662 Total tax adjustments $ 627 c $ 400 c Diluted shares outstanding 903.4 903.4 911.7 911.7 Diluted earnings per share: Continuing operations $ (0.05) $ 0.54 $ 1.22 $ 2.56",
+      "token_count": 326
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "(1) Amortization of the step-up to fair value of acquired inventory and backlog.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Gain associated with an adjustment to our tax-related liability owed to UTC.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(3) Tax expense associated with the integration of the Viessmann and CARRIER GLOBAL Corp legal entity structure.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Free Cash Flow Reconciliation (Unaudited) Three Months Ended December 31, Year Ended December 31, (In millions) 2025 2024 2025 2024 Net cash flows provided by operating activities $ 1,040 $ 132 $ 2,513 $ 563 Less: Capital expenditures - continuing operations (131) (217) (392) (519) Less: Capital expenditures - discontinued operations \u2014 (4) \u2014 (14) Free cash flow $ 909 $ (89) $ 2,121 $ 30",
+      "token_count": 98
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "(Unaudited) As of December 31, (In millions) 2025 2024 Long-term debt $ 11,365 $ 11,026 Short-term borrowings and current portion of long-term debt 468 1,336 Less: Cash and cash equivalents 1,555 3,969 Net debt $ 10,278 $ 8,393",
+      "token_count": 57
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.097392,
+    "ret_20d": 0.192946,
+    "market_ret_20d": -0.008124
+  },
+  "outcome_blind": true
+}

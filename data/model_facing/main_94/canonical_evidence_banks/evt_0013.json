@@ -1,0 +1,787 @@
+{
+  "event_id": "evt_0013",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "FEDEX CORP",
+  "ticker": "FDX",
+  "company_alias": "FEDEX CORP",
+  "masked_company": "Company D",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-03-19",
+  "accepted_at_et": "2026-03-19T16:10:36-04:00",
+  "source_packet_path": "source_packets/evt_0013.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "On Track to Spin Off FEDEX CORP Freight on June 1, 2026",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "On Track to Spin Off FEDEX CORP Freight on June 1, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "MEMPHIS, Tenn., 2026-03-19T16:10:36-04:00 ...",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "MEMPHIS, Tenn., 2026-03-19T16:10:36-04:00 ... FEDEX CORP. (NYSE:FDX) today reported the following consolidated results for the third quarter ended February 28 (adjusted measures exclude the items listed below):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "Fiscal 2026 Fiscal 2025 As Reported (GAAP) Adjusted (non-GAAP) As Reported (GAAP) Adjusted (non-GAAP) Revenue $24.0 billion $24.0 billion $22.2 billion $22.2 billion Operating income $1.35 billion $1.62 billion $1.29 billion $1.51 billion Operating margin 5.6% 6.7% 5.8% 6.8% Net income $1.06 billion $1.26 billion $0.91 billion $1.09 billion Diluted EPS $4.41 $5.25 $3.76 $4.51",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Fiscal 2026 Fiscal 2025 As Reported (GAAP) Adjusted (non-GAAP) As Reported (GAAP) Adjusted (non-GAAP) Revenue $24.0 billion $24.0 billion $22.2 billion $22.2 billion Operating income $1.35 billion $1.62 billion $1.29 billion $1.51 billion Operating margin 5.6% 6.7% 5.8% 6.8% N...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "Impact per diluted share Fiscal 2026 Fiscal 2025 FEDEX CORP Freight spin-off costs $0.61 $0.07 Business optimization costs 0.21 0.56 Fiscal year change costs 0.02 \u2014 International regulatory and legacy FEDEX CORP Ground legal matters \u2014 0.12",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Impact per diluted share Fiscal 2026 Fiscal 2025 FEDEX CORP Freight spin-off costs $0.61 $0.07 Business optimization costs 0.21 0.56 Fiscal year change costs 0.02 \u2014 International regulatory and legacy FEDEX CORP Ground legal matters \u2014 0.12",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "Consolidated operating income improved in the third quarter, reflecting strength in U.S.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Consolidated operating income improved in the third quarter, reflecting strength in U.S. domestic and International Priority package yields, continued cost savings from transformation initiatives, and increased U.S. domestic package volume. Net income includes a tax benefit of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u201cTeam FEDEX CORP delivered another quarter of strong financial results and excellent service for our customers, powered by disciplined operational execution, the resilience of our global network, and the accelerating impact of our advanced digital solutions,\u201d said Raj Subramaniam, FEDEX CORP.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cTeam FEDEX CORP delivered another quarter of strong financial results and excellent service for our customers, powered by disciplined operational execution, the resilience of our global network, and the accelerating impact of our advanced digital solutions,\u201d said Raj Subraman...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "drives robust free cash flow, positioning FEDEX CORP to deliver durable, long-term value for stockholders.\u201d",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "drives robust free cash flow, positioning FEDEX CORP to deliver durable, long-term value for stockholders.\u201d",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "costs_or_expenses",
+      "claim": "Federal Express segment operating results improved during the quarter, driven by higher U.S.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Federal Express segment operating results improved during the quarter, driven by higher U.S. domestic and International Priority package yields, continued cost savings from transformation initiatives, and increased U.S. domestic package volume. These factors were partially off...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "FEDEX CORP Freight segment operating results decreased during the quarter due to increased costs associated with the company's planned spin-off, lower shipments, and higher wage rates, partially offset by increased yield.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "FEDEX CORP Freight segment operating results decreased during the quarter due to increased costs associated with the company's planned spin-off, lower shipments, and higher wage rates, partially offset by increased yield.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "The planned spin-off of FEDEX CORP Freight into a new publicly traded company is on track for June 1, 2026.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "The planned spin-off of FEDEX CORP Freight into a new publicly traded company is on track for June 1, 2026. On February 5, 2026, FEDEX CORP Freight completed the issuance of $3.7 billion of senior notes. FEDEX CORP Freight intends to distribute the net proceeds from the offeri...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "FEDEX CORP Freight will host an Investor Day in New York City on April 8, 2026.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "FEDEX CORP Freight will host an Investor Day in New York City on April 8, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "On February 9, 2026, FEDEX CORP announced that, together with Advent International, A&R Investments, and PPF Group, it reached a conditional agreement on a recommended all-cash offer to take InPost private at \u20ac15.60 per share.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "On February 9, 2026, FEDEX CORP announced that, together with Advent International, A&R Investments, and PPF Group, it reached a conditional agreement on a recommended all-cash offer to take InPost private at \u20ac15.60 per share. The transaction is subject to regulatory approvals...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "FEDEX CORP is unable to forecast the fiscal 2026 mark-to-market (\u201cMTM\u201d) retirement plans accounting adjustments.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "FEDEX CORP is unable to forecast the fiscal 2026 mark-to-market (\u201cMTM\u201d) retirement plans accounting adjustments. As a result, FEDEX CORP is unable to provide a fiscal 2026 earnings per share (\u201cEPS\u201d) or effective tax rate (\u201cETR\u201d) outlook on a GAAP basis and is relying on the ex...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "\u2022 A 6.0% to 6.5% revenue growth rate year over year, compared to the prior forecast of 5% to 6% growth;",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 A 6.0% to 6.5% revenue growth rate year over year, compared to the prior forecast of 5% to 6% growth;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "\u2022 Diluted earnings per share of $16.05 to $16.85 before the MTM retirement plans accounting adjustments compared to the prior forecast of $14.80 to $16.00, and $19.30 to $20.10 after also excluding costs related to the planned spin-off of FEDEX CORP Freight, business optimization initiatives, the planned change in the company's fiscal year end, and an international regulatory matter, compared to the prior forecast of $17.80 to $19.00;",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Diluted earnings per share of $16.05 to $16.85 before the MTM retirement plans accounting adjustments compared to the prior forecast of $14.80 to $16.00, and $19.30 to $20.10 after also excluding costs related to the planned spin-off of FEDEX CORP Freight, business optimizat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "\u2022 Permanent cost reductions of more than $1 billion in transformation-related savings from structural cost reductions and the advancement of Network 2.0, compared to the prior forecast of $1 billion;",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 Permanent cost reductions of more than $1 billion in transformation-related savings from structural cost reductions and the advancement of Network 2.0, compared to the prior forecast of $1 billion;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "\u2022 An ETR of approximately 24% prior to the MTM retirement plans accounting adjustments, compared to the prior forecast of approximately 25%;",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 An ETR of approximately 24% prior to the MTM retirement plans accounting adjustments, compared to the prior forecast of approximately 25%;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "\u2022 Pension contributions of $275 million, compared to the prior forecast of up to $275 million; and",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Pension contributions of $275 million, compared to the prior forecast of up to $275 million; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "\u2022 Capital spending of no more than $4.1 billion, with a priority on investments in network optimization and efficiency improvement, including fleet and facility modernization and automation, compared to the December forecast of $4.5 billion.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 Capital spending of no more than $4.1 billion, with a priority on investments in network optimization and efficiency improvement, including fleet and facility modernization and automation, compared to the December forecast of $4.5 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "These forecasts assume the company's current economic forecast and fuel price expectations, and no additional adverse economic, geopolitical, or international trade-related developments.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "These forecasts assume the company's current economic forecast and fuel price expectations, and no additional adverse economic, geopolitical, or international trade-related developments. FEDEX CORP\u2019s ETR and EPS forecasts are based on current law and related regulations and gu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "\u201cOur third quarter results and improved financial outlook reflect the resilience of our business and outstanding execution against our strategy to drive profitable growth,\u201d said John Dietrich, FEDEX CORP.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u201cOur third quarter results and improved financial outlook reflect the resilience of our business and outstanding execution against our strategy to drive profitable growth,\u201d said John Dietrich, FEDEX CORP. executive vice president and chief financial officer. \u201cAs we look ahead,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "FEDEX CORP.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "FEDEX CORP. (NYSE:FDX) provides customers and businesses worldwide with a broad portfolio of transportation, e-commerce and business services. With annual revenue of $92 billion, the company offers integrated business solutions utilizing its flexible, efficient, and intelligen...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "FEDEX CORP is committed to connecting people and possibilities around the world responsibly and resourcefully, with a goal to achieve carbon-neutral operations by 2040.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "FEDEX CORP is committed to connecting people and possibilities around the world responsibly and resourcefully, with a goal to achieve carbon-neutral operations by 2040. To learn more, please visit FEDEX CORP.com/about .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "earnings_or_eps",
+      "claim": "The company reports its financial results in accordance with accounting principles generally accepted in the United States (\u201cGAAP\u201d or \u201creported\u201d).",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "The company reports its financial results in accordance with accounting principles generally accepted in the United States (\u201cGAAP\u201d or \u201creported\u201d). We have supplemented the reporting of our financial information determined in accordance with GAAP with certain non-GAAP (or \u201cadju...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "\u2022 Costs related to the planned spin-off of FEDEX CORP Freight incurred in fiscal 2026 and 2025;",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 Costs related to the planned spin-off of FEDEX CORP Freight incurred in fiscal 2026 and 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "\u2022 Business optimization costs incurred in fiscal 2026 and 2025;",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 Business optimization costs incurred in fiscal 2026 and 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "\u2022 Costs related to the planned change in the company's fiscal year end incurred in fiscal 2026; and",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 Costs related to the planned change in the company's fiscal year end incurred in fiscal 2026; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "\u2022 Costs related to international regulatory and legacy FEDEX CORP Ground legal matters incurred in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 Costs related to international regulatory and legacy FEDEX CORP Ground legal matters incurred in fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "In December 2024, FEDEX CORP announced that its Board of Directors had decided to pursue a full separation of FEDEX CORP Freight through the capital markets, creating a new publicly traded company.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "In December 2024, FEDEX CORP announced that its Board of Directors had decided to pursue a full separation of FEDEX CORP Freight through the capital markets, creating a new publicly traded company. The transaction, which will be implemented through the spin-off of shares of th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "Our business optimization costs relate to the following transformation initiatives aimed to improve long-term profitability, drive efficiency within and between our transportation segments, lower our overhead and support costs, and transform our digital capabilities: our Network 2.0 program, the Europe workforce reduction plan, and DRIVE initiatives commenced in prior years.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Our business optimization costs relate to the following transformation initiatives aimed to improve long-term profitability, drive efficiency within and between our transportation segments, lower our overhead and support costs, and transform our digital capabilities: our Netwo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "In January 2025, FEDEX CORP announced that its Board of Directors had approved a change in the company\u2019s fiscal year end from May 31 to December 31, which will",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "In January 2025, FEDEX CORP announced that its Board of Directors had approved a change in the company\u2019s fiscal year end from May 31 to December 31, which will",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "be effective June 1, 2026.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "be effective June 1, 2026. We incurred costs associated with the planned fiscal year change in the third quarter of fiscal 2026. These costs were primarily related to professional fees.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "The charges incurred in connection with the international regulatory matter are",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "The charges incurred in connection with the international regulatory matter are",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "costs_or_expenses",
+      "claim": "extraordinary in nature and do not represent recurring expenses in our ordinary",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "extraordinary in nature and do not represent recurring expenses in our ordinary",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "course of business.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "course of business. This item has been reduced in the amount of a gain recognized in the third quarter of fiscal 2025 in connection with the partial reversal of a loss accrual related to a legacy FEDEX CORP Ground legal matter that was also extraordinary in nature following a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Costs related to the planned spin-off of FEDEX CORP Freight, business optimization initiatives, the planned fiscal year change, and international regulatory and legacy FEDEX CORP Ground legal matters, are excluded from our third quarter fiscal 2026 and 2025 consolidated Federal Express segment and FEDEX CORP Freight segment non-GAAP financial measures, as applicable, because they are unrelated to our core operating performance and to assist investors with assessing trends in our underlying businesses.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Costs related to the planned spin-off of FEDEX CORP Freight, business optimization initiatives, the planned fiscal year change, and international regulatory and legacy FEDEX CORP Ground legal matters, are excluded from our third quarter fiscal 2026 and 2025 consolidated Federa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "The income tax effect of these costs is calculated based upon the tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the underlying non-GAAP adjustment.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "The income tax effect of these costs is calculated based upon the tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the underlying non-GAAP adjustment. The impact of these non-GAAP items on the company's effective tax rate represents the differen...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "We believe these adjusted financial measures facilitate analysis and comparisons of our ongoing business operations because they exclude items that may not be indicative of, or are unrelated to, the company's and our business segments' core operating performance, and may assist investors with comparisons to prior periods and assessing trends in our underlying businesses.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "We believe these adjusted financial measures facilitate analysis and comparisons of our ongoing business operations because they exclude items that may not be indicative of, or are unrelated to, the company's and our business segments' core operating performance, and may assis...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "Our non-GAAP financial measures are intended to supplement and should be read together with, and are not an alternative or substitute for, and should not be considered superior to, our reported financial results.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Our non-GAAP financial measures are intended to supplement and should be read together with, and are not an alternative or substitute for, and should not be considered superior to, our reported financial results. Accordingly, users of our financial statements should not place...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "earnings_or_eps",
+      "claim": "Fiscal 2026 Earnings Per Share and Effective Tax Rate Forecasts",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Fiscal 2026 Earnings Per Share and Effective Tax Rate Forecasts",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "Our fiscal 2026 EPS forecast is a non-GAAP financial measure because it excludes fiscal 2026 MTM retirement plans accounting adjustments, the planned spin-off of FEDEX CORP Freight, estimated costs related to business optimization initiatives, the planned fiscal year change, and the partial reversal of a loss accrual related to an international regulatory matter.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Our fiscal 2026 EPS forecast is a non-GAAP financial measure because it excludes fiscal 2026 MTM retirement plans accounting adjustments, the planned spin-off of FEDEX CORP Freight, estimated costs related to business optimization initiatives, the planned fiscal year change, a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "We have provided these non-GAAP financial measures for the same reasons that were outlined above for historical non-GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "We have provided these non-GAAP financial measures for the same reasons that were outlined above for historical non-GAAP measures. Costs related to the planned spin-off of FEDEX CORP Freight, business optimization initiatives, and the planned fiscal year change, as well as the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "We are unable to predict the amount of the MTM retirement plans accounting adjustments, as they are significantly affected by changes in interest rates and the financial markets, so such adjustments are not included in our fiscal 2026 EPS and ETR forecasts.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "We are unable to predict the amount of the MTM retirement plans accounting adjustments, as they are significantly affected by changes in interest rates and the financial markets, so such adjustments are not included in our fiscal 2026 EPS and ETR forecasts. For this reason, a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "The table included below titled \u201cFiscal 2026 Diluted Earnings Per Share Forecast\u201d outlines the effects of the items that are excluded from our fiscal 2026 EPS forecast, other than the MTM retirement plans accounting adjustments.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "The table included below titled \u201cFiscal 2026 Diluted Earnings Per Share Forecast\u201d outlines the effects of the items that are excluded from our fiscal 2026 EPS forecast, other than the MTM retirement plans accounting adjustments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "earnings_or_eps",
+      "claim": "Diluted Earnings Per Share Operating Income Taxes 1 Net Income 2 Dollars in millions, except EPS Income Margin GAAP measure $ 1,348 5.6 % $ 207 $ 1,056 $ 4.41 FEDEX CORP Freight spin-off costs 3 194 0.8 % 48 147 0.61 Business optimization costs 4 65 0.3 % 16 49 0.21 Fiscal year change costs 4 8 \u2014 % 2 6 0.02 Non-GAAP measure $ 1,615 6.7 % $ 273 $ 1,258 $ 5.25",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Diluted Earnings Per Share Operating Income Taxes 1 Net Income 2 Dollars in millions, except EPS Income Margin GAAP measure $ 1,348 5.6 % $ 207 $ 1,056 $ 4.41 FEDEX CORP Freight spin-off costs 3 194 0.8 % 48 147 0.61 Business optimization costs 4 65 0.3 % 16 49 0.21 Fiscal yea...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "margins",
+      "claim": "Operating Dollars in millions Income Margin GAAP measure $ 1,572 7.4 % FEDEX CORP Freight spin-off costs 32 0.2 % Business optimization costs 67 0.3 % Fiscal year change costs 5 \u2014 % Non-GAAP measure $ 1,676 7.9 %",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Operating Dollars in millions Income Margin GAAP measure $ 1,572 7.4 % FEDEX CORP Freight spin-off costs 32 0.2 % Business optimization costs 67 0.3 % Fiscal year change costs 5 \u2014 % Non-GAAP measure $ 1,676 7.9 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "margins",
+      "claim": "Operating Dollars in millions Income Margin GAAP measure $ 8 0.4 % FEDEX CORP Freight spin-off costs 126 6.3 % Non-GAAP measure $ 134 6.7 %",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Operating Dollars in millions Income Margin GAAP measure $ 8 0.4 % FEDEX CORP Freight spin-off costs 126 6.3 % Non-GAAP measure $ 134 6.7 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "Note: tables may not sum to totals due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Note: tables may not sum to totals due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "earnings_or_eps",
+      "claim": "Diluted Earnings Per Share Operating Income Taxes 1 Net Income 2 Dollars in millions, except EPS Income Margin GAAP measure $ 1,292 5.8 % $ 272 $ 909 $ 3.76 Business optimization costs 4 179 0.8 % 42 137 0.56 International regulatory and legacy FEDEX CORP Ground legal matters 5 38 0.2 % 9 29 0.12 FEDEX CORP Freight spin-off costs 3 5 \u2014 % 5 17 0.07 Non-GAAP measure $ 1,514 6.8 % $ 328 $ 1,092 $ 4.51",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Diluted Earnings Per Share Operating Income Taxes 1 Net Income 2 Dollars in millions, except EPS Income Margin GAAP measure $ 1,292 5.8 % $ 272 $ 909 $ 3.76 Business optimization costs 4 179 0.8 % 42 137 0.56 International regulatory and legacy FEDEX CORP Ground legal matters...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "margins",
+      "claim": "Operating Dollars in millions Income Margin GAAP measure $ 1,294 6.7 % Business optimization costs 92 0.5 % International regulatory and legacy FEDEX CORP Ground legal matters 5 38 0.2 % Non-GAAP measure $ 1,424 7.4 %",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Operating Dollars in millions Income Margin GAAP measure $ 1,294 6.7 % Business optimization costs 92 0.5 % International regulatory and legacy FEDEX CORP Ground legal matters 5 38 0.2 % Non-GAAP measure $ 1,424 7.4 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "earnings_or_eps",
+      "claim": "Diluted Earnings Per Share Dollars in millions, except EPS Adjustments Diluted earnings per share before MTM retirement plans accounting adjustments (non- GAAP) 6 $16.05 to $16.85 FEDEX CORP Freight spin-off costs $700 Business optimization costs 290 Fiscal year change costs 30 International regulatory matter (12) Total adjustments $1,008 Income tax effect (228) Net of tax effect $780 3.25 Diluted earnings per share with adjustments (non-GAAP) 6 $19.30 to $20.10",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Diluted Earnings Per Share Dollars in millions, except EPS Adjustments Diluted earnings per share before MTM retirement plans accounting adjustments (non- GAAP) 6 $16.05 to $16.85 FEDEX CORP Freight spin-off costs $700 Business optimization costs 290 Fiscal year change costs 3...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "earnings_or_eps",
+      "claim": "1 \u2013 Income taxes are based on the company\u2019s approximate statutory tax rates applicable to each transaction.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "1 \u2013 Income taxes are based on the company\u2019s approximate statutory tax rates applicable to each transaction. 2 \u2013 Effect of \u201ctotal other (expense) income\u201d on net income amount not shown. 3 \u2013 These expenses were recognized at FEDEX CORP Freight, Corporate, other, and eliminations...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "revenue",
+      "claim": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change Revenue: Federal Express segment $ 21,154 $ 19,181 10 $ 60,703 $ 56,327 8 FEDEX CORP Freight segment 1,991 2,089 (5) 6,387 6,595 (3) Other and eliminations (1) 855 890 (4) 2,623 2,784 (6) Total Revenue 24,000 22,160 8 69,713 65,706 6 Operating Expenses: Salaries and employee benefits 8,819 7,879 12 25,276 23,543 7 Purchased transportation 6,084 5,634 8 17,457 16,409 6 Rentals and landing fees 1,235 1,178 5 3,638 3,507 4 Depreciation and amortization 1,112 1,066 4 3,272 3,207 2 Fuel 856 889 (4) 2,618 2,911 (10) Maintenance and repairs 771 783 (2) 2,503 2,443 2 Separation and other costs 202 5 NM 460 5 NM Business optimization costs 65 179 (64) 162 633 (74) Other 3,508 3,255 8 10,415 9,624 8 Total Operating Expenses 22,652 20,868 9 65,801 62,282 6 Operating income (loss): Federal Express segment 1,572 1,294 21 4,261 3,299 29 FEDEX CORP Freight segment 8 261 (97) 458 1,012 (55) Corporate, other, and eliminations (1) (232) (263) (12) (807) (887) (9) Total Operating Income 1,348 1,292 4 3,912 3,424 14 Other (Expense) Income: Interest, net (138) (116) 19 (392) (302) 30 Other retirement plans, net 59 50 18 178 149 19 Other, net (6) (45) (87) (12) (53) (77) Total Other (Expense) Income (85) (111) (23) (226) (206) 10 Income Before Income Taxes 1,263 1,181 7 3,686 3,218 15 Provision for Income Taxes 207 272 (24) 850 774 10 Net Income $ 1,056 $ 909 16 $ 2,836 $ 2,444 16 Diluted Earnings Per Share $ 4.41 $ 3.76 17 $ 11.91 $ 9.99 19 Weighted Average Common and Common Equivalent Shares 239 242 (1) 238 244 (2) Capital Expenditures $ 955 $ 997 (4) $ 2,335 $ 2,582 (10)",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change Revenue: Federal Express segment $ 21,154 $ 19,181 10 $ 60,703 $ 56,327 8 FEDEX CORP Freight segment 1,991 2,089 (5) 6,387 6,595 (3) Other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "costs_or_expenses",
+      "claim": "1 \u2013 Includes the FEDEX CORP Office, FEDEX CORP Logistics, and FEDEX CORP Dataworks operating segments .",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "1 \u2013 Includes the FEDEX CORP Office, FEDEX CORP Logistics, and FEDEX CORP Dataworks operating segments .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "costs_or_expenses",
+      "claim": "February 28, 2026 (Unaudited) May 31, 2025 ASSETS Current Assets Cash and cash equivalents $ 8,008 $ 5,502 Restricted cash 3,680 \u2014 Receivables, less allowances 11,807 11,368 Spare parts, supplies, and fuel, less allowances 631 602 Prepaid expenses and other 1,351 914 Total current assets 25,477 18,386 Property and Equipment, at Cost 90,106 87,622 Less accumulated depreciation and amortization 48,567 45,980 Net property and equipment 41,539 41,642 Other Long-Term Assets Operating lease right-of-use assets, net 16,391 16,453 Goodwill 6,758 6,603 Other assets 4,568 4,543 Total other long-term assets 27,717 27,599 $ 94,733 $ 87,627 LIABILITIES AND COMMON STOCKHOLDERS' INVESTMENT Current Liabilities Current portion of long-term debt $ 2,422 $ 1,428 Accrued salaries and employee benefits 3,079 2,731 Accounts payable 4,154 3,692 Operating lease liabilities 2,624 2,565 Accrued expenses 5,008 4,995 Total current liabilities 17,287 15,411 Long-Term Debt, Less Current Portion 22,831 19,151 Other Long-Term Liabilities Deferred income taxes 3,841 4,205 Pension, postretirement healthcare, and other benefit obligations 1,682 1,698 Self-insurance accruals 4,320 4,033 Operating lease liabilities 14,145 14,272 Other liabilities 823 783 Total other long-term liabilities 24,811 24,991 Commitments and Contingencies Common Stockholders' Investment Common stock, $0.10 par value, 800 million shares authorized 32 32 Additional paid-in capital 4,614 4,290 Retained earnings 42,864 41,402 Accumulated other comprehensive loss (1,220) (1,362) Treasury stock, at cost (16,486) (16,288) Total common stockholders' investment 29,804 28,074 $ 94,733 $ 87,627",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "February 28, 2026 (Unaudited) May 31, 2025 ASSETS Current Assets Cash and cash equivalents $ 8,008 $ 5,502 Restricted cash 3,680 \u2014 Receivables, less allowances 11,807 11,368 Spare parts, supplies, and fuel, less allowances 631 602 Prepaid expenses and other 1,351 914 Total cur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "earnings_or_eps",
+      "claim": "Nine Months Ended February 28, 2026 February 28, 2025 Operating Activities: Net income $ 2,836 $ 2,444 Adjustments to reconcile net income to cash provided by operating activities: Depreciation and amortization 3,272 3,207 Other, net 3,027 2,969 Changes in operating assets and liabilities, net (3,475) (4,103) Cash provided by operating activities 5,660 4,517 Investing Activities: Capital expenditures (2,335) (2,582) Purchase of investments (427) (197) Proceeds from sale of investments 254 77 Proceeds from asset dispositions and other investing activities, net 73 42 Cash used in investing activities (2,435) (2,660) Financing Activities: Proceeds from debt issuances 4,689 \u2014 Principal payments on debt (714) (89) Proceeds from stock issuances 774 472 Dividends paid (1,028) (1,008) Purchases of common stock (796) (2,517) Other (49) (30) Cash provided by (used in) financing activities 2,876 (3,172) Effect of exchange rate changes on cash 85 (51) Net increase (decrease) in cash and cash equivalents, and restricted cash 6,186 (1,366) Cash, cash equivalents, and restricted cash at beginning of period 5,502 6,501 Cash, cash equivalents, and restricted cash at end of period $ 11,688 $ 5,135",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Nine Months Ended February 28, 2026 February 28, 2025 Operating Activities: Net income $ 2,836 $ 2,444 Adjustments to reconcile net income to cash provided by operating activities: Depreciation and amortization 3,272 3,207 Other, net 3,027 2,969 Changes in operating assets and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change Revenue: Package: U.S.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change Revenue: Package: U.S. priority $ 2,901 $ 2,646 10 $ 8,511 $ 7,800 9 U.S. deferred 1,590 1,386 15 4,259 3,736 14 U.S. ground 9,860 8,986 1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "revenue",
+      "claim": "1 \u2013 International Domestic revenue relates to international intra-country operations .",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "1 \u2013 International Domestic revenue relates to international intra-country operations .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change PACKAGE STATISTICS Avg.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change PACKAGE STATISTICS Avg. daily package volume (ADV) (000s) (1) : U.S. priority 1,679 1,588 6 1,671 1,597 5 U.S. deferred 1,268 1,162 9 1,15...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "1 \u2013 ADV is calculated on a 5-day-per-week basis.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "1 \u2013 ADV is calculated on a 5-day-per-week basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "2 \u2013 International Domestic Statistics relate to international intra-country operations.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "2 \u2013 International Domestic Statistics relate to international intra-country operations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change FINANCIAL HIGHLIGHTS Revenue $ 1,991 $ 2,089 (5) $ 6,387 $ 6,595 (3) Operating expenses: Salaries and employee benefits 977 939 4 2,935 2,899 1 Purchased transportation 193 202 (4) 591 602 (2) Rentals 74 72 3 224 215 4 Depreciation and amortization 112 113 (1) 335 335 \u2014 Fuel 104 112 (7) 327 344 (5) Maintenance and repairs 73 85 (14) 243 255 (5) Separation and other costs 126 \u2014 NM 287 \u2014 NM Intercompany charges 134 142 (6) 449 433 4 Other 190 163 17 538 500 8 Total operating expenses 1,983 1,828 8 5,929 5,583 6 Operating income $ 8 $ 261 (97) $ 458 $ 1,012 (55) Operating margin 0.4 % 12.5 % (1210) bp 7.2 % 15.3 % (810) bp OPERATING STATISTICS Operating weekdays 62 62 \u2014 188 188 \u2014 Average daily shipments (000s): Priority 55.6 58.2 (5) 59.3 61.2 (3) Economy 24.6 26.9 (9) 26.6 28.2 (6) Total average daily shipments 80.2 85.1 (6) 85.9 89.4 (4) Weight per shipment (lbs): Priority 929 935 (1) 931 943 (1) Economy 918 877 5 911 870 5 Composite weight per shipment 926 917 1 925 920 1 Revenue per shipment: Priority $ 365.19 $ 360.68 1 $ 361.86 $ 359.19 1 Economy 414.19 408.56 1 410.05 405.72 1 Composite revenue per shipment $ 380.24 $ 375.81 1 $ 376.81 $ 373.85 1 Revenue per hundredweight: Priority $ 39.32 $ 38.57 2 $ 38.88 $ 38.11 2 Economy 45.11 46.59 (3) 44.99 46.66 (4) Composite revenue per hundredweight $ 41.08 $ 41.00 \u2014 $ 40.75 $ 40.66 \u2014",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Three Months Ended Nine Months Ended February 28, 2026 February 28, 2025 Percent Change February 28, 2026 February 28, 2025 Percent Change FINANCIAL HIGHLIGHTS Revenue $ 1,991 $ 2,089 (5) $ 6,387 $ 6,595 (3) Operating expenses: Salaries and employee benefits 977 939 4 2,935 2,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q3: 24000000000",
+      "value": 24000000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q3: 24000000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q3: 1348000000",
+      "value": 1348000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q3: 1348000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q3: 1056000000",
+      "value": 1056000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q3: 1056000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q3: 4.41",
+      "value": 4.41,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q3: 4.41",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q3: 4.46",
+      "value": 4.46,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q3: 4.46",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q3: 8008000000",
+      "value": 8008000000,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q3: 8008000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q3: 5660000000",
+      "value": 5660000000,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q3: 5660000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.008439, ret_20d=-0.066781, market_ret_20d=-0.036056",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.008439, ret_20d=-0.066781, market_ret_20d=-0.036056",
+      "support_label": "supported"
+    }
+  ]
+}

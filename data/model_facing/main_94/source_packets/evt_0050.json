@@ -1,0 +1,791 @@
+{
+  "event_id": "evt_0050",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "IAC Inc.",
+  "ticker": "IAC",
+  "company_alias": "IAC Inc.",
+  "masked_company": "Company AQ",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-03",
+  "filing_metadata": {
+    "cik": "1800227",
+    "accession_number": "0001628280-26-004988",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-03T16:06:28-05:00",
+    "event_date": "2026-02-03",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 People Inc. Q4 Digital revenue delivered highest growth in five quarters at 14% with full-year Digital revenue rising 10% to $1.1 billion",
+      "token_count": 35
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Strong full-year People Inc. Operating Income of $186 million and Adjusted EBITDA of $331 million (excluding certain items)",
+      "token_count": 32
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 IAC Inc. returned capital in Q4 through 1.0 million share repurchases for $37 million since Q3 2025 earnings",
+      "token_count": 28
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Expanded strategic investment with the purchase of an additional 1 million shares of MGM for $40 million",
+      "token_count": 27
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cThe fourth quarter capped a year of disciplined execution and solid performance across IAC Inc.. People Inc. drove the fast est digital revenue growth we\u2019ve seen in over a year, even amidst AI-driven disruption,\u201d said Chairman and Senior Executive, IAC Inc..",
+      "token_count": 66
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Continued Mr. Diller, \u201cWe\u2019re doing what we set out to do \u2014 over the past year we deployed $337 million back into our Company and increased our ownership in MGM, a business that we believe will never be disintermediated. And we\u2019ll continue to execute our plan to simplify IAC Inc., enhance our cash position, and allocate capital thoughtfully and opportunistically, as we have for over 30 years.\u201d",
+      "token_count": 100
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "IAC Inc. SUMMARY RESULTS ($ in millions except per share amounts) Q4 2025 Q4 2024 Growth Revenue $ 646.0 $ 721.4 -10 % Operating (loss) income (113.4) 48.1 NM Unrealized gain (loss) on investment in MGM Resorts International 118.5 (287.4) NM Net loss (76.8) (199.0) 61 % Diluted loss per share (0.99) (2.42) 59 % Adjusted EBITDA 141.6 109.9 29 % See reconciliations of GAAP to non-GAAP measures beginning on page 16 .",
+      "token_count": 105
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Digital revenue increased 14% to $355 million driven by 9% Advertising growth, 17% Performance marketing growth and 36% Licensing and other growth.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 FY 2025 Digital revenue increased 10% to $1.1 billion.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 Q4 2025 total operating income was $106 million and Adjusted EBITDA was $142 million.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 FY 2025 total operating income was $213 million and Adjusted EBITDA was $357 million.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25aa Excluding gains from lease amendments and severance-related costs recognized earlier in 2025, full year 2025 operating income would have been $186 million and Adjusted EBITDA would have been $331 million.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u25e6 On December 5, 2025, People Inc. announced a strategic content partnership with Meta as the first lifestyle publisher to make real-time content available to Meta AI users across several categories including entertainment, home, food, health, and finance. In addition to Meta, People Inc. has AI partnerships with OpenAI and Microsoft.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Between November 1, 2025 and February 2, 2026, the Company repurchased 1.0 million common shares for an aggregate of $37 million. Over the last year, the Company repurchased 8.2 million common shares for an aggregate of $337 million.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 In Q4 2025, IAC Inc. purchased an additional 1.0 million shares of MGM for an aggregate of $40 million and now holds 65.8 million shares of MGM.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Revenue was $86 million, down 9% driven primarily by softness in Enterprise.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 Operating loss was $191 million and Adjusted EBITDA was $19 million. Operating loss reflects a $207 million non-cash goodwill impairment.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Q4 revenue increased 18% to $20 million due to 50% growth at The Daily Beast and 2% growth at Vivian Health (first quarter of growth since Q3 2024).",
+      "token_count": 38
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u25e6 Q4 operating income increased $10 million to $3 million and Adjusted EBITDA increased $10 million to a profit of $3 million, driven by profits at both Vivian Health and The Daily Beast in Q4 2025 versus losses in Q4 2024 and the elimination of costs related to a legacy business legal matter settled in Q3 2025.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "($ in millions, rounding differences may occur) Q4 2025 Q4 2024 Growth Revenue People Inc. $ 511.8 $ 522.1 -2 % Care.com 85.7 93.7 -9 % Search 29.0 89.2 -68 % Emerging & Other 19.6 16.6 18 % Intersegment eliminations (0.0) (0.1) 53 % Total Revenue $ 646.0 $ 721.4 -10 % Operating income (loss) People Inc. $ 106.0 $ 87.3 21 % Care.com (191.1) 3.5 NM Search 0.2 6.0 -96 % Emerging & Other 2.6 (7.2) NM Corporate (31.1) (41.5) 25 % Total Operating (loss) income $ (113.4) $ 48.1 NM Adjusted EBITDA People Inc. $ 142.2 $ 130.1 9 % Care.com 18.6 7.9 135 % Search 0.2 6.0 -96 % Emerging & Other 3.2 (6.7) NM Corporate (22.6) (27.5) 18 % Total Adjusted EBITDA $ 141.6 $ 109.9 29 %",
+      "token_count": 169
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "($ in millions, rounding differences may occur) Q4 2025 Q4 2024 Growth Revenue Digital $ 354.8 $ 310.6 14 % Print 168.5 217.9 -23 % Intersegment eliminations (11.4) (6.5) -77 % Total $ 511.8 $ 522.1 -2 %",
+      "token_count": 51
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Higher premium advertising revenue due primarily to the Health and Pharmaceuticals, Finance, and Media and Entertainment categories as well as increased contribution from D/Cipher+",
+      "token_count": 46
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Lower programmatic advertising revenue due to lower impression volumes driven by 13% declines in Core Sessions, due primarily to the impact of the growing prominence of Google AI Overviews on Google search sessions, and an increased portion of impression volume consumed by premium advertising, partially offset by higher rates",
+      "token_count": 83
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25aa Performance marketing revenue increased 17%, driven by 21% affiliate commerce growth resulting from a combination of higher transaction volumes and volume-related retailer incentive programs, partially offset by revenue declines from services, concentrated primarily in the Finance category",
+      "token_count": 73
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25aa Licensing and other revenue increased 36% due primarily to improved performance from Apple News+ and content syndication partners as well as the addition of the Meta partnership (signed in Q4 2025)",
+      "token_count": 50
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 23% Print revenue decline driven by the benefit of political advertising in Q4 2024 from an agency business, as well as the ongoing portfolio optimization and the continued migration of audience and advertising spend from print to digital",
+      "token_count": 60
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "($ in millions, rounding differences may occur) Q4 2025 Q4 2024 Growth Operating income (loss) Digital $ 112.3 $ 90.3 24 % Print 7.8 16.6 -53 % Other (14.0) (19.6) 28 % Total $ 106.0 $ 87.3 21 % Adjusted EBITDA Digital $ 137.9 $ 122.6 12 % Print 13.0 23.0 -44 % Other (8.7) (15.5) 44 % Total $ 142.2 $ 130.1 9 %",
+      "token_count": 78
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Adjusted EBITDA increased 12% to $137.9 million due to the revenue growth and $4.0 million of severance-related costs in Q4 2024, partially offset by higher online marketing spend and investments in Q4 2025 related to D/Cipher+ and new products (including the PEOPLE app)",
+      "token_count": 69
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 $8.0 million lower amortization of intangibles due to certain definite-lived intangible assets that became fully amortized in 2024",
+      "token_count": 33
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Adjusted EBITDA declined 44% to $13.0 million due to the lower revenue and an increased provision for credit losses, partially offset by lower operating expenses resulting from continued cost rationalization and the inclusion of $6.4 million of severance-related costs in Q4 2024",
+      "token_count": 71
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 $1.0 million lower amortization of intangibles",
+      "token_count": 12
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 A $4.0 million gain related to the sale of an aircraft",
+      "token_count": 14
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 Lower operating costs including $2.5 million of severance-related costs in Q4 2024",
+      "token_count": 21
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 Partially offset by Google litigation costs in Q4 2025",
+      "token_count": 14
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 4% lower Co nsumer revenue driven by a decline in the number of subscriptions on the Care.com platform compared to Q4 2024",
+      "token_count": 31
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 13% decrease in Enterprise revenue primarily driven by lower overall product utilization",
+      "token_count": 23
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 A $207.5 million non-cash goodwill impairment based on the Company\u2019s Q4 2025 estimate of fair value",
+      "token_count": 26
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 $9.3 million in net legal accruals in Q4 2024 related to the resolution of certain legal matters",
+      "token_count": 25
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Lower compensation costs, selling and marketing expense and professional fees",
+      "token_count": 20
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 71% decline at Ask Media Group due to frequent Google algorithm changes and policy updates, resulting in a reduction in marketing through affiliate channels, which drove fewer visitors to our ad-supported search and content websites",
+      "token_count": 59
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 51% decrease at Desktop (legacy desktop search software business)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Operating income and Adjusted EBITDA both decreased 96% to $0.2 million due to lower revenue, partially offset by lower traffic acquisition costs and online marketing as well as lower compensation costs",
+      "token_count": 51
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 50% higher revenue from The Daily Beast",
+      "token_count": 11
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 2% higher revenue from Vivian Health",
+      "token_count": 10
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25aa $5.0 million lower legal fees for litigation that concluded in Q3 2025 related to a legacy business",
+      "token_count": 26
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25aa Profits at both Vivian Health and The Daily Beast as compared to losses in Q4 2024",
+      "token_count": 21
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 $4.8 million lower Adjusted EBITDA losses to $22.6 million primarily due to lower professional fees and compensation costs, as well as $3.3 million of transaction-related costs in Q4 2024 related to the spin-off of Angi Inc.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u25e6 $5.5 million lower stock-based compensation expense due primarily to inclusion of expense in Q4 2024 related to the former IAC Inc. CEO\u2019s restricted stock award which was forfeited on January 13, 2025",
+      "token_count": 51
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "IAC Inc. holds 65.8 million shares of MGM, which were purchased for $1.3 billion, and were valued at $2.2 billion as of February 2, 2026. Net earnings (loss) and diluted earnings (loss) per share reflect changes in MGM\u2019s share price as unrealized gains and losses and, as a result, can be very volatile, which reduces their ability to be effective measures to assess operating performance.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "During Q4 2025, we recorded a $13.4 million reduction in the non-operating loss of $32.6 million that was recorded in Q3 2025 due to an adverse jury verdict related to the disputed allocation of a gain on a real estate transaction that was initially recorded in 2015; the $13.4 million reduction in loss follows the court\u2019s ruling in Q4 2025 that the plaintiffs are not entitled to statutory prejudgment interest.",
+      "token_count": 104
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The Company recorded an income tax expense of $78.3 million in Q4 2025 with an effective tax rate significantly higher than the statutory rate due primarily to the non-deductible portion of the goodwill impairment at Care.com. In Q4 2024, the Company recorded an income tax benefit of $61.8 million for an effective tax rate of 23% , which was higher than the statutory rate due primarily to state taxes.",
+      "token_count": 101
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the twelve months ended December 31, 2025, net cash provided by operating activities attributable to continuing operations was $64.0 million, a $128.4 million decrease from net cash provided by operating activities attributable to continuing operations for the twelve months ended December 31, 2024. Free Cash Flow decreased $132.6 million to $44.8 million due primarily to unfavorable working capital in the current year relative to favorable working capital in the prior year and higher capital expenditures, partially offset by higher Adjusted EBITDA. The change in working capital is primarily due to $47.4 million of payments in 2025 at People Inc. related to amendments of a lease to surrender certain office space early, a decrease in accrued compensation costs in 2025 compared to an increase in 2024, a lower decrease in hosting arrangement prepayments in 2025 compared to 2024 due to payment timing changes beginning in 2024, and payments related to previously accrued legal matters, primarily at Care.com.",
+      "token_count": 255
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Twelve Months Ended December 31, ($ in millions, rounding differences may occur) 2025 2024 Net cash provided by operating activities attributable to continuing operations $ 64.0 $ 192.5 Capital expenditures (19.2) (15.0) Free cash flow $ 44.8 $ 177.4",
+      "token_count": 63
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 IAC Inc. had 77.3 million shares of common stock and Class B common stock outstanding.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 The Company h ad $960.2 million in cash and cash equivalents of which IAC Inc. held $675.9 million and People Inc. held $284.3 million.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 The Company had $1.4 billion in long-term debt, which is the obligation of People Inc.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u25e6 As of December 31, 2025, the weighted average maturity of People Inc.\u2019s long-term debt was 6.0 years with a weighted average borrowing cost of 7.1%.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u25e6 As of December 31, 2025, People Inc.\u2019s net consolidated leverage ratio defined in its credit agreement remained below 4.0x, providing People Inc. and IAC Inc. with increased financial flexibility.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 IAC Inc. owned 65.8 million shares of MGM.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Between November 1, 2025 and February 2, 2026, the Company repurchase d 1.0 million common shares for an aggregate of $37.0 million.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "As of January 30, 2026, I AC had 5.5 million shares remaining in its share repurchase authorization approved by the board of directors in March of 2025.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Share repurchases can be made over an indefinite period of time in the open market and in privately negotiated transactions, depending on those factors management deems relevant at any particular time, including, without limitation, market conditions, price and future outlook.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Q4 2025 Q4 2024 Growth People Inc. Revenue Advertising revenue $ 209.9 $ 191.8 9 % Performance marketing revenue 101.2 86.5 17 % Licensing and other revenue 43.8 32.3 36 % Total Digital Revenue 354.8 310.6 14 % Print Revenue 168.5 217.9 -23 % Intersegment eliminations (11.4) (6.5) -77 % Total Revenue $ 511.8 $ 522.1 -2 % Digital metrics Total Sessions (in millions) 2,241 2,666 -16 % Core Sessions (in millions) 2,021 2,327 -13 % Care.com Revenue Consumer $ 43.2 $ 45.0 -4 % Enterprise 42.5 48.6 -13 % Total Revenue $ 85.7 $ 93.7 -9 % Search Revenue Ask Media Group $ 21.6 $ 74.0 -71 % Desktop 7.4 15.2 -51 % Total Revenue $ 29.0 $ 89.2 -68 %",
+      "token_count": 161
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "IAC Inc. has various dilutive securities. The table below details these securities as well as potential dilution at various stock prices (shares in millions; rounding differences may occur).",
+      "token_count": 48
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Shares Avg Exercise Price As of 02/02/26 Dilution at: Share Price $ 37.02 $ 40.00 $ 45.00 $ 50.00 $ 55.00 Absolute Shares as of 02/02/26 76.8 76.8 76.8 76.8 76.8 76.8 RSUs, PSUs and subsidiary denominated equity awards 3.1 1.0 1.0 1.0 1.0 1.0 Options 0.4 $ 11.63 0.1 0.1 0.1 0.1 0.1 Total Dilution 1.1 1.1 1.1 1.1 1.1 % Dilution 1.4 % 1.4 % 1.4 % 1.4 % 1.4 % Total Diluted Shares Outstanding 77.9 77.9 77.9 77.9 77.9",
+      "token_count": 104
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The dilutive securities presentation is calculated using the methods and assumptions described below, which are different from those used for GAAP dilution, which is calculated based on the treasury stock method.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company currently settles all equity awards on a net basis; therefore, the dilutive effect is presented as the net number of shares expected to be issued upon vesting or exercise, and in the case of options, assuming no proceeds are received by the Company. Any required withholding taxes are paid in cash by the Company on behalf of the employees. In addition, the estimated income tax benefit from the tax deduction received upon the vesting or exercise of these awards is assumed to be used to repurchase IAC Inc. shares. Assuming all awards were exercised or vested on February 2, 2026, withholding taxes payable by the Company on behalf of the employees upon net settlement would have been $51.8 million (of which approximately 40% would be payable for awards currently vested and those vesting on or before December 31, 2026), assuming a stock price of $37.02 and a 50% withholding rate. The table above assumes no change in the fair value estimate of subsidiary denominated equity awards from the values used at December 31, 2025. The number of shares ultimately needed to settle these awards and the cash withholding tax obligation may vary significantly as a result of the determination of the fair value of the relevant subsidiary. In addition, the number of shares required to settle these awards will be impacted by movement in the stock price of IAC Inc..",
+      "token_count": 344
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Revenue $ 645,979 $ 721,438 $ 2,393,189 $ 2,622,121 Operating costs and expenses: Cost of revenue (exclusive of depreciation shown separately below) 195,054 246,533 809,765 1,002,412 Selling and marketing expense 173,108 190,017 728,220 738,225 General and administrative expense 105,987 136,820 418,523 499,091 Product development expense 46,497 57,756 196,021 228,327 Depreciation 8,588 10,113 37,510 40,838 Amortization of intangibles 22,663 32,113 93,115 141,906 Goodwill impairment 207,451 \u2014 207,451 \u2014 Total operating costs and expenses 759,348 673,352 2,490,605 2,650,799 Operating (loss) income (113,369) 48,086 (97,416) (28,678) Interest expense (26,910) (31,909) (120,027) (135,719) Unrealized gain (loss) on investment in MGM Resorts International 118,527 (287,373) 119,175 (649,178) Other income, net 24,281 7,708 16,359 98,536 Earnings (loss) from continuing operations before income taxes 2,529 (263,488) (81,909) (715,039) Income tax (provision) benefit (78,301) 61,797 (34,848) 141,871 Net loss from continuing operations (75,772) (201,691) (116,757) (573,168) (Loss) earnings from discontinued operations, net of tax (26) 2,301 15,287 39,838 Net loss (75,798) (199,390) (101,470) (533,330) Net (earnings) loss attributable to noncontrolling interests (996) 413 (2,556) (6,567) Net loss attributable to IAC Inc. shareholders $ (76,794) $ (198,977) $ (104,026) $ (539,897) Per share information from continuing operations: Basic loss per share $ (0.99) $ (2.53) $ (1.46) $ (6.89) Diluted loss per share $ (0.99) $ (2.45) $ (1.46) $ (6.89) Per share information attributable to IAC Inc. common stock and Class B common stock shareholders: Basic loss per share $ (0.99) $ (2.50) $ (1.30) $ (6.49) Diluted loss per share $ (0.99) $ (2.42) $ (1.30) $ (6.49) Stock-based compensation expense by function: Cost of revenue $ 483 $ 462 $ 1,644 $ 2,219 Selling and marketing expense 1,028 708 3,922 2,636 General and administrative expense 13,830 17,494 23,303 68,991 Product development expense 905 937 3,444 3,899 Total stock-based compensation expense $ 16,246 $ 19,601 $ 32,313 $ 77,745",
+      "token_count": 546
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 2024 ASSETS Cash and cash equivalents $ 960,211 $ 1,381,736 Accounts receivable, net 448,814 483,020 Other current assets 135,725 125,208 Current assets of discontinued operations \u2014 495,072 Total current assets 1,544,750 2,485,036 Buildings, land, equipment, leasehold improvements and capitalized software, net 287,393 313,197 Goodwill 1,791,475 1,993,302 Intangible assets, net of accumulated amortization 465,860 554,473 Investment in MGM Resorts International 2,401,858 2,242,672 Long-term investments 409,240 438,534 Other non-current assets 230,153 324,901 Non-current assets of discontinued operations \u2014 1,336,529 TOTAL ASSETS $ 7,130,729 $ 9,688,644 LIABILITIES AND SHAREHOLDERS' EQUITY LIABILITIES: Current portion of long-term debt $ 24,500 $ 35,000 Accounts payable, trade 37,519 53,672 Deferred revenue 50,315 56,560 Accrued expenses and other current liabilities 448,533 509,299 Current liabilities of discontinued operations \u2014 231,661 Total current liabilities 560,867 886,192 Long-term debt, net 1,401,324 1,435,007 Deferred income taxes 148,602 153,850 Other long-term liabilities 230,913 372,950 Non-current liabilities of discontinued operations \u2014 536,257 Redeemable noncontrolling interests 25,264 25,415 Commitments and contingencies SHAREHOLDERS' EQUITY: Common stock, $0.0001 par value 8 8 Class B common stock, $0.0001 par value 1 1 Additional paid-in capital 5,959,692 6,380,700 Accumulated deficit (643,000) (538,974) Accumulated other comprehensive loss (11,842) (11,396) Treasury Stock (571,032) (252,441) Total IAC Inc. shareholders' equity 4,733,827 5,577,898 Noncontrolling interests 29,932 701,075 Total shareholders' equity 4,763,759 6,278,973 TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY $ 7,130,729 $ 9,688,644",
+      "token_count": 441
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "($ in thousands) Twelve Months Ended December 31, 2025 2024 Cash flows from operating activities attributable to continuing operations: Net loss $ (101,470) $ (533,330) Less: Earnings from discontinued operations, net of tax 15,287 39,838 Net loss attributable to continuing operations (116,757) (573,168) Adjustments to reconcile net loss attributable to continuing operations to net cash provided by operating activities attributable to continuing operations: Goodwill impairment 207,451 \u2014 Amortization of intangibles 93,115 141,906 Depreciation 37,510 40,838 Non-cash lease expense (including right-of-use asset impairments) 36,683 38,663 Stock-based compensation expense 32,313 77,745 Deferred income taxes 27,596 (156,659) Loss related to the allocation of a disputed gain on a real estate transaction 19,189 \u2014 Net losses (gains) on sales of investments and businesses (including unrealized losses on investments) 17,675 (10,493) Unrealized (gain) loss on investment in MGM Resorts International (119,175) 649,178 Net gains on amendments and early termination of lease agreements (42,193) (232) Unrealized increase in the estimated fair value of a warrant \u2014 (20,393) Other adjustments, net 11,689 (1,619) Changes in assets and liabilities, net of effects of acquisitions and dispositions: Accounts receivable 14,166 (6,398) Other assets 1,372 74,929 Operating lease liabilities (88,662) (51,031) Accounts payable and other liabilities (58,594) (8,732) Income taxes payable and receivable (2,259) 2,738 Deferred revenue (7,084) (4,809) Net cash provided by operating activities attributable to continuing operations 64,035 192,463 Cash flows from investing activities attributable to continuing operations: Capital expenditures (19,201) (15,014) Allocation of cash to Angi Inc. in the spin-off (386,563) \u2014 Purchase of MGM Resorts International common shares (40,011) \u2014 Net proceeds from the sales of investments and businesses 11,359 177,163 Purchase of investments \u2014 (53) Proceeds from the sale of a portion of the retirement investment fund 13,934 2,326 Purchase of retirement investment fund \u2014 (15,968) Net proceeds from sales of fixed assets 17,458 12,751 Proceeds from maturities of marketable debt securities \u2014 375,000 Purchases of marketable debt securities \u2014 (221,788) Net collections of notes receivable \u2014 11,834 Other, net (1,591) 985 Net cash (used in) provided by investing activities attributable to continuing operations (404,615) 327,236 Cash flows from financing activities attributable to continuing operations: Principal payments on Term Loans (1,434,523) (67,964) Net proceeds from Term Loans refinancing 991,451 7,964 Proceeds from the issuance of the 2032 Notes 400,000 \u2014 Debt issuance and deferred financing costs (12,937) (15) Purchases of treasury stock (315,041) \u2014 Withholding taxes paid on behalf of employees on net settled stock-based awards (79,996) (14,976) Other, net 43 (1,897) Net cash used in financing activities attributable to continuing operations (451,003) (76,888) Total cash (used in) provided by continuing operations (791,583) 442,811 Net cash (used in) provided by operating activities attributable to discontinued operations (2,758) 162,055 Net cash used in investing activities attributable to discontinued operations (12,499) (50,411) Net cash used in financing activities attributable to discontinued operations (14,343) (52,211) Total cash (used in) provided by discontinued operations (29,600) 59,433 Effect of exchange rate changes on cash and cash equivalents and restricted cash 759 (1,230) Net (decrease) increase in cash and cash equivalents and restricted cash (820,424) 501,014 Cash and cash equivalents and restricted cash at beginning of period 1,807,255 1,306,241 Cash and cash equivalents and restricted cash at end of period $ 986,831 $ 1,807,255",
+      "token_count": 953
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Adjustments to reconcile net loss attributable to continuing operations to net cash provided by operating activities attributable to continuing operations:",
+      "token_count": 39
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Please find below our full year 2026 outlook. IAC Inc. builds businesses and creates shareholder value with a long-term perspective. As stewards of shareholder capital, we do not manage our businesses or optimize results on a quarterly basis and have long believed full year performance is the best indicator of progress along the path toward value creation. Given heightened market volatility and macroeconomic uncertainty, we have determined quarterly earnings guidance no longer provides investors with a useful indicator of our businesses\u2019 execution, progress, or overall performance. Accordingly, we will no longer provide quarterly outlooks and will continue to focus on long-term strategic priorities. Our outlook reflects management\u2019s current expectations and is subject to risks and uncertainties. Actual results may differ materially, and our expectations may not materialize as anticipated.",
+      "token_count": 226
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "($ in millions) FY 2026 Outlook Adjusted EBITDA (a) People Inc. $310-$340 Care.com 45-55 Search (5)-10 Emerging & Other 0-10 Corporate (90-80) Total Adjusted EBITDA $260-$335 Stock-based compensation expense (55-50) Depreciation (30-25) Amortization of intangibles (80-70) Total Operating income $95-$190",
+      "token_count": 76
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(a) Guidance assumes no future expenses related to severance, transactions costs or non-cash lease impairments.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 People Inc. \u2013 Expect both Digital revenue and Digital Adjusted EBITDA to grow mid-to-high single-digits in 2026. Corporate expenses expected to exceed Print Adjusted EBITDA by $15 million due to estimated Google litigation expense. In aggregate, guiding to $310-$340 million of consolidated People Inc. Adjusted EBITDA.",
+      "token_count": 81
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Care.com \u2013 Return to revenue growth in 2026.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Search \u2013 Uncertain future given the disruptions in the search ecosystem and potential Google contract changes.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Emerging & Other \u2013 Revenue and Adjusted EBITDA growth driven by Vivian Health and The Daily Beast.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "IAC Inc. RECONCILIATION OF PEOPLE INC.\u2019S OPERATING INCOME TO ADJUSTED EBITDA EXCLUDING CERTAIN ITEMS",
+      "token_count": 26
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "($ in millions) FY 2025 Operating income $213 Certain Items (26) Operating Income excluding Certain Items $187 Stock-based compensation expense 28 Depreciation 27 Amortization of intangibles 89 Adjusted EBITDA excluding Certain Items (a) $331",
+      "token_count": 61
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Excludes approximately $41 million of net gains from amendments of a lease to surrender certain office space early in Q1 2025 and Q3 2025 and $15 million in severance-related costs in Q3 2025.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the three months ended December 31, 2025 Operating Income (Loss) Stock-based Compensation Expense Depreciation Amortization of Intangibles Goodwill impairment Adjusted EBITDA People Inc. Digital $ 112.3 $ 3.5 $ 3.9 $ 18.2 $ \u2014 $ 137.9 Print 7.8 0.4 1.1 3.6 \u2014 13.0 Other (14.0) 4.1 1.3 \u2014 \u2014 (8.7) Total People Inc. 106.0 8.0 6.3 21.9 \u2014 142.2 Care.com (191.1) 1.1 0.3 0.8 207.5 18.6 Search 0.2 \u2014 \u2014 \u2014 \u2014 0.2 Emerging & Other 2.6 0.6 \u2014 \u2014 \u2014 3.2 Corporate (31.1) 6.5 1.9 \u2014 \u2014 (22.6) Total $ (113.4) $ 16.2 $ 8.6 $ 22.7 $ 207.5 $ 141.6",
+      "token_count": 132
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the three months ended December 31, 2024 Operating Income (Loss) Stock-based Compensation Expense Depreciation Amortization of Intangibles Adjusted EBITDA People Inc. Digital $ 90.3 $ 2.3 $ 3.7 $ 26.2 $ 122.6 Print 16.6 0.4 1.5 4.6 23.0 Other (19.6) 3.3 0.8 \u2014 (15.5) Total People Inc. 87.3 6.0 6.0 30.8 130.1 Care.com 3.5 1.2 2.0 1.3 7.9 Search 6.0 \u2014 \u2014 \u2014 6.0 Emerging & Other (7.2) 0.5 \u2014 \u2014 (6.7) Corporate (41.5) 12.0 2.0 \u2014 (27.5) Total $ 48.1 $ 19.6 $ 10.1 $ 32.1 $ 109.9",
+      "token_count": 119
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "IAC Inc. RECONCILIATION OF OPERATING INCOME (LOSS) TO ADJUSTED EBITDA (continued)",
+      "token_count": 21
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the twelve months ended December 31, 2025 Operating Income (Loss) Stock-based Compensation Expense Depreciation Amortization of Intangibles Goodwill impairment Adjusted EBITDA People Inc. Digital $ 206.6 $ 11.6 $ 14.6 $ 74.5 $ \u2014 $ 307.2 Print 28.9 1.8 5.2 14.7 \u2014 50.5 Other (22.9) 15.1 7.2 \u2014 \u2014 (0.6) Total People Inc. 212.6 28.4 26.9 89.2 \u2014 357.1 Care.com (171.5) 4.4 2.5 3.9 207.5 46.8 Search 10.2 \u2014 \u2014 \u2014 \u2014 10.2 Emerging & Other (32.4) 4.6 \u2014 \u2014 \u2014 (27.7) Corporate (116.4) (5.1) 8.1 \u2014 \u2014 (113.4) Total $ (97.4) $ 32.3 $ 37.5 $ 93.1 $ 207.5 $ 273.0",
+      "token_count": 137
+    },
+    {
+      "source_id": "S086",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the twelve months ended December 31, 2024 Operating Income (Loss) Stock-based Compensation Expense Depreciation Amortization of Intangibles Adjusted EBITDA People Inc. Digital $ 146.8 $ 10.1 $ 15.9 $ 116.5 $ 289.4 Print 24.6 2.0 7.3 19.9 53.8 Other (64.6) 13.7 3.1 \u2014 (47.8) Total People Inc. 106.9 25.8 26.3 136.4 295.4 Care.com 29.2 4.6 6.0 5.5 45.2 Search 17.4 \u2014 0.1 \u2014 17.5 Emerging & Other (37.7) 1.6 0.1 \u2014 (36.0) Corporate (144.4) 45.7 8.4 \u2014 (90.3) Total $ (28.7) $ 77.7 $ 40.8 $ 141.9 $ 231.8",
+      "token_count": 126
+    },
+    {
+      "source_id": "S087",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "IAC Inc. reports Adjusted EBITDA and Free Cash Flow, which are supplemental measures to U.S. generally accepted accounting principles (\u201cGAAP\u201d). Adjusted EBITDA is our primary segment measure of profitability; it and Free Cash Flow are among the metrics by which we evaluate the performance of our businesses, and our internal budgets are based and may also impact management compensation. We believe that investors and analysts should have access to, and we are obligated to provide, the same set of tools that we use in analyzing our results. These non-GAAP measures should be considered in addition to results prepared in accordance with GAAP but should not be considered a substitute for or superior to GAAP results. IAC Inc. endeavors to compensate for the limitations of the non-GAAP measures presented by providing the comparable GAAP measures with equal or greater prominence and descriptions of the reconciling items, including quantifying such items, to derive the non-GAAP measures. We encourage investors to examine the reconciling adjustments between the GAAP and non-GAAP measures, which are included in this release. Interim results are not necessarily indicative of the results that may be expected for a full year.",
+      "token_count": 309
+    },
+    {
+      "source_id": "S088",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA (Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization) is defined as operating income excluding: (1) stock-based compensation expense; (2) depreciation; and (3) acquisition-related items consisting of (i) amortization of intangible assets and impairments of goodwill and intangible assets, if applicable, and (ii) gains and losses recognized on changes in the fair value of contingent consideration arrangements, if applicable. We believe this measure is useful for investors and analysts as this measure allows a more meaningful comparison between our performance and that of our competitors. Adjusted EBITDA has certain limitations because it excludes the impact of these expenses.",
+      "token_count": 180
+    },
+    {
+      "source_id": "S089",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Free Cash Flow is defined as net cash provided by operating activities attributable to continuing operations, less capital expenditures. We believe Free Cash Flow is useful to analysts and investors because it represents the cash that our operating businesses generate, before taking into account non-operational cash movements. Free Cash Flow has certain limitations in that it does not represent the total increase or decrease in the cash balance for the period, nor does it represent the residual cash flow for discretionary expenditures. For example, it does not take into account stock repurchases. Therefore, we think it is important to evaluate Free Cash Flow along with our consolidated statement of cash flows.",
+      "token_count": 180
+    },
+    {
+      "source_id": "S090",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Stock-based compensation expense consists of expense associated with awards that were granted under various IAC Inc. stock and annual incentive plans that are denominated in IAC Inc. common shares and expense related to awards denominated in the equity of certain subsidiaries of the Company. These expenses are not paid in cash, and we view the economic costs of stock-based awards to be the dilution to our share base; the related shares are included in our fully diluted shares outstanding for GAAP earnings per share using the treasury stock method. The Company currently settles all stock-based awards on a net basis; whereby IAC Inc. remits from its current funds the required tax-withholding on behalf of employees for net-settled awards.",
+      "token_count": 188
+    },
+    {
+      "source_id": "S091",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Please see page 11 for a summary of our dilutive securities, including stock-based awards as of February 2, 2026 , and a description of the calculation methodology.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S092",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Depreciation is a non-cash expense relating to our buildings, equipment, leasehold improvements and capitalized software and is computed using the straight-line method to allocate the cost of depreciable assets to operations over their estimated useful lives, or, in the case of leasehold improvements, the lease term, if shorter.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S093",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Amortization of intangible assets and impairments of goodwill and intangible assets are non-cash expenses related primarily to acquisitions. At the time of acquisition, the identifiable definite-lived intangible assets of the acquired company are valued and amortized over their estimated lives. Value is also assigned to acquired indefinite-lived intangible assets, which comprise trade names and trademarks, and goodwill that are not subject to amortization. An impairment is recorded when the carrying value of an intangible asset or goodwill exceeds its fair value. We believe that intangible assets represent costs incurred by the acquired company to build value prior to acquisition and the related amortization and impairments of intangible assets or goodwill, if applicable, are not ongoing costs of doing business.",
+      "token_count": 206
+    },
+    {
+      "source_id": "S094",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Gains and losses recognized on changes in the fair value of contingent consideration arrangements are accounting adjustments to report liabilities for the portion of the purchase price of acquisitions, if applicable, that is contingent upon the financial performance and/or operating targets of the acquired company at fair value that are recognized in \u201cGeneral and administrative expense\u201d in the statement of operations. These adjustments can be highly variable and are excluded from our assessment of performance because they are considered non-operational in nature and, therefore, are not indicative of current or future performance or the ongoing cost of doing business.",
+      "token_count": 169
+    },
+    {
+      "source_id": "S095",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Digital Revenue \u2013 Includes Advertising revenue, Performance Marketing revenue and Licensing and Other revenue.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S096",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(a) Advertising revenue \u2013 primarily includes revenue generated from digital advertisements and intent-based advertising targeting capabilities (D/Cipher+), which are sold directly to advertisers or through advertising agencies and programmatic advertising networks.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S097",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(b) Performance Marketing revenue \u2013 includes commissions generated through affiliate commerce, performance marketing services and affinity marketing channels. Affiliate commerce commission revenue is generated when People Inc.\u2019s branded content refers consumers to commerce partner websites resulting in a purchase or transaction. Performance marketing services commission revenue is generated on a cost-per-click or cost-per-action basis. Affinity marketing programs are arrangements where People Inc. acts as an agent for both People Inc. and third-party publishers to market and place magazine subscriptions online for which commission revenue is earned when a subscriber name has been provided to the publisher.",
+      "token_count": 179
+    },
+    {
+      "source_id": "S098",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(c) Licensing and Other revenue \u2013 primarily includes revenue generated through brand and content licensing and similar agreements. Brand licensing generates royalties from long-term trademark licensing agreements with retailers, service providers, publishers and manufacturers. Content licensing royalties are earned from our relationship with Apple News+ as well as other content use and distribution relationships, including utilization in large-language models and other artificial intelligence-related activities.",
+      "token_count": 130
+    },
+    {
+      "source_id": "S099",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Print Revenue \u2013 Primarily includes subscription, advertising, project and other, newsstand and performance marketing revenue. Project and other revenue includes revenue from advertising agency related revenue and custom publishing. Performance marketing revenue includes revenue from marketing third-party magazine subscriptions.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S100",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Total Sessions \u2013 Represents unique visits to all sites that are part of People Inc.\u2019s network.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S101",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Core Sessions \u2013 Represents a subset of Total Sessions that comprises unique visits to People Inc.\u2019s most significant (in terms of investment) owned and operated sites as follows:",
+      "token_count": 45
+    },
+    {
+      "source_id": "S102",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "PEOPLE InStyle Simply Recipes Allrecipes Food & Wine Serious Eats Investopedia Martha Stewart EatingWell Better Homes & Gardens Byrdie Parents Verywell Health REAL SIMPLE Verywell Mind The Spruce Southern Living Health Travel + Leisure",
+      "token_count": 59
+    },
+    {
+      "source_id": "S103",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Consumer Revenue - Consists of revenue primarily generated through subscription fees from families and caregivers, both domestically and internationally, for its suite of products and services. Consumer revenue also includes revenue generated through Care.com\u2019s comprehensive household payroll and tax support services (HomePay) as well as through contracts with businesses that advertise on its platform.",
+      "token_count": 102
+    },
+    {
+      "source_id": "S104",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Enterprise Revenue - Consists of revenue generated primarily through annual contracts with businesses ( Care for Business ) (employers or re-sellers) who provide access to Care.com\u2019s suite of products and services as an employee benefit.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S105",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Ask Media Group Revenue - Consists of revenue generated from advertising principally through the display of paid listings in response to search queries, as well as from display advertisements appearing alongside content on its various websites, and, to a lesser extent, affiliate commerce commission revenue. The majority of the paid listings displayed by Ask Media Group is supplied to us by Google Inc. (\u201cGoogle\u201d) pursuant to our services agreement with Google. The service agreement expires by its terms on March 31, 2026.",
+      "token_count": 132
+    },
+    {
+      "source_id": "S106",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Desktop Revenue - Consists of revenue generated by applications distributed through both business-to-business partnerships and direct-to-consumer marketing.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S107",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "IAC Inc. (NASDAQ:IAC) builds companies. We are guided by curiosity, a questioning of the status quo, and a desire to invent or acquire new products and brands. From the single seed that started as IAC Inc. nearly three decades ago have emerged 10 independent, public-traded companies and generations of exceptional leaders. We will always evolve, but our basic principles of financially-disciplined opportunism will never change. IAC Inc. is today comprised of category-leading businesses People Inc. and Care.com among others and holds strategic equity positions in MGM Resorts International and Turo Inc. IAC Inc. is headquartered in New York City.",
+      "token_count": 167
+    },
+    {
+      "source_id": "S108",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "555 West 18 th Street, New York, NY 10011 (212) 314-7300 http://IAC Inc..com",
+      "token_count": 20
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.062898,
+    "ret_20d": -0.054228,
+    "market_ret_20d": 0.002632
+  },
+  "outcome_blind": true
+}

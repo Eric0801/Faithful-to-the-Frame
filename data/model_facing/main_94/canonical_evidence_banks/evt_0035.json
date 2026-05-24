@@ -1,0 +1,919 @@
+{
+  "event_id": "evt_0035",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "COMCAST CORP",
+  "ticker": "CMCSA",
+  "company_alias": "COMCAST CORP",
+  "masked_company": "Company K",
+  "sector": "Communication Services",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-29",
+  "accepted_at_et": "2026-01-29T07:08:26-05:00",
+  "source_packet_path": "source_packets/evt_0035.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "PHILADELPHIA - 2026-01-29T07:08:26-05:00\u2026 COMCAST CORP Corporation (NASDAQ:CMCSA) today reported results for the quarter and year ended December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "PHILADELPHIA - 2026-01-29T07:08:26-05:00\u2026 COMCAST CORP Corporation (NASDAQ:CMCSA) today reported results for the quarter and year ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\"2025 was a year of meaningful progress as we made decisive changes to position the company for long-term, sustainable growth,\" said co-CEOs Brian L.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\"2025 was a year of meaningful progress as we made decisive changes to position the company for long-term, sustainable growth,\" said co-CEOs Brian L. Roberts and Mike Cavanagh. \"It was also our best year ever in wireless, with 1.5 million net line additions and more than 9 mil...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "($ in millions, except per share data) 4th Quarter Full Year Consolidated Results 2025 2024 Change 2025 2024 Change Revenue $32,310 $31,915 1.2 % $123,707 $123,731 \u2014 % Net Income Attributable to COMCAST CORP $2,168 $4,778 (54.6 %) $19,998 $16,192 23.5 % Adjusted Net Income 1 $3,062 $3,694 (17.1 %) $15,972 $16,937 (5.7 %) Adjusted EBITDA 2 $7,900 $8,807 (10.3 %) $37,384 $38,069 (1.8 %) Earnings per Share 3 $0.60 $1.24 (52.0 %) $5.39 $4.14 30.1 % Adjusted Earnings per Share 1 $0.84 $0.96 (12.4 %) $4.31 $4.33 (0.6 %) Net Cash Provided by Operating Activities $8,841 $8,080 9.4 % $33,643 $27,673 21.6 % Free Cash Flow 4 $4,369 $3,260 34.0 % $19,235 $12,543 53.4 %",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "($ in millions, except per share data) 4th Quarter Full Year Consolidated Results 2025 2024 Change 2025 2024 Change Revenue $32,310 $31,915 1.2 % $123,707 $123,731 \u2014 % Net Income Attributable to COMCAST CORP $2,168 $4,778 (54.6 %) $19,998 $16,192 23.5 % Adjusted Net Income 1 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Generated Consolidated Adjusted EBITDA of $7.9 Billion in the Fourth Quarter and $37.4 Billion for the Full Year; Adjusted EPS of $0.84 in the Fourth Quarter and $4.31 for the Full Year; and Free Cash Flow of $4.4 Billion in the Fourth Quarter and $19.2 Billion for the Full Year",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Generated Consolidated Adjusted EBITDA of $7.9 Billion in the Fourth Quarter and $37.4 Billion for the Full Year; Adjusted EPS of $0.84 in the Fourth Quarter and $4.31 for the Full Year; and Free Cash Flow of $4.4 Billion in the Fourth Quarter and $19.2 Billion for the Full...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "\u2022 Returned $2.7 Billion to Shareholders in the Fourth Quarter Through $1.2 Billion in Dividend Payments and $1.5 Billion in Share Repurchases.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Returned $2.7 Billion to Shareholders in the Fourth Quarter Through $1.2 Billion in Dividend Payments and $1.5 Billion in Share Repurchases. Total Capital Returned for the Full Year Was $11.7 Billion, Including $6.8 Billion in Share Repurchases, Reducing Shares Outstanding b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u2022 At Connectivity & Platforms, Connectivity Revenue Increased 3.2% to $11.6 Billion in the Fourth Quarter and 4.2% to $46.0 Billion for the Full Year, Driven By Growth In Domestic Wireless, International Connectivity and Business Services Connectivity",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 At Connectivity & Platforms, Connectivity Revenue Increased 3.2% to $11.6 Billion in the Fourth Quarter and 4.2% to $46.0 Billion for the Full Year, Driven By Growth In Domestic Wireless, International Connectivity and Business Services Connectivity",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "\u2022 Domestic Wireless Delivered its Best Year Ever With 1.5 Million Net Line Additions, Reaching 9.3 Million Total Lines and Surpassing 15% Penetration of Domestic Residential Broadband Customers, Reflecting Strong Demand for Our Converged Broadband and Mobile Offers",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Domestic Wireless Delivered its Best Year Ever With 1.5 Million Net Line Additions, Reaching 9.3 Million Total Lines and Surpassing 15% Penetration of Domestic Residential Broadband Customers, Reflecting Strong Demand for Our Converged Broadband and Mobile Offers",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "\u2022 Advanced Our New National Go-to-Market Strategy, Including Simplified Internet Plans Featuring Everyday Pricing, Everything Included and a 5-Year Price Guarantee; Alongside New Wireless Offers, Including a Free Xfinity Unlimited Mobile Line for One Year and a Premium Unlimited Plan Offering Gigabit Speeds and Enhanced Features",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Advanced Our New National Go-to-Market Strategy, Including Simplified Internet Plans Featuring Everyday Pricing, Everything Included and a 5-Year Price Guarantee; Alongside New Wireless Offers, Including a Free Xfinity Unlimited Mobile Line for One Year and a Premium Unlimit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "\u2022 Launched the NBA Across NBC and Peacock With the Best Season Start for Any Network in 24 Years; Sunday Night Football Remained Primetime's #1 Show for the 15th Consecutive Year, Averaging 23.5 Million Viewers Across NBC and Peacock",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Launched the NBA Across NBC and Peacock With the Best Season Start for Any Network in 24 Years; Sunday Night Football Remained Primetime's #1 Show for the 15th Consecutive Year, Averaging 23.5 Million Viewers Across NBC and Peacock",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "\u2022 Peacock Paid Subscribers Increased 22% Year-over-Year to 44 Million; Revenue Grew 23% to $1.6 Billion in the Fourth Quarter and 10% to $5.4 Billion for the Full Year; and Adjusted EBITDA Losses Improved by Over $700 Million for the Full Year, Including the Impact of NBA Rights Beginning in the Fourth Quarter",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Peacock Paid Subscribers Increased 22% Year-over-Year to 44 Million; Revenue Grew 23% to $1.6 Billion in the Fourth Quarter and 10% to $5.4 Billion for the Full Year; and Adjusted EBITDA Losses Improved by Over $700 Million for the Full Year, Including the Impact of NBA Righ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "\u2022 Wicked: For Good Premiered in November, With the Franchise Now Grossing $1.3 Billion Worldwide, Becoming the #1 Broadway-to-Feature Film Adaptation of All-Time",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Wicked: For Good Premiered in November, With the Franchise Now Grossing $1.3 Billion Worldwide, Becoming the #1 Broadway-to-Feature Film Adaptation of All-Time",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "margins",
+      "claim": "\u2022 Theme Parks Adjusted EBITDA Increased 24% in the Fourth Quarter, Surpassing $1.0 Billion in Quarterly EBITDA for the First Time, Fueled by the Opening of Epic Universe in May",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Theme Parks Adjusted EBITDA Increased 24% in the Fourth Quarter, Surpassing $1.0 Billion in Quarterly EBITDA for the First Time, Fueled by the Opening of Epic Universe in May",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "\u2022 Completed the Tax-Free Separation of Versant Media Group on January 2, 2026, with COMCAST CORP Shareholders Receiving One Share of Versant for Every 25 Shares of COMCAST CORP",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 Completed the Tax-Free Separation of Versant Media Group on January 2, 2026, with COMCAST CORP Shareholders Receiving One Share of Versant for Every 25 Shares of COMCAST CORP",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Revenue increased 1.2% compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Revenue increased 1.2% compared to the prior year period. Net Income Attributable to COMCAST CORP decreased 54.6%, reflecting an unfavorable comparison to the prior year period, which included a $1.9 billion income tax benefit due to an internal corporate reorganization. Adjus...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "earnings_or_eps",
+      "claim": "Earnings per Share (EPS) decreased 52.0% to $0.60.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Earnings per Share (EPS) decreased 52.0% to $0.60. Adjusted EPS decreased 12.4% to $0.84 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "costs_or_expenses",
+      "claim": "Capital Expenditures decreased 4.2% to $3.7 billion.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Capital Expenditures decreased 4.2% to $3.7 billion. Connectivity & Platforms\u2019 capital expenditures increased 9.8% to $2.9 billion, primarily reflecting higher spending on support capital, customer premise equipment and scalable infrastructure. On a full year basis, Connectivi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net Cash Provided by Operating Activities was $8.8 billion.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Net Cash Provided by Operating Activities was $8.8 billion. Free Cash Flow was $4.4 billion, including a $2.0 billion cash tax benefit related to an internal corporate reorganization in the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "Dividends and Share Repurchases.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Dividends and Share Repurchases. COMCAST CORP paid dividends totaling $1.2 billion and repurchased 53.6 million of its shares for $1.5 billion, resulting in a total return of capital to shareholders of $2.7 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "($ in millions) Constant Currency Change 5 4th Quarter 2025 2024 Change Connectivity & Platforms Revenue Residential Connectivity & Platforms $17,646 $18,016 (2.1 %) (3.1 %) Business Services Connectivity 2,590 2,448 5.8 % 5.8 % Total Connectivity & Platforms Revenue $20,237 $20,464 (1.1 %) (2.0 %) Connectivity & Platforms Adjusted EBITDA Residential Connectivity & Platforms $6,099 $6,479 (5.9 %) (6.1 %) Business Services Connectivity 1,405 1,363 3.1 % 3.1 % Total Connectivity & Platforms Adjusted EBITDA $7,503 $7,842 (4.3 %) (4.5 %) Connectivity & Platforms Adjusted EBITDA Margin Residential Connectivity & Platforms 34.6 % 36.0 % (140) bps (110) bps Business Services Connectivity 54.2 % 55.7 % (150) bps (150) bps Total Connectivity & Platforms Adjusted EBITDA Margin 37.1 % 38.3 % (120) bps (90) bps",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "($ in millions) Constant Currency Change 5 4th Quarter 2025 2024 Change Connectivity & Platforms Revenue Residential Connectivity & Platforms $17,646 $18,016 (2.1 %) (3.1 %) Business Services Connectivity 2,590 2,448 5.8 % 5.8 % Total Connectivity & Platforms Revenue $20,237 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "margins",
+      "claim": "Change percentages represent year/year growth rates.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Change percentages represent year/year growth rates. The changes in Adjusted EBITDA margins are presented as year/year basis point changes in the rounded Adjusted EBITDA margins.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "Revenue for Connectivity & Platforms decreased compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Revenue for Connectivity & Platforms decreased compared to the prior year period. Adjusted EBITDA decreased due to a decline in Residential Connectivity & Platforms Adjusted EBITDA, partially offset by growth in Business Services Adjusted EBITDA. Residential Connectivity & Pla...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "(in thousands) Net Additions / (Losses) 4th Quarter 4Q25 4Q24 2025 2024 Customer Relationships Domestic Residential Connectivity & Platforms Customer Relationships 30,439 31,172 (203) (151) International Residential Connectivity & Platforms Customer Relationships 17,624 17,811 22 95 Business Services Connectivity Customer Relationships 2,702 2,626 \u2014 (2) Total Connectivity & Platforms Customer Relationships 50,766 51,609 (181) (58) Domestic Broadband Residential Customers 28,719 29,373 (178) (131) Business Customers 2,536 2,469 (3) (8) Total Domestic Broadband Customers 31,255 31,842 (181) (139) Total Domestic Wireless Lines 9,305 7,826 364 307 Total Domestic Video Customers 11,270 12,523 (245) (311)",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "(in thousands) Net Additions / (Losses) 4th Quarter 4Q25 4Q24 2025 2024 Customer Relationships Domestic Residential Connectivity & Platforms Customer Relationships 30,439 31,172 (203) (151) International Residential Connectivity & Platforms Customer Relationships 17,624 17,811...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "Total Customer Relationships for Connectivity & Platforms decreased by 181,000 to 50.8 million, reflecting a decrease in domestic customer relationships, partially offset by an increase in international customer relationships.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Total Customer Relationships for Connectivity & Platforms decreased by 181,000 to 50.8 million, reflecting a decrease in domestic customer relationships, partially offset by an increase in international customer relationships. Total domestic broadband customer net losses were...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "($ in millions) Constant Currency Change 5 4th Quarter 2025 2024 Change Revenue Domestic Broadband $6,316 $6,384 (1.1 %) (1.1 %) Domestic Wireless 1,403 1,189 18.0 % 18.0 % International Connectivity 1,337 1,263 5.8 % 1.8 % Total Residential Connectivity 9,055 8,836 2.5 % 1.9 % Video 6,356 6,736 (5.6 %) (7.1 %) Advertising 1,033 1,158 (10.8 %) (12.3 %) Other 1,203 1,286 (6.5 %) (7.4 %) Total Revenue $17,646 $18,016 (2.1 %) (3.1 %) Operating Expenses Programming $3,950 $4,125 (4.3 %) (5.8 %) Non-Programming 7,598 7,412 2.5 % 1.0 % Total Operating Expenses $11,548 $11,537 0.1 % (1.4 %) Adjusted EBITDA $6,099 $6,479 (5.9 %) (6.1 %) Adjusted EBITDA Margin 34.6 % 36.0 % (140) bps (110) bps",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "($ in millions) Constant Currency Change 5 4th Quarter 2025 2024 Change Revenue Domestic Broadband $6,316 $6,384 (1.1 %) (1.1 %) Domestic Wireless 1,403 1,189 18.0 % 18.0 % International Connectivity 1,337 1,263 5.8 % 1.8 % Total Residential Connectivity 9,055 8,836 2.5 % 1.9...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Beginning in the first quarter of 2025, commission revenue from the sale of certain direct to consumer (\u201cDTC\u201d) streaming services and revenue related to certain equipment are presented in video revenue.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Beginning in the first quarter of 2025, commission revenue from the sale of certain direct to consumer (\u201cDTC\u201d) streaming services and revenue related to certain equipment are presented in video revenue. Previously, these amounts were presented in domestic broadband and interna...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Revenue for Residential Connectivity & Platforms decreased compared to the prior year period, reflecting decreases in video, advertising, other and broadband revenue, partially offset by increases in domestic wireless and international connectivity revenue.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Revenue for Residential Connectivity & Platforms decreased compared to the prior year period, reflecting decreases in video, advertising, other and broadband revenue, partially offset by increases in domestic wireless and international connectivity revenue. Domestic broadband...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "Other revenue decreased primarily due to lower residential wireline voice revenue, driven by a decline in the number of customers.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Other revenue decreased primarily due to lower residential wireline voice revenue, driven by a decline in the number of customers.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA for Residential Connectivity & Platforms decreased due to lower revenue, partially offset by lower operating expenses when excluding the impact of foreign currency.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Adjusted EBITDA for Residential Connectivity & Platforms decreased due to lower revenue, partially offset by lower operating expenses when excluding the impact of foreign currency. Programming expenses decreased primarily due to a decline in the number of domestic video custom...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "($ in millions) Constant Currency Change 5 4th Quarter 2025 2024 Change Revenue $2,590 $2,448 5.8 % 5.8 % Operating Expenses 1,186 1,085 9.3 % 9.2 % Adjusted EBITDA $1,405 $1,363 3.1 % 3.1 % Adjusted EBITDA Margin 54.2 % 55.7 % (150) bps (150) bps",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "($ in millions) Constant Currency Change 5 4th Quarter 2025 2024 Change Revenue $2,590 $2,448 5.8 % 5.8 % Operating Expenses 1,186 1,085 9.3 % 9.2 % Adjusted EBITDA $1,405 $1,363 3.1 % 3.1 % Adjusted EBITDA Margin 54.2 % 55.7 % (150) bps (150) bps",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Revenue for Business Services Connectivity increased primarily due to an increase in revenue from enterprise solutions offerings, including the results from a recent acquisition.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Revenue for Business Services Connectivity increased primarily due to an increase in revenue from enterprise solutions offerings, including the results from a recent acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA for Business Services Connectivity increased due to higher revenue, partially offset by higher operating expenses.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Adjusted EBITDA for Business Services Connectivity increased due to higher revenue, partially offset by higher operating expenses. The increase in operating expenses was primarily due to increases in direct product costs, which include the results from a recent acquisition. Ad...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "($ in millions) 4th Quarter 2025 2024 Change Content & Experiences Revenue Media $7,620 $7,222 5.5 % Studios 3,027 3,269 (7.4 %) Theme Parks 2,893 2,374 21.9 % Headquarters & Other 11 17 (33.5 %) Eliminations (817) (804) (1.5 %) Total Content & Experiences Revenue $12,736 $12,078 5.4 % Content & Experiences Adjusted EBITDA Media ($122) $298 (140.9 %) Studios 351 569 (38.4 %) Theme Parks 1,035 838 23.5 % Headquarters & Other (306) (189) (62.2 %) Eliminations 47 (26) NM Total Content & Experiences Adjusted EBITDA $1,005 $1,491 (32.6 %) NM=comparison not meaningful.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "($ in millions) 4th Quarter 2025 2024 Change Content & Experiences Revenue Media $7,620 $7,222 5.5 % Studios 3,027 3,269 (7.4 %) Theme Parks 2,893 2,374 21.9 % Headquarters & Other 11 17 (33.5 %) Eliminations (817) (804) (1.5 %) Total Content & Experiences Revenue $12,736 $12,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Revenue for Content & Experiences increased compared to the prior year period driven primarily by Theme Parks and Media, partially offset by a decrease in Studios.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Revenue for Content & Experiences increased compared to the prior year period driven primarily by Theme Parks and Media, partially offset by a decrease in Studios. Adjusted EBITDA for Content & Experiences decreased primarily due to declines in Media and Studios, partially off...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "($ in millions) 4th Quarter 2025 2024 Change Revenue Domestic Advertising $2,684 $2,645 1.5 % Domestic Distribution 3,038 2,885 5.3 % International Networks 1,297 1,090 19.0 % Other 602 603 (0.1 %) Total Revenue $7,620 $7,222 5.5 % Operating Expenses 7,742 6,923 11.8 % Adjusted EBITDA ($122) $298 (140.9 %)",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "($ in millions) 4th Quarter 2025 2024 Change Revenue Domestic Advertising $2,684 $2,645 1.5 % Domestic Distribution 3,038 2,885 5.3 % International Networks 1,297 1,090 19.0 % Other 602 603 (0.1 %) Total Revenue $7,620 $7,222 5.5 % Operating Expenses 7,742 6,923 11.8 % Adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Revenue for Media increased due to higher international networks, domestic distribution and domestic advertising revenue.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Revenue for Media increased due to higher international networks, domestic distribution and domestic advertising revenue. Domestic advertising revenue increased primarily due to an increase in revenue at Peacock, partially offset by lower revenue at our networks. The increase...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA for Media decreased due to higher operating expenses, which more than offset higher revenue.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Adjusted EBITDA for Media decreased due to higher operating expenses, which more than offset higher revenue. The increase in operating expenses primarily reflects higher programming costs at Peacock and elevated sports rights expenses on our linear networks, both of which incl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "($ in millions) 4th Quarter 2025 2024 Change Revenue Content Licensing $2,186 $2,383 (8.3 %) Theatrical 411 515 (20.2 %) Other 430 371 15.8 % Total Revenue $3,027 $3,269 (7.4 %) Operating Expenses 2,676 2,700 (0.9 %) Adjusted EBITDA $351 $569 (38.4 %)",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "($ in millions) 4th Quarter 2025 2024 Change Revenue Content Licensing $2,186 $2,383 (8.3 %) Theatrical 411 515 (20.2 %) Other 430 371 15.8 % Total Revenue $3,027 $3,269 (7.4 %) Operating Expenses 2,676 2,700 (0.9 %) Adjusted EBITDA $351 $569 (38.4 %)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "Revenue for Studios decreased due to lower content licensing and theatrical revenue.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Revenue for Studios decreased due to lower content licensing and theatrical revenue. Content licensing revenue decreased primarily due to the timing of when content was made available by our television and film studios. Theatrical revenue decreased primarily due to tougher com...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA for Studios decreased due to lower revenue and consistent operating expenses.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Adjusted EBITDA for Studios decreased due to lower revenue and consistent operating expenses. The consistent operating expenses primarily reflected higher marketing and promotion expenses due to increased spending on recent and upcoming theatrical film releases, offset by lowe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "($ in millions) 4th Quarter 2025 2024 Change Revenue $2,893 $2,374 21.9 % Operating Expenses 1,858 1,535 21.0 % Adjusted EBITDA $1,035 $838 23.5 %",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "($ in millions) 4th Quarter 2025 2024 Change Revenue $2,893 $2,374 21.9 % Operating Expenses 1,858 1,535 21.0 % Adjusted EBITDA $1,035 $838 23.5 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Revenue for Theme Parks increased due to higher revenue at domestic theme parks, driven by the successful opening of Epic Universe in May 2025.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Revenue for Theme Parks increased due to higher revenue at domestic theme parks, driven by the successful opening of Epic Universe in May 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA for Theme Parks increased, reflecting higher revenue, which more than offset higher operating expenses.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Adjusted EBITDA for Theme Parks increased, reflecting higher revenue, which more than offset higher operating expenses. The increase in operating expenses was primarily due to operating costs associated with Epic Universe.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "margins",
+      "claim": "Content & Experiences Headquarters & Other includes overhead, personnel costs and costs associated with corporate initiatives.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Content & Experiences Headquarters & Other includes overhead, personnel costs and costs associated with corporate initiatives. Headquarters & Other Adjusted EBITDA loss in the fourth quarter was $306 million, compared to a loss of $189 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Amounts represent eliminations of transactions between our Content & Experiences segments, the most significant being content licensing between the Studios and Media segments, which are affected by the timing of recognition of content licenses.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Amounts represent eliminations of transactions between our Content & Experiences segments, the most significant being content licensing between the Studios and Media segments, which are affected by the timing of recognition of content licenses. Revenue eliminations were $817 m...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "($ in millions) 4th Quarter 2025 2024 Change Corporate & Other Revenue $858 $784 9.5 % Operating Expenses 1,467 1,268 15.7 % Adjusted EBITDA ($608) ($484) (25.7 %) Eliminations Revenue ($1,521) ($1,411) 7.8 % Operating Expenses (1,521) (1,369) 11.1 % Adjusted EBITDA $\u2014 ($42) (100.3 %)",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "($ in millions) 4th Quarter 2025 2024 Change Corporate & Other Revenue $858 $784 9.5 % Operating Expenses 1,467 1,268 15.7 % Adjusted EBITDA ($608) ($484) (25.7 %) Eliminations Revenue ($1,521) ($1,411) 7.8 % Operating Expenses (1,521) (1,369) 11.1 % Adjusted EBITDA $\u2014 ($42) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "margins",
+      "claim": "Corporate & Other primarily includes overhead and personnel costs; our Sky-branded video services and television networks in Germany; COMCAST CORP Spectacor, which owns the Philadelphia Flyers and the Xfinity Mobile Arena in Philadelphia, Pennsylvania; and Xumo.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Corporate & Other primarily includes overhead and personnel costs; our Sky-branded video services and television networks in Germany; COMCAST CORP Spectacor, which owns the Philadelphia Flyers and the Xfinity Mobile Arena in Philadelphia, Pennsylvania; and Xumo. Corporate & Ot...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Amounts represent eliminations of transactions between Connectivity & Platforms, Content & Experiences and other businesses, the most significant being distribution of television network programming between the Media and Residential Connectivity & Platforms segments.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Amounts represent eliminations of transactions between Connectivity & Platforms, Content & Experiences and other businesses, the most significant being distribution of television network programming between the Media and Residential Connectivity & Platforms segments. Revenue e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "earnings_or_eps",
+      "claim": "1 We define Adjusted Net Income and Adjusted EPS as net income attributable to COMCAST CORP Corporation and diluted earnings per common share attributable to COMCAST CORP Corporation shareholders, respectively, adjusted to exclude the effects of the amortization of acquisition-related intangible assets, investments that investors may want to evaluate separately (such as based on fair value) and the impact of certain events, gains, losses or other charges that affect period-over-period comparisons.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "1 We define Adjusted Net Income and Adjusted EPS as net income attributable to COMCAST CORP Corporation and diluted earnings per common share attributable to COMCAST CORP Corporation shareholders, respectively, adjusted to exclude the effects of the amortization of acquisition...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "earnings_or_eps",
+      "claim": "2 We define Adjusted EBITDA as net income attributable to COMCAST CORP Corporation before net income (loss) attributable to noncontrolling interests, income tax expense, investment and other income (loss), net, interest expense, depreciation and amortization expense, and other operating gains and losses (such as impairment charges related to fixed and intangible assets and gains or losses on the sale of long-lived assets), if any.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "2 We define Adjusted EBITDA as net income attributable to COMCAST CORP Corporation before net income (loss) attributable to noncontrolling interests, income tax expense, investment and other income (loss), net, interest expense, depreciation and amortization expense, and other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "3 All earnings per share amounts are presented on a diluted basis.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "3 All earnings per share amounts are presented on a diluted basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "costs_or_expenses",
+      "claim": "4 We define Free Cash Flow as net cash provided by operating activities (as stated in our Consolidated Statement of Cash Flows) reduced by capital expenditures and cash paid for intangible assets.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "4 We define Free Cash Flow as net cash provided by operating activities (as stated in our Consolidated Statement of Cash Flows) reduced by capital expenditures and cash paid for intangible assets. From time to time, we may exclude from Free Cash Flow the impact of certain cash...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "5 Constant currency growth rates are calculated by comparing the results for each comparable prior year period adjusted to reflect the average exchange rates from each current year period presented rather than the actual exchange rates that were in effect during the respective periods.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "5 Constant currency growth rates are calculated by comparing the results for each comparable prior year period adjusted to reflect the average exchange rates from each current year period presented rather than the actual exchange rates that were in effect during the respective...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "earnings_or_eps",
+      "claim": "6 Adjusted EBITDA is the measure of profit or loss for our segments.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "6 Adjusted EBITDA is the measure of profit or loss for our segments. From time to time, we may present Adjusted EBITDA for components of our reportable segments, such as Peacock. We believe these measures are useful to evaluate our financial results and provide a basis of comp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "Numerical information is presented on a rounded basis using actual amounts, unless otherwise noted.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Numerical information is presented on a rounded basis using actual amounts, unless otherwise noted. The change in Peacock paid subscribers is calculated using rounded paid subscriber amounts. Minor differences in totals and percentage calculations may exist due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "From time to time, we post information that may be of interest to investors on our website at www.COMCAST CORP.com and on our corporate website, www.comcastcorporation.com .",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "From time to time, we post information that may be of interest to investors on our website at www.COMCAST CORP.com and on our corporate website, www.comcastcorporation.com . To automatically receive COMCAST CORP financial news by email, please visit www.COMCAST CORP.com and su...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "Investor Contacts: Press Contacts: Marci Ryvicker Marci_Ryvicker@COMCAST CORP.com Jennifer Khoury Jennifer_Khoury@COMCAST CORP.com (215) 531-3296 Jane Kearns Jane_Kearns@COMCAST CORP.com John Demming John_Demming@COMCAST CORP.com (215) 429-4744",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Investor Contacts: Press Contacts: Marci Ryvicker Marci_Ryvicker@COMCAST CORP.com Jennifer Khoury Jennifer_Khoury@COMCAST CORP.com (215) 531-3296 Jane Kearns Jane_Kearns@COMCAST CORP.com John Demming John_Demming@COMCAST CORP.com (215) 429-4744",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "In this discussion, we sometimes refer to financial measures that are not presented according to generally accepted accounting principles in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "In this discussion, we sometimes refer to financial measures that are not presented according to generally accepted accounting principles in the U.S. (GAAP). Certain of these measures are considered \u201cnon-GAAP financial measures\u201d under the SEC regulations; those rules require t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "COMCAST CORP Corporation (Nasdaq:CMCSA) is a global media and technology company.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "COMCAST CORP Corporation (Nasdaq:CMCSA) is a global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, our businesses reach hundreds of millions of customers, viewers, and guests worldwide. We deliver world-c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "TABLE 1 Condensed Consolidated Statements of Income (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "TABLE 1 Condensed Consolidated Statements of Income (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "Three Months Ended Twelve Months Ended (in millions, except per share data) December 31, December 31, 2025 2024 2025 2024 Revenue $32,310 $31,915 $123,707 $123,731 Costs and expenses Programming and production 10,305 10,027 34,951 37,026 Marketing and promotion 2,427 2,144 8,862 8,073 Other operating and administrative 11,903 10,918 43,013 40,533 Depreciation 2,393 2,182 9,327 8,729 Amortization 1,794 1,651 6,884 6,072 28,822 26,922 103,035 100,434 Operating income 3,488 4,993 20,672 23,297 Interest expense (1,126) (1,069) (4,409) (4,134) Investment and other income (loss), net Equity in net income (losses) of investees, net (278) (242) (591) (680) Realized and unrealized gains (losses) on equity securities, net (72) (150) (20) (313) Other income (loss), net 148 41 10,114 502 (202) (350) 9,503 (490) Income before income taxes 2,159 3,574 25,766 18,673 Income tax (expense) benefit (89) 1,111 (6,106) (2,796) Net income 2,070 4,684 19,660 15,877 Less: Net income (loss) attributable to noncontrolling interests (97) (93) (338) (315) Net income attributable to COMCAST CORP Corporation $2,168 $4,778 $19,998 $16,192 Diluted earnings per common share attributable to COMCAST CORP Corporation shareholders $0.60 $1.24 $5.39 $4.14 Diluted weighted-average number of common shares 3,636 3,842 3,709 3,908",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Three Months Ended Twelve Months Ended (in millions, except per share data) December 31, December 31, 2025 2024 2025 2024 Revenue $32,310 $31,915 $123,707 $123,731 Costs and expenses Programming and production 10,305 10,027 34,951 37,026 Marketing and promotion 2,427 2,144 8,8...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "balance_sheet_or_cash",
+      "claim": "TABLE 2 Consolidated Statements of Cash Flows (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "TABLE 2 Consolidated Statements of Cash Flows (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "Twelve Months Ended (in millions) December 31, 2025 2024 OPERATING ACTIVITIES Net income $19,660 $15,877 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 16,210 14,802 Share-based compensation 1,288 1,288 Noncash interest expense (income), net 488 464 Net (gain) loss on investment activity and other (8,853) 1,088 Deferred income taxes 2,674 (902) Changes in operating assets and liabilities, net of effects of acquisitions and divestitures: Current and noncurrent receivables, net (135) 136 Film and television costs, net 338 290 Accounts payable and accrued expenses related to trade creditors (20) (758) Other operating assets and liabilities 1,994 (4,611) Net cash provided by operating activities 33,643 27,673 INVESTING ACTIVITIES Capital expenditures (11,750) (12,181) Cash paid for intangible assets (2,658) (2,949) Construction of Universal Beijing Resort (11) (116) Acquisitions, net of cash acquired (1,306) (119) Proceeds from sales of businesses and investments 670 771 Purchases of investments (1,302) (1,082) Other 199 6 Net cash (used in) investing activities (16,157) (15,670) FINANCING ACTIVITIES Proceeds from borrowings 3,494 6,268 Repurchases and repayments of debt (5,740) (3,573) Repurchases of common stock under repurchase program and employee plans (7,155) (9,103) Dividends paid (4,894) (4,814) Other (50) 339 Net cash (used in) financing activities (14,346) (10,883) Impact of foreign currency on cash, cash equivalents and restricted cash 42 (26) Increase (decrease) in cash, cash equivalents and restricted cash 3,182 1,095 Cash, cash equivalents and restricted cash, beginning of period 7,377 6,282 Cash, cash equivalents and restricted cash, end of period $10,559 $7,377",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Twelve Months Ended (in millions) December 31, 2025 2024 OPERATING ACTIVITIES Net income $19,660 $15,877 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 16,210 14,802 Share-based compensation 1,288 1,288 Noncash i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "TABLE 3 Condensed Consolidated Balance Sheets (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "TABLE 3 Condensed Consolidated Balance Sheets (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "(in millions) December 31, December 31, 2025 2024 ASSETS Current Assets Cash and cash equivalents $9,481 $7,322 Receivables, net 13,869 13,661 Other current assets 6,217 5,817 Total current assets 29,567 26,801 Film and television costs 12,214 12,541 Investments 7,952 8,647 Property and equipment, net 65,680 62,548 Goodwill 61,502 58,209 Franchise rights 59,365 59,365 Other intangible assets, net 22,474 25,599 Other noncurrent assets, net 13,877 12,501 $272,631 $266,211 LIABILITIES AND EQUITY Current Liabilities Accounts payable and accrued expenses related to trade creditors $11,058 $11,321 Deferred revenue 4,097 3,507 Accrued expenses and other current liabilities 12,410 10,679 Current portion of debt 5,958 4,907 Advance on sale of investment \u2014 9,167 Total current liabilities 33,524 39,581 Noncurrent portion of debt 92,979 94,186 Deferred income taxes 27,788 25,227 Other noncurrent liabilities 20,965 20,942 Redeemable noncontrolling interests 224 237 Equity COMCAST CORP Corporation shareholders' equity 96,903 85,560 Noncontrolling interests 249 477 Total equity 97,151 86,038 $272,631 $266,211",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(in millions) December 31, December 31, 2025 2024 ASSETS Current Assets Cash and cash equivalents $9,481 $7,322 Receivables, net 13,869 13,661 Other current assets 6,217 5,817 Total current assets 29,567 26,801 Film and television costs 12,214 12,541 Investments 7,952 8,647 Pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "earnings_or_eps",
+      "claim": "TABLE 4 Reconciliation from Net Income Attributable to COMCAST CORP Corporation to Adjusted EBITDA (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, (in millions) 2025 2024 2025 2024 Net income attributable to COMCAST CORP Corporation $2,168 $4,778 $19,998 $16,192 Net income (loss) attributable to noncontrolling interests (97) (93) (338) (315) Income tax expense (benefit) 89 (1,111) 6,106 2,796 Interest expense 1,126 1,069 4,409 4,134 Investment and other (income) loss, net 202 350 (9,503) 490 Depreciation 2,393 2,182 9,327 8,729 Amortization 1,794 1,651 6,884 6,072 Adjustments (1) 225 (19) 501 (30) Adjusted EBITDA $7,900 $8,807 $37,384 $38,069",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "TABLE 4 Reconciliation from Net Income Attributable to COMCAST CORP Corporation to Adjusted EBITDA (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, (in millions) 2025 2024 2025 2024 Net income attributable to COMCAST CORP Corporation $2,168 $4,778 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "margins",
+      "claim": "Reconciliation from Net Cash Provided by Operating Activities to Free Cash Flow (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, (in millions) 2025 2024 2025 2024 Net cash provided by operating activities $8,841 $8,080 $33,643 $27,673 Capital expenditures (3,749) (3,914) (11,750) (12,181) Cash paid for capitalized software and other intangible assets (724) (906) (2,658) (2,949) Free Cash Flow $4,369 $3,260 $19,235 $12,543 Alternate Presentation of Free Cash Flow (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, (in millions) 2025 2024 2025 2024 Adjusted EBITDA $7,900 $8,807 $37,384 $38,069 Capital expenditures (3,749) (3,914) (11,750) (12,181) Cash paid for capitalized software and other intangible assets (724) (906) (2,658) (2,949) Cash interest expense (1,189) (1,154) (3,871) (3,657) Cash taxes (paid) received 1,623 (1,108) (755) (7,096) Changes in operating assets and liabilities 232 1,093 (551) (1,559) Noncash share-based compensation 274 305 1,288 1,288 Other (2) 2 136 148 627 Free Cash Flow $4,369 $3,260 $19,235 $12,543 (1) Adjusted EBITDA excludes transaction and transaction-related costs associated with the separation of Versant, as well as other operating and administrative expenses related to our investment portfolio.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Reconciliation from Net Cash Provided by Operating Activities to Free Cash Flow (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, (in millions) 2025 2024 2025 2024 Net cash provided by operating activities $8,841 $8,080 $33,643 $27,673 Capital expend...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "margins",
+      "claim": "Adjusted EBITDA excludes transaction and transaction-related costs associated with the separation of Versant, as well as other operating and administrative expenses related to our investment portfolio.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Adjusted EBITDA excludes transaction and transaction-related costs associated with the separation of Versant, as well as other operating and administrative expenses related to our investment portfolio. Transaction costs are incremental costs directly related to effectuating th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "margins",
+      "claim": "4th quarter and full year 2025 includes adjustments of $(235) and $(483) million, respectively, of transaction and transaction-related costs associated with the separation of Versant and $10 and $(18) million, respectively, of other operating and administrative expenses related to our investment portfolio, as these amounts are excluded from Adjusted EBITDA.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "4th quarter and full year 2025 includes adjustments of $(235) and $(483) million, respectively, of transaction and transaction-related costs associated with the separation of Versant and $10 and $(18) million, respectively, of other operating and administrative expenses relate...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "earnings_or_eps",
+      "claim": "TABLE 5 Reconciliations of Adjusted Net Income and Adjusted EPS (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 (in millions, except per share data) $ EPS $ EPS $ EPS $ EPS Net income attributable to COMCAST CORP Corporation and diluted earnings per share attributable to COMCAST CORP Corporation shareholders $2,168 $0.60 $4,778 $1.24 $19,998 $5.39 $16,192 $4.14 Change (54.6 %) (52.0 %) 23.5 % 30.1 % Amortization of acquisition-related intangible assets (1) 643 0.18 610 0.16 2,504 0.68 2,104 0.54 Investments (2) 199 0.05 220 0.06 278 0.07 553 0.14 Items affecting period-over-period comparability: Gain related to investment (3) \u2014 \u2014 \u2014 \u2014 (7,057) (1.90) \u2014 \u2014 Tax benefit from internal corporate reorganization (4) \u2014 \u2014 (1,920) (0.50) (177) (0.05) (1,920) (0.50) Tax benefit related to assets held for sale (5) (154) (0.04) \u2014 \u2014 (154) (0.04) \u2014 \u2014 Transaction-related costs (6) 183 0.05 \u2014 \u2014 329 0.09 \u2014 \u2014 Transaction costs (7) 24 0.01 7 \u2014 96 0.03 7 \u2014 Long-lived asset impairments (8) \u2014 \u2014 \u2014 \u2014 155 0.04 \u2014 \u2014 Adjusted Net income and Adjusted EPS $3,062 $0.84 $3,694 $0.96 $15,972 $4.31 $16,937 $4.33 Change (17.1 %) (12.4 %) (5.7 %) (0.6 %)",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "TABLE 5 Reconciliations of Adjusted Net Income and Adjusted EPS (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 (in millions, except per share data) $ EPS $ EPS $ EPS $ EPS Net income attributable to COMCAST CORP Corporation and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "earnings_or_eps",
+      "claim": "(1) Acquisition-related intangible assets are recognized as a result of the application of Accounting Standards Codification Topic 805, Business Combinations (such as customer relationships), and their amortization is significantly affected by the size and timing of our acquisitions.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "(1) Acquisition-related intangible assets are recognized as a result of the application of Accounting Standards Codification Topic 805, Business Combinations (such as customer relationships), and their amortization is significantly affected by the size and timing of our acquis...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "other",
+      "claim": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Amortization of acquisition-related intangible assets before income taxes $838 $798 $3,263 $2,747 Amortization of acquisition-related intangible assets, net of tax $643 $610 $2,504 $2,104",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Amortization of acquisition-related intangible assets before income taxes $838 $798 $3,263 $2,747 Amortization of acquisition-related intangible assets, net of tax $643 $610 $2,504 $2,104",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "other",
+      "claim": "(2) Adjustments for investments include realized and unrealized (gains) losses on equity securities, net (as stated in Table 1), as well as the equity in net (income) losses of investees, net, for certain equity method investments, including Atairos and Hulu and costs related to our investment portfolio.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "(2) Adjustments for investments include realized and unrealized (gains) losses on equity securities, net (as stated in Table 1), as well as the equity in net (income) losses of investees, net, for certain equity method investments, including Atairos and Hulu and costs related...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "other",
+      "claim": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Realized and unrealized (gains) losses on equity securities, net $72 $150 $20 $313 Equity in net (income) losses of investees, net and other 188 141 340 417 Investments before income taxes 260 291 361 729 Investments, net of tax $199 $220 $278 $553",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Realized and unrealized (gains) losses on equity securities, net $72 $150 $20 $313 Equity in net (income) losses of investees, net and other 188 141 340 417 Investments before income taxes 260...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "earnings_or_eps",
+      "claim": "(3) Full year 2025 net income attributable to COMCAST CORP Corporation includes a $9.4 billion pre-tax gain in other income (loss), net, $7.1 billion net of tax, related to the sale of our interest in Hulu.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "(3) Full year 2025 net income attributable to COMCAST CORP Corporation includes a $9.4 billion pre-tax gain in other income (loss), net, $7.1 billion net of tax, related to the sale of our interest in Hulu.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "earnings_or_eps",
+      "claim": "(4) Full year 2025 net income attributable to COMCAST CORP Corporation includes a $177 million income tax benefit due to an internal corporate reorganization.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "(4) Full year 2025 net income attributable to COMCAST CORP Corporation includes a $177 million income tax benefit due to an internal corporate reorganization. 4th quarter and full year 2024 net income attributable to COMCAST CORP Corporation includes a $1.9 billion income tax...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "earnings_or_eps",
+      "claim": "(5) 4th quarter and full year 2025 net income attributable to COMCAST CORP Corporation includes $154 million income tax benefit related to assets classified as held for sale as of December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "(5) 4th quarter and full year 2025 net income attributable to COMCAST CORP Corporation includes $154 million income tax benefit related to assets classified as held for sale as of December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "earnings_or_eps",
+      "claim": "(6) 4th quarter and full year 2025 net income attributable to COMCAST CORP Corporation includes $208 and $374 million, $183 and $329 million net of tax, respectively, of transaction-related costs related to the separation of Versant.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "(6) 4th quarter and full year 2025 net income attributable to COMCAST CORP Corporation includes $208 and $374 million, $183 and $329 million net of tax, respectively, of transaction-related costs related to the separation of Versant. Transaction-related costs are incremental c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "(7) 4th quarter and full year 2025 net income attributable to COMCAST CORP Corporation includes $27 and $109 million, $24 and $96 million net of tax, respectively, of transaction costs related to the separation of Versant.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "(7) 4th quarter and full year 2025 net income attributable to COMCAST CORP Corporation includes $27 and $109 million, $24 and $96 million net of tax, respectively, of transaction costs related to the separation of Versant. Transaction costs are incremental costs directly relat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "earnings_or_eps",
+      "claim": "(8) Full year 2025 net income attributable to COMCAST CORP Corporation includes $155 million of long-lived asset impairments.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "(8) Full year 2025 net income attributable to COMCAST CORP Corporation includes $155 million of long-lived asset impairments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "other",
+      "claim": "TABLE 6 Reconciliation of Constant Currency (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "TABLE 6 Reconciliation of Constant Currency (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 (in millions) As Reported Effects of Foreign Currency Constant Currency Amounts As Reported Effects of Foreign Currency Constant Currency Amounts Reconciliation of Connectivity & Platforms Constant Currency Connectivity & Platforms Revenue Residential Connectivity & Platforms $18,016 $193 $18,209 $71,574 $533 $72,107 Business Services Connectivity 2,448 1 2,448 9,701 2 9,703 Total Connectivity & Platforms Revenue $20,464 $194 $20,657 $81,275 $535 $81,811 Connectivity and Platforms Adjusted EBITDA Residential Connectivity & Platforms $6,479 $16 $6,495 $27,338 $71 $27,409 Business Services Connectivity 1,363 \u2014 1,363 5,500 (1) 5,499 Total Connectivity & Platforms Adjusted EBITDA $7,842 $16 $7,858 $32,838 $71 $32,909 Connectivity & Platforms Adjusted EBITDA Margin Residential Connectivity & Platforms 36.0 % (30) bps 35.7 % 38.2 % (20) bps 38.0 % Business Services Connectivity 55.7 % - bps 55.7 % 56.7 % - bps 56.7 % Total Connectivity & Platforms Adjusted EBITDA Margin 38.3 % (30) bps 38.0 % 40.4 % (20) bps 40.2 % Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 (in millions) As Reported Effects of Foreign Currency Constant Currency Amounts As Reported Effects of Foreign Currency Constant Currency Amounts Reconciliation of Residential Connectivity & Platforms Constant Currency Revenue Domestic broadband $6,384 $\u2014 $6,384 $25,660 $\u2014 $25,660 Domestic wireless 1,189 \u2014 1,189 4,273 \u2014 4,273 International connectivity 1,263 50 1,314 4,503 145 4,648 Total residential connectivity $8,836 $50 $8,887 $34,435 $145 $34,581 Video 6,736 109 6,845 27,791 296 28,087 Advertising 1,158 20 1,178 4,089 48 4,137 Other 1,286 14 1,300 5,259 44 5,303 Total Revenue $18,016 $193 $18,209 $71,574 $533 $72,107 Operating Expenses Programming $4,125 $67 $4,192 $16,881 $172 $17,054 Non-Programming 7,412 110 7,522 27,355 289 27,644 Total Operating Expenses $11,537 $177 $11,714 $44,237 $461 $44,698 Adjusted EBITDA $6,479 $16 $6,495 $27,338 $71 $27,409 Adjusted EBITDA Margin 36.0 % (30) bps 35.7 % 38.2 % (20) bps 38.0 %",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 (in millions) As Reported Effects of Foreign Currency Constant Currency Amounts As Reported Effects of Foreign Currency Constant Currency Amounts Reconciliation of Connectivity & Platforms Constant Curr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.016615, ret_20d=0.026744, market_ret_20d=0.011005",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.016615, ret_20d=0.026744, market_ret_20d=0.011005",
+      "support_label": "supported"
+    }
+  ]
+}

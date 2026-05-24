@@ -1,0 +1,589 @@
+{
+  "event_id": "evt_0058",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Penumbra Inc",
+  "ticker": "PEN",
+  "company_alias": "Penumbra Inc",
+  "masked_company": "Company P",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-25",
+  "accepted_at_et": "2026-02-25T13:01:51-05:00",
+  "source_packet_path": "source_packets/evt_0058.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "ALAMEDA, Calif., 2026-02-25T13:01:51-05:00 /PR Newswire/ -- Penumbra Inc.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "ALAMEDA, Calif., 2026-02-25T13:01:51-05:00 /PR Newswire/ -- Penumbra Inc. ( NYSE: Penumbra Inc ) , the world\u2019s leading thrombectomy company, today reported financial results for the fourth quarter and full year ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\u2022 Revenue of $385.4 million for the fourth quarter of 2025, an increase of 22.1% or 20.9% in constant currency 1 , compared to the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Revenue of $385.4 million for the fourth quarter of 2025, an increase of 22.1% or 20.9% in constant currency 1 , compared to the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u2022 Revenue of $1,403.7 million for the full year 2025, an increase of 17.5% or 16.9% in constant currency 1 , compared to the full year 2024.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Revenue of $1,403.7 million for the full year 2025, an increase of 17.5% or 16.9% in constant currency 1 , compared to the full year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u2022 U.S.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 U.S. Thrombectomy revenue of $203.1 million for the fourth quarter of 2025, an increase of 12.4% compared to the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 U.S.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 U.S. Thrombectomy revenue of $771.5 million for the full year 2025, an increase of 19.3% compared to the full year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u2022 Income from operations of $59.2 million or operating margin of 15.4% for the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Income from operations of $59.2 million or operating margin of 15.4% for the fourth quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "margins",
+      "claim": "\u2022 Income from operations of $189.2 million or operating margin of 13.5% for the full year 2025.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Income from operations of $189.2 million or operating margin of 13.5% for the full year 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income of $47.3 million and adjusted EBITDA 1 of $79.1 million or net income margin of 12.3% and adjusted EBITDA margin 1 of 20.5% for the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Net income of $47.3 million and adjusted EBITDA 1 of $79.1 million or net income margin of 12.3% and adjusted EBITDA margin 1 of 20.5% for the fourth quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income of $177.7 million and adjusted EBITDA 1 of $266.8 million or net income margin of 12.7% and adjusted EBITDA margin 1 of 19.0% for the full year 2025.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Net income of $177.7 million and adjusted EBITDA 1 of $266.8 million or net income margin of 12.7% and adjusted EBITDA margin 1 of 19.0% for the full year 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "Total revenue increased to $385.4 million for the fourth quarter of 2025 compared to $315.5 million for the fourth quarter of 2024, an increase of 22.1%, or 20.9% in constant currency 1 .",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Total revenue increased to $385.4 million for the fourth quarter of 2025 compared to $315.5 million for the fourth quarter of 2024, an increase of 22.1%, or 20.9% in constant currency 1 . The United States represented 77.6% of total revenue and international represented 22.4%...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Gross profit for the fourth quarter of 2025 was $262.1 million, or 68.0% of total revenue compared to $210.7 million, or 66.8% of total revenue, for the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Gross profit for the fourth quarter of 2025 was $262.1 million, or 68.0% of total revenue compared to $210.7 million, or 66.8% of total revenue, for the fourth quarter of 2024. Gross margin is impacted by product mix, regional mix, and production initiatives to support demand...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Total operating expenses were $202.9 million, or 52.6% of total revenue for the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Total operating expenses were $202.9 million, or 52.6% of total revenue for the fourth quarter of 2025. This compares to total operating expenses of $167.9 million, or 53.2% of total revenue for the fourth quarter of 2024. R&D expenses were $21.8 million for the fourth quarter...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "Income from operations was $59.2 million for the fourth quarter of 2025, compared to income from operations of $42.8 million for the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Income from operations was $59.2 million for the fourth quarter of 2025, compared to income from operations of $42.8 million for the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "1 See \u201cNon-GAAP Financial Measures\u201d for important information about our use of non-GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "1 See \u201cNon-GAAP Financial Measures\u201d for important information about our use of non-GAAP measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Total revenue increased to $1,403.7 million for the year ended December 31, 2025 compared to $1,194.6 million for the year ended December 31, 2024, an increase of 17.5%, or 16.9% in constant currency 1 .",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Total revenue increased to $1,403.7 million for the year ended December 31, 2025 compared to $1,194.6 million for the year ended December 31, 2024, an increase of 17.5%, or 16.9% in constant currency 1 . The United States represented 77.8% of total revenue and international re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Gross profit for the year ended December 31, 2025 was $942.4 million, or 67.1% of total revenue, compared to $755.0 million, or 63.2% of total revenue, for the year ended December 31, 2024, which included a one-time $33.4 million inventory impairment charge to cost of revenue in connection with the impairment of our immersive healthcare asset group.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Gross profit for the year ended December 31, 2025 was $942.4 million, or 67.1% of total revenue, compared to $755.0 million, or 63.2% of total revenue, for the year ended December 31, 2024, which included a one-time $33.4 million inventory impairment charge to cost of revenue...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Total operating expenses for the year ended December 31, 2025 were $753.2 million, or 53.7% of total revenue.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Total operating expenses for the year ended December 31, 2025 were $753.2 million, or 53.7% of total revenue. This compares to total operating expenses of $745.7 million, or 62.4% of total revenue for the year ended December 31, 2024. R&D expenses were $89.8 million for the ye...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "Income from operations was $189.2 million for the year ended December 31, 2025 compared to income from operations of $9.3 million for the year ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Income from operations was $189.2 million for the year ended December 31, 2025 compared to income from operations of $9.3 million for the year ended December 31, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "Given the proposed acquisition of Penumbra Inc.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Given the proposed acquisition of Penumbra Inc. by Boston Scientific Corporation (NYSE: BSX), the Company will not be providing financial guidance for the full year 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "Penumbra Inc., the world\u2019s leading thrombectomy company, is focused on developing the most innovative technologies for challenging medical conditions such as ischemic stroke, venous thromboembolism such as pulmonary embolism, and acute limb ischemia.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Penumbra Inc., the world\u2019s leading thrombectomy company, is focused on developing the most innovative technologies for challenging medical conditions such as ischemic stroke, venous thromboembolism such as pulmonary embolism, and acute limb ischemia. Our broad portfolio, which...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "In addition to financial measures prepared in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "In addition to financial measures prepared in accordance with U.S. generally accepted accounting principles (\u201cGAAP\u201d), the Company uses the following non-GAAP financial measures in this press release: a) constant currency, b) non-GAAP operating expenses, non-GAAP income from op...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "Constant currency.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Constant currency. The Company\u2019s constant currency revenue disclosures estimate the impact of changes in foreign currency rates on the translation of the Company\u2019s current period revenue as compared to the applicable comparable period in the prior year. This impact is derived...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "Non-GAAP operating expenses, non-GAAP income from operations, non-GAAP net income and non-GAAP diluted EPS.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Non-GAAP operating expenses, non-GAAP income from operations, non-GAAP net income and non-GAAP diluted EPS. The adjustments to the GAAP financial measures reflect the exclusion of:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "\u2022 the effect of the amortization of finite lived intangible assets acquired in connection with the Sixense acquisition over their estimated useful lives;",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 the effect of the amortization of finite lived intangible assets acquired in connection with the Sixense acquisition over their estimated useful lives;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "\u2022 the excess tax benefits associated with share-based compensation arrangements;",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 the excess tax benefits associated with share-based compensation arrangements;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "\u2022 non-cash long-lived asset impairment related to the impairment of our immersive healthcare asset group; and",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 non-cash long-lived asset impairment related to the impairment of our immersive healthcare asset group; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "\u2022 one-time expenses in connection with the wind down of the immersive healthcare business.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 one-time expenses in connection with the wind down of the immersive healthcare business.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 non-cash operating charges such as stock-based compensation, depreciation and amortization, and impairment charges;",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 non-cash operating charges such as stock-based compensation, depreciation and amortization, and impairment charges;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 non-operating items such as interest income, interest expense, and provision for income taxes;",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 non-operating items such as interest income, interest expense, and provision for income taxes;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "Full reconciliation of these non-GAAP measures to the most comparable GAAP measures is set forth in the tables below.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Full reconciliation of these non-GAAP measures to the most comparable GAAP measures is set forth in the tables below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Our management believes the non-GAAP financial measures disclosed in this press release are useful to investors in assessing the operating performance of our business and provide meaningful comparisons to prior periods and thus a more complete understanding of our business than could be obtained absent this disclosure.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Our management believes the non-GAAP financial measures disclosed in this press release are useful to investors in assessing the operating performance of our business and provide meaningful comparisons to prior periods and thus a more complete understanding of our business tha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "earnings_or_eps",
+      "claim": "The non-GAAP financial measures included in this press release may be different from, and therefore may not be comparable to, similarly titled measures used by other companies.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "The non-GAAP financial measures included in this press release may be different from, and therefore may not be comparable to, similarly titled measures used by other companies. These non-GAAP measures should not be considered in isolation or as alternatives to GAAP measures. W...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "(in thousands) December 31, 2025 2024 Assets Current assets: Cash and cash equivalents $ 186,897 $ 324,404 Marketable investments 357,919 15,727 Accounts receivable, net 190,021 167,668 Inventories 431,549 406,737 Prepaid expenses and other current assets 50,298 36,589 Total current assets 1,216,684 951,125 Property and equipment, net 117,436 62,641 Operating lease right-of-use assets 173,587 177,787 Finance lease right-of-use assets 25,972 28,018 Intangible assets, net 6,186 6,513 Goodwill 166,750 165,826 Deferred taxes 79,188 100,332 Other non-current assets 40,716 40,939 Total assets $ 1,826,519 $ 1,533,181 Liabilities and Stockholders\u2019 Equity Current liabilities: Accounts payable $ 34,736 $ 31,326 Accrued liabilities 132,163 112,429 Current operating lease liabilities 13,841 12,221 Current finance lease liabilities 2,393 2,369 Total current liabilities 183,133 158,345 Non-current operating lease liabilities 182,751 187,068 Non-current finance lease liabilities 20,714 21,731 Other non-current liabilities 12,318 15,106 Total liabilities 398,916 382,250 Stockholders\u2019 equity: Preferred stock \u2014 \u2014 Common stock 39 38 Additional paid-in capital 1,185,525 1,096,732 Accumulated other comprehensive income (loss) 4,348 (5,843) Retained earnings 237,691 60,004 Total stockholders\u2019 equity 1,427,603 1,150,931 Total liabilities and stockholders\u2019 equity $ 1,826,519 $ 1,533,181",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "(in thousands) December 31, 2025 2024 Assets Current assets: Cash and cash equivalents $ 186,897 $ 324,404 Marketable investments 357,919 15,727 Accounts receivable, net 190,021 167,668 Inventories 431,549 406,737 Prepaid expenses and other current assets 50,298 36,589 Total c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "(in thousands, except share and per share amounts) Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Revenue $ 385,385 $ 315,518 $ 1,403,665 $ 1,194,615 Cost of revenue 123,257 104,797 461,228 439,620 Gross profit 262,128 210,721 942,437 754,995 Operating expenses: Research and development 21,794 20,010 89,766 94,783 Sales, general and administrative 181,101 147,936 663,422 573,988 Impairment Charge \u2014 \u2014 \u2014 76,945 Total operating expenses 202,895 167,946 753,188 745,716 Income from operations 59,233 42,775 189,249 9,279 Interest and other income, net 4,399 1,564 15,876 11,590 Income before income taxes 63,632 44,339 205,125 20,869 Provision for income taxes 16,289 10,656 27,438 6,857 Net income $ 47,343 $ 33,683 $ 177,687 $ 14,012 Net income per share: Basic $ 1.21 $ 0.88 $ 4.57 $ 0.36 Diluted $ 1.20 $ 0.86 $ 4.52 $ 0.36 Weighted average shares outstanding: Basic 39,189,828 38,418,269 38,918,493 38,633,744 Diluted 39,392,613 39,037,644 39,291,828 39,268,037",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "(in thousands, except share and per share amounts) Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Revenue $ 385,385 $ 315,518 $ 1,403,665 $ 1,194,615 Cost of revenue 123,257 104,797 461,228 439,620 Gross profit 262,128 210,721 942,437 754,995 Opera...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "costs_or_expenses",
+      "claim": "Reconciliation of GAAP Operating Expenses and GAAP Income from Operations to Non-GAAP Operating Expenses and Non-GAAP Income from Operations 1",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Reconciliation of GAAP Operating Expenses and GAAP Income from Operations to Non-GAAP Operating Expenses and Non-GAAP Income from Operations 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "costs_or_expenses",
+      "claim": "(in thousands) Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 GAAP operating expenses $ 202,895 $ 167,946 $ 753,188 $ 745,716 GAAP operating expenses include the effect of the following items: Impairment charge 2 \u2014 \u2014 \u2014 76,945 Wind down expenses 3 \u2014 \u2014 \u2014 4,971 Non-recurring litigation related expenses \u2014 \u2014 \u2014 4,823 Amortization of finite lived intangible assets acquired \u2014 \u2014 \u2014 4,759 Non-GAAP operating expenses $ 202,895 $ 167,946 $ 753,188 $ 654,218 GAAP income from operations $ 59,233 $ 42,775 $ 189,249 $ 9,279 GAAP income from operations includes the effect of the following items: Impairment charge 2 \u2014 \u2014 \u2014 76,945 Wind down expenses 3 \u2014 \u2014 \u2014 4,971 Non-recurring litigation related expenses \u2014 \u2014 \u2014 4,823 Amortization of finite lived intangible assets acquired \u2014 \u2014 \u2014 4,759 Non-GAAP income from operations $ 59,233 $ 42,775 $ 189,249 $ 100,777",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "(in thousands) Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 GAAP operating expenses $ 202,895 $ 167,946 $ 753,188 $ 745,716 GAAP operating expenses include the effect of the following items: Impairment charge 2 \u2014 \u2014 \u2014 76,945 Wind down expenses 3 \u2014...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "2 Represents charges associated with the impairment of the immersive healthcare asset group during the three months ended June 30, 2024.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "2 Represents charges associated with the impairment of the immersive healthcare asset group during the three months ended June 30, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "costs_or_expenses",
+      "claim": "3 Represents one-time expenses that include severance and other costs related to the wind down of the immersive healthcare business during the three months ended September 30, 2024.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "3 Represents one-time expenses that include severance and other costs related to the wind down of the immersive healthcare business during the three months ended September 30, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of GAAP Net Income and GAAP Diluted EPS to Non-GAAP Net Income and Non-GAAP Diluted EPS 1",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Reconciliation of GAAP Net Income and GAAP Diluted EPS to Non-GAAP Net Income and Non-GAAP Diluted EPS 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "earnings_or_eps",
+      "claim": "(in thousands, except per share amounts) Three Months Ended December 31, 2025 Three Months Ended December 31, 2024 Year Ended December 31, 2025 Year Ended December 31, 2024 Net income Diluted EPS Net income Diluted EPS Net income Diluted EPS Net income Diluted EPS GAAP net income $ 47,343 $ 1.20 $ 33,683 $ 0.86 $ 177,687 $ 4.52 $ 14,012 $ 0.36 GAAP net income includes the effect of the following items: Impairment charge 2 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 76,945 1.96 Wind down expenses 3 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 4,971 0.13 Non-recurring litigation expenses \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 4,823 0.12 Amortization of finite lived intangible assets acquired \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 4,759 0.12 Tax effect on the non-GAAP adjustments above 4 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (22,170) (0.57) Excess tax benefits related to stock compensation awards (830) (0.02) (343) (0.01) (26,804) (0.68) (837) (0.02) Non-GAAP net income $ 46,513 $ 1.18 $ 33,340 $ 0.85 $ 150,883 $ 3.84 $ 82,503 $ 2.10 GAAP diluted EPS $ 1.20 $ 0.86 $ 4.52 $ 0.36 Non-GAAP diluted EPS $ 1.18 $ 0.85 $ 3.84 $ 2.10",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "(in thousands, except per share amounts) Three Months Ended December 31, 2025 Three Months Ended December 31, 2024 Year Ended December 31, 2025 Year Ended December 31, 2024 Net income Diluted EPS Net income Diluted EPS Net income Diluted EPS Net income Diluted EPS GAAP net inc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "earnings_or_eps",
+      "claim": "4 For the twelve months ended December 31, 2024, management used a combined federal and state tax rate of 24.23% to compute the tax effect of non-GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "4 For the twelve months ended December 31, 2024, management used a combined federal and state tax rate of 24.23% to compute the tax effect of non-GAAP measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of GAAP Net Income and GAAP Net Income Margin to Adjusted EBITDA and Adjusted EBITDA Margin 1",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Reconciliation of GAAP Net Income and GAAP Net Income Margin to Adjusted EBITDA and Adjusted EBITDA Margin 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "(in thousands, except for percentages) Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 GAAP net income $ 47,343 $ 33,683 $ 177,687 $ 14,012 Adjustments to GAAP net income Depreciation and amortization expense 4,461 4,388 17,471 23,702 Interest income, net (4,227) (2,939) (14,983) (12,272) Provision for income taxes 16,289 10,656 27,438 6,857 Stock-based compensation expense 15,262 12,095 59,213 46,164 Impairment charge 2 \u2014 \u2014 \u2014 76,945 Wind down expenses 3 \u2014 \u2014 \u2014 4,971 Non-recurring litigation related expenses \u2014 \u2014 \u2014 4,823 Adjusted EBITDA $ 79,128 $ 57,883 $ 266,826 $ 165,202 GAAP revenue $ 385,385 $ 315,518 $ 1,403,665 $ 1,194,615 Adjusted EBITDA $ 79,128 $ 57,883 $ 266,826 $ 165,202 GAAP net income margin 12.3 % 10.7 % 12.7 % 1.2 % Adjusted EBITDA margin 20.5 % 18.3 % 19.0 % 13.8 %",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(in thousands, except for percentages) Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 GAAP net income $ 47,343 $ 33,683 $ 177,687 $ 14,012 Adjustments to GAAP net income Depreciation and amortization expense 4,461 4,388 17,471 23,702 Interest incom...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Reconciliation of Revenue Change by Geographic Regions to Constant Currency Revenue Growth 1",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Reconciliation of Revenue Change by Geographic Regions to Constant Currency Revenue Growth 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % United States $ 299,054 $ 247,917 $ 51,137 20.6 % $ \u2014 $ 51,137 20.6 % International 86,331 67,601 18,730 27.7 % (3,939) 14,791 21.9 % Total $ 385,385 $ 315,518 $ 69,867 22.1 % $ (3,939) $ 65,928 20.9 %",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Three Months Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % United States $ 299,054 $ 247,917 $ 51,137 20.6 % $ \u2014 $ 51,137 20.6 % International 86,331 67,601 18,730 27.7 % (3,939) 14,791 21.9 % Total $ 385,385 $ 315,518 $ 69,867 22.1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "Year Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % United States $ 1,091,761 $ 902,067 $ 189,694 21.0 % $ \u2014 $ 189,694 21.0 % International 311,904 292,548 19,356 6.6 % (7,018) 12,338 4.2 % Total $ 1,403,665 $ 1,194,615 $ 209,050 17.5 % $ (7,018) $ 202,032 16.9 %",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Year Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % United States $ 1,091,761 $ 902,067 $ 189,694 21.0 % $ \u2014 $ 189,694 21.0 % International 311,904 292,548 19,356 6.6 % (7,018) 12,338 4.2 % Total $ 1,403,665 $ 1,194,615 $ 209,050 17.5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Reconciliation of Revenue Change by Product Categories and Geographic Regions to Constant Currency Revenue Growth 1",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Reconciliation of Revenue Change by Product Categories and Geographic Regions to Constant Currency Revenue Growth 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy $ 254,696 $ 220,129 $ 34,567 15.7 % $ (2,188) $ 32,379 14.7 % Embolization and Access 130,689 95,389 35,300 37.0 % (1,751) 33,549 35.2 % Total $ 385,385 $ 315,518 $ 69,867 22.1 % $ (3,939) $ 65,928 20.9 %",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Three Months Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy $ 254,696 $ 220,129 $ 34,567 15.7 % $ (2,188) $ 32,379 14.7 % Embolization and Access 130,689 95,389 35,300 37.0 % (1,751) 33,549 35.2 % Total $ 385,385 $ 315,51...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "earnings_or_eps",
+      "claim": "Year Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy $ 947,918 $ 815,475 $ 132,443 16.2 % $ (3,798) $ 128,645 15.8 % Embolization and Access 455,747 379,140 76,607 20.2 % (3,220) 73,387 19.4 % Total $ 1,403,665 $ 1,194,615 $ 209,050 17.5 % $ (7,018) $ 202,032 16.9 %",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Year Ended December 31, Reported Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy $ 947,918 $ 815,475 $ 132,443 16.2 % $ (3,798) $ 128,645 15.8 % Embolization and Access 455,747 379,140 76,607 20.2 % (3,220) 73,387 19.4 % Total $ 1,403,665 $ 1,194,615...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy United States $ 203,065 $ 180,647 $ 22,418 12.4 % $ \u2014 $ 22,418 12.4 % International 51,631 39,482 12,149 30.8 % (2,188) 9,961 25.2 % Total Thrombectomy 254,696 220,129 34,567 15.7 % (2,188) 32,379 14.7 % Embolization and Access United States 95,989 67,270 28,719 42.7 % \u2014 28,719 42.7 % International 34,700 28,119 6,581 23.4 % (1,751) 4,830 17.2 % Total Embolization and Access 130,689 95,389 35,300 37.0 % (1,751) 33,549 35.2 % Total $ 385,385 $ 315,518 $ 69,867 22.1 % $ (3,939) $ 65,928 20.9 %",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Three Months Ended December 31, Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy United States $ 203,065 $ 180,647 $ 22,418 12.4 % $ \u2014 $ 22,418 12.4 % International 51,631 39,482 12,149 30.8 % (2,188) 9,961 25.2 % Total Thrombectomy 254,696 220,129 34...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "earnings_or_eps",
+      "claim": "Year Ended December 31, Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy United States $ 771,485 $ 646,711 $ 124,774 19.3 % $ \u2014 $ 124,774 19.3 % International 176,433 168,764 7,669 4.5 % (3,798) 3,871 2.3 % Total Thrombectomy 947,918 815,475 132,443 16.2 % (3,798) 128,645 15.8 % Embolization and Access United States 320,276 255,356 64,920 25.4 % \u2014 64,920 25.4 % International 135,471 123,784 11,687 9.4 % (3,220) 8,467 6.8 % Total Embolization and Access 455,747 379,140 76,607 20.2 % (3,220) 73,387 19.4 % Total $ 1,403,665 $ 1,194,615 $ 209,050 17.5 % $ (7,018) $ 202,032 16.9 %",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Year Ended December 31, Change FX Impact Constant Currency Change 2025 2024 $ % $ $ % Thrombectomy United States $ 771,485 $ 646,711 $ 124,774 19.3 % $ \u2014 $ 124,774 19.3 % International 176,433 168,764 7,669 4.5 % (3,798) 3,871 2.3 % Total Thrombectomy 947,918 815,475 132,443 1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.004223, ret_20d=-0.054067, market_ret_20d=-0.007766",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.004223, ret_20d=-0.054067, market_ret_20d=-0.007766",
+      "support_label": "supported"
+    }
+  ]
+}

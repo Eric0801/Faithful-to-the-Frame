@@ -1,0 +1,1117 @@
+{
+  "event_id": "evt_0055",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Post Holdings, Inc.",
+  "ticker": "POST",
+  "company_alias": "Post Holdings, Inc.",
+  "masked_company": "Company Z",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-05",
+  "accepted_at_et": "2026-02-05T17:01:49-05:00",
+  "source_packet_path": "source_packets/evt_0055.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Post Holdings, Inc. Reports Results for the First Quarter of Fiscal Year 2026; Raises Fiscal Year 2026 Outlook",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "St.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "St. Louis - 2026-02-05T17:01:49-05:00 - Post Holdings, Inc.. (NYSE:POST), a consumer packaged goods holding company, today reported results for the first fiscal quarter ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u2022 First quarter net sales of $2.2 billion",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 First quarter net sales of $2.2 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Operating profit of $238.4 million; net earnings of $96.8 million and Adjusted EBITDA (non-GAAP)* of $418.2 million",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Operating profit of $238.4 million; net earnings of $96.8 million and Adjusted EBITDA (non-GAAP)* of $418.2 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "*For additional information regarding non-GAAP measures, such as Adjusted EBITDA, Adjusted net earnings, Adjusted diluted earnings per common share and segment Adjusted EBITDA, see the related explanations presented under \u201cUse of Non-GAAP Measures\u201d later in this release.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "*For additional information regarding non-GAAP measures, such as Adjusted EBITDA, Adjusted net earnings, Adjusted diluted earnings per common share and segment Adjusted EBITDA, see the related explanations presented under \u201cUse of Non-GAAP Measures\u201d later in this release. Post...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "On July 1, 2025, Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "On July 1, 2025, Post Holdings, Inc. completed its acquisition of 8th Avenue Food & Provisions, Inc. (\u201c8th Avenue\u201d), the results of which are included in the Post Holdings, Inc. Consumer Brands segment. On December 1, 2025, Post Holdings, Inc. completed its sale of the pasta b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "On March 3, 2025, Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "On March 3, 2025, Post Holdings, Inc. completed its acquisition of Potato Products of Idaho, L.L.C. (\u201cPPI\u201d), the results of which are included in the Refrigerated Retail and Foodservice segments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Net sales were $2,174.6 million, an increase of 10.1%, or $199.9 million, compared to $1,974.7 million in the prior year period and included $224.6 million in net sales from acquisitions in the current year period.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Net sales were $2,174.6 million, an increase of 10.1%, or $199.9 million, compared to $1,974.7 million in the prior year period and included $224.6 million in net sales from acquisitions in the current year period. Excluding the benefit from acquisitions in the current year pe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Selling, general and administrative (\u201cSG&A\u201d) expenses were $357.3 million, or 16.4% of net sales, an increase of 7.8%, or $25.7 million, compared to $331.6 million, or 16.8% of net sales, in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Selling, general and administrative (\u201cSG&A\u201d) expenses were $357.3 million, or 16.4% of net sales, an increase of 7.8%, or $25.7 million, compared to $331.6 million, or 16.8% of net sales, in the prior year period. SG&A expenses in the first quarter of fiscal years 2026 and 202...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "Net earnings were $96.8 million, a decrease of 14.6%, or $16.5 million, compared to $113.3 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Net earnings were $96.8 million, a decrease of 14.6%, or $16.5 million, compared to $113.3 million in the prior year period. Net earnings included the following:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "balance_sheet_or_cash",
+      "claim": "Three Months Ended December 31, ( in millions ) 2025 2024 Loss on extinguishment of debt, net (1) $ 17.5 $ 5.8 Income on swaps, net (1) (1.9) (15.4) (1) Discussed later in this release and were treated as adjustments for non-GAAP measures.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Three Months Ended December 31, ( in millions ) 2025 2024 Loss on extinguishment of debt, net (1) $ 17.5 $ 5.8 Income on swaps, net (1) (1.9) (15.4) (1) Discussed later in this release and were treated as adjustments for non-GAAP measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Diluted earnings per common share were $1.71, compared to $1.78 in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Diluted earnings per common share were $1.71, compared to $1.78 in the prior year period. Adjusted net earnings (non-GAAP) * were $123.7 million, compared to $111.9 million in the prior year period. Adjusted diluted earnings per common share (non-GAAP)* were $2.13, compared to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "margins",
+      "claim": "Adjusted EBITDA was $418.2 million, an increase of 13.1%, or $48.3 million, compared to $369.9 million in the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Adjusted EBITDA was $418.2 million, an increase of 13.1%, or $48.3 million, compared to $369.9 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "Primarily North American ready-to-eat (\u201cRTE\u201d) cereal and granola, pet food and nut butters.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Primarily North American ready-to-eat (\u201cRTE\u201d) cereal and granola, pet food and nut butters.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "For the first quarter, net sales were $1,103.8 million, an increase of 14.5%, or $139.9 million, compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "For the first quarter, net sales were $1,103.8 million, an increase of 14.5%, or $139.9 million, compared to the prior year period. Net sales included $217.2 million in the first quarter attributable to 8th Avenue. Excluding the benefit of 8th Avenue in the current year period...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "For the first quarter, net sales were $669.1 million, an increase of 8.5%, or $52.5 million, compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "For the first quarter, net sales were $669.1 million, an increase of 8.5%, or $52.5 million, compared to the prior year period. Net sales included $6.6 million in the first quarter attributable to PPI. Excluding the benefit of PPI in the current year period, volumes increased...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "Primarily side dish, egg, cheese and sausage products.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Primarily side dish, egg, cheese and sausage products.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "For the first quarter, net sales were $266.6 million, flat compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "For the first quarter, net sales were $266.6 million, flat compared to the prior year period. Volumes decreased 0.2%, primarily due to declines in egg and sausage products, partially offset by an increase in side dish products driven by the introduction of private label offeri...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "Primarily United Kingdom RTE cereal, muesli and protein-based shakes.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Primarily United Kingdom RTE cereal, muesli and protein-based shakes.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "For the first quarter, net sales were $137.9 million, an increase of 8.1%, or $10.3 million, compared to the prior year period.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "For the first quarter, net sales were $137.9 million, an increase of 8.1%, or $10.3 million, compared to the prior year period. Net sales reflected a foreign currency exchange rate tailwind of approximately 400 basis points. Volumes increased 2.4%, primarily driven by growth i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "balance_sheet_or_cash",
+      "claim": "Interest, Loss on Extinguishment of Debt, Income on Swaps and Income Tax",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Interest, Loss on Extinguishment of Debt, Income on Swaps and Income Tax",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "costs_or_expenses",
+      "claim": "Interest expense, net was $103.4 million in the first quarter of fiscal year 2026 compared to $84.1 million in the first quarter of fiscal year 2025.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Interest expense, net was $103.4 million in the first quarter of fiscal year 2026 compared to $84.1 million in the first quarter of fiscal year 2025. The increase in interest expense, net in the first quarter of fiscal year 2026 was driven by lower interest income, higher aver...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "balance_sheet_or_cash",
+      "claim": "Loss on extinguishment of debt, net of $17.5 million was recorded in the first quarter of fiscal year 2026 in connection with Post Holdings, Inc.\u2019s redemption of its 5.50% senior notes due December 2029.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Loss on extinguishment of debt, net of $17.5 million was recorded in the first quarter of fiscal year 2026 in connection with Post Holdings, Inc.\u2019s redemption of its 5.50% senior notes due December 2029. Loss on extinguishment of debt, net of $5.8 million was recorded in the f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "Income on swaps, net relates to mark-to-market adjustments and settlements on interest rate swaps.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Income on swaps, net relates to mark-to-market adjustments and settlements on interest rate swaps. Income on swaps, net was $1.9 million in the first quarter of fiscal year 2026 compared to $15.4 million in the prior year period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "costs_or_expenses",
+      "claim": "Income tax expense was $27.3 million in the first quarter of fiscal year 2026, an effective income tax rate of 22.0%, compared to $32.1 million in the first quarter of fiscal year 2025, an effective income tax rate of 22.1%.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Income tax expense was $27.3 million in the first quarter of fiscal year 2026, an effective income tax rate of 22.0%, compared to $32.1 million in the first quarter of fiscal year 2025, an effective income tax rate of 22.1%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "During the first quarter of fiscal year 2026, Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "During the first quarter of fiscal year 2026, Post Holdings, Inc. repurchased 3.7 million shares of its common stock for $378.9 million at an average price of $101.57 per share. Subsequent to the end of the first quarter of fiscal year 2026 through February 4, 2026, Post Holdi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "Repurchases may be made from time to time in the open market, in private purchases, through forward, derivative, accelerated repurchase or automatic purchase transactions, or otherwise.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Repurchases may be made from time to time in the open market, in private purchases, through forward, derivative, accelerated repurchase or automatic purchase transactions, or otherwise. Any shares repurchased would be held as treasury stock. The authorization does not, however...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Post Holdings, Inc. management raised its guidance range for fiscal year 2026 Adjusted EBITDA to $1,550-$1,580 million from $1,500-$1,540 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Post Holdings, Inc. management expects fiscal year 2026 capital expenditures to range between $350-$390 million, which includes continued Foodservice investment in cage-free egg facility expansion and the completion of the Norwalk, Iowa precooked egg facility expansion, for ag...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Post Holdings, Inc. provides Adjusted EBITDA guidance only on a non-GAAP basis and does not provide a reconciliation of its forward-looking Adjusted EBITDA non-GAAP guidance measure to the most directly comparable GAAP measure due to the inherent difficulty in forecasting and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Post Holdings, Inc. uses certain non-GAAP measures in this release to supplement the financial measures prepared in accordance with United States (\u201cU.S.\u201d) generally accepted accounting principles (\u201cGAAP\u201d). These non-GAAP measures include Adjusted net earnings/loss, Adjusted di...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "Management uses certain of these non-GAAP measures, including Adjusted EBITDA and segment Adjusted EBITDA, as key metrics in the evaluation of underlying company and segment performance, in making financial, operating and planning decisions and, in part, in the determination of bonuses for its executive officers and employees.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Management uses certain of these non-GAAP measures, including Adjusted EBITDA and segment Adjusted EBITDA, as key metrics in the evaluation of underlying company and segment performance, in making financial, operating and planning decisions and, in part, in the determination o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.\u2019s non-GAAP measures, see the related explanations provided under \u201cExplanation and Reconciliation of Non-GAAP Measures.\u201d",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Post Holdings, Inc.\u2019s non-GAAP measures, see the related explanations provided under \u201cExplanation and Reconciliation of Non-GAAP Measures.\u201d",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Post Holdings, Inc. today announced that Michelle Atkinson and Jeff Zadoks have been appointed to its Board of Directors (the \u201cBoard\u201d), effective March 15, 2026. With the addition of Ms. Atkinson and Mr. Zadoks, the Board will consist of nine members. Ms. Atkinson retired from...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "guidance",
+      "claim": "\u2022 volatility in the cost or availability of inputs to Post Holdings, Inc.\u2019s businesses (including raw materials, energy and other supplies and freight);",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 volatility in the cost or availability of inputs to Post Holdings, Inc.\u2019s businesses (including raw materials, energy and other supplies and freight);",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "guidance",
+      "claim": "\u2022 disruptions or inefficiencies in Post Holdings, Inc.\u2019s supply chain, tariffs, inflation, highly pathogenic avian influenza and other agricultural diseases and pests, labor shortages, public health crises, weather events and fires and other events beyond Post Holdings, Inc.\u2019s control;",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 disruptions or inefficiencies in Post Holdings, Inc.\u2019s supply chain, tariffs, inflation, highly pathogenic avian influenza and other agricultural diseases and pests, labor shortages, public health crises, weather events and fires and other events beyond Post Holdings, Inc.\u2019s...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "guidance",
+      "claim": "\u2022 changes in economic conditions, financial instability, disruptions in capital and credit markets, changes in interest rates and fluctuations in foreign currency exchange rates;",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 changes in economic conditions, financial instability, disruptions in capital and credit markets, changes in interest rates and fluctuations in foreign currency exchange rates;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s and its customers\u2019 ability to compete in their respective product categories, including the success of pricing, advertising and promotional programs, declines in demand for Post Holdings, Inc.\u2019s products and the ability to anticipate and respond to changes in consumer and customer preferences and behaviors;",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s and its customers\u2019 ability to compete in their respective product categories, including the success of pricing, advertising and promotional programs, declines in demand for Post Holdings, Inc.\u2019s products and the ability to anticipate and respond to chan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s ability to hire and retain talented personnel, increases in labor-related costs, employee safety, labor strikes, work stoppages, unionization efforts and other labor disruptions;",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s ability to hire and retain talented personnel, increases in labor-related costs, employee safety, labor strikes, work stoppages, unionization efforts and other labor disruptions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s high leverage, its ability to obtain additional financing and service its outstanding debt (including covenants restricting the operation of its businesses) and a potential downgrade in Post Holdings, Inc.\u2019s credit ratings;",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s high leverage, its ability to obtain additional financing and service its outstanding debt (including covenants restricting the operation of its businesses) and a potential downgrade in Post Holdings, Inc.\u2019s credit ratings;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s ability to successfully implement business strategies to reduce costs or optimize its network;",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s ability to successfully implement business strategies to reduce costs or optimize its network;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "\u2022 allegations that Post Holdings, Inc.\u2019s products cause injury or illness, product recalls and withdrawals, product liability claims and other related litigation;",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "\u2022 allegations that Post Holdings, Inc.\u2019s products cause injury or illness, product recalls and withdrawals, product liability claims and other related litigation;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "\u2022 compliance with new, existing and changing laws and regulations;",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "\u2022 compliance with new, existing and changing laws and regulations;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s reliance on third parties and others for the manufacture of many of its products;",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s reliance on third parties and others for the manufacture of many of its products;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "\u2022 costs, business disruptions and reputational damage associated with information technology failures, cybersecurity incidents, information security breaches or enterprise resource planning system implementations;",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "\u2022 costs, business disruptions and reputational damage associated with information technology failures, cybersecurity incidents, information security breaches or enterprise resource planning system implementations;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s ability to identify, complete and integrate or otherwise effectively execute acquisitions, including 8th Avenue and the pet food assets and operations acquired in April 2023 and December 2023, or other strategic transactions;",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s ability to identify, complete and integrate or otherwise effectively execute acquisitions, including 8th Avenue and the pet food assets and operations acquired in April 2023 and December 2023, or other strategic transactions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "\u2022 the loss of, a significant reduction of purchases by or the bankruptcy of a major customer;",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "\u2022 the loss of, a significant reduction of purchases by or the bankruptcy of a major customer;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "\u2022 differences in Post Holdings, Inc.\u2019s actual operating results from any of its guidance regarding its future performance;",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "\u2022 differences in Post Holdings, Inc.\u2019s actual operating results from any of its guidance regarding its future performance;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "\u2022 impairment in the carrying value of goodwill, other intangibles or long-lived assets or changes in critical accounting estimates;",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "\u2022 impairment in the carrying value of goodwill, other intangibles or long-lived assets or changes in critical accounting estimates;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "\u2022 business disruption or other losses resulting from changes in governmental administrations or regulatory priorities, political instability, terrorism, war or armed hostilities or geopolitical tensions;",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "\u2022 business disruption or other losses resulting from changes in governmental administrations or regulatory priorities, political instability, terrorism, war or armed hostilities or geopolitical tensions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "\u2022 risks related to the intended tax treatment of Post Holdings, Inc.\u2019s divestitures of its interest in BellRing Brands, Inc.;",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "\u2022 risks related to the intended tax treatment of Post Holdings, Inc.\u2019s divestitures of its interest in BellRing Brands, Inc.;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "\u2022 Post Holdings, Inc.\u2019s ability to protect its intellectual property and other assets and to license third-party intellectual property;",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "\u2022 Post Holdings, Inc.\u2019s ability to protect its intellectual property and other assets and to license third-party intellectual property;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "\u2022 costs associated with the obligations of Bob Evans Farms, Inc.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "\u2022 costs associated with the obligations of Bob Evans Farms, Inc. (\u201cBob Evans\u201d) in connection with the sale of its restaurants business, including certain indemnification obligations and Bob Evans\u2019s payment and performance obligations as a guarantor for certain leases;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "\u2022 losses or increased funding and expenses related to Post Holdings, Inc.\u2019s qualified pension or other postretirement plans;",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "\u2022 losses or increased funding and expenses related to Post Holdings, Inc.\u2019s qualified pension or other postretirement plans;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "\u2022 conflicting interests or the appearance of conflicting interests resulting from any of Post Holdings, Inc.\u2019s directors or officers also serving as directors or officers of other companies; and",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "\u2022 conflicting interests or the appearance of conflicting interests resulting from any of Post Holdings, Inc.\u2019s directors or officers also serving as directors or officers of other companies; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "\u2022 other risks and uncertainties described in Post Holdings, Inc.\u2019s filings with the Securities and Exchange Commission.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "\u2022 other risks and uncertainties described in Post Holdings, Inc.\u2019s filings with the Securities and Exchange Commission.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.., headquartered in St.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Post Holdings, Inc.., headquartered in St. Louis, Missouri, is a consumer packaged goods holding company with businesses operating in the center-of-the-store, refrigerated, foodservice and food ingredient categories. Its businesses include Post Holdings, Inc. Consumer Brands,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, 2025 2024 Net Sales $ 2,174.6 $ 1,974.7 Cost of goods sold 1,536.1 1,379.4 Gross Profit 638.5 595.3 Selling, general and administrative expenses 357.3 331.6 Amortization of intangible assets 51.7 49.1 Other operating (income) expense, net (8.9) 0.5 Operating Profit 238.4 214.1 Interest expense, net 103.4 84.1 Loss on extinguishment of debt, net 17.5 5.8 Income on swaps, net (1.9) (15.4) Other income, net (4.6) (5.8) Earnings before Income Taxes and Equity Method Earnings 124.0 145.4 Income tax expense 27.3 32.1 Equity method earnings, net of tax (0.3) (0.1) Net Earnings Including Noncontrolling Interest 97.0 113.4 Less: Net earnings attributable to noncontrolling interest 0.2 0.1 Net Earnings $ 96.8 $ 113.3 Earnings per Common Share: Basic $ 1.87 $ 1.94 Diluted $ 1.71 $ 1.78 Weighted-Average Common Shares Outstanding: Basic 51.7 58.3 Diluted 58.2 65.2",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Net Sales $ 2,174.6 $ 1,974.7 Cost of goods sold 1,536.1 1,379.4 Gross Profit 638.5 595.3 Selling, general and administrative expenses 357.3 331.6 Amortization of intangible assets 51.7 49.1 Other operating (income) expense, net (8.9)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "December 31, 2025 September 30, 2025 ASSETS Current Assets Cash and cash equivalents $ 279.3 $ 176.7 Restricted cash 5.4 6.1 Receivables, net 680.6 735.4 Inventories 908.2 875.0 Current assets held for sale \u2014 116.3 Prepaid expenses and other current assets 98.8 115.4 Total Current Assets 1,972.3 2,024.9 Property, net 2,682.6 2,698.7 Goodwill 4,845.8 4,844.7 Other intangible assets, net 2,963.3 3,014.6 Other assets held for sale \u2014 424.8 Other assets 520.3 520.7 Total Assets $ 12,984.3 $ 13,528.4 LIABILITIES AND SHAREHOLDERS\u2019 EQUITY Current Liabilities Current portion of long-term debt $ 1.2 $ 1.2 Accounts payable 579.2 624.0 Current liabilities held for sale \u2014 55.5 Other current liabilities 459.3 532.4 Total Current Liabilities 1,039.7 1,213.1 Long-term debt 7,457.9 7,421.7 Deferred income taxes 660.2 638.5 Other liabilities held for sale \u2014 119.7 Other liabilities 358.4 371.6 Total Liabilities 9,516.2 9,764.6 Shareholders\u2019 Equity Common stock 0.9 0.9 Additional paid-in capital 5,356.8 5,370.7 Retained earnings 2,215.7 2,118.9 Accumulated other comprehensive income 12.1 8.7 Treasury stock, at cost (4,128.3) (3,746.1) Total Shareholders\u2019 Equity Excluding Noncontrolling Interest 3,457.2 3,753.1 Noncontrolling interest 10.9 10.7 Total Shareholders\u2019 Equity 3,468.1 3,763.8 Total Liabilities and Shareholders\u2019 Equity $ 12,984.3 $ 13,528.4",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "December 31, 2025 September 30, 2025 ASSETS Current Assets Cash and cash equivalents $ 279.3 $ 176.7 Restricted cash 5.4 6.1 Receivables, net 680.6 735.4 Inventories 908.2 875.0 Current assets held for sale \u2014 116.3 Prepaid expenses and other current assets 98.8 115.4 Total Cur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "balance_sheet_or_cash",
+      "claim": "SELECTED CONDENSED CONSOLIDATED CASH FLOWS INFORMATION (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "SELECTED CONDENSED CONSOLIDATED CASH FLOWS INFORMATION (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended December 31, 2025 2024 Cash provided by (used in): Operating activities $ 235.7 $ 310.4 Investing activities, including capital expenditures of $116.4 and $139.0 261.8 (128.3) Financing activities (395.8) (94.2) Effect of exchange rate changes on cash, cash equivalents and restricted cash 0.2 (3.7) Net increase in cash, cash equivalents and restricted cash $ 101.9 $ 84.2",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Cash provided by (used in): Operating activities $ 235.7 $ 310.4 Investing activities, including capital expenditures of $116.4 and $139.0 261.8 (128.3) Financing activities (395.8) (94.2) Effect of exchange rate changes on cash, cash...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, 2025 2024 Net Sales Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Net Sales Post Holdings, Inc. Consumer Brands $ 1,103.8 $ 963.9 Foodservice 669.1 616.6 Refrigerated Retail 266.6 266.6 Weetabix 137.9 127.6 Corporate and eliminations (2.8) \u2014 Total $ 2,174.6 $ 1,974.7 Segment Profit Post Holdings, Inc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "balance_sheet_or_cash",
+      "claim": "The below table presents volume percentage changes for the current quarter compared to the prior year quarter for products within the Refrigerated Retail segment.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "The below table presents volume percentage changes for the current quarter compared to the prior year quarter for products within the Refrigerated Retail segment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "balance_sheet_or_cash",
+      "claim": "Product Volume Percentage Change All (0.2%) Side dishes 2.5% Egg (6.7%) Cheese (5.7%) Sausage (5.0%)",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Product Volume Percentage Change All (0.2%) Side dishes 2.5% Egg (6.7%) Cheese (5.7%) Sausage (5.0%)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "revenue",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Post Holdings, Inc. uses certain non-GAAP measures in this release to supplement the financial measures prepared in accordance with U.S. GAAP. These non-GAAP measures include Adjusted net earnings/loss, Adjusted diluted earnings/loss per common share, Adjusted EBITDA, segment...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "Adjusted net earnings/loss and Adjusted diluted earnings/loss per common share",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Adjusted net earnings/loss and Adjusted diluted earnings/loss per common share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Post Holdings, Inc. believes Adjusted net earnings/loss and Adjusted diluted earnings/loss per common share are useful to investors in evaluating Post Holdings, Inc.\u2019s operating performance because they exclude items that affect the comparability of Post Holdings, Inc.\u2019s finan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "a.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "a. Income/expense on swaps, net : Post Holdings, Inc. has excluded the impact of mark-to-market adjustments and cash settlements on interest rate swaps due to the inherent uncertainty and volatility associated with such amounts based on changes in assumptions with respect to e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "guidance",
+      "claim": "b.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "b. Restructuring and facility closure costs, including accelerated depreciation : Post Holdings, Inc. has excluded certain costs associated with facility closures as the amount and frequency of such adjustments are not consistent. Additionally, Post Holdings, Inc. believes tha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "guidance",
+      "claim": "c.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "c. Debt premiums paid/discounts received, net : Post Holdings, Inc. has excluded payments and other expenses for premiums on debt extinguishment, net of gains realized on debt repurchased at a discount, as such payments are inconsistent in amount and frequency. Additionally, P...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "guidance",
+      "claim": "d.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "d. Gain/loss on sale of business : Post Holdings, Inc. has excluded gains and losses recorded on divestitures as the amount and frequency of such adjustments are not consistent. Additionally, Post Holdings, Inc. believes that these gains and losses do not reflect expected ongo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "costs_or_expenses",
+      "claim": "e.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "e. Integration costs and transaction costs : Post Holdings, Inc. has excluded transaction costs related to professional service fees and other related costs associated with signed and closed business combinations and divestitures and integration costs incurred to integrate acq...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "balance_sheet_or_cash",
+      "claim": "f.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "f. Mark-to-market adjustments on equity security investments: Post Holdings, Inc. has excluded the impact of mark-to-market adjustments on equity security investments due to the inherent volatility associated with such amounts based on changes in market pricing variations and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "balance_sheet_or_cash",
+      "claim": "g.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "g. Mark-to-market adjustments on commodity and foreign exchange hedges : Post Holdings, Inc. has excluded the impact of mark-to-market adjustments on commodity and foreign exchange hedges due to the inherent uncertainty and volatility associated with such amounts based on chan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "guidance",
+      "claim": "h.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "h. Asset disposal costs: Post Holdings, Inc. has excluded costs recorded in connection with the disposal of certain assets which were never put into use and/or the demolition and site remediation of unused facilities as the amount and frequency of these costs are not consisten...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "costs_or_expenses",
+      "claim": "expenses and do not contribute to a meaningful evaluation of Post Holdings, Inc.\u2019s current operating performance or comparisons of Post Holdings, Inc.\u2019s operating performance to other periods.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "expenses and do not contribute to a meaningful evaluation of Post Holdings, Inc.\u2019s current operating performance or comparisons of Post Holdings, Inc.\u2019s operating performance to other periods.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "guidance",
+      "claim": "i.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "i. Costs expected to be indemnified, net : Post Holdings, Inc. has excluded certain costs incurred and expected to be indemnified in connection with damaged assets and gains related to indemnification proceeds received above the carrying value of damaged assets as Post Holding...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "j.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "j. Advisory income : Post Holdings, Inc. has excluded advisory income received from 8th Avenue prior to Post Holdings, Inc.\u2019s acquisition of 8th Avenue as Post Holdings, Inc. believes such income did not contribute to a meaningful evaluation of Post Holdings, Inc.\u2019s operating...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "guidance",
+      "claim": "k.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "k. Provision for legal settlements : Post Holdings, Inc. has excluded gains and losses recorded to recognize the anticipated or actual resolution of certain litigation as Post Holdings, Inc. believes such gains and losses do not reflect expected ongoing future operating income...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "other",
+      "claim": "l.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "l. Income tax effect on adjustments : Post Holdings, Inc. has included the income tax impact of the non-GAAP adjustments using a rate described in the applicable footnote of the reconciliation tables to be consistent with the treatment of these adjustments in the calculation o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA, segment Adjusted EBITDA, Adjusted EBITDA as a percentage of Net Sales and segment Adjusted EBITDA as a percentage of Net Sales",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Adjusted EBITDA, segment Adjusted EBITDA, Adjusted EBITDA as a percentage of Net Sales and segment Adjusted EBITDA as a percentage of Net Sales",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "Post Holdings, Inc. believes that Adjusted EBITDA is useful to investors in evaluating Post Holdings, Inc.\u2019s operating performance and liquidity because (i) Post Holdings, Inc. believes it is widely used to measure a company\u2019s operating performance without regard to items such...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "guidance",
+      "claim": "Adjusted EBITDA and segment Adjusted EBITDA reflect adjustments for interest expense, net, income tax expense/benefit, and depreciation and amortization, and the following adjustments discussed above: income/expense on swaps, net, restructuring and facility closure costs, gain/loss on sale of business, integration costs and transaction costs, mark-to-market adjustments on equity security investments, mark-to-market adjustments on commodity and foreign exchange hedges, asset disposal costs, costs expected to be indemnified, net, advisory income and provision for legal settlements.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "Adjusted EBITDA and segment Adjusted EBITDA reflect adjustments for interest expense, net, income tax expense/benefit, and depreciation and amortization, and the following adjustments discussed above: income/expense on swaps, net, restructuring and facility closure costs, gain...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "other",
+      "claim": "m.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "m. Stock-based compensation : Post Holdings, Inc.\u2019s compensation strategy includes the use of stock-based compensation to attract and retain executives and employees by aligning their long-term compensation interests with shareholders\u2019 investment interests. Post Holdings, Inc....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "guidance",
+      "claim": "n.",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "n. Gain/loss on extinguishment of debt, net : Post Holdings, Inc. has excluded gains and losses recorded on extinguishment of debt, inclusive of payments for premiums and tender fees and the write-off of debt issuance costs, net of gains realized on the write-off of unamortize...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "costs_or_expenses",
+      "claim": "o.",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "o. Equity method investment adjustment : Post Holdings, Inc. has included adjustments for its portion of income tax expense/benefit, interest expense, net and depreciation and amortization for Weetabix\u2019s unconsolidated investment accounted for using equity method accounting as...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "costs_or_expenses",
+      "claim": "p.",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "p. Noncontrolling interest adjustment : Post Holdings, Inc. has included adjustments for income tax expense/benefit, interest expense, net and depreciation and amortization for Weetabix\u2019s consolidated investment which is attributable to the noncontrolling owners of Weetabix\u2019s...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "costs_or_expenses",
+      "claim": "Free cash flow is a non-GAAP measure which represents net cash provided by operating activities less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "Free cash flow is a non-GAAP measure which represents net cash provided by operating activities less capital expenditures. Post Holdings, Inc. believes free cash flow is useful to investors in evaluating Post Holdings, Inc.\u2019s ability to service debt and repurchase shares of it...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "other",
+      "claim": "RECONCILIATION OF NET EARNINGS TO ADJUSTED NET EARNINGS (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "RECONCILIATION OF NET EARNINGS TO ADJUSTED NET EARNINGS (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "guidance",
+      "claim": "Three Months Ended December 31, 2025 2024 Net Earnings $ 96.8 $ 113.3 Adjustments: Income on swaps, net (1.9) (15.4) Restructuring and facility closure costs, including accelerated depreciation 23.0 3.6 Debt premiums paid 22.6 4.4 Gain on sale of business (9.7) \u2014 Integration costs 4.3 15.6 Mark-to-market adjustments on equity security investments (2.2) (3.3) Mark-to-market adjustments on commodity and foreign exchange hedges 0.2 (6.7) Asset disposal costs 1.6 0.2 Transaction costs 0.5 0.6 Costs expected to be indemnified, net 0.4 \u2014 Advisory income \u2014 (0.2) Provision for legal settlements 0.1 \u2014 Total Net Adjustments 38.9 (1.2) Income tax effect on adjustments (1) (12.0) (0.2) Adjusted Net Earnings $ 123.7 $ 111.9 (1) Income tax effect on adjustments was calculated on all items, except income/expense on swaps, net and gain/loss on sale of business, using a rate of 24.5%, the sum of Post Holdings, Inc.\u2019s U.S.",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Net Earnings $ 96.8 $ 113.3 Adjustments: Income on swaps, net (1.9) (15.4) Restructuring and facility closure costs, including accelerated depreciation 23.0 3.6 Debt premiums paid 22.6 4.4 Gain on sale of business (9.7) \u2014 Integration c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "costs_or_expenses",
+      "claim": "(1) Income tax effect on adjustments was calculated on all items, except income/expense on swaps, net and gain/loss on sale of business, using a rate of 24.5%, the sum of Post Holdings, Inc.\u2019s U.S.",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "(1) Income tax effect on adjustments was calculated on all items, except income/expense on swaps, net and gain/loss on sale of business, using a rate of 24.5%, the sum of Post Holdings, Inc.\u2019s U.S. federal corporate income tax rate plus Post Holdings, Inc.\u2019s blended state inco...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "guidance",
+      "claim": "Three Months Ended December 31, 2025 2024 Diluted Earnings per Common Share $ 1.71 $ 1.78 Adjustment to Diluted Earnings per Common Share for impact of interest expense, net of tax, related to convertible senior notes (1) (0.05) (0.04) Adjustments: Income on swaps, net (0.03) (0.24) Restructuring and facility closure costs, including accelerated depreciation 0.40 0.06 Debt premiums paid 0.39 0.07 Gain on sale of business (0.17) \u2014 Integration costs 0.07 0.24 Mark-to-market adjustments on equity security investments (0.04) (0.05) Mark-to-market adjustments on commodity and foreign exchange hedges \u2014 (0.10) Asset disposal costs 0.03 \u2014 Transaction costs 0.01 0.01 Costs expected to be indemnified, net 0.01 \u2014 Total Net Adjustments 0.67 (0.01) Income tax effect on adjustments (2) (0.20) \u2014 Adjusted Diluted Earnings per Common Share $ 2.13 $ 1.73 (1) Represents the exclusion of interest expense, net of tax, associated with Post Holdings, Inc.\u2019s convertible senior notes, which was treated as an adjustment to income available to common shareholders for diluted earnings per common share.",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Diluted Earnings per Common Share $ 1.71 $ 1.78 Adjustment to Diluted Earnings per Common Share for impact of interest expense, net of tax, related to convertible senior notes (1) (0.05) (0.04) Adjustments: Income on swaps, net (0.03)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "costs_or_expenses",
+      "claim": "(1) Represents the exclusion of interest expense, net of tax, associated with Post Holdings, Inc.\u2019s convertible senior notes, which was treated as an adjustment to income available to common shareholders for diluted earnings per common share.",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "(1) Represents the exclusion of interest expense, net of tax, associated with Post Holdings, Inc.\u2019s convertible senior notes, which was treated as an adjustment to income available to common shareholders for diluted earnings per common share. Post Holdings, Inc. believes this...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "costs_or_expenses",
+      "claim": "(2) Income tax effect on adjustments was calculated on all items, except income/expense on swaps, net and gain/loss on sale of business, using a rate of 24.5%, the sum of Post Holdings, Inc.\u2019s U.S.",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "(2) Income tax effect on adjustments was calculated on all items, except income/expense on swaps, net and gain/loss on sale of business, using a rate of 24.5%, the sum of Post Holdings, Inc.\u2019s U.S. federal corporate income tax rate plus Post Holdings, Inc.\u2019s blended state inco...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "guidance",
+      "claim": "Three Months Ended December 31, 2025 2024 Net Earnings $ 96.8 $ 113.3 Interest expense, net 103.4 84.1 Income tax expense 27.3 32.1 Depreciation and amortization 152.5 120.3 Stock-based compensation 22.4 19.8 Loss on extinguishment of debt, net 17.5 5.8 Income on swaps, net (1.9) (15.4) Restructuring and facility closure costs, excluding accelerated depreciation 5.0 3.6 Gain on sale of business (9.7) \u2014 Integration costs 4.3 15.6 Mark-to-market adjustments on equity security investments (2.2) (3.3) Mark-to-market adjustments on commodity and foreign exchange hedges 0.2 (6.7) Asset disposal costs 1.6 0.2 Transaction costs 0.5 0.6 Costs expected to be indemnified, net 0.4 \u2014 Advisory income \u2014 (0.2) Provision for legal settlements 0.1 \u2014 Equity method investment adjustment 0.1 0.1 Noncontrolling interest adjustment (0.1) \u2014 Adjusted EBITDA $ 418.2 $ 369.9 Net Earnings as a percentage of Net Sales 4.5 % 5.7 % Adjusted EBITDA as a percentage of Net Sales 19.2 % 18.7 %",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Net Earnings $ 96.8 $ 113.3 Interest expense, net 103.4 84.1 Income tax expense 27.3 32.1 Depreciation and amortization 152.5 120.3 Stock-based compensation 22.4 19.8 Loss on extinguishment of debt, net 17.5 5.8 Income on swaps, net (1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "guidance",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "Post Holdings, Inc. Consumer Brands Foodservice Refrigerated Retail Weetabix Corporate/ Other Segment Profit $ 132.2 $ 117.5 $ 30.4 $ 21.7 $ \u2014 General corporate expenses and other \u2014 \u2014 \u2014 \u2014 (58.8) Other income, net \u2014 \u2014 \u2014 \u2014 (4.6) Operating Profit 132.2 117.5 30.4 21.7 (63.4) Othe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "revenue",
+      "claim": "Post Holdings, Inc.",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "Post Holdings, Inc. Consumer Brands Foodservice Refrigerated Retail Weetabix Corporate/ Other Segment Profit $ 131.0 $ 86.1 $ 24.2 $ 15.9 $ \u2014 General corporate expenses and other \u2014 \u2014 \u2014 \u2014 (37.3) Other income, net \u2014 \u2014 \u2014 \u2014 (5.8) Operating Profit 131.0 86.1 24.2 15.9 (43.1) Other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "balance_sheet_or_cash",
+      "claim": "RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES TO FREE CASH FLOW (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES TO FREE CASH FLOW (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_099",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended December 31, 2025 2024 Net cash provided by operating activities $ 235.7 $ 310.4 Less: Capital expenditures 116.4 139.0 Free Cash Flow $ 119.3 $ 171.4",
+      "value": null,
+      "source_ids": [
+        "S099"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 2024 Net cash provided by operating activities $ 235.7 $ 310.4 Less: Capital expenditures 116.4 139.0 Free Cash Flow $ 119.3 $ 171.4",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.056995, ret_20d=0.082193, market_ret_20d=-0.017344",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.056995, ret_20d=0.082193, market_ret_20d=-0.017344",
+      "support_label": "supported"
+    }
+  ]
+}

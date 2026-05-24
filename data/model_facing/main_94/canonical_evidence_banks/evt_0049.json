@@ -1,0 +1,578 @@
+{
+  "event_id": "evt_0049",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ZILLOW GROUP, INC.",
+  "ticker": "ZG",
+  "company_alias": "ZILLOW GROUP, INC.",
+  "masked_company": "Company AI",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-10",
+  "accepted_at_et": "2026-02-10T16:08:19-05:00",
+  "source_packet_path": "source_packets/evt_0049.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Contacts: Investors Brad Berning ir@zillowgroup.com Media Gina Cole press@ZILLOW GROUP, INC..com",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Contacts: Investors Brad Berning ir@zillowgroup.com Media Gina Cole press@ZILLOW GROUP, INC..com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "SEATTLE, 2026-02-10T16:08:19-05:00 \u2014 ZILLOW GROUP, INC..",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "SEATTLE, 2026-02-10T16:08:19-05:00 \u2014 ZILLOW GROUP, INC.. (NASDAQ: Z and ZG), which is transforming the way people buy, sell, rent and finance homes, today announced its consolidated financial results for the three months and year ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "\u201cWe delivered strong results in the fourth quarter and throughout 2025, achieving all our reported full-year financial targets, including positive net income, while continuing to gain share in both For Sale and Rentals,\u201d said ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u201cWe delivered strong results in the fourth quarter and throughout 2025, achieving all our reported full-year financial targets, including positive net income, while continuing to gain share in both For Sale and Rentals,\u201d said ZILLOW GROUP, INC. Chief Executive Officer. \u201cAs we...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "\u2022 Q4 revenue was up 18% year over year to $654 million, near the high end of the company\u2019s outlook range.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Q4 revenue was up 18% year over year to $654 million, near the high end of the company\u2019s outlook range. Full-year 2025 revenue of $2.6 billion was up 16% year over year. The residential real estate industry grew by 3% in Q4 and 3% for full-year 2025, according to the NAR, me...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u25e6 For Sale revenue was up 11% year over year to $475 million in Q4.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u25e6 For Sale revenue was up 11% year over year to $475 million in Q4.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u25aa Residential revenue was up 8% year over year in Q4 to $418 million, benefiting from growth in the company\u2019s agent and software offerings and in the company\u2019s New Construction marketplace.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u25aa Residential revenue was up 8% year over year in Q4 to $418 million, benefiting from growth in the company\u2019s agent and software offerings and in the company\u2019s New Construction marketplace.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u25aa Mortgages revenue increased 39% year over year to $57 million in Q4, primarily due to a 67% increase in purchase loan origination volume to $1.5 billion.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u25aa Mortgages revenue increased 39% year over year to $57 million in Q4, primarily due to a 67% increase in purchase loan origination volume to $1.5 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "\u25e6 Rentals revenue increased 45% year over year to $168 million in Q4, primarily driven by multifamily revenue growing 63% year over year.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u25e6 Rentals revenue increased 45% year over year to $168 million in Q4, primarily driven by multifamily revenue growing 63% year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 On a GAAP basis, net income was $3 million in Q4, and net income margin was 0%, a 990-basis-point increase year over year.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 On a GAAP basis, net income was $3 million in Q4, and net income margin was 0%, a 990-basis-point increase year over year. GAAP net income was $23 million for full-year 2025, and net income margin was 1%, a 590-basis-point increase year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "\u2022 Q4 Adjusted EBITDA was $149 million, and Adjusted EBITDA margin was 23%, a 260-basis-point increase year over year, driven by revenue growth and cost management.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Q4 Adjusted EBITDA was $149 million, and Adjusted EBITDA margin was 23%, a 260-basis-point increase year over year, driven by revenue growth and cost management. Adjusted EBITDA was $622 million for full-year 2025, and Adjusted EBITDA margin was 24%, a 180-basis-point increa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash and investments at the end of Q4 were $1.3 billion, down from $1.4 billion at the end of Q3.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Cash and investments at the end of Q4 were $1.3 billion, down from $1.4 billion at the end of Q3. During Q4, the company repurchased 3.4 million shares for $232 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "\u2022 Traffic to ZILLOW GROUP, INC.\u2019s apps and sites in Q4 was up 8% year over year to 221 million average monthly unique users.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Traffic to ZILLOW GROUP, INC.\u2019s apps and sites in Q4 was up 8% year over year to 221 million average monthly unique users. Visits during Q4 were up 2% year over year at 2.1 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "1 National Association of Realtors\u00ae existing homes sold during Q4 2025 and full-year 2025 multiplied by the average selling price per home for Q4 2025 and full-year 2025, compared with the same period in 2024",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "1 National Association of Realtors\u00ae existing homes sold during Q4 2025 and full-year 2025 multiplied by the average selling price per home for Q4 2025 and full-year 2025, compared with the same period in 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "margins",
+      "claim": "2 Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP financial measures; they are not calculated or presented in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "2 Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP financial measures; they are not calculated or presented in accordance with U.S. generally accepted accounting principles (\u201cGAAP\u201d). Please see the \u201cUse of Non-GAAP Financial Measures\u201d section below for more information...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, 2024 to 2025 % Change Year Ended December 31, 2024 to 2025 % Change 2025 2024 2025 2024 Revenue: For Sale revenue: Residential $ 418 $ 387 8% $ 1,704 $ 1,594 7% Mortgages 57 41 39% 199 145 37% Total For Sale revenue 475 428 11% 1,903 1,739 9% Rentals 168 116 45% 630 453 39% Other 11 10 10% 50 44 14% Total revenue $ 654 $ 554 18% $ 2,583 $ 2,236 16% Other Financial Data: Gross profit $ 476 $ 420 $ 1,915 $ 1,709 Net income (loss) $ 3 $ (52) $ 23 $ (112) Diluted net income (loss) per share $ 0.01 $ (0.22) $ 0.09 $ (0.48) Net cash provided by operating activities $ 72 $ 122 $ 368 $ 428 Non-GAAP Financial Measures: (1) Adjusted EBITDA $ 149 $ 112 $ 622 $ 498 Adjusted net income $ 98 $ 68 $ 417 $ 349 Diluted adjusted net income per share $ 0.39 $ 0.27 $ 1.64 $ 1.38 Adjusted free cash flow $ 125 $ 78 $ 420 $ 309 Percentage of Revenue: Gross profit 73% 76% 74% 76% Net income (loss) \u2014% (9)% 1% (5)% Adjusted EBITDA (1) 23% 20% 24% 22% Adjusted net income (1) 15% 12% 16% 16% (1) These are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024 to 2025 % Change Year Ended December 31, 2024 to 2025 % Change 2025 2024 2025 2024 Revenue: For Sale revenue: Residential $ 418 $ 387 8% $ 1,704 $ 1,594 7% Mortgages 57 41 39% 199 145 37% Total For Sale revenue 475 428 11% 1,903 1,739 9% Re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "(1) These are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "(1) These are non-GAAP financial measures. Please see the \u201cUse of Non-GAAP Financial Measures\u201d section below for more information about our presentation of these non-GAAP financial measures, including a reconciliation to the most directly comparable GAAP financial measures for...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Factors that may contribute to such differences include, but are not limited to: the health and stability of the economy and United States residential real estate industry, including changes in inflationary conditions, interest rates, housing availability and affordability, labor shortages and supply chain issues; our ability to manage advertising, product inventory and pricing, and to maintain relationships with our real estate partners; our ability to establish or maintain relationships with listing and data providers, which affects traffic to our mobile apps and websites; or changes to our rights to use or timely access listing data, or to the quality or quantity of such listing data; our ability to comply with current and future rules and requirements promulgated by National Association of REALTORS\u00ae, multiple listing services, or other real estate industry groups or governing bodies, or decisions to repeal, amend or not enforce such rules and requirements; our ability to navigate industry changes, including as a result of past, pending or future lawsuits, settlements or government investigations, which may include lawsuits, settlements or investigations in which we are not a named party; uncertainties related to policy changes, enforcement priorities, or government shutdowns at the federal and state levels; our ability to continue to innovate and compete to attract customers and real estate partners; our ability to effectively invest resources to pursue new strategies, develop new products and services and expand existing products and services into new markets; our ability to operate and grow ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Factors that may contribute to such differences include, but are not limited to: the health and stability of the economy and United States residential real estate industry, including changes in inflationary conditions, interest rates, housing availability and affordability, la...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "The foregoing list of risks and uncertainties is illustrative but not exhaustive.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "The foregoing list of risks and uncertainties is illustrative but not exhaustive. For more information about potential factors that could affect ZILLOW GROUP, INC.\u2019s business and financial results, please review the \u201cRisk Factors\u201d described in ZILLOW GROUP, INC.\u2019s publicly ava...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "ZILLOW GROUP, INC..",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "ZILLOW GROUP, INC.. (Nasdaq: Z and ZG) is reimagining real estate to make home a reality for more and more people.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "As the most visited real estate app and website in the United States, ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "As the most visited real estate app and website in the United States, ZILLOW GROUP, INC. connects hundreds of millions of consumers with innovative technology, trusted agents and loan officers, and seamless digital solutions. With industry-leading tools and resources, ZILLOW G...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "ZILLOW GROUP, INC.\u2019s ecosystem spans the entire home journey \u2014 from dreaming and shopping to renting, buying, selling and financing.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "ZILLOW GROUP, INC.\u2019s ecosystem spans the entire home journey \u2014 from dreaming and shopping to renting, buying, selling and financing.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "ZILLOW GROUP, INC.\u2019s affiliates, subsidiaries, and brands include ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "ZILLOW GROUP, INC.\u2019s affiliates, subsidiaries, and brands include ZILLOW GROUP, INC. \u00ae , ZILLOW GROUP, INC. Premier Agent \u00ae , ZILLOW GROUP, INC. Home Loans \u00ae , ZILLOW GROUP, INC. Rentals \u00ae , ZILLOW GROUP, INC. \u00ae New Construction, Trulia \u00ae , StreetEasy \u00ae , Out East \u00ae , HotPads...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "All marks herein are owned by MFTB Holdco, Inc., a ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "All marks herein are owned by MFTB Holdco, Inc., a ZILLOW GROUP, INC. affiliate. ZILLOW GROUP, INC. Home Loans, LLC is an Equal Housing Lender, NMLS #10287 (www.nmlsconsumeraccess.org). \u00a9 2026 MFTB Holdco, Inc., a ZILLOW GROUP, INC. affiliate.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Please visit https://investors.zillowgroup.com, www.zillowgroup.com/news, www.x.com/zillowgroup, and www.linkedin.com/company/ZILLOW GROUP, INC., where ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Please visit https://investors.zillowgroup.com, www.zillowgroup.com/news, www.x.com/zillowgroup, and www.linkedin.com/company/ZILLOW GROUP, INC., where ZILLOW GROUP, INC. discloses information about the company, its financial information, and its business that may be deemed ma...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Logos for ZILLOW GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Logos for ZILLOW GROUP, INC. and some of its key brands are available at https://ZILLOW GROUP, INC..com/news/logos/.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "To provide investors with additional information regarding our financial results and liquidity, this press release includes references to Adjusted EBITDA, Adjusted net income, Diluted adjusted net income per share, and Adjusted free cash flow, all of which are non-GAAP financial measures not calculated or presented in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "To provide investors with additional information regarding our financial results and liquidity, this press release includes references to Adjusted EBITDA, Adjusted net income, Diluted adjusted net income per share, and Adjusted free cash flow, all of which are non-GAAP financi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "margins",
+      "claim": "Adjusted EBITDA is a key metric used by our management and Board of Directors to measure operating performance and trends and to prepare and approve our annual budget.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Adjusted EBITDA is a key metric used by our management and Board of Directors to measure operating performance and trends and to prepare and approve our annual budget. In particular, we believe the exclusion of certain expenses in calculating Adjusted EBITDA facilitates operat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "margins",
+      "claim": "Our use of Adjusted EBITDA has limitations as an analytical tool, and you should not consider this measure in isolation or as a substitute for analysis of our results as reported under GAAP.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Our use of Adjusted EBITDA has limitations as an analytical tool, and you should not consider this measure in isolation or as a substitute for analysis of our results as reported under GAAP. Some of these limitations are:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs;",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not consider the potentially dilutive impact of share-based compensation;",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not consider the potentially dilutive impact of share-based compensation;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "margins",
+      "claim": "\u2022 Although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA does not reflect cash capital expenditure requirements for such replacements or for new capital expenditures or contractual commitments;",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 Although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA does not reflect cash capital expenditure requirements for such replacements or for new capital expenditures or...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not reflect loss on extinguishment of debt;",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not reflect loss on extinguishment of debt;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not reflect interest expense or other income, net;",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not reflect interest expense or other income, net;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA does not reflect income taxes; and",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA does not reflect income taxes; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "margins",
+      "claim": "\u2022 Other companies, including companies in our own industry, may calculate Adjusted EBITDA differently from the way we do, limiting its usefulness as a comparative measure.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 Other companies, including companies in our own industry, may calculate Adjusted EBITDA differently from the way we do, limiting its usefulness as a comparative measure.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Because of these limitations, you should consider Adjusted EBITDA alongside other financial performance measures, including various cash-flow metrics, net income (loss), and our other GAAP results.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Because of these limitations, you should consider Adjusted EBITDA alongside other financial performance measures, including various cash-flow metrics, net income (loss), and our other GAAP results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted Net Income and Diluted Adjusted Net Income Per Share",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Adjusted Net Income and Diluted Adjusted Net Income Per Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "Our presentation of Adjusted net income and Diluted adjusted net income per share excludes the impact of share-based compensation, impairment costs, acquisition-related costs, loss on extinguishment of debt, and income taxes.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Our presentation of Adjusted net income and Diluted adjusted net income per share excludes the impact of share-based compensation, impairment costs, acquisition-related costs, loss on extinguishment of debt, and income taxes. These measures are not key metrics used by our mana...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "We define Adjusted free cash flow as net cash provided by operating activities adjusted for purchases of property and equipment, purchases of intangible assets, net borrowings (repayments) on repurchase agreements, and the initial payment in connection with the Redfin rentals partnership.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "We define Adjusted free cash flow as net cash provided by operating activities adjusted for purchases of property and equipment, purchases of intangible assets, net borrowings (repayments) on repurchase agreements, and the initial payment in connection with the Redfin rentals...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "balance_sheet_or_cash",
+      "claim": "We have included Adjusted free cash flow in this press release as it is a key metric used by our management to evaluate the effectiveness of our business strategies and execution and our ability to consistently generate cash from our core operations on a period-to-period basis.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "We have included Adjusted free cash flow in this press release as it is a key metric used by our management to evaluate the effectiveness of our business strategies and execution and our ability to consistently generate cash from our core operations on a period-to-period basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "balance_sheet_or_cash",
+      "claim": "Our use of Adjusted free cash flow has limitations as an analytical tool, and you should not consider this measure in isolation or as a substitute for analysis of our results as reported under GAAP.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Our use of Adjusted free cash flow has limitations as an analytical tool, and you should not consider this measure in isolation or as a substitute for analysis of our results as reported under GAAP. Adjusted free cash flow does not represent the residual cash flow",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "balance_sheet_or_cash",
+      "claim": "available for discretionary expenditures.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "available for discretionary expenditures. Other companies, including companies in our own industry, may calculate Adjusted free cash flow differently from the way we do, limiting its usefulness as a comparative measure.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "The following table presents a reconciliation of Adjusted EBITDA to net income (loss) for each of the periods presented (in millions, unaudited):",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "The following table presents a reconciliation of Adjusted EBITDA to net income (loss) for each of the periods presented (in millions, unaudited):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net income (loss) $ 3 $ (52) $ 23 $ (112) Income taxes \u2014 1 2 5 Other income, net (19) (26) (77) (127) Depreciation and amortization 65 62 264 240 Share-based compensation 95 119 390 448 Impairment costs \u2014 \u2014 2 6 Acquisition-related costs \u2014 \u2014 \u2014 1 Loss on extinguishment of debt \u2014 \u2014 \u2014 1 Interest expense 5 8 18 36 Adjusted EBITDA $ 149 $ 112 $ 622 $ 498",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net income (loss) $ 3 $ (52) $ 23 $ (112) Income taxes \u2014 1 2 5 Other income, net (19) (26) (77) (127) Depreciation and amortization 65 62 264 240 Share-based compensation 95 119 390 448 Impairment cost...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "earnings_or_eps",
+      "claim": "The following table presents a reconciliation of Adjusted net income to net income (loss) and associated per-share metrics for each of the periods presented (in millions, except per-share data, unaudited):",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "The following table presents a reconciliation of Adjusted net income to net income (loss) and associated per-share metrics for each of the periods presented (in millions, except per-share data, unaudited):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net income (loss) $ 3 $ (52) $ 23 $ (112) Share-based compensation 95 119 390 448 Impairment costs \u2014 \u2014 2 6 Acquisition-related costs \u2014 \u2014 \u2014 1 Loss on extinguishment of debt \u2014 \u2014 \u2014 1 Income taxes \u2014 1 2 5 Adjusted net income $ 98 $ 68 $ 417 $ 349 Diluted net income (loss) per share $ 0.01 $ (0.22) $ 0.09 $ (0.48) Diluted adjusted net income per share $ 0.39 $ 0.27 $ 1.64 $ 1.38",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net income (loss) $ 3 $ (52) $ 23 $ (112) Share-based compensation 95 119 390 448 Impairment costs \u2014 \u2014 2 6 Acquisition-related costs \u2014 \u2014 \u2014 1 Loss on extinguishment of debt \u2014 \u2014 \u2014 1 Income taxes \u2014 1 2 5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "earnings_or_eps",
+      "claim": "For periods with GAAP net loss and Adjusted net income, the Adjusted diluted weighted-average shares outstanding used in the calculation of Diluted adjusted net income per share includes potentially dilutive securities that were excluded from the calculation of Diluted net loss per share, as the effect was anti-dilutive.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "For periods with GAAP net loss and Adjusted net income, the Adjusted diluted weighted-average shares outstanding used in the calculation of Diluted adjusted net income per share includes potentially dilutive securities that were excluded from the calculation of Diluted net los...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Diluted weighted-average shares outstanding 252,387 236,329 254,117 234,077 Effect of dilutive securities: Option awards \u2014 8,933 \u2014 4,206 Unvested restricted stock units \u2014 4,382 \u2014 2,669 Convertible senior notes \u2014 9,844 \u2014 20,347 Adjusted diluted weighted-average shares outstanding 252,387 259,488 254,117 261,299",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Diluted weighted-average shares outstanding 252,387 236,329 254,117 234,077 Effect of dilutive securities: Option awards \u2014 8,933 \u2014 4,206 Unvested restricted stock units \u2014 4,382 \u2014 2,669 Convertible seni...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "balance_sheet_or_cash",
+      "claim": "The following table provides a reconciliation of Adjusted free cash flow to net cash provided by operating activities for the periods presented (in millions, unaudited):",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "The following table provides a reconciliation of Adjusted free cash flow to net cash provided by operating activities for the periods presented (in millions, unaudited):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "balance_sheet_or_cash",
+      "claim": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net cash provided by operating activities $ 72 $ 122 $ 368 $ 428 Purchases of property and equipment (28) (34) (133) (143) Purchases of intangible assets (11) (7) (134) (28) Net borrowings (repayments) on repurchase agreements 92 (3) 219 52 Initial payment in connection with Redfin rentals partnership \u2014 \u2014 100 \u2014 Adjusted free cash flow $ 125 $ 78 $ 420 $ 309",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Net cash provided by operating activities $ 72 $ 122 $ 368 $ 428 Purchases of property and equipment (28) (34) (133) (143) Purchases of intangible assets (11) (7) (134) (28) Net borrowings (repayments)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.072913, ret_20d=-0.189455, market_ret_20d=-0.004373",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.072913, ret_20d=-0.189455, market_ret_20d=-0.004373",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "event_id": "evt_0022",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "MCCORMICK & CO INC",
+  "ticker": "MKC",
+  "company_alias": "MCCORMICK & CO INC",
+  "masked_company": "Company BK",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-03-31",
+  "filing_metadata": {
+    "cik": "63754",
+    "accession_number": "0000063754-26-000189",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-31T06:40:56-04:00",
+    "event_date": "2026-03-31",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "FOR IMMEDIATE RELEASE MCCORMICK & CO INC REPORTS STRONG FIRST QUARTER PERFORMANCE AND REAFFIRMS 2026 OUTLOOK HUNT VALLEY, Md., 2026-03-31T06:40:56-04:00 - MCCORMICK & CO INC & Company, Incorporated (NYSE:MKC), a global leader in flavor, today reported financial results for the first quarter ended February 28, 2026 and reaffirmed its outlook for fiscal 2026. \u2022 Net Sales increased 16.7% in the first quarter and included a 3.1% favorable impact from currency. Organic sales growth was 1.2%. \u2022 Operating income was $228 million in the first quarter compared to $225 million in the year-ago period. Adjusted operating income was $268 million compared to $225 million in the year-ago period. \u2022 Earnings per share was $3.77 in the first quarter as compared to $0.60 in the year-ago period. Earnings per share included a non-cash gain related to the MCCORMICK & CO INC de Mexico acquisition. Adjusted earnings per share was $0.66 as compared to $0.60 in the year-ago period. \u2022 For fiscal year 2026, MCCORMICK & CO INC reaffirmed its sales growth, adjusted operating income and adjusted earnings per share outlook. Chairman, President, and CEO's Remarks Brendan M. Foley, Chairman, President, and CEO, stated, \"We are pleased to begin the year with first quarter results that demonstrate the strength and resilience of our business. We delivered strong growth in sales, adjusted operating income, and adjusted earnings per share, supported by the MCCORMICK & CO INC de Mexico acquisition and organic growth across both Consumer and Flavor Solutions. Strong sales, acquisition accretion, and disciplined cost management enabled margin expansion as we continued to invest for future growth.\" \"First quarter total volumes were in line with our expectations, and we anticipate sequential improvement with growth building throughout the year, as we benefit from brand investments, increased innovation in both segments, and distribution gains. Our fundamentals remain strong, supported by our advantaged portfolio, disciplined execution, and continued investment, positioning us to drive sustained, profitable growth. We remain on track to achieve our 2026 outlook and remain committed to our vision of being a global flavor leader, while continuing to drive shareholder value.\u201d",
+      "token_count": 557
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\"Finally, I want to thank our MCCORMICK & CO INC employees around the world. They are the foundation of our success, and I am continually inspired by their dedication and contributions. We remain committed to strengthening our Power of People culture and building a future-ready organization that will support our growth for years to come.\" First Quarter 2026 Results Sales Metrics First Quarter 2026 As Reported Organic(1) Acquisition Constant Currency % Change Volume/ Mix Price % Change % Change % Change Total Net Sales 16.7 % (0.7) % 1.9 % 1.2 % 12.4 % 13.6 % Total Consumer 24.5 % (0.4) % 2.2 % 1.8 % 19.8 % 21.6 % Americas 30.4 % (1.6) % 2.8 % 1.2 % 28.9 % 30.1 % EMEA 15.5 % 2.4 % 1.3 % 3.7 % \u2014 % 3.7 % APAC 6.2 % 2.1 % 0.1 % 2.2 % \u2014 % 2.2 % Total Flavor Solutions 6.2 % (1.0) % 1.5 % 0.5 % 2.4 % 2.9 % Americas 6.1 % (1.7) % 2.5 % 0.8 % 3.4 % 4.2 % EMEA 7.3 % (0.5) % \u2014 % (0.5) % \u2014 % (0.5) % APAC 5.1 % 2.6 % (2.1) % 0.5 % \u2014 % 0.5 % 1 Organic sales growth is defined as the impact of volume/mix and price and excludes the impact of acquisitions or divestitures, as applicable, and foreign currency. Profitability Metrics ($ in millions except per share data) First Quarter 2026 As Reported Adjusted Q1 2026 vs. 2025 Q1 2026 vs. 2025 Gross profit $ 708.9 17.4 % $ 723.9 19.9 % Gross profit margin 37.8 % 20 bps 38.6 % 100 bps Operating income $ 227.5 1.0 % $ 267.6 18.8 % Operating income margin 12.1 % (190) bps 14.3 % 30 bps Net income attributable to MCCORMICK & CO INC $ 1,016.2 526.1 % $ 176.9 9.0 % Earnings per share - diluted $ 3.77 528.3 % $ 0.66 10.0 %",
+      "token_count": 389
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "First Quarter 2026 Results Net sales increased 17% in the first quarter compared to the year-ago period and included a 3% favorable impact from currency. Sales from our January 2026 acquisition of MCCORMICK & CO INC de Mexico contributed 13% to the sales increase. Organic sales increased 1%, driven primarily by price. \u2022 Consumer segment net sales increased 25% from the first quarter of 2025 to $1,145 million including a 20% contribution from MCCORMICK & CO INC de Mexico and a 3% favorable impact from currency. Organic sales increased 2%, driven by price. \u2022 Flavor Solutions segment net sales increased 6% from the first quarter of 2025 to $729 million and included a 3% favorable impact from currency and 2% contribution from MCCORMICK & CO INC de Mexico. Organic sales increased 1%, driven by price. Gross profit for the first quarter increased by $105 million from the comparable period in 2025. Gross profit margin expanded 20 basis points versus the first quarter of last year. Excluding transaction expense related to the acquisition-date fair value adjustment of inventories, adjusted gross profit expanded 100 basis points versus the year-ago period. The expansion was driven by contribution from the acquisition of MCCORMICK & CO INC de Mexico, pricing, and cost savings led by the Company's Comprehensive Continuous Improvement (CCI) program partially offset by higher commodity costs. Operating income was $228 million in the first quarter of 2026 compared to $225 million in the first quarter of 2025. Excluding special charges, adjusted operating income was $268 million compared to $225 million in the year-ago period. Adjusted operating income increased 19% from the year-ago period, including a 3% favorable impact from currency. In constant currency, adjusted operating income increased 16%, driven by higher gross profit, cost savings led by the CCI program, including SG&A streamlining initiatives, partially offset by higher selling, general and administrative (SG&A) expenses primarily due to acquisition related increase, sustained brand marketing investments, and increased technology investments. \u2022 Consumer segment operating income, excluding special charges, increased 22% in the first quarter of 2026 compared to the year-ago period to $180 million, or 20% in constant currency. The increase was driven by higher gross profit, partially offset by increased SG&A expenses including investments in brand marketing and technology. \u2022 Flavor Solutions segment operating income, excluding special charges, increased 12% in the first quarter of 2026 compared to the year-ago period to $88 million, or 7% in constant currency. The increase was driven by higher gross profit, partially offset by increased SG&A expenses including investments in technology. Earnings per share was $3.77 in the first quarter of 2026 compared to $0.60 in the first quarter of 2025. The non-cash gain on remeasurement of our previously held equity interest in MCCORMICK & CO INC de Mexico increased diluted earnings per share by $3.22 and special charges, including transaction and integration costs, lowered diluted earnings per share by $0.11. Excluding special charges and the non- cash gain, adjusted earnings per share was $0.66 in the first quarter of 2026 compared to $0.60 in the first quarter of 2025. The increase was primarily attributable to higher adjusted operating income.",
+      "token_count": 838
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Fiscal Year 2026 Financial Outlook MCCORMICK & CO INC's fiscal 2026 outlook continues to reflect the Company's prioritized investments in key categories to sustain its volume trends and drive long-term profitable growth while appreciating the uncertainty of the consumer and macro environment, including global trade policies and the conflict in the Middle East. The Company's CCI program is continuing to fuel growth investments while also driving operating margin expansion. Lastly, the outlook reflects meaningful contributions from the acquisition of a controlling interest in MCCORMICK & CO INC de Mexico, which closed on January 2, 2026. Current Guide(1) March 2026 Reported Constant Currency Net sales growth 13% to 17% 12% to 16% Contribution from acquisition of MCCORMICK & CO INC de Mexico 11% to 13% 11% to 13% Organic sales growth (2) --- 1% to 3% Adjusted operating income 16% to 20% 15% to 19% Adjusted Earnings per share (EPS) $3.05 to $3.13 2% to 5% 1% to 4% (1) Amounts are rounded with percentages calculated from the underlying amounts (2) Organic sales growth is defined as the impact of volume/mix and price and excludes the impact of acquisitions or divestitures, as applicable, and foreign currency. Current Guide - Expectations: Net Sales: \u2022 Sustained volume growth and increased pricing benefits relative to the prior year. Adjusted Operating Income: \u2022 Adjusted gross margin expansion to reflect recovery from 2025. Favorable impacts from organic sales growth, MCCORMICK & CO INC de Mexico accretion, and the Company's CCI program, partially offset by increased commodity costs. \u2022 SG&A expenses impacted by cost headwinds including digital transformation and build back of incentive compensation, as well as growth investments. In addition, SG&A is expected to benefit from the Company's CCI program, inclusive of streamlining initiatives. Adjusted Earnings per Share: \u2022 Adjusted operating income growth partially offset by: \u25e6 Tax rate of approximately 24% vs. 21.5% in 2025. \u25e6 Higher net interest expense, primarily associated with the MCCORMICK & CO INC de Mexico transaction. \u25e6 Income from unconsolidated operations no longer reflects ownership interest in MCCORMICK & CO INC de Mexico subsequent to the January 2026 acquisition.",
+      "token_count": 553
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 The acquisition of the additional ownership interest resulted in the consolidation of MCCORMICK & CO INC de Mexico's financial results in the Company's financial statements from the date of acquisition. Income attributable to noncontrolling interest reflects elimination of the 25% minority interest in MCCORMICK & CO INC de Mexico Net Income attributable to Grupo Herdez. The Company expects foreign currency rates to favorably impact net sales by 1%, adjusted operating income by 1%, and adjusted earnings per share by 1%. For fiscal 2026, the Company expects strong cash flow driven by profit and working capital initiatives and anticipates returning a significant portion of cash flow to shareholders through dividends. The Company's outlook for 2026 adjusted operating income and adjusted earnings per share are non- GAAP financial measures that exclude or otherwise adjust for items impacting comparability of financial results. The Company is unable to reconcile its projected adjusted operating income to its projected reported operating income for 2026 because it cannot reasonably predict the amount of any additional special charges, including transaction and integration expenses that may be recognized during this time period. Similarly, the Company is unable to reconcile its projected adjusted earnings per share to projected reported earnings per share for 2026 due to the same factors affecting reported operating income. Non-GAAP Financial Measures The following tables include financial measures of organic net sales, adjusted gross profit, adjusted gross profit margin, adjusted operating income, adjusted operating income margin, adjusted income tax expense, adjusted income tax rate, adjusted net income, and adjusted diluted earnings per share. These represent non-GAAP financial measures which are prepared as a complement to our financial results prepared in accordance with United States generally accepted accounting principles. These financial measures exclude the impact, as applicable, of the following: \u2022 Special charges - Special charges consist of expenses and income associated with certain actions undertaken by us to reduce fixed costs, simplify or improve processes, and improve our competitiveness and are of such significance in terms of both up-front costs and organizational/structural impact to require advance approval by our Management Committee. Expenses associated with the approved actions are classified as special charges upon recognition and monitored on an ongoing basis through completion. Included in special charges are transaction and integration costs incurred in conjunction with acquisitions. \u2022 Gain on remeasurement of previously held equity interest - On January 2, 2026, we completed the acquisition of an additional 25% ownership interest in MCCORMICK & CO INC de Mexico which increased our ownership to a 75% controlling interest. Prior to the acquisition of the additional ownership interest, we accounted for our 50% ownership interest as an equity method investment. The acquisition of the additional ownership interest resulted in the consolidation",
+      "token_count": 774
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "of MCCORMICK & CO INC de Mexico's financial results. As a result of the consolidation, the carrying value of our previously held 50% ownership interest was remeasured to fair value resulting in a gain. We believe that these non-GAAP financial measures are important. The exclusion of the items noted above provides additional information that enables enhanced comparisons to prior periods and, accordingly, facilitates the development of future projections and earnings growth prospects. This information is also used by management to measure the profitability of our ongoing operations and analyze our business performance and trends. These non-GAAP financial measures may be considered in addition to results prepared in accordance with GAAP; however, they should not be viewed as a substitute for, or superior to, GAAP results. Furthermore, these non-GAAP financial measures may not be comparable to similarly titled measures of other companies, as they may calculate them differently than we do. We intend to continue providing these non-GAAP financial measures as part of our future earnings discussions, ensuring consistency in our financial reporting. A reconciliation of these non-GAAP financial measures to the related GAAP financial measures follows:",
+      "token_count": 313
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(in millions except per share data) Three Months Ended 2/28/2026 2/28/2025 Gross profit $ 708.9 $ 604.0 Impact of special charges included in cost of goods sold 15.0 \u2014 Adjusted gross profit $ 723.9 $ 604.0 Gross profit margin (1) 37.8 % 37.6 % Impact of special charges (1) 0.8 % \u2014 % Adjusted gross profit margin (1) 38.6 % 37.6 % Operating income $ 227.5 $ 225.2 Impact of special charges 40.1 \u2014 Adjusted operating income 267.6 225.2 Operating income margin (2) 12.1 % 14.0 % Impact of special charges (2) 2.2 % \u2014 % Adjusted operating income margin (2) 14.3 % 14.0 % Income tax expense $ 48.7 $ 41.6 Impact of special charges 9.9 \u2014 Adjusted income tax expense $ 58.6 $ 41.6 Income tax rate (3) 26.3 % 22.3 % Impact of special charges (0.3) % \u2014 % Adjusted income tax rate (3) 26.0 % 22.3 % Net income attributable to MCCORMICK & CO INC & Company $ 1,016.2 $ 162.3 Impact of special charges, net of non-controlling interest (4) 27.5 \u2014 Gain on remeasurement of previously held equity interest (866.8) \u2014 Adjusted net income $ 176.9 $ 162.3 Earnings per share \u2013 diluted $ 3.77 $ 0.60 Impact of special charges 0.11 \u2014 Gain on remeasurement of previously held equity interest (3.22) \u2014 Adjusted earnings per share \u2013 diluted $ 0.66 $ 0.60",
+      "token_count": 306
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Gross profit margin, impact of special charges, and adjusted gross profit margin are calculated as gross profit, impact of special charges, and adjusted gross profit as a percentage of net sales for each period presented. The impact of special charges included in cost of goods sold represents the step-up of acquired inventory recognized in cost of goods sold as the related inventory was sold. (2) Operating income margin, impact of special charges, and adjusted operating income margin are calculated as operating income, impact of special charges, and adjusted operating income as a percentage of net sales for each period presented. (3) Income tax rate is calculated as income tax expense as a percentage of income from consolidated operations before income taxes. Adjusted income tax rate is calculated as adjusted income tax expense as a percentage of income from consolidated operations before income taxes excluding special charges of $225.1 million and $186.5 million for the three months ended February 28, 2026 and 2025, respectively. (4) The impact of special charges, net of noncontrolling interests, for the three months ended February 28, 2026 represents a $2.6 million non-controlling interest effect associated with the step-up of acquired inventory recognized in cost of goods sold as the related inventory was sold. Because we are a multi-national company, we are subject to variability of our reported U.S. dollar results due to changes in foreign currency exchange rates. Those changes can be volatile. The exclusion of the effects of foreign currency exchange, or what we refer to as amounts expressed \u201con a constant currency basis,\u201d is a non-GAAP measure. We believe that this non-GAAP measure provides additional information that enables enhanced comparison to prior periods excluding the translation effects of changes in rates of foreign currency exchange and provides additional insight into the underlying performance of our operations located outside of the U.S. It should be noted that our presentation herein of amounts and percentage changes on a constant currency basis does not exclude the impact of foreign currency transaction gains and losses (that is, the impact of transactions denominated in other than the local currency of any of our subsidiaries in their local currency reported results). We provide organic net sales growth rates for our consolidated net sales and segment net sales. We believe that organic net sales growth rates provide useful information to investors because they provide transparency to underlying performance in our net sales by excluding the effect that foreign currency exchange rate fluctuations, acquisitions, and divestitures, as applicable, have on year-to-year comparability. A reconciliation of these measures from reported net sales growth rates, the relevant GAAP measures, are included in the tables set forth below. Percentage changes in sales and adjusted operating income expressed on a constant currency basis are presented excluding the impact of foreign currency exchange. To present this information for historical periods, current period results for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average exchange rates in effect during the corresponding period of the comparative year, rather than at the actual average exchange rates in effect during the current fiscal year. As a result, the foreign currency impact is equal to the current year results in local currencies multiplied by the change in the average foreign currency exchange rate between the current fiscal period and the corresponding period of the comparative year. Rates of constant currency and organic growth (decline) follow:",
+      "token_count": 936
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended February 28, 2026 Percentage change as reported Impact of foreign currency exchange Percentage change on constant currency basis Impact of acquisition Percentage change on an organic basis Total Net Sales 16.7 % 3.1 % 13.6 % 12.4 % 1.2 % Total Consumer 24.5 % 2.9 % 21.6 % 19.8 % 1.8 % Americas 30.4 % 0.3 % 30.1 % 28.9 % 1.2 % EMEA 15.5 % 11.8 % 3.7 % \u2014 % 3.7 % APAC 6.2 % 4.0 % 2.2 % \u2014 % 2.2 % Total Flavor Solutions 6.2 % 3.3 % 2.9 % 2.4 % 0.5 % Americas 6.1 % 1.9 % 4.2 % 3.4 % 0.8 % EMEA 7.3 % 7.8 % (0.5) % \u2014 % (0.5) % APAC 5.1 % 4.6 % 0.5 % \u2014 % 0.5 % Three Months Ended February 28, 2026 Percentage Change as Reported Impact of Foreign Currency Exchange Percentage Change on Constant Currency Basis Adjusted operating income Consumer segment 22.4 % 1.9 % 20.5 % Flavor Solutions segment 12.1 % 4.6 % 7.5 % Total adjusted operating income 18.8 % 2.8 % 16.0 % To present the percentage change in projected 2026 net sales, adjusted operating income, and adjusted earnings per share (diluted) on a constant currency basis, the projected local currency net sales, adjusted operating income, and adjusted net income for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at forecasted exchange rates. These figures are then compared to the 2025 local currency projected results, which are translated into U.S. dollars at the average actual exchange rates in effect during the corresponding months of fiscal year 2025. This comparison determines what the 2025 consolidated U.S. dollar net sales, adjusted operating income, and adjusted earnings per share (diluted) would have been if the relevant currency exchange rates had not changed from those of the comparable 2025 periods.",
+      "token_count": 435
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Income Statement (Unaudited) (In millions except per-share data) Three months ended February 28, 2026 February 28, 2025 Net sales $ 1,873.9 $ 1,605.5 Cost of goods sold 1,165.0 1,001.5 Gross profit 708.9 604.0 Selling, general and administrative expense 456.3 378.8 Special charges 25.1 \u2014 Operating income 227.5 225.2 Interest expense 47.3 48.5 Other income, net 4.8 9.8 Income from consolidated operations before income taxes 185.0 186.5 Income tax expense 48.7 41.6 Net income from consolidated operations 136.3 144.9 Income from unconsolidated operations 886.0 18.5 Net income 1,022.3 163.4 Net income attributable to noncontrolling interests (6.1) (1.1) Net income attributable to MCCORMICK & CO INC & Company $ 1,016.2 $ 162.3 Earnings per share \u2013 basic $ 3.78 $ 0.60 Earnings per share \u2013 diluted $ 3.77 $ 0.60 Average shares outstanding \u2013 basic 268.8 268.3 Average shares outstanding \u2013 diluted 269.4 269.5 Cash dividends paid per share \u2013 voting and non-voting $ 0.48 $ 0.45",
+      "token_count": 260
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Balance Sheet (Unaudited) (In millions) February 28, 2026 November 30, 2025 ASSETS Cash and cash equivalents $ 177.7 $ 95.9 Trade accounts receivable, net of allowances 829.2 628.9 Inventories, net 1,366.5 1,272.0 Prepaid expenses and other current assets 235.9 141.3 Total current assets 2,609.3 2,138.1 Property, plant and equipment, net 1,510.3 1,448.8 Goodwill 6,316.5 5,301.3 Intangible assets, net 4,961.6 3,293.1 Other long-term assets 948.6 1,019.1 Total assets $ 16,346.3 $ 13,200.4 LIABILITIES AND SHAREHOLDERS\u2019 EQUITY Short-term borrowings and current portion of long-term debt $ 1,319.3 $ 890.5 Trade accounts payable 1,391.6 1,259.4 Other accrued liabilities 731.2 912.3 Total current liabilities 3,442.1 3,062.2 Long-term debt 3,604.1 3,105.8 Deferred taxes 1,323.9 835.8 Other long-term liabilities 420.1 428.5 Total liabilities 8,790.2 7,432.3 Shareholders\u2019 equity Common stock 583.4 582.4 Common stock non-voting 1,722.7 1,700.8 Retained earnings 4,823.1 3,816.4 Accumulated other comprehensive loss (148.9) (363.1) Total MCCORMICK & CO INC & Company shareholders\u2019 equity 6,980.3 5,736.5 Non-controlling interests 575.8 31.6 Total shareholders\u2019 equity 7,556.1 5,768.1 Total liabilities and shareholders\u2019 equity $ 16,346.3 $ 13,200.4",
+      "token_count": 328
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Cash Flow Statement (Unaudited) (In millions) Three Months Ended February 28, 2026 February 28, 2025 Operating activities Net income $ 1,022.3 $ 163.4 Adjustments to reconcile net income to net cash flow provided by operating activities: Depreciation and amortization 63.0 53.8 Stock-based compensation 20.7 20.0 Amortization of inventory fair value adjustments associated with acquisition 15.0 \u2014 Deferred income tax benefit (7.5) (9.2) Income from unconsolidated operations (19.2) (18.5) Gain on remeasurement of previously held equity interest (866.8) \u2014 Changes in operating assets and liabilities (net of effect of business acquired) Trade accounts receivable 18.7 65.2 Inventories 35.1 (11.7) Trade accounts payable (98.7) (70.9) Other assets and liabilities (145.6) (84.9) Dividends from unconsolidated affiliates 13.9 8.3 Net cash flow provided by operating activities 50.9 115.5 Investing activities Acquisition of business, net of cash acquired (729.9) \u2014 Capital expenditures (including software) (32.5) (37.1) Net cash flow used in investing activities (762.4) (37.1) Financing activities Short-term borrowings (repayments), net 928.5 (25.9) Long-term debt borrowings (net of debt issuance costs of 497.4 \u2014 Long-term debt repayments (502.2) (11.5) Proceeds from exercised stock options 12.6 6.7 Taxes withheld and paid on employee stock awards (9.2) (6.7) Common stock acquired by purchase (10.9) (17.2) Dividends paid (128.9) (120.7) Other financing activities (5.6) 20.1 Net cash flow provided by (used in) financing activities 781.7 (155.2) Effect of exchange rate changes on cash and cash equivalents 11.6 (6.5) Increase (decrease) in cash and cash equivalents 81.8 (83.3) Cash and cash equivalents at beginning of period 95.9 186.1",
+      "token_count": 454
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash and cash equivalents at end of period $ 177.7 $ 102.8",
+      "token_count": 15
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "Revenues",
+      "period": "2026Q1",
+      "value": 1873900000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2026Q1",
+      "value": 708900000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q1",
+      "value": 227500000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "2026Q1",
+      "value": 1016200000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "ProfitLoss",
+      "period": "2026Q1",
+      "value": 1022300000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q1",
+      "value": 3.77,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q1",
+      "value": 3.78,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X008",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2026Q1",
+      "value": 177700000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X009",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q1",
+      "value": 50900000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.008826,
+    "ret_20d": -0.231473,
+    "market_ret_20d": -0.076757
+  },
+  "outcome_blind": true
+}

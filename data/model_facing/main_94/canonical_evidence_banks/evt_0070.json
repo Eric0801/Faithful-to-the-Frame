@@ -1,0 +1,886 @@
+{
+  "event_id": "evt_0070",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ABERCROMBIE & FITCH CO /DE/",
+  "ticker": "ANF",
+  "company_alias": "ABERCROMBIE & FITCH CO /DE/",
+  "masked_company": "Company A",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-03-04",
+  "accepted_at_et": "2026-03-04T07:34:21-05:00",
+  "source_packet_path": "source_packets/evt_0070.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "\u2022 Company delivers record fourth quarter and full year net sales of $1.7 billion and $5.3 billion, respectively",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Company delivers record fourth quarter and full year net sales of $1.7 billion and $5.3 billion, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\u2022 Fourth quarter net sales grew 5% to 2024, with balanced growth across regions, brands and channels",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Fourth quarter net sales grew 5% to 2024, with balanced growth across regions, brands and channels",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "\u2022 Full year net sales grew 6% to 2024, with growth across regions and channels",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Full year net sales grew 6% to 2024, with growth across regions and channels",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u2022 Hollister brands delivers record full year 2025 net sales on growth of 15%, with ABERCROMBIE & FITCH CO /DE/ down 1%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Hollister brands delivers record full year 2025 net sales on growth of 15%, with ABERCROMBIE & FITCH CO /DE/ down 1%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Full year operating margin of 13.3%, and net income per diluted share o f $10.46",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Full year operating margin of 13.3%, and net income per diluted share o f $10.46",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u2022 Full year share repurchases of $450 million, or 5.4 million shares, representing 11% of shares outstanding at February 1, 2025",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Full year share repurchases of $450 million, or 5.4 million shares, representing 11% of shares outstanding at February 1, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 Provides full year 2026 outlook for net sales growth in the range of 3% to 5%, operating margin in the range of 12.0% to 12.5%, net income per diluted share in the range of $10.20 to $11.00",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Provides full year 2026 outlook for net sales growth in the range of 3% to 5%, operating margin in the range of 12.0% to 12.5%, net income per diluted share in the range of $10.20 to $11.00",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "New Albany, Ohio, 2026-03-04T07:34:21-05:00: ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "New Albany, Ohio, 2026-03-04T07:34:21-05:00: ABERCROMBIE & FITCH CO /DE/. (NYSE:ANF) today announced results for the fourth quarter and fiscal year ended January 31, 2026. These compare to results for the fourth quarter and fiscal year ended February 1, 2025. Descriptions of t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Chief Executive Officer, said, \u201cOur record fourth quarter net sales marked our thirteenth consecutive quarter of growth, with both operating margin and earnings per share at the high end of expectations we shared in early January.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Chief Executive Officer, said, \u201cOur record fourth quarter net sales marked our thirteenth consecutive quarter of growth, with both operating margin and earnings per share at the high end of expectations we shared in early January.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "Reflecting on fiscal 2025, I\u2019m proud of our accomplishments.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Reflecting on fiscal 2025, I\u2019m proud of our accomplishments. We delivered record net sales with 6% growth and achieved our third straight year of double-digit operating margins, all while continuing to strengthen the business through investments in marketing, stores, people, a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "We entered fiscal 2026 with a strong foundation, including two globally relevant brands, a proven operating model, and a robust balance sheet, all managed by a world class team.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "We entered fiscal 2026 with a strong foundation, including two globally relevant brands, a proven operating model, and a robust balance sheet, all managed by a world class team. Our goals for 2026 are to grow net sales, deliver another year of double-digit operating margin and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "Details related to reported net income per diluted share and adjusted net income per diluted share for the fourth quarter and full year are as follows:",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Details related to reported net income per diluted share and adjusted net income per diluted share for the fourth quarter and full year are as follows:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "Fourth Quarter Full Year 2025 2024 2025 2024 GAAP $ 3.68 $ 3.57 $ 10.46 $ 10.69 Excluded items, net of tax effect (1) \u2014 \u2014 (0.60) \u2014 Adjusted non-GAAP $ 3.68 $ 3.57 $ 9.86 $ 10.69 Impact from changes in foreign currency exchange rates (2) \u2014 (0.03) \u2014 (0.09) Adjusted non-GAAP constant currency $ 3.68 $ 3.54 $ 9.86 $ 10.60",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Fourth Quarter Full Year 2025 2024 2025 2024 GAAP $ 3.68 $ 3.57 $ 10.46 $ 10.69 Excluded items, net of tax effect (1) \u2014 \u2014 (0.60) \u2014 Adjusted non-GAAP $ 3.68 $ 3.57 $ 9.86 $ 10.69 Impact from changes in foreign currency exchange rates (2) \u2014 (0.03) \u2014 (0.09) Adjusted non-GAAP cons...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "(1) Excluded items consist of a favorable settlement, net of legal fees, of payment card interchange fee litigation and the tax effect of pre-tax excluded item.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "(1) Excluded items consist of a favorable settlement, net of legal fees, of payment card interchange fee litigation and the tax effect of pre-tax excluded item.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "(2) The estimated impact from foreign currency is calculated by applying current period exchange rates to prior year results using a 26% tax rate.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "(2) The estimated impact from foreign currency is calculated by applying current period exchange rates to prior year results using a 26% tax rate.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u2022 Net sales of $1.67 billion up 5% as compared to last year, with comparable sales of 1%.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 Net sales of $1.67 billion up 5% as compared to last year, with comparable sales of 1%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "margins",
+      "claim": "\u2022 Operating income of $236 million as compared to $256 million last year.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 Operating income of $236 million as compared to $256 million last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "\u2022 Operating margin as a percent of sales of 14.1% as compared to 16.2% last year.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Operating margin as a percent of sales of 14.1% as compared to 16.2% last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income per diluted share of $3.68 as compared to net income per diluted share last year of $3.57.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 Net income per diluted share of $3.68 as compared to net income per diluted share last year of $3.57.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "\u2022 Net sales of $5.27 billion up 6% as compared to last year, with comparable sales of 3%.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Net sales of $5.27 billion up 6% as compared to last year, with comparable sales of 3%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "margins",
+      "claim": "\u2022 Operating income of $699 million and $661 million on a reported and adjusted non-GAAP basis, respectively.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 Operating income of $699 million and $661 million on a reported and adjusted non-GAAP basis, respectively. This compares to operating income last year of $741 million on a reported basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "\u2022 Operating margin as a percent as sales decreased to 13.3% and 12.5% on a reported and adjusted non-GAAP basis, respectively.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 Operating margin as a percent as sales decreased to 13.3% and 12.5% on a reported and adjusted non-GAAP basis, respectively. This compares to an operating margin last year of 15.0% on a reported basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income per diluted share of $10.46 and $9.86 on a reported and adjusted non-GAAP basis, respectively.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Net income per diluted share of $10.46 and $9.86 on a reported and adjusted non-GAAP basis, respectively. This compares to net income per diluted share last year of $10.69 on a reported basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Fourth Quarter (in thousands) 2025 2024 1 YR % Change Comparable sales (2) Net sales by segment: (1) Americas (3) $ 1,383,943 $ 1,319,720 5% 2% EMEA (4) 241,384 224,467 8% (3)% APAC (5) 44,475 40,730 9% 0% Total company $ 1,669,802 $ 1,584,917 5% 1% Net sales by brand family: 2025 2024 1 YR % Change Comparable sales (2) ABERCROMBIE & FITCH CO /DE/ $ 806,502 $ 772,670 4% (1)% Hollister 863,300 812,247 6% 3% Total company $ 1,669,802 $ 1,584,917 5% 1%",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Fourth Quarter (in thousands) 2025 2024 1 YR % Change Comparable sales (2) Net sales by segment: (1) Americas (3) $ 1,383,943 $ 1,319,720 5% 2% EMEA (4) 241,384 224,467 8% (3)% APAC (5) 44,475 40,730 9% 0% Total company $ 1,669,802 $ 1,584,917 5% 1% Net sales by brand family:...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Full Year (in thousands) 2025 2024 1 YR % Change Comparable sales (2) Net sales by segment: (1) Americas (3) $ 4,290,395 $ 4,027,514 7% 4% EMEA (4) 818,140 770,519 6% 0% APAC (5) 157,757 150,554 5% (3)% Total company $ 5,266,292 $ 4,948,587 6% 3% Net sales by brand family: 2025 2024 1 YR % Change Comparable sales (2) ABERCROMBIE & FITCH CO /DE/ $ 2,523,662 $ 2,556,434 (1)% (7)% Hollister 2,742,630 2,392,153 15% 13% Total company $ 5,266,292 $ 4,948,587 6% 3%",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Full Year (in thousands) 2025 2024 1 YR % Change Comparable sales (2) Net sales by segment: (1) Americas (3) $ 4,290,395 $ 4,027,514 7% 4% EMEA (4) 818,140 770,519 6% 0% APAC (5) 157,757 150,554 5% (3)% Total company $ 5,266,292 $ 4,948,587 6% 3% Net sales by brand family: 202...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "(1) Net sales by segment are presented by attributing revenues to a physical store location or geographical region that fulfills the order.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "(1) Net sales by segment are presented by attributing revenues to a physical store location or geographical region that fulfills the order.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "(2) Comparable sales are calculated on a constant currency basis.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "(2) Comparable sales are calculated on a constant currency basis. Refer to \"REPORTING AND USE OF GAAP AND NON-GAAP MEASURES,\" for further discussion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "(3) The Americas segment includes the results of operations in North America and South America.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "(3) The Americas segment includes the results of operations in North America and South America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "(4) The EMEA segment includes the results of operations in Europe, the Middle East and Africa.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "(4) The EMEA segment includes the results of operations in Europe, the Middle East and Africa.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "(5) The APAC segment includes the results of operations in the Asia-Pacific region, including Asia and Oceania.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "(5) The APAC segment includes the results of operations in the Asia-Pacific region, including Asia and Oceania.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash and equivalents of $760 million as compared to $773 million as of February 1, 2025.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 Cash and equivalents of $760 million as compared to $773 million as of February 1, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "\u2022 Marketable securities of $25 million as compared to $116 million as of February 1, 2025.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "\u2022 Marketable securities of $25 million as compared to $116 million as of February 1, 2025. The decrease from February 1, 2025 was primarily due to maturities in Fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "\u2022 Inventories of $601 million compared to $575 million as of February 1, 2025.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 Inventories of $601 million compared to $575 million as of February 1, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "\u2022 Borrowing capacity of $500 million under the senior-secured asset-based revolving credit facility (the \"ABL Facility\") with net borrowing available of $450 million after minimum excess availability requirement.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "\u2022 Borrowing capacity of $500 million under the senior-secured asset-based revolving credit facility (the \"ABL Facility\") with net borrowing available of $450 million after minimum excess availability requirement.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Liquidity comprised of cash and equivalents and borrowing available under the ABL Facility, of approximately $1.2 billion, compared to $1.2 billion as of February 1, 2025.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 Liquidity comprised of cash and equivalents and borrowing available under the ABL Facility, of approximately $1.2 billion, compared to $1.2 billion as of February 1, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Net cash provided by operating activities of $619 million.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 Net cash provided by operating activities of $619 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Net cash used for investing activities of $151 million, primarily reflecting capital expenditures, partially offset by maturities of marketable securities.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 Net cash used for investing activities of $151 million, primarily reflecting capital expenditures, partially offset by maturities of marketable securities.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Net cash used for financing activities of $495 million, primarily reflecting share repurchases.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Net cash used for financing activities of $495 million, primarily reflecting share repurchases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "During the fourth quarter of 2025, the company repurchased 0.9 million shares for approximately $100 million.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "During the fourth quarter of 2025, the company repurchased 0.9 million shares for approximately $100 million. For the full year ended January 31, 2026, the company repurchased 5.4 million shares for $450 million representing a 11% reduction in shares outstanding at the beginni...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "balance_sheet_or_cash",
+      "claim": "Depreciation and amortization was $155 million for fiscal 2025 as compared to $154 million in fiscal 2024.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Depreciation and amortization was $155 million for fiscal 2025 as compared to $154 million in fiscal 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "For fiscal 2026, the company expects: First Quarter Outlook (1) Full Year Outlook (1) Net sales Growth In The Range of 1% to 3% Growth In The Range of 3% to 5% Operating margin Around 7.0% In the Range of 12.0% to 12.5% Effective tax rate (2) Around 26% Around 29% Net income per diluted share (3) (4) In The Range of $1.20 to $1.30 In The Range of $10.20 to $11.00 Share repurchases (4) At least $100 million Around $450 million Diluted weighted average shares (3) (4) Around 46 million Around 45 million Capital expenditures In The Range of $200 to $225 million Real estate activity (5) (all approximate) ~30 Net Store Openings 55 Openings, 25 Closures 70 Remodels and Right-Sizes",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "For fiscal 2026, the company expects: First Quarter Outlook (1) Full Year Outlook (1) Net sales Growth In The Range of 1% to 3% Growth In The Range of 3% to 5% Operating margin Around 7.0% In the Range of 12.0% to 12.5% Effective tax rate (2) Around 26% Around 29% Net income p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "(1) Includes the estimated impact of a 15% tariff on all goods imported into the United States, based on an announcement by the U.S.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "(1) Includes the estimated impact of a 15% tariff on all goods imported into the United States, based on an announcement by the U.S. presidential administration on February 21, 2026. These tariffs are assumed to be effective beginning February 24, 2026, and to remain in effect...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "(2) The current outlook for effective tax rate is sensitive to the jurisdictional mix and level of income and does not include the impact of potential future tax policy or legislative changes.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(2) The current outlook for effective tax rate is sensitive to the jurisdictional mix and level of income and does not include the impact of potential future tax policy or legislative changes.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "(3) The current outlook for net income per diluted share and diluted weighted average shares includes the anticipated impact to shares outstanding from potential share repurchase activity in fiscal 2026.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "(3) The current outlook for net income per diluted share and diluted weighted average shares includes the anticipated impact to shares outstanding from potential share repurchase activity in fiscal 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "(4) The timing and amount of any such repurchases will be determined based on an evaluation of market conditions, the company\u2019s share price, legal requirements, and other factors.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "(4) The timing and amount of any such repurchases will be determined based on an evaluation of market conditions, the company\u2019s share price, legal requirements, and other factors.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "(5) Owned-and-operated stores only.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "(5) Owned-and-operated stores only.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "https://register-conf.media-server.com/register/BI5e375d033bf8476fb678743e8a90c279",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "https://register-conf.media-server.com/register/BI5e375d033bf8476fb678743e8a90c279",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "Accompanying materials, including an investor presentation and certain unaudited quarterly financial information, will be available in the \u201cInvestors\u201d section at corporate.ABERCROMBIE & FITCH CO /DE/.com at approximately 7:30 AM ET, today.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Accompanying materials, including an investor presentation and certain unaudited quarterly financial information, will be available in the \u201cInvestors\u201d section at corporate.ABERCROMBIE & FITCH CO /DE/.com at approximately 7:30 AM ET, today. Important information may be dissemin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "This document includes certain adjusted non-GAAP financial measures, which are not calculated in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d) and exclude the impact of certain items.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "This document includes certain adjusted non-GAAP financial measures, which are not calculated in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d) and exclude the impact of certain items. Management uses these non-GAAP financial...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "As used in this document, references to \"Americas\" includes North America and South America, \"EMEA\" includes Europe, the Middle East and Africa and \"APAC\" includes the Asia-Pacific region, including Asia and Oceania.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "As used in this document, references to \"Americas\" includes North America and South America, \"EMEA\" includes Europe, the Middle East and Africa and \"APAC\" includes the Asia-Pacific region, including Asia and Oceania.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. (NYSE:ANF) is a global, digitally led omnichannel specialty retailer of apparel and accessories catering to kids through millennials with assortments curated for their specific lifestyle needs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "The company operates a family of brands, including ABERCROMBIE & FITCH CO /DE/ brands and Hollister brands each sharing a commitment to offer products of enduring quality and exceptional comfort that support global customers on their journey to being and becoming who they are.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "The company operates a family of brands, including ABERCROMBIE & FITCH CO /DE/ brands and Hollister brands each sharing a commitment to offer products of enduring quality and exceptional comfort that support global customers on their journey to being and becoming who they are....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "Investor Contact: Media Contact: Mo Gupta Kate Wagner ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Investor Contact: Media Contact: Mo Gupta Kate Wagner ABERCROMBIE & FITCH CO /DE/. ABERCROMBIE & FITCH CO /DE/. (614) 283-6751 (614) 283-6192 Investor_Relations@anfcorp.com Public_Relations@anfcorp.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "revenue",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Statements of Operations (in thousands, except per share data) (Unaudited) Thirteen Weeks Ended Thirteen Weeks Ended January 31, 2026 % of Net Sales February 1, 2025 % of Net Sales Net sales $ 1,669,802 100.0 % $ 1,584,917 10...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "revenue",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Statements of Operations (in thousands, except per share data) (Unaudited) Fifty-Two Weeks Ended Fifty-Two Weeks Ended January 31, 2026 % of Net Sales February 1, 2025 % of Net Sales Net sales $ 5,266,292 100.0 % $ 4,948,587...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "The company believes that each of the non-GAAP financial measures presented are useful to investors as they provide a measure of the company\u2019s operating performance excluding the effect of certain items which the company believes do not reflect its future operating outlook, therefore supplementing investors\u2019 understanding of comparability of operations across periods.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "The company believes that each of the non-GAAP financial measures presented are useful to investors as they provide a measure of the company\u2019s operating performance excluding the effect of certain items which the company believes do not reflect its future operating outlook, th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "The company provides comparable sales, defined as the percentage year-over-year change in the aggregate of: (1) sales for stores that have been open as the same brand at least one year and whose square footage has not been expanded or reduced by more than 20% within the past year, with prior year\u2019s net sales converted at the current year\u2019s foreign currency exchange rate to remove the impact of foreign currency rate fluctuation, and (2) digital net sales with prior year\u2019s net sales converted at the current year\u2019s foreign currency exchange rate to remove the impact of foreign currency rate fluctuation.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "The company provides comparable sales, defined as the percentage year-over-year change in the aggregate of: (1) sales for stores that have been open as the same brand at least one year and whose square footage has not been expanded or reduced by more than 20% within the past y...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "The company also provides certain financial information on a constant currency basis to enhance investors\u2019 understanding of underlying business trends and operating performance, by removing the impact of foreign currency exchange rate fluctuations.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "The company also provides certain financial information on a constant currency basis to enhance investors\u2019 understanding of underlying business trends and operating performance, by removing the impact of foreign currency exchange rate fluctuations. The effect from foreign curr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "margins",
+      "claim": "In addition, the company provides EBITDA and Adjusted EBITDA as supplemental measures used by the company\u2019s executive management to assess the company\u2019s performance.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "In addition, the company provides EBITDA and Adjusted EBITDA as supplemental measures used by the company\u2019s executive management to assess the company\u2019s performance. We also believe these supplemental performance measures are meaningful information for investors and other inte...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Schedule of Non-GAAP Financial Measures Fifty-Two Weeks Ended January 31, 2026 (in thousands, except per share data) (Unaudited) GAAP (1) % of Net Sales Excluded item (2) Adjusted non-GAAP % of Net Sales Litigation settlement $ (38,574) $ (38,574)...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "( 1) \u201cGAAP\u201d refers to accounting principles generally accepted in the United States of America.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "( 1) \u201cGAAP\u201d refers to accounting principles generally accepted in the United States of America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "(2) Excluded item consists of a favorable settlement, net of legal fees, of payment card interchange fee litigation",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(2) Excluded item consists of a favorable settlement, net of legal fees, of payment card interchange fee litigation",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "(3) The tax effect of excluded item is the difference between the tax provision calculated on a GAAP basis and an adjusted non-GAAP basis.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(3) The tax effect of excluded item is the difference between the tax provision calculated on a GAAP basis and an adjusted non-GAAP basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Reconciliation of Constant Currency Financial Measures Thirteen Weeks Ended January 31, 2026 and February 1, 2025 (in thousands, except percentage and basis point changes and per share data) (Unaudited) Net sales 2025 2024 % Change GAAP (1) $ 1,669...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "(1) \u201cGAAP\u201d refers to accounting principles generally accepted in the United States of America.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "(1) \u201cGAAP\u201d refers to accounting principles generally accepted in the United States of America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "(2) The estimated impact from foreign currency is determined by applying current period exchange rates to prior year results and is net of the year-over-year impact from hedging.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "(2) The estimated impact from foreign currency is determined by applying current period exchange rates to prior year results and is net of the year-over-year impact from hedging. The per diluted share estimated impact from foreign currency is calculated using a 26% tax rate.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "(3) The estimated basis point change has been rounded based on the percentage change.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(3) The estimated basis point change has been rounded based on the percentage change.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "revenue",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Reconciliation of Constant Currency Financial Measures Fifty-Two Weeks Ended January 31, 2026 and February 1, 2025 (in thousands, except percentage and basis point changes and per share data) (Unaudited) Net sales 2025 2024 % Change GAAP (1) $ 5,26...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "other",
+      "claim": "(4) Excluded item consists of a favorable settlement, net of legal fees, of payment card interchange fee litigation.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "(4) Excluded item consists of a favorable settlement, net of legal fees, of payment card interchange fee litigation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "revenue",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Reconciliation of EBITDA and Adjusted EBITDA Thirteen Weeks Ended January 31, 2026 and Thirteen Weeks Ended February 1, 2025 (in thousands) (Unaudited) (in thousands, except ratios) 2025 % of Net Sales 2024 % of Net Sales Net income $ 174,768 10.5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "earnings_or_eps",
+      "claim": "(1) EBITDA and Adjusted EBITDA are supplemental financial measures that are not defined or prepared in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "(1) EBITDA and Adjusted EBITDA are supplemental financial measures that are not defined or prepared in accordance with GAAP. EBITDA is defined as net income before interest, income taxes and depreciation and amortization. Adjusted EBITDA is EBITDA adjusted for a favorable sett...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "margins",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Balance Sheets (in thousands) (Unaudited) January 31, 2026 February 1, 2025 Assets Current assets: Cash and equivalents $ 759,540 $ 772,727 Marketable securities 25,036 116,221 Receivables 146,757 105,324 Inventories 601,218...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "balance_sheet_or_cash",
+      "claim": "ABERCROMBIE & FITCH CO /DE/.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Statements of Cash Flows (in thousands, except per share data) (Unaudited) Fifty-Two Weeks Ended Fifty-Two Weeks Ended January 31, 2026 February 1, 2025 Operating activities Net cash provided by operating activities $ 619,142...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "Fifty-Two Weeks Ended January 31, 2026 Americas (1) EMEA (2) APAC (3) Total Company ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister Total (4) Company-owned February 1, 2025 215 385 33 100 30 26 278 511 789 New 27 15 4 6 5 5 36 26 62 Permanently closed (3) (4) (1) (5) (4) (5) (8) (14) (22) January 31, 2026 239 396 36 101 31 26 306 523 829 Franchise January 31, 2026 20 10 9 10 8 3 37 23 60 Total January 31, 2026 259 406 45 111 39 29 343 546 889",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "Fifty-Two Weeks Ended January 31, 2026 Americas (1) EMEA (2) APAC (3) Total Company ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister Total (4) Company-owned February 1, 2025...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "(1) The Americas segment includes North America and South America.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "(1) The Americas segment includes North America and South America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "(2) The EMEA segment includes Europe, the Middle East and Africa.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "(2) The EMEA segment includes Europe, the Middle East and Africa.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "other",
+      "claim": "(3) The APAC segment includes the Asia-Pacific region, including Asia and Oceania.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "(3) The APAC segment includes the Asia-Pacific region, including Asia and Oceania.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "(4) Store count excludes temporary stores.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "(4) Store count excludes temporary stores.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.044531, ret_20d=-0.021981, market_ret_20d=-0.021685",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.044531, ret_20d=-0.021981, market_ret_20d=-0.021685",
+      "support_label": "supported"
+    }
+  ]
+}

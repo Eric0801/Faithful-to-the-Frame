@@ -1,0 +1,279 @@
+{
+  "event_id": "evt_0001",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "DARDEN RESTAURANTS INC",
+  "ticker": "DRI",
+  "company_alias": "DARDEN RESTAURANTS INC",
+  "masked_company": "Company CO",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-03-19",
+  "filing_metadata": {
+    "cik": "940944",
+    "accession_number": "0000940944-26-000005",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-19T07:06:37-04:00",
+    "event_date": "2026-03-19",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ORLANDO, Fla., 2026-03-19T07:06:37-04:00 /PRNewswire/ -- DARDEN RESTAURANTS INC. (NYSE:DRI) today reported its financial results for the third quarter ended February 22, 2026.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Total sales increased 5.9% to $3.3 billion, driven by a blended same-restaurant sales 1 increase of 4.2% and sales from 31 net new restaurants",
+      "token_count": 36
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Consolidated DARDEN RESTAURANTS INC 1 4.2% Olive Garden 3.2% LongHorn Steakhouse 7.2% Fine Dining 2.1% Other Business 1 3.9%",
+      "token_count": 28
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Reported diluted net earnings per share from continuing operations were $2.68",
+      "token_count": 20
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Excluding $0.05 of closed restaurant and other costs related to the exploration of strategic alternatives for the Bahama Breeze brand 2 , $0.16 of impairment due to restaurant closures 3 and $0.06 of income tax adjustments and benefits, adjusted diluted net earnings per share from continuing operations were $2.95, an increase of 5.4% 4",
+      "token_count": 85
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 The Company repurchased $127 million of its outstanding common stock",
+      "token_count": 18
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cWe delivered a strong quarter,\u201d said DARDEN RESTAURANTS INC President & CEO. \u201cWe continue to outperform the industry same-restaurant sales benchmark, and this quarter we widened that gap as Olive Garden, LongHorn Steakhouse, Yard House, and Cheddar\u2019s Scratch Kitchen each significantly exceeded the benchmark. Across all our brands, we\u2019re seeing historically high team member and manager retention, which is enabling consistent execution and strong guest satisfaction. I\u2019m proud of our teams, as we continue to execute our proven strategy to grow sales, manage costs, and deliver value for guests and shareholders.\u201d",
+      "token_count": 151
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "During the fourth quarter of fiscal 2025, the Company changed its reporting of segment profit to exclude pre-opening costs. Fiscal 2025 figures were recast for comparability. Segment profit represents sales, less costs for food and beverage, restaurant labor, restaurant expenses and marketing expenses. Segment profit excludes non-cash real estate related expenses. Sales and profits from Chuy's restaurants are included within the Other Business segment from the date of acquisition forward.",
+      "token_count": 124
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Q3 Sales Q3 Segment Profit ($ in millions) 2026 2025 2026 2025 Consolidated DARDEN RESTAURANTS INC $3,345.3 $3,158.0 Olive Garden $1,393.0 $1,330.3 $320.0 $307.5 LongHorn Steakhouse $854.2 $768.1 $159.0 $151.6 Fine Dining $402.0 $385.3 $88.5 $86.8 Other Business $696.1 $674.3 $108.8 $105.5",
+      "token_count": 70
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "YTD Sales YTD Segment Profit ($ in millions) 2026 2025 2026 2025 Consolidated DARDEN RESTAURANTS INC $9,492.1 $8,805.0 Olive Garden $4,056.8 $3,831.9 $884.9 $835.4 LongHorn Steakhouse $2,406.5 $2,191.7 $419.9 $414.9 Fine Dining $1,004.7 $970.2 $174.1 $179.6 Other Business $2,024.1 $1,811.2 $304.8 $271.1",
+      "token_count": 73
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "1 Will not include Chuy's until they have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period (Q4 fiscal 2026) and does not include Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2027). 2 Primarily costs related to the closure of 22 underperforming restaurants that were permanently closed during the fourth quarter of fiscal 2025 and other costs related to the strategic review of the Bahama Breeze brand. 3 Non-cash asset impairment charges primarily related to the closures of Bahama Breeze locations expected to occur in the fourth quarter of fiscal 2026. 4 See the \"Non-GAAP Information\" below for more details.",
+      "token_count": 176
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "1 Will not include Chuy's until they have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period (Q4 fiscal 2026) and does not include Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2027).",
+      "token_count": 68
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2 Primarily costs related to the closure of 22 underperforming restaurants that were permanently closed during the fourth quarter of fiscal 2025 and other costs related to the strategic review of the Bahama Breeze brand.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "3 Non-cash asset impairment charges primarily related to the closures of Bahama Breeze locations expected to occur in the fourth quarter of fiscal 2026.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "DARDEN RESTAURANTS INC's Board of Directors declared a quarterly cash dividend of $1.50 per share on the Company's outstanding common stock. The dividend is payable on May 1, 2026, to shareholders of record at the close of business on April 10, 2026.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "During the quarter, the Company repurchased approximately 0.7 million shares of its common stock for a total of $127 million. As of the end of the third quarter of fiscal 2026, the Company had $516 million remaining under the current $1 billion repurchase authorization.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Total sales growth of approximately 9.5%, including approximately 2% growth related to the 53rd week",
+      "token_count": 26
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Same-restaurant sales 5 growth of approximately 4.5%",
+      "token_count": 14
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 New restaurant openings of approximately 70",
+      "token_count": 12
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Total capital spending of $750 to $775 million",
+      "token_count": 12
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Total inflation of approximately 3.5%",
+      "token_count": 10
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 An effective tax rate of approximately 12.5%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u25e6 Approximately $0.25 related to the addition of the 53rd week",
+      "token_count": 16
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Approximately 116.5 million weighted average diluted shares outstanding",
+      "token_count": 19
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "5 Annual same-restaurant sales is a 52-week metric and excludes the impact of Chuy\u2019s, which will not have been owned and operated by DARDEN RESTAURANTS INC for a 16-month period prior to the beginning of fiscal 2026, as well as Bahama Breeze as all locations are expected to be closed or converted to other brands (between Q3 fiscal 2026 and Q4 fiscal 2027).",
+      "token_count": 87
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "DARDEN RESTAURANTS INC is a restaurant company featuring a portfolio of differentiated brands that include Olive Garden, LongHorn Steakhouse, Yard House, Ruth\u2019s Chris Steak House, Cheddar's Scratch Kitchen, The Capital Grille, Chuy's, Seasons 52, and Eddie V\u2019s. For more information, please visit www.DARDEN RESTAURANTS INC.com .",
+      "token_count": 77
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The information in this press release includes financial information determined by methods other than in accordance with U.S. generally accepted accounting principles (\u201cGAAP\u201d), such as adjusted diluted net earnings per share from continuing operations. The Company\u2019s management uses these non-GAAP measures in its analysis of the Company\u2019s performance. The Company believes that the presentation of certain non-GAAP measures provides useful supplemental information that is essential to a proper understanding of the operating results of the Company\u2019s businesses. These non-GAAP disclosures should not be viewed as a substitute for operating results determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Reconciliations of these non-GAAP measures are included in this release.",
+      "token_count": 218
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(Analysts) Courtney Aquilla, (407) 245-5054; (Media) Rich Jeffers, (407) 245-4189",
+      "token_count": 21
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fiscal Q3 Reported to Adjusted Earnings Reconciliation Q3 2026 Q3 2025 $ in millions, except per share amounts Earnings Before Income Tax Income Tax Expense Net Earnings Diluted Net Earnings Per Share Earnings Before Income Tax Income Tax Expense Net Earnings Diluted Net Earnings Per Share Reported Earnings from Continuing Operations $ 356.8 $ 46.2 $ 310.6 $ 2.68 $ 372.7 $ 49.0 $ 323.7 $ 2.74 % Change vs Prior Year (2.2)% Total Adjustments: $ 31.3 $ 0.7 $ 30.6 $ 0.27 $ 8.4 $ 1.9 $ 6.5 $ 0.06 Closed restaurant and other strategic review costs 2 6.6 1.6 5.0 0.05 \u2014 \u2014 \u2014 \u2014 General and administrative expenses 5.8 1.4 4.4 0.04 \u2014 \u2014 \u2014 \u2014 Depreciation and amortization 0.8 0.2 0.6 0.01 \u2014 \u2014 \u2014 \u2014 Impairment due to restaurant closures 3 24.7 6.2 18.5 0.16 \u2014 \u2014 \u2014 \u2014 Income tax adjustments and benefits \u2014 (7.1) 7.1 0.06 \u2014 \u2014 \u2014 \u2014 Chuy's integration related one-time costs $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 8.4 $ 1.9 $ 6.5 $ 0.06 Adjusted Earnings from Continuing Operations $ 388.1 $ 46.9 $ 341.2 $ 2.95 $ 381.1 $ 50.9 $ 330.2 $ 2.80 % Change vs Prior Year 5.4%",
+      "token_count": 259
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Reconciliation of Fiscal 2026 Reported to Adjusted Earnings Outlook 2026 Reported diluted net earnings per share from continuing operations $10.40 to $10.50 Chuy's transaction and integration related costs 0.06 0.06 Closed restaurant and other strategic review costs 2 0.15 0.15 Impairment due to restaurant closures 3 0.16 0.16 Gain on Olive Garden Canada sale (0.26) (0.26) Income tax adjustments and benefits $0.06 $0.06 Adjusted diluted net earnings per share from continuing operations $10.57 to $10.67",
+      "token_count": 127
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "2/22/26 2/23/25 Olive Garden 944 927 LongHorn Steakhouse 608 586 Cheddar's Scratch Kitchen 184 182 Chuy's 108 106 Yard House 92 89 Ruth's Chris Steak House 82 82 The Capital Grille 73 71 Seasons 52 45 45 Eddie V's 30 30 Bahama Breeze 27 43 The Capital Burger 3 4 DARDEN RESTAURANTS INC Continuing Operations 2,196 2,165",
+      "token_count": 77
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Nine Months Ended 2/22/2026 2/23/2025 2/22/2026 2/23/2025 Sales $ 3,345.3 $ 3,158.0 $ 9,492.1 $ 8,805.0 Costs and expenses: Food and beverage 1,026.7 953.6 2,919.5 2,673.1 Restaurant labor 1,046.9 995.0 3,035.0 2,811.1 Restaurant expenses 528.7 501.0 1,541.2 1,426.9 Marketing expenses 39.4 35.4 137.2 128.9 Pre-opening costs 8.8 6.1 22.8 16.1 General and administrative expenses 121.5 116.7 375.4 387.2 Depreciation and amortization 141.8 131.9 414.8 381.1 Impairments and (gain) loss on disposal of assets, net 25.1 0.1 (19.8) 1.1 Total operating costs and expenses $ 2,938.9 $ 2,739.8 $ 8,426.1 $ 7,825.5 Operating income 406.4 418.2 1,066.0 979.5 Interest, net 49.6 45.5 143.0 128.8 Earnings before income taxes 356.8 372.7 923.0 850.7 Income tax expense 46.2 49.0 117.1 103.7 Earnings from continuing operations $ 310.6 $ 323.7 $ 805.9 $ 747.0 Losses from discontinued operations, net of tax benefit of $1.3, $0.2, $1.6, and $0.7, respectively (3.8) (0.3) (4.1) (1.2) Net earnings $ 306.8 $ 323.4 $ 801.8 $ 745.8 Basic net earnings per share: Earnings from continuing operations $ 2.70 $ 2.76 $ 6.95 $ 6.35 Losses from discontinued operations (0.03) \u2014 (0.04) (0.01) Net earnings $ 2.67 $ 2.76 $ 6.91 $ 6.34 Diluted net earnings per share: Earnings from continuing operations $ 2.68 $ 2.74 $ 6.91 $ 6.30 Losses from discontinued operations (0.03) \u2014 (0.04) (0.01) Net earnings $ 2.65 $ 2.74 $ 6.87 $ 6.29 Average number of common shares outstanding: Basic 115.0 117.2 115.9 117.7 Diluted 115.8 118.0 116.7 118.5",
+      "token_count": 384
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2/22/2026 5/25/2025 (Unaudited) ASSETS Current assets: Cash and cash equivalents $ 240.4 $ 240.0 Receivables, net 107.7 93.8 Inventories 345.3 311.6 Prepaid income taxes 179.3 135.6 Prepaid expenses and other current assets 145.8 156.7 Total current assets $ 1,018.5 $ 937.7 Land, buildings and equipment, net 4,984.4 4,716.0 Operating lease right-of-use assets 3,478.1 3,555.9 Goodwill 1,658.2 1,659.4 Trademarks 1,346.4 1,346.4 Other assets 403.2 371.6 Total assets $ 12,888.8 $ 12,587.0 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY Current liabilities: Accounts payable $ 451.4 $ 439.6 Short-term debt 290.0 \u2014 Accrued payroll 203.5 207.5 Accrued income taxes 1.4 4.7 Other accrued taxes 79.7 83.0 Unearned revenues 654.9 599.4 Other current liabilities 927.4 913.3 Total current liabilities $ 2,608.3 $ 2,247.5 Long-term debt 2,141.0 2,128.9 Deferred income taxes 354.2 278.8 Operating lease liabilities - non-current 3,754.3 3,816.9 Other liabilities 1,927.0 1,803.6 Total liabilities $ 10,784.8 $ 10,275.7 Stockholders\u2019 equity: Common stock and surplus $ 2,297.0 $ 2,295.6 Retained earnings (deficit) (217.4) (16.1) Accumulated other comprehensive income 24.4 31.8 Total stockholders\u2019 equity $ 2,104.0 $ 2,311.3 Total liabilities and stockholders\u2019 equity $ 12,888.8 $ 12,587.0",
+      "token_count": 319
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(Unaudited) Nine Months Ended 2/22/2026 2/23/2025 Cash flows\u2014operating activities Net earnings $ 801.8 $ 745.8 Losses from discontinued operations, net of tax 4.1 1.2 Adjustments to reconcile net earnings from continuing operations to cash flows: Depreciation and amortization 414.8 381.1 Impairments and (gain) loss on disposal of assets, net (19.8) 1.1 Stock-based compensation expense 66.5 64.5 Change in current assets and liabilities and other, net 13.6 56.3 Net cash provided by operating activities of continuing operations $ 1,281.0 $ 1,250.0 Cash flows\u2014investing activities Purchases of land, buildings and equipment (540.9) (472.6) Proceeds from disposal of land, buildings and equipment 33.0 \u2014 Cash used in business acquisitions, net of cash acquired \u2014 (613.7) Purchases of capitalized software and changes in other assets, net (15.2) (13.3) Net cash used in investing activities of continuing operations $ (523.1) $ (1,099.6) Cash flows\u2014financing activities Net proceeds from issuance of common stock 18.2 38.9 Dividends paid (521.5) (494.6) Repurchases of common stock, inclusive of excise tax (534.4) (367.2) Proceeds from short-term debt, net 290.0 (28.6) Proceeds from issuance of long-term debt, net \u2014 750.0 Principal payments on finance leases, net (13.8) (15.5) Payments of debt issuance costs \u2014 (6.9) Net cash used in financing activities of continuing operations $ (761.5) $ (123.9) Cash flows\u2014discontinued operations Net cash used in operating activities of discontinued operations (2.4) (7.9) Net cash used in discontinued operations $ (2.4) $ (7.9) Increase (decrease) in cash, cash equivalents, and restricted cash (6.0) 18.6 Cash, cash equivalents, and restricted cash - beginning of period 254.5 220.1 Cash, cash equivalents, and restricted cash - end of period $ 248.5 $ 238.7",
+      "token_count": 451
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Reconciliation of cash, cash equivalents, and restricted cash: 2/22/2026 2/23/2025 Cash and cash equivalents $ 240.4 $ 224.2 Restricted cash included in prepaid expenses and other current assets 8.1 14.5 Total cash, cash equivalents, and restricted cash shown in the statement of cash flows $ 248.5 $ 238.7",
+      "token_count": 77
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.013419,
+    "ret_20d": -0.072547,
+    "market_ret_20d": -0.036224
+  },
+  "outcome_blind": true
+}

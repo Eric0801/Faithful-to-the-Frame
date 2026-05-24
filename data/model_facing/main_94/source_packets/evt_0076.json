@@ -1,0 +1,454 @@
+{
+  "event_id": "evt_0076",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "OMNICELL, INC.",
+  "ticker": "OMCL",
+  "company_alias": "OMNICELL, INC.",
+  "masked_company": "Company CL",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-05",
+  "filing_metadata": {
+    "cik": "926326",
+    "accession_number": "0000926326-26-000003",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-05T06:32:35-05:00",
+    "event_date": "2026-02-05",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Announces major step toward autonomous medication management with the launch of its next generation dispensing system, Titan XT, at the American Society of Health-System Pharmacists (ASHP) 2025 Midyear Clinical Meeting & Exhibition",
+      "token_count": 58
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "FORT WORTH, Texas. -- 2026-02-05T06:32:35-05:00 -- OMNICELL, INC.. (NASDAQ:OMCL) (\u201cOMNICELL, INC.,\u201d \u201cwe,\u201d \u201cour,\u201d \u201cus,\u201d \u201cmanagement,\u201d or the \u201cCompany\u201d), a leading healthcare technology provider focused on empowering autonomous medication management, today announced results for its fiscal year and fourth quarter ended December 31, 2025.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cWe finished 2025 with solid fourth quarter financial results, delivering full year 2025 total revenues, product bookings and annual recurring revenues (\u201cARR\u201d) all above the mid-point of our previously issued guidance ranges,\u201d stated Randall Lipps, chairman, president, chief executive officer, and founder of OMNICELL, INC.. \u201cAs we look ahead, we are focused on delivering long-term, sustainable, and profitable growth. The launch of Titan XT intends to address a significant need for an enhanced and more efficient medication management experience that combines proven automation with powerful intelligence and extends beyond the pharmacy into nursing care areas. We believe that our innovation roadmap continues to resonate with our customers, and I am optimistic for what the future holds for OMNICELL, INC. in 2026 and beyond.\u201d",
+      "token_count": 206
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total revenues for the fourth quarter of 2025 were $314 million, up $7 million, or 2%, from the fourth quarter of 2024. The quarter-over-quarter increase in total revenues was driven by strength in our technical service offerings and SaaS and Expert Services revenues, as well as increases in our consumables revenues. Total revenues for the year ended December 31, 2025 were $1.185 billion, up $73 million, or 7%, from the year ended December 31, 2024. The year-over-year increase in total revenues was driven by strength in our connected devices and technical service offerings, as well as increases in our SaaS and Expert Services and consumables revenues.",
+      "token_count": 165
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Total GAAP net loss for the fourth quarter of 2025 was $2 million, or $0.05 per diluted share. This compares to GAAP net income of $16 million, or $0.34 per diluted share, for the fourth quarter of 2024. Total GAAP net income for the year ended December 31, 2025 was $2 million, or $0.04 per diluted share. This compares to GAAP net income of $13 million, or $0.27 per diluted share, for the year ended December 31, 2024.",
+      "token_count": 106
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Total non-GAAP net income for the fourth quarter of 2025 was $18 million, or $0.40 per diluted share. This compares to non-GAAP net income of $28 million, or $0.60 per diluted share, for the fourth quarter of 2024. Total non-GAAP net income for the year ended December 31, 2025 was $75 million, or $1.62 per diluted share. This compares to non-GAAP net income of $79 million, or $1.71 per diluted share, for the year ended December 31, 2024.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Total non-GAAP EBITDA for the fourth quarter of 2025 was $37 million. This compares to non-GAAP EBITDA of $46 million for the fourth quarter of 2024. Total non-GAAP EBITDA for the year ended December 31, 2025 was $140 million. This compares to non-GAAP EBITDA of $136 million for the year ended December 31, 2024.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We utilize product bookings (1) and Annual Recurring Revenue (\u201cARR\u201d), each as further described below, as key performance metrics for our business. For the year ended December 31, 2025, product bookings were $535 million compared to $558 million for the year ended December 31, 2024, or a decrease of 4% year-over-year, as we are in the late stage of the XT upgrade cycle. The chart below summarizes our total product backlog (2) and ARR (3) :",
+      "token_count": 111
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 2024 (In thousands) Total product backlog (2) $ 640,301 $ 646,440 By duration: Short-term product backlog $ 435,151 $ 447,344 Long-term product backlog 205,150 199,096 Annual Recurring Revenue (3) $ 635,555 $ 580,025 ________________________________________________",
+      "token_count": 71
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) We define product bookings generally as the value of non-cancelable contracts for our connected devices and software licenses. We typically exclude freight revenue and other less significant items ancillary to our products from product bookings. In addition, dependent upon counterparty or credit risk, which is evaluated at the time of contract signing, for a given multi-year subscription contract we may reduce the value of the contractual commitment booked at a given time. Connected devices and software license bookings are recorded as revenue upon customer acceptance of the installation or receipt of goods. We utilize product bookings as an indicator of the success of certain portions of our business that generate non-recurring revenue.",
+      "token_count": 188
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(2) Product backlog is the dollar amount of product bookings related to connected devices and software licenses that have not yet been recognized as revenue. A majority of our connected devices and software license products are installable and recognized as revenues within twelve months of booking. Larger or more complex implementations such as software-enabled connected devices for Central Pharmacy, including, but not limited to, our Central Pharmacy Dispensing Service and IV Compounding Service, are often installed and recognized as revenue between 12 and 24 months after booking. Due to industry practice that allows customers to change order configurations with limited advance notice prior to shipment and as customer installation schedules may change, backlog as of any particular date may not necessarily indicate the timing of future revenue. However, we do believe that backlog is an indication of a customer\u2019s willingness to install our solutions and revenue we expect to generate over time. We consider backlog that is expected to be converted to revenues in more than twelve months to be long-term backlog. We believe a majority of long-term product backlog will be convertible into revenues in 12-24 months.",
+      "token_count": 307
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(3) We consider revenues generated from our consumables, technical services, and SaaS and Expert Services to be recurring revenues. For the portions of our business which generate recurring revenues, we utilize ARR as a key metric to measure our progress in growing our recurring revenue business. We define ARR at a measurement date as the revenue we expect to receive from our customers over the course of the following year for providing them with products or services. ARR includes expected revenue from all customers who are using our products or services at the reported date. For technical services and SaaS and Expert Services, solutions are generally on a contractual basis, typically with contracts for a period of 12 months or more, with a high probability of renewal. Probability of renewal is based on historic renewal experience of the individual revenue streams or management\u2019s best estimates if historical renewal experience is not available. Consumables orders are placed by customers through our OMNICELL, INC. Storefront online platform or through written or telephonic orders and are sold to a customer base who utilize the consumable product and place recurring orders when customer inventory is depleted. ARR is generally calculated based on revenues received in the most recent quarter and changes to expected revenues where solutions were added to or removed from the install or customer base in the quarter. Revenues from technical services and SaaS and Expert Services are generally recorded ratably over the service term. As part of our SaaS and Expert Services offerings, we provide a range of services to our customers including Central Pharmacy Dispensing Service (service portion), IV Compounding Service (service portion), EnlivenHealth, Specialty Pharmacy Services, 340B solutions, Inventory Optimization Service, and other software solutions, which typically are provided over two to seven years. In addition, to help ensure the maximum availability of our systems, our customers typically purchase technical services contracts (support and maintenance) in increments of one to five years. Revenue from consumables are recorded when the product has shipped and title has passed. Our measure of ARR may be different than that used by other companies. Because ARR is based on expected future revenue, it does not represent revenue recognized during a particular reporting period or revenue to be recognized in future reporting periods. ARR should not be viewed as a substitute for GAAP revenues.",
+      "token_count": 631
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "As of December 31, 2025, OMNICELL, INC.\u2019s balance sheet reflected cash and cash equivalents of $197 million, total debt (net of unamortized debt issuance costs) of $168 million, and total assets of $1.97 billion. Cash flows provided by operating activities in the fourth quarter of 2025 totaled $30 million. This compares to cash flows provided by operating activities totaling $56 million in the fourth quarter of 2024.",
+      "token_count": 104
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "As of December 31, 2025, the Company had $350 million of availability under its revolving credit facility with no outstanding balance.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 In December 2025, the Company announced OMNICELL, INC. Titan XT, a transformational, enterprise version of automated dispensing systems (ADS). Designed to unify proven automation and powerful intelligence, Titan XT is built to deliver an enhanced and more efficient medication management experience to support a growing health system. With this launch, the power of OmniSphere is meant to extend to nursing care areas, designed to deliver greater control of medication inventory management for pharmacy, while providing nurses with more confidence when administering medications.",
+      "token_count": 145
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 More than 4,000 pharmacy leaders connected with OMNICELL, INC. during December\u2019s American Society of Health-System Pharmacists (ASHP) Midyear 2025 Clinical Meeting and Exhibition, where they had the opportunity to explore how OMNICELL, INC. is working to empower autonomous medication management to drive intelligent outcomes, deliver a better clinician experience, expand visibility and oversight for pharmacy enterprise, enhance safety and accuracy in the IV cleanroom, and transform outpatient care delivery.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 OMNICELL, INC. was once again recognized as one of the Top 50 Healthcare Technology Companies by the Healthcare Technology Report for continuous focus on innovation designed to help healthcare organizations deliver better, more precise care. Randall Lipps was also named one of the Top Healthcare Technology CEOs of 2025 by the Healthcare Technology Report.",
+      "token_count": 89
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Q1 2026 2026 Product Bookings Not provided $510 million - $560 million Annual Recurring Revenue Not provided $680 million - $700 million Total Revenues $300 million - $310 million $1.215 billion - $1.255 billion Product Revenues $171 million - $176 million $690 million - $710 million Service Revenues $129 million - $134 million $525 million - $545 million Technical Services Revenues Not provided $260 million - $270 million SaaS and Expert Service Revenues Not provided $265 million - $275 million Non-GAAP EBITDA $27 million - $33 million $145 million - $160 million Non-GAAP Earnings Per Share $0.26 - $0.36 $1.65 - $1.85",
+      "token_count": 157
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company does not provide guidance for GAAP net income or GAAP earnings per share, nor a reconciliation of any forward-looking non-GAAP financial measures to the most directly comparable GAAP financial measures on a forward-looking basis because it is unable to predict certain items contained in the GAAP measures without unreasonable efforts. These forward-looking non-GAAP financial measures do not include certain items, which may be significant, including, but not limited to, unusual gains and losses, costs associated with future restructurings, acquisition-related expenses, and certain tax and litigation outcomes.",
+      "token_count": 157
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Since 1992, OMNICELL, INC. has been committed to delivering innovative, outcomes-centric pharmacy and nursing solutions for all settings of care. As an intelligent medication management technology company, OMNICELL, INC. empowers autonomous medication management by unifying automation and AI-enabled intelligence, optimized by expert services, to drive clinical and business outcomes that are helping to improve efficiency and enhance patient safety for healthcare facilities worldwide. Learn more at OMNICELL, INC..com.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "OMNICELL, INC. and the OMNICELL, INC. logo are registered trademarks of OMNICELL, INC.. or one of its subsidiaries. This press release may also include the trademarks and service marks of other companies. Such trademarks and service marks are the marks of their respective owners.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "This press release contains financial measures that are not calculated in accordance with U.S. Generally Accepted Accounting Principles (\u201cGAAP\u201d). Management evaluates and makes operating decisions using various performance measures. In addition to OMNICELL, INC.\u2019s GAAP results, we also consider non-GAAP product gross profit, non-GAAP product gross margin, non-GAAP service gross profit, non-GAAP service gross margin, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP net income per diluted share, non-GAAP diluted shares, non-GAAP EBITDA, non-GAAP EBITDA margin, and non-GAAP free cash flow. These non-GAAP results and metrics should not be considered as an alternative to revenues, product gross profit, service gross profit, gross profit, operating expenses, income from operations, net income, net income per diluted share, diluted shares, net cash provided by operating activities, or any other performance measure derived in accordance with GAAP. We present these non-GAAP results and metrics because management considers them to be important supplemental measures of OMNICELL, INC.\u2019s performance and refers to such measures when analyzing OMNICELL, INC.\u2019s strategy and operations.",
+      "token_count": 323
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Our non-GAAP product gross profit, non-GAAP product gross margin, non-GAAP service gross profit, non-GAAP service gross margin, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP net income per diluted share, non-GAAP EBITDA, and non-GAAP EBITDA margin are exclusive of certain items to facilitate management\u2019s review of the comparability of OMNICELL, INC.\u2019s core operating results on a period-to-period basis because such items are not related to OMNICELL, INC.\u2019s ongoing core operating results as viewed by management. We define our \u201ccore operating results\u201d as those revenues recorded in a particular period and the expenses incurred within such period that directly drive operating income in such period. Management uses these non-GAAP financial measures in making operating decisions because, in addition to meaningful supplemental information regarding operating performance, the measures give us a better understanding of how we believe we should invest in research and development, fund infrastructure growth, and evaluate the effectiveness of marketing strategies. In calculating the above non-GAAP results: non-GAAP product gross profit and non-GAAP product gross margin exclude from their GAAP equivalents items a), b), and f) below; non-GAAP service gross profit, non-GAAP service gross margin, non-GAAP gross profit and non-GAAP gross margin exclude from their GAAP equivalents items a), b), e), and f) below; non-GAAP operating expenses, non-GAAP income from operations and non-GAAP operating margin exclude from their GAAP equivalents items a), b), c), e), f), g), h), and i) below; and non-GAAP net income and non-GAAP net income per diluted share exclude from their GAAP equivalents items a) through j) below. Non-GAAP EBITDA is defined as earnings before interest income and expense, taxes, depreciation, amortization, and share-based compensation, as well as excluding certain other non-GAAP adjustments. Non-GAAP EBITDA and non-GAAP EBITDA margin exclude from their GAAP equivalents items a), c), d), e), f), g), h), i), and j) below:",
+      "token_count": 540
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "a) Share-based compensation expense. We excluded from our non-GAAP results the expense related to equity-based compensation plans as it represents expenses that do not require cash settlement from OMNICELL, INC..",
+      "token_count": 52
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "b) Amortization of acquired intangible assets. We excluded from our non-GAAP results the intangible assets amortization expense resulting from our past acquisitions. These non-cash charges are not considered by management to reflect the core cash-generating performance of the business and therefore are excluded from our non-GAAP results.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "c) Acquisition-related expenses. We excluded from our non-GAAP results the expenses related to recent acquisitions, including amortization of representations and warranties insurance. These expenses are unrelated to our ongoing operations, vary in size and frequency, and are subject to significant fluctuations from period to period due to varying levels of acquisition activity. We believe that excluding these expenses provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 148
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "d) Amortization of debt issuance costs. Debt issuance costs represent costs associated with the issuance of revolving credit facilities and convertible senior notes. The costs include underwriting fees, original issue discount, ticking fees, and legal fees. These non-cash expenses are not considered by management to reflect the core cash-generating performance of the business and therefore are excluded from our non-GAAP results.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "e) EnlivenHealth restructuring. We excluded from our non-GAAP results the nonrecurring charges primarily related to restructuring within the EnlivenHealth business as we seek to gain operational efficiency and synergy, and adapt to the",
+      "token_count": 59
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "recent industry dynamics within the retail pharmacy space. These charges consisted primarily of severance and other related expenses. These expenses are unrelated to our ongoing operations and we believe that excluding these expenses provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 101
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "f) RDS restructuring. We excluded from our non-GAAP results the nonrecurring restructuring charges related to the wind down of the Company\u2019s Medimat Robotic Dispensing System (\u201cRDS\u201d) product line, partially offset by reversals of previously recognized expenses in subsequent periods. These charges consisted primarily of inventory write-down, severance and other related expenses. These expenses are unrelated to our ongoing operations and we believe that excluding these expenses provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 163
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "g) Legal and regulatory expenses. We excluded from our non-GAAP results certain non-recurring legal and regulatory expenses, representing settlement amounts, related to certain claims of non-compliance with our government contracts that are outside of the ordinary course of our business. We believe that excluding these amounts provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 125
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "h) Management severance costs. We excluded from our non-GAAP results the severance expense of certain senior management associated with the restructuring of our senior leadership team. We believe that excluding these expenses provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 99
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "i) Executives transition costs. We excluded from our non-GAAP results the transition costs associated with the departure of a certain executive officer, primarily consisting of severance expenses. These expenses are unrelated to our ongoing operations and we do not expect them to occur in the ordinary course of business. We believe that excluding these expenses provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 133
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "j) Gain on extinguishment of convertible senior notes, net. We excluded from our non-GAAP results the gain on the partial repurchase of the Company\u2019s Convertible Senior Notes due 2025 as well as the related unwinding of the convertible note hedge and warrants. We believe that excluding this gain provides more meaningful comparisons of the financial results to our historical operations and forward-looking guidance, and to the financial results of peer companies.",
+      "token_count": 117
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Management adjusts for the above items because management believes that, in general, these items possess one or more of the following characteristics: their magnitude and timing is largely outside of OMNICELL, INC.\u2019s control; they are unrelated to the ongoing operation of the business in the ordinary course; they are unusual and we do not expect them to occur in the ordinary course of business; or they are non-operational or non-cash expenses involving stock compensation plans or other items.",
+      "token_count": 124
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "We believe that the presentation of non-GAAP product gross profit, non-GAAP product gross margin, non-GAAP service gross profit, non-GAAP service gross margin, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP net income per diluted share, non-GAAP EBITDA, and non-GAAP EBITDA margin is warranted for several reasons:",
+      "token_count": 108
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "a) Such non-GAAP financial measures provide an additional analytical tool for understanding OMNICELL, INC.\u2019s financial performance by excluding the impact of items which may obscure trends in the core operating results of the business.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "b) Since we have historically reported non-GAAP results to the investment community, we believe the inclusion of non-GAAP numbers provides consistency and enhances investors\u2019 ability to compare our performance across financial reporting periods.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "c) These non-GAAP financial measures are employed by management in its own evaluation of performance and are utilized in financial and operational decision-making processes, such as budget planning and forecasting.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "d) These non-GAAP financial measures facilitate comparisons to the operating results of other companies in our industry, which also use non-GAAP financial measures to supplement their GAAP results (although these companies may calculate non-GAAP financial measures differently than OMNICELL, INC. does), thus enhancing the perspective of investors who wish to utilize such comparisons in their analysis of our performance.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "i) While share-based compensation calculated in accordance with Accounting Standards Codification (\u201cASC\u201d) 718 constitutes an ongoing and recurring expense of OMNICELL, INC., it is not an expense that requires cash settlement by OMNICELL, INC.. We therefore exclude these charges for purposes of evaluating core operating results. Thus, our non-GAAP measurements",
+      "token_count": 89
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "are presented exclusive of share-based compensation expense to assist management and investors in evaluating our core operating results.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "ii) We present ASC 718 share-based payment compensation expense in our reconciliation of non-GAAP financial measures on a pre-tax basis because the exact tax differences related to the timing and deductibility of share-based compensation under ASC 718 are dependent upon the trading price of OMNICELL, INC.\u2019s common stock and the timing and exercise by employees of their stock options. As a result of these timing and market uncertainties, the tax effect related to share-based compensation expense would be inconsistent in amount and frequency and is therefore excluded from our non-GAAP results.",
+      "token_count": 149
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP diluted shares is defined as our GAAP diluted shares, excluding the impact of dilutive convertible senior notes for which the Company is economically hedged through its anti-dilutive convertible note hedge transaction. Additionally, in a period of net loss, GAAP diluted shares are further adjusted for certain shares whose effect would be dilutive in a period of net income. We believe non-GAAP diluted shares is a useful non-GAAP metric because it provides insight into the offsetting economic effect of the hedge transaction against potential conversion of the convertible senior notes.",
+      "token_count": 150
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Non-GAAP free cash flow is defined as net cash provided by operating activities less cash used for software development for external use and purchases of property and equipment. We believe free cash flow is important to enable investors to better understand and evaluate our ongoing operating results and allows for greater transparency in the review and understanding of our overall financial, operational, and economic performance, because free cash flow takes into account certain capital expenditures and cash used for software development necessary to operate our business.",
+      "token_count": 145
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "As stated above, we present non-GAAP financial measures because we consider them to be important supplemental measures of performance. However, non-GAAP financial measures have limitations as an analytical tool and should not be considered in isolation or as a substitute for OMNICELL, INC.\u2019s GAAP results. In the future, we expect to incur expenses similar to certain of the non-GAAP adjustments described above and expect to continue reporting non-GAAP financial measures excluding such items. Some of the limitations in relying on non-GAAP financial measures are:",
+      "token_count": 141
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "a) OMNICELL, INC.\u2019s equity incentive plans and stock purchase plans are important components of incentive compensation arrangements and will be reflected as expenses in OMNICELL, INC.\u2019s GAAP results for the foreseeable future under ASC 718.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "b) Other companies, including companies in OMNICELL, INC.\u2019s industry, may calculate non-GAAP financial measures differently than OMNICELL, INC., limiting their usefulness as a comparative measure.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "c) A limitation of the utility of free cash flow as a measure of financial performance is that it does not represent the total increase or decrease in OMNICELL, INC.\u2019s cash balance for the period.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "A detailed reconciliation between OMNICELL, INC.\u2019s non-GAAP and GAAP financial results is set forth in the financial tables at the end of this press release. Investors are advised to carefully review and consider this information strictly as a supplement to the GAAP results that are contained in this press release as well as in OMNICELL, INC.\u2019s other reports filed with or furnished to the SEC.",
+      "token_count": 97
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Revenues: Product revenues $ 179,859 $ 182,271 $ 665,697 $ 630,507 Service revenues 134,125 124,608 519,148 481,731 Total revenues 313,984 306,879 1,184,845 1,112,238 Cost of revenues: Cost of product revenues 104,917 96,755 379,162 383,025 Cost of service revenues 78,742 68,363 302,241 258,210 Total cost of revenues 183,659 165,118 681,403 641,235 Gross profit 130,325 141,761 503,442 471,003 Operating expenses: Research and development 22,552 26,040 88,672 90,412 Selling, general, and administrative 107,358 103,325 409,610 380,254 Total operating expenses 129,910 129,365 498,282 470,666 Income from operations 415 12,396 5,160 337 Interest and other income (expense), net 284 11,204 6,165 25,256 Income before income taxes 699 23,600 11,325 25,593 Provision for income taxes 2,725 7,758 9,273 13,062 Net income (loss) $ (2,026) $ 15,842 $ 2,052 $ 12,531 Net income (loss) per share: Basic $ (0.05) $ 0.34 $ 0.04 $ 0.27 Diluted $ (0.05) $ 0.34 $ 0.04 $ 0.27 Weighted-average shares outstanding: Basic 44,959 46,345 45,965 46,047 Diluted 44,959 46,854 46,362 46,255",
+      "token_count": 287
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 2024 ASSETS Current assets: Cash and cash equivalents $ 196,520 $ 369,201 Accounts receivable and unbilled receivables, net 216,858 256,398 Inventories 100,905 88,659 Prepaid expenses 33,709 25,942 Other current assets 132,077 75,293 Total current assets 680,069 815,493 Property and equipment, net 120,111 112,692 Long-term investment in sales-type leases, net 60,742 52,744 Operating lease right-of-use assets 24,366 25,607 Goodwill 737,946 734,727 Intangible assets, net 170,105 188,266 Long-term deferred tax assets 58,337 57,469 Prepaid commissions 52,840 54,656 Other long-term assets 70,204 79,306 Total assets $ 1,974,720 $ 2,120,960 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY Current liabilities: Accounts payable $ 43,990 $ 51,782 Accrued compensation 57,172 60,307 Accrued liabilities 203,586 167,895 Deferred revenues 171,861 141,370 Convertible senior notes, net \u2014 174,324 Total current liabilities 476,609 595,678 Long-term deferred revenues 63,254 76,123 Long-term deferred tax liabilities 683 1,108 Long-term operating lease liabilities 24,794 31,123 Other long-term liabilities 9,970 7,218 Convertible senior notes, net 167,596 166,397 Total liabilities 742,906 877,647 Total stockholders\u2019 equity 1,231,814 1,243,313 Total liabilities and stockholders\u2019 equity $ 1,974,720 $ 2,120,960",
+      "token_count": 328
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Year Ended December 31, 2025 2024 Operating Activities Net income $ 2,052 $ 12,531 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 78,795 82,232 Loss on disposal of assets 488 978 Share-based compensation expense 44,502 39,316 Deferred income taxes (1,293) (14,855) Amortization of operating lease right-of-use assets 7,839 7,523 Impairment of external-use software development costs 599 \u2014 Inventory write-down \u2014 5,393 Amortization of debt issuance costs 2,651 3,788 Gain on extinguishment of convertible senior notes, net \u2014 (7,517) Changes in operating assets and liabilities: Accounts receivable and unbilled receivables 41,424 (5,002) Inventories (11,225) 15,633 Prepaid expenses (7,767) 24 Other current assets (774) 9,337 Investment in sales-type leases (10,171) (10,398) Prepaid commissions 1,816 (2,242) Other long-term assets 4,087 2,161 Accounts payable (9,283) 7,210 Accrued compensation (4,009) 8,553 Accrued liabilities (18,957) 13,942 Deferred revenues 16,379 28,952 Operating lease liabilities (11,725) (10,737) Other long-term liabilities 1,872 900 Net cash provided by operating activities 127,300 187,722 Investing Activities Asset acquisition (2,430) \u2014 External-use software development costs (17,518) (16,330) Purchases of property and equipment (40,415) (36,463) Net cash used in investing activities (60,363) (52,793) Financing Activities Repayment of convertible senior notes due 2025 (175,000) \u2014 Proceeds from issuance of convertible senior notes, net of issuance costs \u2014 166,272 Partial repurchase of convertible senior notes \u2014 (391,000) Purchase of convertible note hedge \u2014 (40,279) Proceeds from sale of warrants \u2014 25,168 Partial unwind of convertible note hedge and warrants \u2014 (727) Proceeds from issuances under stock-based compensation plans 16,868 13,411 Employees\u2019 taxes paid related to restricted stock units (7,684) (4,827) Common stock repurchases (77,600) \u2014 Change in customer funds, net 25,099 (3,596) Net cash used in financing activities (218,317) (235,578) Effect of exchange rate changes on cash and cash equivalents 3,798 (1,716) Net decrease in cash, cash equivalents, and restricted cash (147,582) (102,365) Cash, cash equivalents, and restricted cash at beginning of period 398,614 500,979 Cash, cash equivalents, and restricted cash at end of period $ 251,032 $ 398,614 Reconciliation of cash, cash equivalents, and restricted cash to the Condensed Consolidated Balance Sheets: Cash and cash equivalents $ 196,520 $ 369,201 Restricted cash included in other current assets 54,512 29,413 Cash, cash equivalents, and restricted cash at end of period $ 251,032 $ 398,614",
+      "token_count": 669
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "(Unaudited, in thousands, except per share data and percentage)",
+      "token_count": 16
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of GAAP product gross profit to non-GAAP product gross profit: GAAP product revenues $ 179,859 $ 182,271 $ 665,697 $ 630,507 GAAP cost of product revenues 104,917 96,755 379,162 383,025 GAAP product gross profit $ 74,942 $ 85,516 $ 286,535 $ 247,482 GAAP product gross margin 41.7% 46.9% 43.0% 39.3% Share-based compensation expense 410 932 2,131 4,096 Amortization of acquired intangibles 332 350 1,346 1,397 RDS restructuring, net of reversals 322 1,197 322 9,894 Non-GAAP product gross profit $ 76,006 $ 87,995 $ 290,334 $ 262,869 Non-GAAP product gross margin 42.3% 48.3% 43.6% 41.7% Reconciliation of GAAP service gross profit to non-GAAP service gross profit: GAAP service revenues $ 134,125 $ 124,608 $ 519,148 $ 481,731 GAAP cost of service revenues 78,742 68,363 302,241 258,210 GAAP service gross profit $ 55,383 $ 56,245 $ 216,907 $ 223,521 GAAP service gross margin 41.3% 45.1% 41.8% 46.4% Share-based compensation expense 565 557 2,765 2,277 Amortization of acquired intangibles 379 667 2,345 2,734 EnlivenHealth restructuring \u2014 \u2014 892 \u2014 RDS restructuring, net of reversals 3,386 14 3,386 3 Non-GAAP service gross profit $ 59,713 $ 57,483 $ 226,295 $ 228,535 Non-GAAP service gross margin 44.5% 46.1% 43.6% 47.4% Reconciliation of GAAP gross profit to non-GAAP gross profit: GAAP gross profit $ 130,325 $ 141,761 $ 503,442 $ 471,003 GAAP gross margin 41.5% 46.2% 42.5% 42.3% Share-based compensation expense 975 1,489 4,896 6,373 Amortization of acquired intangibles 711 1,017 3,691 4,131 EnlivenHealth restructuring \u2014 \u2014 892 \u2014 RDS restructuring, net of reversals 3,708 1,211 3,708 9,897 Non-GAAP gross profit $ 135,719 $ 145,478 $ 516,629 $ 491,404 Non-GAAP gross margin 43.2% 47.4% 43.6% 44.2%",
+      "token_count": 450
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of GAAP operating expenses to non-GAAP operating expenses: GAAP operating expenses $ 129,910 $ 129,365 $ 498,282 $ 470,666 GAAP operating expenses % to total revenues 41.4% 42.2% 42.1% 42.3% Share-based compensation expense (11,001) (7,550) (39,606) (32,943) Amortization of acquired intangibles (4,522) (4,480) (17,805) (18,578) Acquisition-related expenses (182) (182) (728) (898) EnlivenHealth restructuring \u2014 \u2014 (1,674) \u2014 RDS restructuring, net of reversals (231) (1,223) (231) (2,056) Legal and regulatory expenses \u2014 (2,000) (2,700) (2,000) Management severance costs (585) (911) (1,147) (911) Executives transition costs \u2014 \u2014 (968) \u2014 Non-GAAP operating expenses $ 113,389 $ 113,019 $ 433,423 $ 413,280 Non-GAAP operating expenses as a % of total revenues 36.1% 36.8% 36.6% 37.2% Reconciliation of GAAP income from operations to non-GAAP income from operations: GAAP income from operations $ 415 $ 12,396 $ 5,160 $ 337 GAAP operating income % to total revenues 0.1% 4.0% 0.4% 0.0% Share-based compensation expense 11,976 9,039 44,502 39,316 Amortization of acquired intangibles 5,233 5,497 21,496 22,709 Acquisition-related expenses 182 182 728 898 EnlivenHealth restructuring \u2014 \u2014 2,566 \u2014 RDS restructuring, net of reversals 3,939 2,434 3,939 11,953 Legal and regulatory expenses \u2014 2,000 2,700 2,000 Management severance costs 585 911 1,147 911 Executives transition costs \u2014 \u2014 968 \u2014 Non-GAAP income from operations $ 22,330 $ 32,459 $ 83,206 $ 78,124 Non-GAAP operating margin (non-GAAP operating income as a % of total revenues) 7.1% 10.6% 7.0% 7.0% Reconciliation of GAAP net income (loss) to non-GAAP net income: GAAP net income (loss) $ (2,026) $ 15,842 $ 2,052 $ 12,531 Share-based compensation expense 11,976 9,039 44,502 39,316 Amortization of acquired intangibles 5,233 5,497 21,496 22,709 Acquisition-related expenses 182 182 728 898 EnlivenHealth restructuring \u2014 \u2014 2,566 \u2014 RDS restructuring, net of reversals 3,939 2,434 3,939 11,953 Legal and regulatory expenses \u2014 2,000 2,700 2,000 Management severance costs 585 911 1,147 911 Executives transition costs \u2014 \u2014 968 \u2014 Amortization of debt issuance costs 496 871 2,651 3,788 Gain on extinguishment of convertible senior notes, net \u2014 (7,517) \u2014 (7,517) Tax effect of the adjustments above (a) (2,191) (919) (7,601) (7,295) Non-GAAP net income $ 18,194 $ 28,340 $ 75,148 $ 79,294",
+      "token_count": 607
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of GAAP net income (loss) per share - diluted to non-GAAP net income per share - diluted: Shares - diluted GAAP 44,959 46,854 46,362 46,255 Shares - diluted non-GAAP 45,486 46,854 46,362 46,255 GAAP net income (loss) per share - diluted $ (0.05) $ 0.34 $ 0.04 $ 0.27 Share-based compensation expense 0.27 0.19 0.96 0.85 Amortization of acquired intangibles 0.12 0.12 0.46 0.49 Acquisition-related expenses 0.00 0.00 0.02 0.02 EnlivenHealth restructuring \u2014 \u2014 0.06 \u2014 RDS restructuring, net of reversals 0.09 0.05 0.08 0.26 Legal and regulatory expenses \u2014 0.04 0.06 0.04 Management severance costs 0.01 0.02 0.02 0.02 Executives transition costs \u2014 \u2014 0.02 \u2014 Amortization of debt issuance costs 0.01 0.02 0.06 0.08 Gain on extinguishment of convertible senior notes, net \u2014 (0.16) \u2014 (0.16) Tax effect of the adjustments above (a) (0.05) (0.02) (0.16) (0.16) Non-GAAP net income per share - diluted $ 0.40 $ 0.60 $ 1.62 $ 1.71 Reconciliation of GAAP net income (loss) to non-GAAP EBITDA (b) : GAAP net income (loss) $ (2,026) $ 15,842 $ 2,052 $ 12,531 Share-based compensation expense 11,976 9,039 44,502 39,316 Interest (income) and expense, net (894) (5,062) (9,427) (23,399) Depreciation and amortization expense 19,811 19,966 78,795 82,232 Acquisition-related expenses 182 182 728 898 EnlivenHealth restructuring \u2014 \u2014 2,566 \u2014 RDS restructuring, net of reversals 3,939 2,434 3,939 11,953 Legal and regulatory expenses \u2014 2,000 2,700 2,000 Management severance costs 585 911 1,147 911 Executives transition costs \u2014 \u2014 968 \u2014 Amortization of debt issuance costs 496 871 2,651 3,788 Gain on extinguishment of convertible senior notes, net \u2014 (7,517) \u2014 (7,517) Provision for income taxes 2,725 7,758 9,273 13,062 Non-GAAP EBITDA $ 36,794 $ 46,424 $ 139,894 $ 135,775 Non-GAAP EBITDA margin (non-GAAP EBITDA as a % of total revenues) 11.7% 15.1% 11.8% 12.2%",
+      "token_count": 484
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(a) Tax effects calculated for all adjustments except share-based compensation expense, using an estimated annual effective tax rate of 21% for both fiscal years 2025 and 2024.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(b) Defined as earnings before interest income and expense, taxes, depreciation, amortization, and share-based compensation, as well as excluding certain other non-GAAP adjustments.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31, Year Ended December 31, 2025 2024 2025 2024 Reconciliation of GAAP net cash provided by operating activities to non-GAAP free cash flow: GAAP net cash provided by operating activities $ 30,354 $ 56,315 $ 127,300 $ 187,722 External-use software development costs (4,281) (4,481) (17,518) (16,330) Purchases of property and equipment (7,709) (9,087) (40,415) (36,463) Non-GAAP free cash flow $ 18,364 $ 42,747 $ 69,367 $ 134,929",
+      "token_count": 115
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.04792,
+    "ret_20d": -0.008073,
+    "market_ret_20d": -0.008124
+  },
+  "outcome_blind": true
+}

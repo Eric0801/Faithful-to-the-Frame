@@ -1,0 +1,692 @@
+{
+  "event_id": "evt_0039",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "GILEAD SCIENCES, INC.",
+  "ticker": "GILD",
+  "company_alias": "GILEAD SCIENCES, INC.",
+  "masked_company": "Company CB",
+  "sector": "Health Care",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-10",
+  "filing_metadata": {
+    "cik": "882095",
+    "accession_number": "0000882095-26-000003",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-10T11:02:13-05:00",
+    "event_date": "2026-02-10",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Product Sales Excluding Veklury Increased 4% Year-Over-Year to $28.0 billion for Full Year 2025",
+      "token_count": 24
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Biktarvy Sales Increased 7% Year-Over-Year to $14.3 billion for Full Year 2025",
+      "token_count": 20
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Foster City, CA, 2026-02-10T11:02:13-05:00 - GILEAD SCIENCES, INC.. (Nasdaq:GILD) announced today its results of operations for the fourth quarter and full year 2025.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u201cOur fourth quarter and full-year results close out a very strong year for GILEAD SCIENCES, INC. overall, including the successful U.S. launch of Yeztugo, the world\u2019s first twice-yearly HIV prevention therapy, and continued growth for Biktarvy and Descovy,\u201d said Daniel O\u2019Day, GILEAD SCIENCES, INC.\u2019s Chairman and Chief Executive Officer. \u201cIn 2026, our potential new launches include two cancer therapies and an additional HIV treatment option, and we look forward to building on the launches of Yeztugo and Livdelzi for liver disease. As we continue to increase our positive impact on healthcare, GILEAD SCIENCES, INC. is well positioned for continued growth in 2026 and beyond.\u201d",
+      "token_count": 162
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Total fourth quarter 2025 revenues increased 5% to $7.9 billion compared to the same period in 2024, primarily driven by higher sales of HIV and Liver Disease products, partially offset by lower sales of Veklury\u00ae (remdesivir).",
+      "token_count": 57
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Diluted earnings per share (\u201cEPS\u201d) was $1.74 in the fourth quarter 2025 compared to $1.42 in the same period in 2024. The increase was primarily driven by higher income tax benefits, net unrealized gains from equity securities and higher product sales, as well as lower selling, general and administrative (\u201cSG&A\u201d) expenses. The increase was partially offset by higher acquired in-process research and development (\u201cIPR&D\u201d) expenses and an IPR&D impairment charge related to assets acquired as part of the MYR GmbH (\u201cMYR\u201d) acquisition.",
+      "token_count": 135
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Non-GAAP diluted EPS of $1.86 in the fourth quarter 2025 compared to $1.90 in the same period in 2024. The decrease was primarily driven by higher acquired IPR&D expenses, partially offset by higher product sales and lower SG&A expenses.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 As of December 31, 2025, GILEAD SCIENCES, INC. had $10.6 billion of cash, cash equivalents and marketable debt securities compared to $10.0 billion as of December 31, 2024.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 During the fourth quarter 2025, GILEAD SCIENCES, INC. generated $3.3 billion in operating cash flow.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 During the fourth quarter 2025, GILEAD SCIENCES, INC. paid dividends of $1.0 billion and repurchased $230 million of common stock.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total fourth quarter 2025 product sales increased 5% to $7.9 billion compared to the same period in 2024. Total fourth quarter 2025 product sales excluding Veklury increased 7% to $7.7 billion compared to the same period in 2024, primarily due to higher sales of HIV and Liver Disease products.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "HIV product sales increased 6% to $5.8 billion in the fourth quarter 2025 compared to the same period in 2024, primarily driven by higher demand for HIV prevention and treatment.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Biktarvy\u00ae (bictegravir 50mg/emtricitabine (\u201cFTC\u201d) 200mg/tenofovir alafenamide (\u201cTAF\u201d) 25mg) sales increased 5% to $4.0 billion in the fourth quarter 2025 compared to the same period in 2024, primarily driven by higher demand and favorable inventory dynamics, partially offset by lower average realized price.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Descovy\u00ae (FTC 200mg/TAF 25mg) sales increased 33% to $819 million in the fourth quarter 2025 compared to the same period in 2024, primarily driven by higher average realized price and higher demand for HIV prevention.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The Liver Disease portfolio sales increased 17% to $844 million in the fourth quarter 2025 compared to the same period in 2024, primarily driven by higher demand for Livdelzi\u00ae (seladelpar).",
+      "token_count": 48
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Veklury sales decreased 37% to $212 million in the fourth quarter 2025 compared to the same period in 2024, primarily driven by lower rates of COVID-19-related hospitalizations.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Cell Therapy product sales decreased 6% to $458 million in the fourth quarter 2025 compared to the same period in 2024, reflecting ongoing competitive headwinds.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Yescarta\u00ae (axicabtagene ciloleucel) sales decreased 6% to $368 million in the fourth quarter 2025 compared to the same period in 2024, primarily driven by in- and out-of-class competition.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Tecartus\u00ae (brexucabtagene autoleucel) sales decreased 9% to $90 million in the fourth quarter 2025 compared to the same period in 2024, primarily driven by in-class competition.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Trodelvy\u00ae (sacituzumab govitecan-hziy) sales increased 8% to $384 million in the fourth quarter 2025 compared to the same period in 2024, primarily driven by higher demand in breast cancer treatment.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Fourth Quarter 2025 Product Gross Margin, Operating Expenses and Effective Tax Rate",
+      "token_count": 21
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Product gross margin remained relatively flat at 79.5% in the fourth quarter 2025 compared to 79.0% in the same period in 2024. Non-GAAP product gross margin was 86.8% in the fourth quarter 2025 compared to 86.7% in the same period in 2024.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Research and development (\u201cR&D\u201d) expenses and non-GAAP R&D expenses were $1.6 billion in the fourth quarter 2025 and remained relatively flat compared to the same period in 2024.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Acquired IPR&D expenses were $539 million in the fourth quarter 2025, primarily related to our acquisition of Interius BioTherapeutics, Inc. (\u201cInterius\u201d) and ongoing collaboration with Shenzhen Pregene Biopharma Co., Ltd. (\u201cPregene\u201d).",
+      "token_count": 59
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 SG&A expenses were $1.8 billion in the fourth quarter 2025 compared to $1.9 billion in the same period in 2024, decreasing primarily due to lower expenses related to legal matters and corporate initiatives, partially offset by donations of equity securities made to the GILEAD SCIENCES, INC. Foundation. Non-GAAP SG&A expenses were $1.7 billion in the fourth quarter 2025 compared to $1.9 billion in the same period in 2024, primarily due to lower expenses related to legal matters and corporate initiatives.",
+      "token_count": 125
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 The effective tax rate (\u201cETR\u201d) was (5.0)% in the fourth quarter 2025 compared to 17.8% in the same period in 2024, primarily driven by a tax benefit from a settlement with a tax authority related to a prior year legal entity restructuring and a tax benefit from the IPR&D impairment charge related to assets acquired as part of the MYR acquisition. The non-GAAP ETR was 20.5% in the fourth quarter 2025 compared to 19.2% in the same period in 2024.",
+      "token_count": 113
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Total full year 2025 product sales increased 1% to $28.9 billion compared to 2024, primarily driven by higher sales of HIV and Liver Disease products, partially offset by lower sales of Veklury.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Total full year 2025 royalty, contract and other revenues increased by approximately $383 million compared to 2024, primarily driven by revenue related to a previous sale of intellectual property not expected to reoccur.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Diluted EPS was $6.78 in the full year 2025 compared to $0.38 in 2024. The increase was primarily driven by lower acquired IPR&D expenses, lower IPR&D impairments, higher net unrealized gains on equity investments, higher revenues and lower SG&A expenses, partially offset by higher tax expense.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Non-GAAP diluted EPS was $8.15 in the full year 2025 compared to $4.62 in 2024. The increase was primarily driven by lower acquired IPR&D expenses, higher revenues, and lower SG&A expenses.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total full year 2025 product sales increased 1% to $28.9 billion compared to 2024. Total full year 2025 product sales excluding Veklury increased 4% to $28.0 billion compared to 2024, primarily due to higher sales of HIV and Liver Disease products.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "HIV product sales increased 6% to $20.8 billion in the full year 2025 compared to 2024, primarily driven by higher demand for HIV treatment and prevention.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Biktarvy sales increased 7% to $14.3 billion in the full year 2025 compared to 2024, primarily driven by higher demand, partially offset by lower average realized price.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Descovy sales increased 31% to $2.8 billion in the full year 2025 compared to 2024, primarily driven by higher demand and average realized price.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The Liver Disease portfolio sales increased 6% to $3.2 billion in the full year 2025 compared to 2024, primarily driven by higher demand for Livdelzi and products for chronic hepatitis B virus (\u201cHBV\u201d) and chronic hepatitis delta virus (\u201cHDV\u201d), partially offset by lower average realized price in products for chronic hepatitis C virus (\u201cHCV\u201d).",
+      "token_count": 86
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Veklury sales decreased 49% to $911 million in the full year 2025 compared to 2024, primarily driven by lower COVID-19-related hospitalizations.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Cell Therapy product sales decreased 7% to $1.8 billion in the full year 2025 compared to 2024, reflecting ongoing competitive headwinds.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Yescarta sales decreased 5% to $1.5 billion in the full year 2025 compared to 2024, primarily driven by in- and out-of-class competition.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Tecartus sales decreased 15% to $344 million in the full year 2025 compared to 2024, primarily driven by in-class competition.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Trodelvy sales increased 6% to $1.4 billion in the full year 2025 compared to 2024, primarily driven by higher demand in breast cancer treatment, partially offset by the indication withdrawal in bladder cancer treatment.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Full Year 2025 Product Gross Margin, Operating Expenses and Effective Tax Rate",
+      "token_count": 20
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Product gross margin remained relatively flat at 78.4% in the full year 2025 compared to 78.2% in 2024. Non-GAAP product gross margin was 86.4% in the full year 2025 compared to 86.2% in 2024.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 R&D expenses were $5.8 billion in the full year 2025 compared to $5.9 billion in 2024, decreasing primarily due to lower acquisition-related integration expenses and restructuring costs, as well as lower study-related and clinical manufacturing expenses. Non-GAAP R&D expenses were $5.7 billion in the full year 2025, decreasing slightly compared to 2024 due to lower study-related and clinical manufacturing expenses.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Acquired IPR&D expenses were $1.0 billion in the full year 2025, primarily related to the acquisition of Interius and collaborations with LEO Pharma A/S and Pregene.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 SG&A expenses were $5.8 billion in the full year 2025 compared to $6.1 billion in 2024, decreasing primarily due to lower corporate, legal, acquisition-related integration and restructuring expenses, partially offset by higher HIV promotional expenses and donations of equity securities made to the GILEAD SCIENCES, INC. Foundation. Non-GAAP SG&A expenses were $5.6 billion in the full year 2025 compared to $5.9 billion in 2024, decreasing primarily due to lower expenses related to corporate initiatives and legal matters, partially offset by higher HIV promotional expenses.",
+      "token_count": 142
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 The ETR was 13.1% in the full year 2025 compared to 30.5% in 2024, primarily driven by the impact of the prior year non-deductible acquired IPR&D charge for the acquisition of CymaBay Therapeutics, Inc. (\u201cCymaBay\u201d), partially offset by the tax impact of the prior year higher IPR&D impairment charges. The non-GAAP ETR was 18.3% in the full year 2025 compared to 25.9% in 2024, primarily driven by the prior year non-deductible acquired IPR&D charge for the acquisition of CymaBay.",
+      "token_count": 121
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(in millions, except per share amounts) 2026-02-10T11:02:13-05:00 Guidance Low End High End Product sales $ 29,600 $ 30,000 Product sales excluding Veklury $ 29,000 $ 29,400 Veklury $ 600 $ 600 Diluted EPS $ 6.75 $ 7.15 Non-GAAP diluted EPS $ 8.45 $ 8.85",
+      "token_count": 62
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Announced positive topline Phase 3 results from the ARTISTRY-1 and ARTISTRY-2 trials, evaluating our investigational daily oral single-tablet regimen of bictegravir 75mg and lenacapavir 50mg (\u201cBIC/LEN\u201d) for virologically suppressed adults with HIV. BIC/LEN met its primary endpoints demonstrating non-inferiority to baseline multi-tablet antiviral regimens (ARTISTRY-1) and Biktarvy (ARTISTRY-2).",
+      "token_count": 100
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Exercised option to license investigational herpes simplex virus helicase-primase inhibitor programs ABI-1179 and ABI-5366 from Assembly Biosciences, Inc. (\u201cAssembly\u201d).",
+      "token_count": 43
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Announced the first delivery of lenacapavir for PrEP in sub-Saharan African countries Eswatini and Zambia through the U.S. President\u2019s Emergency Plan for AIDS Relief.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Announced that the Phase 3 ASCENT-07 study evaluating the investigational use of Trodelvy versus chemotherapy in first-line post-endocrine HR+/HER2- metastatic breast cancer did not meet its primary endpoint of progression-free survival as assessed by Blinded Independent Central Review. Overall survival, a secondary endpoint, was not mature at the time of the primary analysis, however, a favorable early trend compared to chemotherapy was observed in the Trodelvy arm. In addition, no new safety signals were identified in this patient population. The results from this study were presented at the 2025 San Antonio Breast Cancer Symposium.",
+      "token_count": 161
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Announced the discontinuation of the Phase 3 STAR-221 study, in partnership with Arcus Biosciences, Inc. (\u201cArcus\u201d), evaluating the anti-TIGIT antibody domvanalimab (\u201cdom\u201d) plus zimberelimab (\u201czim\u201d) and chemotherapy in first-line HER2- advanced gastric and esophageal cancers. The decision was based on the recommendation of the Independent Data Monitoring Committee, following review of data from a pre-specified interim analysis. Additionally, GILEAD SCIENCES, INC. and Arcus will discontinue the Phase 2 EDGE-Gastric study evaluating dom and zim regimens in upper gastrointestinal cancers. Dom and zim are investigational products and are not approved anywhere globally.",
+      "token_count": 166
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Announced a new label update for Yescarta that removes a limitation around Primary Central Nervous System Lymphoma, an ultra-rare cancer affecting a highly vulnerable patient population. Yescarta is the only CAR-T therapy in relapsed or refractory large B-cell lymphoma (\u201cR/R LBCL\u201d) to have this limitation removed.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Presented new positive data, with our partner Arcellx, Inc. (\u201cArcellx\u201d), from the pivotal Phase 2 iMMagine-1 trial evaluating the investigational CAR T-cell therapy anitocabtagene autoleucel in 4L+ R/R multiple myeloma at the 2025 American Society of Hematology (\u201cASH\u201d).",
+      "token_count": 68
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Presented initial Phase 1 data for KITE-753 and KITE-363, evaluating two investigational bicistronic CAR T-cell therapies in patients with R/R LBCL at ASH 2025.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Presented a new analysis of Yescarta from the Phase 3 ZUMA-7 and Phase 2 ALYCANTE study in patients with R/R LBCL at ASH 2025. The data demonstrated consistent benefits of Yescarta among patients with R/R LBCL, including those ineligible for previous standard of care chemotherapy and stem cell transplant.",
+      "token_count": 77
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Presented new long-term data from the Phase 3 ASSURE study for Livdelzi, which reinforce the safety and efficacy of Livdelzi for people living with primary biliary cholangitis over 3 years, including data on switching from obeticholic acid. The data were presented at the American Association for the Study of Liver Diseases meeting.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 The Board declared a quarterly dividend of $0.82 per share of common stock for the first quarter of 2026. The dividend is payable on March 30, 2026, to stockholders of record at the close of business on March 13, 2026. Future dividends will be subject to Board approval.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Appointed Keeley Cain Wettan as Executive Vice President, General Counsel, Legal and Compliance.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Announced an agreement with the U.S. government to lower the cost of medicines for Americans, reinforcing a commitment to U.S.-based innovation, affordability and global health leadership.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Certain amounts and percentages in this press release may not sum or recalculate due to rounding.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The information presented in this document has been prepared in accordance with U.S. generally accepted accounting principles (\u201cGAAP\u201d), unless otherwise noted as non-GAAP. Management believes non-GAAP information is useful for investors, when considered in conjunction with GILEAD SCIENCES, INC.\u2019s GAAP financial information, because management uses such information internally for its operating, budgeting and financial planning purposes. Non-GAAP information is not prepared under a comprehensive set of accounting rules and should only be used to supplement an understanding of GILEAD SCIENCES, INC.\u2019s operating results as reported under GAAP. Non-GAAP financial information generally excludes acquisition-related expenses including amortization of acquired intangible assets and other items that are considered unusual or not representative of underlying trends of GILEAD SCIENCES, INC.\u2019s business, fair value adjustments of equity securities and discrete and related tax charges or benefits associated with such exclusions as well as changes in tax-related laws and guidelines, transfers of intangible assets between certain legal entities, and legal entity restructurings. Although GILEAD SCIENCES, INC. consistently excludes the amortization of acquired intangible assets from the non-GAAP financial information, management believes that it is important for investors to understand that such intangible assets were recorded as part of acquisitions and contribute to ongoing revenue generation. Non-GAAP measures may be defined and calculated differently by other companies in the same industry. Reconciliations of the non-GAAP financial measures to the most directly comparable GAAP financial measures are provided in the accompanying tables.",
+      "token_count": 427
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GILEAD SCIENCES, INC.. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, COVID-19, cancer and inflammation. GILEAD SCIENCES, INC. operates in more than 35 countries worldwide, with headquarters in Foster City, California.",
+      "token_count": 116
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "G ilead owns or has rights to various trademarks, copyrights and trade names used in its business, including the following: GILEAD SCIENCES, INC.\u00ae, GILEAD SCIENCES, INC.\u00ae, KITE\u00ae, AMBISOME\u00ae, ATRIPLA\u00ae, BIKTARVY\u00ae, CAYSTON\u00ae, COMPLERA\u00ae, DESCOVY\u00ae, DESCOVY FOR PREP\u00ae, EMTRIVA\u00ae, EPCLUSA\u00ae, EVIPLERA\u00ae, GENVOYA\u00ae, HARVONI\u00ae, HEPCLUDEX\u00ae, HEPSERA\u00ae, JYSELECA\u00ae, LIVDELZI\u00ae/LYVDELZI\u00ae, LETAIRIS\u00ae, ODEFSEY\u00ae, SOVALDI\u00ae, STRIBILD\u00ae, SUNLENCA\u00ae , TECARTUS\u00ae, TRODELVY\u00ae, TRUVADA\u00ae, TRUVADA FOR PREP\u00ae, TYBOST\u00ae, VEKLURY\u00ae, VEMLIDY\u00ae, VIREAD\u00ae, VOSEVI\u00ae, YESCARTA\u00ae, YEZTUGO\u00ae/YEYTUO\u00ae and ZYDELIG\u00ae. Other trademarks and trade names are the property of their respective owners.",
+      "token_count": 154
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For more information on GILEAD SCIENCES, INC.., please visit www.GILEAD SCIENCES, INC..com or call the GILEAD SCIENCES, INC. Public Affairs Department at 1-800-GILEAD SCIENCES, INC.-5 (1-800-445-3235).",
+      "token_count": 40
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CONTACTS: Investors: Jacquie Ross, CFA investor_relations@GILEAD SCIENCES, INC..com Media: Ashleigh Koss public_affairs@GILEAD SCIENCES, INC..com",
+      "token_count": 31
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions, except per share amounts) 2025 2024 2025 2024 Revenues: Product sales $ 7,903 $ 7,536 $ 28,915 $ 28,610 Royalty, contract and other revenues 22 33 527 144 Total revenues 7,925 7,569 29,443 28,754 Costs and expenses: Cost of goods sold 1,623 1,581 6,234 6,251 Research and development expenses 1,584 1,641 5,799 5,907 Acquired in-process research and development expenses 539 (11) 1,024 4,663 In-process research and development impairments 400 \u2014 590 4,180 Selling, general and administrative expenses 1,794 1,906 5,774 6,091 Total costs and expenses 5,940 5,118 19,421 27,092 Operating income 1,984 2,451 10,022 1,662 Interest expense 255 248 1,024 977 Other (income) expense, net (349) 35 (798) (6) Income before income taxes 2,078 2,168 9,796 690 Income tax (benefit) expense (105) 385 1,286 211 Net income 2,183 1,783 8,510 480 Net income attributable to noncontrolling interest \u2014 \u2014 \u2014 \u2014 Net income attributable to GILEAD SCIENCES, INC. $ 2,183 $ 1,783 $ 8,510 $ 480 Basic earnings per share attributable to GILEAD SCIENCES, INC. $ 1.76 $ 1.43 $ 6.84 $ 0.38 Diluted earnings per share attributable to GILEAD SCIENCES, INC. $ 1.74 $ 1.42 $ 6.78 $ 0.38 Shares used in basic earnings per share attributable to GILEAD SCIENCES, INC. calculation 1,242 1,248 1,244 1,247 Shares used in diluted earnings per share attributable to GILEAD SCIENCES, INC. calculation 1,253 1,259 1,255 1,255 Supplemental Information: Cash dividends declared per share $ 0.79 $ 0.77 $ 3.16 $ 3.08 Product gross margin 79.5 % 79.0 % 78.4 % 78.2 % Research and development expenses as a % of revenues 20.0 % 21.7 % 19.7 % 20.5 % Selling, general and administrative expenses as a % of revenues 22.6 % 25.2 % 19.6 % 21.2 % Operating margin 25.0 % 32.4 % 34.0 % 5.8 % Effective tax rate (5.0) % 17.8 % 13.1 % 30.5 %",
+      "token_count": 452
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions, except percentages) 2025 2024 Change 2025 2024 Change Product sales: HIV $ 5,801 $ 5,452 6% $ 20,752 $ 19,612 6% Liver Disease 844 719 17% 3,217 3,021 6% Oncology 842 843 \u2014% 3,236 3,289 (2)% Other 205 184 11% 799 889 (10)% Total product sales excluding Veklury 7,691 7,198 7% 28,004 26,811 4% Veklury 212 337 (37)% 911 1,799 (49)% Total product sales 7,903 7,536 5% 28,915 28,610 1% Royalty, contract and other revenues 22 33 (35)% 527 144 NM Total revenues $ 7,925 $ 7,569 5% $ 29,443 $ 28,754 2%",
+      "token_count": 144
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions, except percentages) 2025 2024 Change 2025 2024 Change Non-GAAP: Cost of goods sold $ 1,044 $ 1,002 4% $ 3,919 $ 3,936 \u2014% Research and development expenses $ 1,565 $ 1,612 (3)% $ 5,687 $ 5,732 (1)% Acquired IPR&D expenses $ 539 $ (11) NM $ 1,024 $ 4,663 (78)% Selling, general and administrative expenses $ 1,688 $ 1,852 (9)% $ 5,619 $ 5,903 (5)% Other (income) expense, net $ (97) $ (91) 7% $ (348) $ (279) 24% Diluted earnings per share attributable to GILEAD SCIENCES, INC. $ 1.86 $ 1.90 (2)% $ 8.15 $ 4.62 77% Shares used in non-GAAP diluted earnings per share attributable to GILEAD SCIENCES, INC. calculation 1,253 1,259 \u2014% 1,255 1,255 \u2014% Product gross margin 86.8 % 86.7 % 9 bps 86.4 % 86.2 % 20 bps Research and development expenses as a % of revenues 19.7 % 21.3 % -155 bps 19.3 % 19.9 % -62 bps Selling, general and administrative expenses as a % of revenues 21.3 % 24.5 % -317 bps 19.1 % 20.5 % -144 bps Operating margin 39.0 % 41.1 % -217 bps 44.8 % 29.6 % NM Effective tax rate 20.5 % 19.2 % 135 bps 18.3 % 25.9 % -765 bps",
+      "token_count": 273
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Refer to Non-GAAP Financial Information section above for further disclosures on non-GAAP financial measures. A reconciliation between GAAP and non-GAAP financial information is provided in the tables below.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions, except percentages and per share amounts) 2025 2024 2025 2024 Cost of goods sold reconciliation: GAAP cost of goods sold $ 1,623 $ 1,581 $ 6,234 $ 6,251 Acquisition-related \u2013 amortization (1) (576) (579) (2,310) (2,316) Restructuring (4) \u2014 (4) \u2014 Non-GAAP cost of goods sold $ 1,044 $ 1,002 $ 3,919 $ 3,936 Product gross margin reconciliation: GAAP product gross margin 79.5 % 79.0 % 78.4 % 78.2 % Acquisition-related \u2013 amortization (1) 7.3 % 7.7 % 8.0 % 8.1 % Restructuring \u2014 % \u2014 % \u2014 % \u2014 % Non-GAAP product gross margin 86.8 % 86.7 % 86.4 % 86.2 % Research and development expenses reconciliation: GAAP research and development expenses $ 1,584 $ 1,641 $ 5,799 $ 5,907 Acquisition-related \u2013 other costs (2) (3) \u2014 (43) (78) Restructuring (16) (30) (69) (98) Non-GAAP research and development expenses $ 1,565 $ 1,612 $ 5,687 $ 5,732 IPR&D impairment reconciliation: GAAP IPR&D impairment $ 400 $ \u2014 $ 590 $ 4,180 IPR&D impairment (400) \u2014 (590) (4,180) Non-GAAP IPR&D impairment $ \u2014 $ \u2014 $ \u2014 $ \u2014 Selling, general and administrative expenses reconciliation: GAAP selling, general and administrative expenses $ 1,794 $ 1,906 $ 5,774 $ 6,091 Acquisition-related \u2013 other costs (2) \u2014 (8) \u2014 (97) Restructuring (17) (46) (65) (91) Other (3) (89) \u2014 (89) \u2014 Non-GAAP selling, general and administrative expenses $ 1,688 $ 1,852 $ 5,619 $ 5,903 Operating income reconciliation: GAAP operating income $ 1,984 $ 2,451 $ 10,022 $ 1,662 Acquisition-related \u2013 amortization (1) 576 579 2,310 2,316 Acquisition-related \u2013 other costs (2) 3 8 43 174 Restructuring 37 76 138 188 IPR&D impairment 400 \u2014 590 4,180 Other (3) 89 \u2014 89 \u2014 Non-GAAP operating income $ 3,089 $ 3,114 $ 13,193 $ 8,520 Operating margin reconciliation: GAAP operating margin 25.0 % 32.4 % 34.0 % 5.8 % Acquisition-related \u2013 amortization (1) 7.3 % 7.6 % 7.8 % 8.1 % Acquisition-related \u2013 other costs (2) \u2014 % 0.1 % 0.1 % 0.6 % Restructuring 0.5 % 1.0 % 0.5 % 0.7 % IPR&D impairment 5.0 % \u2014 % 2.0 % 14.5 % Other (3) 1.1 % \u2014 % 0.3 % \u2014 % Non-GAAP operating margin 39.0 % 41.1 % 44.8 % 29.6 % Other (income) expense, net reconciliation: GAAP other (income) expense, net $ (349) $ 35 $ (798) $ (6) Gain (loss) from equity securities, net 252 (126) 451 (274) Non-GAAP other (income) expense, net $ (97) $ (91) $ (348) $ (279)",
+      "token_count": 586
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL INFORMATION - (Continued)",
+      "token_count": 18
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions, except percentages and per share amounts) 2025 2024 2025 2024 Income before income taxes reconciliation: GAAP income before income taxes $ 2,078 $ 2,168 $ 9,796 $ 690 Acquisition-related \u2013 amortization (1) 576 579 2,310 2,316 Acquisition-related \u2013 other costs (2) 3 8 43 174 Restructuring 37 76 138 188 IPR&D impairment 400 \u2014 590 4,180 (Gain) loss from equity securities, net (252) 126 (451) 274 Other (3) 89 \u2014 89 \u2014 Non-GAAP income before income taxes $ 2,930 $ 2,956 $ 12,517 $ 7,822 Income tax (benefit) expense reconciliation: GAAP income tax (benefit) expense $ (105) $ 385 $ 1,286 $ 211 Income tax effect of non-GAAP adjustments: Acquisition-related \u2013 amortization (1) 118 121 478 484 Acquisition-related \u2013 other costs (2) \u2014 2 \u2014 41 Restructuring 7 16 25 37 IPR&D impairment 87 \u2014 137 1,051 Loss (gain) from equity securities, net 14 13 (20) (39) Discrete and related tax charges (4) 454 29 353 243 Other (3) 27 \u2014 27 \u2014 Non-GAAP income tax expense $ 601 $ 566 $ 2,287 $ 2,028 Effective tax rate reconciliation: GAAP effective tax rate (5.0) % 17.8 % 13.1 % 30.5 % Income tax effect of above non-GAAP adjustments and discrete and related tax adjustments (4) 25.6 % 1.4 % 5.1 % (4.6) % Non-GAAP effective tax rate 20.5 % 19.2 % 18.3 % 25.9 % Net income attributable to GILEAD SCIENCES, INC. reconciliation: GAAP net income attributable to GILEAD SCIENCES, INC. $ 2,183 $ 1,783 $ 8,510 $ 480 Acquisition-related \u2013 amortization (1) 458 458 1,832 1,832 Acquisition-related \u2013 other costs (2) 3 6 43 134 Restructuring 30 59 113 151 IPR&D impairment 313 \u2014 453 3,129 (Gain) loss from equity securities, net (266) 113 (431) 313 Discrete and related tax charges (4) (454) (29) (353) (243) Other (3) 63 \u2014 63 \u2014 Non-GAAP net income attributable to GILEAD SCIENCES, INC. $ 2,329 $ 2,390 $ 10,230 $ 5,795 Diluted earnings per share reconciliation: GAAP diluted earnings per share $ 1.74 $ 1.42 $ 6.78 $ 0.38 Acquisition-related \u2013 amortization (1) 0.37 0.36 1.46 1.46 Acquisition-related \u2013 other costs (2) \u2014 \u2014 0.03 0.11 Restructuring 0.02 0.05 0.09 0.12 IPR&D impairment 0.25 \u2014 0.36 2.49 (Gain) loss from equity securities, net (0.21) 0.09 (0.34) 0.25 Discrete and related tax charges (4) (0.36) (0.02) (0.28) (0.19) Other (3) 0.05 \u2014 0.05 \u2014 Non-GAAP diluted earnings per share $ 1.86 $ 1.90 $ 8.15 $ 4.62",
+      "token_count": 584
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions, except percentages and per share amounts) 2025 2024 2025 2024 Non-GAAP adjustment summary: Cost of goods sold adjustments $ 579 $ 579 $ 2,314 $ 2,315 Research and development expenses adjustments 19 29 112 176 IPR&D impairment adjustments 400 \u2014 590 4,180 Selling, general and administrative expenses adjustments 106 54 155 188 Total non-GAAP adjustments to costs and expenses 1,104 663 3,171 6,858 Other (income) expense, net, adjustments (252) 126 (451) 274 Total non-GAAP adjustments before income taxes 852 789 2,720 7,132 Income tax effect of non-GAAP adjustments above (252) (152) (647) (1,574) Discrete and related tax charges (4) (454) (29) (353) (243) Total non-GAAP adjustments to net income attributable to GILEAD SCIENCES, INC. $ 146 $ 607 $ 1,719 $ 5,315 ________________________________",
+      "token_count": 217
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Relates to amortization of acquired intangibles.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(2) Adjustments include integration expenses and contingent consideration fair value adjustments associated with GILEAD SCIENCES, INC.\u2019s recent acquisitions.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) Adjustments include donations of equity securities to the GILEAD SCIENCES, INC. Foundation, a California nonprofit organization, during the fourth quarter of 2025.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(4) Represents discrete and related deferred tax charges or benefits primarily associated with acquired intangible assets, transfers of intangible assets from a foreign subsidiary to Ireland and the United States, and legal entity restructurings.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Income tax effect of above non-GAAP adjustments, and discrete and related tax adjustments",
+      "token_count": 23
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Acquisition-related and restructuring expenses, and discrete and related tax adjustments",
+      "token_count": 22
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) Our full-year guidance excludes the potential impact of any (i) acquisitions or business development transactions that have not been executed, (ii) future fair value adjustments of equity securities and (iii) discrete tax charges or benefits associated with changes in tax related laws and guidelines that have not been enacted, as GILEAD SCIENCES, INC. is unable to project such amounts. The non-GAAP full-year guidance includes non-GAAP adjustments to actual current period results as well as adjustments for the known future impact associated with events that have already occurred, such as future amortization of our intangible assets and the future impact of discrete and related deferred tax charges or benefits primarily associated with acquired intangible assets and in-process research and development, transfers of intangible assets from a foreign subsidiary to Ireland and the United States, and legal entity restructurings.",
+      "token_count": 232
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "December 31, December 31, (in millions) 2025 2024 Assets Cash, cash equivalents and marketable debt securities $ 10,605 $ 9,991 Accounts receivable, net 4,913 4,420 Inventories (1) 4,368 3,589 Property, plant and equipment, net 5,606 5,414 Intangible assets, net 16,978 19,948 Goodwill 8,314 8,314 Other assets 8,239 7,319 Total assets $ 59,023 $ 58,995 Liabilities and Stockholders\u2019 Equity Current liabilities $ 11,813 $ 12,004 Long-term liabilities 24,592 27,744 Stockholders\u2019 equity (2) 22,618 19,246 Total liabilities and stockholders\u2019 equity $ 59,023 $ 58,995",
+      "token_count": 141
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Includes current and long-term inventories, which are disclosed separately in the notes to our financial statements in Form 10-K and Form 10-Q.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) As of December 31, 2025 and December 31, 2024, there were 1,241 and 1,246 shares of common stock issued and outstanding , respectively .",
+      "token_count": 35
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions) 2025 2024 2025 2024 Net cash provided by operating activities $ 3,326 $ 2,975 $ 10,019 $ 10,828 Net cash used in investing activities (1,835) (225) (4,793) (3,449) Net cash (used in) provided by financing activities (1,263) 2,260 (7,745) (3,433) Effect of exchange rate changes on cash and cash equivalents 5 (55) 92 (40) Net change in cash and cash equivalents 233 4,954 (2,428) 3,906 Cash and cash equivalents at beginning of period 7,330 5,037 9,991 6,085 Cash and cash equivalents at end of period $ 7,564 $ 9,991 $ 7,564 $ 9,991",
+      "token_count": 153
+    },
+    {
+      "source_id": "S086",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions) 2025 2024 2025 2024 Net cash provided by operating activities $ 3,326 $ 2,975 $ 10,019 $ 10,828 Purchases of property, plant and equipment (205) (147) (563) (523) Free cash flow (1) $ 3,121 $ 2,828 $ 9,456 $ 10,305",
+      "token_count": 74
+    },
+    {
+      "source_id": "S087",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "(1) Free cash flow is a non-GAAP liquidity measure. Please refer to our disclosures in the Non-GAAP Financial Information section above.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S088",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions) 2025 2024 2025 2024 HIV Biktarvy \u2013 U.S. $ 3,255 $ 3,129 $ 11,467 $ 10,855 Biktarvy \u2013 Europe 446 400 1,676 1,509 Biktarvy \u2013 Rest of World 268 246 1,190 1,060 3,968 3,774 14,334 13,423 Descovy \u2013 U.S. 768 563 2,559 1,902 Descovy \u2013 Europe 26 25 93 100 Descovy \u2013 Rest of World 25 28 105 110 819 616 2,758 2,113 Genvoya \u2013 U.S. 331 410 1,281 1,498 Genvoya \u2013 Europe 34 42 148 180 Genvoya \u2013 Rest of World 15 18 69 84 380 470 1,498 1,762 Odefsey \u2013 U.S. 238 252 881 957 Odefsey \u2013 Europe 62 74 246 290 Odefsey \u2013 Rest of World 10 11 40 41 310 336 1,167 1,288 Symtuza - Revenue share (1) \u2013 U.S. 98 112 363 450 Symtuza - Revenue share (1) \u2013 Europe 32 30 120 130 Symtuza - Revenue share (1) \u2013 Rest of World 3 3 12 12 134 144 495 592 Other HIV (2) \u2013 U.S. 154 67 352 257 Other HIV (2) \u2013 Europe 24 33 109 129 Other HIV (2) \u2013 Rest of World 12 11 40 48 190 111 500 434 Total HIV \u2013 U.S. 4,845 4,532 16,904 15,918 Total HIV \u2013 Europe 624 603 2,392 2,339 Total HIV \u2013 Rest of World 332 317 1,456 1,355 5,801 5,452 20,752 19,612 Liver Disease Sofosbuvir / Velpatasvir (3) \u2013 U.S. 140 185 636 922 Sofosbuvir / Velpatasvir (3) \u2013 Europe 66 69 292 299 Sofosbuvir / Velpatasvir (3) \u2013 Rest of World 71 75 344 374 276 330 1,272 1,596 Vemlidy \u2013 U.S. 149 148 507 486 Vemlidy \u2013 Europe 12 11 49 44 Vemlidy \u2013 Rest of World 125 100 514 428 287 260 1,070 959 Other Liver Disease (4) \u2013 U.S. 168 58 476 192 Other Liver Disease (4) \u2013 Europe 96 54 330 202 Other Liver Disease (4) \u2013 Rest of World 16 18 69 73 281 130 874 467 Total Liver Disease \u2013 U.S. 457 391 1,619 1,601 Total Liver Disease \u2013 Europe 174 134 671 545 Total Liver Disease \u2013 Rest of World 212 194 927 876 844 719 3,217 3,021 Veklury Veklury \u2013 U.S. 80 108 470 892 Veklury \u2013 Europe 67 80 151 284 Veklury \u2013 Rest of World 65 150 290 623 212 337 911 1,799",
+      "token_count": 462
+    },
+    {
+      "source_id": "S089",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Twelve Months Ended December 31, December 31, (in millions) 2025 2024 2025 2024 Oncology Cell Therapy Tecartus \u2013 U.S. 32 53 153 234 Tecartus \u2013 Europe 51 36 158 138 Tecartus \u2013 Rest of World 7 10 32 31 90 98 344 403 Yescarta \u2013 U.S. 151 161 595 662 Yescarta \u2013 Europe 143 156 598 666 Yescarta \u2013 Rest of World 74 72 303 242 368 390 1,495 1,570 Total Cell Therapy \u2013 U.S. 183 213 748 896 Total Cell Therapy \u2013 Europe 193 193 755 804 Total Cell Therapy \u2013 Rest of World 82 82 335 274 458 488 1,839 1,973 Trodelvy Trodelvy \u2013 U.S. 251 247 877 902 Trodelvy \u2013 Europe 88 77 347 294 Trodelvy \u2013 Rest of World 45 31 173 119 384 355 1,397 1,315 Total Oncology \u2013 U.S. 434 461 1,626 1,798 Total Oncology \u2013 Europe 281 269 1,102 1,098 Total Oncology \u2013 Rest of World 127 113 508 393 842 843 3,236 3,289 Other AmBisome \u2013 U.S. 5 7 20 44 AmBisome \u2013 Europe 66 66 267 276 AmBisome \u2013 Rest of World 47 36 221 212 118 109 509 533 Other (5) \u2013 U.S. 52 51 177 255 Other (5) \u2013 Europe 9 8 32 34 Other (5) \u2013 Rest of World 26 16 81 68 87 76 290 356 Total Other \u2013 U.S. 57 59 197 299 Total Other \u2013 Europe 75 74 300 310 Total Other \u2013 Rest of World 72 52 302 280 205 184 799 889 Total product sales \u2013 U.S. 5,873 5,550 20,816 20,508 Total product sales \u2013 Europe 1,221 1,160 4,617 4,576 Total product sales \u2013 Rest of World 808 826 3,483 3,526 $ 7,903 $ 7,536 $ 28,915 $ 28,610",
+      "token_count": 338
+    },
+    {
+      "source_id": "S090",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Represents GILEAD SCIENCES, INC.\u2019s revenue from cobicistat (\u201cC\u201d), FTC and TAF in Symtuza (darunavir/C/FTC/TAF), a fixed dose combination product commercialized by Janssen Sciences Ireland Unlimited Company.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S091",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Includes Atripla, Complera/Eviplera, Emtriva, Stribild, Sunlenca, Truvada, Tybost and Yeztugo/Yeytuo.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S092",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(3) Includes Epclusa and the authorized generic version of Epclusa sold by GILEAD SCIENCES, INC.\u2019s separate subsidiary, Asegua Therapeutics LLC (\u201cAsegua\u201d).",
+      "token_count": 36
+    },
+    {
+      "source_id": "S093",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(4) Includes ledipasvir/sofosbuvir (Harvoni and the authorized generic version of Harvoni sold by Asegua), Hepcludex, Hepsera, Livdelzi/Lyvdelzi, Sovaldi, Viread and Vosevi.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S094",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(5) Includes Cayston, Jyseleca, Letairis and Zydelig.",
+      "token_count": 14
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.061516,
+    "ret_20d": 0.252519,
+    "market_ret_20d": -0.000173
+  },
+  "outcome_blind": true
+}

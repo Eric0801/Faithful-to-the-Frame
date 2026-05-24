@@ -1,0 +1,853 @@
+{
+  "event_id": "evt_0090",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "FLOWSERVE CORP",
+  "ticker": "FLS",
+  "company_alias": "FLOWSERVE CORP",
+  "masked_company": "Company AX",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-05",
+  "accepted_at_et": "2026-02-05T16:06:46-05:00",
+  "source_packet_path": "source_packets/evt_0090.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "3D Growth Strategy and FLOWSERVE CORP Business System Deliver Strong Q4 and Full Year Results;",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "3D Growth Strategy and FLOWSERVE CORP Business System Deliver Strong Q4 and Full Year Results;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "DALLAS, 2026-02-05T16:06:46-05:00 \u2013 FLOWSERVE CORP Corporation (NYSE:FLS), a leading provider of flow control products and services for the global infrastructure markets, reported its financial results for the fourth quarter and full year ended December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "DALLAS, 2026-02-05T16:06:46-05:00 \u2013 FLOWSERVE CORP Corporation (NYSE:FLS), a leading provider of flow control products and services for the global infrastructure markets, reported its financial results for the fourth quarter and full year ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Fourth quarter bookings of $1.2 billion, including 10% aftermarket growth to over $680 million",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Fourth quarter bookings of $1.2 billion, including 10% aftermarket growth to over $680 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "margins",
+      "claim": "Fourth quarter operating margin of 3.5%, including one-time impact from asbestos divestiture, and adjusted 1 operating margin 2 of 16.8%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Fourth quarter operating margin of 3.5%, including one-time impact from asbestos divestiture, and adjusted 1 operating margin 2 of 16.8%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "Fourth quarter reported and adjusted earnings per share (EPS) 3 of ($0.23) and $1.11, respectively.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Fourth quarter reported and adjusted earnings per share (EPS) 3 of ($0.23) and $1.11, respectively. Reported EPS includes adjusted net expense items of $1.34, comprised of the one-time impact from asbestos divestiture, among other items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "Full year bookings of $4.7 billion, including approximately $400 million in nuclear awards",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Full year bookings of $4.7 billion, including approximately $400 million in nuclear awards",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "Full year cash from operations of $506 million driven by strong earnings and working capital management, with $365 million of cash returned to shareholders through dividends and share repurchases",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Full year cash from operations of $506 million driven by strong earnings and working capital management, with $365 million of cash returned to shareholders through dividends and share repurchases",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "Announced acquisition of Trillium Flow Technologies\u2019 Valves Division 4",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Announced acquisition of Trillium Flow Technologies\u2019 Valves Division 4",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "Initiated full year 2026 guidance 3 , including total sales growth of 5% to 7% and adjusted EPS of $4.00 to $4.20, which at the midpoint, represents a 13% increase versus full year 2025 adjusted EPS 3",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Initiated full year 2026 guidance 3 , including total sales growth of 5% to 7% and adjusted EPS of $4.00 to $4.20, which at the midpoint, represents a 13% increase versus full year 2025 adjusted EPS 3",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "Established 2030 financial targets including mid-single digit organic sales CAGR, ~20% adjusted operating margin, and double digit adjusted EPS CAGR",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Established 2030 financial targets including mid-single digit organic sales CAGR, ~20% adjusted operating margin, and double digit adjusted EPS CAGR",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "margins",
+      "claim": "\u201cWe delivered outstanding financial results in the fourth quarter and for the full year 2025,\u201d said Scott Rowe, FLOWSERVE CORP\u2019s President and Chief Executive Officer.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u201cWe delivered outstanding financial results in the fourth quarter and for the full year 2025,\u201d said Scott Rowe, FLOWSERVE CORP\u2019s President and Chief Executive Officer. \u201cI am incredibly proud of our global team\u2019s dedication and strong execution of the FLOWSERVE CORP Business Sy...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "Rowe continued, \u201cWith healthy end markets, a focus on expanding power generation opportunities, and the continued progress of the FLOWSERVE CORP Business System, we are confident in our 2026 guidance and updated long-term financial targets.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Rowe continued, \u201cWith healthy end markets, a focus on expanding power generation opportunities, and the continued progress of the FLOWSERVE CORP Business System, we are confident in our 2026 guidance and updated long-term financial targets. We have significant operational mome...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "In a separate press release issued today, the Company also announced it had signed a definitive agreement to acquire Trillium Flow Technologies\u2019 Valves Division, a market leading provider of highly engineered mission-critical valves and actuators used in nuclear, traditional power, industrial, and critical infrastructure applications.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "In a separate press release issued today, the Company also announced it had signed a definitive agreement to acquire Trillium Flow Technologies\u2019 Valves Division, a market leading provider of highly engineered mission-critical valves and actuators used in nuclear, traditional p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "Full-year 2026 guidance assumes the acquisition of Trillium Flow Technologies\u2019 Valves Division closes mid-year 2026 and, including incremental interest expense related to financing the acquisition, the acquisition will be roughly neutral to 2026 adjusted EPS.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Full-year 2026 guidance assumes the acquisition of Trillium Flow Technologies\u2019 Valves Division closes mid-year 2026 and, including incremental interest expense related to financing the acquisition, the acquisition will be roughly neutral to 2026 adjusted EPS. The guidance also...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "margins",
+      "claim": "Adjusted Operating Margin (by 2030)",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Adjusted Operating Margin (by 2030)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "See Consolidated Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (unaudited) and Segment Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (unaudited) tables for a detailed reconciliation of reported results to adjusted measures.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "See Consolidated Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (unaudited) and Segment Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (unaudited) tables for a detailed...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Adjusted operating margin is calculated by dividing adjusted operating income by sales.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Adjusted operating margin is calculated by dividing adjusted operating income by sales. Adjusted operating income is derived by excluding the adjusted items.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted EPS excludes realignment expenses, the impact from other specific discrete and below-the-line foreign currency effects and utilizes the then-applicable FX rates and fully diluted shares.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Adjusted EPS excludes realignment expenses, the impact from other specific discrete and below-the-line foreign currency effects and utilizes the then-applicable FX rates and fully diluted shares. Adjusted 2026 EPS excludes certain other discrete items which may arise during th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "Transaction excludes Trillium Valves\u2019 French operations.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Transaction excludes Trillium Valves\u2019 French operations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Organic is defined as the change in Sales, as defined by U.S.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Organic is defined as the change in Sales, as defined by U.S. GAAP, excluding the impacts of currency translation and acquisitions. The impact of currency translation is calculated by translating current year results on a monthly basis at prior year exchange rates for the same...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash from Operations for the fourth quarter 2025 includes a ($199) million one-time impact from legacy asbestos liabilities divestiture.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Cash from Operations for the fourth quarter 2025 includes a ($199) million one-time impact from legacy asbestos liabilities divestiture. Cash from Operations for the full year 2025 includes the impact of a $173 million one-time merger termination fee paid to FLOWSERVE CORP (ne...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "Less: Net earnings attributable to noncontrolling interests",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Less: Net earnings attributable to noncontrolling interests",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "Consolidated Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Consolidated Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "earnings_or_eps",
+      "claim": "Loss on Divestiture of Asbestos- Related Assets and Liabilities",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Loss on Divestiture of Asbestos- Related Assets and Liabilities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "Purchase accounting step-up and intangible asset amortization (d)",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Purchase accounting step-up and intangible asset amortization (d)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "earnings_or_eps",
+      "claim": "Note: Amounts may not calculate due to rounding",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Note: Amounts may not calculate due to rounding",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "Charges represent realignment costs incurred as a result of realignment programs, net of a $6,888 gain associated with the divestiture of a pump product line.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Charges represent realignment costs incurred as a result of realignment programs, net of a $6,888 gain associated with the divestiture of a pump product line.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents $3,315 of acquisition and integration related costs associated with the MOGAS acquisition.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Charge represents $3,315 of acquisition and integration related costs associated with the MOGAS acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents $1,740 of costs associated with merger and acquisition activity.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Charge represents $1,740 of costs associated with merger and acquisition activity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents amortization of acquisition related intangible assets associated with the MOGAS acquisition.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Charge represents amortization of acquisition related intangible assets associated with the MOGAS acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents non-cash share-based compensation expense associated with a one-time discretionary restricted stock grant, subject to three-year cliff vesting, provided to certain employees in conjunction with the freeze of our US Qualified pension plan.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Charge represents non-cash share-based compensation expense associated with a one-time discretionary restricted stock grant, subject to three-year cliff vesting, provided to certain employees in conjunction with the freeze of our US Qualified pension plan.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "Charge includes $641 for a non-cash pension settlement accounting loss incurred in conjunction with the freeze of our US Qualified pension plan and $7,923 for a non-cash pension settlement accounting loss incurred in conjunction with a United Kingdom based pension plan.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Charge includes $641 for a non-cash pension settlement accounting loss incurred in conjunction with the freeze of our US Qualified pension plan and $7,923 for a non-cash pension settlement accounting loss incurred in conjunction with a United Kingdom based pension plan.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents the one-time loss associated with the divestiture of our asbestos-related assets and liabilities including $199,000 of cash funded to the divested entity and $8,335 of transaction costs incurred.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Charge represents the one-time loss associated with the divestiture of our asbestos-related assets and liabilities including $199,000 of cash funded to the divested entity and $8,335 of transaction costs incurred.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "earnings_or_eps",
+      "claim": "Below-the-line foreign exchange impacts represent the remeasurement of foreign exchange derivative contracts as well as the remeasurement of assets and liabilities that are denominated in a currency other than a site\u2019s respective functional currency.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Below-the-line foreign exchange impacts represent the remeasurement of foreign exchange derivative contracts as well as the remeasurement of assets and liabilities that are denominated in a currency other than a site\u2019s respective functional currency.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "Purchase accounting step-up and intangible asset amortization (c)",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Purchase accounting step-up and intangible asset amortization (c)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "Charges represent realignment costs incurred as a result of realignment programs of which $8,600 is non-cash.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Charges represent realignment costs incurred as a result of realignment programs of which $8,600 is non-cash.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents acquisition and integration related costs associated with the MOGAS acquisition.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Charge represents acquisition and integration related costs associated with the MOGAS acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "earnings_or_eps",
+      "claim": "Charge represents amortization of step-up in value of acquired inventories and acquisition related intangible assets associated with the MOGAS acquisition.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Charge represents amortization of step-up in value of acquired inventories and acquisition related intangible assets associated with the MOGAS acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Segment Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (Unaudited)",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Segment Reconciliation of Non-GAAP Financial Measures to the Most Directly Comparable GAAP Financial Measure (Unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "Purchase accounting step-up and intangible asset amortization (e)",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Purchase accounting step-up and intangible asset amortization (e)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "Charge represents costs associated with merger and acquisition activity.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Charge represents costs associated with merger and acquisition activity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "other",
+      "claim": "Charge represents acquisition and integration-related costs associated with the MOGAS acquisition.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Charge represents acquisition and integration-related costs associated with the MOGAS acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charges represent realignment costs incurred as a result of realignment programs of which $5,300 is non-cash and net of a $6,888 gain associated with the divestiture of a pump product line.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Charges represent realignment costs incurred as a result of realignment programs of which $5,300 is non-cash and net of a $6,888 gain associated with the divestiture of a pump product line.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "other",
+      "claim": "Charge represents $12,790 of acquisition and integration related costs associated with the MOGAS acquisition.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Charge represents $12,790 of acquisition and integration related costs associated with the MOGAS acquisition.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charge includes $5,141 for a non-cash pension settlement accounting loss incurred in conjunction with the freeze of our US Qualified pension plan and $7,923 for a non-cash pension settlement accounting loss incurred in conjunction with a United Kingdom based pension plan.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Charge includes $5,141 for a non-cash pension settlement accounting loss incurred in conjunction with the freeze of our US Qualified pension plan and $7,923 for a non-cash pension settlement accounting loss incurred in conjunction with a United Kingdom based pension plan.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charge of $30,100 represents the Q3 2025 non-cash adjustment to our estimated liability for incurred by not reported asbestos claims based on an annual actuarial study.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Charge of $30,100 represents the Q3 2025 non-cash adjustment to our estimated liability for incurred by not reported asbestos claims based on an annual actuarial study.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "Charge represents transaction costs incurred associated with the terminated Chart Industries merger.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Charge represents transaction costs incurred associated with the terminated Chart Industries merger.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "other",
+      "claim": "Amount represents the Chart Industries merger termination fee paid to FLOWSERVE CORP.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Amount represents the Chart Industries merger termination fee paid to FLOWSERVE CORP.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "Amount represents a one-time tax charge related to enactment of the One Big Beautiful Bill Act during Q3 2025.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Amount represents a one-time tax charge related to enactment of the One Big Beautiful Bill Act during Q3 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "Purchase accounting step-up and intangible asset amortization (h)",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Purchase accounting step-up and intangible asset amortization (h)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charges represent realignment costs incurred as a result of realignment programs of which $33,700 is non-cash.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Charges represent realignment costs incurred as a result of realignment programs of which $33,700 is non-cash.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "Charge represents a reduction to reserves of $2,000 associated with our ongoing financial exposure in Russia that were adjusted for Non-GAAP measures when established in 2022.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Charge represents a reduction to reserves of $2,000 associated with our ongoing financial exposure in Russia that were adjusted for Non-GAAP measures when established in 2022.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charge represents a one-time $5,000 discretionary cash transition benefit provided to certain employees in conjunction with the freeze of our US Qualified pension plan.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Charge represents a one-time $5,000 discretionary cash transition benefit provided to certain employees in conjunction with the freeze of our US Qualified pension plan.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "Charge represents the $7,200 strategic acquisition of intellectual property related to certain liquefied natural gas technology.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Charge represents the $7,200 strategic acquisition of intellectual property related to certain liquefied natural gas technology.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charge represents a $1,795 non-cash write-down of a software asset.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Charge represents a $1,795 non-cash write-down of a software asset.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charge represents a $3,567 non-cash write-down of a debt investment.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Charge represents a $3,567 non-cash write-down of a debt investment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "Purchase accounting step-up and intangible asset amortization (f)",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Purchase accounting step-up and intangible asset amortization (f)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "balance_sheet_or_cash",
+      "claim": "Charge represents a one-time $3,700 discretionary cash transition benefit provided to certain employees in conjunction with the freeze of our US Qualified pension plan.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Charge represents a one-time $3,700 discretionary cash transition benefit provided to certain employees in conjunction with the freeze of our US Qualified pension plan.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "(dollars in millions, comparison vs.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(dollars in millions, comparison vs. 2024 fourth quarter and full year, unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "margins",
+      "claim": "Adjusted Operating Income and Adjusted Operating Margin exclude realignment charges and other specific discrete items",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Adjusted Operating Income and Adjusted Operating Margin exclude realignment charges and other specific discrete items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "guidance",
+      "claim": "Accounts receivable, net of allowance for expected credit losses of $83,094 and $79,059, respectively",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Accounts receivable, net of allowance for expected credit losses of $83,094 and $79,059, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "Shares authorized \u2013 1,000, no shares issued",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Shares authorized \u2013 1,000, no shares issued",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "Shares issued \u2013 176,793 and 176,793, respectively",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Shares issued \u2013 176,793 and 176,793, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "Treasury shares, at cost \u2013 49,763 and 45,688 shares, respectively",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "Treasury shares, at cost \u2013 49,763 and 45,688 shares, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "balance_sheet_or_cash",
+      "claim": "Adjustments to reconcile net earnings to net cash provided by operating activities",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Adjustments to reconcile net earnings to net cash provided by operating activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "balance_sheet_or_cash",
+      "claim": "Foreign currency, asset write downs and other non-cash adjustments",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Foreign currency, asset write downs and other non-cash adjustments",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net cash flows provided (used) provided by financing activities",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Net cash flows provided (used) provided by financing activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "balance_sheet_or_cash",
+      "claim": "Contingent liabilities incurred related to acquired business, but not paid",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Contingent liabilities incurred related to acquired business, but not paid",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "other",
+      "claim": "FLOWSERVE CORP Corporation is one of the world\u2019s leading providers of fluid motion and control products and services.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "FLOWSERVE CORP Corporation is one of the world\u2019s leading providers of fluid motion and control products and services. Operating in more than 50 countries, the Company produces engineered and industrial pumps, seals and valves as well as a range of related flow management servi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "Media Contact: media@FLOWSERVE CORP.com",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "Media Contact: media@FLOWSERVE CORP.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "The Company reports its financial results in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "The Company reports its financial results in accordance with U.S. generally accepted accounting principles (GAAP). However, management believes that non-GAAP financial measures which exclude certain non-recurring items present additional useful comparisons between current resu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.004324, ret_20d=0.099541, market_ret_20d=-0.017344",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.004324, ret_20d=0.099541, market_ret_20d=-0.017344",
+      "support_label": "supported"
+    }
+  ]
+}

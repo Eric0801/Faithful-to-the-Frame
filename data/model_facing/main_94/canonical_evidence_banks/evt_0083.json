@@ -1,0 +1,567 @@
+{
+  "event_id": "evt_0083",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "NEXSTAR MEDIA GROUP, INC.",
+  "ticker": "NXST",
+  "company_alias": "NEXSTAR MEDIA GROUP, INC.",
+  "masked_company": "Company J",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-26",
+  "accepted_at_et": "2026-02-26T07:08:53-05:00",
+  "source_packet_path": "source_packets/evt_0083.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "Reduced 2025 Year-over-Year Losses at The CW by 32% Exceeding Financial Expectations",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Reduced 2025 Year-over-Year Losses at The CW by 32% Exceeding Financial Expectations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "Provides 2026 Standalone Adjusted EBITDA Guidance in a Range of $1.95 Billion to $2.05 Billion",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Provides 2026 Standalone Adjusted EBITDA Guidance in a Range of $1.95 Billion to $2.05 Billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "\u201cNEXSTAR MEDIA GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u201cNEXSTAR MEDIA GROUP, INC. delivered another quarter and year of solid financial results, while taking bold steps to better compete with big tech and big media by reinforcing our position as the nation\u2019s leading local broadcasting company through our proposed acquisition of TE...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "Net (Loss) Income margin is Net (Loss) Income as a percentage of Net Revenue.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Net (Loss) Income margin is Net (Loss) Income as a percentage of Net Revenue. Adjusted EBITDA margin is Adjusted EBITDA as a percentage of Net Revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "Please refer to the \u201cDefinitions and Disclosures Regarding Non-GAAP Financial Information\u201d section herein, the reconciliations at the end of this press release.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Please refer to the \u201cDefinitions and Disclosures Regarding Non-GAAP Financial Information\u201d section herein, the reconciliations at the end of this press release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "Advanced NEXSTAR MEDIA GROUP, INC.\u2019s proposed accretive acquisition of TEGNA Inc., valued at $6.2 billion, by submitting HSR filings and FCC license transfer applications and responding to inquiries from the DOJ and state Attorney Generals.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Advanced NEXSTAR MEDIA GROUP, INC.\u2019s proposed accretive acquisition of TEGNA Inc., valued at $6.2 billion, by submitting HSR filings and FCC license transfer applications and responding to inquiries from the DOJ and state Attorney Generals. The transaction is anticipated to cl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "Returned $351 million to shareholders, representing 42% of Adjusted Free Cash Flow, repaid $185 million of debt and allocated $22 million to the acquisition of WBNX-TV (now The CW affiliate) serving Cleveland, OH during 2025.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Returned $351 million to shareholders, representing 42% of Adjusted Free Cash Flow, repaid $185 million of debt and allocated $22 million to the acquisition of WBNX-TV (now The CW affiliate) serving Cleveland, OH during 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "Renewed distribution agreements representing more than 60% of our subscriber base.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Renewed distribution agreements representing more than 60% of our subscriber base.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "Extended our affiliation agreement with ABC and MyNetwork to 2027.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Extended our affiliation agreement with ABC and MyNetwork to 2027.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "The CW achieved 19% total audience growth compared to the prior year and ranked as the tenth largest and second fastest growing ad-supported network overall.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "The CW achieved 19% total audience growth compared to the prior year and ranked as the tenth largest and second fastest growing ad-supported network overall. Results were driven by strong performance of the NASCAR Xfinity Series, which had its most-watched season in four years...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "In recognition of exemplary local reporting and programming, during 2025, NEXSTAR MEDIA GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "In recognition of exemplary local reporting and programming, during 2025, NEXSTAR MEDIA GROUP, INC. journalists and technical staff earned 532 awards, including 1 duPont-Columbia award, 1 Walter Cronkite award, 57 national and regional Edward R. Murrow awards, 121 regional Emm...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Net Revenue.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Net Revenue. Fourth quarter net revenue of $1.29 billion, declined $199 million year-over-year, or (13.4%), primarily due to lower political advertising revenue related to the election cycle.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Distribution Revenue .",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Distribution Revenue . Fourth quarter distribution revenue of $720 million, increased $6 million, or 0.8%, versus the comparable prior year quarter, primarily reflecting increased rates, growth in vMVPD subscribers, and the addition of CW affiliations on certain of our station...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Advertising Revenue .",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Advertising Revenue . Fourth quarter advertising revenue of $549 million, decreased $209 million, or (27.6%), from the comparable prior year quarter, primarily reflecting a $233 million decrease in political advertising to $21 million. Non-political advertising increased 4.5%...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Net Loss.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Net Loss. Fourth quarter net loss of ($170) million increased $399 million, or (174.2%), compared to the prior year quarter, primarily due to reduced income from impairment of an equity investment related to the performance of the TV Food Network LLC (\u201cTVFN\u201d) in which the Comp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Adjusted EBITDA. Fourth quarter Adjusted EBITDA of $433 million, decreased $195 million, or (31.1%), compared to the prior year quarter primarily reflecting lower political advertising revenue and reduced income from equity method investments primarily from TVFN versus the pri...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "Net Cash Provided by Operating Activities .",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Net Cash Provided by Operating Activities . Fourth quarter Net Cash Provided by Operating Activities of $190 million, decreased $221 million, or (53.8%), compared to the prior year quarter, due primarily to a reduction in net income and changes in operating assets and liabilit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Adjusted Free Cash Flow .",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Adjusted Free Cash Flow . Fourth quarter Adjusted Free Cash Flow of $214 million, decreased $197 million, or (47.9%), compared to the prior year quarter, due primarily to lower political advertising revenue, capital expenditures associated with a real estate acquisition, and i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "balance_sheet_or_cash",
+      "claim": "In the fourth quarter of 2025, the Company used cash on hand and cash flow from operations to repay $28 million of debt and pay $56 million in dividends.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "In the fourth quarter of 2025, the Company used cash on hand and cash flow from operations to repay $28 million of debt and pay $56 million in dividends.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "balance_sheet_or_cash",
+      "claim": "NEXSTAR MEDIA GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "NEXSTAR MEDIA GROUP, INC. continues its disciplined approach to capital allocation, conserving cash that would otherwise have been used for share repurchases to fund the announced acquisition of TEGNA Inc.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "balance_sheet_or_cash",
+      "claim": "As of December 31, 2025, the consolidated debt of NEXSTAR MEDIA GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "As of December 31, 2025, the consolidated debt of NEXSTAR MEDIA GROUP, INC. and Mission Broadcasting, Inc., an independently owned variable interest entity, was $6.3 billion, including senior secured debt of $3.6 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "The Company calculates its leverage ratios in accordance with the terms of its credit agreements which exclude The CW Network\u2019s operations and the cash balance.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "The Company calculates its leverage ratios in accordance with the terms of its credit agreements which exclude The CW Network\u2019s operations and the cash balance. As of December 31, 2025, The CW Network had $13 million of cash on its balance sheet. In connection with NEXSTAR MED...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "balance_sheet_or_cash",
+      "claim": "As of December 31, 2025, the Company\u2019s first lien net leverage ratio was 1.71x (new definition) compared to a covenant of 4.25x and its total net leverage ratio was 3.09x (new definition).",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "As of December 31, 2025, the Company\u2019s first lien net leverage ratio was 1.71x (new definition) compared to a covenant of 4.25x and its total net leverage ratio was 3.09x (new definition).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "The table below summarizes the Company\u2019s cash balances and debt obligations (net of financing costs, discounts and/or premiums) as of December 31, 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "The table below summarizes the Company\u2019s cash balances and debt obligations (net of financing costs, discounts and/or premiums) as of December 31, 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "5.625% Senior Unsecured Notes due 2027",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "5.625% Senior Unsecured Notes due 2027",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "4.75% Senior Unsecured Notes due 2028",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "4.75% Senior Unsecured Notes due 2028",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "We are providing guidance for NEXSTAR MEDIA GROUP, INC.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "We are providing guidance for NEXSTAR MEDIA GROUP, INC. on a standalone basis for full year 2026 Adjusted EBITDA in a range of $1.95 billion to $2.05 billion. Key factors differing from our current expectations could affect our outlook for Adjusted EBITDA for 2026 either posit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "Definitions and Disclosures Regarding Non-GAAP Financial Information",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Definitions and Disclosures Regarding Non-GAAP Financial Information",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "Adjusted EBITDA is calculated as net income, plus or (minus): transaction, other one-time and restructuring expenses, stock-based compensation expense, depreciation and amortization expense (excluding amortization of broadcast rights), amortization of basis difference of equity method investments, (gain) loss on asset disposal, impairment charges, interest expense, net, pension and other postretirement plans costs (credit), income tax expense (benefit) and other operating and non-operating expense (income).",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Adjusted EBITDA is calculated as net income, plus or (minus): transaction, other one-time and restructuring expenses, stock-based compensation expense, depreciation and amortization expense (excluding amortization of broadcast rights), amortization of basis difference of equit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "Free Cash Flow is calculated as net cash provided by operating activities less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Free Cash Flow is calculated as net cash provided by operating activities less capital expenditures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "Adjusted Free Cash Flow is calculated as Free Cash Flow plus or (minus): transaction, other one-time and restructuring expenses, changes in operating assets and liabilities, net of acquisitions (excluding changes in income tax payable), taxes paid on sale of assets, pension and other postretirement plans costs (credit), (payments) for capitalized software obligations, proceeds from disposal of assets and insurance recoveries and other expense (income), cash contribution from (distribution to) noncontrolling interests and other items.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Adjusted Free Cash Flow is calculated as Free Cash Flow plus or (minus): transaction, other one-time and restructuring expenses, changes in operating assets and liabilities, net of acquisitions (excluding changes in income tax payable), taxes paid on sale of assets, pension an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "For a reconciliation of these non-GAAP financial measurements to the GAAP financial results cited in this news announcement, please see the supplemental tables at the end of this release.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "For a reconciliation of these non-GAAP financial measurements to the GAAP financial results cited in this news announcement, please see the supplemental tables at the end of this release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "We don\u2019t provide a quantitative reconciliation of forward-looking, non-GAAP financial measures to the most directly comparable GAAP financial measure because it is difficult to reliably predict or estimate the relevant components without unreasonable effort due to future uncertainties that may potentially have a significant impact on such calculations and providing them may imply a degree of precision that would be confusing or potentially misleading.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "We don\u2019t provide a quantitative reconciliation of forward-looking, non-GAAP financial measures to the most directly comparable GAAP financial measure because it is difficult to reliably predict or estimate the relevant components without unreasonable effort due to future uncer...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "972/373-8800 or gweitman@NEXSTAR MEDIA GROUP, INC..tv",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "972/373-8800 or gweitman@NEXSTAR MEDIA GROUP, INC..tv",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "(in millions, except for share and per share amounts, unaudited)",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "(in millions, except for share and per share amounts, unaudited)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "costs_or_expenses",
+      "claim": "Income from equity method investments, net (excluding impairment)",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Income from equity method investments, net (excluding impairment)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "costs_or_expenses",
+      "claim": "Net (loss) income attributable to NEXSTAR MEDIA GROUP, INC..",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Net (loss) income attributable to NEXSTAR MEDIA GROUP, INC..",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "Amortization of debt financing costs, debt discounts and premium",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Amortization of debt financing costs, debt discounts and premium",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "earnings_or_eps",
+      "claim": "Distribution from equity method investments \u2013 return on capital",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Distribution from equity method investments \u2013 return on capital",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "Transaction, other one-time and restructuring expenses (1)",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Transaction, other one-time and restructuring expenses (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Impairment of an equity method investment (2)",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Impairment of an equity method investment (2)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "Primarily includes legal and other direct expenses associated with our pending acquisition of TEGNA, non-recurring costs related to the resolution of a disputed customer claim, direct expenses associated with financing transactions, severance and other direct expenses associated with restructuring activities.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Primarily includes legal and other direct expenses associated with our pending acquisition of TEGNA, non-recurring costs related to the resolution of a disputed customer claim, direct expenses associated with financing transactions, severance and other direct expenses associat...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "In Q4 2025, we recorded a $381 million other-than-temporary impairment on our 31.3% investment in TV Food Network.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "In Q4 2025, we recorded a $381 million other-than-temporary impairment on our 31.3% investment in TV Food Network.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "balance_sheet_or_cash",
+      "claim": "Reconciliation of Free Cash Flow and Adjusted Free Cash Flow (Non-GAAP Measure)",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Reconciliation of Free Cash Flow and Adjusted Free Cash Flow (Non-GAAP Measure)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "Changes in operating assets and liabilities (2)",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Changes in operating assets and liabilities (2)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "costs_or_expenses",
+      "claim": "Primarily includes legal and other direct expenses associated with our pending acquisition of TEGNA Inc., non-recurring costs related to the resolution of a disputed customer claim, direct expenses associated with financing transactions, severance and other direct expenses associated with restructuring activities.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Primarily includes legal and other direct expenses associated with our pending acquisition of TEGNA Inc., non-recurring costs related to the resolution of a disputed customer claim, direct expenses associated with financing transactions, severance and other direct expenses ass...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "other",
+      "claim": "Removes the impact of changes in operating assets and liabilities (including changes in income tax payable), net of acquisitions and dispositions.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Removes the impact of changes in operating assets and liabilities (including changes in income tax payable), net of acquisitions and dispositions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "Includes changes in income tax payable to reflect all tax payments.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Includes changes in income tax payable to reflect all tax payments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "other",
+      "claim": "Eliminates taxes paid on sale of assets related to the impact of a $40 million gain from disposal of an investment in Q1 2024.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Eliminates taxes paid on sale of assets related to the impact of a $40 million gain from disposal of an investment in Q1 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.023229, ret_20d=0.119248, market_ret_20d=-0.003364",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.023229, ret_20d=0.119248, market_ret_20d=-0.003364",
+      "support_label": "supported"
+    }
+  ]
+}

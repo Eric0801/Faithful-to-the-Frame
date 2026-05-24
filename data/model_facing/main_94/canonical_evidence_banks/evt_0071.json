@@ -1,0 +1,193 @@
+{
+  "event_id": "evt_0071",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CAL-MAINE FOODS INC",
+  "ticker": "CALM",
+  "company_alias": "CAL-MAINE FOODS INC",
+  "masked_company": "Company AH",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q3",
+  "event_date": "2026-04-01",
+  "accepted_at_et": "2026-04-01T06:09:25-04:00",
+  "source_packet_path": "source_packets/evt_0071.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "of how effectively we manage mix, pricing structures, costs, and capital across the cycle.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "of how effectively we manage mix, pricing structures, costs, and capital across the cycle. Despite materially",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "capacity comes online and utilization improves, supported by steady underlying demand.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "capacity comes online and utilization improves, supported by steady underlying demand. Importantly, these",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "Our strategy is designed to strengthen the quality and consistency of our earnings over time.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Our strategy is designed to strengthen the quality and consistency of our earnings over time. By building on",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "repurchase authorization during the quarter for a total of $24.3 million.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "repurchase authorization during the quarter for a total of $24.3 million. The repurchase program permits the",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "Upon registration, participants will receive a confirmation email with detailed instructions, including a dial-",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Upon registration, participants will receive a confirmation email with detailed instructions, including a dial-",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "Less: Income (loss) attributable to",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Less: Income (loss) attributable to",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q3: 666951000",
+      "value": 666951000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q3: 666951000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for 2026Q3: 119283000",
+      "value": 119283000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for 2026Q3: 119283000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q3: 35944000",
+      "value": 35944000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q3: 35944000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q3: 50459000",
+      "value": 50459000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q3: 50459000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "other",
+      "claim": "ProfitLoss reported for 2026Q3: 51118000",
+      "value": 51118000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "ProfitLoss reported for 2026Q3: 51118000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q3: 1.06",
+      "value": 1.06,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q3: 1.06",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q3: 1.07",
+      "value": 1.07,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q3: 1.07",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q3: 392159000",
+      "value": 392159000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q3: 392159000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q3: 476922000",
+      "value": 476922000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q3: 476922000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.006997, ret_20d=-0.100466, market_ret_20d=-0.041471",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.006997, ret_20d=-0.100466, market_ret_20d=-0.041471",
+      "support_label": "supported"
+    }
+  ]
+}

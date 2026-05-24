@@ -1,0 +1,510 @@
+{
+  "event_id": "evt_0038",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "COLGATE PALMOLIVE CO",
+  "ticker": "CL",
+  "company_alias": "COLGATE PALMOLIVE CO",
+  "masked_company": "Company AT",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-01-30",
+  "filing_metadata": {
+    "cik": "21665",
+    "accession_number": "0000021665-26-000003",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-30T07:57:45-05:00",
+    "event_date": "2026-01-30",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net sales and Organic sales* increased 1.4%, including a 0.7% negative impact from lower private label pet volume",
+      "token_count": 29
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP EPS declined 25% to $2.63, driven by goodwill and intangible assets impairment charges related to the skin health business",
+      "token_count": 33
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Base Business EPS* increased 3% to $3.69",
+      "token_count": 11
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Net cash provided by operations was a record $4,198 for the full year",
+      "token_count": 18
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Returned $2.9 billion in cash to shareholders through dividends and share repurchases",
+      "token_count": 22
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Full Year Total Company Results (GAAP) ($ in millions except per share amounts) 2025 2024 Change Net Sales $20,382 $20,101 +1.4% EPS (diluted) $2.63 $3.51 -25% Full Year Total Company Results (Base Business - Non-GAAP)* ($ in millions except per share amounts) 2025 2024 Change Organic Sales Growth +1.4% Base Business EPS (diluted) $3.69 $3.60 +3%",
+      "token_count": 87
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "*Indicates a non-GAAP financial measure. Please refer to \u201cNon-GAAP Financial Measures\u201d later in this release for definitions of non-GAAP financial measures and to \u201cTable 7 - Geographic Sales Analysis Percentage Changes\u201d and \u201cTable 9 - Non-GAAP Reconciliations\u201d included with this release for a reconciliation of these non-GAAP financial measures to the related GAAP measures.",
+      "token_count": 94
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net sales increased 5.8%; Organic sales* increased 2.2%, including a 0.9% negative impact from lower private label pet volume",
+      "token_count": 32
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP EPS declined 106% to $(0.05), driven by goodwill and intangible assets impairment charges related to the skin health business",
+      "token_count": 33
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Base Business EPS* increased 4% to $0.95",
+      "token_count": 11
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP Gross profit margin and Base Business Gross profit margin* both decreased 10 basis points to 60.2%",
+      "token_count": 27
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 COLGATE PALMOLIVE CO\u2019s leadership in toothpaste continued with its global market share at 41.3% year to date",
+      "token_count": 25
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 COLGATE PALMOLIVE CO\u2019s leadership in manual toothbrushes continued with its global market share at 32.4% year to date",
+      "token_count": 28
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth Quarter Total Company Results (GAAP) ($ in millions except per share amounts) 2025 2024 Change Net Sales $5,230 $4,944 +5.8% EPS (diluted) $(0.05) $0.90 -106% Fourth Quarter Total Company Results (Base Business - Non-GAAP)* ($ in millions except per share amounts) 2025 2024 Change Organic Sales Growth +2.2% Base Business EPS (diluted) $0.95 $0.91 +4%",
+      "token_count": 90
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "*Indicates a non-GAAP financial measure. Please refer to \u201cNon-GAAP Financial Measures\u201d later in this release for definitions of non-GAAP financial measures and to \u201cTable 6 - Geographic Sales Analysis Percentage Changes\u201d and \u201cTable 8 - Non-GAAP Reconciliations\u201d included with this release for a reconciliation of these non-GAAP financial measures to the related GAAP measures.",
+      "token_count": 94
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "New York, New York, 2026-01-30T07:57:45-05:00 \u2026COLGATE PALMOLIVE CO Company (NYSE:CL) today reported results for fourth quarter and full year 2025. Chairman, President and Chief Executive Officer, commented on the Base Business fourth quarter and full year results, \u201cWe are pleased to have exited 2025 with accelerated growth momentum on both the top and bottom lines, even in the face of sluggish category growth in many markets. Net sales and organic sales grew in every category during the quarter, led by strength in oral care and pet nutrition, excluding private label.",
+      "token_count": 139
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "\"Our 2025 performance highlights the resilience of our business model and the strength of our brands. Through the successful execution of our 2025 strategy, we have grown our company significantly over the last five years despite many challenges. Our new 2030 strategy builds on that success. We have laid out a clear path to accelerate our growth going forward with a focus on leveraging the global reach and penetration of our brands, building the incremental benefit of superior, science-based innovation, harnessing the power of best-in-class omni-channel demand generation, leading in capabilities like data, analytics and AI and evolving our high-impact, inclusive culture.",
+      "token_count": 170
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\"As we begin 2026, while we expect the difficult operating environment and slower category growth to continue in the short term, we are operating from a position of strength and are confident that the changes we are making will enable us to deliver consistent, compounded earnings per share growth and drive shareholder value in the long term.\u201d",
+      "token_count": 86
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "During the fourth quarter, the Company took a non-cash, after-tax charge of $794 million to adjust the carrying values of goodwill and intangible assets related to the skin health business. Given lower than expected category growth rates and weaker than expected performance, particularly in China, the Company has lowered its outlook for the skin health business, primarily Filorga. The Company is taking the appropriate actions to improve performance and continues to believe in the growth prospects of the business.",
+      "token_count": 130
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 The Company expects net sales to be up 2% to 6%, including a low-single-digit positive impact from foreign exchange.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 The Company expects organic sales growth to be 1% to 4%. This includes an approximately 20 basis point impact from our exit from the private label pet food business.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 On a GAAP basis, the Company expects gross profit margin expansion with advertising up on both a dollar basis and as a percentage of net sales and double-digit earnings per share growth.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 On a non-GAAP (Base Business) basis, the Company expects gross profit margin expansion with advertising up on both a dollar basis and as a percentage of net sales and low to mid-single-digit earnings per share growth.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The following are comments about divisional performance for fourth quarter 2025 versus the year ago period. See attached \"Table 6 - Geographic Sales Analysis Percentage Changes\" and \"Table 5 - Segment Information\" for additional information on net sales and operating profit by division.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth Quarter Sales Growth By Division (% change 4Q 2025 vs. 4Q 2024) % of Total Company Sales Net Sales Organic Sales* As Reported Volume** Pricing FX North America 19% -1.5% -1.8% -2.3% +0.5% +0.3% Latin America 24% +12.8% +6.5% +2.3% +4.2% +6.3% Europe 14% +9.8% +1.8% +0.8% +1.0% +8.1% Asia Pacific 14% -0.3% +0.1% -2.2% +2.3% -0.4% Africa/Eurasia 6% +15.0% +10.3% +1.1% +9.1% +4.7% Hill's Pet Nutrition 23% +4.9% +1.5% +0.3% +3.0% +1.6% Total Company 100% +5.8% +2.2% \u2014% +2.7% +3.1%",
+      "token_count": 122
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Note: Table may not sum due to rounding.",
+      "token_count": 10
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "*Indicates a non-GAAP financial measure. Please refer to \u201cNon-GAAP Financial Measures\u201d later in this release for definitions of non-GAAP financial measures and to \u201cTable 6 - Geographic Sales Analysis Percentage Changes\u201d included with this release for a reconciliation of these non-GAAP financial measures to the related GAAP measures.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "**The impact of the acquisition of the Prime100 pet food business on as reported volume was 1.8% and 0.5% for Hill's Pet Nutrition and Total Company, respectively.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth Quarter Operating Profit By Division ($ in millions) 4Q 2025 % Change vs 4Q 2024 % to Net Sales Change in basis points vs 4Q 2024 % to Net Sales North America $203 -1% 19.9% \u2014 Latin America $360 6% 28.8% -180 Europe $183 17% 24.9% +160 Asia Pacific $188 -11% 26.0% -310 Africa/Eurasia $65 13% 21.1% -40 Hill's Pet Nutrition $286 4% 23.9% -20 Total Company, As Reported $92 -91% 1.8% NM Total Company, Base Business* $1,108 3% 21.2% -50",
+      "token_count": 111
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "*Indicates a non-GAAP financial measure. Please refer to \u201cNon-GAAP Financial Measures\u201d later in this release for definitions of non-GAAP financial measures and to \u201cTable 8 - Non-GAAP Reconciliations\u201d included with this release for a reconciliation of these non-GAAP financial measures to the related GAAP measures.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "At approximately 7:00 a.m. ET today, the Company will post its prepared materials regarding fourth quarter and full year 2025 results to the Investor Center section of its website at https://investor.colgatepalmolive.com/events-and-presentations.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "COLGATE PALMOLIVE CO Company is a caring, innovative growth company that is reimagining a healthier future for all people, their pets and our planet. Focused on Oral Care, Personal Care, Home Care and Pet Nutrition, we sell our products in more than 200 countries and territories under brands such as COLGATE PALMOLIVE CO, Ajax, Axion, Darlie, elmex, EltaMD, Fabuloso, Filorga, hello, Hill\u2019s Prescription Diet, Hill\u2019s Science Diet, Irish Spring, Lady Speed Stick, meridol, PCA SKIN, Prime100, Protex, Sanex, Softsoap, Sorriso, Soupline, Speed Stick, Suavitel and Tom\u2019s of Maine. We are recognized for our leadership and innovation in promoting sustainability and community wellbeing, including our achievements in decreasing plastic waste and promoting recyclability, saving water and improving children\u2019s oral health through our COLGATE PALMOLIVE CO Bright Smiles, Bright Futures program, which has reached approximately two billion children and their families since 1991. For more information about COLGATE PALMOLIVE CO and how we make more smiles, visit www.colgatepalmolive.com. CL-E",
+      "token_count": 262
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company's annual meeting of stockholders is currently scheduled for Friday, May 8, 2026.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Management uses market share information as a key indicator to monitor business health and performance. References to market share in this press release are based on a combination of consumption and market share data provided by third-party vendors, primarily Nielsen, and internal estimates. Except as otherwise noted, all market share references represent the percentage of the dollar value of sales of our products, relative to all product sales in the category in the countries in which the Company competes and purchases data (excluding Venezuela from all periods).",
+      "token_count": 143
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Market share data is subject to limitations on the availability of up-to-date information. In particular, market share data is currently not generally available for certain retail channels, such as eCommerce and certain club retailers and discounters. The Company measures year-to-date market shares from January 1 of the relevant year through the most recent period for which market share data is available, which typically reflects a lag time of one or two months. The Company believes that the third-party vendors it uses to provide data are reliable, but it has not verified the accuracy or completeness of the data or any assumptions underlying the data. In addition, market share information reported by the Company may be different from market share information reported by other companies due to differences in category definitions, the use of data from different countries, internal estimates and other factors.",
+      "token_count": 230
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Base Business: Base Business refers to non-GAAP measures of operating results that exclude certain items. Base Business operating results exclude, as applicable, goodwill and intangible assets impairment charges, charges resulting from the ERISA litigation matter and the restructuring programs (Strategic Growth and Productivity Program in 2025 and 2022 Global Productivity Initiative in 2024) and acquisition-related costs.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Organic sales growth: Net sales growth excluding the impact of foreign exchange, acquisitions and divestments.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Free cash flow before dividends: Net cash provided by operations less Capital expenditures.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Gross profit, Gross profit margin, Selling, general and administrative expenses, Selling, general and administrative expenses as a percentage of Net sales, Other (income) expense, net, Operating profit, Operating profit margin, Non-service related postretirement costs, Effective income tax rate, Net income attributable to COLGATE PALMOLIVE CO Company and Diluted earnings per common share are disclosed on both an as reported (GAAP) and Base Business (non-GAAP) basis. These non-GAAP financial measures exclude items that, either by their nature or amount, management would not expect to occur as part of the Company\u2019s normal business on a regular basis, such as restructuring charges, charges for certain litigation and tax matters, acquisition-related costs, gains and losses from certain divestitures and certain other unusual, non-recurring items. Investors and analysts use these financial measures in assessing the Company\u2019s business performance, and management believes that presenting these financial measures on a non-GAAP basis provides them with useful supplemental information to enhance their understanding of the Company\u2019s underlying business performance and trends. These non-GAAP financial measures also enhance the ability to compare period-to-period financial results. See \u201cNon-GAAP Reconciliations\u201d for the three and twelve months ended December 31, 2025 and 2024 included with this release for a reconciliation of these financial measures to the related GAAP measures.",
+      "token_count": 370
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company uses these financial measures internally in its budgeting process, to evaluate segment and overall operating performance and as factors in determining compensation. While the Company believes that these financial measures are useful in evaluating the Company \u2019 s underlying business performance and trends, this information should be considered as supplemental in nature and is not meant to be considered in isolation or as a substitute for the related financial information prepared in accordance with GAAP.",
+      "token_count": 130
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "As management uses free cash flow before dividends to evaluate the Company \u2019 s ability to satisfy current and future obligations, pay dividends, fund future business opportunities and repurchase stock, the Company believes that it provides useful information to investors. Free cash flow before dividends is not a measure of cash available for discretionary expenditures since the Company has certain non-discretionary obligations such as debt service that are not deducted from the measure. See \u201c Condensed Consolidated Statements of Cash Flows \u201d for the twelve months ended December 31, 2025 and 2024 for a comparison of free cash flow before dividends to Net cash provided by operations as reported in accordance with GAAP.",
+      "token_count": 182
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Communications: colgate_palmolive_media_inquiry@colpal.com",
+      "token_count": 15
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 1 COLGATE PALMOLIVE CO Company Condensed Consolidated Statements of Income For the Three Months Ended December 31, 2025 and 2024 (Dollars in Millions Except Per Share Amounts) (Unaudited) 2025 2024 Net sales $ 5,230 $ 4,944 Cost of sales 2,084 1,962 Gross profit 3,146 2,982 Gross profit margin 60.2 % 60.3 % Selling, general and administrative expenses 2,069 1,895 Other (income) expense, net 66 23 Goodwill and intangible assets impairment charges 919 \u2014 Operating profit 92 1,064 Operating profit margin 1.8 % 21.5 % Non-service related postretirement costs (61) 20 Interest expense 64 66 Interest income 18 16 Income before income taxes 107 994 Provision for income taxes 112 215 Effective tax rate 104.7 % 21.6 % Net income (loss) including noncontrolling interests (5) 779 Less: Net income attributable to noncontrolling interests 32 40 Net income (loss) attributable to COLGATE PALMOLIVE CO Company $ (37) $ 739 Earnings (loss) per common share Basic $ (0.05) $ 0.91 Diluted (1) $ (0.05) $ 0.90 Supplemental Income Statement Information Average common shares outstanding Basic 804.7 816.0 Diluted (1) 804.7 819.7 Advertising $ 682 $ 648 Note: (1) The computation for diluted (loss) per common share for the three months ended December 31, 2025 excludes 1.3 million of incremental common shares outstanding during the period as they are anti-dilutive.",
+      "token_count": 336
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Note: (1) The computation for diluted (loss) per common share for the three months ended December 31, 2025 excludes 1.3 million of incremental common shares outstanding during the period as they are anti-dilutive.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 2 COLGATE PALMOLIVE CO Company Condensed Consolidated Statements of Income For the Twelve Months Ended December 31, 2025 and 2024 (Dollars in Millions Except Per Share Amounts) (Unaudited) 2025 2024 Net sales $ 20,382 $ 20,101 Cost of sales 8,131 7,940 Gross profit 12,251 12,161 Gross profit margin 60.1 % 60.5 % Selling, general and administrative expenses 7,903 7,729 Other (income) expense, net 123 164 Goodwill and intangible assets impairment charges 919 \u2014 Operating profit 3,306 4,268 Operating profit margin 16.2 % 21.2 % Non-service related postretirement costs 55 87 Interest expense 267 292 Interest income 75 67 Income before income taxes 3,059 3,956 Provision for income taxes 798 907 Effective tax rate 26.1 % 22.9 % Net income including noncontrolling interests 2,261 3,049 Less: Net income attributable to noncontrolling interests 129 160 Net income attributable to COLGATE PALMOLIVE CO Company $ 2,132 $ 2,889 Earnings per common share Basic (1) $ 2.64 $ 3.53 Diluted (1) $ 2.63 $ 3.51 Supplemental Income Statement Information Average common shares outstanding Basic 808.7 819.1 Diluted 811.1 823.2 Advertising $ 2,703 $ 2,720 Note: (1) Basic and diluted earnings per share are computed independently for each quarter and any year-to-date period presented. As a result of changes in shares outstanding during the year and rounding, the sum of the quarters' earnings per share may not equal the earnings per share for any year-to-date period.",
+      "token_count": 362
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Note: (1) Basic and diluted earnings per share are computed independently for each quarter and any year-to-date period presented. As a result of changes in shares outstanding during the year and rounding, the sum of the quarters' earnings per share may not equal the earnings per share for any year-to-date period.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 3 COLGATE PALMOLIVE CO Company Condensed Consolidated Balance Sheets As of December 31, 2025 and December 31, 2024 (Dollars in Millions) (Unaudited) 2025 2024 Cash and cash equivalents $ 1,288 $ 1,096 Receivables, net 1,675 1,521 Inventories 2,032 1,987 Other current assets 714 713 Property, plant and equipment, net 4,660 4,422 Goodwill 3,122 3,272 Other intangible assets, net 1,536 1,756 Other assets 1,303 1,279 Total assets $ 16,330 $ 16,046 Total debt 7,988 7,949 Other current liabilities 5,736 5,099 Other non-current liabilities 2,241 2,454 Total liabilities 15,965 15,502 Total COLGATE PALMOLIVE CO Company shareholders\u2019 equity 54 212 Noncontrolling interests 311 332 Total liabilities and equity $ 16,330 $ 16,046 Supplemental Balance Sheet Information Debt less cash, cash equivalents and marketable securities (1) $ 6,593 $ 6,693 Working capital % of sales (7.0) % (5.2) %",
+      "token_count": 218
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Marketable securities of $107 and $160 as of December 31, 2025 and 2024, respectively, are included in Other current assets.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Table 4 COLGATE PALMOLIVE CO Company Condensed Consolidated Statements of Cash Flows For the Twelve Months Ended December 31, 2025 and 2024 (Dollars in Millions) (Unaudited) 2025 2024 Operating Activities Net income including noncontrolling interests $ 2,261 $ 3,049 Adjustments to reconcile Net income including noncontrolling interests to Net cash provided by operations: Depreciation and amortization 630 605 ERISA litigation matter 65 \u2014 Restructuring and termination benefits, net of cash (7) 51 Stock-based compensation expense 155 135 Goodwill and intangible assets impairment charges 919 \u2014 Deferred income taxes (109) (77) Cash effects of changes in: Receivables (16) (56) Inventories 109 (100) Accounts payable and other accruals 251 516 Other non-current assets and liabilities (60) (16) Net cash provided by operations 4,198 4,107 Investing Activities Capital expenditures (564) (561) Purchases of marketable securities and investments (698) (574) Proceeds from sale of marketable securities and investments 752 564 Payment for acquisition, net of cash acquired (293) \u2014 Other investing activities (14) 37 Net cash used in investing activities (817) (534) Financing Activities Short-term borrowing (repayment) less than 90 days, net (989) 93 Principal payments on debt (655) (503) Proceeds from issuance of debt 1,188 2 Dividends paid (1,823) (1,789) Purchases of treasury shares (1,210) (1,739) Proceeds from exercise of stock options 101 638 Other financing activities 132 (91) Net cash used in financing activities (3,256) (3,389) Effect of exchange rate changes on Cash and cash equivalents 67 (54) Net increase (decrease) in Cash and cash equivalents 192 130 Cash and cash equivalents at beginning of the period 1,096 966 Cash and cash equivalents at end of the period $ 1,288 $ 1,096 Supplemental Cash Flow Information Free cash flow before dividends (Net cash provided by operations less Capital expenditures) Net cash provided by operations 4,198 4,107 Less: Capital expenditures (564) (561) Free cash flow before dividends $ 3,634 $ 3,546 Income taxes paid $ 913 $ 933 Interest paid $ 270 $ 302",
+      "token_count": 526
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 5 COLGATE PALMOLIVE CO Company Segment Information For the Three and Twelve Months Ended December 31, 2025 and 2024 (Dollars in Millions) (Unaudited) Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Net Sales Oral, Personal and Home Care North America $ 1,021 $ 1,036 $ 4,045 $ 4,113 Latin America 1,248 1,106 4,776 4,782 Europe 734 668 2,962 2,770 Asia Pacific 722 724 2,814 2,858 Africa/Eurasia 309 269 1,172 1,095 Total Oral, Personal and Home Care 4,034 3,804 15,769 15,618 Pet Nutrition 1,196 1,140 4,613 4,483 Total Net Sales $ 5,230 $ 4,944 $ 20,382 $ 20,101 Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Operating Profit Oral, Personal and Home Care North America $ 203 $ 206 $ 784 $ 839 Latin America 360 339 1,411 1,526 Europe 183 155 748 658 Asia Pacific 188 211 760 812 Africa/Eurasia 65 58 255 253 Total Oral, Personal and Home Care 999 969 3,959 4,088 Pet Nutrition 286 275 1,064 965 Corporate (1) (1,194) (179) (1,717) (784) Total Operating Profit $ 92 $ 1,064 $ 3,306 $ 4,268",
+      "token_count": 266
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Notes: Tables may not sum due to rounding.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Corporate operations include costs related to stock options and restricted stock units, research and development costs, Corporate overhead costs, restructuring and related implementation charges and gains and losses on sales of non-core product lines and assets.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Corporate Operating profit (loss) for the three months ended December 31, 2025 included goodwill and intangible assets impairment charges of $919 and charges resulting from the ERISA litigation matter and the Strategic Growth and Productivity Program of $84 and $13, respectively.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Corporate Operating profit (loss) for the three months ended December 31, 2024 included charges resulting from the 2022 Global Productivity Initiative of $7.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Corporate Operating profit (loss) for the twelve months ended December 31, 2025 included goodwill and intangible assets impairment charges of $919, charges resulting from the ERISA litigation matter and the Strategic Growth and Productivity Program of $99 and $13, respectively, and acquisition-related costs of $9.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Corporate Operating profit (loss) for the twelve months ended December 31, 2024 included charges resulting from the 2022 Global Productivity Initiative of $85.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 6 COLGATE PALMOLIVE CO Company Geographic Sales Analysis Percentage Changes For the Three Months Ended December 31, 2025 vs. 2024 (Unaudited) COMPONENTS OF SALES CHANGE Pricing Coupons Sales Consumer & Change Organic As Reported Organic Trade Foreign Region As Reported Sales Change Volume (1) Volume Incentives Exchange Total Company 5.8% 2.2% \u2014% (0.5)% 2.7% 3.1% North America (1.5)% (1.8)% (2.3)% (2.3)% 0.5% 0.3% Latin America 12.8% 6.5% 2.3% 2.3% 4.2% 6.3% Europe 9.8% 1.8% 0.8% 0.8% 1.0% 8.1% Asia Pacific (0.3)% 0.1% (2.2)% (2.2)% 2.3% (0.4)% Africa/Eurasia 15.0% 10.3% 1.1% 1.1% 9.1% 4.7% Total CP Products 6.0% 2.5% (0.1)% (0.1)% 2.6% 3.6% Hill\u2019s Pet Nutrition 4.9% 1.5% 0.3% (1.5)% 3.0% 1.6% Emerging Markets (2) 8.7% 4.5% 0.3% 0.3% 4.2% 4.3% Developed Markets 3.5% 0.5% (0.3)% (1.0)% 1.5% 2.2%",
+      "token_count": 200
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Notes: Table may not sum due to rounding.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) The impact of the acquisition of the Prime100 pet food business on as reported volume was 0.5%, 1.8%, and 0.7% for Total Company, Hill's Pet Nutrition and Developed Markets, respectively.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Emerging Markets include Latin America, Asia (excluding Japan), Africa/Eurasia and Central Europe.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 7 COLGATE PALMOLIVE CO Company Geographic Sales Analysis Percentage Changes For the Twelve Months Ended December 31, 2025 vs. 2024 (Unaudited) COMPONENTS OF SALES CHANGE Pricing Coupons Sales Consumer & Change Organic As Reported Organic Trade Foreign Region As Reported Sales Change Volume (1) Volume Incentives Exchange Total Company 1.4% 1.4% (0.4)% (0.7)% 2.1% (0.3)% North America (1.6)% (1.6)% (1.4)% (1.4)% (0.2)% (0.1)% Latin America (0.1)% 3.9% 0.9% 0.9% 2.9% (4.0)% Europe 6.9% 2.6% 1.1% 1.1% 1.5% 4.4% Asia Pacific (1.5)% (1.0)% (2.7)% (2.7)% 1.7% (0.5)% Africa/Eurasia 7.0% 6.5% 0.5% 0.5% 6.0% 0.5% Total CP Products 1.0% 1.5% (0.3)% (0.3)% 1.8% (0.5)% Hill\u2019s Pet Nutrition 2.9% 1.2% (0.6)% (1.7)% 3.0% 0.5% Emerging Markets (2) 0.6% 2.5% (0.5)% (0.5)% 2.9% (1.9)% Developed Markets 2.0% 0.6% (0.4)% (0.8)% 1.4% 1.0%",
+      "token_count": 206
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) The impact of the acquisition of the Prime100 pet food business on as reported volume was 0.3% , 1.1% and 0.4% for Total Company, Hill's Pet Nutrition and Developed Markets, respectively.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 8 COLGATE PALMOLIVE CO Company Non-GAAP Reconciliations For the Three Months Ended December 31, 2025 and 2024 (Dollars in Millions Except Per Share Amounts) (Unaudited) Gross Profit 2025 2024 Gross profit, GAAP $ 3,146 $ 2,982 Restructuring programs (1) \u2014 1 Gross profit, non-GAAP $ 3,146 $ 2,983 Selling, General and Administrative Expenses 2025 2024 Selling, general and administrative expenses, GAAP $ 2,069 $ 1,895 ERISA litigation matter (84) \u2014 Restructuring programs (1) (6) (1) Selling, general and administrative expenses, non-GAAP $ 1,980 $ 1,894 Basis Point Selling, General and Administrative Expenses as a Percentage of Net Sales 2025 2024 Change Selling, general and administrative expenses as a percentage of Net sales, GAAP 39.6 % 38.3 % 130 ERISA litigation matter (1.6) % \u2014 % Restructuring programs (1) (0.1) % \u2014 % Selling, general and administrative expenses as a percentage of Net sales, non-GAAP 37.9 % 38.3 % (40) Other (Income) Expense, Net 2025 2024 Other (income) expense, net, GAAP $ 66 $ 23 Restructuring programs (1) (7) (5) Other (income) expense, net, non-GAAP $ 58 $ 18 Operating Profit 2025 2024 % Change Operating profit, GAAP $ 92 $ 1,064 (91) % Goodwill and intangible assets impairment charges 919 \u2014 ERISA litigation matter 84 \u2014 Restructuring programs (1) 13 7 Operating profit, non-GAAP $ 1,108 $ 1,071 3 % Basis Point Operating Profit Margin 2025 2024 Change Operating profit margin, GAAP 1.8 % 21.5 % NM Goodwill and intangible assets impairment charges 17.6 % \u2014 % ERISA litigation matter 1.6 % \u2014 % Restructuring programs (1) 0.2 % 0.2 % Operating profit margin, non-GAAP 21.2 % 21.7 % (50) Non-Service Related Postretirement Costs 2025 2024 Non-service related postretirement costs, GAAP $ (61) $ 20 ERISA litigation matter 84 \u2014 Non-service related postretirement costs, non-GAAP $ 24 $ 20 NM - Not meaningful Note: The impact of non-GAAP adjustments may not necessarily equal the difference between \u201cGAAP\u201d and \u201cnon-GAAP\u201d as a result of rounding.",
+      "token_count": 496
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 8 Continued COLGATE PALMOLIVE CO Company Non-GAAP Reconciliations For the Three Months Ended December 31, 2025 vs. 2024 (Dollars in Millions Except Per Share Amounts) (Unaudited) 2025 Income Before Income Taxes Provision For Income Taxes (2) Net Income (Loss) Including Noncontrolling Interests Less: Income Attributable to Noncontrolling Interests Net Income (Loss) Attributable To COLGATE PALMOLIVE CO Company Effective Income Tax Rate (3) Diluted Earnings (Loss) Per Share As Reported GAAP $ 107 $ 112 $ (5) $ 32 $ (37) 104.7 % $ (0.05) Goodwill and intangible assets impairment charges 919 125 794 \u2014 794 (81.7) % 0.99 Restructuring programs (1) 13 2 11 \u2014 11 (0.1) % 0.01 Non-GAAP $ 1,038 $ 238 $ 800 $ 32 $ 768 22.9 % $ 0.95 2024 Income Before Income Taxes Provision For Income Taxes (2) Net Income Including Noncontrolling Interests Less: Income Attributable to Noncontrolling Interests Net Income Attributable To COLGATE PALMOLIVE CO Company Effective Income Tax Rate (3) Diluted Earnings Per Share As Reported GAAP $ 994 $ 215 $ 779 $ 40 $ 739 21.6 % $ 0.90 Restructuring programs (1) 7 1 6 \u2014 6 \u2014 % 0.01 Non-GAAP $ 1,001 $ 216 $ 785 $ 40 $ 745 21.6 % $ 0.91",
+      "token_count": 285
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(1) The restructuring program charges relate to the Strategic Growth and Productivity Program in 2025 and the 2022 Global Productivity Initiative in 2024.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) The income tax effect on non-GAAP items is calculated based upon the tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the underlying non-GAAP adjustment.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) The impact of non-GAAP items on the Company\u2019s effective tax rate represents the difference in the effective tax rate calculated with and without the non-GAAP adjustment on Income before income taxes and Provision for income taxes.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Table 9 COLGATE PALMOLIVE CO Company Non-GAAP Reconciliations For the Twelve Months Ended December 31, 2025 vs. 2024 (Dollars in Millions Except Per Share Amounts) (Unaudited) Gross Profit 2025 2024 Gross profit, GAAP $ 12,251 $ 12,161 Restructuring programs (1) \u2014 20 Gross profit, non-GAAP $ 12,251 $ 12,181 Basis Point Gross Profit Margin 2025 2024 Change Gross profit margin, GAAP 60.1 % 60.5 % (40) Restructuring programs (1) \u2014 % 0.1 % Gross profit margin, non-GAAP 60.1 % 60.6 % (50) Selling, General and Administrative Expenses 2025 2024 Selling, general and administrative expenses, GAAP $ 7,903 $ 7,729 ERISA litigation matter (99) \u2014 Restructuring programs (1) (6) (6) Selling, general and administrative expenses, non-GAAP $ 7,797 $ 7,723 Basis Point Selling, General and Administrative Expenses as a Percentage of Net Sales 2025 2024 Change Selling, general and administrative expenses as a percentage of Net sales, GAAP 38.8 % 38.5 % 30 ERISA litigation matter (0.5) % \u2014 % Restructuring programs (1) \u2014 % (0.1) % Selling, general and administrative expenses as a percentage of Net sales, non-GAAP 38.3 % 38.4 % (10) Other (Income) Expense, Net 2025 2024 Other (income) expense, net, GAAP $ 123 $ 164 Acquisition-related costs (9) \u2014 Restructuring programs (1) (7) (59) Other (income) expense, net, non-GAAP $ 107 $ 105 Operating Profit 2025 2024 % Change Operating profit, GAAP $ 3,306 $ 4,268 (23) % Goodwill and intangible assets impairment charges 919 \u2014 ERISA litigation matter 99 \u2014 Restructuring programs (1) 13 85 Acquisition-related costs 9 \u2014 Operating profit, non-GAAP $ 4,347 $ 4,353 \u2014 % Basis Point Operating Profit Margin 2025 2024 Change Operating profit margin, GAAP 16.2 % 21.2 % (500) Goodwill and intangible assets impairment charges 4.5 % \u2014 % ERISA litigation matter 0.5 % \u2014 % Restructuring programs (1) 0.1 % 0.5 % Acquisition-related costs \u2014 % \u2014 % Operating profit margin, non-GAAP 21.3 % 21.7 % (40) Non-Service Related Postretirement Costs 2025 2024 Non-service related postretirement costs, GAAP $ 55 $ 87 ERISA litigation matter 34 \u2014 Non-service related postretirement costs, non-GAAP $ 90 $ 87 Note: The impact of non-GAAP adjustments may not necessarily equal the difference between \u201cGAAP\u201d and \u201cnon-GAAP\u201d as a result of rounding. Table 9 Continued COLGATE PALMOLIVE CO Company Non-GAAP Reconciliations For the Twelve Months Ended December 31, 2025 vs. 2024 (Dollars in Millions Except Per Share Amounts) (Unaudited) 2025 Income Before Income Taxes Provision For Income Taxes (2) Net Income Including Noncontrolling Interests Less: Income Attributable to Noncontrolling Interests Net Income Attributable To COLGATE PALMOLIVE CO Company Effective Income Tax Rate (3) Diluted Earnings Per Share As Reported GAAP $ 3,059 $ 798 $ 2,261 $ 129 $ 2,132 26.1 % $ 2.63 Goodwill and intangible assets impairment charges 919 125 794 \u2014 794 (2.9) % 0.98 ERISA litigation matter 65 12 53 \u2014 53 (0.1) % 0.06 Restructuring programs (1) 13 2 11 \u2014 11 \u2014 % 0.01 Acquisition-related costs 9 2 7 \u2014 7 \u2014 % 0.01 Non-GAAP $ 4,065 $ 940 $ 3,125 $ 129 $ 2,996 23.1 % $ 3.69 2024 Income Before Income Taxes Provision For Income Taxes (2) Net Income Including Noncontrolling Interests Less: Income Attributable to Noncontrolling Interests Net Income Attributable To COLGATE PALMOLIVE CO Company Effective Income Tax Rate (3) Diluted Earnings Per Share As Reported GAAP $ 3,956 $ 907 $ 3,049 $ 160 $ 2,889 22.9 % $ 3.51 Restructuring programs (1) 85 12 73 \u2014 73 (0.2) % 0.09 Non-GAAP $ 4,041 $ 919 $ 3,122 $ 160 $ 2,962 22.7 % $ 3.60",
+      "token_count": 873
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.006643,
+    "ret_20d": 0.078631,
+    "market_ret_20d": 0.010233
+  },
+  "outcome_blind": true
+}

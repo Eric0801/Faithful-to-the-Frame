@@ -1,0 +1,377 @@
+{
+  "event_id": "evt_0083",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "NEXSTAR MEDIA GROUP, INC.",
+  "ticker": "NXST",
+  "company_alias": "NEXSTAR MEDIA GROUP, INC.",
+  "masked_company": "Company J",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-26",
+  "filing_metadata": {
+    "cik": "1142417",
+    "accession_number": "0001193125-26-073384",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-26T07:08:53-05:00",
+    "event_date": "2026-02-26",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Reduced 2025 Year-over-Year Losses at The CW by 32% Exceeding Financial Expectations",
+      "token_count": 21
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Provides 2026 Standalone Adjusted EBITDA Guidance in a Range of $1.95 Billion to $2.05 Billion",
+      "token_count": 24
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cNEXSTAR MEDIA GROUP, INC. delivered another quarter and year of solid financial results, while taking bold steps to better compete with big tech and big media by reinforcing our position as the nation\u2019s leading local broadcasting company through our proposed acquisition of TEGNA Inc. In Q4 2025, we completed all outstanding 2025 renewals with our distribution partners and achieved better-than-expected growth in non-political advertising revenues. In 2025, NewsNation achieved its strongest year ever for news programming viewership bolstered by our commitment to fact-based, unbiased reporting. Benefiting from our sports programming strategy, The CW exceeded financial expectations for the year and ended 2025 as the 10th most-watched and second fastest growing ad-supported network overall. Our 2026 plan includes closing our acquisition of TEGNA, capitalizing on the political advertising opportunities presented by the mid-term elections, and continuing to optimize our business operations across the company, all of which we anticipate will contribute to shareholder value creation.\u201d",
+      "token_count": 270
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net (Loss) Income margin is Net (Loss) Income as a percentage of Net Revenue. Adjusted EBITDA margin is Adjusted EBITDA as a percentage of Net Revenue.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Please refer to the \u201cDefinitions and Disclosures Regarding Non-GAAP Financial Information\u201d section herein, the reconciliations at the end of this press release.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Advanced NEXSTAR MEDIA GROUP, INC.\u2019s proposed accretive acquisition of TEGNA Inc., valued at $6.2 billion, by submitting HSR filings and FCC license transfer applications and responding to inquiries from the DOJ and state Attorney Generals. The transaction is anticipated to close by the second half of 2026, subject to regulatory approvals.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Returned $351 million to shareholders, representing 42% of Adjusted Free Cash Flow, repaid $185 million of debt and allocated $22 million to the acquisition of WBNX-TV (now The CW affiliate) serving Cleveland, OH during 2025.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Renewed distribution agreements representing more than 60% of our subscriber base.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Extended our affiliation agreement with ABC and MyNetwork to 2027.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The CW achieved 19% total audience growth compared to the prior year and ranked as the tenth largest and second fastest growing ad-supported network overall. Results were driven by strong performance of the NASCAR Xfinity Series, which had its most-watched season in four years, and by ACC and Pac-12 college football and ACC men\u2019s and women\u2019s basketball, all of which experienced double-digit rates of growth in viewership.",
+      "token_count": 106
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In recognition of exemplary local reporting and programming, during 2025, NEXSTAR MEDIA GROUP, INC. journalists and technical staff earned 532 awards, including 1 duPont-Columbia award, 1 Walter Cronkite award, 57 national and regional Edward R. Murrow awards, 121 regional Emmy awards, 28 Associated Press awards and 324 state broadcasting association awards.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Revenue. Fourth quarter net revenue of $1.29 billion, declined $199 million year-over-year, or (13.4%), primarily due to lower political advertising revenue related to the election cycle.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Distribution Revenue . Fourth quarter distribution revenue of $720 million, increased $6 million, or 0.8%, versus the comparable prior year quarter, primarily reflecting increased rates, growth in vMVPD subscribers, and the addition of CW affiliations on certain of our stations, offset, in part, by MVPD subscriber attrition.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Advertising Revenue . Fourth quarter advertising revenue of $549 million, decreased $209 million, or (27.6%), from the comparable prior year quarter, primarily reflecting a $233 million decrease in political advertising to $21 million. Non-political advertising increased 4.5% reflecting the absence of political crowd-out and growth in digital advertising.",
+      "token_count": 90
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Loss. Fourth quarter net loss of ($170) million increased $399 million, or (174.2%), compared to the prior year quarter, primarily due to reduced income from impairment of an equity investment related to the performance of the TV Food Network LLC (\u201cTVFN\u201d) in which the Company owns a 31.3% interest, lower political advertising revenue, and increased one-time corporate expenses from the Company\u2019s pending acquisition of TEGNA Inc. offset, in part, by lower income tax, amortization of broadcast rights at The CW, operating expenses, and interest expense. Net Income margin decreased to (13.2%) from 15.4% in the comparable prior year period.",
+      "token_count": 162
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted EBITDA. Fourth quarter Adjusted EBITDA of $433 million, decreased $195 million, or (31.1%), compared to the prior year quarter primarily reflecting lower political advertising revenue and reduced income from equity method investments primarily from TVFN versus the prior year. The decrease was partially offset by lower amortization of broadcast rights at The CW. Adjusted EBITDA margin was 33.6% compared to 42.2% in the comparable prior year period.",
+      "token_count": 115
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net Cash Provided by Operating Activities . Fourth quarter Net Cash Provided by Operating Activities of $190 million, decreased $221 million, or (53.8%), compared to the prior year quarter, due primarily to a reduction in net income and changes in operating assets and liabilities reflecting the timing of receipts and payments.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted Free Cash Flow . Fourth quarter Adjusted Free Cash Flow of $214 million, decreased $197 million, or (47.9%), compared to the prior year quarter, due primarily to lower political advertising revenue, capital expenditures associated with a real estate acquisition, and increased cash programming payments related to the CW offset, in part, by lower cash taxes, interest expense from reduced SOFR and debt reduction, among other items.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "In the fourth quarter of 2025, the Company used cash on hand and cash flow from operations to repay $28 million of debt and pay $56 million in dividends.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "NEXSTAR MEDIA GROUP, INC. continues its disciplined approach to capital allocation, conserving cash that would otherwise have been used for share repurchases to fund the announced acquisition of TEGNA Inc.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "As of December 31, 2025, the consolidated debt of NEXSTAR MEDIA GROUP, INC. and Mission Broadcasting, Inc., an independently owned variable interest entity, was $6.3 billion, including senior secured debt of $3.6 billion.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The Company calculates its leverage ratios in accordance with the terms of its credit agreements which exclude The CW Network\u2019s operations and the cash balance. As of December 31, 2025, The CW Network had $13 million of cash on its balance sheet. In connection with NEXSTAR MEDIA GROUP, INC.\u2019s June 2025 refinancing, the Company updated its leverage ratio calculation and definition to reflect the average of the last two years of EBITDA to better reflect its business cycle which benefits from additional political advertising revenue in election years.",
+      "token_count": 135
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "As of December 31, 2025, the Company\u2019s first lien net leverage ratio was 1.71x (new definition) compared to a covenant of 4.25x and its total net leverage ratio was 3.09x (new definition).",
+      "token_count": 47
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The table below summarizes the Company\u2019s cash balances and debt obligations (net of financing costs, discounts and/or premiums) as of December 31, 2025 and 2024.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "5.625% Senior Unsecured Notes due 2027",
+      "token_count": 10
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "4.75% Senior Unsecured Notes due 2028",
+      "token_count": 10
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We are providing guidance for NEXSTAR MEDIA GROUP, INC. on a standalone basis for full year 2026 Adjusted EBITDA in a range of $1.95 billion to $2.05 billion. Key factors differing from our current expectations could affect our outlook for Adjusted EBITDA for 2026 either positively or negatively. Those factors include, among other things, the rate of growth or attrition of pay television subscribers, the health of local and national advertising markets, our renegotiation of certain distribution and affiliation agreements on terms favorable to the Company, and the attributable net income related to our 31.3% ownership stake in TV Food Network.",
+      "token_count": 159
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Definitions and Disclosures Regarding Non-GAAP Financial Information",
+      "token_count": 17
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted EBITDA is calculated as net income, plus or (minus): transaction, other one-time and restructuring expenses, stock-based compensation expense, depreciation and amortization expense (excluding amortization of broadcast rights), amortization of basis difference of equity method investments, (gain) loss on asset disposal, impairment charges, interest expense, net, pension and other postretirement plans costs (credit), income tax expense (benefit) and other operating and non-operating expense (income). We consider Adjusted EBITDA to be an indicator of our assets\u2019 operating performance.",
+      "token_count": 150
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Free Cash Flow is calculated as net cash provided by operating activities less capital expenditures.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted Free Cash Flow is calculated as Free Cash Flow plus or (minus): transaction, other one-time and restructuring expenses, changes in operating assets and liabilities, net of acquisitions (excluding changes in income tax payable), taxes paid on sale of assets, pension and other postretirement plans costs (credit), (payments) for capitalized software obligations, proceeds from disposal of assets and insurance recoveries and other expense (income), cash contribution from (distribution to) noncontrolling interests and other items. We consider Adjusted Free Cash Flow to be an indicator of our liquidity. We consider Adjusted Free Cash Flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business that can be available for use in ongoing operations, debt payments, pension contributions, dividends, share repurchases, acquisitions and other items. Adjusted Free Cash Flow is not intended to represent the amount of cash flow available for discretionary expenditures as certain items and non-discretionary expenditures, such as changes in working capital, mandatory debt service requirements and pension contributions, are not deducted from this measure.",
+      "token_count": 311
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For a reconciliation of these non-GAAP financial measurements to the GAAP financial results cited in this news announcement, please see the supplemental tables at the end of this release.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We don\u2019t provide a quantitative reconciliation of forward-looking, non-GAAP financial measures to the most directly comparable GAAP financial measure because it is difficult to reliably predict or estimate the relevant components without unreasonable effort due to future uncertainties that may potentially have a significant impact on such calculations and providing them may imply a degree of precision that would be confusing or potentially misleading. These components include, but are not limited to, acquisition-related expenses, restructuring expenses, asset impairments, legal settlements and other gains and losses.",
+      "token_count": 156
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "972/373-8800 or gweitman@NEXSTAR MEDIA GROUP, INC..tv",
+      "token_count": 10
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(in millions, except for share and per share amounts, unaudited)",
+      "token_count": 16
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Income from equity method investments, net (excluding impairment)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net (loss) income attributable to NEXSTAR MEDIA GROUP, INC..",
+      "token_count": 11
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Amortization of debt financing costs, debt discounts and premium",
+      "token_count": 16
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Distribution from equity method investments \u2013 return on capital",
+      "token_count": 16
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Transaction, other one-time and restructuring expenses (1)",
+      "token_count": 15
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Impairment of an equity method investment (2)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Primarily includes legal and other direct expenses associated with our pending acquisition of TEGNA, non-recurring costs related to the resolution of a disputed customer claim, direct expenses associated with financing transactions, severance and other direct expenses associated with restructuring activities.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In Q4 2025, we recorded a $381 million other-than-temporary impairment on our 31.3% investment in TV Food Network.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Reconciliation of Free Cash Flow and Adjusted Free Cash Flow (Non-GAAP Measure)",
+      "token_count": 20
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Changes in operating assets and liabilities (2)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Primarily includes legal and other direct expenses associated with our pending acquisition of TEGNA Inc., non-recurring costs related to the resolution of a disputed customer claim, direct expenses associated with financing transactions, severance and other direct expenses associated with restructuring activities.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Removes the impact of changes in operating assets and liabilities (including changes in income tax payable), net of acquisitions and dispositions.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Includes changes in income tax payable to reflect all tax payments.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Eliminates taxes paid on sale of assets related to the impact of a $40 million gain from disposal of an investment in Q1 2024.",
+      "token_count": 32
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.023229,
+    "ret_20d": 0.119248,
+    "market_ret_20d": -0.003364
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,671 @@
+{
+  "event_id": "evt_0080",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "BOX INC",
+  "ticker": "BOX",
+  "company_alias": "BOX INC",
+  "masked_company": "Company R",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026",
+  "event_date": "2026-03-03",
+  "filing_metadata": {
+    "cik": "1372612",
+    "accession_number": "0001193125-26-088171",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-03T16:07:28-05:00",
+    "event_date": "2026-03-03",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth Quarter Revenue of $306 Million and Fiscal 2026 Revenue of $1.18 Billion",
+      "token_count": 20
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fourth Quarter Remaining Performance Obligations of $1.7 Billion, up 17% Year-Over-Year, up 16% in Constant Currency",
+      "token_count": 29
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Fourth Quarter GAAP Operating Margin of 10.2% and Non-GAAP Operating Margin of 30.6%",
+      "token_count": 21
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fourth Quarter GAAP Net Income Per Share of $0.47 and Non-GAAP Net Income Per Share of $0.49",
+      "token_count": 23
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "REDWOOD CITY, Calif. \u2013 2026-03-03T16:07:28-05:00 \u2013 BOX INC. (NYSE:BOX), the leading Intelligent Content Management (\u201cICM\u201d) platform, today announced preliminary financial results for the fourth quarter and fiscal year 2026, which ended January 31, 2026.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cFiscal 2026 was a defining year for BOX INC, as we executed on the launch of Enterprise Advanced, delivering customers our most powerful capabilities around advanced AI and intelligent workflow automation, all anchored in a secure platform,\u201d said Aaron Levie, co-founder and CEO of BOX INC. \u201cEnterprise Advanced customers already account for 10% of revenue, as customers looking to leverage the power of AI to transform how they work with their enterprise content turned to our Intelligent Content Management platform. We are excited about the momentum as we enter FY27 and continue to execute on our innovative product roadmap that is shaping the future of work.\u201d",
+      "token_count": 168
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cOur strong results in fiscal 2026 demonstrate the success of our Intelligent Content Management platform strategy as we drove a significant improvement in our net retention rate,\u201d said Dylan Smith, co-founder and CFO of BOX INC. \u201cLooking ahead, we will continue to execute on our robust product roadmap and invest in strategic go-to-market initiatives, leading to accelerated revenue growth in FY27 and beyond.\u201d",
+      "token_count": 104
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "All comparisons are against the prior year comparable quarter",
+      "token_count": 16
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record revenue of $305.9 million, up 9%, or 8% on a constant currency basis.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Record remaining performance obligations (\u201cRPO\u201d) of $1.711 billion, up 17%, or 16% on a constant currency basis. Short-term RPO of $913.7 million, up 12%, and long-term RPO of $797.0 million, up 22%.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Record billings of $419.8 million, up 5%, or 4% on a constant currency basis.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record GAAP gross profit of $245.0 million, or 80.1% of revenue, up from $220.7 million, or 79.0% of revenue.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record non-GAAP gross profit of $251.8 million, or 82.3% of revenue, up from $226.4 million, or 81.0% of revenue.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record GAAP operating income of $31.2 million, or 10.2% of revenue, up from $17.9 million, or 6.4% of revenue.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record non-GAAP operating income of $93.7 million, or 30.6% of revenue, up from $76.4 million, or 27.3% of revenue.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP diluted earnings per share (\u201cEPS\u201d) of $0.47, which includes a $0.01 year-over-year benefit from favorable foreign exchange rates, as well as $0.43 from various net tax benefits. This compares to the prior year period of $1.12, which includes a net tax benefit of $1.04 from the release of a valuation allowance on deferred tax assets.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP diluted EPS of $0.49, which includes a $0.01 year-over-year benefit from favorable foreign exchange rates, as well as $0.14 from various net tax benefits. This compares to the prior year period of $0.42.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net cash provided by operating activities of $110.4 million, up 8%.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Non-GAAP free cash flow of $97.5 million, up 7%.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record revenue of $1.177 billion, up 8%, or 7% on a constant currency basis.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Record billings of $1.223 billion, up 10%, or 9% on a constant currency basis.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record GAAP gross profit of $932.6 million, or 79.2% of revenue, up from $862.0 million, or 79.1% of revenue.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record non-GAAP gross profit of $959.4 million, or 81.5% of revenue, up from $884.9 million, or 81.2% of revenue.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record GAAP operating income of $83.2 million, or 7.1% of revenue, up from $79.6 million, or 7.3% of revenue.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Record non-GAAP operating income of $333.6 million, or 28.3% of revenue, up from $303.6 million, or 27.9% of revenue.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP diluted EPS of $0.58, which includes a $0.03 year-over year benefit from favorable foreign exchange rates, as well as $0.42 from various net tax benefits. This compares to the prior year period of $1.36, which includes a net tax benefit of $1.06 from the release of a valuation allowance on deferred tax assets.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP diluted EPS of $1.44, which includes a $0.03 year-over-year benefit from favorable foreign exchange rates, as well as $0.14 from various net tax benefits. This compares to the prior year period of $1.71.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net cash provided by operating activities of $356.5 million, up 7%.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Record non-GAAP free cash flow of $312.9 million, up 3%.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Growth on a constant currency basis and impact from foreign exchange is determined by comparing current period reported results with the current results calculated using the equivalent rates in the prior period, excluding the effect of hedging.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For more information on the non-GAAP financial measures and key metrics discussed in this press release, please see the section titled, \u201cAbout Non-GAAP Financial Measures and Other Key Metrics,\u201d and the reconciliations of non-GAAP financial measures and certain key metrics to their nearest comparable GAAP financial measures at the end of this press release.",
+      "token_count": 90
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Delivered wins or expansions with leading organizations across a variety of industries, including Financial Services (Robinhood Markets and Zurich Insurance Group AG), Healthcare (Mayo Clinic and University of Virginia Health System), Legal (Gibson, Dunn & Crutcher and Ropes & Gray), Life Sciences (LivaNova and Novo Nordisk A/S), Media & Entertainment (Sega Europe Limited and Sony Music Entertainment), Public Sector (County of San Diego and Department of Energy, Savannah River Nuclear Solutions), and Retail (Ace Hardware and Chanel S.A.).",
+      "token_count": 136
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Announced the general availability of BOX INC Extract, enabling enterprises to intelligently and securely pull the most valuable information from content and save it as metadata in BOX INC--all powered by leading generative AI models.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Announced the general availability of BOX INC Shield Pro, a powerful new add-on that expands on existing BOX INC Shield content protection and leverages agentic AI to bring new levels of scale, speed, and automation to advanced security controls.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Launched a new BOX INC developer documentation site that includes AI-powered chat and advanced search, a BOX INC developer documentation MCP server, and an interactive API playground.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Served as an early launch partner and announced support for Anthropic\u2019s Claude Opus 4.5, Opus 4.6, & Sonnet 4.6, Google\u2019s Gemini 3 Flash & 3.1 Pro, and OpenAI\u2019s GPT-5.2 in BOX INC AI Studio.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Partnered with Anthropic to support MCP Apps within the BOX INC Connector in Claude, bringing visual interfaces to AI interactions to transform how users engage with enterprise content and bridge the gap between conversational AI and tangible work.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Served as a launch partner for Atlassian's new MCP Gallery in Rovo and Assign to Agent feature in Jira, bridging the gap between an organization's most important unstructured data in BOX INC and the Atlassian ecosystem.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Announced the launch of the BOX INC connector for Figma Make, a specialized integration designed to bring secure enterprise content directly into creative and product workflows.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Announced the general availability of BOX INC AI Agents in ServiceNow\u2019s Agentic AI Marketplace, providing easy, direct access to AI-powered data extraction and content insights within ServiceNow NowAssist.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Introduced the BOX INC Sign for Workday integration that enables organizations to seamlessly and securely send and manage documents for e-signature, right from within Workday.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In the fourth quarter of fiscal year 2026, BOX INC repurchased 4.4 million shares for approximately $126 million. As of January 31, 2026, approximately $59 million of buyback capacity was remaining under BOX INC\u2019s current share repurchase plan. BOX INC remains committed to opportunistically returning capital to its shareholders through an ongoing stock repurchase program.",
+      "token_count": 95
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Approximately 40% of BOX INC\u2019s revenue is generated outside of the U.S., of which approximately 65% is in Japanese Yen. The following guidance includes the expected impact of FX headwinds, assuming present foreign currency exchange rates.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "All forward-looking non-GAAP financial measures contained in this section titled \u201cOutlook\u201d exclude estimates for stock-based compensation expense, intangible assets amortization, and as applicable, other special items. BOX INC has provided a reconciliation of GAAP to non-GAAP net income per share and operating margin guidance at the end of this press release.",
+      "token_count": 91
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Note that FY27 guidance reflects a lower expected tax rate, benefiting GAAP and non-GAAP net income per share.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Revenue is expected to be approximately $304 million, up 10% year-over-year, or 9% on a constant currency basis. This includes an expected positive tailwind of approximately 90 basis points due to FX.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GAAP operating margin is expected to be approximately 8.5% and non-GAAP operating margin is expected to be approximately 27.5%. This includes an expected headwind of approximately 20 basis points due to FX.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GAAP net income per share attributable to common stockholders is expected to be approximately $0.09.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP diluted net income per share attributable to common stockholders is expected to be approximately $0.36.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Weighted-average diluted shares outstanding are expected to be approximately 141 million.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Revenue is expected to be approximately $1.275 billion, up 8% year-over-year, or 9% on a constant currency basis. This includes an expected headwind of approximately 60 basis points due to FX.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GAAP operating margin is expected to be approximately 9.5% and non-GAAP operating margin is expected to be approximately 28%. This includes an expected headwind of approximately 50 basis points due to FX.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GAAP net income per share attributable to common stockholders is expected to be approximately $0.45. GAAP EPS guidance includes an expected headwind of $0.03 due to FX.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP diluted net income per share attributable to common stockholders is expected to be approximately $1.55. Non-GAAP EPS guidance includes an expected headwind of $0.03 due to FX.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "macroeconomic conditions on its business, its ability to grow and scale its business and drive operating efficiencies, the impact of fluctuations in foreign currency exchange rates on its future results, its net retention rate, its ability to achieve revenue targets and billings expectations, its revenue and billings growth rates, its ability to expand operating margins, its long-term financial targets, its ability to maintain profitability on a quarterly or ongoing basis, its free cash flow, its ability to continue to grow unrecognized revenue and remaining performance obligations, its revenue, billings, GAAP and non-GAAP gross margins, GAAP and non-GAAP net income per share, GAAP and non-GAAP operating margins, the related components of GAAP and non-GAAP net income per share, weighted-average outstanding share count expectations for BOX INC\u2019s fiscal first quarter and full fiscal year 2027 in the section titled \u201cOutlook\u201d above, equity burn rate, any potential repurchase of its common stock, whether, when, in what amount and by what method any such repurchase would be consummated, and the share price of any such repurchase. There are a significant number of factors that could cause actual results to differ materially from statements made in this press release, including: (1) adverse changes in general economic or market conditions, including those caused by changes in tariffs, sanctions, international treaties, export/import laws and other trade restrictions, the Russia-Ukraine conflict and the conflict in the Middle East, inflation, and fluctuations in foreign currency exchange rates; (2) delays or reductions in information technology spending; (3) factors related to BOX INC\u2019s highly competitive market, including but not limited to pricing pressures, industry consolidation, entry of new competitors and new applications and marketing initiatives by BOX INC\u2019s current or future competitors; (4) the development of the intelligent content management market; (5) the risk that BOX INC\u2019s customers do not renew their subscriptions, expand their use of BOX INC\u2019s services, or adopt new products offered by BOX INC on a timely basis, or at all; (6) BOX INC\u2019s ability to provide timely and successful enhancements, integrations, new features and modifications to its platform and services; (7) actual or perceived security vulnerabilities in BOX INC\u2019s services or any breaches of BOX INC\u2019s security controls; (8) BOX INC\u2019s ability to realize the expected benefits of its third-party partnerships; and (9) BOX INC\u2019s ability to successfully integrate acquired businesses and achieve the expected benefits from those acquisitions. In addition, the preliminary financial results set forth in this release are estimates based on information currently available to BOX INC. While BOX INC believes these estimates are meaningful, they could differ from the actual amounts that BOX INC ultimately reports in its Annual Report on Form 10-K for the fiscal year ended January 31, 2026. BOX INC assumes no obligations and does not intend to update these estimates prior to filing its Form 10-K for the fiscal year ended January 31, 2026.",
+      "token_count": 795
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To supplement BOX INC\u2019s consolidated financial statements, which are prepared and presented in accordance with GAAP, BOX INC provides investors with certain non-GAAP financial measures and other key metrics, including non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating income, non-GAAP operating margin, non-GAAP net income attributable to common stockholders, non-GAAP net income per share attributable to common stockholders, billings, remaining performance obligations, non-GAAP free cash flow and free cash flow margin. The presentation of these non-GAAP financial measures and key metrics is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. For more information on these non-GAAP financial measures and key metrics, please see the reconciliation of these non-GAAP financial measures and certain key metrics to their nearest comparable GAAP financial measures at the end of this press release.",
+      "token_count": 256
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "BOX INC uses these non-GAAP financial measures and key metrics for financial and operational decision-making (including for purposes of determining variable compensation of members of management and other employees) and as a means to evaluate period-to-period comparisons. BOX INC\u2019s management believes that these non-GAAP financial measures and key metrics provide meaningful supplemental information regarding BOX INC\u2019s performance by excluding certain expenses that may not be indicative of BOX INC\u2019s recurring core business operating results. BOX INC believes that both management and investors benefit from referring to these non-GAAP financial measures and key metrics in assessing BOX INC\u2019s performance and when planning, forecasting, and analyzing future periods. These non-GAAP financial measures and key metrics also facilitate management's internal comparisons to BOX INC\u2019s historical performance as well as comparisons to BOX INC\u2019s competitors' operating results. BOX INC believes these non-GAAP financial measures and key metrics are useful to investors both because they (1) allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making and (2) are used by BOX INC\u2019s institutional investors and the analyst community to help them analyze the health of BOX INC\u2019s business.",
+      "token_count": 343
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "A limitation of non-GAAP financial measures and key metrics is that they do not have uniform definitions. Further, BOX INC\u2019s definitions will likely differ from the definitions used by other companies, including peer companies, and therefore comparability may be limited. Thus, BOX INC\u2019s non-GAAP financial measures and key metrics should be considered in addition to, and not as a substitute for, or in isolation from, measures prepared in accordance with GAAP. Additionally, in the case of stock-based compensation expense, if BOX INC did not pay a portion of compensation in the form of stock-based compensation expense, the cash salary expense included in cost of",
+      "token_count": 169
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "revenue and operating expenses would be higher, which would affect BOX INC\u2019s cash position. The accompanying tables have more details on the reconciliations of non-GAAP financial measures and certain key metrics to their nearest comparable GAAP financial measures.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating income, non-GAAP operating margin, non-GAAP net income attributable to common stockholders, and non-GAAP net income per share attributable to common stockholders. BOX INC defines these non-GAAP financial measures as the respective GAAP measures, excluding expenses related to stock-based compensation (\u201cSBC\u201d), acquired intangible assets amortization, and as applicable, other special items. Although SBC is an important aspect of the compensation of BOX INC\u2019s employees and executives, determining the fair value of certain of the stock-based instruments BOX INC utilizes estimation and the expense recorded may bear little resemblance to the actual value realized upon the vesting or future exercise of the related stock-based awards. Management believes it is useful to exclude SBC in order to better understand the long-term performance of BOX INC\u2019s core business and to facilitate comparison of BOX INC\u2019s results to those of peer companies. Management also views amortization of acquired intangible assets, such as the amortization of the cost associated with an acquired company\u2019s developed technology and trade names, as items arising from pre-acquisition activities determined at the time of an acquisition. While these intangible assets are continually evaluated for impairment, amortization of the cost of purchased intangibles is a static expense that is not typically affected by operations during any particular period. BOX INC excludes the following expenses as they are considered by management to be special items outside of BOX INC\u2019s core operating results: (1) expenses related to certain litigation, (2) expenses associated with a non-recurring workforce reorganization, consisting primarily of severance and other personnel-related costs, and (3) expenses related to acquisitions. In addition to these expenses, BOX INC excludes the following items to calculate non-GAAP net income attributable to common stockholders: (1) amortization of debt issuance costs, (2) induced conversion of convertible notes, (3) the income tax benefit from the release of a valuation allowance on deferred tax assets, (4) non-recurring benefits of federal research and development (\u201cR&D\u201d) credits carryforwards and related uncertain tax positions (\u201cUTPs\u201d), (5) the income tax effects of non-GAAP adjustments, and (6) undistributed earnings attributable to preferred stockholders. Non-GAAP gross margin and non-GAAP operating margin are defined as non-GAAP gross profit and non-GAAP operating income as a percentage of revenue, respectively. Non-GAAP net income per share attributable to common stockholders is defined as non-GAAP net income attributable to common stockholders divided by the weighted-average outstanding shares.",
+      "token_count": 702
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Billings. Billings reflect, in any particular period, (1) sales to new customers, plus (2) subscription renewals and (3) expansion within existing customers, and represent amounts invoiced for all products and professional services. BOX INC calculates billings for a period by adding changes in deferred revenue and contract assets in that period to revenue. BOX INC believes that billings help investors better understand sales activity for a particular period, which is not necessarily reflected in revenue as a result of the fact that BOX INC recognizes subscription revenue ratably over the subscription term. BOX INC considers billings a significant performance measure. BOX INC monitors billings to manage the business, make planning decisions, evaluate performance and allocate resources. BOX INC believes that billings offers valuable supplemental information regarding the performance of the business and helps investors better understand the sales volumes and performance of the business. Although BOX INC considers billings to be a significant performance measure, BOX INC does not consider it to be a non-GAAP financial measure because it is calculated using exclusively revenue, deferred revenue, and contract assets, all of which are financial measures calculated in accordance with GAAP.",
+      "token_count": 330
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Remaining performance obligations. Remaining performance obligations (\u201cRPO\u201d) represent, at a point in time, contracted revenue that has not yet been recognized. RPO consists of deferred revenue and backlog. Backlog is defined as non-cancellable contracts deemed certain to be invoiced and recognized as revenue in future periods. Future invoicing is determined to be certain when we have an executed non-cancellable contract or a significant penalty that is due upon cancellation. While BOX INC believes RPO is a leading indicator of revenue as it represents sales activity not yet recognized in revenue, it is not necessarily indicative of future revenue growth as it is influenced by several factors, including seasonality, contract renewal timing, average contract terms and foreign currency exchange rates. BOX INC monitors RPO to manage the business and evaluate performance. BOX INC considers RPO to be a significant performance measure. BOX INC does not consider RPO to be a non-GAAP financial measure because it is calculated in accordance with GAAP, specifically under ASC Topic 606.",
+      "token_count": 275
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP free cash flow and free cash flow margin. BOX INC defines non-GAAP free cash flow as cash flows from operating activities less net capital expenditures (purchases of property and equipment less proceeds from sales of property and equipment), principal payments of finance lease liabilities, capitalized software development costs, and other items that did not or are not expected to require cash settlement and that management considers to be outside of BOX INC\u2019s core business. Free cash flow margin is calculated as non-GAAP free cash flow divided by revenue. BOX INC specifically identifies adjusting items in the reconciliation of GAAP to non-GAAP financial measures. BOX INC considers non-GAAP free cash flow to be a profitability and liquidity measure that provides useful information to management and investors about the amount of cash generated by the business that can possibly be used for investing in BOX INC's business and strengthening its balance sheet, but it is not intended to represent the residual cash flow available for discretionary expenditures. The presentation of non-GAAP free cash flow is also not meant to be considered in isolation or as an alternative to cash flows from operating activities as a measure of liquidity.",
+      "token_count": 317
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "BOX INC (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enables organizations to fuel collaboration, manage the entire content lifecycle, secure critical content, and transform business workflows with enterprise AI. Founded in 2005, BOX INC simplifies work for leading global organizations, including JLL, Morgan Stanley, and Nationwide. BOX INC is headquartered in Redwood City, CA, with offices across the United States, Europe, and Asia. Visit BOX INC.com to learn more. And visit BOX INC.org to learn more about how BOX INC empowers nonprofits to fulfill their missions.",
+      "token_count": 155
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Total liabilities, convertible preferred stock and stockholders\u2019 deficit",
+      "token_count": 18
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Accretion and dividend on series A convertible preferred stock",
+      "token_count": 16
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Weighted-average shares used to compute net income per share attributable to common stockholders",
+      "token_count": 24
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Proceeds from issuance of 2029 Convertible Notes, net of issuance costs",
+      "token_count": 18
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Partial repurchase of 2026 Convertible Notes",
+      "token_count": 11
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Principal payments upon maturity of 2026 Convertible Notes",
+      "token_count": 15
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Proceeds from issuances of common stock under employee stock purchase plan",
+      "token_count": 19
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Employee payroll taxes paid for net settlement of stock awards",
+      "token_count": 16
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+      "token_count": 20
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net (decrease) increase in cash, cash equivalents, and restricted cash",
+      "token_count": 18
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash, beginning of period",
+      "token_count": 16
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash, end of period",
+      "token_count": 15
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP net income and net income per share attributable to common stockholders, diluted",
+      "token_count": 22
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Benefit from the release of a valuation allowance on deferred tax assets",
+      "token_count": 18
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Income tax effects of non-GAAP adjustments (2)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP net income and net income per share attributable to common stockholders, diluted",
+      "token_count": 23
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted (1)",
+      "token_count": 29
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Weighted-average shares used to compute non-GAAP net income per share attributable to common stockholders, diluted",
+      "token_count": 29
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "For the fiscal year and three months ended January 31, 2025, weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted exclude weighted-average shares related to the induced conversion of our convertible senior notes due January 15, 2026 because the impact was antidilutive.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Non-GAAP tax provision for the fiscal year ended January 31, 2026 uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Less: deferred revenue, beginning of period",
+      "token_count": 11
+    },
+    {
+      "source_id": "S086",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Less: contract assets, end of period",
+      "token_count": 9
+    },
+    {
+      "source_id": "S087",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GAAP net income per share attributable to common stockholders range, diluted",
+      "token_count": 19
+    },
+    {
+      "source_id": "S088",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Income tax effects of non-GAAP adjustments (1)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S089",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP net income per share attributable to common stockholders range, diluted",
+      "token_count": 20
+    },
+    {
+      "source_id": "S090",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP tax provision uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S091",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Other includes acquired intangible assets amortization and expense related to litigation.",
+      "token_count": 23
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.048203,
+    "ret_20d": -0.075734,
+    "market_ret_20d": -0.021685
+  },
+  "outcome_blind": true
+}

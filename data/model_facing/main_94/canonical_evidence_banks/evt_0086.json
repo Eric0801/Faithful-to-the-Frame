@@ -1,0 +1,974 @@
+{
+  "event_id": "evt_0086",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Macy's, Inc.",
+  "ticker": "M",
+  "company_alias": "Macy's, Inc.",
+  "masked_company": "Company BR",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-18",
+  "accepted_at_et": "2026-03-18T07:06:04-04:00",
+  "source_packet_path": "source_packets/evt_0086.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Macy\u2019s, Inc. and Macy\u2019s Return to Annual Comparable Sales Growth; Fourth Quarter and Fiscal Year 2025 Results Exceed Guidance",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Bold New Chapter gained traction across all nameplates during fourth quarter,",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Bold New Chapter gained traction across all nameplates during fourth quarter,",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Bloomingdale\u2019s achieved its best holiday performance on record in the fourth quarter",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Bloomingdale\u2019s achieved its best holiday performance on record in the fourth quarter",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "Macy\u2019s expands strategic initiatives to 75 additional stores, creating \u201cReimagine 200\u201d for 2026",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Macy\u2019s expands strategic initiatives to 75 additional stores, creating \u201cReimagine 200\u201d for 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "NEW YORK \u20142026-03-18T07:06:04-04:00\u2014 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "NEW YORK \u20142026-03-18T07:06:04-04:00\u2014 Macy\u2019s, Inc. (NYSE: M) today reported financial results for the fourth quarter and fiscal year 2025 and provided fiscal year 2026 guidance.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Macy\u2019s, Inc. achieved go-forward comparable sales growth of 2.0%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s go-forward comparable sales increased 0.6%, inclusive of Reimagine 125 store comparable sales growth of 0.9%.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Macy\u2019s go-forward comparable sales increased 0.6%, inclusive of Reimagine 125 store comparable sales growth of 0.9%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\u2022 Bloomingdale\u2019s comparable sales rose 9.9%.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Bloomingdale\u2019s comparable sales rose 9.9%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\u2022 Bluemercury comparable sales grew 1.3%.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Bluemercury comparable sales grew 1.3%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Macy\u2019s, Inc. achieved GAAP diluted earnings per share (\u201cEPS\u201d) of $1.84; Adjusted diluted EPS of $1.67 exceeded the company\u2019s guidance.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Macy\u2019s, Inc. returned to positive comparable sales growth, up 1.5%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s go-forward comparable sales increased 0.6%, inclusive of Reimagine 125 store comparable sales growth of 1.0%.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Macy\u2019s go-forward comparable sales increased 0.6%, inclusive of Reimagine 125 store comparable sales growth of 1.0%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 Macy\u2019s, Inc. delivered GAAP diluted EPS and Adjusted diluted EPS of $2.32, exceeding the company\u2019s most recent guidance range of $2.00 to $2.20 despite tariff headwinds.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 Macy\u2019s, Inc. ended the year with $1.2 billion of cash and cash equivalents and generated operating cash \ufb02ow of $1.4 billion and free cash flow of $0.8 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "\u2022 Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Macy\u2019s, Inc. returned $448 million to shareholders, including $197 million of cash dividends and $251 million in share repurchases.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "\u201cAs we wrap up year two of the Bold New Chapter, I\u2019m pleased with the growth and progress we\u2019re making against our strategic priorities,\u201d said Tony Spring, chairman and chief executive officer of Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u201cAs we wrap up year two of the Bold New Chapter, I\u2019m pleased with the growth and progress we\u2019re making against our strategic priorities,\u201d said Tony Spring, chairman and chief executive officer of Macy\u2019s, Inc. \u201cAt Macy\u2019s, we are offering more relevant brands, stronger storytell...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Macy\u2019s, Inc. net sales, inclusive of store closures, decreased 1.7% 2 to $7.6 billion, with comparable sales up 1.8%. Comparable sales reflect positive comparable sales at each of the company\u2019s nameplates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "\u2022 Macy\u2019s net sales, inclusive of store closures, were down 3.2% 2 .",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Macy\u2019s net sales, inclusive of store closures, were down 3.2% 2 . Comparable sales were up 0.4%. Macy\u2019s go-forward business 2 comparable sales were up 0.6%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "\u25e6 Reimagine 125 locations comparable sales were up 0.9%.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u25e6 Reimagine 125 locations comparable sales were up 0.9%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "\u2022 Bloomingdale\u2019s net sales were up 8.5%.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Bloomingdale\u2019s net sales were up 8.5%. Comparable sales were up 9.9%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "\u2022 Bluemercury net sales were up 2.5% and comparable sales were up 1.3%.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 Bluemercury net sales were up 2.5% and comparable sales were up 1.3%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "\u2022 Credit card revenues, net increased $30 million, or 17.1%, to $205 million, primarily due to the company\u2019s healthy credit portfolio.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 Credit card revenues, net increased $30 million, or 17.1%, to $205 million, primarily due to the company\u2019s healthy credit portfolio.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "\u2022 Macy\u2019s Media Network revenue, net rose $8 million, or 12.5%, to $72 million.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Macy\u2019s Media Network revenue, net rose $8 million, or 12.5%, to $72 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Gross margin rate 3 of 35.2% decreased 50 basis points.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Gross margin rate 3 of 35.2% decreased 50 basis points. The decline was primarily attributable to an approximately 60 basis point tariff impact, which was in-line with the company\u2019s expectations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Selling, general and administrative (\u201cSG&A\u201d) expense of $2.4 billion decreased $23 million, reflecting the net benefit from closed Macy\u2019s locations, continued cost containment efforts, and end-to-end savings initiatives, partially offset by ongoing investments in the go-forward business, including Reimagine 125 locations, Bloomingdale\u2019s and digital across nameplates.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Selling, general and administrative (\u201cSG&A\u201d) expense of $2.4 billion decreased $23 million, reflecting the net benefit from closed Macy\u2019s locations, continued cost containment efforts, and end-to-end savings initiatives, partially offset by ongoing investments in the go-forwar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Asset sale gains were $3 million compared to $41 million reflecting fewer transactions year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Asset sale gains were $3 million compared to $41 million reflecting fewer transactions year-over-year. The company remains committed to closing underproductive stores taking a disciplined approach to transactions. Its balance sheet strength provides flexibility to generate the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "GAAP net income was $507 million 4 , or 6.4% of total revenue, and Adjusted net income was $458 million, or 5.8% of total revenue.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "GAAP net income was $507 million 4 , or 6.4% of total revenue, and Adjusted net income was $458 million, or 5.8% of total revenue. In the fourth quarter of 2024, net income was $342 million, or 4.3% of total revenue, and Adjusted net income was $507 million, or 6.3% of total r...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "GAAP and Adjusted diluted EPS were $1.84 4 and $1.67, respectively.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "GAAP and Adjusted diluted EPS were $1.84 4 and $1.67, respectively. In the fourth quarter of 2024, GAAP and Adjusted diluted EPS were $1.21 and $1.80, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "Adjusted earnings before interest, taxes, and depreciation and amortization (\u201cEBITDA\u201d) was $840 million, or 10.6% of total revenue, and Core Adjusted EBITDA 5 was $837 million, or 10.6% of total revenue.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Adjusted earnings before interest, taxes, and depreciation and amortization (\u201cEBITDA\u201d) was $840 million, or 10.6% of total revenue, and Core Adjusted EBITDA 5 was $837 million, or 10.6% of total revenue. In the fourth quarter of 2024, Adjusted EBITDA was $903 million, or 11.3%...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Macy\u2019s, Inc. net sales, inclusive of store closures, decreased 2.4% 2 to $21.8 billion, with comparable sales up 1.5%. Comparable sales growth at Macy\u2019s Reimagine 125 locations, Bloomingdale\u2019s, Bluemercury and digital channels were offset primarily by Macy\u2019s non-go-forward loc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "\u2022 Macy\u2019s net sales, inclusive of store closures, were down 3.8% 2 .",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 Macy\u2019s net sales, inclusive of store closures, were down 3.8% 2 . Comparable sales were up 0.4%. Macy\u2019s go-forward business comparable sales were up 0.6%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "\u25e6 Reimagine 125 locations comparable sales were up 1.0%.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "\u25e6 Reimagine 125 locations comparable sales were up 1.0%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "\u2022 Bloomingdale\u2019s net sales were up 6.3%, with comparable sales up 7.4%.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 Bloomingdale\u2019s net sales were up 6.3%, with comparable sales up 7.4%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "\u2022 Bluemercury net sales were up 2.6% and comparable sales were up 1.6%.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "\u2022 Bluemercury net sales were up 2.6% and comparable sales were up 1.6%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "\u2022 Credit card net revenues increased $132 million, or 24.6%, to $669 million, reflecting the health of the portfolio.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 Credit card net revenues increased $132 million, or 24.6%, to $669 million, reflecting the health of the portfolio.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "revenue",
+      "claim": "\u2022 Macy\u2019s Media Network net revenue rose $12 million, or 6.8%, to $188 million.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 Macy\u2019s Media Network net revenue rose $12 million, or 6.8%, to $188 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "Gross margin rate of 38.0% declined 40 basis points.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Gross margin rate of 38.0% declined 40 basis points. The decline was attributable to a 40 basis point tariff impact and proactive markdowns on remaining early Spring product in the second quarter to maintain healthy inventories and product bought under prior tariff rates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "SG&A expense of $8.2 billion decreased $90 million, reflecting the net benefit from the 64 closed Macy\u2019s locations, continued cost containment efforts and end-to-end savings initiatives, partially offset by ongoing investments in the go-forward business, including Reimagine 125 locations, Bloomingdale\u2019s and digital across nameplates.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "SG&A expense of $8.2 billion decreased $90 million, reflecting the net benefit from the 64 closed Macy\u2019s locations, continued cost containment efforts and end-to-end savings initiatives, partially offset by ongoing investments in the go-forward business, including Reimagine 12...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Asset sale gains of $48 million were $96 million lower.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Asset sale gains of $48 million were $96 million lower. As part of its Bold New Chapter strategy, in fiscal year 2025, the company monetized non-go-forward assets, which contributed to fiscal year asset sale gains.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "GAAP net income was $642 million 4 , or 2.8% of total revenue, and Adjusted net income was $643 million, or 2.8% of total revenue.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "GAAP net income was $642 million 4 , or 2.8% of total revenue, and Adjusted net income was $643 million, or 2.8% of total revenue. In fiscal year 2024, net income was $582 million, or 2.5% of total revenue, and Adjusted net income was $745 million, or 3.2% of total revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "GAAP diluted EPS was $2.32 4 and Adjusted diluted EPS was $2.32, compared to GAAP diluted EPS of $2.07 and Adjusted diluted EPS of $2.64 in fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "GAAP diluted EPS was $2.32 4 and Adjusted diluted EPS was $2.32, compared to GAAP diluted EPS of $2.07 and Adjusted diluted EPS of $2.64 in fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "Adjusted EBITDA was $1.8 billion, or 8.1% of total revenue, and Core Adjusted EBITDA 5 was $1.8 billion or 7.9% of total revenue.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Adjusted EBITDA was $1.8 billion, or 8.1% of total revenue, and Core Adjusted EBITDA 5 was $1.8 billion or 7.9% of total revenue. In fiscal year 2024, Adjusted EBITDA was $2.0 billion, or 8.6% of total revenue, and Core Adjusted EBITDA was $1.8 billion, or 8.0% of total revenue",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "Merchandise inventories decreased 1.3% year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Merchandise inventories decreased 1.3% year-over-year. The company believes the composition and level of inventories are well-positioned heading into fiscal year 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "The company ended fiscal year 2025 with cash and cash equivalents of $1.2 billion and had $2.0 billion of available borrowing capacity under its asset-based credit facility.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "The company ended fiscal year 2025 with cash and cash equivalents of $1.2 billion and had $2.0 billion of available borrowing capacity under its asset-based credit facility.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "As of the end of fiscal year 2025, total debt was $2.4 billion.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "As of the end of fiscal year 2025, total debt was $2.4 billion. The company has no material long-term debt maturities until 2030.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "revenue",
+      "claim": "Through its quarterly dividend, the company returned $48 million in cash to shareholders in the fourth quarter of 2025, and $197 million for the 2025 fiscal year.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Through its quarterly dividend, the company returned $48 million in cash to shareholders in the fourth quarter of 2025, and $197 million for the 2025 fiscal year. Additionally, on February 27, 2026, Macy\u2019s, Inc.\u2019s board of directors declared a regular quarterly dividend of 19....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "During the fourth quarter of 2025, the company repurchased 2.3 million of its shares for $50 million, bringing total fiscal year 2025 repurchases to 17.7 million shares for $251 million.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "During the fourth quarter of 2025, the company repurchased 2.3 million of its shares for $50 million, bringing total fiscal year 2025 repurchases to 17.7 million shares for $251 million. The company had approximately $1.1 billion remaining under its $2.0 billion share repurcha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "revenue",
+      "claim": "1: Comparable sales refers to owned-plus-licensed-plus-marketplace sales.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "1: Comparable sales refers to owned-plus-licensed-plus-marketplace sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "2: Reflects the impact of fiscal 2024 store closures, primarily Macy\u2019s nameplate locations, which contributed approximately $200 million in the fourth quarter of 2024 and approximately $700 million in full year 2024.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "2: Reflects the impact of fiscal 2024 store closures, primarily Macy\u2019s nameplate locations, which contributed approximately $200 million in the fourth quarter of 2024 and approximately $700 million in full year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "revenue",
+      "claim": "3: Inclusive of go-forward locations and digital, unless otherwise specified.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "3: Inclusive of go-forward locations and digital, unless otherwise specified. For Macy\u2019s, Inc. this reflects go-forward locations and digital across all three nameplates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "4: Inclusive of $328 million of pre-tax income related to the settlement of agreements to resolve credit card interchange fee litigation matters, net of legal fees.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "4: Inclusive of $328 million of pre-tax income related to the settlement of agreements to resolve credit card interchange fee litigation matters, net of legal fees.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "5: Defined as Adjusted EBITDA excluding asset sale gains.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "5: Defined as Adjusted EBITDA excluding asset sale gains.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "The company is providing its annual fiscal year 2026 guidance.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "The company is providing its annual fiscal year 2026 guidance. It recognizes that there are macroeconomic and geopolitical factors that could influence discretionary spend. As such, the company is taking a prudent approach to guidance, giving flexibility within its business mo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "The full outlook for 2026, including the first quarter of 2026, can be found in the presentation posted to www.macysinc.com/investors.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "The full outlook for 2026, including the first quarter of 2026, can be found in the presentation posted to www.macysinc.com/investors. For Macy\u2019s, Inc. the company expects:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "Fiscal 2026 Guidance Fiscal 2025 Actuals Net sales 1 $21.4 billion to $21.65 billion $21.8 billion Comparable sales change 2 (0.5%) to 0.5% 1.5% Adjusted EBITDA as a percent of total revenue 3 7.7% to 7.9% 7.9% Adjusted diluted EPS 3, 4 $1.90 to $2.10 $2.15",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Fiscal 2026 Guidance Fiscal 2025 Actuals Net sales 1 $21.4 billion to $21.65 billion $21.8 billion Comparable sales change 2 (0.5%) to 0.5% 1.5% Adjusted EBITDA as a percent of total revenue 3 7.7% to 7.9% 7.9% Adjusted diluted EPS 3, 4 $1.90 to $2.10 $2.15",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "guidance",
+      "claim": "1: Reflects the impact of fiscal 2025 store closures which contributed roughly $145 million of annual net sales.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "1: Reflects the impact of fiscal 2025 store closures which contributed roughly $145 million of annual net sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "guidance",
+      "claim": "2: Comparable sales refers to owned-plus-licensed-plus-marketplace sales.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "2: Comparable sales refers to owned-plus-licensed-plus-marketplace sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "guidance",
+      "claim": "3: Updated definitions to now exclude gains on sale of real estate and benefit plan income based on the company\u2019s non-GAAP definitions as described in its Form 8-K filing on February 18, 2026.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "3: Updated definitions to now exclude gains on sale of real estate and benefit plan income based on the company\u2019s non-GAAP definitions as described in its Form 8-K filing on February 18, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "guidance",
+      "claim": "4: The impact of any potential future share repurchases associated with the company\u2019s current share repurchase authorization is not considered within guidance.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "4: The impact of any potential future share repurchases associated with the company\u2019s current share repurchase authorization is not considered within guidance.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "guidance",
+      "claim": "The company does not provide reconciliations of the forward-looking non-GAAP measures of Adjusted EBITDA as a percent of total revenue and adjusted diluted EPS to the most directly comparable forward-looking GAAP measures, and is unable to address the probable significance to future results of any items excluded from these measures, because the timing and amount of excluded items are unreasonably difficult to fully and accurately estimate.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "The company does not provide reconciliations of the forward-looking non-GAAP measures of Adjusted EBITDA as a percent of total revenue and adjusted diluted EPS to the most directly comparable forward-looking GAAP measures, and is unable to address the probable significance to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "guidance",
+      "claim": "Please see the final pages of this news release for important information regarding the calculation of the company\u2019s non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Please see the final pages of this news release for important information regarding the calculation of the company\u2019s non-GAAP financial measures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "guidance",
+      "claim": "Macy\u2019s, Inc.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Macy\u2019s, Inc. (NYSE: M) is a trusted source for quality brands through our iconic nameplates \u2013 Macy\u2019s, Bloomingdale\u2019s and Bluemercury. Headquartered in New York City, our comprehensive digital and nationwide footprint empowers us to deliver a seamless shopping experience for ou...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "(All amounts in millions except percentages and per share figures)",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(All amounts in millions except percentages and per share figures)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 $ % to Net sales % to Total revenue $ % to Net sales % to Total revenue Net sales $ 7,639 $ 7,768 Other revenue (Note 1) 277 3.6 % 239 3.1 % Total revenue 7,916 8,007 Cost of sales (4,947) (64.8 %) (4,991) (64.3 %) Selling, general and administrative expenses (2,359) (29.8 %) (2,382) (29.7 %) Gains on sale of real estate 3 \u2014 % 41 0.5 % Impairment, restructuring and other costs (196) (2.5 %) (175) (2.2 %) Interchange fee settlement, net 328 4.1 % \u2014 \u2014 % Operating income 745 9.4 % 500 6.2 % Benefit plan income, net 4 4 Pension settlement charges (67) (46) Interest expense, net (20) (22) Income before income taxes 662 436 Federal, state and local income tax expense (Note 2) (155) (94) Net income $ 507 $ 342 Basic earnings per share $ 1.91 $ 1.23 Diluted earnings per share $ 1.84 $ 1.21 Average common shares: Basic 265.2 278.5 Diluted 274.9 282.6 End of period common shares outstanding 263.0 277.7 Supplemental Financial Measures: Gross Margin (Note 3) $ 2,692 35.2 % $ 2,777 35.7 % Depreciation and amortization expense $ 223 $ 224",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 $ % to Net sales % to Total revenue $ % to Net sales % to Total revenue Net sales $ 7,639 $ 7,768 Other revenue (Note 1) 277 3.6 % 239 3.1 % Total revenue 7,916 8,007 Cost of sales (4,947) (64.8 %) (4,991) (64.3 %...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "revenue",
+      "claim": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 $ % to Net sales % to Total revenue $ % to Net sales % to Total revenue Net sales $ 21,764 $ 22,293 Other revenue (Note 1) 857 3.9 % 713 3.2 % Total revenue 22,621 23,006 Cost of sales (13,497) (62.0 %) (13,740) (61.6 %) Selling, general and administrative expenses (8,240) (36.4 %) (8,330) (36.2 %) Gains on sale of real estate 48 0.2 % 144 0.6 % Impairment, restructuring and other costs (230) (1.0 %) (171) (0.7 %) Interchange fee settlement, net 328 1.4 % \u2014 \u2014 % Operating income 1,030 4.6 % 909 4.0 % Benefit plan income, net 16 16 Pension settlement charges (67) (46) Interest expense, net (97) (115) Loss on extinguishment of debt (33) (1) Income before income taxes 849 763 Federal, state and local income tax expense (Note 2) (207) (181) Net income $ 642 $ 582 Basic earnings per share $ 2.37 $ 2.10 Diluted earnings per share $ 2.32 $ 2.07 Average common shares: Basic 270.6 277.7 Diluted 276.5 281.6 End of period common shares outstanding 263.0 277.7 Supplemental Financial Measures: Gross Margin (Note 3) $ 8,267 38.0 % $ 8,553 38.4 % Depreciation and amortization expense $ 894 $ 881",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 $ % to Net sales % to Total revenue $ % to Net sales % to Total revenue Net sales $ 21,764 $ 22,293 Other revenue (Note 1) 857 3.9 % 713 3.2 % Total revenue 22,621 23,006 Cost of sales (13,497) (62.0 %) (13,740) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "costs_or_expenses",
+      "claim": "January 31, 2026 February 1, 2025 ASSETS: Current Assets: Cash and cash equivalents $ 1,246 $ 1,306 Receivables 628 303 Merchandise inventories 4,412 4,468 Prepaid expenses and other current assets 387 385 Income taxes receivable \u2014 17 Total Current Assets 6,673 6,479 Property and Equipment \u2013 net 4,743 5,070 Right of Use Assets 2,136 2,243 Goodwill 828 828 Other Intangible Assets \u2013 net 420 425 Other Assets 1,438 1,357 Total Assets $ 16,238 $ 16,402 LIABILITIES AND SHAREHOLDERS\u2019 EQUITY: Current Liabilities: Short-term debt $ \u2014 $ 6 Merchandise accounts payable 1,807 1,893 Accounts payable and accrued liabilities 2,615 2,625 Income taxes payable 71 \u2014 Total Current Liabilities 4,493 4,524 Long-Term Debt 2,432 2,773 Long-Term Lease Liabilities 2,772 2,927 Deferred Income Taxes 805 724 Other Liabilities 876 902 Shareholders' Equity 4,860 4,552 Total Liabilities and Shareholders\u2019 Equity $ 16,238 $ 16,402",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "January 31, 2026 February 1, 2025 ASSETS: Current Assets: Cash and cash equivalents $ 1,246 $ 1,306 Receivables 628 303 Merchandise inventories 4,412 4,468 Prepaid expenses and other current assets 387 385 Income taxes receivable \u2014 17 Total Current Assets 6,673 6,479 Property...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "balance_sheet_or_cash",
+      "claim": "Consolidated Statements of Cash Flows (Unaudited) (Note 4)",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Consolidated Statements of Cash Flows (Unaudited) (Note 4)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "earnings_or_eps",
+      "claim": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Cash flows from operating activities: Net income $ 642 $ 582 Adjustments to reconcile net income to net cash provided by operating activities: Impairment, restructuring and other costs 230 171 Pension settlement charges 67 46 Depreciation and amortization 894 881 Benefit plans 2 2 Stock-based compensation expense 59 58 Gains on sale of real estate (48) (144) Deferred income taxes 62 (52) Amortization of financing costs and premium on acquired debt 8 11 Changes in assets and liabilities: (Increase) decrease in receivables (325) 2 (Increase) decrease in merchandise inventories 51 (51) (Increase) decrease in prepaid expenses and other current assets (13) 11 Decrease in merchandise accounts payable (74) (11) Decrease in accounts payable and accrued liabilities (83) (49) Increase (decrease) in current income taxes 77 (69) Change in other assets and liabilities (119) (110) Net cash provided by operating activities 1,430 1,278 Cash flows from investing activities: Purchase of property and equipment (373) (518) Capitalized software (367) (364) Proceeds from disposition of assets, net 107 283 Other, net (6) 7 Net cash used by investing activities (639) (592) Cash flows from financing activities: Debt issued 500 301 Debt issuance costs (13) (1) Debt repaid (846) (524) Debt repurchase premium and expenses (27) 1 Dividends paid (197) (192) Increase (decrease) in outstanding checks (19) 3 Acquisition of treasury stock (250) (1) Net cash used by financing activities (852) (413) Net increase (decrease) in cash, cash equivalents and restricted cash (61) 273 Cash, cash equivalents and restricted cash beginning of period 1,310 1,037 Cash, cash equivalents and restricted cash end of period $ 1,249 $ 1,310",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Cash flows from operating activities: Net income $ 642 $ 582 Adjustments to reconcile net income to net cash provided by operating activities: Impairment, restructuring and other costs 230 171 Pension settlement c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "revenue",
+      "claim": "(1) Other Revenue is inclusive of the following amounts.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "(1) Other Revenue is inclusive of the following amounts. All amounts in millions except percentages.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "revenue",
+      "claim": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 $ % to Net sales $ % to Net sales Credit card revenues, net $ 205 2.7 % $ 175 2.3 % Macy's, Inc.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 $ % to Net sales $ % to Net sales Credit card revenues, net $ 205 2.7 % $ 175 2.3 % Macy's, Inc. Media Network revenue, net 72 0.9 % 64 0.8 % Other Revenue $ 277 3.6 % $ 239 3.1 % Net Sales $ 7,639 $ 7,768 52 Week...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "costs_or_expenses",
+      "claim": "(2) Income tax expense of $155 million and $207 million, or 23.4% and 24.4% of pretax income, for the 13 and 52 weeks ended January 31, 2026, respectively, reflect a different effective tax rate as compared to the company\u2019s federal income tax statutory rate of 21% driven primarily by the impact of state and local taxes.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "(2) Income tax expense of $155 million and $207 million, or 23.4% and 24.4% of pretax income, for the 13 and 52 weeks ended January 31, 2026, respectively, reflect a different effective tax rate as compared to the company\u2019s federal income tax statutory rate of 21% driven prima...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "costs_or_expenses",
+      "claim": "Income tax expense of $94 million and $181 million, or 21.6% and 23.7% of pretax income, for the 13 and 52 weeks ended February 1, 2025, reflected a different effective tax rate as compared to the company's federal income tax statutory rate of 21% driven primarily by the impact of state and local taxes.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Income tax expense of $94 million and $181 million, or 21.6% and 23.7% of pretax income, for the 13 and 52 weeks ended February 1, 2025, reflected a different effective tax rate as compared to the company's federal income tax statutory rate of 21% driven primarily by the impac...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "revenue",
+      "claim": "(3) Gross margin is defined as net sales less cost of sales.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(3) Gross margin is defined as net sales less cost of sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "balance_sheet_or_cash",
+      "claim": "(4) Restricted cash of $3 million and $4 million have been included with cash and cash equivalents for the 52 weeks ended January 31, 2026 and February 1, 2025, respectively .",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "(4) Restricted cash of $3 million and $4 million have been included with cash and cash equivalents for the 52 weeks ended January 31, 2026 and February 1, 2025, respectively .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "earnings_or_eps",
+      "claim": "The company reports its financial results in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "The company reports its financial results in accordance with U.S. generally accepted accounting principles (GAAP). However, management believes that certain non-GAAP financial measures provide users of the company's financial information with additional useful information in e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "revenue",
+      "claim": "The company does not provide reconciliations of the forward-looking non-GAAP measures of Adjusted EBITDA as a percent of total revenue and adjusted diluted earnings per share to the most directly comparable forward-looking GAAP measures, and is unable to address the probable significance to future results of any items excluded from these measures, because the timing and amount of excluded items are unreasonably difficult to fully and accurately estimate.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "The company does not provide reconciliations of the forward-looking non-GAAP measures of Adjusted EBITDA as a percent of total revenue and adjusted diluted earnings per share to the most directly comparable forward-looking GAAP measures, and is unable to address the probable s...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "revenue",
+      "claim": "Non-GAAP financial measures should be viewed as supplementing, and not as an alternative or substitute for, the company's financial results prepared in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Non-GAAP financial measures should be viewed as supplementing, and not as an alternative or substitute for, the company's financial results prepared in accordance with GAAP. Certain of the items that may be excluded or included in non-GAAP financial measures may be significant...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 EBITDA, adjusted EBITDA and core adjusted EBITDA are reconciled to GAAP net income.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "\u2022 EBITDA, adjusted EBITDA and core adjusted EBITDA are reconciled to GAAP net income.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Adjusted net income is reconciled to GAAP net income.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "\u2022 Adjusted net income is reconciled to GAAP net income.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Adjusted diluted earnings per share is reconciled to GAAP diluted earnings per share.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "\u2022 Adjusted diluted earnings per share is reconciled to GAAP diluted earnings per share.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "earnings_or_eps",
+      "claim": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 Net income $ 507 $ 342 Interest expense, net 20 22 Federal, state and local income tax expense 155 94 Depreciation and amortization 223 224 EBITDA 905 682 Impairment, restructuring and other costs 196 175 Interchange fee settlement, net (328) \u2014 Pension settlement charges 67 46 Adjusted EBITDA $ 840 $ 903 Gains on sale of real estate $ (3) $ (41) Core Adjusted EBITDA $ 837 $ 862",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 Net income $ 507 $ 342 Interest expense, net 20 22 Federal, state and local income tax expense 155 94 Depreciation and amortization 223 224 EBITDA 905 682 Impairment, restructuring and other costs 196 175 Intercha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "earnings_or_eps",
+      "claim": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Net income $ 642 $ 582 Interest expense, net 97 115 Loss on extinguishment of debt 33 1 Federal, state and local income tax expense 207 181 Depreciation and amortization 894 881 EBITDA 1,873 1,760 Impairment, restructuring and other costs 230 171 Interchange fee settlement, net (328) \u2014 Pension settlement charges 67 46 Adjusted EBITDA $ 1,842 $ 1,977 Gains on sale of real estate $ (48) $ (144) Core Adjusted EBITDA $ 1,794 $ 1,833",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Net income $ 642 $ 582 Interest expense, net 97 115 Loss on extinguishment of debt 33 1 Federal, state and local income tax expense 207 181 Depreciation and amortization 894 881 EBITDA 1,873 1,760 Impairment, rest...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted Net Income and Adjusted Diluted Earnings Per Share",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "Adjusted Net Income and Adjusted Diluted Earnings Per Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "earnings_or_eps",
+      "claim": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 Net Income Diluted Earnings Per Share Net Income Diluted Earnings Per Share As reported $ 507 $ 1.84 $ 342 $ 1.21 Impairment, restructuring and other costs 196 0.71 175 0.62 Interchange fee settlement, net (328) (1.19) \u2014 \u2014 Pension settlement charges 67 0.24 46 0.16 Income tax impact of items identified above 16 0.07 (56) (0.19) As adjusted to exclude items above $ 458 $ 1.67 $ 507 $ 1.80",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "13 Weeks Ended January 31, 2026 13 Weeks Ended February 1, 2025 Net Income Diluted Earnings Per Share Net Income Diluted Earnings Per Share As reported $ 507 $ 1.84 $ 342 $ 1.21 Impairment, restructuring and other costs 196 0.71 175 0.62 Interchange fee settlement, net (328) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "earnings_or_eps",
+      "claim": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Net Income Diluted Earnings Per Share Net Income Diluted Earnings Per Share As reported $ 642 $ 2.32 $ 582 $ 2.07 Impairment, restructuring and other costs 230 0.83 171 0.61 Interchange fee settlement, net (328) (1.19) \u2014 \u2014 Pension settlement charges 67 0.24 46 0.16 Loss on extinguishment of debt 33 0.12 1 \u2014 Income tax impact of items identified above (1) \u2014 (55) (0.20) As adjusted to exclude items above $ 643 $ 2.32 $ 745 $ 2.64",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Net Income Diluted Earnings Per Share Net Income Diluted Earnings Per Share As reported $ 642 $ 2.32 $ 582 $ 2.07 Impairment, restructuring and other costs 230 0.83 171 0.61 Interchange fee settlement, net (328) (...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "margins",
+      "claim": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Net cash provided by operating activities $ 1,430 $ 1,278 Purchase of property and equipment (373) (518) Capitalized software (367) (364) Proceeds from disposition of assets, net 107 283 Free Cash Flow $ 797 $ 679",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "52 Weeks Ended January 31, 2026 52 Weeks Ended February 1, 2025 Net cash provided by operating activities $ 1,430 $ 1,278 Purchase of property and equipment (373) (518) Capitalized software (367) (364) Proceeds from disposition of assets, net 107 283 Free Cash Flow $ 797 $ 679",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.048841, ret_20d=-0.230605, market_ret_20d=-0.017661",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.048841, ret_20d=-0.230605, market_ret_20d=-0.017661",
+      "support_label": "supported"
+    }
+  ]
+}

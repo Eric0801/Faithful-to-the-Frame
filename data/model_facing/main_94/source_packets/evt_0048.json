@@ -1,0 +1,538 @@
+{
+  "event_id": "evt_0048",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CarGurus, Inc.",
+  "ticker": "CARG",
+  "company_alias": "CarGurus, Inc.",
+  "masked_company": "Company Y",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-19",
+  "filing_metadata": {
+    "cik": "1494259",
+    "accession_number": "0001193125-26-059370",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-19T16:10:33-05:00",
+    "event_date": "2026-02-19",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Full-year 2025 revenue from continuing operations grew 14% YoY for the second consecutive year",
+      "token_count": 24
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Full-year 2025 GAAP Net Income from continuing operations of $196.7 million, up 53% YoY; Non-GAAP Adjusted EBITDA from continuing operations of $319.0 million, up 25% YoY",
+      "token_count": 43
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Repurchased approximately $350 million worth of shares in 2025, and announces new $250.0 million share repurchase program for 2026",
+      "token_count": 33
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "BOSTON, 2026-02-19T16:10:33-05:00 - CarGurus, Inc.. (Nasdaq:CARG), the No. 1 visited automotive shopping site in the U.S. 1 , today announced financial results for the fourth quarter and year ended December 31, 2025.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201c2025 was a pivotal year for CarGurus, Inc. as we delivered strong financial performance while expanding our products and use cases across both dealer workflows and the consumer journey,\u201d said Chief Executive Officer at CarGurus, Inc.. \u201cFull-year revenue grew 14% for the second consecutive year, driven by expanding wallet share with accelerating product adoption, improving retention, and adding new dealers. This performance reflects more prolific innovation, particularly AI-driven products that put data and intelligence directly into the hands of our customers. Entering 2026, our leadership position is even stronger, as we\u2019re more deeply embedded with and have higher engagement among both dealers and consumers, which we believe provides a strong foundation for long-term growth.\u201d",
+      "token_count": 195
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Below are our financial highlights from continuing operations for the three months and year ended December 31, 2025.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP Net Income from continuing operations (3)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Non-GAAP Adjusted EBITDA from continuing operations (4)",
+      "token_count": 14
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash and Cash Equivalents as of December 31, 2025",
+      "token_count": 13
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "During the three months ended December 31, 2025 and 2024, and the year ended December 31, 2025, there was no impairment recorded. During the year ended December 31, 2024, we recorded $9.8 million of impairments in cost of revenue.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "During the three months ended December 31, 2025 and 2024, there was no impairment recorded. During the years ended December 31, 2025 and 2024, we recorded $0.5 million and $11.8 million, respectively, of impairments.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "During the three months ended December 31, 2025 and 2024, there was no impairment recorded. During the years ended December 31, 2025 and 2024, we recorded $0.5 million and $21.5 million, respectively, of impairments.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For more information regarding our use of non-GAAP Adjusted EBITDA from continuing operations and other non-GAAP financial measures, please see the reconciliations of GAAP financial measures to non-GAAP financial measures and the section titled \u201cNon-GAAP Financial Measures and Other Business Metrics\u201d below.",
+      "token_count": 77
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For more information regarding our use of Key Performance Indicators, please see the section titled \u201cNon-GAAP Financial Measures and Other Business Metrics\u201d below.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The table below provides CarGurus, Inc.\u2019 guidance, which is based on recent market trends, industry conditions, and management\u2019s expectations and assumptions as of today.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP Adjusted EBITDA from continuing operations margin change YoY",
+      "token_count": 18
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The first quarter 2026 non-GAAP earnings per share calculations assumes 94.0 million diluted weighted-average common shares outstanding.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The assumptions that are built into guidance for the first quarter and full-year 2026 regarding our pace of paid dealer acquisition, churn, and expansion activity for the relevant period are based on recent market trends and industry conditions. Guidance for the first quarter and full-year 2026 excludes macro-level industry issues that result in dealers and consumers materially changing their recent market trends or that cause us to enact measures to assist dealers. Guidance also excludes any potential impact of future foreign currency exchange gains or losses. CarGurus, Inc. may incur charges, realize gains or losses, or experience other events or circumstances in 2026 that could cause any of these assumptions to change and/or actual results to vary from this guidance.",
+      "token_count": 194
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CarGurus, Inc. has not reconciled its guidance of non-GAAP Adjusted EBITDA from continuing operations to GAAP net income from continuing operations or non-GAAP earnings per share from continuing operations to GAAP earnings per share because we are unable to accurately predict without unreasonable effort the exact amount or timing of certain reconciling items between such GAAP and non-GAAP financial measures, including, as applicable, depreciation expenses, amortization of intangible assets, non-intangible amortization, stock-based compensation, transaction-related expenses, impairments, and income tax effects. The variability of these reconciling items could have a significant impact on our future GAAP reported results.",
+      "token_count": 181
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "On August 6, 2025, the Board of Directors of CarGurus, Inc. determined, after considering all reasonably available options and a broader strategic reassessment, that it is in the best interests of its stockholders to wind down CarOffer, LLC (\u201cCarOffer\u201d), including the CarOffer Dealer-to-Dealer and Instant Max Cash Offer products (the \u201cCarOffer Transactions Business\u201d). Following the broader strategic reassessment, we concluded that the CarOffer Transactions Business has proven less effective in today\u2019s more volatile and unpredictable pricing environment, where dealers require more flexibility and automation to streamline fulfillment than the model could provide.",
+      "token_count": 166
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The wind-down of CarOffer was completed and the business was considered abandoned for accounting purposes as of December 31, 2025. We have presented the financial results of CarOffer as discontinued operations in our unaudited condensed consolidated financial statements for all periods presented, except for the unaudited condensed consolidated statements of cash flows. This statement has not been separately reclassified and discontinued operations are included within for all periods presented.",
+      "token_count": 125
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Beginning in the fourth quarter of 2025, in connection with the wind-down of CarOffer, our chief executive officer, who acts as the chief operating decision maker (\u201cCODM\u201d), began to manage our business, make operating decisions, and evaluate operating performance based on consolidated results. Accordingly, the change led to revisions to the nature and substance of information regularly provided to and used by the CODM, and served to align our reported results with our ongoing growth strategy. As a result, beginning in the fourth quarter of 2025, we report our financial results as a single reportable segment.",
+      "token_count": 154
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CarGurus, Inc. (Nasdaq:CARG) is the leading multinational automotive platform helping consumers and dealers confidently buy and sell vehicles. Founded in 2006 with a mission to bring more trust and transparency to car shopping, CarGurus, Inc. is the No. 1 visited automotive shopping site in the U.S. 1 with the largest selection of inventory and network of dealers. 2 CarGurus, Inc.\u2019 unmatched selection, trusted automotive insights, and data-driven products and solutions support each shopper\u2019s journey \u2014 from online research and shopping to in-dealership decisions \u2014 to empower them at every step. And, by translating data from billions of monthly site interactions, CarGurus, Inc. provides dealers a personalized, predictive intelligence platform with software solutions that helps them run their businesses more efficiently and profitably at all stages of inventory acquisition and pricing, marketing, and conversion to sale.",
+      "token_count": 229
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CarGurus, Inc. operates online marketplaces in the U.S., U.K., and Canada. The company\u2019s network of brands includes PistonHeads, the largest online motoring community in the U.K. 3 , and Autolist, a U.S.- based online marketplace.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To learn more about CarGurus, Inc., visit www.CarGurus, Inc..com.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "1 Similarweb: Traffic and Engagement Report (Cars.com, Autotrader.com, TrueCar.com, CARFAX.com Listings (defined as CARFAX.com Total Visits minus Vehicle History Reports)), Q4 2025, U.S.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "2 Compared to Autotrader.com, Cars.com, TrueCar.com, and CARFAX (YipitData as of December 31, 2025)",
+      "token_count": 25
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "3 Similarweb: Traffic Insights, Q4 2025, U.K.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CarGurus, Inc.\u00ae and Autolist\u00ae are each a registered trademark of CarGurus, Inc.., and PistonHeads\u00ae is a registered trademark of CarGurus, Inc. Ireland Limited in the U.K. and the European Union. All other product names, trademarks, and registered trademarks are property of their respective owners.",
+      "token_count": 71
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u00a9 2026 CarGurus, Inc.., All Rights Reserved.",
+      "token_count": 10
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Accounts receivable, net of allowance for doubtful accounts of $600 and $696, respectively",
+      "token_count": 23
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Prepaid expenses, prepaid income taxes and other current assets",
+      "token_count": 16
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Accrued expenses, accrued income taxes and other current liabilities",
+      "token_count": 17
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Preferred stock, $0.001 par value per share; 10,000,000 shares authorized; no shares issued and outstanding",
+      "token_count": 27
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Class A common stock, $0.001 par value per share; 500,000,000 shares authorized; 80,667,475 and 89,002,571 shares issued and outstanding at December 31, 2025 and 2024, respectively",
+      "token_count": 45
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Class B common stock, $0.001 par value per share; 100,000,000 shares authorized; 14,216,250 and 14,986,745 shares issued and outstanding at December 31, 2025 and 2024, respectively",
+      "token_count": 45
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Net loss from discontinued operations, net of tax benefits",
+      "token_count": 15
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Weighted\u2013average number of shares of common stock used in computing net income per share attributable to common stockholders",
+      "token_count": 31
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "For the three months ended December 31, 2025 and 2024, and for the years ended December 31, 2025 and 2024, cost of revenue includes $2.8 million, $1.7 million, $9.3 million, and $8.5 million, respectively, of depreciation and amortization expense.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "For the three months ended December 31, 2025 and 2024, and for the year ended December 31, 2025, there was no impairment recorded in cost of revenue. For the year ended December 31, 2024, we recorded $9.8 million in impairments.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjustments to reconcile consolidated net income to net cash provided by operating activities",
+      "token_count": 24
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Proceeds from issuance of common stock upon exercise of stock options",
+      "token_count": 18
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Payment of withholding taxes on net share settlements of restricted stock units",
+      "token_count": 20
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Payment of excise taxes on repurchases of common stock",
+      "token_count": 14
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Change in gross advance payments received from third-party transaction processor",
+      "token_count": 20
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Impact of foreign currency on cash, cash equivalents, and restricted cash",
+      "token_count": 19
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net increase (decrease) in cash, cash equivalents, and restricted cash",
+      "token_count": 18
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "token_count": 17
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash at end of period",
+      "token_count": 15
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Unaudited Reconciliation of GAAP Gross Profit from Continuing Operations to Non-GAAP Gross Profit from Continuing Operations and GAAP Gross Profit from Continuing Operations Margin to Non-GAAP Gross Profit from Continuing Operations Margin",
+      "token_count": 60
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Unaudited Reconciliation of GAAP Net Income from Continuing Operations to Non-GAAP Net Income from Continuing Operations and GAAP Net Income from Continuing Operations Per Share Attributable to Common Stockholders to Non-GAAP Net Income from Continuing Operations Per Share Attributable to Common Stockholders",
+      "token_count": 78
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP net income from continuing operations per share attributable to common stockholders",
+      "token_count": 22
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP net income from continuing operations per share attributable to common stockholders",
+      "token_count": 23
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Shares used in GAAP and Non-GAAP per share calculations",
+      "token_count": 14
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Unaudited Reconciliation of GAAP Net Income from Continuing Operations to Non-GAAP Adjusted EBITDA from Continuing Operations and GAAP Net Income from Continuing Operations Margin to Non-GAAP Adjusted EBITDA from Continuing Operations Margin",
+      "token_count": 61
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Unaudited Reconciliation of GAAP Expense from Continuing Operations to Non-GAAP Expense from Continuing Operations",
+      "token_count": 29
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended December 31, 2025",
+      "token_count": 9
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Operating expenses from continuing operations (1)",
+      "token_count": 13
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total cost of revenue and operating expenses from continuing operations",
+      "token_count": 18
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended December 31, 2024",
+      "token_count": 9
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Operating expenses include sales and marketing, product, technology, and development, general and administrative, impairments, and depreciation & amortization.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Unaudited Reconciliation of GAAP Net Cash and Cash Equivalents Provided by Operating Activities to Non-GAAP Free Cash Flow",
+      "token_count": 31
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "GAAP net cash and cash equivalents provided by operating activities",
+      "token_count": 17
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the U.S. (\"GAAP\"), we provide investors with certain non-GAAP financial measures and other business metrics, which we believe are helpful to our investors. We use these non-GAAP financial measures and other business metrics for financial and operational decision-making purposes and as a means to evaluate period-to-period comparisons. We believe that these non-GAAP financial measures and other business metrics provide useful information about our operating results, enhance the overall understanding of past financial performance and future prospects, and allow for greater transparency with respect to metrics used by our management in its financial and operational decision-making.",
+      "token_count": 209
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The presentation of non-GAAP financial information and other business metrics is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with GAAP. While our non-GAAP financial measures and other business metrics are an important tool for financial and operational decision-making and for evaluating our own operating results over different periods of time, we urge investors to review the reconciliation of these financial measures to the comparable GAAP financial measures included above, and not to rely on any single financial measure to evaluate our business.",
+      "token_count": 160
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "While a reconciliation of non-GAAP guidance measures to corresponding GAAP measures is not available on a forward-looking basis because we are unable to accurately predict without unreasonable effort the exact amount or timing of certain reconciling items between such GAAP and non-GAAP financial measures, including, as applicable, depreciation expenses, amortization of intangible assets, non-intangible amortization, stock-based compensation, transaction-related expenses, impairments, and income tax effects, we have provided a reconciliation of non-GAAP financial measures and other business metrics to the nearest comparable GAAP measures in the accompanying financial statement tables included in this press release.",
+      "token_count": 181
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We monitor operating measures of certain non-GAAP items including non-GAAP gross profit from continuing operations, non-GAAP gross margin from continuing operations, non-GAAP expense from continuing operations, non-GAAP net income from continuing operations, and non-GAAP net income from continuing operations per share attributable to common stockholders. These non-GAAP financial measures exclude the effect of amortization of intangible assets, stock-based compensation expense, transaction related-expenses, and impairments. Non-GAAP net income from continuing operations and non-GAAP net income from continuing operations per share attributable to common stockholders also exclude certain income tax effects and adjustments. Our calculations of non-GAAP net income from continuing operations per share attributable to common stockholders utilize applicable GAAP share counts as included in the accompanying financial statement tables included in this press release. In addition, we evaluate our non-GAAP gross profit from continuing operations in relation to our revenue. We refer to this as non-GAAP gross profit from continuing operations margin and define it as non-GAAP gross profit from continuing operations divided by total revenue. We believe that these non-GAAP financial measures provide useful information about our operating results, enhance the overall understanding of past financial performance and future prospects, and allow for greater transparency with respect to metrics used by our management in its financial and operational decision-making.",
+      "token_count": 392
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We define non-GAAP Adjusted EBITDA from continuing operations as net income from continuing operations adjusted to exclude: depreciation and amortization, stock\u2011based compensation expense, transaction-related expenses, impairments, other income, net, and provision for income taxes. In addition, we evaluate our non-GAAP Adjusted EBITDA from continuing operations in relation to our revenue. We refer to this as non-GAAP Adjusted EBITDA from continuing operations margin and define it as non-GAAP Adjusted EBITDA from continuing operations divided by total revenue.",
+      "token_count": 142
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "We have presented non-GAAP Adjusted EBITDA from continuing operations and non-GAAP Adjusted EBITDA from continuing operations margin because they are key measures used by our management and Board of Directors to understand and evaluate our operating performance, generate future operating plans, and make strategic decisions regarding the allocation of capital. We believe non-GAAP Adjusted EBITDA from continuing operations helps identify underlying trends in our business that could otherwise be masked by the effect of the expenses that we exclude. Accordingly, we believe that non-GAAP Adjusted EBITDA from continuing operations provides useful information to investors and others in understanding and evaluating our operating results, enhancing the overall understanding of our past performance and future prospects, and allowing for greater transparency with respect to key financial metrics used by our management in its financial and operational decision making.",
+      "token_count": 243
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "We define non-GAAP Free Cash Flow as cash flow from operations adjusted to include: purchases of property and equipment and capitalization of website development costs. We have presented non-GAAP Free Cash Flow because it is a measure of our financial performance that represents the cash that we are able to generate after expenditures required to maintain or expand our asset base.",
+      "token_count": 96
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We define a paying dealer as a dealer account with an active, paid subscription at the end of a defined period. The number of paying dealers we have is important to us and we believe it provides valuable information to investors because it is indicative of the value proposition of our products, as well as our sales and marketing success and opportunity, including our ability to retain paying dealers and develop new dealer relationships.",
+      "token_count": 110
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We define Quarterly Average Revenue per Subscribing Dealer (\u201cQARSD\u201d), which is measured at the end of a fiscal quarter, as the revenue primarily from subscription products during that trailing quarter divided by the average number of paying dealers during the quarter. We calculate the average number of paying dealers for a period by adding the number of paying dealers at the end of such period and the end of the prior period and dividing by two. This information is important to us, and we believe it provides useful information to investors, because we believe that our ability to grow QARSD is an indicator of the value proposition of our products and the return on investment that our paying dealers realize from our products. In addition, increases in QARSD, which we believe reflect the value of exposure to our engaged audience in relation to subscription cost, are driven in part by our ability to grow the volume of connections to our users and the quality of those connections, which result in increased opportunity to upsell package levels and cross-sell additional products to our paying dealers.",
+      "token_count": 278
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.061432,
+    "ret_20d": -0.132501,
+    "market_ret_20d": -0.001342
+  },
+  "outcome_blind": true
+}

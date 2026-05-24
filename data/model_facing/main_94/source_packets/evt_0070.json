@@ -1,0 +1,580 @@
+{
+  "event_id": "evt_0070",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ABERCROMBIE & FITCH CO /DE/",
+  "ticker": "ANF",
+  "company_alias": "ABERCROMBIE & FITCH CO /DE/",
+  "masked_company": "Company A",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-03-04",
+  "filing_metadata": {
+    "cik": "1018840",
+    "accession_number": "0001018840-26-000006",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-04T07:34:21-05:00",
+    "event_date": "2026-03-04",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Company delivers record fourth quarter and full year net sales of $1.7 billion and $5.3 billion, respectively",
+      "token_count": 28
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Fourth quarter net sales grew 5% to 2024, with balanced growth across regions, brands and channels",
+      "token_count": 25
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Full year net sales grew 6% to 2024, with growth across regions and channels",
+      "token_count": 20
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Hollister brands delivers record full year 2025 net sales on growth of 15%, with ABERCROMBIE & FITCH CO /DE/ down 1%",
+      "token_count": 25
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Full year operating margin of 13.3%, and net income per diluted share o f $10.46",
+      "token_count": 21
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Full year share repurchases of $450 million, or 5.4 million shares, representing 11% of shares outstanding at February 1, 2025",
+      "token_count": 32
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Provides full year 2026 outlook for net sales growth in the range of 3% to 5%, operating margin in the range of 12.0% to 12.5%, net income per diluted share in the range of $10.20 to $11.00",
+      "token_count": 48
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "New Albany, Ohio, 2026-03-04T07:34:21-05:00: ABERCROMBIE & FITCH CO /DE/. (NYSE:ANF) today announced results for the fourth quarter and fiscal year ended January 31, 2026. These compare to results for the fourth quarter and fiscal year ended February 1, 2025. Descriptions of the use of non-GAAP financial measures and reconciliations of GAAP and non-GAAP financial measures accompany this release.",
+      "token_count": 95
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Chief Executive Officer, said, \u201cOur record fourth quarter net sales marked our thirteenth consecutive quarter of growth, with both operating margin and earnings per share at the high end of expectations we shared in early January.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Reflecting on fiscal 2025, I\u2019m proud of our accomplishments. We delivered record net sales with 6% growth and achieved our third straight year of double-digit operating margins, all while continuing to strengthen the business through investments in marketing, stores, people, and digital capabilities. Supported by $619 million in operating cash flow, we repurchased 5.4 million shares, representing 11% of shares outstanding at the beginning of the year, reinforcing our commitment to long term value creation and shareholder returns.",
+      "token_count": 134
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We entered fiscal 2026 with a strong foundation, including two globally relevant brands, a proven operating model, and a robust balance sheet, all managed by a world class team. Our goals for 2026 are to grow net sales, deliver another year of double-digit operating margin and grow earnings per share, all while making strategic investments that will fuel our long-term global ambition.\u201d",
+      "token_count": 97
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Details related to reported net income per diluted share and adjusted net income per diluted share for the fourth quarter and full year are as follows:",
+      "token_count": 38
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fourth Quarter Full Year 2025 2024 2025 2024 GAAP $ 3.68 $ 3.57 $ 10.46 $ 10.69 Excluded items, net of tax effect (1) \u2014 \u2014 (0.60) \u2014 Adjusted non-GAAP $ 3.68 $ 3.57 $ 9.86 $ 10.69 Impact from changes in foreign currency exchange rates (2) \u2014 (0.03) \u2014 (0.09) Adjusted non-GAAP constant currency $ 3.68 $ 3.54 $ 9.86 $ 10.60",
+      "token_count": 80
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Excluded items consist of a favorable settlement, net of legal fees, of payment card interchange fee litigation and the tax effect of pre-tax excluded item.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) The estimated impact from foreign currency is calculated by applying current period exchange rates to prior year results using a 26% tax rate.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net sales of $1.67 billion up 5% as compared to last year, with comparable sales of 1%.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating income of $236 million as compared to $256 million last year.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Operating margin as a percent of sales of 14.1% as compared to 16.2% last year.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net income per diluted share of $3.68 as compared to net income per diluted share last year of $3.57.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net sales of $5.27 billion up 6% as compared to last year, with comparable sales of 3%.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating income of $699 million and $661 million on a reported and adjusted non-GAAP basis, respectively. This compares to operating income last year of $741 million on a reported basis.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Operating margin as a percent as sales decreased to 13.3% and 12.5% on a reported and adjusted non-GAAP basis, respectively. This compares to an operating margin last year of 15.0% on a reported basis.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net income per diluted share of $10.46 and $9.86 on a reported and adjusted non-GAAP basis, respectively. This compares to net income per diluted share last year of $10.69 on a reported basis.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth Quarter (in thousands) 2025 2024 1 YR % Change Comparable sales (2) Net sales by segment: (1) Americas (3) $ 1,383,943 $ 1,319,720 5% 2% EMEA (4) 241,384 224,467 8% (3)% APAC (5) 44,475 40,730 9% 0% Total company $ 1,669,802 $ 1,584,917 5% 1% Net sales by brand family: 2025 2024 1 YR % Change Comparable sales (2) ABERCROMBIE & FITCH CO /DE/ $ 806,502 $ 772,670 4% (1)% Hollister 863,300 812,247 6% 3% Total company $ 1,669,802 $ 1,584,917 5% 1%",
+      "token_count": 109
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Full Year (in thousands) 2025 2024 1 YR % Change Comparable sales (2) Net sales by segment: (1) Americas (3) $ 4,290,395 $ 4,027,514 7% 4% EMEA (4) 818,140 770,519 6% 0% APAC (5) 157,757 150,554 5% (3)% Total company $ 5,266,292 $ 4,948,587 6% 3% Net sales by brand family: 2025 2024 1 YR % Change Comparable sales (2) ABERCROMBIE & FITCH CO /DE/ $ 2,523,662 $ 2,556,434 (1)% (7)% Hollister 2,742,630 2,392,153 15% 13% Total company $ 5,266,292 $ 4,948,587 6% 3%",
+      "token_count": 111
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Net sales by segment are presented by attributing revenues to a physical store location or geographical region that fulfills the order.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Comparable sales are calculated on a constant currency basis. Refer to \"REPORTING AND USE OF GAAP AND NON-GAAP MEASURES,\" for further discussion.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(3) The Americas segment includes the results of operations in North America and South America.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(4) The EMEA segment includes the results of operations in Europe, the Middle East and Africa.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(5) The APAC segment includes the results of operations in the Asia-Pacific region, including Asia and Oceania.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Cash and equivalents of $760 million as compared to $773 million as of February 1, 2025.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Marketable securities of $25 million as compared to $116 million as of February 1, 2025. The decrease from February 1, 2025 was primarily due to maturities in Fiscal 2025.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Inventories of $601 million compared to $575 million as of February 1, 2025.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Borrowing capacity of $500 million under the senior-secured asset-based revolving credit facility (the \"ABL Facility\") with net borrowing available of $450 million after minimum excess availability requirement.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Liquidity comprised of cash and equivalents and borrowing available under the ABL Facility, of approximately $1.2 billion, compared to $1.2 billion as of February 1, 2025.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Net cash provided by operating activities of $619 million.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Net cash used for investing activities of $151 million, primarily reflecting capital expenditures, partially offset by maturities of marketable securities.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Net cash used for financing activities of $495 million, primarily reflecting share repurchases.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "During the fourth quarter of 2025, the company repurchased 0.9 million shares for approximately $100 million. For the full year ended January 31, 2026, the company repurchased 5.4 million shares for $450 million representing a 11% reduction in shares outstanding at the beginning of the year. The company has $850 million remaining on the share repurchase authorization established in March 2025.",
+      "token_count": 99
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Depreciation and amortization was $155 million for fiscal 2025 as compared to $154 million in fiscal 2024.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For fiscal 2026, the company expects: First Quarter Outlook (1) Full Year Outlook (1) Net sales Growth In The Range of 1% to 3% Growth In The Range of 3% to 5% Operating margin Around 7.0% In the Range of 12.0% to 12.5% Effective tax rate (2) Around 26% Around 29% Net income per diluted share (3) (4) In The Range of $1.20 to $1.30 In The Range of $10.20 to $11.00 Share repurchases (4) At least $100 million Around $450 million Diluted weighted average shares (3) (4) Around 46 million Around 45 million Capital expenditures In The Range of $200 to $225 million Real estate activity (5) (all approximate) ~30 Net Store Openings 55 Openings, 25 Closures 70 Remodels and Right-Sizes",
+      "token_count": 171
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) Includes the estimated impact of a 15% tariff on all goods imported into the United States, based on an announcement by the U.S. presidential administration on February 21, 2026. These tariffs are assumed to be effective beginning February 24, 2026, and to remain in effect for the entirety of fiscal 2026. Net of planned mitigation efforts, the outlook assumes a year-over-year tariff impact as a percentage of net sales of approximately 290 basis points for the first quarter and 70 basis points for the full year. This fiscal 2026 outlook does not include any potential refunds or recoveries of tariffs imposed pursuant to the International Emergency Economic Powers Act.",
+      "token_count": 170
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(2) The current outlook for effective tax rate is sensitive to the jurisdictional mix and level of income and does not include the impact of potential future tax policy or legislative changes.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(3) The current outlook for net income per diluted share and diluted weighted average shares includes the anticipated impact to shares outstanding from potential share repurchase activity in fiscal 2026.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(4) The timing and amount of any such repurchases will be determined based on an evaluation of market conditions, the company\u2019s share price, legal requirements, and other factors.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(5) Owned-and-operated stores only.",
+      "token_count": 9
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "https://register-conf.media-server.com/register/BI5e375d033bf8476fb678743e8a90c279",
+      "token_count": 21
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Accompanying materials, including an investor presentation and certain unaudited quarterly financial information, will be available in the \u201cInvestors\u201d section at corporate.ABERCROMBIE & FITCH CO /DE/.com at approximately 7:30 AM ET, today. Important information may be disseminated initially or exclusively via the website; investors should consult the site to access this information.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This document includes certain adjusted non-GAAP financial measures, which are not calculated in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d) and exclude the impact of certain items. Management uses these non-GAAP financial measures to evaluate the company\u2019s performance and manage its operations, and believes such measures to be helpful in understanding the company's results of operations or financial position. These non-GAAP financial measures are intended to complement, and are not considered as alternatives to, the most directly comparable GAAP financial measures, as reconciled in the above table. Also, such non-GAAP financial measures may not be comparable to similarly titled measures used by other entities. Additional details about non-GAAP financial measures and a reconciliation of GAAP financial measures to non-GAAP financial measures can be found in the \u201cReporting and Use of GAAP and Non-GAAP Measures\u201d section. Sub-totals and totals may not foot due to rounding.Net income and net income per share financial measures included herein are attributable to ABERCROMBIE & FITCH CO /DE/., excluding net income attributable to noncontrolling interests.",
+      "token_count": 301
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "As used in this document, references to \"Americas\" includes North America and South America, \"EMEA\" includes Europe, the Middle East and Africa and \"APAC\" includes the Asia-Pacific region, including Asia and Oceania.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ABERCROMBIE & FITCH CO /DE/. (NYSE:ANF) is a global, digitally led omnichannel specialty retailer of apparel and accessories catering to kids through millennials with assortments curated for their specific lifestyle needs.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company operates a family of brands, including ABERCROMBIE & FITCH CO /DE/ brands and Hollister brands each sharing a commitment to offer products of enduring quality and exceptional comfort that support global customers on their journey to being and becoming who they are. ABERCROMBIE & FITCH CO /DE/. operates approximately 830 stores under these brands across North America, Europe, Asia and the Middle East, as well as the e-commerce sites ABERCROMBIE & FITCH CO /DE/.com, abercrombiekids.com, and HollisterCo.com.",
+      "token_count": 117
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Investor Contact: Media Contact: Mo Gupta Kate Wagner ABERCROMBIE & FITCH CO /DE/. ABERCROMBIE & FITCH CO /DE/. (614) 283-6751 (614) 283-6192 Investor_Relations@anfcorp.com Public_Relations@anfcorp.com",
+      "token_count": 42
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Statements of Operations (in thousands, except per share data) (Unaudited) Thirteen Weeks Ended Thirteen Weeks Ended January 31, 2026 % of Net Sales February 1, 2025 % of Net Sales Net sales $ 1,669,802 100.0 % $ 1,584,917 100.0 % Cost of sales, exclusive of depreciation and amortization 676,491 40.5 % 610,907 38.5 % Selling expense 574,792 34.4 % 526,423 33.2 % General and administrative expense 181,819 10.9 % 194,544 12.3 % Other operating loss (income), net 769 0.0 % (3,021) (0.2) % Operating income 235,931 14.1 % 256,064 16.2 % Interest expense 544 0.0 % 539 0.0 % Interest income (6,975) (0.4) % (9,437) (0.6) % Interest income, net (6,431) (0.4) % (8,898) (0.6) % Income before income taxes 242,362 14.5 % 264,962 16.7 % Income tax expense 67,594 4.0 % 75,267 4.7 % Net income 174,768 10.5 % 189,695 12.0 % Less: Net income attributable to noncontrolling interests 2,638 0.2 % 2,469 0.2 % Net income attributable to A&F $ 172,130 10.3 % $ 187,226 11.8 % Net income per share attributable to A&F Basic $ 3.77 $ 3.72 Diluted $ 3.68 $ 3.57 Weighted-average shares outstanding: Basic 45,668 50,265 Diluted 46,837 52,461",
+      "token_count": 291
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Statements of Operations (in thousands, except per share data) (Unaudited) Fifty-Two Weeks Ended Fifty-Two Weeks Ended January 31, 2026 % of Net Sales February 1, 2025 % of Net Sales Net sales $ 5,266,292 100.0 % $ 4,948,587 100.0 % Cost of sales, exclusive of depreciation and amortization 2,028,884 38.5 % 1,773,926 35.8 % Selling expense 1,809,633 34.4 % 1,689,988 34.2 % General and administrative expense 725,471 13.8 % 750,485 15.2 % Other operating loss (income), net 3,161 0.1 % (6,632) (0.1) % Operating income 699,143 13.3 % 740,820 15.0 % Interest expense 2,375 0.0 % 12,077 0.2 % Interest income (24,004) (0.5) % (39,934) (0.8) % Interest (income) expense, net (21,629) (0.4) % (27,857) (0.6) % Income before income taxes 720,772 13.7 % 768,677 15.5 % Income tax expense 205,777 3.9 % 194,661 3.9 % Net Income 514,995 9.8 % 574,016 11.6 % Less: Net income attributable to noncontrolling interests 8,074 0.2 % 7,793 0.2 % Net income attributable to A&F $ 506,921 9.6 % $ 566,223 11.4 % Net income per share attributable to A&F Basic $ 10.71 $ 11.14 Diluted $ 10.46 $ 10.69 Weighted-average shares outstanding: Basic 47,319 50,839 Diluted 48,476 52,971",
+      "token_count": 299
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company believes that each of the non-GAAP financial measures presented are useful to investors as they provide a measure of the company\u2019s operating performance excluding the effect of certain items which the company believes do not reflect its future operating outlook, therefore supplementing investors\u2019 understanding of comparability of operations across periods. Management used these non-GAAP financial measures during the periods presented to assess the company\u2019s performance and to develop expectations for future operating performance. Non-GAAP financial measures should be used supplementally to, and not as an alternative to, the company\u2019s GAAP financial results, and may not be calculated in the same manner as similar measures presented by other companies.",
+      "token_count": 193
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The company provides comparable sales, defined as the percentage year-over-year change in the aggregate of: (1) sales for stores that have been open as the same brand at least one year and whose square footage has not been expanded or reduced by more than 20% within the past year, with prior year\u2019s net sales converted at the current year\u2019s foreign currency exchange rate to remove the impact of foreign currency rate fluctuation, and (2) digital net sales with prior year\u2019s net sales converted at the current year\u2019s foreign currency exchange rate to remove the impact of foreign currency rate fluctuation.",
+      "token_count": 152
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The company also provides certain financial information on a constant currency basis to enhance investors\u2019 understanding of underlying business trends and operating performance, by removing the impact of foreign currency exchange rate fluctuations. The effect from foreign currency, calculated on a constant currency basis, is determined by applying current year average exchange rates to prior year results and is net of the year-over-year impact from hedging. The per diluted share effect from foreign currency is calculated using a 26% tax rate.",
+      "token_count": 137
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "In addition, the company provides EBITDA and Adjusted EBITDA as supplemental measures used by the company\u2019s executive management to assess the company\u2019s performance. We also believe these supplemental performance measures are meaningful information for investors and other interested parties to use in computing the company\u2019s core financial performance over multiple periods and with other companies by excluding the impact of differences in tax jurisdictions, debt service levels and capital investment.",
+      "token_count": 126
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Schedule of Non-GAAP Financial Measures Fifty-Two Weeks Ended January 31, 2026 (in thousands, except per share data) (Unaudited) GAAP (1) % of Net Sales Excluded item (2) Adjusted non-GAAP % of Net Sales Litigation settlement $ (38,574) $ (38,574) $ \u2014 Operating income 699,143 13.3 % 38,574 660,569 12.5 % Income before income taxes 720,772 13.7 % 38,574 682,198 13.0 % Income tax expense (3) 205,777 3.9 % 9,692 196,085 3.7 % Net income attributable to A&F 506,921 9.6 % 28,882 478,039 9.1 % Net income per diluted share attributable to A&F $ 10.46 $ 0.60 $ 9.86 Diluted weighted-average shares outstanding 48,476 48,476",
+      "token_count": 158
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "( 1) \u201cGAAP\u201d refers to accounting principles generally accepted in the United States of America.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Excluded item consists of a favorable settlement, net of legal fees, of payment card interchange fee litigation",
+      "token_count": 29
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) The tax effect of excluded item is the difference between the tax provision calculated on a GAAP basis and an adjusted non-GAAP basis.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Reconciliation of Constant Currency Financial Measures Thirteen Weeks Ended January 31, 2026 and February 1, 2025 (in thousands, except percentage and basis point changes and per share data) (Unaudited) Net sales 2025 2024 % Change GAAP (1) $ 1,669,802 $ 1,584,917 5% Impact from changes in foreign currency exchange rates (2) \u2014 16,829 (1)% Net sales on a constant currency basis $ 1,669,802 $ 1,601,746 4% Operating income 2025 2024 BPS Change (3) GAAP (1) $ 235,931 $ 256,064 (210) Impact from changes in foreign currency exchange rates (2) \u2014 (2,315) 40 Non-GAAP constant currency basis $ 235,931 $ 253,749 (170) Net income per diluted share attributable to A&F 2025 2024 $ Change GAAP (1) $ 3.68 $ 3.57 $0.11 Impact from changes in foreign currency exchange rates (2) \u2014 (0.03) 0.03 Non-GAAP on a constant currency basis $ 3.68 $ 3.54 $0.14",
+      "token_count": 214
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) \u201cGAAP\u201d refers to accounting principles generally accepted in the United States of America.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) The estimated impact from foreign currency is determined by applying current period exchange rates to prior year results and is net of the year-over-year impact from hedging. The per diluted share estimated impact from foreign currency is calculated using a 26% tax rate.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) The estimated basis point change has been rounded based on the percentage change.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Reconciliation of Constant Currency Financial Measures Fifty-Two Weeks Ended January 31, 2026 and February 1, 2025 (in thousands, except percentage and basis point changes and per share data) (Unaudited) Net sales 2025 2024 % Change GAAP (1) $ 5,266,292 $ 4,948,587 6% Impact from changes in foreign currency exchange rates (2) \u2014 33,163 (1)% Net sales on a constant currency basis $ 5,266,292 $ 4,981,750 6% Operating income 2025 2024 BPS Change (3) GAAP (1) $ 699,143 $ 740,820 (170) Excluded items (4) (38,574) \u2014 (80) Adjusted non-GAAP $ 660,569 $ 740,820 (250) Impact from changes in foreign currency exchange rates (2) \u2014 (7,099) 30 Adjusted non-GAAP on a constant currency basis $ 660,569 $ 733,721 (220) Net income per diluted share attributable to A&F 2025 2024 $ Change GAAP (1) $ 10.46 $ 10.69 $(0.23) Excluded items, net of tax (4) (0.60) \u2014 (0.60) Adjusted non-GAAP $ 9.86 $ 10.69 $(0.83) Impact from changes in foreign currency exchange rates (2) \u2014 (0.09) 0.09 Adjusted non-GAAP on a constant currency basis $ 9.86 $ 10.60 $(0.74)",
+      "token_count": 263
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(4) Excluded item consists of a favorable settlement, net of legal fees, of payment card interchange fee litigation.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Reconciliation of EBITDA and Adjusted EBITDA Thirteen Weeks Ended January 31, 2026 and Thirteen Weeks Ended February 1, 2025 (in thousands) (Unaudited) (in thousands, except ratios) 2025 % of Net Sales 2024 % of Net Sales Net income $ 174,768 10.5 % $ 189,695 12.0 % Income tax expense 67,594 4.0 75,267 4.7 Interest income, net (6,431) (0.4) (8,898) (0.6) Depreciation and amortization 40,455 2.5 37,163 2.4 EBITDA (1) $ 276,386 16.6 $ 293,227 18.5 ABERCROMBIE & FITCH CO /DE/. Reconciliation of EBITDA and Adjusted EBITDA Fifty-Two Weeks Ended January 31, 2026 and Fifty-Two Weeks Ended February 1, 2025 (in thousands) (Unaudited) (in thousands, except ratios) 2025 % of Net Sales 2024 % of Net Sales Net income $ 514,995 9.8 % $ 574,016 11.6 % Income tax expense 205,777 3.9 194,661 3.9 Interest income, net (21,629) (0.4) (27,857) (0.6) Depreciation and amortization 155,021 2.9 153,773 3.2 EBITDA (1) $ 854,164 16.2 $ 894,593 18.1 Adjustments to EBITDA Litigation settlement (38,574) (0.7) \u2014 \u2014 Adjusted EBITDA (1) $ 815,590 15.5 $ 894,593 18.1",
+      "token_count": 261
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(1) EBITDA and Adjusted EBITDA are supplemental financial measures that are not defined or prepared in accordance with GAAP. EBITDA is defined as net income before interest, income taxes and depreciation and amortization. Adjusted EBITDA is EBITDA adjusted for a favorable settlement, net of legal fees, of payment card interchange fee litigation.",
+      "token_count": 87
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Balance Sheets (in thousands) (Unaudited) January 31, 2026 February 1, 2025 Assets Current assets: Cash and equivalents $ 759,540 $ 772,727 Marketable securities 25,036 116,221 Receivables 146,757 105,324 Inventories 601,218 575,005 Other current assets 117,913 104,154 Total current assets 1,650,464 1,673,431 Property and equipment, net 674,079 575,773 Operating lease right-of-use assets 997,399 803,121 Other assets 219,932 247,562 Total assets $ 3,541,874 $ 3,299,887 Liabilities and stockholders\u2019 equity Current liabilities: Accounts payable $ 377,465 $ 364,532 Accrued expenses 465,549 504,922 Short-term portion of operating lease liabilities 241,265 211,600 Income taxes payable 21,721 45,890 Total current liabilities 1,106,000 1,126,944 Long-term liabilities: Long-term portion of operating lease liabilities $ 926,830 $ 740,013 Other liabilities 88,633 81,607 Total long-term liabilities 1,015,463 821,620 Total ABERCROMBIE & FITCH CO /DE/. stockholders\u2019 equity 1,403,895 1,335,628 Noncontrolling interests 16,516 15,695 Total stockholders\u2019 equity 1,420,411 1,351,323 Total liabilities and stockholders\u2019 equity $ 3,541,874 $ 3,299,887",
+      "token_count": 291
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "ABERCROMBIE & FITCH CO /DE/. Condensed Consolidated Statements of Cash Flows (in thousands, except per share data) (Unaudited) Fifty-Two Weeks Ended Fifty-Two Weeks Ended January 31, 2026 February 1, 2025 Operating activities Net cash provided by operating activities $ 619,142 $ 710,376 Investing activities Purchases of marketable securities $ (24,800) $ (139,600) Proceeds from maturities of marketable securities 114,800 24,800 Purchases of property and equipment (240,774) (182,903) Net cash used for investing activities $ (150,774) $ (297,703) Financing activities Repayment/redemption of senior secured notes \u2014 (223,331) Purchases of common stock (451,224) (229,807) Acquisition of common stock for tax withholding obligations (36,685) (70,208) Other financing activities (7,478) (11,531) Net cash used for financing activities $ (495,387) $ (534,877) Effect of foreign currency exchange rates on cash $ 13,540 $ (7,086) Net decrease in cash and equivalents, and restricted cash and equivalents $ (13,479) $ (129,290) Cash and equivalents, and restricted cash and equivalents, beginning of period $ 780,395 $ 909,685 Cash and equivalents, and restricted cash and equivalents, end of period $ 766,916 $ 780,395",
+      "token_count": 300
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fifty-Two Weeks Ended January 31, 2026 Americas (1) EMEA (2) APAC (3) Total Company ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister ABERCROMBIE & FITCH CO /DE/ Hollister Total (4) Company-owned February 1, 2025 215 385 33 100 30 26 278 511 789 New 27 15 4 6 5 5 36 26 62 Permanently closed (3) (4) (1) (5) (4) (5) (8) (14) (22) January 31, 2026 239 396 36 101 31 26 306 523 829 Franchise January 31, 2026 20 10 9 10 8 3 37 23 60 Total January 31, 2026 259 406 45 111 39 29 343 546 889",
+      "token_count": 120
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) The Americas segment includes North America and South America.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) The EMEA segment includes Europe, the Middle East and Africa.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) The APAC segment includes the Asia-Pacific region, including Asia and Oceania.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(4) Store count excludes temporary stores.",
+      "token_count": 11
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.044531,
+    "ret_20d": -0.021981,
+    "market_ret_20d": -0.021685
+  },
+  "outcome_blind": true
+}

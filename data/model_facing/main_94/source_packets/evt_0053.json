@@ -1,0 +1,300 @@
+{
+  "event_id": "evt_0053",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Ollie's Bargain Outlet Holdings, Inc.",
+  "ticker": "OLLI",
+  "company_alias": "Ollie's Bargain Outlet Holdings, Inc.",
+  "masked_company": "Company AK",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-12",
+  "filing_metadata": {
+    "cik": "1639300",
+    "accession_number": "0001140361-26-009133",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-12T07:06:13-04:00",
+    "event_date": "2026-03-12",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc. Announces",
+      "token_count": 13
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Sales Increased 17%, Earnings Per Share Increased 25%,",
+      "token_count": 15
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "and Adjusted Earnings Per Share Increased 17%",
+      "token_count": 12
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "HARRISBURG, PA \u2013 2026-03-12T07:06:13-04:00 \u2013 Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc. (NASDAQ:OLLI) (the \u201cCompany\u201d) today announced financial results for the fourth quarter and fiscal year ended January 31, 2026.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201c We had a strong fourth quarter to cap off an exceptional year,\u201d said Eric van der Valk, President and Chief Executive Officer. \u201c In the fourth quarter, we delivered better than expected sales and earnings, driven by solid comp growth, healthy margins, and disciplined expense control. For the full year, we opened a record 86 stores and grew our Ollie's Bargain Outlet Holdings, Inc.\u2019s Army loyalty program by more than 12% to 17 million members.\u201d",
+      "token_count": 106
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Mr. van der Valk concluded, \u201cWe are super proud of our achievements in fiscal 2025. We delivered against virtually every single metric and goal we set for ourselves at the beginning of the year. That\u2019s now behind us, and we are focused on building on this success, seizing new opportunities, delivering another year of Good Stuff Cheap\u00ae to our customers, and strong results for our shareholders.\u201d",
+      "token_count": 99
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) Calculated based on the comparable number of weeks from the prior year.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Fourth Quarter Fiscal 2025 Highlights and Year-Over-Year Comparisons",
+      "token_count": 17
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Opened a record 86 stores for the fiscal year and ended the period with 645 stores in 34 states, an increase of 15.4%.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Army loyalty members increased 12.1% to 17.0 million members.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net sales increased 16.8% to $779.3 million, driven by new store unit growth and an increase in comparable store sales.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Comparable store sales increased 3.6%, driven by an increase in basket and transactions. Seasonal, consumables, hardware, stationery, and sporting goods were the top performing categories in the quarter.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Gross margin of 39.9% was ahead of plan and the year-over-year decrease of 80 basis points was primarily from planned investments in price.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Selling, general, and administrative (\u201cSG&A\u201d) expenses as a percentage of net sales decreased 130 basis points to 24.2%. Excluding a one-time expense of $5.5 million for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman in last year\u2019s fourth quarter, SG&A expenses as a percentage of net sales decreased 40 basis points to 24.2%. The decrease was primarily driven by leverage of our fixed costs from the increase in comparable store sales and benefits from our optimization efforts in marketing.",
+      "token_count": 139
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Pre-opening expenses decreased 53.3% to $2.3 million, driven by the earlier timing of new store openings this year versus last year.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted net income increased 16.4% to $85.4 million and adjusted net income per diluted share increased 16.8% to $1.39 .",
+      "token_count": 31
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Total cash and investments increased 31.3%, or $134.1 million, to $562.8 million. This included cash and cash equivalents of $259.7 million, short-term investments of $36.6 million, and long-term investments of $266.5 million.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company repurchased $33.6 million of common stock in the fourth quarter and $73.8 million of common stock for the fiscal year.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company is providing the following initial outlook for the fiscal year 2026 ending January 30, 2027.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted net income per diluted share (1)(2)",
+      "token_count": 11
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(1) Includes interest income of approximately $21 million.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(2) Excludes the excess tax benefits related to stock-based compensation, as the Company cannot predict such estimates without unreasonable effort.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Excludes the excess tax benefits related to stock-based compensation, as the Company cannot predict such estimates without unreasonable effort.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Ollie's Bargain Outlet Holdings, Inc.\u2019s is a leading off-price retailer of brand name household products. Since our founding in 1982, our mission has been to sell Good Stuff Cheap\u00ae. We do this through a flexible buying model that focuses on closeout merchandise and excess inventory from suppliers and manufacturers around the world. Our stores offer Real Brands! Real Bargains! \u00ae in a treasure hunt environment at prices up to 70% below traditional retailers. As of January 31, 2026, we operated 645 stores in 34 states and growing! For more information, visit www.ollies.com .",
+      "token_count": 138
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company\u2019s results are reported in this press release on a GAAP and as adjusted, non-GAAP basis. Adjusted net income (loss), Adjusted net income (loss) per diluted share, EBITDA, and Adjusted EBITDA are non-GAAP measures, and are not intended to replace GAAP financial information, and may be different from non-GAAP measures reported by other companies. The Company believes the income and expense items excluded as non-GAAP adjustments are not reflective of the performance of its core business, and that providing this supplemental disclosure to investors will facilitate comparisons of the past and present performance of its core business.",
+      "token_count": 162
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Please refer to the \u201cReconciliation of GAAP to Non-GAAP Financial Measures\u201d table included in this press release, which sets forth the non-GAAP operating adjustments for the 13-week and 52-week periods ended January 31, 2026 and February 1, 2025.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Managing Director of Corporate Communication & Business Development",
+      "token_count": 17
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Ollie's Bargain Outlet Holdings, Inc.\u2019s Bargain Outlet Holdings, Inc.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Condensed Consolidated Statements of Income (unaudited) (In thousands except for per share amounts)",
+      "token_count": 25
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Components may not add to totals due to rounding.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Reconciliation of GAAP to Non-GAAP Financial Measures (unaudited)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Excess tax benefits related to stock-based compensation (1)",
+      "token_count": 15
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Acceleration of stock awards expense (2)",
+      "token_count": 10
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(1) Amount represents the impact from the recognition of excess tax benefits pursuant to Accounting Standards Update 2016-09, Stock Compensation",
+      "token_count": 36
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Amount represents the impact from the recognition of excess tax benefits pursuant to Accounting Standards Update 2016-09, Stock Compensation",
+      "token_count": 35
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(2) Represents the one-time expense for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman",
+      "token_count": 37
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Represents the one-time expense for the accelerated expense resulting from the modification of existing equity awards for our Executive Chairman",
+      "token_count": 36
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(1) Includes cash and cash equivalents, short-term investments, and long-term investments.",
+      "token_count": 23
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.049821,
+    "ret_20d": -0.084978,
+    "market_ret_20d": -0.022814
+  },
+  "outcome_blind": true
+}

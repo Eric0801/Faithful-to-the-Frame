@@ -1,0 +1,479 @@
+{
+  "event_id": "evt_0067",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "KOHLS Corp",
+  "ticker": "KSS",
+  "company_alias": "KOHLS Corp",
+  "masked_company": "Company CD",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-10",
+  "accepted_at_et": "2026-03-10T07:00:20-04:00",
+  "source_packet_path": "source_packets/evt_0067.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "MENOMONEE FALLS, Wis.\u2014(BUSINESS WIRE)\u20142026-03-10T07:00:20-04:00\u2014Kohl\u2019s Corporation [NYSE:KOHLS Corp] (\u201cKohl\u2019s\u201d or the \u201cCompany\u201d) today reported results for the quarter and year ended January 31, 2026.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "MENOMONEE FALLS, Wis.\u2014(BUSINESS WIRE)\u20142026-03-10T07:00:20-04:00\u2014Kohl\u2019s Corporation [NYSE:KOHLS Corp] (\u201cKohl\u2019s\u201d or the \u201cCompany\u201d) today reported results for the quarter and year ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "Fourth quarter net sales decreased 3.9% and comparable sales decreased 2.8%; fiscal year 2025 net sales decreased 4.0% and comparable sales decreased 3.1%.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Fourth quarter net sales decreased 3.9% and comparable sales decreased 2.8%; fiscal year 2025 net sales decreased 4.0% and comparable sales decreased 3.1%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "Fourth quarter diluted earnings per share (\u201cEPS\u201d) of $1.07",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Fourth quarter diluted earnings per share (\u201cEPS\u201d) of $1.07",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "Fiscal year 2025 diluted EPS of $2.38 and adjusted diluted EPS of $1.62 (a)",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Fiscal year 2025 diluted EPS of $2.38 and adjusted diluted EPS of $1.62 (a)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "Michael J.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Michael J. Bender, Kohl\u2019s Chief Executive Officer, said, \u201cWe are ending 2025 in a stronger position than we started, with important work still ahead of us. Over the past year, our efforts have been focused on resetting our foundation. This focus is intended to stabilize the bu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u201cIn 2026, we are committed to further strengthening our foundation by addressing operational opportunities, building on our strengths, and modernizing our processes.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cIn 2026, we are committed to further strengthening our foundation by addressing operational opportunities, building on our strengths, and modernizing our processes. We are confident that the work we are investing in now is essential for Kohl\u2019s long-term benefit,\u201d Bender conti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "Comparisons refer to the 13-week period ended January 31, 2026 versus the 13-week period ended February 1, 2025",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Comparisons refer to the 13-week period ended January 31, 2026 versus the 13-week period ended February 1, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Net sales decreased 3.9% year-over-year, to $5.0 billion, with comparable sales down 2.8%.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Net sales decreased 3.9% year-over-year, to $5.0 billion, with comparable sales down 2.8%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Gross margin as a percentage of net sales was 33.1%, an increase of 25 basis points.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Gross margin as a percentage of net sales was 33.1%, an increase of 25 basis points.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "Selling, general & administrative (SG&A) expenses decreased 4.9% year-over-year, to $1.5 billion.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Selling, general & administrative (SG&A) expenses decreased 4.9% year-over-year, to $1.5 billion. As a percentage of total revenue, SG&A expenses were 28.3%, a decrease of 23 basis points year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Operating income was $212 million compared to $126 million in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Operating income was $212 million compared to $126 million in the prior year. Adjusted operating income was $202 million in the prior year. As a percentage of total revenue, operating income was 4.1%, an increase of 176 basis points year-over-year and an increase of 35 basis p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "Net income was $125 million, or $1.07 per diluted share, compared to net income of $48 million, or $0.43 per diluted share, and adjusted net income of $106 million, or $0.95 per adjusted diluted share, in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Net income was $125 million, or $1.07 per diluted share, compared to net income of $48 million, or $0.43 per diluted share, and adjusted net income of $106 million, or $0.95 per adjusted diluted share, in the prior year. (a)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "Inventory was $2.7 billion, a decrease of 7% year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Inventory was $2.7 billion, a decrease of 7% year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash flow provided by operating activities was $750 million compared to $596 million in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Cash flow provided by operating activities was $750 million compared to $596 million in the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "Borrowings under revolving credit facility were $0, a decrease of $290 million year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Borrowings under revolving credit facility were $0, a decrease of $290 million year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "Comparisons refer to the 52-week period ended January 31, 2026 versus the 52-week period ended February 1, 2025",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Comparisons refer to the 52-week period ended January 31, 2026 versus the 52-week period ended February 1, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Net sales decreased 4.0% year-over-year, to $14.8 billion, with comparable sales down 3.1%.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Net sales decreased 4.0% year-over-year, to $14.8 billion, with comparable sales down 3.1%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Gross margin as a percentage of net sales was 37.5%, an increase of 34 basis points.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Gross margin as a percentage of net sales was 37.5%, an increase of 34 basis points.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "Selling, general & administrative (SG&A) expenses decreased 4.1% year-over-year, to $5.1 billion.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Selling, general & administrative (SG&A) expenses decreased 4.1% year-over-year, to $5.1 billion. As a percentage of total revenue, SG&A expenses were 32.8%, an increase of 5 basis points year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "Gain on legal settlement was $129 million from a credit card interchange fee lawsuit settlement.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Gain on legal settlement was $129 million from a credit card interchange fee lawsuit settlement.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "Operating income was $624 million compared to $433 million in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Operating income was $624 million compared to $433 million in the prior year. As a percentage of total revenue, operating income was 4.0%, an increase of 135 basis points year-over-year. Adjusted operating income was $510 million compared to $509 million in the prior year. As...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "earnings_or_eps",
+      "claim": "Net income was $272 million, or $2.38 per diluted share, and adjusted net income was $186 million, or $1.62 per adjusted diluted share.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Net income was $272 million, or $2.38 per diluted share, and adjusted net income was $186 million, or $1.62 per adjusted diluted share. This compares to net income of $109 million, or $0.98 per diluted share and adjusted net income of $167 million and $1.50 per adjusted dilute...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash flow provided by operating activities was $1.4 billion compared to $648 million in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Cash flow provided by operating activities was $1.4 billion compared to $648 million in the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "Current portion of long-term debt was reduced by $353 million through repayment of the 4.25% notes due July 2025 at maturity.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Current portion of long-term debt was reduced by $353 million through repayment of the 4.25% notes due July 2025 at maturity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "balance_sheet_or_cash",
+      "claim": "Long-term debt increased $262 million through issuance of $360 million of 10.000% senior secured notes due 2030, partially offset by open market repurchases of $87 million of our outstanding long-term debt.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Long-term debt increased $262 million through issuance of $360 million of 10.000% senior secured notes due 2030, partially offset by open market repurchases of $87 million of our outstanding long-term debt.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP financial measures: Please see the \u201cRECONCILIATION OF NON-GAAP FINANCIAL MEASURES\u201d for a reconciliation of adjusted operating income to operating income, adjusted net income to net income, and adjusted diluted earnings per share to diluted earnings per share.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Non-GAAP financial measures: Please see the \u201cRECONCILIATION OF NON-GAAP FINANCIAL MEASURES\u201d for a reconciliation of adjusted operating income to operating income, adjusted net income to net income, and adjusted diluted earnings per share to diluted earnings per share.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "Net sales and Comparable sales: A decrease of (2%) to flat",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Net sales and Comparable sales: A decrease of (2%) to flat",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "Adjusted operating margin: In the range of 2.8% to 3.4% (b)",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Adjusted operating margin: In the range of 2.8% to 3.4% (b)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "Adjusted diluted EPS: In the range of $1.00 to $1.60 (b)",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Adjusted diluted EPS: In the range of $1.00 to $1.60 (b)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "Capital Expenditures: Approximately $350 to $400 million",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Capital Expenditures: Approximately $350 to $400 million",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "Dividend: On February 25, 2026, Kohl\u2019s Board of Directors declared a quarterly cash dividend on the Company\u2019s common stock of $0.125 per share.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Dividend: On February 25, 2026, Kohl\u2019s Board of Directors declared a quarterly cash dividend on the Company\u2019s common stock of $0.125 per share. The dividend is payable April 1, 2026 to shareholders of record at the close of business on March 18, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "Non-GAAP financial measures: The Company provides adjusted operating margin and adjusted diluted earnings per share on a non-GAAP basis and does not provide a reconciliation of the Company\u2019s forward looking guidance to the most directly comparable GAAP financial measures because of the inherent difficulty in forecasting and quantifying certain amounts that are necessary for such reconciliations.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Non-GAAP financial measures: The Company provides adjusted operating margin and adjusted diluted earnings per share on a non-GAAP basis and does not provide a reconciliation of the Company\u2019s forward looking guidance to the most directly comparable GAAP financial measures becau...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "Cautionary Statement Regarding Forward-Looking Information and Non-GAAP Measures",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Cautionary Statement Regarding Forward-Looking Information and Non-GAAP Measures",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "This press release contains certain financial measures that are not prepared in accordance with generally accepted accounting principles (GAAP), including adjusted operating income, adjusted net income and adjusted diluted earnings per share.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "This press release contains certain financial measures that are not prepared in accordance with generally accepted accounting principles (GAAP), including adjusted operating income, adjusted net income and adjusted diluted earnings per share. These non-GAAP financial measures...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "guidance",
+      "claim": "Kohl\u2019s (NYSE:KSS) is a leading omnichannel retailer built on a foundation that combines great brands, incredible value and convenience for our customers.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Kohl\u2019s (NYSE:KSS) is a leading omnichannel retailer built on a foundation that combines great brands, incredible value and convenience for our customers. Kohl\u2019s is uniquely positioned to deliver against its long-term strategy and its purpose to take care of families\u2019 realest m...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Trevor Novotny, (262) 703-1617, trevor.novotny@KOHLS Corp.com",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Trevor Novotny, (262) 703-1617, trevor.novotny@KOHLS Corp.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Jen Johnson, (262) 703-5241, jen.johnson@KOHLS Corp.com",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Jen Johnson, (262) 703-5241, jen.johnson@KOHLS Corp.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "Three Months Ended January 31, 2026",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Three Months Ended January 31, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "Three Months Ended February 1, 2025",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Three Months Ended February 1, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "Twelve Months Ended January 31, 2026",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Twelve Months Ended January 31, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Twelve Months Ended February 1, 2025",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Twelve Months Ended February 1, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.043928, ret_20d=-0.2, market_ret_20d=-0.017882",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.043928, ret_20d=-0.2, market_ret_20d=-0.017882",
+      "support_label": "supported"
+    }
+  ]
+}

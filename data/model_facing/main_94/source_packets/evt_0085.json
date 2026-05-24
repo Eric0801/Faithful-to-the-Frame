@@ -1,0 +1,503 @@
+{
+  "event_id": "evt_0085",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CALERES INC",
+  "ticker": "CAL",
+  "company_alias": "CALERES INC",
+  "masked_company": "Company W",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-03-19",
+  "filing_metadata": {
+    "cik": "14707",
+    "accession_number": "0000014707-26-000039",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-19T08:49:27-04:00",
+    "event_date": "2026-03-19",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Fourth quarter adjusted EPS exceeds guidance. Lead Brands, eCommerce and International drive growth. CALERES INC completes Stuart Weitzman integration.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Reported fourth quarter net sales of $695.1 million, up 8.7%.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Brand Portfolio sales increased 20.3%, with organic sales up 1.5%.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Continued growth across all channels of our Brand Portfolio business, supplemented by continued market share gain in Women\u2019s Fashion Footwear (+0.85%) and Total Footwear (+0.34%).",
+      "token_count": 45
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Famous Footwear sales declined 1.2%, with comparable sales up 0.1%.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Owned eCommerce sales across Famous Footwear and Brand Portfolio remained up double digits.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GAAP loss per diluted share was $0.70. Adjusted loss per diluted share was $0.36. Excluding Stuart Weitzman, adjusted loss per diluted share was $0.06.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Completed the Stuart Weitzman integration onto CALERES INC platforms as we finished the quarter, both on time and on budget, with minimal business disruption.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Expects first quarter 2026 consolidated net sales up mid to high-single digits and GAAP earnings per diluted share of $0.21 to $0.26, and adjusted earnings per diluted share of $0.25 to $0.30.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Expects fiscal 2026 consolidated net sales up low to mid-single digits and GAAP earnings per diluted share of $1.31 to $1.61, and adjusted earnings per diluted share of $1.35 to $1.65.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ST. LOUIS--(BUSINESS WIRE)--CALERES INC (NYSE:CAL), a market-leading portfolio of consumer-driven footwear brands, today reported financial results for the fourth quarter and full year 2025, as well as guidance for first quarter and full year 2026.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cCALERES INC\u2019 fourth quarter exceeded our earnings guidance with sales modestly above expectations and gross margin better than anticipated in both segments,\u201d said Jay Schmidt, president and chief executive officer. \u201cPerformance was driven by continued strength in owned eCommerce and international growth, reinforcing our strategic growth vectors. Our Lead Brands once again outperformed, and we gained market share in both women\u2019s fashion footwear and total footwear. We also completed the Stuart Weitzman integration with minimal business disruption. At Famous Footwear, FLAIR remodels continue to outperform the fleet, and our more curated and elevated assortment is resonating with consumers as Famous gained market share in shoe chains.",
+      "token_count": 185
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cAs we look ahead, 2026 is shaping up as a build-back year with modest organic sales growth and meaningful earnings recovery. While we have many reasons for optimism, we are also aware that the current geopolitical backdrop presents a level of risk and uncertainty. Profit improvement in 2026 will be driven primarily by our tariff mitigation efforts taking",
+      "token_count": 90
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "hold and our plan to bring Stuart Weitzman to breakeven profitability. We are confident that executing our strategic plans will result in improved financial performance and drive long-term value for our shareholders.\u201d",
+      "token_count": 55
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(13 weeks ended January 31, 2026, compared to 13 weeks ended February 1, 2025)",
+      "token_count": 20
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales were $695.1 million, up 8.7% versus fourth quarter 2024, and $638.7 million when excluding Stuart Weitzman.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Famous Footwear net sales decreased 1.2% versus last year, with comparable sales up 0.1%.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Brand Portfolio net sales increased 20.3% versus last year, and 1.5% when excluding Stuart Weitzman.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Direct-to-consumer sales represented approximately 74% of total net sales.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit was $290.3 million with a gross margin of 41.8%, down 230 basis points versus last year. Adjusted gross profit was $298.4 million with adjusted gross margin of 42.9%, down 10 basis points versus last year. Excluding Stuart Weitzman, adjusted gross profit was $271.3 million, with adjusted gross margin of 42.5%, down 60 basis points versus last year.",
+      "token_count": 91
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Famous Footwear gross margin was 42.5%, nearly flat versus last year.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Brand Portfolio gross margin was 39.3%, down 230 basis points versus last year. Adjusted gross margin was 41.6%, down 10 basis points versus last year.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling and administrative expenses were $310.0 million, or 44.6% of net sales, deleveraged 370 basis points versus last year, primarily reflecting $39 million in expenses related to Stuart Weitzman. Excluding Stuart Weitzman, selling and administrative expenses were $270.8 million, or 42.4% of net sales, deleveraged 150 basis points versus last year.",
+      "token_count": 89
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GAAP net loss was $22.7 million, or loss per diluted share of $0.70, versus last year\u2019s GAAP net earnings of $4.9 million or earnings per diluted share of $0.15. Adjusted net loss was $11.7 million, or adjusted loss per diluted share of $0.36, versus last year\u2019s net earnings of $11.1 million, or earnings per diluted share of $0.33. Excluding Stuart Weitzman, adjusted net loss was $1.9 million, or adjusted loss per diluted share of $0.06.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Earnings (loss) per diluted share 4Q25 4Q24 GAAP ($0.70) $0.15 Adjusted ($0.36) $0.33 Adjusted excluding Stuart Weitzman ($0.06) $0.33",
+      "token_count": 34
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(52 weeks ended January 31, 2026, compared to 52 weeks ended February 1, 2025)",
+      "token_count": 20
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales were $2.8 billion, up 1.3% versus fiscal 2024, including Stuart Weitzman.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Famous Footwear segment net sales decreased 3.6% versus last year, with comparable sales down 2.3%.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Brand Portfolio segment net sales increased 7.3% versus last year. Excluding Stuart Weitzman, net sales decreased 1.0% versus last year.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Direct-to-consumer sales represented approximately 73% of total net sales.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit was $1.18 billion with a gross margin of 43.0%, down 190 basis points versus last year. Adjusted gross margin was 43.5%, down 140 basis points versus last year. Excluding Stuart Weitzman, adjusted gross profit was $1.15 billion with gross margin of 43.4%, down 150 basis points versus last year.",
+      "token_count": 77
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Famous Footwear segment gross margin was 43.2%, down 90 basis points versus last year.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Brand Portfolio segment gross margin was 40.8%, down 290 basis points versus last year. Adjusted gross margin was 42.0%, down 170 basis points versus last year. Excluding Stuart Weitzman, gross margin was 41.6%, down 220 basis points versus last year.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling and administrative expenses were $1.2 billion, or 42.0% of net sales, deleveraged 290 basis points versus last year, primarily reflecting $71 million of Stuart Weitzman expense. Excluding Stuart Weitzman, selling and administrative expenses were $1.1 billion, or 40.9% of net sales, deleveraged 180 basis points versus last year.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GAAP net loss was $6.7 million, or loss per diluted share of $0.21, versus last year\u2019s GAAP net earnings of $107.3 million or earnings per diluted share of $3.09. Adjusted net earnings were $20.5 million, or adjusted earnings per diluted share of $0.61, versus last year\u2019s net earnings of $114.6 million, or earnings per diluted share of $3.30. Excluding Stuart Weitzman, adjusted net earnings were $40.2 million, or adjusted earnings per diluted share of $1.19.",
+      "token_count": 116
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Inventory at year-end was $610.5 million, up $45.2 million versus last year, of which about $57 million was from Stuart Weitzman. Excluding Stuart Weitzman, Brand Portfolio inventory was down 6%. Famous inventory was up 2%.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Borrowings under the asset-based revolving credit facility were $296.5 million, and liquidity was $237.5 million.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Earnings (loss) per diluted share FY25 FY24 GAAP ($0.21) $3.09 Adjusted $0.61 $3.30 Adjusted excluding Stuart Weitzman $1.19 $3.30",
+      "token_count": 33
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For the first quarter of 2026, we expect sales to increase mid- to high-single digits versus last year. Famous Footwear sales are expected to be down low single digits to flat, with comparable sales of down 2% to up 1%. Brand Portfolio sales are anticipated to be up mid-teens, with low single-digit organic growth. Gross margin is expected to improve 120 to 140 basis points. With discrete items impacting the quarter, we expect a tax rate of 30% to 32%. We expect GAAP earnings per diluted share of $0.21 to $0.26 and adjusted earnings per diluted share of $0.25 to $0.30, as we expect to incur approximately $2 million in remaining Stuart Weitzman acquisition and integration expenses.",
+      "token_count": 172
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For fiscal 2026, we expect total sales to increase low to mid-single digits versus fiscal 2025. Famous Footwear sales are expected to be down low single digits to flat, with comparable sales of down 1% to up 1%. Brand Portfolio sales are anticipated to increase low double digits, with low to mid-single-digit organic growth. Gross margin is expected to improve 140 to 180 basis points as tariff mitigation actions take hold and mix improves. We expect interest expense of approximately $18 million, a full-year tax rate of 28% to 30%, and capital expenditures of $55 to $60 million. We expect GAAP earnings per diluted share of $1.31 to $1.61 and adjusted earnings per diluted share of $1.35 to $1.65, as we expect to incur approximately $2 million in remaining Stuart Weitzman acquisition and integration expenses.",
+      "token_count": 204
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Metric 1Q26 Guidance Net Sales Up mid to high-single digits Gross Margin Up 120 to 140 bps Tax Rate 30% to 32% GAAP EPS $0.21 to $0.26 Adjusted EPS $0.25 to $0.30",
+      "token_count": 41
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Metric FY26 Guidance Net Sales Up low to mid-single digits Gross Margin Up 140 to 180 bps Tax Rate 28% to 30% Interest Expense ~$18 million GAAP EPS $1.31 to $1.61 Adjusted EPS $1.35 to $1.65 Capital Expenditures $55 to $60 million",
+      "token_count": 58
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CALERES INC is a market-leading portfolio of global footwear brands that includes Famous Footwear, Sam Edelman, Stuart Weitzman, Allen Edmonds, Naturalizer, Vionic, and more. Our products are available virtually everywhere - in the nearly 1,000 retail stores we operate, in hundreds of major department and specialty stores, on our branded eCommerce sites, and on many additional third-party retail platforms. Combined, these brands make CALERES INC a company with both a legacy and a mission. Our legacy is nearly 150 years of craftsmanship and our passion for fit, while our mission is to continue to inspire people to feel great\u2026feet first. Visit CALERES INC.com to learn more about us.",
+      "token_count": 171
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "All references in this press release, outside of the condensed consolidated financial statements that follow, unless otherwise noted, related to net earnings (loss) attributable to CALERES INC. and diluted earnings (loss) per common share attributable to CALERES INC. shareholders, are presented as net earnings (loss) and earnings (loss) per diluted share, respectively.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In this press release, the company\u2019s financial results are provided both in accordance with generally accepted accounting principles (GAAP) and using certain non-GAAP financial measures and metrics. In particular, the company provides estimated and future gross profit, operating earnings (loss), net earnings (loss) and earnings (loss) per diluted share, adjusted to exclude certain gains, charges and recoveries and the financial results of the acquired Stuart Weitzman business, which are non-GAAP financial measures. These results are included as a complement to results provided in accordance with GAAP because management believes these non-GAAP financial measures and metrics help identify underlying trends in the company\u2019s business and provide useful information to both management and investors by excluding certain items that may not be indicative of the company\u2019s core operating results. This measure and metric should not be considered a substitute for or superior to GAAP results.",
+      "token_count": 249
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "preferences and purchasing patterns and fashion trends; (v) supplier concentration, customer concentration and increased consolidation in the retail industry; (vi) intense competition within the footwear industry; (vii) foreign currency fluctuations; (viii) political and economic conditions or other threats to the continued and uninterrupted flow of inventory from China and other countries, where the company relies heavily on third-party manufacturing facilities for a significant amount of its inventory; (ix) cybersecurity threats or other major disruption to the company\u2019s information technology systems including those related to our ERP upgrade; (x) transitional challenges with acquisitions and divestitures; (xi) the ability to accurately forecast sales and manage inventory levels; (xii) a disruption in the company\u2019s distribution centers; (xiii) the ability to recruit and retain senior management and other key associates; (xiv) the ability to secure/exit leases on favorable terms; (xv) the ability to maintain relationships with current suppliers; (xvi) changes to tax laws, policies and treaties; (xvii) our commitments and shareholder expectations related to responsible business initiatives; (xviii) compliance with applicable laws and standards with respect to labor, trade and product safety issues; and (xix) the ability to attract, retain, and maintain good relationships with licensors and protect our intellectual property rights.",
+      "token_count": 364
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b Fifty-Two Weeks Ended ($ thousands, except per share data) \u200b \u200b \u200b January 31, 2026 \u200b \u200b \u200b February 1, 2025 \u200b \u200b \u200b January 31, 2026 \u200b \u200b \u200b February 1, 2025 Net sales \u200b $ 695,062 \u200b $ 639,226 \u200b $ 2,757,853 \u200b $ 2,722,683 Cost of goods sold \u200b 404,722 \u200b 364,118 \u200b 1,573,075 \u200b 1,500,641 Gross profit \u200b 290,340 \u200b 275,108 \u200b 1,184,778 \u200b 1,222,042 Selling and administrative expenses \u200b 310,010 \u200b 261,664 \u200b 1,157,515 \u200b 1,065,019 Restructuring and other special charges, net \u200b 6,803 \u200b 5,574 \u200b 20,891 \u200b 7,167 Operating (loss) earnings \u200b (26,473) \u200b 7,870 \u200b 6,372 \u200b 149,856 Interest expense, net \u200b (4,677) \u200b (3,932) \u200b (18,464) \u200b (13,957) Other expense, net \u200b (1,497) \u200b (2,944) \u200b (130) \u200b (741) (Loss) earnings before income taxes \u200b (32,647) \u200b 994 \u200b (12,222) \u200b 135,158 Income tax benefit (provision) \u200b 8,330 \u200b 2,913 \u200b 2,345 \u200b (29,061) Net (loss) earnings \u200b (24,317) \u200b 3,907 \u200b (9,877) \u200b 106,097 Net loss attributable to noncontrolling interests \u200b (1,583) \u200b (1,023) \u200b (3,185) \u200b (1,158) Net (loss) earnings attributable to CALERES INC. \u200b $ (22,734) \u200b $ 4,930 \u200b $ (6,692) \u200b $ 107,255 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic (loss) earnings per common share attributable to CALERES INC. shareholders \u200b $ (0.70) \u200b $ 0.15 \u200b $ (0.21) \u200b $ 3.10 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted (loss) earnings per common share attributable to CALERES INC. shareholders \u200b $ (0.70) \u200b $ 0.15 \u200b $ (0.21) \u200b $ 3.09",
+      "token_count": 354
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) ($ thousands) \u200b \u200b \u200b January 31, 2026 \u200b \u200b \u200b February 1, 2025 ASSETS \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 29,769 \u200b $ 29,636 Receivables, net \u200b 147,216 \u200b 155,905 Inventories, net \u200b 610,471 \u200b 565,241 Property and equipment, held for sale \u200b \u200b \u2014 \u200b \u200b 16,777 Prepaid expenses and other current assets \u200b 75,318 \u200b 68,950 Total current assets \u200b 862,774 \u200b 836,509 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Lease right-of-use assets \u200b 562,327 \u200b 564,330 Property and equipment, net \u200b 202,939 \u200b 175,213 Goodwill and intangible assets, net \u200b 204,147 \u200b 192,274 Other assets \u200b 133,603 \u200b 126,428 Total assets \u200b $ 1,965,790 \u200b $ 1,894,754 \u200b \u200b \u200b \u200b \u200b \u200b \u200b LIABILITIES AND EQUITY \u200b \u200b \u200b \u200b Borrowings under revolving credit agreement \u200b $ 296,500 \u200b $ 219,500 Trade accounts payable \u200b 191,150 \u200b 237,038 Lease obligations \u200b 127,034 \u200b 127,522 Other accrued expenses \u200b 230,856 \u200b 173,873 Total current liabilities \u200b 845,540 \u200b 757,933 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Noncurrent lease obligations \u200b 467,597 \u200b 479,524 Other liabilities \u200b 43,697 \u200b 51,348 Total other liabilities \u200b 511,294 \u200b 530,872 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Total CALERES INC. shareholders\u2019 equity \u200b 601,851 \u200b 599,024 Noncontrolling interests \u200b 7,105 \u200b 6,925 Total equity \u200b 608,956 \u200b 605,949 Total liabilities and equity \u200b $ 1,965,790 \u200b $ 1,894,754",
+      "token_count": 313
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) ($ thousands) \u200b \u200b \u200b January 31, 2026 \u200b \u200b \u200b February 1, 2025 OPERATING ACTIVITIES: \u200b \u200b \u200b \u200b Net cash provided by operating activities \u200b $ 103,177 \u200b $ 104,562 \u200b \u200b \u200b \u200b \u200b \u200b \u200b INVESTING ACTIVITIES: \u200b \u200b \u200b \u200b Purchases of property and equipment \u200b (63,744) \u200b (49,147) Proceeds from sale of headquarters \u200b \u200b 15,272 \u200b \u200b \u2014 Capitalized software \u200b (4,147) \u200b (2,539) Acquisition of Stuart Weitzman, net of cash received \u200b \u200b (108,858) \u200b \u200b \u2014 Net cash used for investing activities \u200b (161,477) \u200b (51,686) \u200b \u200b \u200b \u200b \u200b \u200b \u200b FINANCING ACTIVITIES: \u200b \u200b \u200b \u200b Borrowings under revolving credit agreement \u200b 849,500 \u200b 639,868 Repayments under revolving credit agreement \u200b (772,500) \u200b (602,368) Debt issuance costs \u200b \u200b (2,920) \u200b \u200b \u2014 Dividends paid \u200b (9,448) \u200b (9,694) Acquisition of treasury stock \u200b (5,044) \u200b (65,039) Issuance of common stock under share-based plans, net \u200b (3,862) \u200b (9,276) Contributions by noncontrolling interests \u200b \u200b 2,650 \u200b \u200b 2,000 Net cash provided by (used for) financing activities \u200b 58,376 \u200b (44,509) Effect of exchange rate changes on cash and cash equivalents \u200b 57 \u200b (89) Increase in cash and cash equivalents \u200b 133 \u200b 8,278 Cash and cash equivalents at beginning of period \u200b 29,636 \u200b 21,358 Cash and cash equivalents at end of period \u200b $ 29,769 \u200b $ 29,636",
+      "token_count": 321
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "SCHEDULE 4 CALERES INC. RECONCILIATION OF NET EARNINGS AND DILUTED EARNINGS PER SHARE (GAAP BASIS) TO ADJUSTED NET EARNINGS AND ADJUSTED DILUTED EARNINGS PER SHARE (NON-GAAP BASIS) AND ADJUSTED NET EARNINGS AND ADJUSTED DILUTED EARNINGS PER SHARE, EXCLUDING STUART WEITZMAN (NON-GAAP BASIS)",
+      "token_count": 72
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "RECONCILIATION OF NET EARNINGS AND DILUTED EARNINGS PER SHARE (GAAP BASIS) TO ADJUSTED NET EARNINGS AND ADJUSTED DILUTED EARNINGS PER SHARE (NON-GAAP BASIS) AND ADJUSTED NET EARNINGS AND ADJUSTED DILUTED EARNINGS PER SHARE, EXCLUDING STUART WEITZMAN (NON-GAAP BASIS)",
+      "token_count": 67
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b \u200b January 31, 2026 \u200b February 1, 2025 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Pre-Tax \u200b Net (Loss) Earnings \u200b \u200b \u200b \u200b Pre-Tax \u200b Net Earnings \u200b \u200b \u200b \u200b Impact of \u200b Attributable \u200b \u200b Diluted \u200b Impact of \u200b Attributable \u200b Diluted \u200b \u200b Charges/Other \u200b to CALERES INC, \u200b \u200b Earnings \u200b Charges/Other \u200b to CALERES INC, \u200b Earnings ($ thousands, except per share data) \u200b Items \u200b Inc. \u200b \u200b Per Share \u200b Items \u200b Inc. \u200b Per Share \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b GAAP earnings \u200b \u200b \u200b \u200b $ (22,734) \u200b $ (0.70) \u200b \u200b \u200b $ 4,930 \u200b $ 0.15 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Charges/other items: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b $ 13,192 \u200b \u200b 9,815 \u200b \u200b 0.30 \u200b $ \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 Expense reduction initiatives \u200b \u200b 2,237 \u200b \u200b 1,661 \u200b \u200b 0.05 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 Organizational changes \u200b \u200b 1,973 \u200b 1,465 \u200b 0.05 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u2014 Gain on sale of corporate headquarters \u200b \u200b (2,551) \u200b \u200b (1,894) \u200b \u200b (0.06) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Exit of Naturalizer retail store operations \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 4,216 \u200b \u200b 3,131 \u200b \u200b 0.09 Pension settlement cost \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 2,716 \u200b \u200b 2,017 \u200b \u200b 0.06 Restructuring costs \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 1,359 \u200b \u200b 1,009 \u200b \u200b 0.03 Total charges/other items \u200b $ 14,851 \u200b $ 11,047 \u200b $ 0.34 \u200b $ 8,291 \u200b $ 6,157 \u200b $ 0.18 Adjusted earnings \u200b \u200b \u200b \u200b $ (11,687) \u200b $ (0.36) \u200b \u200b \u200b \u200b $ 11,087 \u200b $ 0.33 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman impact (1) \u200b $ (13,535) \u200b $ (9,738) \u200b $ (0.30) \u200b $ \u2014 \u200b $ \u2014 \u200b $ \u2014 Adjusted earnings, excluding Stuart Weitzman \u200b \u200b \u200b \u200b $ (1,949) \u200b $ (0.06) \u200b \u200b \u200b \u200b $ 11,087 \u200b $ 0.33",
+      "token_count": 423
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Fifty-Two Weeks Ended \u200b \u200b January 31, 2026 \u200b February 1, 2025 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Pre-Tax \u200b Net (Loss) Earnings \u200b \u200b \u200b Pre-Tax \u200b Net Earnings \u200b \u200b \u200b \u200b Impact of \u200b Attributable \u200b Diluted \u200b Impact of \u200b Attributable \u200b Diluted \u200b \u200b Charges/Other \u200b to CALERES INC, \u200b Earnings \u200b Charges/Other \u200b to CALERES INC, \u200b Earnings ($ thousands, except per share data) \u200b Items \u200b Inc. \u200b Per Share \u200b Items \u200b Inc. \u200b Per Share \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b GAAP earnings \u200b \u200b \u200b \u200b $ (6,692) \u200b $ (0.21) \u200b \u200b \u200b $ 107,255 \u200b $ 3.09 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Charges/other items: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b $ 27,571 \u200b \u200b 20,497 \u200b \u200b 0.62 \u200b $ \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 Expense reduction initiatives \u200b \u200b 9,615 \u200b \u200b 7,140 \u200b \u200b 0.22 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 Organizational changes \u200b \u200b 1,973 \u200b \u200b 1,465 \u200b \u200b 0.04 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 Gain on sale of corporate headquarters \u200b \u200b (2,551) \u200b \u200b (1,894) \u200b \u200b (0.06) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 Exit of Naturalizer retail store operations \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 4,216 \u200b \u200b 3,131 \u200b \u200b 0.09 Pension settlement cost \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 2,716 \u200b \u200b 2,017 \u200b \u200b 0.06 Restructuring costs \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 2,951 \u200b \u200b 2,192 \u200b \u200b 0.06 Total charges/other items \u200b $ 36,608 \u200b $ 27,208 \u200b $ 0.82 \u200b $ 9,883 \u200b $ 7,340 \u200b $ 0.21 Adjusted earnings \u200b \u200b \u200b \u200b $ 20,516 \u200b $ 0.61 \u200b \u200b \u200b \u200b $ 114,595 \u200b $ 3.30 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman impact (1) \u200b $ (26,265) \u200b $ (19,683) \u200b $ (0.58) \u200b $ \u2014 \u200b $ \u2014 \u200b $ \u2014 Adjusted earnings, excluding Stuart Weitzman \u200b \u200b \u200b \u200b $ 40,199 \u200b $ 1.19 \u200b \u200b \u200b \u200b $ 114,595 \u200b $ 3.30",
+      "token_count": 421
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Represents the pre-tax impact, net loss and diluted loss per share of Stuart Weitzman, adjusted for Stuart Weitzman acquisition and integration costs and $1.4 million and $3.0 million of estimated interest on additional borrowings on the revolving credit agreement for the thirteen and fifty-two weeks, respectively, at an estimated statutory tax rate.",
+      "token_count": 88
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b \u200b Famous Footwear \u200b Brand Portfolio \u200b Eliminations and Other \u200b Consolidated \u200b \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, ($ thousands) \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 Net sales \u200b $ 354,030 \u200b $ 358,351 \u200b $ 361,249 \u200b $ 300,318 \u200b $ (20,217) \u200b $ (19,443) \u200b $ 695,062 \u200b $ 639,226 \u200b Net sales, excluding Stuart Weitzman (1) \u200b \u200b 354,030 \u200b \u200b 358,351 \u200b \u200b 304,903 \u200b \u200b 300,318 \u200b \u200b (20,217) \u200b \u200b (19,443) \u200b \u200b 638,716 \u200b \u200b 639,226 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Gross profit \u200b 150,496 \u200b 152,461 \u200b 142,144 \u200b 125,040 \u200b (2,300) \u200b (2,393) \u200b 290,340 \u200b 275,108 \u200b Adjusted gross profit \u200b 150,496 \u200b 152,461 \u200b 150,193 \u200b 125,040 \u200b (2,300) \u200b (2,393) \u200b 298,389 \u200b 275,108 \u200b Adjusted gross profit, excluding Stuart Weitzman \u200b \u200b 150,496 \u200b 152,461 \u200b 123,079 \u200b 125,040 \u200b (2,300) \u200b (2,393) \u200b 271,275 \u200b 275,108 \u200b Gross margin \u200b 42.5 % 42.5 % 39.3 % 41.6 % 11.4 % 12.3 % 41.8 % 44.1 % Adjusted gross margin \u200b 42.5 % 42.5 % 41.6 % 41.6 % 11.4 % 12.3 % 42.9 % 44.1 % Adjusted gross margin, excluding Stuart Weitzman \u200b \u200b 42.5 % 42.5 % 40.4 % 41.6 % 11.4 % 12.3 % 42.5 % 44.1 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating earnings (loss) \u200b 2,955 \u200b 6,267 \u200b (2,892) \u200b 23,026 \u200b (26,536) \u200b (21,423) \u200b (26,473) \u200b 7,870 \u200b Adjusted operating earnings (loss) \u200b 2,955 \u200b 6,713 \u200b 8,730 \u200b 28,277 \u200b (23,307) \u200b (21,546) \u200b (11,622) \u200b 13,444 \u200b Adjusted operating earnings (loss), excluding Stuart Weitzman \u200b \u200b 2,955 \u200b 6,713 \u200b 20,840 \u200b 28,277 \u200b (23,307) \u200b (21,546) \u200b 488 \u200b 13,444 \u200b Operating margin \u200b 0.8 % 1.7 % (0.8) % 7.7 % n/m % n/m % (3.8) % 1.2 % Adjusted operating margin \u200b 0.8 % 1.9 % 2.4 % 9.4 % n/m % n/m % (1.7) % 0.2 % Adjusted operating margin, excluding Stuart Weitzman \u200b \u200b 0.8 % 1.9 % 6.8 % 9.4 % n/m % n/m % 0.1 % 2.1 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Comparable sales % (on a 13-week basis) \u200b 0.1 % (2.9) % \u2014 % \u2014 % \u2014 % \u2014 % \u2014 % \u2014 % Company-operated stores, end of period \u200b 821 \u200b 846 \u200b 188 \u200b 114 \u200b \u2014 \u200b \u2014 \u200b 1,009 \u200b 960 \u200b",
+      "token_count": 534
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Stuart Weitzman net sales were $56.3 million and $102.2 million in the thirteen and fifty-two weeks ended January 31, 2026, respectively.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b \u200b Famous Footwear \u200b Brand Portfolio \u200b Eliminations and Other \u200b Consolidated \u200b \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, ($ thousands) \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 Gross profit \u200b $ 150,496 \u200b $ 152,461 \u200b $ 142,144 \u200b $ 125,040 \u200b $ (2,300) \u200b $ (2,393) \u200b $ 290,340 \u200b $ 275,108 Charges/Other Items: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b \u2014 \u200b \u2014 \u200b 8,049 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 8,049 \u200b \u2014 Total charges/other items \u200b \u2014 \u200b \u2014 \u200b 8,049 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 8,049 \u200b \u2014 Adjusted gross profit \u200b $ 150,496 \u200b $ 152,461 \u200b $ 150,193 \u200b $ 125,040 \u200b $ (2,300) \u200b $ (2,393) \u200b $ 298,389 \u200b $ 275,108 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman gross profit \u200b \u200b \u2014 \u200b \u2014 \u200b 27,114 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 27,114 \u200b \u2014 Adjusted gross profit, excluding Stuart Weitzman \u200b $ 150,496 \u200b $ 152,461 \u200b $ 123,079 \u200b $ 125,040 \u200b $ (2,300) \u200b $ (2,393) \u200b $ 271,275 \u200b $ 275,108 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating earnings (loss) \u200b $ 2,955 \u200b $ 6,267 \u200b $ (2,892) \u200b $ 23,026 \u200b $ (26,536) \u200b $ (21,423) \u200b $ (26,473) \u200b $ 7,870 Charges/Other Items: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 11,509 \u200b \u200b \u2014 \u200b \u200b 1,683 \u200b \u200b \u2014 \u200b \u200b 13,192 \u200b \u2014 Expense reduction initiatives \u200b \u2014 \u200b \u2014 \u200b 113 \u200b \u2014 \u200b 2,124 \u200b \u2014 \u200b 2,237 \u200b \u2014 Organizational changes \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 1,973 \u200b \u2014 \u200b 1,973 \u200b \u2014 Gain on sale of corporate headquarters \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (2,551) \u200b \u200b \u2014 \u200b \u200b (2,551) \u200b \u2014 Exit of Naturalizer retail store operations \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 4,216 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 4,216 Restructuring costs \u200b \u200b \u2014 \u200b \u200b 446 \u200b \u200b \u2014 \u200b \u200b 1,035 \u200b \u200b \u2014 \u200b \u200b (123) \u200b \u200b \u2014 \u200b \u200b 1,358 Total charges/other items \u200b \u2014 \u200b 446 \u200b 11,622 \u200b 5,251 \u200b 3,229 \u200b (123) \u200b 14,851 \u200b 5,574 Adjusted operating earnings (loss) \u200b $ 2,955 \u200b $ 6,713 \u200b $ 8,730 \u200b $ 28,277 \u200b $ (23,307) \u200b $ (21,546) \u200b $ (11,622) \u200b $ 13,444 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman operating loss (2) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (12,110) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (12,110) \u200b \u200b \u2014 Adjusted operating earnings (loss), excluding Stuart Weitzman \u200b $ 2,955 \u200b $ 6,713 \u200b $ 20,840 \u200b $ 28,277 \u200b $ (23,307) \u200b $ (21,546) \u200b $ 488 \u200b $ 13,444",
+      "token_count": 608
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Represents the operating loss of Stuart Weitzman, adjusted for Stuart Weitzman acquisition and integration costs.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Fifty-Two Weeks Ended \u200b \u200b \u200b Famous Footwear \u200b Brand Portfolio \u200b Eliminations and Other \u200b Consolidated \u200b \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, ($ thousands) \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 Net sales \u200b $ 1,500,050 \u200b $ 1,556,456 \u200b $ 1,315,976 \u200b $ 1,225,963 \u200b $ (58,172) \u200b $ (59,736) \u200b $ 2,757,854 \u200b $ 2,722,683 \u200b Net sales, excluding Stuart Weitzman (1) \u200b \u200b 1,500,050 \u200b \u200b 1,556,456 \u200b \u200b 1,213,804 \u200b \u200b 1,225,963 \u200b \u200b (58,172) \u200b \u200b (59,736) \u200b \u200b 2,655,682 \u200b \u200b 2,722,683 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Gross profit \u200b 647,977 \u200b 686,627 \u200b 537,204 \u200b 536,295 \u200b (403) \u200b (880) \u200b 1,184,778 \u200b 1,222,042 \u200b Adjusted gross profit \u200b 647,977 \u200b 686,627 \u200b 552,921 \u200b 536,295 \u200b (403) \u200b (880) \u200b 1,200,495 \u200b 1,222,042 \u200b Adjusted gross profit, excluding Stuart Weitzman \u200b \u200b 647,977 \u200b 686,627 \u200b 504,690 \u200b 536,295 \u200b (403) \u200b (880) \u200b 1,152,264 \u200b 1,222,042 \u200b Gross margin \u200b 43.2 % 44.1 % 40.8 % 43.7 % 0.7 % 1.5 % 43.0 % 44.9 % Adjusted gross margin \u200b 43.2 % 44.1 % 42.0 % 43.7 % 0.7 % 1.5 % 43.5 % 44.9 % Adjusted gross margin, excluding Stuart Weitzman \u200b \u200b 43.2 % 44.1 % 41.6 % 43.7 % 0.7 % 1.5 % 43.4 % 44.9 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating earnings (loss) \u200b 47,203 \u200b 87,076 \u200b 32,289 \u200b 122,122 \u200b (73,120) \u200b (59,342) \u200b 6,372 \u200b 149,856 \u200b Adjusted operating earnings (loss) \u200b 47,476 \u200b 87,715 \u200b 54,556 \u200b 128,465 \u200b (59,052) \u200b (59,157) \u200b 42,980 \u200b 157,023 \u200b Adjusted operating earnings (loss), excluding Stuart Weitzman \u200b \u200b 47,476 \u200b 87,715 \u200b 77,841 \u200b 128,465 \u200b (59,052) \u200b (59,157) \u200b 66,265 \u200b 157,023 \u200b Operating margin \u200b 3.1 % 5.6 % 2.5 % 10.0 % n/m % n/m % 0.2 % 5.5 % Adjusted operating margin 3.2 % 5.6 % 4.1 % 10.5 % n/m % n/m % 1.6 % 5.8 % Adjusted operating margin, excluding Stuart Weitzman \u200b \u200b 3.2 % 5.6 % 6.4 % 10.5 % n/m % n/m % 2.5 % 5.8 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Comparable sales % (on a 52-week basis) \u200b (2.3) % (1.3) % \u2014 % \u2014 % \u2014 % \u2014 % \u2014 % \u2014 % Company-operated stores, end of period \u200b 821 \u200b 846 \u200b 188 \u200b 114 \u200b \u2014 \u200b \u2014 \u200b 1,009 \u200b 960 \u200b",
+      "token_count": 541
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Fifty-Two Weeks Ended \u200b \u200b Famous Footwear \u200b Brand Portfolio \u200b Eliminations and Other \u200b Consolidated \u200b \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, \u200b \u200b \u200b January 31, \u200b February 1, \u200b January 31, \u200b February 1, ($ thousands) \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 \u200b 2026 \u200b 2025 Gross profit \u200b $ 647,977 \u200b $ 686,627 \u200b $ 537,204 \u200b $ 536,295 \u200b $ (403) \u200b $ (880) \u200b $ 1,184,778 \u200b $ 1,222,042 Charges/Other Items: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 15,717 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 15,717 \u200b \u200b \u2014 Total charges/other items \u200b \u2014 \u200b \u2014 \u200b 15,717 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 15,717 \u200b \u2014 Adjusted gross profit \u200b $ 647,977 \u200b $ 686,627 \u200b $ 552,921 \u200b $ 536,295 \u200b $ (403) \u200b $ (880) \u200b $ 1,200,495 \u200b $ 1,222,042 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman gross profit \u200b \u200b \u2014 \u200b \u2014 \u200b 48,231 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 48,231 \u200b \u2014 Adjusted gross profit, excluding Stuart Weitzman \u200b $ 647,977 \u200b $ 686,627 \u200b $ 504,690 \u200b $ 536,295 \u200b $ (403) \u200b $ (880) \u200b $ 1,152,264 \u200b $ 1,222,042 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating earnings (loss) \u200b $ 47,203 \u200b $ 87,076 \u200b $ 32,289 \u200b $ 122,122 \u200b $ (73,120) \u200b $ (59,342) \u200b $ 6,372 \u200b $ 149,856 Charges/Other Items: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 19,528 \u200b \u200b \u2014 \u200b \u200b 8,043 \u200b \u200b \u2014 \u200b \u200b 27,571 \u200b \u2014 Expense reduction initiatives \u200b 273 \u200b \u2014 \u200b 2,739 \u200b \u2014 \u200b 6,603 \u200b \u2014 \u200b 9,615 \u200b \u2014 Organizational changes \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 1,973 \u200b \u2014 \u200b 1,973 \u200b \u2014 Gain on sale of corporate headquarters \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (2,551) \u200b \u200b \u2014 \u200b \u200b (2,551) \u200b \u2014 Exit of Naturalizer retail store operations \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 4,216 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 4,216 Restructuring costs \u200b \u200b \u2014 \u200b \u200b 639 \u200b \u200b \u2014 \u200b \u200b 2,127 \u200b \u200b \u2014 \u200b \u200b 185 \u200b \u200b \u2014 \u200b \u200b 2,951 Total charges/other items \u200b 273 \u200b 639 \u200b 22,267 \u200b 6,343 \u200b 14,068 \u200b 185 \u200b 36,608 \u200b 7,167 Adjusted operating earnings (loss) \u200b $ 47,476 \u200b $ 87,715 \u200b $ 54,556 \u200b $ 128,465 \u200b $ (59,052) \u200b $ (59,157) \u200b $ 42,980 \u200b $ 157,023 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman operating loss (2) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (23,285) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (23,285) \u200b \u200b \u2014 Adjusted operating earnings (loss), excluding Stuart Weitzman \u200b $ 47,476 \u200b $ 87,715 \u200b $ 77,841 \u200b $ 128,465 \u200b $ (59,052) \u200b $ (59,157) \u200b $ 66,265 \u200b $ 157,023",
+      "token_count": 620
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b Fifty-Two Weeks Ended \u200b \u200b January 31, 2026 \u200b February 1, 2025 \u200b January 31, 2026 \u200b February 1, 2025 ($ thousands, except per share data) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net (loss) earnings attributable to CALERES INC.: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net (loss) earnings \u200b $ (24,317) \u200b $ 3,907 \u200b $ (9,877) \u200b $ 106,097 Net loss attributable to noncontrolling interests \u200b 1,583 \u200b 1,023 \u200b 3,185 \u200b 1,158 Net (loss) earnings attributable to CALERES INC. \u200b (22,734) \u200b 4,930 \u200b (6,692) \u200b 107,255 Net earnings allocated to participating securities \u200b \u2014 \u200b (165) \u200b \u2014 \u200b (3,839) Net (loss) earnings attributable to CALERES INC. after allocation of earnings to participating securities \u200b $ (22,734) \u200b $ 4,765 \u200b $ (6,692) \u200b $ 103,416 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic and diluted common shares attributable to CALERES INC.: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic common shares \u200b 32,536 \u200b 32,477 \u200b 32,518 \u200b 33,397 Dilutive effect of share-based awards \u200b \u2014 \u200b 147 \u200b \u2014 \u200b 116 Diluted common shares attributable to CALERES INC. \u200b 32,536 \u200b 32,624 \u200b 32,518 \u200b 33,513 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic (loss) earnings per common share attributable to CALERES INC. shareholders \u200b $ (0.70) \u200b $ 0.15 \u200b $ (0.21) \u200b $ 3.10 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted (loss) earnings per common share attributable to CALERES INC. shareholders \u200b $ (0.70) \u200b $ 0.15 \u200b $ (0.21) \u200b $ 3.09",
+      "token_count": 338
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b Fifty-Two Weeks Ended \u200b \u200b January 31, 2026 \u200b February 1, 2025 \u200b January 31, 2026 \u200b February 1, 2025 ($ thousands, except per share data) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Adjusted net (loss) earnings attributable to CALERES INC.: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Adjusted net (loss) earnings \u200b $ (13,270) \u200b $ 10,064 \u200b $ 17,331 \u200b $ 113,437 Net loss attributable to noncontrolling interests \u200b 1,583 \u200b 1,023 \u200b 3,185 \u200b 1,158 Adjusted net (loss) earnings attributable to CALERES INC. \u200b (11,687) \u200b 11,087 \u200b 20,516 \u200b 114,595 Net earnings allocated to participating securities \u200b \u2014 \u200b (377) \u200b (752) \u200b (4,106) Adjusted net (loss) earnings attributable to CALERES INC. after allocation of earnings to participating securities \u200b $ (11,687) \u200b $ 10,710 \u200b $ 19,764 \u200b $ 110,489 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic and diluted common shares attributable to CALERES INC.: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic common shares \u200b 32,536 \u200b 32,477 \u200b 32,518 \u200b 33,397 Dilutive effect of share-based awards \u200b \u2014 \u200b 147 \u200b \u2014 \u200b 116 Diluted common shares attributable to CALERES INC. \u200b 32,536 \u200b 32,624 \u200b 32,518 \u200b 33,513 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic adjusted (loss) earnings per common share attributable to CALERES INC. shareholders \u200b $ (0.36) \u200b $ 0.33 \u200b $ 0.61 \u200b $ 3.31 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted adjusted (loss) earnings per common share attributable to CALERES INC. shareholders \u200b $ (0.36) \u200b $ 0.33 \u200b $ 0.61 \u200b $ 3.30",
+      "token_count": 353
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "SCHEDULE 8 CALERES INC. BASIC AND DILUTED ADJUSTED EARNINGS PER SHARE, EXCLUDING STUART WEITZMAN RECONCILIATION",
+      "token_count": 28
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b \u200b Thirteen Weeks Ended \u200b Fifty-Two Weeks Ended \u200b \u200b January 31, 2026 \u200b February 1, 2025 \u200b January 31, 2026 \u200b February 1, 2025 ($ thousands, except per share data) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Adjusted net (loss) earnings, excluding Stuart Weitzman, attributable to CALERES INC.: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Adjusted net (loss) earnings, excluding Stuart Weitzman \u200b $ (3,532) \u200b $ 10,064 \u200b $ 37,014 \u200b $ 113,437 Net loss attributable to noncontrolling interests \u200b 1,583 \u200b 1,023 \u200b 3,185 \u200b 1,158 Adjusted net earnings, excluding Stuart Weitzman, attributable to CALERES INC. \u200b (1,949) \u200b 11,087 \u200b 40,199 \u200b 114,595 Net earnings allocated to participating securities \u200b \u2014 \u200b (377) \u200b (1,520) \u200b (4,106) Adjusted net (loss) earnings, excluding Stuart Weitzman, attributable to CALERES INC. after allocation of earnings to participating securities \u200b $ (1,949) \u200b $ 10,710 \u200b $ 38,679 \u200b $ 110,489 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic and diluted common shares attributable to CALERES INC.: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic common shares \u200b 32,536 \u200b 32,477 \u200b 32,518 \u200b 33,397 Dilutive effect of share-based awards \u200b \u2014 \u200b 147 \u200b \u2014 \u200b 116 Diluted common shares attributable to CALERES INC. \u200b 32,536 \u200b 32,624 \u200b 32,518 \u200b 33,513 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic adjusted (loss) earnings per common share, excluding Stuart Weitzman, attributable to CALERES INC. shareholders \u200b $ (0.06) \u200b $ 0.33 \u200b $ 1.19 \u200b $ 3.31 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted adjusted (loss) earnings per common share, excluding Stuart Weitzman, attributable to CALERES INC. shareholders \u200b $ (0.06) \u200b $ 0.33 \u200b $ 1.19 \u200b $ 3.30 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b",
+      "token_count": 399
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjusted net (loss) earnings, excluding Stuart Weitzman, attributable to CALERES INC. after allocation of earnings to participating securities",
+      "token_count": 35
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "SCHEDULE 9 CALERES INC. RECONCILIATION OF DILUTED EARNINGS PER SHARE (GAAP BASIS) TO ADJUSTED DILUTED EARNINGS PER SHARE (NON-GAAP BASIS)",
+      "token_count": 34
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b (Unaudited) \u200b (Unaudited) \u200b \u200b First Quarter 2026 Guidance \u200b Fiscal 2026 Guidance \u200b \u200b Low \u200b High \u200b Low \u200b High \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b GAAP diluted earnings per share \u200b $ 0.21 \u200b $ 0.26 \u200b $ 1.31 \u200b $ 1.61 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stuart Weitzman acquisition and integration costs \u200b \u200b 0.04 \u200b \u200b 0.04 \u200b \u200b 0.04 \u200b \u200b 0.04 Adjusted diluted earnings per share \u200b $ 0.25 \u200b $ 0.30 \u200b $ 1.35 \u200b $ 1.65 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b",
+      "token_count": 117
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.098678,
+    "ret_20d": -0.291767,
+    "market_ret_20d": -0.036224
+  },
+  "outcome_blind": true
+}

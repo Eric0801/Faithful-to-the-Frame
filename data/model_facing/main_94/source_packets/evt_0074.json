@@ -1,0 +1,539 @@
+{
+  "event_id": "evt_0074",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "HAIN CELESTIAL GROUP INC",
+  "ticker": "HAIN",
+  "company_alias": "HAIN CELESTIAL GROUP INC",
+  "masked_company": "Company CH",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-02-09",
+  "filing_metadata": {
+    "cik": "910406",
+    "accession_number": "0001193125-26-041905",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-09T07:06:47-05:00",
+    "event_date": "2026-02-09",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net cash provided by operations in the quarter +20% year-over-year,",
+      "token_count": 17
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "HOBOKEN, N.J., 2026-02-09T07:06:47-05:00 \u2014 The HAIN CELESTIAL GROUP INC. (Nasdaq:HAIN), a leading global health and wellness company whose purpose is to inspire healthier living through better-for-you brands, today reported financial results for its fiscal second quarter ended December 31, 2025.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u201cWe demonstrated meaningful strategic and operational progress in the second quarter and are advancing our turnaround strategy with urgency. We took bold steps to sharpen our portfolio and strengthen our balance sheet through the divestiture of our North American snack business, giving us greater financial flexibility alongside an improved margin and cash flow profile. Our core categories are stable, our operational execution is improving, and we demonstrated strong cash delivery in the quarter. The actions underway across simplification, pricing, innovation, and productivity provide a clear path to sequential improvement in the back half of the year. We remain confident in our path forward,\u201d stated President and CEO.",
+      "token_count": 182
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales were $384 million, down 7% year-over-year.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Organic net sales decreased 7% compared to the prior year period.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The decrease in organic net sales was comprised of a 9-point decrease in volume/mix, partially offset by a 2-point increase in pricing.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit margin was 19.4%, a 330-basis point decrease from the prior year period.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted gross profit margin was 19.5%, a 340-basis point decrease from the prior year period.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Net loss was $116 million, compared to a net loss of $104 million in the prior year period.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net loss included pre-tax non-cash impairment charges of $132 million ($131 million after-tax) related to goodwill and certain intangible assets.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted net loss was $3 million, compared to adjusted net income of $8 million in the prior year period.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA was $24 million, compared to $38 million in the prior year period.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Loss per diluted share was $1.28, compared to a loss per diluted share of $1.15 in the prior year period.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjusted loss per diluted share was $0.03, compared to adjusted earnings per diluted share of $0.08 in the prior year period.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "*This press release includes certain non-GAAP financial measures, which are intended to supplement, not substitute for, comparable GAAP financial measures. Reconciliations of non-GAAP financial measures to GAAP financial measures and other non-GAAP financial calculations are provided in the tables included in this press release.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net cash provided by operating activities was $37 million in the fiscal second quarter, compared to $31 million in the prior year period.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Free cash flow was $30 million in the fiscal second quarter, compared to $25 million in the prior year period.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Total debt was $705 million at the end of the fiscal second quarter, in line with $705 million at the beginning of the fiscal year.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net debt was $637 million at the end of the fiscal second quarter, compared to $650 million at the beginning of the fiscal year.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The company ended the fiscal second quarter with a net secured leverage ratio of 4.9x as calculated under our credit agreement.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The company operates under two reportable segments: North America and International.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "1 Reflects the impact within reported net sales growth of the following items that are excluded from organic net sales growth: net sales from divested brands (ParmCrisps\u00ae snacks brands), held for sale businesses (Personal Care), discontinued brands, and exited product categories.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fiscal second quarter organic net sales decreased by 10% year-over-year, primarily driven by snacks and baby formula, partially offset by growth in beverages.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Segment gross profit and adjusted gross profit were each $41 million in the fiscal second quarter, representing decreases of 28% and 29%, respectively, from the prior year period. Gross margin was 20.6%, a 420-basis point decrease from the prior year period, and adjusted gross margin was 20.8%, a 440-basis point decrease from the prior year period. The decreases in margin were primarily driven by lower volume/mix, cost inflation, and unfavorable fixed cost absorption, partially offset by productivity savings and pricing.",
+      "token_count": 132
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted EBITDA in the fiscal second quarter was $11 million, compared to $25 million in the prior year period, a decrease of 57%. The decrease was primarily driven by lower gross margins, as discussed above, partially offset by a reduction in SG&A. Adjusted EBITDA margin was 5.5% of net sales compared to 11.0% of net sales in the prior year period.",
+      "token_count": 88
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fiscal second quarter organic net sales decreased by 3% year-over-year, primarily driven by lower sales in baby & kids. This demonstrates sequential improvement from the 4% decrease year-over-year in organic net sales in the fiscal first quarter of 2026.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Segment gross profit and adjusted gross profit in the fiscal second quarter were both $34 million, each representing an 8% decrease from the prior year period. Gross margin and adjusted gross margin were both 18.1%, each representing a 200-basis point decrease from the prior year period. The decreases in margin were primarily driven by cost inflation, unfavorable fixed cost absorption, and lower volume/mix, partially offset by productivity savings and pricing.",
+      "token_count": 116
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted EBITDA in the fiscal second quarter was $19 million, compared to $23 million in the prior year period, a decrease of 16%. The decrease was primarily driven by lower gross margins, as discussed above. Adjusted EBITDA margin was 10.2% compared to 12.4% in the prior year period.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The fiscal second quarter organic net sales decline of 20% year-over-year was driven by distribution losses and velocity challenges in North America.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The fiscal second quarter organic net sales decline of 14% year-over-year was driven primarily by industry-wide volume softness in purees in the UK and by formula in North America, which was lapping supply recovery from last year.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The fiscal second quarter organic net sales increase of 3% year-over-year was driven by growth in tea in North America. This demonstrates acceleration from the 2% year-over-year growth in organic net sales in the fiscal first quarter of 2026.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The fiscal second quarter organic net sales decline of 1% year-over-year was driven primarily by spreads and drizzles in the UK, partially offset by strength in yogurt in North America.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "HAIN CELESTIAL GROUP INC is a leading health and wellness company whose purpose is to inspire healthier living for people, communities and the planet through better-for-you brands. For more than 30 years, HAIN CELESTIAL GROUP INC has intentionally focused on delivering nutrition and well-being that positively impacts today and tomorrow. Headquartered in Hoboken, N.J., HAIN CELESTIAL GROUP INC's products across snacks, baby/kids, beverages and meal preparation are marketed and sold in over 70 countries around the world. Our leading brands include Garden Veggie Snacks\u2122, Terra\u00ae chips, Garden of Eatin'\u00ae snacks, Hartley\u2019s\u00ae jelly, Earth's Best\u00ae Organic and Ella's Kitchen\u00ae baby and kids foods, Celestial Seasonings\u00ae teas, Joya\u00ae and Natumi\u00ae plant-based beverages, The Greek Gods\u00ae yogurt, Cully & Sully\u00ae, Yorkshire Provender\u00ae, New Covent Garden\u00ae and Imagine\u00ae soups, among others. For more information, visit www.HAIN CELESTIAL GROUP INC.com and LinkedIn.",
+      "token_count": 225
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "This press release and the accompanying tables include non-GAAP financial measures, including, among others, organic net sales; adjusted gross profit and its related margin; adjusted operating income and its related margin; adjusted net (loss) income and its related margin; diluted net (loss) income per common share, as adjusted; adjusted EBITDA and its related margin; free cash flow; and net debt. The reconciliations of historic non-GAAP financial measures to the comparable GAAP financial measures are provided in the tables below. These non-GAAP financial measures should not be considered in isolation or as a substitute for the comparable GAAP measures. In addition, these non-GAAP measures may not be the same as similar measures provided by other companies due to potential differences in methods of calculation and items being excluded. They should be read only in connection with the company\u2019s consolidated financial statements presented in accordance with GAAP.",
+      "token_count": 244
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Organic net sales : net sales excluding the impact of acquisitions, divestitures, held for sale businesses, discontinued brands, exited product categories and foreign exchange. To adjust organic net sales for the impact of acquisitions, the net sales of an acquired business are excluded from fiscal quarters constituting or falling within the current period and prior period where the applicable fiscal quarter in the prior period did not include the acquired business for the entire quarter. To adjust organic net sales for the impact of divestitures, held for sale businesses, discontinued brands and exited product categories, the net sales of a divested business, held for sale business, discontinued brand or exited product category are excluded from all periods. To adjust organic net sales for the impact of foreign exchange, current period net sales for entities reporting in currencies other than the U.S. dollar are translated into U.S. dollars at the average monthly exchange rates in effect during the corresponding period of the prior fiscal year, rather than at the actual average monthly exchange rate in effect during the current period of the current fiscal year.",
+      "token_count": 296
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted gross profit and its related margin : gross profit, before plant closure related costs, net.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted operating income and its related margin : operating loss before goodwill impairment, intangibles and long-lived asset impairment, productivity and transformation costs, costs associated with acquisitions, divestitures and other transactions, plant closure related costs, net, certain litigation expenses, net, and proceeds from insurance claim.",
+      "token_count": 89
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted net (loss) income and its related margin and diluted net (loss) income per common share, as adjusted: net loss, adjusted to exclude the impact of goodwill impairment, intangibles and long-lived asset impairment, productivity and transformation costs, costs associated with acquisitions, divestitures and other transactions, plant closure related costs, net, certain litigation expenses, net, proceeds from insurance claim, (gains) losses on sales of assets, unrealized currency losses (gains) and the related tax effects of such adjustments.",
+      "token_count": 138
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted EBITDA and its related margin : net loss before depreciation and amortization, equity in net loss of equity-method investees, net interest expense, income taxes, stock-based compensation, net, unrealized currency losses (gains), proceeds from insurance claim, certain litigation expenses, net, productivity and transformation costs, plant closure related costs, net, costs associated with acquisitions, divestitures and other transactions, (gains) losses on sales of assets, goodwill impairment and intangibles and long-lived asset impairment.",
+      "token_count": 138
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Free cash flow : net cash provided by operating activities less purchases of property, plant and equipment.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net debt : total debt less cash and cash equivalents.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "We believe that the non-GAAP financial measures presented provide useful additional information to investors about current trends in the company\u2019s operations and are useful for period-over-period comparisons of operations. We provide:",
+      "token_count": 59
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Organic net sales to demonstrate the growth rate of net sales excluding the impact of acquisitions, divestitures, held for sale businesses, discontinued brands, and exited product categories and foreign exchange, and believe organic net sales is useful to investors because it enables them to better understand the growth of our business from period to period.",
+      "token_count": 90
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Adjusted results as important supplemental measures of our performance and believe they are frequently used by securities analysts, investors and other interested parties in the evaluation of our Company and companies in our industry.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Free cash flow as one factor in evaluating the amount of cash available for discretionary investments.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net debt as a useful measure to monitor leverage and evaluate the balance sheet.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "We discuss the Company\u2019s net secured leverage ratio as calculated under our credit agreement as a measure of our financial condition, liquidity and compliance with our credit agreement. For a description of the material terms of our credit agreement and risks of non-compliance with our credit agreement, see \u201cLiquidity and Capital Resources\u201d under \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d and \u201cRisk Factors\u201d in our most recent Annual Report on Form 10-K and our subsequent quarterly reports on Form 10-Q filed with the U.S. Securities and Exchange Commission.",
+      "token_count": 152
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Alexis Tessier Investor.Relations@HAIN CELESTIAL GROUP INC.com",
+      "token_count": 12
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Loss before income taxes and equity in net loss of equity-method investees",
+      "token_count": 19
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Sales, Gross Profit and Adjusted EBITDA by Segment",
+      "token_count": 14
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "% change - FY26 net sales vs. FY25 net sales",
+      "token_count": 11
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "% change - FY26 gross profit vs. FY25 gross profit",
+      "token_count": 13
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "% change - FY26 adjusted gross profit vs. FY25 adjusted gross profit",
+      "token_count": 17
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "% change - FY26 Adjusted EBITDA vs. FY25 Adjusted EBITDA",
+      "token_count": 14
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(1) See accompanying tables \"Adjusted Gross Profit, Adjusted Operating Income, Adjusted Net (Loss) Income and Adjusted Net (Loss) Income per Diluted Share\"",
+      "token_count": 39
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(a) Operating expenses include amortization of acquired intangibles, selling, general and administrative expenses, goodwill impairment, intangibles and long-lived asset impairment and productivity and transformation costs.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(b) Expenses and items relating to securities class action, baby food litigation and SEC investigation.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(c) Represents a receivable under the Company's representation and warranty insurance related to one of its prior acquisitions, which was collected on January 2, 2026.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Diluted net (loss) income per common share, as adjusted",
+      "token_count": 14
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(d) Interest and other expense, net includes interest and other financing expenses, net, (gain) loss on sale of assets, unrealized currency losses (gains) and other expense, net.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Less: Impact of held for sale businesses, discontinued brands and exited product categories",
+      "token_count": 23
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Less: Impact of foreign currency exchange",
+      "token_count": 11
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Less: Impact of divestitures, held for sale businesses, discontinued brands and exited product categories",
+      "token_count": 27
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Represents a receivable under the Company's representation and warranty insurance related to one of its prior acquisitions, which was collected on January 2, 2026.",
+      "token_count": 42
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2026Q2",
+      "value": 384120000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2026Q2",
+      "value": 74439000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q2",
+      "value": -98822000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "2026Q2",
+      "value": -116006000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q2",
+      "value": -1.28,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q2",
+      "value": -1.28,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2026Q2",
+      "value": 68017000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X008",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q2",
+      "value": 28488000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.016529,
+    "ret_20d": 0.016529,
+    "market_ret_20d": 0.00161
+  },
+  "outcome_blind": true
+}

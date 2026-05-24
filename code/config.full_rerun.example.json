@@ -1,0 +1,40 @@
+{
+  "execution_mode": "openai-compatible",
+  "inputs": {
+    "source_packets_dir": "data/model_facing/main_94/source_packets",
+    "evidence_banks_dir": "data/model_facing/main_94/canonical_evidence_banks",
+    "sample_manifest_csv": "data/model_facing/main_94/sample_manifest.csv",
+    "hidden_outcomes_csv": "data/evaluation_only/car_1_5_outcomes.csv"
+  },
+  "experiment": {
+    "treatments": ["T1", "T2", "T3", "T4"],
+    "profiles": [
+      "retail_day_trader",
+      "retail_swing_trader",
+      "retail_long_term_fundamental",
+      "institutional_event_driven_hedge_fund",
+      "institutional_prop_trader",
+      "institutional_investment_advisor"
+    ],
+    "representation_seeds": [1, 2],
+    "decision_seeds": [1, 2]
+  },
+  "provider": {
+    "api_base_url": "https://api.openai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "provider_label": "openai-compatible",
+    "upstream_model": "gpt-5.2",
+    "upstream_model_family": "gpt-5.2",
+    "downstream_model_families": ["gpt-5.2"],
+    "downstream_model_override": "gpt-5.2",
+    "upstream_temperature": 0.2,
+    "downstream_temperature": 0.0,
+    "upstream_max_tokens": 900,
+    "downstream_max_tokens": 700,
+    "workers": 1
+  },
+  "limits": {
+    "max_upstream_jobs": null,
+    "max_downstream_requests": null
+  }
+}

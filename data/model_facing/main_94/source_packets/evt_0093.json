@@ -1,0 +1,566 @@
+{
+  "event_id": "evt_0093",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "BLACKBAUD INC",
+  "ticker": "BLKB",
+  "company_alias": "BLACKBAUD INC",
+  "masked_company": "Company N",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-10",
+  "filing_metadata": {
+    "cik": "1280058",
+    "accession_number": "0001280058-26-000002",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-10T07:09:31-05:00",
+    "event_date": "2026-02-10",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Charleston, S.C. (2026-02-10T07:09:31-05:00) \u2014 BLACKBAUD INC (NASDAQ:BLKB), the leader in AI for social impact, today announced financial results for its fourth quarter and full year ended December 31, 2025.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "\"2025 was another clear example of BLACKBAUD INC\u2019s multi-year trajectory of extending our market leadership position and delivering strong financial results, such as our achievement of Rule of 40 two years ahead of schedule, as we executed on our key strategic and operational initiatives,\" said Mike Gianoni, president, CEO and vice chairman of the board of directors, BLACKBAUD INC. \"We enter 2026 with tremendous optimism and confidence in our long-term strategy and a proven ability to execute. When you combine these two factors with our mission critical solutions empowered by AI, we believe BLACKBAUD INC is well positioned to benefit from the next wave of technological change alongside our customers.\"",
+      "token_count": 175
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 GAAP total revenue was $295.3 million, down 2.3% (driven by divestiture of EVERFI) and non-GAAP organic revenue increased 4.3%.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 GAAP recurring revenue was $290.8 million, down 1.8% (driven by divestiture of EVERFI) and represented 98.5% of total revenue. Non-GAAP organic recurring revenue increased 4.8%.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP income from operations was $59.1 million, with GAAP operating margin of 20.0%, an increase of 14,160 basis points.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP income from operations was $88.7 million, with non-GAAP operating margin of 30.0%, an increase of 270 basis points.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP net income was $36.7 million, with GAAP diluted earnings per share of $0.76, up $7.82 per share.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Non-GAAP net income was $56.9 million, with non-GAAP diluted earnings per share of $1.19, up $0.12 per share.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP adjusted EBITDA was $104.5 million, up $2.3 million, with non-GAAP adjusted EBITDA margin of 35.4%, an increase of 160 basis points.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP net cash provided by operating activities was $58.0 million, a decrease of $15.6 million, with GAAP operating cash flow margin of 19.6%, a decrease of 480 basis points.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP free cash flow was $41.1 million, a decrease of $15.4 million, with non-GAAP free cash flow margin of 13.9%, a decrease of 480 basis points.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP adjusted free cash flow was $41.4 million, a decrease of $15.9 million, with non-GAAP adjusted free cash flow margin of 14.0%, a decrease of 500 basis points.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\"We executed firmly against our operating plan, delivering results that met or exceeded our financial guidance in 2025,\" said Chad Anderson, executive vice president and CFO, BLACKBAUD INC. \"To our existing and prospective shareholders, over the next five years we are committed to delivering an attractive financial model. The combination of healthy top\u2011line growth, margin expansion, EPS improvement, and strong free cash flow reflects the strength of our model and positions us well to continue to deliver our financial thesis.\"",
+      "token_count": 132
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "An explanation of all non-GAAP financial measures referenced in this press release, including the Rule of 40, is included below under the heading \"Non-GAAP Financial Measures.\" A reconciliation of the company's non-GAAP",
+      "token_count": 55
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "financial measures to their most directly comparable GAAP measures has been provided in the financial statement tables included below in this press release.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 BLACKBAUD INC Announces Reauthorized, Expanded and Replenished $1 Billion Stock Repurchase Program and Increased Stock Repurchase Expectations for 2025",
+      "token_count": 38
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 BLACKBAUD INC Partners with Anthropic on Groundbreaking New Way to Experience the Power of Purpose-Built AI",
+      "token_count": 27
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 BLACKBAUD INC Showcases AI-Powered Innovation and Intelligent Workflows at Bi-Annual Product Update Briefings",
+      "token_count": 27
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 BLACKBAUD INC Recognized on Newsweek\u2019s America\u2019s Most Responsible Companies List for Fifth Consecutive Year",
+      "token_count": 27
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 BLACKBAUD INC Welcomes 11 Innovative Startups to its Social Good Tech Accelerator",
+      "token_count": 20
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Visit www.BLACKBAUD INC.com/newsroom for more information about BLACKBAUD INC\u2019s recent highlights.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 GAAP total revenue was $1.1 billion, down 2.3% (driven by divestiture of EVERFI) and non-GAAP organic revenue increased 5.5%.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 GAAP recurring revenue was $1.1 billion, down 2.0% (driven by divestiture of EVERFI) and represented 98.0% of total revenue. Non-GAAP organic recurring revenue increased 5.8%.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP income from operations was $190.8 million, with GAAP operating margin of 16.9%, an increase of 4,040 basis points.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP income from operations was $344.4 million, with non-GAAP operating margin of 30.5%, an increase of 290 basis points.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP net income was $115.0 million, with GAAP diluted earnings per share of $2.37, up $8.29 per share.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Non-GAAP net income was $215.5 million, with non-GAAP diluted earnings per share of $4.45, up $0.39 per share.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP adjusted EBITDA was $405.3 million, up $17.3 million, with non-GAAP adjusted EBITDA margin of 35.9%, an increase of 220 basis points.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP net cash provided by operating activities was $265.6 million, a decrease of $30.4 million, with GAAP operating cash flow margin of 23.5%, a decrease of 210 basis points.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP free cash flow was $203.5 million, a decrease $25.2 million, with non-GAAP free cash flow margin of 18.0%, a decrease of 180 basis points.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP adjusted free cash flow was $208.2 million, a decrease of $36.5 million, with non-GAAP adjusted free cash flow margin of 18.5%, a decrease of 270 basis points.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 GAAP revenue of $1.173 billion to $1.179 billion",
+      "token_count": 13
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP adjusted EBITDA of $430 million to $438 million",
+      "token_count": 15
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP diluted earnings per share of $5.15 to $5.25",
+      "token_count": 14
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP free cash flow of $280 million to $290 million",
+      "token_count": 15
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP annualized effective tax rate is expected to be approximately 24.5%",
+      "token_count": 20
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Interest expense for the year is expected to be approximately $62 million to $66 million",
+      "token_count": 23
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Fully diluted shares for the year are expected to be approximately 45.0 million to 46.0 million",
+      "token_count": 25
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Capital expenditures for the year are expected to be approximately $60 million to $70 million, including approximately $52 million to $62 million of capitalized software development costs",
+      "token_count": 48
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "BLACKBAUD INC has not reconciled forward-looking full-year non-GAAP financial measures contained in this news release to their most directly comparable GAAP measures, as permitted by Item 10(e)(1)(i)(B) of Regulation S-K. Such reconciliations would require unreasonable efforts at this time to estimate and quantify with a reasonable degree of certainty various necessary GAAP components, including for example those related to compensation, acquisition transactions and integration, tax items or others that may arise during the year. These components and other factors could materially impact the amount of the future directly comparable GAAP measures, which may differ significantly from their non-GAAP counterparts.",
+      "token_count": 179
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In order to provide a meaningful basis for comparison, BLACKBAUD INC has used non-GAAP adjusted free cash flow in analyzing its operating performance. Non-GAAP adjusted free cash flow is defined as operating cash flow less capital expenditures, including costs required to be capitalized for software development, capital expenditures for property and equipment, plus cash outflows related to the previously disclosed Security Incident discovered in May 2020 (the \"Security Incident\"). Please refer to the section below titled \"Non-GAAP Financial Measures\" for more information on BLACKBAUD INC's use of non-GAAP financial measures, including no longer using adjusted free cash flow (while retaining free cash flow) going forward as a non-GAAP measure for analyzing operating performance.",
+      "token_count": 195
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "As of December 31, 2025, BLACKBAUD INC had approximately $961 million remaining under its common stock repurchase program that was expanded, replenished and reauthorized in December 2025. Based on our current plans, we expect total repurchases during 2026 to represent between 5.0% and 10.0% of our outstanding common stock as of December 31, 2025.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Our revenue from \"recurring\" and \"one-time services and other\" have been combined within \"revenue\" beginning in 2025 due to the immateriality of our one-time services and other revenue. In order to provide comparability between periods presented, our \u201crecurring\u201c and \u201cone-time services and other\" revenue lines have been combined within \u201crevenue\" in the previously reported consolidated statements of comprehensive income to conform to the presentation of the current period. Similarly, \"cost of recurring\" and \"cost of one-time services and other\" have been combined within \"cost of revenue\" in the previously reported consolidated statements of comprehensive income to conform to the presentation of the current period.",
+      "token_count": 181
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Live Call: 1-877-407-3088 (US/Canada)",
+      "token_count": 10
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "BLACKBAUD INC (NASDAQ:BLKB) is the world's leading provider of AI-powered solutions for social impact. Serving nonprofits, educational institutions, companies committed to corporate social responsibility and individual change makers, BLACKBAUD INC propels impact at scale with the sector\u2019s most intelligent solutions for fundraising and engagement, education solutions, financial management and CSR and grantmaking. With the deepest expertise powered by the world\u2019s largest philanthropic data set, the most connected workflows, and the most powerful impact network, BLACKBAUD INC's solutions are building a future where resources are unleashed at the speed of need. BLACKBAUD INC has been recognized by Fast Company, Newsweek, Quartz, Forbes and more for AI innovation, responsible leadership and workplace excellence. BLACKBAUD INC has operations in the United States, Australia, Canada, Costa Rica, India and the United Kingdom, supporting users in 100+ countries. Learn more at www.BLACKBAUD INC.com , or follow us on X/Twitter , LinkedIn , Instagram , and Facebook .",
+      "token_count": 263
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Investor Contact IR@BLACKBAUD INC.com Media Contact media@BLACKBAUD INC.com",
+      "token_count": 17
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "All BLACKBAUD INC product names appearing herein are trademarks or registered trademarks of BLACKBAUD INC.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "BLACKBAUD INC has provided in this release financial information that has not been prepared in accordance with GAAP. BLACKBAUD INC uses non-GAAP financial measures internally in analyzing its operational performance. Accordingly, BLACKBAUD INC believes these non-GAAP measures are useful to investors, as a supplement to GAAP measures, in evaluating its ongoing operational performance and trends and in comparing its financial results from period-to-period with other companies in BLACKBAUD INC's industry, many of which present similar non-GAAP financial measures to investors. However, these non-GAAP financial measures may not be completely comparable to similarly titled measures of other companies due to potential differences in the exact method of calculation between companies.",
+      "token_count": 193
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The non-GAAP financial measures discussed above exclude the impact of certain transactions that BLACKBAUD INC believes are not directly related to its operating performance in any particular period, but are for its long-term benefit over multiple periods. BLACKBAUD INC believes these non-GAAP financial measures reflect its ongoing business in a manner that allows for meaningful period-to-period comparisons and analysis of trends in its business.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "While BLACKBAUD INC believes these non-GAAP measures provide useful supplemental information, non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Investors are encouraged to review the reconciliations of these non-GAAP measures to their most directly comparable GAAP financial measures.",
+      "token_count": 96
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP free cash flow is defined as operating cash flow less capital expenditures, including costs required to be capitalized for software development, and capital expenditures for property and equipment. In addition, and in order to provide a meaningful basis for comparison, BLACKBAUD INC also has used non-GAAP adjusted free cash flow in analyzing its operating performance. Non-GAAP adjusted free cash flow is defined as operating cash flow less capital expenditures, including costs required to be capitalized for software development, and capital expenditures for property and equipment, plus cash outflows related to the Security Incident. BLACKBAUD INC believes non-GAAP free cash flow and (historically) non-GAAP adjusted free cash flow provide useful measures of the company's operating performance. However, because costs and cash outflows related to the Security Incident are now substantially complete, beginning in 2026 BLACKBAUD INC will no longer adjust for cash outflows related to the Security Incident while continuing to use non-GAAP free cash flow to analyze operating performance. Non-GAAP free cash flow and non-GAAP adjusted free cash flow are not intended to represent and should not be viewed as the amount of residual cash flow available for discretionary expenditures.",
+      "token_count": 322
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In addition, BLACKBAUD INC uses non-GAAP organic revenue growth, non-GAAP organic revenue growth on a constant currency basis, non-GAAP organic recurring revenue growth and non-GAAP organic recurring revenue growth on a constant currency basis, in analyzing its operating performance. BLACKBAUD INC believes that these non-GAAP measures are useful to investors, as a supplement to GAAP measures, for evaluating the periodic growth of its business on a consistent basis. Each of these measures excludes incremental acquisition-related revenue attributable to companies, if any, acquired in the current fiscal year. For companies acquired in the immediately preceding fiscal year, each of these measures reflects presentation of full-year incremental non-GAAP revenue derived from such companies as if they were combined throughout the prior period. In addition, each of these measures excludes prior period revenue associated with divested businesses. The exclusion of the prior period revenue is to present the results of the divested businesses within the results of the combined company for the same period of time in both the prior and current periods. BLACKBAUD INC believes this presentation provides a more comparable representation of its current business\u2019 organic revenue growth and revenue run-rate.",
+      "token_count": 324
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Rule of 40 is defined as non-GAAP organic revenue growth plus non-GAAP adjusted EBITDA margin. Non-GAAP adjusted EBITDA is defined as GAAP net income plus interest, net; income tax provision (benefit); depreciation; amortization of intangible assets from business combinations; amortization of software development costs; stock-based compensation; employee severance; acquisition and disposition-related costs; Security Incident-related costs; and impairment and disposition charges.",
+      "token_count": 121
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "(dollars in thousands, except per share amounts) December 31, 2025 December 31, 2024 Assets Current assets: Cash and cash equivalents $ 38,914 $ 67,628 Restricted cash 720,061 741,884 Accounts receivable, net of allowance of $5,876 and $5,228 at December 31, 2025 and December 31, 2024, respectively 80,517 83,539 Customer funds receivable 1,308 1,970 Prepaid expenses and other current assets 89,290 81,572 Total current assets 930,090 976,593 Property and equipment, net 85,076 91,926 Operating lease right-of-use assets 4,630 26,554 Software development costs, net 155,842 148,319 Goodwill 1,056,815 1,052,506 Intangible assets, net 106,654 132,881 Other assets 51,575 67,221 Total assets $ 2,390,682 $ 2,496,000 Liabilities and stockholders\u2019 equity Current liabilities: Trade accounts payable $ 27,344 $ 50,810 Accrued expenses and other current liabilities 43,272 76,484 Due to customers 719,833 742,340 Debt, current portion 22,660 23,875 Deferred revenue, current portion 368,986 358,546 Total current liabilities 1,182,095 1,252,055 Debt, net of current portion 1,087,037 1,051,110 Deferred tax liability 21,981 24,999 Deferred revenue, net of current portion 2,778 2,015 Operating lease liabilities, net of current portion 4,605 34,186 Other liabilities 7,132 4,796 Total liabilities 2,305,628 2,369,161 Commitments and contingencies Stockholders\u2019 equity: Preferred stock; 20,000,000 shares authorized, none outstanding \u2014 \u2014 Common stock, $0.001 par value; 180,000,000 shares authorized, 72,312,354 and 70,943,373 shares issued at December 31, 2025 and December 31, 2024, respectively; 46,705,325 and 49,245,588 shares outstanding at December 31, 2025 and December 31, 2024, respectively 72 71 Additional paid-in capital 1,391,641 1,291,442 Treasury stock, at cost; 25,607,029 and 21,697,785 shares at December 31, 2025 and December 31, 2024, respectively (1,316,224) (1,060,348) Accumulated other comprehensive loss (5,948) (4,869) Retained earnings (accumulated deficit) 15,513 (99,457) Total stockholders\u2019 equity 85,054 126,839 Total liabilities and stockholders\u2019 equity $ 2,390,682 $ 2,496,000",
+      "token_count": 527
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Common stock, $0.001 par value; 180,000,000 shares authorized, 72,312,354 and 70,943,373 shares issued at December 31, 2025 and December 31, 2024, respectively; 46,705,325 and 49,245,588 shares outstanding at December 31, 2025 and December 31, 2024, respectively",
+      "token_count": 66
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(dollars in thousands, except per share amounts) Three months ended December 31, Years ended December 31, 2025 2024 2025 2024 Revenue $ 295,256 $ 302,113 $ 1,128,365 $ 1,154,624 Cost of revenue 122,972 139,583 465,073 523,198 Gross profit 172,284 162,530 663,292 631,426 Operating expenses Sales, marketing and customer success 44,769 50,099 177,564 197,499 Research and development 33,778 37,635 138,130 153,680 General and administrative 34,031 35,881 154,610 142,723 Amortization of intangible assets 564 817 2,234 3,541 EVERFI disposition \u2014 405,360 \u2014 405,360 Total operating expenses 113,142 529,792 472,538 902,803 Income (loss) from operations 59,142 (367,262) 190,754 (271,377) Interest expense (15,840) (15,503) (67,970) (55,634) Other income, net 2,531 4,895 8,999 14,549 Income (loss) before provision (benefit) for income taxes 45,833 (377,870) 131,783 (312,462) Income tax provision (benefit) 9,144 (31,506) 16,813 (12,938) Net income (loss) $ 36,689 $ (346,364) $ 114,970 $ (299,524) Earnings (loss) per share Basic $ 0.78 $ (7.06) $ 2.41 $ (5.92) Diluted $ 0.76 $ (7.06) $ 2.37 $ (5.92) Common shares and equivalents outstanding Basic weighted average shares 46,845,015 49,051,396 47,680,184 50,560,538 Diluted weighted average shares 47,960,158 49,051,396 48,469,961 50,560,538 Other comprehensive income (loss) Foreign currency translation adjustment $ 568 $ (8,439) $ 8,867 $ (2,822) Unrealized gain (loss) on derivative instruments, net of tax 2,682 10,457 (9,946) (359) Total other comprehensive income (loss) 3,250 2,018 (1,079) (3,181) Comprehensive income (loss) $ 39,939 $ (344,346) $ 113,891 $ (302,705)",
+      "token_count": 407
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Years ended December 31, (dollars in thousands) 2025 2024 Cash flows from operating activities Net income (loss) $ 114,970 $ (299,524) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization 86,215 121,665 Provision for credit losses and sales returns 4,382 4,932 Stock-based compensation expense 92,910 104,968 Deferred taxes (181) (69,530) Amortization of deferred financing costs and discount 2,480 2,538 Loss on disposition of businesses \u2014 16,847 EVERFI impairment charges \u2014 390,204 Other non-cash adjustments (5,177) 2,462 Changes in operating assets and liabilities, net of acquisition and disposal of businesses: Accounts receivable (938) 4,729 Prepaid expenses and other assets (4,487) 3,193 Trade accounts payable (23,535) 28,336 Accrued expenses and other liabilities (10,826) (12,990) Deferred revenue 9,737 (1,861) Net cash provided by operating activities 265,550 295,969 Cash flows from investing activities Purchase of property and equipment (7,767) (7,443) Capitalized software development costs (54,236) (59,757) Purchase of net assets of acquired companies, net of cash and restricted cash acquired (700) \u2014 Cash used in disposition of business (12,235) (1,179) Other investing activities \u2014 (5,029) Net cash used in investing activities (74,938) (73,408) Cash flows from financing activities Proceeds from issuance of debt 404,500 1,441,400 Payments on debt (369,784) (1,144,709) Debt issuance costs \u2014 (6,458) Employee taxes paid for withheld shares upon equity award settlement (40,403) (56,828) Change in due to customers (25,557) 46,957 Change in customer funds receivable 997 (1,679) Purchase of treasury stock, including excise tax payments (217,152) (418,034) Net cash used in financing activities (247,399) (139,351) Effect of exchange rate on cash, cash equivalents and restricted cash 6,250 (1,955) Net (decrease) increase in cash, cash equivalents and restricted cash (50,537) 81,255 Cash, cash equivalents and restricted cash, beginning of year 809,512 728,257 Cash, cash equivalents and restricted cash, end of year $ 758,975 $ 809,512",
+      "token_count": 532
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The following table provides a reconciliation of cash and cash equivalents and restricted cash reported within the consolidated balance sheets that sum to the total of the same such amounts shown above in the consolidated statements of cash flows:",
+      "token_count": 62
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "(dollars in thousands) December 31, 2025 December 31, 2024 Cash and cash equivalents $ 38,914 $ 67,628 Restricted cash 720,061 741,884 Total cash, cash equivalents and restricted cash in the statement of cash flows $ 758,975 $ 809,512",
+      "token_count": 59
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(dollars in thousands, except per share amounts) Three months ended December 31, Years ended December 31, 2025 2024 2025 2024 GAAP Revenue $ 295,256 $ 302,113 $ 1,128,365 $ 1,154,624 GAAP gross profit $ 172,284 $ 162,530 $ 663,292 $ 631,426 GAAP gross margin 58.4 % 53.8 % 58.8 % 54.7 % Non-GAAP adjustments: Add: Stock-based compensation expense 2,719 4,026 11,517 14,092 Add: Amortization of intangibles from business combinations 6,761 12,988 27,644 56,957 Add: Employee severance \u2014 \u2014 284 \u2014 Subtotal 9,480 17,014 39,445 71,049 Non-GAAP gross profit $ 181,764 $ 179,544 $ 702,737 $ 702,475 Non-GAAP gross margin 61.6 % 59.4 % 62.3 % 60.8 % GAAP income (loss) from operations $ 59,142 $ (367,262) $ 190,754 $ (271,377) GAAP operating margin 20.0 % (121.6) % 16.9 % (23.5) % Non-GAAP adjustments: Add: Stock-based compensation expense 21,831 28,538 92,910 104,968 Add: Amortization of intangibles from business combinations 7,325 13,805 29,878 60,498 Add: Employee severance \u2014 \u2014 1,905 \u2014 Add: Acquisition and disposition-related costs (1) 112 1,201 25,891 6,100 Add: Security Incident-related costs (2) 282 918 3,104 13,700 Add: EVERFI impairment and disposition charges \u2014 405,360 \u2014 405,360 Subtotal 29,550 449,822 153,688 590,626 Non-GAAP income from operations $ 88,692 $ 82,560 $ 344,442 $ 319,249 Non-GAAP operating margin 30.0 % 27.3 % 30.5 % 27.6 % GAAP income (loss) before provision (benefit) for income taxes $ 45,833 $ (377,870) $ 131,783 $ (312,462) GAAP net income (loss) $ 36,689 $ (346,364) $ 114,970 $ (299,524) Shares used in computing GAAP diluted earnings (loss) per share 47,960,158 49,051,396 48,469,961 50,560,538 GAAP diluted earnings (loss) per share $ 0.76 $ (7.06) $ 2.37 $ (5.92) Non-GAAP adjustments: Add: GAAP income tax provision (benefit) 9,144 (31,506) 16,813 (12,938) Add: Total non-GAAP adjustments affecting income from operations 29,550 449,822 153,688 590,626 Non-GAAP income before provision for income taxes 75,383 71,952 285,471 278,164 Assumed non-GAAP income tax provision (3) 18,469 17,628 69,941 68,150 Non-GAAP net income $ 56,914 $ 54,324 $ 215,530 $ 210,014 Shares used in computing non-GAAP diluted earnings per share 47,960,158 50,591,254 48,469,961 51,750,308 Non-GAAP diluted earnings per share $ 1.19 $ 1.07 $ 4.45 $ 4.06",
+      "token_count": 568
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Includes charges of $24.3 million incurred during the year ended December 31, 2025 related to the release from our lease for office space in Washington, DC (which was acquired as part of our acquisition of EVERFI in December 2021) and noncash impairment charges incurred during the twelve months ended December 31, 2024 related to the sublease of our Washington, DC office location prior to the EVERFI disposition.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(2) Includes Security Incident-related costs incurred during the twelve months ended December 31, 2025 and 2024 of $3.1 million and $13.7 million, respectively, which included approximately $1.1 million and $6.8 million, respectively, in recorded accruals for loss contingencies. Recorded expenses consisted primarily of payments to third-party service providers and consultants, including legal fees, as well as settlements of customer claims, negotiated settlements and accruals for certain loss contingencies. Not included in this adjustment were costs associated with enhancements to our cybersecurity program. As of December 31, 2025, we do not have any recorded liabilities for loss contingencies related to the Security Incident.",
+      "token_count": 184
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(3) We use a non-GAAP effective tax rate of 24.5% when calculating non-GAAP net income and non-GAAP diluted earnings per share. We base this rate on our estimated annual GAAP income tax rate, adjusted for items excluded from GAAP income when calculating non-GAAP income and for significant nonrecurring tax adjustments. We review this non-GAAP tax rate annually to determine whether it remains appropriate for evaluating our financial performance. In conducting this review, we consider our GAAP annual effective tax rate, changes in tax legislation, non-GAAP adjustments, and shifts in the geographic mix of revenues and expenses. We also evaluate other factors that we deem significant. Because the tax treatment of non-GAAP adjustments differs from GAAP and because of our methodology for estimating the annual tax rate, the non-GAAP tax rate may differ from the GAAP tax rate and from our actual tax liabilities.",
+      "token_count": 229
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(dollars in thousands) Three months ended December 31, Years ended December 31, 2025 2024 2025 2024 GAAP revenue $ 295,256 $ 302,113 $ 1,128,365 $ 1,154,624 GAAP revenue growth (2.3) % (2.3) % Less: Non-GAAP revenue from divested businesses (1) \u2014 (19,096) \u2014 (85,565) Non-GAAP organic revenue (2) $ 295,256 $ 283,017 $ 1,128,365 $ 1,069,059 Non-GAAP organic revenue growth 4.3 % 5.5 % Non-GAAP organic revenue (2) $ 295,256 $ 283,017 $ 1,128,365 $ 1,069,059 Foreign currency impact on non-GAAP organic revenue (3) (940) \u2014 (3,516) \u2014 Non-GAAP organic revenue on constant currency basis (3) $ 294,316 $ 283,017 $ 1,124,849 $ 1,069,059 Non-GAAP organic revenue growth on constant currency basis 4.0 % 5.2 % GAAP recurring revenue $ 290,755 $ 296,083 $ 1,106,161 $ 1,128,243 GAAP recurring revenue growth (1.8) % (2.0) % Less: Non-GAAP recurring revenue from divested businesses (1) \u2014 (18,643) \u2014 (82,550) Non-GAAP organic recurring revenue (2) $ 290,755 $ 277,440 $ 1,106,161 $ 1,045,693 Non-GAAP organic recurring revenue growth 4.8 % 5.8 % Non-GAAP organic recurring revenue (2) $ 290,755 $ 277,440 $ 1,106,161 $ 1,045,693 Foreign currency impact on non-GAAP organic recurring revenue (3) (929) \u2014 (3,501) \u2014 Non-GAAP organic recurring revenue on constant currency basis (3) $ 289,826 $ 277,440 $ 1,102,660 $ 1,045,693 Non-GAAP organic recurring revenue growth on constant currency basis 4.5 % 5.4 %",
+      "token_count": 349
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Non-GAAP revenue from divested businesses excludes revenue associated with divested businesses in the prior period. The exclusion of the prior period revenue is to present the results of the divested business with the results of the combined company for the same period of time in both the prior and current periods.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Non-GAAP organic revenue and non-GAAP organic recurring revenue for the prior year periods presented herein may not agree to non-GAAP organic revenue and non-GAAP organic recurring revenue presented in the respective prior period quarterly financial information solely due to the manner in which non-GAAP organic revenue growth and non-GAAP organic recurring revenue growth are calculated.",
+      "token_count": 99
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(3) To determine non-GAAP organic revenue growth and non-GAAP organic recurring revenue growth on a constant currency basis, revenues from entities reporting in foreign currencies were translated to U.S. Dollars using the comparable prior period's quarterly weighted average foreign currency exchange rates. The primary foreign currencies creating the impact are the Australian Dollar, British Pound, Canadian Dollar and Euro.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(dollars in thousands) Three months ended December 31, Years ended December 31, 2025 2024 2025 2024 GAAP net income (loss) $ 36,689 $ (346,364) $ 114,970 $ (299,524) Non-GAAP adjustments: Add: Interest, net 13,942 13,638 60,078 45,788 Add: GAAP income tax provision (benefit) 9,144 (31,506) 16,813 (12,938) Add: Depreciation 2,230 3,207 10,053 12,828 Add: Amortization of intangibles from business combinations 7,325 13,805 29,878 60,498 Add: Amortization of software development costs (1) 12,911 13,325 49,692 51,240 Subtotal 45,552 12,469 166,514 157,416 Non-GAAP EBITDA $ 82,241 $ (333,895) $ 281,484 $ (142,108) Non-GAAP EBITDA margin (2) 27.9 % 24.9 % Non-GAAP adjustments: Add: Stock-based compensation expense $ 21,831 $ 28,538 $ 92,910 $ 104,968 Add: Employee severance \u2014 \u2014 1,905 \u2014 Add: Acquisition and disposition-related costs (3) 112 1,201 25,891 6,100 Add: Security Incident-related costs (3) 282 918 3,104 13,700 Add: EVERFI impairment and disposition charges \u2014 405,360 \u2014 405,360 Subtotal 22,225 436,017 123,810 530,128 Non-GAAP adjusted EBITDA $ 104,466 $ 102,122 $ 405,294 $ 388,020 Non-GAAP adjusted EBITDA margin (4) 35.4 % 35.9 % Rule of 40 (5) 39.7 % 41.4 % Non-GAAP adjusted EBITDA $ 104,466 $ 102,122 $ 405,294 $ 388,020 Foreign currency impact on Non-GAAP adjusted EBITDA (6) (382) (559) (1,785) (1,618) Non-GAAP adjusted EBITDA on constant currency basis (6) $ 104,084 $ 101,563 $ 403,509 $ 386,402 Non-GAAP adjusted EBITDA margin on constant currency basis 35.4 % 35.9 % Rule of 40 on constant currency basis (7) 39.4 % 41.1 %",
+      "token_count": 388
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(1) Includes amortization expense related to software development costs, and amortization expense from capitalized cloud computing implementation costs.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Measured by GAAP revenue divided by non-GAAP EBITDA.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(3) See additional details in the reconciliation of GAAP to Non-GAAP operating income above.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(4) Measured by non-GAAP organic revenue divided by non-GAAP adjusted EBITDA.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(5) Measured by non-GAAP organic revenue growth plus non-GAAP adjusted EBITDA margin. See Non-GAAP organic revenue growth table above.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(6) To determine non-GAAP adjusted EBITDA on a constant currency basis, non-GAAP adjusted EBITDA from entities reporting in foreign currencies were translated to U.S. Dollars using the comparable prior period's quarterly weighted average foreign currency exchange rates. The primary foreign currencies creating the impact are the Australian Dollar, British Pound, Canadian Dollar and Euro.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(7) Measured by non-GAAP organic revenue growth on constant currency basis plus non-GAAP adjusted EBITDA margin on constant currency basis.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(dollars in thousands) Years ended December 31, 2025 2024 GAAP net cash provided by operating activities $ 265,550 $ 295,969 GAAP operating cash flow margin 23.5 % 25.6 % Non-GAAP adjustments: Less: purchase of property and equipment (7,767) (7,443) Less: capitalized software development costs (54,236) (59,757) Non-GAAP free cash flow $ 203,547 $ 228,769 Non-GAAP free cash flow margin 18.0 % 19.8 % Non-GAAP adjustments: Add: Security Incident-related cash flows 4,640 15,925 Non-GAAP adjusted free cash flow $ 208,187 $ 244,694 Non-GAAP adjusted free cash flow margin 18.5 % 21.2 %",
+      "token_count": 147
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.078495,
+    "ret_20d": -0.224401,
+    "market_ret_20d": -0.000173
+  },
+  "outcome_blind": true
+}

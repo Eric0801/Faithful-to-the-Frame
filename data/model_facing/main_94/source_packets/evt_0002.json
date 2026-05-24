@@ -1,0 +1,224 @@
+{
+  "event_id": "evt_0002",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ROSS STORES, INC.",
+  "ticker": "ROST",
+  "company_alias": "ROSS STORES, INC.",
+  "masked_company": "Company BP",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q3",
+  "event_date": "2026-03-03",
+  "filing_metadata": {
+    "cik": "745732",
+    "accession_number": "0000745732-26-000003",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-03T16:03:09-05:00",
+    "event_date": "2026-03-03",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "__________________________________________________________________",
+      "token_count": 17
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Dublin, California, 2026-03-03T16:03:09-05:00 -- ROSS STORES, INC.. (Nasdaq:ROST) today reported financial results for the 13\u2011week fourth quarter and 52\u2011week fiscal year ended January 31, 2026.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Total sales for the fourth quarter of fiscal 2025 grew 12%, with comparable store sales increasing a robust 9%",
+      "token_count": 28
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Fourth quarter operating margin of 12.3% exceeded the Company\u2019s plan of 11.5% to 11.8%, primarily from the strong sales performance",
+      "token_count": 34
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Earnings per share for the fourth quarter of $2.00 was well above guidance of $1.77 to $1.85",
+      "token_count": 24
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 For the full year, sales reached a record $22.8 billion, with comparable store sales growth of 5%, and earnings per share of $6.61",
+      "token_count": 33
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Chief Executive Officer, commented, \u201cWe are pleased to report that business momentum accelerated further in the fourth quarter, with both sales and earnings significantly surpassing our expectations. Throughout the holiday season, we delivered compelling merchandise assortments to our stores, benefited from higher customer engagement through our new marketing campaigns, and executed in\u2011store initiatives that enhanced the customer experience.\u201d",
+      "token_count": 112
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "ROSS STORES, INC.. 5130 Hacienda Drive, Dublin, CA 94568 (925) 965-4400",
+      "token_count": 16
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "Mr. Conroy continued, \u201cFor the full year, we delivered a solid performance. While the first half presented challenges amid a dynamic macroeconomic environment, including the impact of tariffs and broader consumer uncertainty, we remained focused on executing our strategy and managing the business with discipline. As the year progressed, underlying trends steadily improved, reflecting the strength of our merchandising efforts, enhanced marketing programs, and improved shopping experience. This momentum built throughout the back half of the year and culminated in a strong finish, positioning us well as we move into the year ahead.\u201d",
+      "token_count": 160
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Sales increased 12% to $6.6 billion, up from $5.9 billion in 2024. Comparable store sales rose a robust 9% for the quarter on top of a solid 3% gain last year. Net income was $646 million versus $587 million last year, while earnings per share increased to $2.00, compared with $1.79 per share in the prior year period. Excluding a $0.14 per share gain from the sale of a packaway facility in 2024, earnings per share grew 21%.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total sales increased to a record $22.8 billion, up 8% compared with last year\u2019s $21.1 billion. Comparable store sales grew 5% on top of a solid 3% gain in fiscal 2024. Net income for fiscal 2025 was $2.1 billion, similar to the prior year, while earnings per share were $6.61, up from $6.32 last year. Excluding the $0.14 per share gain from the facility sale in fiscal 2024 and the approximate $0.16 per share impact from tariff-related costs this year, earnings per share growth for the full year was 10%.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "During the recently completed fourth quarter, 1.5 million shares of common stock were repurchased for a total price of $262 million. For fiscal 2025, a total of 7.1 million shares were repurchased for an aggregate purchase price of $1.05 billion, completing the two-year stock repurchase program as planned.",
+      "token_count": 77
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The Company\u2019s Board of Directors recently approved a new two-year $2.55 billion stock repurchase authorization for fiscal 2026 and 2027. This new program represents a 21% increase over the recently completed repurchase of $2.1 billion of common stock during 2024 and 2025 combined. The Board also authorized a 10% increase in the Company\u2019s quarterly cash dividend to $0.445 per share. This higher quarterly dividend amount is payable on March 31, 2026 to stockholders of record as of March 13, 2026.",
+      "token_count": 125
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Mr. Conroy noted, \u201cThe increases to our stock repurchase and dividend programs reflect our continued commitment to return excess cash to our shareholders after funding growth and other capital needs of our business.\u201d",
+      "token_count": 54
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Looking ahead, Mr. Conroy said, \u201cWe ended the fourth quarter with solid momentum, and while early, we are encouraged by the very strong start to the Spring season. As such, for the 13 weeks ending May 2, 2026, comparable store sales are forecasted to increase 7% to 8%. If sales perform in line with this forecast, earnings per share are projected to be $1.60 to $1.67, compared to $1.47 for the first quarter ended May 3, 2025. For the 52 weeks ending January 30, 2027, we are projecting same store sales growth of 3% to 4% on top of a 5% gain in 2025. Based on these assumptions, fiscal 2026 earnings per share are projected to be in the range of $7.02 to $7.36, compared to $6.61 for the fiscal year ended January 31, 2026.\u201d",
+      "token_count": 182
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Mr. Conroy concluded, \u201cAs we reflect on 2025, we are proud of the meaningful progress we made across the business, including advancing key initiatives to further drive topline growth, while improving our operational performance. These solid results are a testament to the dedication and hard work of our Associates. As we move into 2026, we are encouraged by the strength of our business and confident in the strategic priorities we have set for the year. With a healthy balance sheet, disciplined execution, and a clear focus on delivering compelling value to our customers, we believe we are well-positioned to capture additional market share and drive sustainable, profitable growth in the year ahead and beyond.\u201d",
+      "token_count": 179
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ROSS STORES, INC.. is an S&P 500, Fortune 500, and Nasdaq 100 (ROSS STORES, INC.) company headquartered in Dublin, California, with fiscal 2025 revenues of $22.8 billion. The Company operates Ross Dress for Less \u00ae (\u201cRoss\u201d), the largest off-price apparel and home fashion chain in the United States with 1,904 locations in 44 states, the District of Columbia, Guam, and Puerto Rico at fiscal 2025 year-end. Ross offers first-quality, in-season, brand name and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day. The Company also operates 363 dd\u2019s DISCOUNTS \u00ae stores in 22 states at fiscal 2025 year-end that feature a more moderately-priced assortment of first-quality, in-season apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day. Additional information is available at www.rossstores.com .",
+      "token_count": 252
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ROSS STORES, INC.. Condensed Consolidated Statements of Earnings Three Months Ended Twelve Months Ended ($000, except stores and per share data, unaudited) January 31, 2026 February 1, 2025 January 31, 2026 February 1, 2025 Sales $ 6,635,490 $ 5,912,279 $ 22,750,559 $ 21,129,219 Costs and Expenses Cost of goods sold 4,831,277 4,343,622 16,447,256 15,260,506 Selling, general and administrative 990,098 837,633 3,595,946 3,283,127 Operating income 814,115 731,024 2,707,357 2,585,586 Interest income, net (34,145) (39,741) (134,800) (171,568) Earnings before taxes 848,260 770,765 2,842,157 2,757,154 Provision for taxes on earnings 202,395 183,981 697,113 666,424 Net earnings $ 645,865 $ 586,784 $ 2,145,044 $ 2,090,730 Earnings per share Basic $ 2.02 $ 1.80 $ 6.66 $ 6.36 Diluted $ 2.00 $ 1.79 $ 6.61 $ 6.32 Weighted-average shares outstanding (000) Basic 319,733 326,014 322,220 328,593 Diluted 322,225 328,519 324,416 330,984 Store count at end of period 2,267 2,186 2,267 2,186",
+      "token_count": 245
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ROSS STORES, INC.. Condensed Consolidated Balance Sheets ($000, unaudited) January 31, 2026 February 1, 2025 Assets Current Assets Cash and cash equivalents $ 4,594,392 $ 4,730,744 Accounts receivable 181,301 144,482 Merchandise inventory 2,630,970 2,444,513 Prepaid expenses and other 233,434 218,957 Total current assets 7,640,097 7,538,696 Property and equipment, net 4,088,760 3,792,403 Operating lease assets 3,519,610 3,294,858 Other long-term assets 300,270 279,375 Total assets $ 15,548,737 $ 14,905,332 Liabilities and Stockholders\u2019 Equity Current Liabilities Accounts payable $ 2,386,418 $ 2,126,317 Accrued expenses and other 666,978 626,490 Current operating lease liabilities 727,855 703,337 Accrued payroll and benefits 484,407 462,284 Income taxes payable 61,779 43,666 Current portion of long-term debt 499,743 699,731 Total current liabilities 4,827,180 4,661,825 Long-term debt 1,017,863 1,515,080 Non-current operating lease liabilities 2,966,877 2,764,281 Other long-term liabilities 287,947 267,911 Deferred income taxes 261,427 187,040 Commitments and contingencies Stockholders\u2019 Equity 6,187,443 5,509,195 Total liabilities and stockholders\u2019 equity $ 15,548,737 $ 14,905,332",
+      "token_count": 298
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "ROSS STORES, INC.. Condensed Consolidated Statements of Cash Flows Twelve Months Ended ($000, unaudited) January 31, 2026 February 1, 2025 Cash Flows From Operating Activities Net earnings $ 2,145,044 $ 2,090,730 Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization 509,391 446,788 Stock-based compensation 175,354 156,298 Gain on sale of property \u2014 (61,575) Deferred income taxes 74,387 (9,198) Change in assets and liabilities: Merchandise inventory (186,457) (252,293) Other current assets (47,382) (27,319) Accounts payable 285,244 154,664 Other current liabilities 50,784 (123,556) Income taxes 17,161 (27,457) Operating lease assets and liabilities, net 2,362 12,627 Other long-term, net 995 (2,721) Net cash provided by operating activities 3,026,883 2,356,988 Cash Flows From Investing Activities Additions to property and equipment (819,275) (720,104) Proceeds from sale of property \u2014 82,642 Net cash used in investing activities (819,275) (637,462) Cash Flows From Financing Activities Issuance of common stock related to stock plans 25,330 25,085 Treasury stock purchased (79,878) (86,092) Repurchase of common stock (1,050,021) (1,049,979) Excise tax paid on repurchase of common stock (9,443) (8,798) Dividends paid (528,085) (488,721) Payment of long-term debt (700,000) (250,000) Net cash used in financing activities (2,342,097) (1,858,505) Net decrease in cash, cash equivalents, and restricted cash and cash equivalents (134,489) (138,979) Cash, cash equivalents, and restricted cash and cash equivalents: Beginning of period 4,796,462 4,935,441 End of period $ 4,661,973 $ 4,796,462 Reconciliations: Cash and cash equivalents $ 4,594,392 $ 4,730,744 Restricted cash and cash equivalents included in prepaid expenses and other 20,950 17,087 Restricted cash and cash equivalents included in other long-term assets 46,631 48,631 Total cash, cash equivalents, and restricted cash and cash equivalents: $ 4,661,973 $ 4,796,462 Supplemental Cash Flow Disclosures Interest paid $ 55,778 $ 80,316 Income taxes paid, net $ 605,565 $ 703,079",
+      "token_count": 526
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2025Q3",
+      "value": 5600946000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "OperatingIncomeLoss",
+      "period": "2025Q3",
+      "value": 648498000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "NetIncomeLoss",
+      "period": "2025Q3",
+      "value": 511935000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2025Q3",
+      "value": 1.58,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X005",
+      "tag": "EarningsPerShareBasic",
+      "period": "2025Q3",
+      "value": 1.59,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X006",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2025Q3",
+      "value": 4061173000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X007",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2025Q3",
+      "value": 1905165000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": -0.01451,
+    "ret_20d": 0.039609,
+    "market_ret_20d": -0.021685
+  },
+  "outcome_blind": true
+}

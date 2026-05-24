@@ -1,0 +1,272 @@
+{
+  "event_id": "evt_0082",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "APPFOLIO INC",
+  "ticker": "APPF",
+  "company_alias": "APPFOLIO INC",
+  "masked_company": "Company T",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-29",
+  "filing_metadata": {
+    "cik": "1433195",
+    "accession_number": "0001433195-26-000006",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-29T16:05:48-05:00",
+    "event_date": "2026-01-29",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fourth quarter caps off a year of industry leading innovation an d accelerated unit growth",
+      "token_count": 23
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "SANTA BARBARA, Calif., 2026-01-29T16:05:48-05:00 -- APPFOLIO INC. (NASDAQ:APPF) (\"APPFOLIO INC\" or the \"Company\"), a technology leader powering the future of the real estate industry, today announced its financial results for the fourth quarter and fiscal year ended December 31, 2025.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "\"I am proud of our strong unit acquisition and financial performance in 2025, which validates our strategy and the momentum we have as a business,\" said President and CEO. \"Our AI-native Performance Platform, with continued investments in agentic AI and the resident experience, is powering the future of real estate. As we enter 2026, we are driving real, measurable performance outcomes for our customers.\"",
+      "token_count": 102
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue grew 22% year-over-year to $248 million.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Total units under management grew 8% year-over-year to 9.4 million.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 GAAP operating income was $44 million, or 17.6% of revenue, compared to GAAP operating income of $23 million, or 11.3% of revenue in Q4 2024.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Non-GAAP operating income was $62 million, or 24.9% of revenue, compared to non-GAAP operating income of $41 million, or 20.2% of revenue in Q4 2024.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net cash provided by operating activities was $65 million, or 26.2% of revenue, compared to $37 million, or 18.0% of revenue in Q4 2024.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue grew 20% year-over-year to $951 million.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 GAAP operating income was $153 million, or 16.1% of revenue, compared to GAAP operating income of $136 million, or 17.1% of revenue in 2024.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Non-GAAP operating income was $235 million, or 24.7% of revenue, compared to non-GAAP operating income of $200 million, or 25.2% of revenue in 2024.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net cash provided by operating activities was $242 million, or 25.5% of revenue, compared to $188 million, or 23.7% of revenue in 2024.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Full year revenue is expected to be in the range of $1,100 million to $1,120 million.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Full year non-GAAP operating margin as a percentage of revenue is expected to be in the range of 25.5% to 27.5%.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted weighted average shares outstanding are expected to be approximately 36 million to 37 million for the full year.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "APPFOLIO INC is a technology leader powering the future of the real estate industry. Our innovative platform and trusted partnership enable our customers to connect communities, increase operational efficiency, and grow their business. For more information about APPFOLIO INC, visit ir.appfolioinc.com.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Reconciliations of current and historical non-GAAP financial measures to APPFOLIO INC\u2019s financial results as determined in accordance with GAAP are included at the end of this press release following the accompanying financial data. For a description of these non-GAAP financial measures, including the reasons management uses each measure, please see the section of the tables entitled \u201cStatement Regarding the Use of Non-GAAP Financial Measures.\u201d",
+      "token_count": 112
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "APPFOLIO INC is unable, at this time, to provide GAAP equivalent guidance measures on a forward-looking basis for non-GAAP operating margin because certain items that impact this measure are uncertain, out of our control, or cannot be reasonably predicted, such as charges related to stock-based compensation expense. The effect of these excluded items may be significant.",
+      "token_count": 93
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "initiatives, the potential benefits and effect of the Company's AI-powered solutions, and their impact on the Company\u2019s plans, objectives, expectations and capabilities.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "December 31, 2025 December 31, 2024 Assets Current assets Cash and cash equivalents $ 106,967 $ 42,504 Investment securities\u2014current 144,256 235,745 Accounts receivable, net 36,873 24,346 Prepaid expenses and other current assets 65,218 32,807 Total current assets 353,314 335,402 Property and equipment, net 23,228 24,483 Operating lease right-of-use assets 15,924 17,472 Capitalized software development costs, net 11,324 15,429 Goodwill 96,410 96,410 Intangible assets, net 38,826 49,057 Deferred income taxes 58,823 76,910 Long-term investments 77,033 2,033 Other long-term assets 14,085 9,482 Total assets $ 688,967 $ 626,678 Liabilities and Stockholders\u2019 Equity Current liabilities Accounts payable $ 4,123 $ 2,378 Accrued employee expenses 59,774 30,157 Accrued expenses 20,829 14,658 Other current liabilities 22,121 16,087 Total current liabilities 106,847 63,280 Operating lease liabilities 33,287 37,476 Other liabilities 6,254 6,632 Total liabilities 146,388 107,388 Stockholders\u2019 equity 542,579 519,290 Total liabilities and stockholders\u2019 equity $ 688,967 $ 626,678",
+      "token_count": 270
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Revenue (1) $ 248,192 $ 203,664 $ 950,822 $ 794,202 Costs and operating expenses: Cost of revenue (exclusive of depreciation and amortization) (2) 90,540 76,189 345,341 282,067 Sales and marketing (2) 40,159 33,436 143,904 110,597 Research and product development (2) 45,950 42,296 190,419 160,375 General and administrative (2) 22,857 23,449 95,590 85,974 Depreciation and amortization 5,110 5,336 22,651 19,545 Total costs and operating expenses 204,616 180,706 797,905 658,558 Income from operations 43,576 22,958 152,917 135,644 Other (loss)/income, net (3) 697 38 697 Interest income, net 2,048 3,499 8,157 13,981 Income before provision for income taxes 45,621 27,154 161,112 150,322 Provision for (benefit from) income taxes 5,707 (75,580) 20,189 (53,746) Net income $ 39,914 $ 102,734 $ 140,923 $ 204,068 Net income per common share: Basic $ 1.11 $ 2.82 $ 3.91 $ 5.63 Diluted $ 1.10 $ 2.79 $ 3.88 $ 5.55 Weighted average common shares outstanding Basic 35,946 36,374 36,013 36,252 Diluted 36,202 36,783 36,327 36,782",
+      "token_count": 278
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Core solutions $ 55,719 $ 47,631 $ 211,457 $ 180,605 Value Added Services 184,606 153,334 721,549 605,011 Other 7,867 2,699 17,816 8,586 Total revenue $ 248,192 $ 203,664 $ 950,822 $ 794,202",
+      "token_count": 69
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Costs and operating expenses: Cost of revenue (exclusive of depreciation and amortization) $ 1,191 $ 1,261 $ 5,138 $ 4,522 Sales and marketing 2,996 2,746 12,332 8,030 Research and product development 6,504 5,789 30,687 25,414 General and administrative 4,636 6,228 22,633 22,361 Total stock-based compensation expense $ 15,327 $ 16,024 $ 70,790 $ 60,327",
+      "token_count": 110
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) (in thousands) Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Cash from operating activities Net income $ 39,914 $ 102,734 $ 140,923 $ 204,068 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 5,110 5,336 22,651 19,543 Amortization of operating lease right-of-use assets 696 489 2,221 2,030 Amortization of costs capitalized to obtain revenue contracts, net 2,928 2,514 11,115 9,985 Deferred income taxes 1,021 (76,937) 18,139 (76,937) Stock-based compensation, including as amortized 15,327 16,024 70,790 60,328 Other (838) (2,074) (2,119) (8,220) Changes in operating assets and liabilities: Accounts receivable (2,527) 1,489 (12,527) (3,383) Prepaid expenses and other assets (5,769) 501 (21,446) (5,859) Accounts payable 21 1,850 1,767 1,559 Operating lease liabilities (1,086) 53 (4,263) (3,143) Accrued expenses and other liabilities 10,193 (15,413) 14,854 (11,812) Net cash provided by operating activities 64,990 36,566 242,105 188,159 Cash from investing activities Purchases of available-for-sale investments (62,312) (51,854) (228,887) (317,173) Proceeds from sales of available-for-sale investments \u2014 9,984 202,662 9,984 Proceeds from maturities of available-for-sale investments 42,350 76,280 118,970 240,035 Purchases of property and equipment (1,314) (195) (3,155) (2,016) Capitalization of software development costs (1,026) (1,058) (3,440) (5,170) Purchases of long-term investments \u2014 \u2014 (75,000) \u2014 Cash paid in business acquisition, net of cash acquired \u2014 (77,421) (906) (77,421) Net cash (used in) provided by investing activities (22,302) (44,264) 10,244 (151,761) Cash from financing activities Proceeds from stock option exercises 4 11 134 3,924 Tax withholding for net share settlement (11,818) (12,226) (43,248) (47,327) Proceeds from the issuance of common stock under the employee stock purchase plan \u2014 \u2014 951 \u2014 Purchase of common stock \u2014 \u2014 (145,723) \u2014 Net cash used in financing activities (11,814) (12,215) (187,886) (43,403) Net increase in cash, cash equivalents and restricted cash 30,874 (19,913) 64,463 (7,005) Cash, cash equivalents and restricted cash Beginning of period 76,343 62,667 42,754 49,759 End of period $ 107,217 $ 42,754 $ 107,217 $ 42,754",
+      "token_count": 586
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Costs and operating expenses: GAAP cost of revenue (exclusive of depreciation and amortization) $ 90,540 $ 76,189 $ 345,341 $ 282,067 Stock-based compensation expense (1,191) (1,261) (5,138) (4,522) Non-GAAP cost of revenue (exclusive of depreciation and amortization) $ 89,349 $ 74,928 $ 340,203 $ 277,545 GAAP cost of revenue (exclusive of depreciation and amortization) as a percentage of revenue 36 % 37 % 36 % 36 % Non-GAAP cost of revenue (exclusive of depreciation and amortization) as a percentage of revenue 36 % 37 % 36 % 35 % GAAP sales and marketing $ 40,159 $ 33,436 $ 143,904 $ 110,597 Stock-based compensation expense (2,996) (2,746) (12,332) (8,030) Non-GAAP sales and marketing $ 37,163 $ 30,690 $ 131,572 $ 102,567 GAAP sales and marketing as a percentage of revenue 16 % 16 % 15 % 14 % Non-GAAP sales and marketing as a percentage of revenue 15 % 15 % 14 % 13 % GAAP research and product development $ 45,950 $ 42,296 $ 190,419 $ 160,375 Stock-based compensation expense (6,504) (5,789) (30,687) (25,414) Non-GAAP research and product development $ 39,446 $ 36,507 $ 159,732 $ 134,961 GAAP research and product development as a percentage of revenue 19 % 21 % 20 % 20 % Non-GAAP research and product development as a percentage of revenue 16 % 18 % 17 % 17 % GAAP general and administrative $ 22,857 $ 23,449 $ 95,590 $ 85,974 Stock-based compensation expense (4,636) (6,228) (22,633) (22,361) Non-GAAP general and administrative $ 18,221 $ 17,221 $ 72,957 $ 63,613 GAAP general and administrative as a percentage of revenue 9 % 12 % 10 % 11 % Non-GAAP general and administrative as a percentage of revenue 7 % 8 % 8 % 8 % GAAP depreciation and amortization $ 5,110 $ 5,336 $ 22,651 $ 19,545 Amortization of stock-based compensation capitalized in software development costs (241) (350) (963) (1,754) Amortization of purchased intangibles (2,558) (1,744) (10,231) (2,100) Non-GAAP depreciation and amortization $ 2,311 $ 3,242 $ 11,457 $ 15,691 GAAP depreciation and amortization as a percentage of revenue 2 % 3 % 2 % 2 % Non-GAAP depreciation and amortization as a percentage of revenue 1 % 2 % 1 % 2 %",
+      "token_count": 552
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Income from operations: GAAP income from operations $ 43,576 $ 22,958 $ 152,917 $ 135,644 Stock-based compensation expense 15,327 16,024 70,790 60,327 Amortization of stock-based compensation capitalized in software development costs 241 350 963 1,754 Amortization of purchased intangibles 2,558 1,744 10,231 2,100 Non-GAAP income from operations $ 61,702 $ 41,076 $ 234,901 $ 199,825 Operating margin: GAAP operating margin 17.6 % 11.3 % 16.1 % 17.1 % Stock-based compensation expense as a percentage of revenue 6.2 7.8 7.4 7.6 Amortization of stock-based compensation capitalized in software development costs as a percentage of revenue 0.1 0.2 0.1 0.2 Amortization of purchased intangibles as a percentage of revenue 1.0 0.9 1.1 0.3 Non-GAAP operating margin 24.9 % 20.2 % 24.7 % 25.2 % Net income (loss): GAAP net income $ 39,914 $ 102,734 $ 140,923 $ 204,068 Stock-based compensation expense 15,327 16,024 70,790 60,327 Amortization of stock-based compensation capitalized in software development costs 241 350 963 1,754 Amortization of purchased intangibles 2,558 1,744 10,231 2,100 Income tax effect of adjustments (7,680) (86,898) (30,861) (107,372) Non-GAAP net income $ 50,360 $ 33,954 $ 192,046 $ 160,877 Net income per share, basic: GAAP net income per share, basic $ 1.11 $ 2.82 $ 3.91 $ 5.63 Non-GAAP adjustments to net income 0.29 (1.89) 1.42 (1.19) Non-GAAP net income per share, basic $ 1.40 $ 0.93 $ 5.33 $ 4.44 Net income per share, diluted: GAAP net income per share, diluted $ 1.10 $ 2.79 $ 3.88 $ 5.55 Non-GAAP adjustments to net income 0.29 (1.87) 1.41 (1.18) Non-GAAP net income per share, diluted $ 1.39 $ 0.92 $ 5.29 $ 4.37 Weighted-average shares used in GAAP and non-GAAP per share calculation Basic 35,946 36,374 36,013 36,252 Diluted 36,202 36,783 36,327 36,782",
+      "token_count": 469
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "We use the following non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Non-GAAP presentation of income from operations, costs and operating expenses, operating margin, net income, and net income per share. These measures exclude certain non-cash or non-recurring items, including stock-based compensation expense, amortization of stock-based compensation capitalized in software development costs , amortization of purchased intangibles , and the related income tax effect of these adjustments, as applicable and described below. Non-GAAP operating margin is calculated as non-GAAP operating income from operations as a percentage of revenue.",
+      "token_count": 144
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "We use each of these non-GAAP financial measures internally to assess and compare operating results across reporting periods, for internal budgeting and forecasting purposes, and to evaluate our financial performance. We believe these non-GAAP financial measures also provide useful supplemental information to investors and facilitate the analysis of our operating results and comparison of operating results across reporting periods.",
+      "token_count": 109
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "In particular, we believe these non-GAAP financial measures are useful to investors and others in assessing our operating performance due to the following factors:",
+      "token_count": 41
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Stock-based compensation expense and amortization of stock-based compensation capitalized in software development costs. We utilize stock-based compensation to attract and retain employees. It is principally aimed at aligning their interests with those of our stockholders while ensuring long-term retention, rather than to address operational performance for any particular period. As a result, stock-based compensation expenses vary for reasons that are generally unrelated to financial and operational performance in any particular period.",
+      "token_count": 136
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Amortization of purchased intangibles. We view amortization of purchased intangible assets as items arising from pre-acquisition activities determined at the time of an acquisition. While these intangible assets are evaluated for impairment regularly, amortization of the cost of purchased intangibles is an expense that is not typically affected by operations during any particular period.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Income tax effects of adjustments . We utilize a fixed long-term projected tax rate in our computation of non-GAAP income tax effects to provide better consistency across interim reporting periods. In projecting this long-term non-GAAP tax rate, we utilize a financial projection that excludes the direct impact of other non-GAAP adjustments. The projected rate, which we have determined to be 21% and 25% for 2025 and 2024, respectively, considers other factors such as our current operating structure, existing tax positions in various jurisdictions, and key legislation in major jurisdictions where we operate. We periodically re-evaluate this tax rate, as necessary, for significant events, based on relevant tax law changes, and material changes in the forecasted geographic earnings mix.",
+      "token_count": 199
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Our non-GAAP financial measures may not provide information that is directly comparable to that provided by other companies in our industry, as other companies may calculate non-GAAP financial results differently. In addition, there are limitations in using non-GAAP financial measures because non-GAAP financial measures are not prepared in accordance with GAAP and can exclude expenses that may have a material impact on our reported financial results. As such, non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. A reconciliation of the historical non-GAAP financial measures to their most directly comparable GAAP measures has been provided in the tables above. We encourage investors to review the reconciliation of these historical non-GAAP financial measures to their most directly comparable GAAP financial measures.",
+      "token_count": 231
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.06913,
+    "ret_20d": -0.12108,
+    "market_ret_20d": 0.010233
+  },
+  "outcome_blind": true
+}

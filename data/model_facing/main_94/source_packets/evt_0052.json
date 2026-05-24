@@ -1,0 +1,482 @@
+{
+  "event_id": "evt_0052",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "MOVADO GROUP INC",
+  "ticker": "MOV",
+  "company_alias": "MOVADO GROUP INC",
+  "masked_company": "Company BN",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-03-19",
+  "filing_metadata": {
+    "cik": "72573",
+    "accession_number": "0000950142-26-000775",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-19T08:00:09-04:00",
+    "event_date": "2026-03-19",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "~ Fiscal 2026 Net Sales of $671.3 million ~",
+      "token_count": 11
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "~ Fiscal 2026 Operating Income of $29.8 million and Adjusted Operating Income of $34.8 million ~",
+      "token_count": 24
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "~ Fiscal 2026 EPS of $1.17 and Fiscal 2026 Adjusted EPS of $1.34 ~",
+      "token_count": 17
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "~ Fourth Quarter Net Sales of $191.6 million ~",
+      "token_count": 12
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "~ Fourth Quarter EPS of $0.55 and Fourth Quarter Adjusted EPS of $0.57 ~",
+      "token_count": 18
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "~ Board Declared Quarterly Dividend of $0.35 Per Share ~",
+      "token_count": 14
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Paramus, NJ \u2013 2026-03-19T08:00:09-04:00 -- MOVADO GROUP INC. (NYSE:MOV) today announced fourth quarter and fiscal year 2026 results for the periods ended January 31, 2026.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fiscal Year 2026 Highlights (See attached table for GAAP and Non-GAAP measures)",
+      "token_count": 20
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $671.3 million compared to $653.4 million for fiscal year 2025;",
+      "token_count": 19
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income of $29.8 million compared to $20.0 million for fiscal year 2025;",
+      "token_count": 21
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted operating income of $34.8 million compared to $27.1 million for fiscal year 2025;",
+      "token_count": 23
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted earnings per share of $1.17 compared to $0.81 for fiscal year 2025;",
+      "token_count": 19
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted diluted earnings per share of $1.34 compared to $1.12 for fiscal year 2025; and",
+      "token_count": 22
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Ended fiscal year 2026 with $230.5 million in cash and no debt.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Chairman and Chief Executive Officer, stated: \u201cOur strong performance in the 4 th quarter allowed us to close fiscal 2026 on a high note, delivering strong growth in net sales, a significant increase in profitability and strong positive cash flow generation. Total net sales grew by 5.6%, leading to full-year growth of 2.7% \u0336 demonstrating accelerating momentum as the year progressed. These results reflect the power of our global brands, the strength of our innovation, and the successful execution of our strategy by our team.\u201d",
+      "token_count": 133
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cThe MOVADO GROUP INC brand delivered a very strong quarter across our most important channels, led by our wholesale business with 25% sales growth, MOVADO GROUP INC.com with 18% sales growth and our MOVADO GROUP INC Company Stores with 9% growth,\u201d Mr. Grinberg continued. \u201cOur fashion watch and jewelry brands maintained robust performance driven by compelling product innovation and digital content, particularly in the United States, Mexico and Europe. For fiscal 2026, we generated $57.9 million in net cash provided by operating activities and ended the year with $230.5 million in cash and no debt.\u201d",
+      "token_count": 147
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Mr. Grinberg concluded, \u201cAs we look ahead, we believe we are well positioned to continue our progress and navigate the dynamic environment. Given that the geopolitical environment remains volatile and tariff and trade policies are uncertain, we will remain agile and execute with discipline while capitalizing on the positive trends and increasing consumer interest in watches and jewelry. Overall, we expect the execution of our strategy to deliver long-term sustainable, profitable growth and increased value for our shareholders.\u201d",
+      "token_count": 134
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fourth Quarter Fiscal 2026 Highlights (See attached table for GAAP and Non-GAAP measures)",
+      "token_count": 23
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $191.6 million, an increase of 5.6% from $181.5 million in the fourth quarter of fiscal 2025;",
+      "token_count": 27
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Gross margin of 54.1%, as compared to 54.2% in the prior-year period;",
+      "token_count": 18
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income of $13.8 million, an increase of 49.7% from $9.2 million in the prior-year period;",
+      "token_count": 25
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted operating income of $14.4 million, an increase of 6.2% from $13.5 million in the fourth quarter of fiscal 2025;",
+      "token_count": 30
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted earnings per share of $0.55, an increase of 52.8% from $0.36 in the prior-year period; and",
+      "token_count": 25
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted diluted earnings per share of $0.57, an increase of 11.8% from $0.51 in the fourth quarter of fiscal 2025.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Non-GAAP Items (See attached table for GAAP and Non-GAAP measures)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "a $0.6 million pre-tax charge, or $0.4 million after tax, representing $0.02 per diluted share, in costs related to the internal investigation of conduct within the Company\u2019s Dubai branch.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "a $2.5 million pre-tax charge, or $1.9 million after tax, representing $0.08 per diluted share, in costs related to the investigation noted above; and",
+      "token_count": 38
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "a $1.8 million pre-tax charge, or $1.5 million after tax, representing $0.07 per diluted share, associated with the establishment of a provision for a corporate cost-savings initiative.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In this press release, references to \u201cadjusted\u201d results exclude the impact of the above charges and the impact of the items described in the Non-GAAP Items section of the Company\u2019s earnings releases for the first, second and third quarters of fiscal year 2026. Please refer to the attached GAAP and Non-GAAP measures table for a detailed reconciliation of the Company\u2019s reported results to its adjusted, Non-GAAP results.",
+      "token_count": 106
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fourth Quarter Fiscal 2026 Results (See attached table for GAAP and Non-GAAP measures)",
+      "token_count": 22
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales increased 5.6% to $191.6 million, or increased 1.8% on a constant-dollar basis, compared to $181.5 million in the fourth quarter of fiscal 2025. The increase in net sales reflected growth in the United States and international wholesale channels and brick and mortar and online retail, as well as the positive impact of fluctuations in foreign exchange rates. U.S. net sales increased 11.2% as compared to the fourth quarter of last year. International net sales increased 1.0% (a decrease of 5.9% on a constant-dollar basis) as compared to the fourth quarter of last year.",
+      "token_count": 146
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross profit was $103.6 million, or 54.1% of net sales, compared to $98.3 million, or 54.2% of net sales in the fourth quarter of fiscal 2025. The increase in gross margin percentage was primarily the result of favorable changes in channel and product mix, favorable impact of foreign currency exchange rates and the increased leverage of lower fixed costs over higher sales, partially offset by increased U.S. tariffs.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Operating expenses were $89.8 million in the fourth quarter of fiscal 2026 compared to $89.1 million in the fourth quarter of fiscal 2025. Adjusted operating expenses were $89.3 million for the fourth quarter of fiscal 2026 as compared to $84.8 million for the fourth quarter of fiscal 2025. The change in operating expenses was primarily due to higher performance-based compensation and the unfavorable impact of foreign currency exchange rates, partially offset by lower marketing expenses.",
+      "token_count": 123
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income was $13.8 million compared to $9.2 million in the fourth quarter of fiscal 2025. Adjusted operating income was $14.4 million for the fourth quarter of fiscal 2026, as compared to $13.5 million for the fourth quarter of fiscal 2025.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company recorded a tax provision of $1.6 million, as compared to a tax provision of $2.2 million in the fourth quarter of fiscal 2025. Based on adjusted pre-tax income, the adjusted tax provision was $1.7 million, or an adjusted tax rate of 11.6%, as compared to an adjusted tax rate of 20.6%, in the fourth quarter of fiscal 2025.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income for the fourth quarter of fiscal 2026 was $12.6 million, or $0.55 per diluted share, compared to net income of $8.1 million, or $0.36 per diluted share, in the fourth quarter of fiscal 2025. Adjusted net income for the fiscal 2026 period was $13.0 million, or $0.57 per diluted share, as compared to adjusted net income of $11.5 million, or $0.51 per diluted share, in the fourth quarter of fiscal 2025.",
+      "token_count": 104
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Full Year Fiscal 2026 Results (See attached table for GAAP and Non-GAAP measures)",
+      "token_count": 21
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales increased 2.7% to $671.3 million, or increased 1.0% on a constant-dollar basis, compared to $653.4 million in fiscal 2025. Net sales increased 4.3% in the U.S. as compared to fiscal 2025. International net sales increased 1.6% (a decrease of 1.5% on a constant-dollar basis) as compared to fiscal 2025.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross profit was $363.6 million, or 54.2% of net sales, compared to gross profit of $353.1 million, or 54.0% of net sales, in fiscal 2025. The increase in gross margin percentage was primarily the result of favorable changes in channel and product mix and the increased leverage of lower fixed costs over higher sales, partially offset by the unfavorable impact of increased U.S. tariffs and foreign currency exchange rates.",
+      "token_count": 106
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Operating expenses were $333.8 million in fiscal 2026 compared to $333.1 million in fiscal 2025. For fiscal 2026, adjusted operating expenses were $328.8 million as compared to $326.1 million for fiscal 2025. This increase was primarily due to higher performance-based compensation and the unfavorable impact of foreign currency exchange rates, partially offset by lower marketing expenses.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income was $29.8 million in fiscal 2026, an increase of 49.0% from $20.0 million in fiscal 2025. Adjusted operating income was $34.8 million in fiscal 2026, an increase of 28.7% from $27.1 million for fiscal 2025.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company recorded a tax provision of $7.5 million in fiscal 2026 compared to a tax provision of $7.4 million in fiscal 2025. Based on adjusted pre-tax income, the adjusted tax provision was $8.6 million, or an adjusted tax rate of 22.0%, as compared to an adjusted tax rate of 22.0% in fiscal 2025.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income was $26.6 million, or $1.17 per diluted share, for fiscal 2026, compared to net income of $18.4 million, or $0.81 per diluted share, for fiscal 2025. Adjusted net income in fiscal 2026 increased 19.6% to $30.4 million or $1.34 per diluted share, from $25.4 million, or $1.12 per diluted share, in fiscal 2025.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Given the current economic and geopolitical uncertainty, including the unpredictable impact of the current Middle East conflict and ongoing tariff developments, the Company has elected not to provide a fiscal 2027 outlook at this time.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company also announced on 2026-03-19T08:00:09-04:00, that the Board of Directors approved the payment on April 16, 2026, of a cash dividend in the amount of $0.35 for each share of the Company\u2019s outstanding common stock and class A common stock held by shareholders of record as of the close of business on April 2, 2026.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "During fiscal year 2026, the Company repurchased approximately 208,000 shares under its December 5, 2024 share repurchase program, which expires on December 5, 2027. As of year-end, the Company had $46.1 million remaining available under the share repurchase program.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "MOVADO GROUP INC. designs, sources, and distributes MOVADO GROUP INC\u00ae, MVMT\u00ae, OLIVIA BURTON\u00ae, EBEL\u00ae, CONCORD\u00ae, CALVIN KLEIN\u00ae, COACH\u00ae, TOMMY HILFIGER\u00ae, HUGO BOSS\u00ae, and LACOSTE\u00ae watches and, to a lesser extent, jewelry and other accessories, and operates MOVADO GROUP INC Company Stores in the United States and Canada.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In this release, the Company presents certain financial measures that are not calculated according to generally accepted accounting principles in the United States (\u201cGAAP\u201d). Specifically, the Company is presenting adjusted operating expenses, adjusted operating income, adjusted pre-tax income, adjusted tax provision, adjusted net income and adjusted diluted earnings per share, which are operating expenses, operating income, pre-tax income, tax provision, net income and diluted earnings per share, respectively, under GAAP, adjusted to eliminate costs due to the investigation referred to above, establishment of a provision for a cost-savings initiative and repatriation of foreign earnings. The Company believes the adjusted measures are useful because they give investors information about the Company\u2019s financial performance without the effect of certain items that the Company believes are not characteristic of its usual operations. Additionally, the Company is presenting constant-currency information to provide a framework to assess how its business performed excluding the effects of foreign currency exchange rate fluctuations in the current period. Comparisons of financial results on a constant-dollar basis are calculated by translating each foreign currency at the same U.S. dollar exchange rate as in effect for the prior-year period for both periods being compared. The Company believes this information is useful to investors to facilitate comparisons of operating results. These non-GAAP financial measures are designed to complement the GAAP financial information presented in this release. The non-GAAP financial measures presented should not be considered in isolation from or as a substitute for the comparable GAAP financial measures, and the methods of their calculation may differ substantially from similarly titled measures used by other companies.",
+      "token_count": 470
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Less: Net income attributable to noncontrolling interests",
+      "token_count": 15
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income attributable to MOVADO GROUP INC.",
+      "token_count": 10
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income per share attributable to MOVADO GROUP INC.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended January 31, 2026",
+      "token_count": 9
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Costs related to the Dubai matter (1)",
+      "token_count": 10
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended January 31, 2025",
+      "token_count": 9
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Twelve Months Ended January 31, 2026",
+      "token_count": 9
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Twelve Months Ended January 31, 2025",
+      "token_count": 9
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Repatriation of Foreign Earnings (3)",
+      "token_count": 9
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Costs related to the investigation of allegations of misconduct within the Dubai branch of the Company's Swiss subsidiary.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Related to the establishment of a provision for a corporate cost-savings initiative.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Tax impact of repatriation of foreign earnings, primarily related to foreign currency gains.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+      "token_count": 20
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Net change in cash, cash equivalents, and restricted cash",
+      "token_count": 15
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "token_count": 17
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash, cash equivalents, and restricted cash at end of period",
+      "token_count": 15
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.00988,
+    "ret_20d": -0.069439,
+    "market_ret_20d": -0.036224
+  },
+  "outcome_blind": true
+}

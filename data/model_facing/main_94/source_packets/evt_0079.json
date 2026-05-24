@@ -1,0 +1,154 @@
+{
+  "event_id": "evt_0079",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Hub Group, Inc.",
+  "ticker": "HUBG",
+  "company_alias": "Hub Group, Inc.",
+  "masked_company": "Company CN",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-05",
+  "filing_metadata": {
+    "cik": "940942",
+    "accession_number": "0001193125-26-039396",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-05T16:11:07-05:00",
+    "event_date": "2026-02-05",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "4.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Fourth quarter intermodal volume increased 1% from prior year",
+      "token_count": 16
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Strong year-end balance sheet with cash and restricted cash of approximately $140 million and lower net debt",
+      "token_count": 27
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "2025 preliminary operating cash flow of approximately $194 million",
+      "token_count": 17
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "2025 capital expenditures of approximately $45 million",
+      "token_count": 14
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Introduced preliminary 2026 outlook with expected revenue of $3.65 billion to $3.95 billion and capital expenditures of $35 million to $45 million",
+      "token_count": 37
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cHub Group, Inc. delivered strong operating cash flows and revenue performance in 2025 despite industry headwinds. Intermodal volume growth and new business awards supported top-line results through the year and during the fourth quarter. The Marten Intermodal acquisition performed well and demonstrated our disciplined approach to capital allocation. We believe that our financial strength and ability to navigate shifting market conditions continue to position us well in serving our customers\u2019 evolving business needs. Hub Group, Inc. remains focused on executing our strategy and delivering accelerating growth,\u201d said Phil Yeager, Hub Group, Inc.\u2019s President, Chief Executive Officer and Vice Chairman.",
+      "token_count": 173
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Consolidated operating revenue for full year 2025 is expected to be approximately $3.7 billion compared to 2024 operating revenues of $3.9 billion, in line with the previously communicated guidance range.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Full year 2025 ITS Segment operating revenue is expected to be approximately $2.2 billion. Full year 2025 ITS Segment operating revenue reflects a fourth quarter increase of 1% in intermodal volumes with flat revenue per load on a year-over-year basis and an intermodal volume increase of 3% on a sequential basis. Dedicated revenue declined in the fourth quarter due to lost sites from earlier in the year, partially offset by operational discipline and service improvements.",
+      "token_count": 119
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Full year Logistics Segment operating revenue is expected to be approximately $1.6 billion. Full year 2025 Logistics Segment operating revenue reflects softer fourth quarter demand across business lines partially offset by new business wins. Final mile volume was negatively impacted due to onboarding investments that continued in the fourth quarter. Brokerage volumes in the fourth quarter declined 10% year-over-year with revenue per load down 4% year-over-year.",
+      "token_count": 117
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Capital expenditures for full year 2025 totaled approximately $45 million and decreased year-over-year due to lower tractor fleet spending. As of December 31, 2025, Hub Group, Inc. had cash and restricted cash of approximately $140 million. Debt at December 31, 2025 totaled approximately $229 million, which after giving effect to cash of approximately $113 million, resulted in net debt of approximately $116 million, a decrease of approximately $50 million compared to December 31, 2024.",
+      "token_count": 122
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For full year 2025, the Company returned $44 million to shareholders through dividend payments of $30 million and stock repurchases of $14 million. As of today, the Company has $142 million remaining under its share repurchase authorization.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In connection with the preparation of its financial statements for the year ended December 31, 2025, the Company identified an error that resulted in the understatement of purchased transportation costs and accounts payable in the first nine months of 2025. The total amount of the reduction to accounts payable and purchased transportation costs related to this issue that was recorded during these periods is $77 million. Based on its analysis to date, the Company estimates the correction of the error will increase purchased transportation and warehousing costs for the nine months ended September 30, 2025, but cannot yet estimate what the resulting increase to purchased transportation and warehousing costs and accounts payable will be. There is no expected impact on Hub Group, Inc.\u2019s total cash and cash equivalents or operating cash flows for any periods.",
+      "token_count": 215
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "\u201cAccuracy and transparency in reporting on our performance is of the utmost importance at Hub Group, Inc.,\u201d said Mr. Yeager. \u201cWe look forward to reporting our full financial results as soon as possible and are enhancing our processes. Our team continues to focus on serving our customers with innovative solutions and services.\u201d",
+      "token_count": 81
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company plans to restate its financial statements for the first, second and third quarters of 2025. The Company is continuing to assess the potential impact to its consolidated financial statements for the years ended December 31, 2024 and 2023. The Company expects to file its Annual Report on Form 10-K for the year ended December 31, 2025 as soon as practicable.",
+      "token_count": 93
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For full year 2026, the Company estimates revenue of approximately $3.65 to $3.95 billion and capital expenditures of approximately $35 million to $45 million for the full year.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Hub Group, Inc. offers comprehensive transportation and logistics management solutions. Keeping our customers\u2019 needs in focus, Hub Group, Inc. designs, continually optimizes, and applies industry-leading technology to our customers\u2019 supply chains for better service, greater efficiency, and total visibility. As an award-winning, publicly traded company (Nasdaq:HUBG), our nearly 6,000 employees and drivers across the globe are always in pursuit of \u201cThe Way Ahead\u201d \u2013 a commitment to service, integrity and innovation. For more information, visit hubgroup.com.",
+      "token_count": 140
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CONTACT: Garrett Holland, InvestorRelations@hubgroup.com",
+      "token_count": 14
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.062953,
+    "ret_20d": 0.14016,
+    "market_ret_20d": -0.017344
+  },
+  "outcome_blind": true
+}

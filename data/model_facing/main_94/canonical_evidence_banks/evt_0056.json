@@ -1,0 +1,1018 @@
+{
+  "event_id": "evt_0056",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Ingredion Inc",
+  "ticker": "INGR",
+  "company_alias": "Ingredion Inc",
+  "masked_company": "Company C",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-03",
+  "accepted_at_et": "2026-02-03T06:09:53-05:00",
+  "source_packet_path": "source_packets/evt_0056.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "NEWS RELEASE Ingredion Inc Incorporated 5 Westbrook Corporate Center CONTACTS: Westchester, IL 60154 Investors: Noah Weiss, 773-896-5242 Media: Rick Wion, 708-209-6323",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "NEWS RELEASE Ingredion Inc Incorporated 5 Westbrook Corporate Center CONTACTS: Westchester, IL 60154 Investors: Noah Weiss, 773-896-5242 Media: Rick Wion, 708-209-6323",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Reported and adjusted* EPS were $11.18 and $11.13 for full-year 2025, compared with $9.71 and $10.65 for full-year 2024",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Reported and adjusted* EPS were $11.18 and $11.13 for full-year 2025, compared with $9.71 and $10.65 for full-year 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash from operations was $944 million for the full-year 2025, during which the Company returned $435 million to shareholders, including $224 million of share repurchases",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Cash from operations was $944 million for the full-year 2025, during which the Company returned $435 million to shareholders, including $224 million of share repurchases",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "\u2022 The Company expects its full-year 2026 outlook for reported and adjusted EPS to be in the range of $11.00 to $11.80",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 The Company expects its full-year 2026 outlook for reported and adjusted EPS to be in the range of $11.00 to $11.80",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "WESTCHESTER, Ill., 2026-02-03T06:09:53-05:00 \u2013 Ingredion Inc Incorporated (NYSE:INGR), a leading global provider of ingredient solutions to the food and beverage manufacturing industry, today reported its fourth quarter 2025 and full-year 2025 results.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "WESTCHESTER, Ill., 2026-02-03T06:09:53-05:00 \u2013 Ingredion Inc Incorporated (NYSE:INGR), a leading global provider of ingredient solutions to the food and beverage manufacturing industry, today reported its fourth quarter 2025 and full-year 2025 results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "\u201cWe delivered record full-year financial results driven by continued strength in Texture & Healthful Solutions and solid results from our Food & Industrial Ingredients\u2013LATAM business,\u201d stated Jim Zallie, president and CEO of Ingredion Inc.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cWe delivered record full-year financial results driven by continued strength in Texture & Healthful Solutions and solid results from our Food & Industrial Ingredients\u2013LATAM business,\u201d stated Jim Zallie, president and CEO of Ingredion Inc. \u201cThese strong performances were parti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u201cTexture & Healthful Solutions delivered a solid quarterly performance with 4% sales volume growth, driven by strong demand for our clean label offerings and our expanding solutions portfolio, both of which outpaced net sales growth within the segment.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u201cTexture & Healthful Solutions delivered a solid quarterly performance with 4% sales volume growth, driven by strong demand for our clean label offerings and our expanding solutions portfolio, both of which outpaced net sales growth within the segment. Additionally, specialty...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "margins",
+      "claim": "\u201cOur Food & Industrial Ingredients\u2013LATAM segment regained momentum in the fourth quarter, delivering operating income growth for the full year as market conditions improved.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cOur Food & Industrial Ingredients\u2013LATAM segment regained momentum in the fourth quarter, delivering operating income growth for the full year as market conditions improved. In Food & Industrial Ingredients\u2013U.S./CAN, operational challenges combined with weaker sweetener demand...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u201cAs we enter 2026, we are well-positioned to build on our current Texture & Healthful Solutions momentum and we anticipate F&II-U.S./CAN will overcome the operational setbacks that meaningfully impacted 2025 results.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u201cAs we enter 2026, we are well-positioned to build on our current Texture & Healthful Solutions momentum and we anticipate F&II-U.S./CAN will overcome the operational setbacks that meaningfully impacted 2025 results. Supported by strong cash generation and a healthy balance sh...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "* Reported results are in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "* Reported results are in accordance with U.S. generally accepted accounting principles \u201cGAAP.\u201d Adjusted financial measures are non-GAAP financial measures. See section II of the Supplemental Financial Information entitled \u201cNon-GAAP Information\u201d following the Consolidated Fina...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "4Q24 4Q25 2024 2025 Reported Diluted EPS $ 1.43 $ 2.56 $ 9.71 $ 11.18 Impairment charges 1.20 0.05 1.63 0.11 Restructuring and resegmentation costs 0.06 0.08 0.20 0.17 Net (gain) on sale of business \u2014 \u2014 (1.29) \u2014 Tax items and other matters (0.06) (0.16) 0.40 (0.33) Adjusted Diluted EPS** $ 2.63 $ 2.53 $ 10.65 $ 11.13",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "4Q24 4Q25 2024 2025 Reported Diluted EPS $ 1.43 $ 2.56 $ 9.71 $ 11.18 Impairment charges 1.20 0.05 1.63 0.11 Restructuring and resegmentation costs 0.06 0.08 0.20 0.17 Net (gain) on sale of business \u2014 \u2014 (1.29) \u2014 Tax items and other matters (0.06) (0.16) 0.40 (0.33) Adjusted Di...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "4Q25 2025 Total items affecting adjusted diluted EPS** (0.10) 0.48 Total operating items (0.23) 0.13 Margin (0.22) 0.39 Volume (0.10) (0.47) Foreign exchange 0.08 0.06 Other income 0.01 0.15 Total non-operating items 0.13 0.35 Other non-operating income (0.01) \u2014 Financing costs \u2014 0.03 Tax rate 0.06 0.09 Shares outstanding 0.08 0.23 Non-controlling interests \u2014 \u2014",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "4Q25 2025 Total items affecting adjusted diluted EPS** (0.10) 0.48 Total operating items (0.23) 0.13 Margin (0.22) 0.39 Volume (0.10) (0.47) Foreign exchange 0.08 0.06 Other income 0.01 0.15 Total non-operating items 0.13 0.35 Other non-operating income (0.01) \u2014 Financing cost...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "** Totals may not sum or recalculate due to rounding",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "** Totals may not sum or recalculate due to rounding",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Volume S.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Volume S. Korea Volume* Price/ Mix 2025 Change Change excl. FX Fourth Quarter 1,800 36 (40) \u2014 (39) 1,757 (2%) (4%) Full-Year 7,430 8 (51) (24) (144) 7,219 (3%) (3%)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "* Represents loss of volume due to the sale of our South Korea business",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "* Represents loss of volume due to the sale of our South Korea business",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u2022 Fourth quarter and full-year 2025 net sales decreased 2% and 3% from fourth quarter and full-year 2024.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 Fourth quarter and full-year 2025 net sales decreased 2% and 3% from fourth quarter and full-year 2024. The decrease was driven by lower volume from each of the F&II segments and price mix, primarily from lower raw material costs, partially offset by T&HS volume increases. E...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "costs_or_expenses",
+      "claim": "$ in millions 2024 FX Impact Business Drivers Restructuring / Impairment Other 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Business Drivers Restructuring / Impairment Other 2025 Change Change excl. FX Fourth Quarter 162 7 (27) 81 (3) 220 36% 31% Full-Year 883 6 6 106 15 1,016 15% 14%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl. FX Fourth Quarter 248 7 (27) 228 (8%) (11%) Full-Year 1,016 6 6 1,028 1% 1%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "margins",
+      "claim": "\u2022 Fourth quarter 2025 reported and adjusted operating income were $220 million and $228 million, respectively, an increase of 36% and a decrease of 8% versus the fourth quarter 2024.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 Fourth quarter 2025 reported and adjusted operating income were $220 million and $228 million, respectively, an increase of 36% and a decrease of 8% versus the fourth quarter 2024. The difference between reported and adjusted operating income was primarily attributable to re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "margins",
+      "claim": "\u2022 Reported and adjusted operating income for full-year 2025 were $1,016 million and $1,028 million, respectively, an increase of 15% and an increase of 1% versus full-year 2024.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Reported and adjusted operating income for full-year 2025 were $1,016 million and $1,028 million, respectively, an increase of 15% and an increase of 1% versus full-year 2024. The difference between reported and adjusted operating income was primarily attributable to restruc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Volume Price/ Mix 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Volume Price/ Mix 2025 Change Change excl. FX Fourth Quarter 581 13 25 (28) 591 2% (1%) Full-Year 2,366 37 106 (112) 2,397 1% \u2014%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl. FX Fourth Quarter 94 3 (7) 90 (4%) (7%) Full-Year 350 8 47 405 16% 14%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Fourth quarter 2025 operating income for Texture & Healthful Solutions was $90 million, a decrease of $4 million from the fourth quarter 2024, and full-year 2025 operating income was $405 million, an increase of $55 million from the prior year.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Fourth quarter 2025 operating income for Texture & Healthful Solutions was $90 million, a decrease of $4 million from the fourth quarter 2024, and full-year 2025 operating income was $405 million, an increase of $55 million from the prior year. The decrease for the quarter w...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Volume Price/ Mix 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Volume Price/ Mix 2025 Change Change excl. FX Fourth Quarter 584 24 (17) (4) 587 1% (4%) Full-Year 2,450 (15) (97) 3 2,341 (4%) (4%)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl. FX Fourth Quarter 121 4 (2) 123 2% (1%) Full-Year 483 \u2014 10 493 2% 2%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "margins",
+      "claim": "\u2022 Fourth quarter 2025 operating income for Food & Industrial Ingredients\u2013LATAM was $123 million, an increase of $2 million from the fourth quarter 2024, and full-year 2025 operating income was $493 million, an increase of $10 million from the prior year.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 Fourth quarter 2025 operating income for Food & Industrial Ingredients\u2013LATAM was $123 million, an increase of $2 million from the fourth quarter 2024, and full-year 2025 operating income was $493 million, an increase of $10 million from the prior year. The increase in the fo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "Food & Industrial Ingredients\u2013U.S./Canada",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Food & Industrial Ingredients\u2013U.S./Canada",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Volume Price/ Mix 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Volume Price/ Mix 2025 Change Change excl. FX Fourth Quarter 511 \u2014 (37) (11) 463 (9%) (9%) Full-Year 2,155 (9) (87) (46) 2,013 (7%) (6%)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl. FX Fourth Quarter 82 \u2014 (26) 56 (32%) (32%) Full-Year 373 (3) (55) 315 (16%) (15%)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "\u2022 Fourth quarter 2025 operating income for Food & Industrial Ingredients\u2013U.S./Canada was $56 million, a decrease of $26 million from fourth quarter 2024, and full-year 2025 operating income was $315 million, a decrease of $58 million from the prior year.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "\u2022 Fourth quarter 2025 operating income for Food & Industrial Ingredients\u2013U.S./Canada was $56 million, a decrease of $26 million from fourth quarter 2024, and full-year 2025 operating income was $315 million, a decrease of $58 million from the prior year. The decrease in the fo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Volume S.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Volume S. Korea Volume* Price/ Mix 2025 Change Change excl. FX Fourth Quarter 124 (1) (11) \u2014 4 116 (6%) (6%) Full-Year 459 (5) 27 (24) 11 468 2% 3%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "$ in millions 2024 FX Impact Business Drivers 2025 Change Change excl. FX Fourth Quarter (4) \u2014 7 3 NM NM Full-Year (22) 1 19 (2) NM NM",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "margins",
+      "claim": "\u2022 Fourth quarter 2025 operating income for All Other was $3 million, an increase of $7 million from fourth quarter 2024, and full-year 2025 operating loss was $2 million, an improvement of $20 million from the prior year.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 Fourth quarter 2025 operating income for All Other was $3 million, an increase of $7 million from fourth quarter 2024, and full-year 2025 operating loss was $2 million, an improvement of $20 million from the prior year. The increase for the fourth quarter and full year resul...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "** All Other consists of the businesses of multiple operating segments that are not individually or collectively classified as reportable segments.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "** All Other consists of the businesses of multiple operating segments that are not individually or collectively classified as reportable segments. Net sales from All Other are generated primarily by sweetener and starch sales by our Pakistan business, sales of stevia and othe...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 At both December 31, 2025 and 2024, total debt and cash including short-term investments were $1.8 billion and $1.0 billion.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 At both December 31, 2025 and 2024, total debt and cash including short-term investments were $1.8 billion and $1.0 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash from operations for full-year 2025 was $944 million, down from $1,436 million for full-year 2024, reflecting investment in working capital.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 Cash from operations for full-year 2025 was $944 million, down from $1,436 million for full-year 2024, reflecting investment in working capital.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "\u2022 Reported net financing costs were $9 million for both the fourth quarter 2025 and the fourth quarter 2024.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 Reported net financing costs were $9 million for both the fourth quarter 2025 and the fourth quarter 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "\u2022 Reported and adjusted effective tax rates for the fourth quarter 2025 were 19.3% and 24.0%, compared to 36.2% and 25.2%, for the prior-year period.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Reported and adjusted effective tax rates for the fourth quarter 2025 were 19.3% and 24.0%, compared to 36.2% and 25.2%, for the prior-year period. The two main drivers of the decrease in the reported effective tax rate were the change in value of the Mexican peso against th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Net capital expenditures for full-year 2025 were $433 million, up $138 million from full-year 2024.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Net capital expenditures for full-year 2025 were $433 million, up $138 million from full-year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "For full-year 2025, the Company paid $211 million in dividends to shareholders, and in the fourth quarter 2025 declared a quarterly dividend of $0.82 per share that was paid in the first quarter of 2026.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "For full-year 2025, the Company paid $211 million in dividends to shareholders, and in the fourth quarter 2025 declared a quarterly dividend of $0.82 per share that was paid in the first quarter of 2026. During 2025, the Company repurchased 1.8 million outstanding shares of co...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "The Company expects its full-year 2026 reported and adjusted EPS to each be in the range of $11.00 to $11.80.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "The Company expects its full-year 2026 reported and adjusted EPS to each be in the range of $11.00 to $11.80. This guidance does not assume extraordinary changes in current tax rates, tariffs or trade, or food regulations. This expectation excludes any acquisition-related inte...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "The Company expects full-year 2026 net sales to be up low single-digits to mid-single-digits, reflecting greater volume demand and foreign exchange impacts, partially offset by price mix.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "The Company expects full-year 2026 net sales to be up low single-digits to mid-single-digits, reflecting greater volume demand and foreign exchange impacts, partially offset by price mix. Reported and adjusted operating income are expected to be up low single-digits for full y...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "The 2026 full-year outlook assumes the following: Texture & Healthful Solutions operating income is expected to be up low single-digits to mid-single-digits, driven by sales volume growth offset by price mix; Food & Industrial Ingredients \u2013 LATAM operating income is expected to be flat to up low single-digits, reflecting sales volume growth, offset by price mix; Food & Industrial Ingredients \u2013 U.S./Canada operating income is expected to be flat, as operational improvements are offset by input cost increases; and All Other operating income is anticipated to improve by $5 to $10 million from the prior year.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "The 2026 full-year outlook assumes the following: Texture & Healthful Solutions operating income is expected to be up low single-digits to mid-single-digits, driven by sales volume growth offset by price mix; Food & Industrial Ingredients \u2013 LATAM operating income is expected t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "Corporate costs for full-year 2026 are expected to be flat to up low single-digits.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Corporate costs for full-year 2026 are expected to be flat to up low single-digits.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "For full-year 2026, the Company expects both the reported and adjusted effective tax rates to be 25.5% to 27.0%.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "For full-year 2026, the Company expects both the reported and adjusted effective tax rates to be 25.5% to 27.0%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "Cash from operations for the full-year 2026 is expected to be in the range of $820 million to $940 million, reflecting continued investments in working capital as net sales are expected to grow.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Cash from operations for the full-year 2026 is expected to be in the range of $820 million to $940 million, reflecting continued investments in working capital as net sales are expected to grow. Capital expenditures for the full year are expected to be approximately $400 milli...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "For the first quarter of 2026, the Company expects net sales to be down low single-digits compared to the same quarter last year, with reported and adjusted operating income expected to be down mid-double digits, primarily attributable to the challenging comparison with the prior year\u2019s robust first quarter 26% increase in adjusted operating income.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "For the first quarter of 2026, the Company expects net sales to be down low single-digits compared to the same quarter last year, with reported and adjusted operating income expected to be down mid-double digits, primarily attributable to the challenging comparison with the pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "Ingredion Inc Incorporated (NYSE:INGR) headquartered in the suburbs of Chicago, is a leading global ingredient solutions provider serving customers in nearly 120 countries.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Ingredion Inc Incorporated (NYSE:INGR) headquartered in the suburbs of Chicago, is a leading global ingredient solutions provider serving customers in nearly 120 countries. With 2025 annual net sales of approximately $7.2 billion, the Company turns grains, fruits, vegetables a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "Actual results and developments may differ materially from the expectations expressed in or implied by these statements, based on various risks and uncertainties, including changes in consumer practices, preferences, demand and perceptions that may lessen demand for the products we make; geopolitical conflicts and actions arising from them, including the impacts on the availability and prices of raw materials and energy supplies, supply chain interruptions, and volatility in foreign exchange and interest rates; the effects of global economic conditions and the general political, economic, business, and market conditions that affect customers and consumers in the various geographic regions and countries in which we buy our raw materials or manufacture or sell our products, and the impact these factors may have on our sales volumes, the pricing of our products and our ability to collect our receivables from customers; our reliance on purchases of our products",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Actual results and developments may differ materially from the expectations expressed in or implied by these statements, based on various risks and uncertainties, including changes in consumer practices, preferences, demand and perceptions that may lessen demand for the produc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "by major industries which we serve and from which we derive a significant portion of our sales, including, without limitation, the food, beverage, animal nutrition and brewing industries; the risks associated with pandemics; our ability to develop or acquire new products and services at rates or of qualities sufficient to gain market acceptance; increased competitive and/or customer pressure in the corn-refining industry and related industries, including with respect to the markets and prices for our primary products and our co-products, particularly corn oil, and the ability to pass through price increases in our key inputs; price fluctuations, supply chain disruptions, tariffs, duties and shortages affecting inputs to our procurement, production processes and delivery channels, including raw materials, energy costs and availability and cost of freight and logistics; our ability to contain costs, achieve budgets and realize expected synergies, including our ability to complete planned maintenance and investment projects on time and on budget as well as to effectively manage freight and shipping costs and hedging activities; operating difficulties at our manufacturing facilities and liabilities relating to product safety and quality; the effects of climate change and legal, regulatory, and market measures to address climate change; our ability to successfully identify and complete acquisitions, divestitures, or strategic alliances on favorable terms, as well as to successfully conduct due diligence, integrate acquired businesses or implement and maintain strategic alliances and achieve anticipated synergies with respect to such transactions; economic, political and other risks inherent in conducting operations in foreign countries and in foreign currencies; the failure to maintain satisfactory labor relations; our ability to attract, develop, motivate, and maintain good relationships with our workforce; the impact of legal and regulatory proceedings, lawsuits, claims and investigations; the impact of any impairment charges on our goodwill or long-lived assets; the impact on our business of political events, trade and international disputes, war, threats or acts of terrorism, and natural disasters; changes in government policy, law, or regulation and costs of legal compliance, including compliance with environmental regulation or the occurrence of other significant events beyond our control; changes in our tax rates or exposure to additional income tax liability; risks affecting our ability to raise funds at reasonable rates and other factors affecting our access to sufficient funds for future growth and expansion; increases in interest rates that could increase our borrowing costs; interruptions, security incidents, or failures with respect to information technology systems, processes, and sites; risks affecting the continuation of our dividend policy; and our ability to maintain effective internal control over financial reporting.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "by major industries which we serve and from which we derive a significant portion of our sales, including, without limitation, the food, beverage, animal nutrition and brewing industries; the risks associated with pandemics; our ability to develop or acquire new products and s...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "other",
+      "claim": "(dollars and shares in millions, except per share data)",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "(dollars and shares in millions, except per share data)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Change % Twelve Months Ended December 31, Change % 2025 2024 2025 2024 (unaudited) (unaudited) (unaudited) Net sales $ 1,757 $ 1,800 (2%) $ 7,219 $ 7,430 (3%) Cost of sales 1,327 1,351 5,391 5,639 Gross profit 430 449 (4%) 1,828 1,791 2% Operating expenses 211 204 3% 815 782 4% Other operating (income), net (9) (6) (24) (1) Restructuring/impairment charges 8 89 21 127 Operating income 220 162 36% 1,016 883 15% Financing costs 9 9 37 39 Net (gain) on sale of business \u2014 \u2014 \u2014 (90) Other non-operating expense 4 1 5 3 Income before income taxes 207 152 36% 974 931 5% Provision for income taxes 40 55 238 277 Net income 167 97 72% 736 654 13% Less: Net income attributable to non-controlling interests 2 2 7 7 Net income attributable to Ingredion Inc $ 165 $ 95 74% $ 729 $ 647 13% Earnings per common share attributable to Ingredion Inc common shareholders: Weighted average common shares outstanding: Basic 63.6 65.2 64.2 65.5 Diluted 64.4 66.5 65.2 66.6 Earnings per common share of Ingredion Inc: Basic $ 2.59 $ 1.46 77% $ 11.36 $ 9.88 15% Diluted $ 2.56 $ 1.43 79% $ 11.18 $ 9.71 15%",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Three Months Ended December 31, Change % Twelve Months Ended December 31, Change % 2025 2024 2025 2024 (unaudited) (unaudited) (unaudited) Net sales $ 1,757 $ 1,800 (2%) $ 7,219 $ 7,430 (3%) Cost of sales 1,327 1,351 5,391 5,639 Gross profit 430 449 (4%) 1,828 1,791 2% Operati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "(dollars and shares in millions, except per share amounts)",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "(dollars and shares in millions, except per share amounts)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "costs_or_expenses",
+      "claim": "As of December 31, 2025 2024 Assets (unaudited) Current assets: Cash and cash equivalents $ 1,030 $ 997 Short-term investments 3 11 Accounts receivable, net 1,185 1,093 Inventories 1,227 1,187 Prepaid expenses and assets held for sale 60 67 Total current assets 3,505 3,355 Property, plant and equipment, net 2,526 2,264 Intangible assets, net 1,269 1,264 Other non-current assets 597 561 Total assets $ 7,897 $ 7,444 Liabilities and stockholders\u2019 equity Current liabilities: Short-term borrowings $ 48 $ 44 Accounts payable, accrued liabilities and liabilities held for sale 1,268 1,237 Total current liabilities 1,316 1,281 Long-term debt 1,742 1,787 Other non-current liabilities 473 486 Total liabilities 3,531 3,554 Share-based payments subject to redemption 64 60 Redeemable non-controlling interests 7 7 Ingredion Inc stockholders\u2019 equity: Preferred stock \u2014 authorized 25.0 shares \u2014 $0.01 par value, none issued \u2014 \u2014 Common stock \u2014 authorized 200.0 shares \u2014 $0.01 par value, 77.8 issued at December 31, 2025 and 2024 1 1 Additional paid-in capital 1,155 1,152 Less: Treasury stock (common stock: 14.8 and 13.3 shares at December 31, 2025 and 2024) at cost (1,555) (1,355) Accumulated other comprehensive loss (937) (1,086) Retained earnings 5,610 5,092 Total Ingredion Inc stockholders\u2019 equity 4,274 3,804 Non-redeemable non-controlling interests 21 19 Total stockholders\u2019 equity 4,295 3,823 Total liabilities and stockholders\u2019 equity $ 7,897 $ 7,444",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "As of December 31, 2025 2024 Assets (unaudited) Current assets: Cash and cash equivalents $ 1,030 $ 997 Short-term investments 3 11 Accounts receivable, net 1,185 1,093 Inventories 1,227 1,187 Prepaid expenses and assets held for sale 60 67 Total current assets 3,505 3,355 Pro...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "earnings_or_eps",
+      "claim": "Year Ended December 31, 2025 2024 Cash from operating activities (unaudited) Net income $ 736 $ 654 Non-cash charges to net income: Depreciation and amortization 222 214 Mechanical stores expense 67 62 Net (gain) on sale of business \u2014 (90) Deferred income taxes 6 (15) Impairment charges 10 109 Margin accounts 2 21 Changes in other trade working capital (75) 396 Other (24) 85 Cash provided by operating activities 944 1,436 Cash from investing activities Capital expenditures and mechanical stores purchases, net (433) (295) Proceeds from sale of business 12 255 Purchases of equity securities, net (20) (4) Other (3) (3) Cash used for investing activities (444) (47) Cash from financing activities Payments on debt, net (44) (18) Commercial paper repayments, net \u2014 (327) Repurchases of common stock, net (224) (216) Common stock activity for share-based compensation, net (12) 46 Purchases of non-controlling interests \u2014 (40) Dividends paid, including to non-controlling interests (211) (210) Cash used for financing activities (491) (765) Effects of foreign exchange rate changes on cash and cash equivalents 25 (28) Increase in cash and cash equivalents 34 596 Cash and cash equivalents, beginning of period 997 401 Cash and cash equivalents, end of period $ 1,031 $ 997",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Year Ended December 31, 2025 2024 Cash from operating activities (unaudited) Net income $ 736 $ 654 Non-cash charges to net income: Depreciation and amortization 222 214 Mechanical stores expense 67 62 Net (gain) on sale of business \u2014 (90) Deferred income taxes 6 (15) Impairme...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "revenue",
+      "claim": "I.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "I. Segment Information of Net Sales and Operating Income",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Change Change Excl.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Three Months Ended December 31, Change Change Excl. FX Twelve Months Ended December 31, Change Change Excl. FX 2025 2024 2025 2024 Net Sales: Texture & Healthful Solutions (i) $ 591 $ 581 2% (1%) $ 2,397 $ 2,366 1% \u2014% Food & Industrial Ingredients\u2013LATAM (ii) 587 584 1% (4%) 2,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "margins",
+      "claim": "Percentages may not recalculate due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Percentages may not recalculate due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "(i) Net of inter-segment sales of $7 million and $9 million for the fourth quarter of 2025 and 2024, and $32 million and $51 million for full-year 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "(i) Net of inter-segment sales of $7 million and $9 million for the fourth quarter of 2025 and 2024, and $32 million and $51 million for full-year 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "(ii) Net of inter-segment sales of $12 million and $14 million for the fourth quarter of 2025 and 2024, and $51 million and $47 million for full-year 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(ii) Net of inter-segment sales of $12 million and $14 million for the fourth quarter of 2025 and 2024, and $51 million and $47 million for full-year 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "(iii) Net of inter-segment sales of $23 million and $19 million for the fourth quarter of 2025 and 2024, and $108 million and $89 million for full-year 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "(iii) Net of inter-segment sales of $23 million and $19 million for the fourth quarter of 2025 and 2024, and $108 million and $89 million for full-year 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "(iv) Net of inter-segment sales of $5 million for both the fourth quarter of 2025 and 2024, and $15 million and $16 million for full-year 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(iv) Net of inter-segment sales of $5 million for both the fourth quarter of 2025 and 2024, and $15 million and $16 million for full-year 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "margins",
+      "claim": "To supplement the consolidated financial results prepared in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "To supplement the consolidated financial results prepared in accordance with U.S. generally accepted accounting principles (\u201cGAAP\u201d), we use non-GAAP historical financial measures, which exclude certain GAAP items such as restructuring and resegmentation costs, net gain on sale...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "margins",
+      "claim": "Management uses non-GAAP financial measures internally for strategic decision making, forecasting future results and evaluating current performance.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Management uses non-GAAP financial measures internally for strategic decision making, forecasting future results and evaluating current performance. By disclosing non-GAAP financial measures, management intends to provide investors with a more meaningful, consistent comparison...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "margins",
+      "claim": "Non-GAAP financial measures are not prepared in accordance with GAAP; so our non-GAAP information is not necessarily comparable to similarly titled measures presented by other companies.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Non-GAAP financial measures are not prepared in accordance with GAAP; so our non-GAAP information is not necessarily comparable to similarly titled measures presented by other companies. A reconciliation of each non-GAAP financial measure to the most comparable GAAP measure is...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of GAAP Net Income attributable to Ingredion Inc and Diluted Earnings Per Share (\u201cEPS\u201d) to",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Reconciliation of GAAP Net Income attributable to Ingredion Inc and Diluted Earnings Per Share (\u201cEPS\u201d) to",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP Adjusted Net Income attributable to Ingredion Inc and Adjusted Diluted EPS",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Non-GAAP Adjusted Net Income attributable to Ingredion Inc and Adjusted Diluted EPS",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, 2025 Twelve Months Ended December 31, 2025 (in millions) Diluted EPS (in millions) Diluted EPS Net income attributable to Ingredion Inc $ 165 $ 2.56 $ 729 $ 11.18 Adjustments: Restructuring and resegmentation costs (i) 5 0.08 11 0.17 Impairment charges (iii) 3 0.05 7 0.11 Other matters (iv) \u2014 \u2014 (7) (0.11) Tax item\u2013Mexico (v) (4) (0.07) (14) (0.22) Other tax matters (vi) (6) (0.09) \u2014 \u2014 Non-GAAP adjusted net income attributable to Ingredion Inc $ 163 $ 2.53 $ 726 $ 11.13",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 Twelve Months Ended December 31, 2025 (in millions) Diluted EPS (in millions) Diluted EPS Net income attributable to Ingredion Inc $ 165 $ 2.56 $ 729 $ 11.18 Adjustments: Restructuring and resegmentation costs (i) 5 0.08 11 0.17 Impairment...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 (in millions) Diluted EPS (in millions) Diluted EPS Net income attributable to Ingredion Inc $ 95 $ 1.43 $ 647 $ 9.71 Adjustments: Restructuring and resegmentation costs (i) 4 0.06 13 0.20 Net (gain) on sale of business (ii) \u2014 \u2014 (86) (1.29) Impairment charges (iii) 81 1.20 109 1.63 Other matters (iv) (2) (0.03) 5 0.07 Tax item\u2013Mexico (v) 6 0.09 18 0.27 Other tax matters (vi) (8) (0.12) 4 0.06 Non-GAAP adjusted net income attributable to Ingredion Inc $ 176 $ 2.63 $ 710 $ 10.65",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 (in millions) Diluted EPS (in millions) Diluted EPS Net income attributable to Ingredion Inc $ 95 $ 1.43 $ 647 $ 9.71 Adjustments: Restructuring and resegmentation costs (i) 4 0.06 13 0.20 Net (gain) on...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "earnings_or_eps",
+      "claim": "Net income and EPS may not sum or recalculate due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Net income and EPS may not sum or recalculate due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "costs_or_expenses",
+      "claim": "(i) During the three and twelve months ended December 31, 2025, we recorded pre-tax restructuring charges of $6 million and $13 million, respectively, primarily related to decommissioning costs for previously announced plant closures and restructuring activities that occurred during the year.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "(i) During the three and twelve months ended December 31, 2025, we recorded pre-tax restructuring charges of $6 million and $13 million, respectively, primarily related to decommissioning costs for previously announced plant closures and restructuring activities that occurred...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "other",
+      "claim": "(ii) During the twelve months ended December 31, 2024, we recorded pre-tax gains of $90 million on the sale of the business in South Korea.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "(ii) During the twelve months ended December 31, 2024, we recorded pre-tax gains of $90 million on the sale of the business in South Korea.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "costs_or_expenses",
+      "claim": "(iii) During the three and twelve months ended December 31, 2025, we recorded $4 million and $10 million of pre-tax impairment charges on our equity investments and equipment due to restructuring activities.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(iii) During the three and twelve months ended December 31, 2025, we recorded $4 million and $10 million of pre-tax impairment charges on our equity investments and equipment due to restructuring activities. During the three months ended December 31, 2024, we recorded pre-tax...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "(iv) During the twelve months ended December 31, 2025, there were pre-tax benefits of $9 million primarily related to insurance recoveries and a favorable judgment related to certain indirect taxes.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "(iv) During the twelve months ended December 31, 2025, there were pre-tax benefits of $9 million primarily related to insurance recoveries and a favorable judgment related to certain indirect taxes. During the twelve months ended December 31, 2024, we recorded a pre-tax net ch...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "(v) We recorded tax provisions of $4 million and $14 million for the three and twelve months ended December 31, 2025 as a result of the movement of the Mexican peso against the U.S.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "(v) We recorded tax provisions of $4 million and $14 million for the three and twelve months ended December 31, 2025 as a result of the movement of the Mexican peso against the U.S. dollar and its impact of the Mexico financial statements.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "(vi) During the three months ended December 31, 2025, we recorded a change in our accrual related to the permanent reinvestment status of a foreign affiliate, a benefit from the reversal of prior year tax contingencies, reversal of recapture of prior year U.S.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "(vi) During the three months ended December 31, 2025, we recorded a change in our accrual related to the permanent reinvestment status of a foreign affiliate, a benefit from the reversal of prior year tax contingencies, reversal of recapture of prior year U.S. tax benefits, ta...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "other",
+      "claim": "During the twelve months ended December 31, 2025, we changed our permanent reinvestment status of a foreign affiliate, U.S.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "During the twelve months ended December 31, 2025, we changed our permanent reinvestment status of a foreign affiliate, U.S. state deferred tax remeasurement, and tax impacts of the above non-GAAP adjustments. These were partially offset by a benefit from our ability to realize...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "margins",
+      "claim": "Reconciliation of GAAP Operating Income to Non-GAAP Adjusted Operating Income",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "Reconciliation of GAAP Operating Income to Non-GAAP Adjusted Operating Income",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "margins",
+      "claim": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Operating income $ 220 $ 162 $ 1,016 $ 883 Adjustments: Restructuring and resegmentation costs (i) 6 6 13 18 Impairment charges (iii) 2 83 8 109 Other matters (iv) \u2014 (3) (9) 6 Non-GAAP adjusted operating income $ 228 $ 248 $ 1,028 $ 1,016",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Operating income $ 220 $ 162 $ 1,016 $ 883 Adjustments: Restructuring and resegmentation costs (i) 6 6 13 18 Impairment charges (iii) 2 83 8 109 Other matters (iv) \u2014 (3) (9) 6 Non-GAAP adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "For notes (i) through (iv), see notes (i) through (iv) included in the Reconciliation of GAAP Net Income attributable to Ingredion Inc and Diluted EPS to Non-GAAP Adjusted Net Income attributable to Ingredion Inc and Adjusted Diluted EPS.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "For notes (i) through (iv), see notes (i) through (iv) included in the Reconciliation of GAAP Net Income attributable to Ingredion Inc and Diluted EPS to Non-GAAP Adjusted Net Income attributable to Ingredion Inc and Adjusted Diluted EPS.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "other",
+      "claim": "Reconciliation of GAAP Effective Income Tax Rate to Non-GAAP Adjusted Effective Income Tax Rate",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Reconciliation of GAAP Effective Income Tax Rate to Non-GAAP Adjusted Effective Income Tax Rate",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended December 31, 2025 Twelve Months Ended December 31, 2025 Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) As Reported $ 207 $ 40 19.3% $ 974 $ 238 24.4% Adjustments: Restructuring and resegmentation costs (i) 6 1 13 2 Impairment charges (iii) 4 1 10 3 Other matters (iv) \u2014 \u2014 (9) (2) Tax item\u2013Mexico (v) \u2014 4 \u2014 14 Other tax matters (vi) \u2014 6 \u2014 \u2014 Adjusted Non-GAAP $ 217 $ 52 24.0% $ 988 $ 255 25.8%",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025 Twelve Months Ended December 31, 2025 Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) As Reported $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) As Reported $ 152 $ 55 36.2% $ 931 $ 277 29.8% Adjustments: Restructuring and resegmentation costs (i) 6 2 18 5 Net (gain) on sale of business (ii) \u2014 \u2014 (90) (4) Impairment charges (iii) 83 2 109 \u2014 Other matters (iv) (3) (1) 6 1 Tax item\u2013Mexico (v) \u2014 (6) \u2014 (18) Other tax matters (vi) \u2014 8 \u2014 (4) Adjusted Non-GAAP $ 238 $ 60 25.2% $ 974 $ 257 26.4%",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024 Twelve Months Ended December 31, 2024 Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) Income before Income Taxes (a) Provision for Income Taxes (b) Effective Income Tax Rate (b/a) As Reported $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "earnings_or_eps",
+      "claim": "For notes (i) through (vi), see notes (i) through (vi) included in the Reconciliation of GAAP Net Income attributable to Ingredion Inc and Diluted EPS to Non-GAAP Adjusted Net Income attributable to Ingredion Inc and Adjusted Diluted EPS.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "For notes (i) through (vi), see notes (i) through (vi) included in the Reconciliation of GAAP Net Income attributable to Ingredion Inc and Diluted EPS to Non-GAAP Adjusted Net Income attributable to Ingredion Inc and Adjusted Diluted EPS.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "guidance",
+      "claim": "Reconciliation of Expected* GAAP Diluted Earnings per Share (\u201cGAAP EPS\u201d)",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "Reconciliation of Expected* GAAP Diluted Earnings per Share (\u201cGAAP EPS\u201d)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "guidance",
+      "claim": "to Expected* Adjusted Diluted Earnings per Share (\u201cAdjusted EPS\u201d)",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "to Expected* Adjusted Diluted Earnings per Share (\u201cAdjusted EPS\u201d)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "guidance",
+      "claim": "Expected EPS Range for Full-Year 2026 Low End of Guidance High End of Guidance GAAP EPS $ 11.00 $ 11.80 Adjustments: Adjusted EPS $ 11.00 $ 11.80",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "Expected EPS Range for Full-Year 2026 Low End of Guidance High End of Guidance GAAP EPS $ 11.00 $ 11.80 Adjustments: Adjusted EPS $ 11.00 $ 11.80",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "guidance",
+      "claim": "Reconciliation of Expected* U.S.",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "Reconciliation of Expected* U.S. GAAP Effective Tax Rate (\u201cGAAP ETR\u201d)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "guidance",
+      "claim": "Expected Effective Tax Rate Range for Full-Year 2026 Low End of Guidance High End of Guidance GAAP ETR 25.5 % 27.0 % Adjustments: Adjusted ETR 25.5 % 27.0 %",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "Expected Effective Tax Rate Range for Full-Year 2026 Low End of Guidance High End of Guidance GAAP ETR 25.5 % 27.0 % Adjustments: Adjusted ETR 25.5 % 27.0 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "guidance",
+      "claim": "* Above are reconciliations of our expected full-year 2026 diluted EPS to our expected full-year 2026 adjusted diluted EPS and our expected full-year 2026 GAAP ETR to our expected full-year 2026 adjusted ETR.",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "* Above are reconciliations of our expected full-year 2026 diluted EPS to our expected full-year 2026 adjusted diluted EPS and our expected full-year 2026 GAAP ETR to our expected full-year 2026 adjusted ETR. The amounts above may not reflect certain future charges, costs and/...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.005313, ret_20d=0.068494, market_ret_20d=0.017916",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.005313, ret_20d=0.068494, market_ret_20d=0.017916",
+      "support_label": "supported"
+    }
+  ]
+}

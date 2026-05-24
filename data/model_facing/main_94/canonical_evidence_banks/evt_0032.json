@@ -1,0 +1,963 @@
+{
+  "event_id": "evt_0032",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "OMNICOM GROUP INC.",
+  "ticker": "OMC",
+  "company_alias": "OMNICOM GROUP INC.",
+  "masked_company": "Company AW",
+  "sector": "Communication Services",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-18",
+  "accepted_at_et": "2026-02-18T16:09:05-05:00",
+  "source_packet_path": "source_packets/evt_0032.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net loss of $0.9 billion; net income of $607.7 million Non-GAAP adjusted",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Net loss of $0.9 billion; net income of $607.7 million Non-GAAP adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted loss per share of $4.02; earnings per share of $2.59 Non-GAAP adjusted",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Diluted loss per share of $4.02; earnings per share of $2.59 Non-GAAP adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "margins",
+      "claim": "\u2022 Operating loss of $1.0 billion ; Non-GAAP Adj.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Operating loss of $1.0 billion ; Non-GAAP Adj. EBITA of $928.9 million with a 16.8% margin",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net loss of $54.5 million; net income of $1.8 billion Non-GAAP adjusted",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Net loss of $54.5 million; net income of $1.8 billion Non-GAAP adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted loss per share of $0.27; earnings per share of $8.65 Non-GAAP adjusted",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Diluted loss per share of $0.27; earnings per share of $8.65 Non-GAAP adjusted",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u2022 Operating income of $444.7 million ; Non-GAAP Adj.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Operating income of $444.7 million ; Non-GAAP Adj. EBITA of $2.7 billion with a 15.6% margin",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "NEW YORK, 2026-02-18T16:09:05-05:00 - OMNICOM GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "NEW YORK, 2026-02-18T16:09:05-05:00 - OMNICOM GROUP INC. (NYSE:OMC) today announced results for the full year and quarter ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "\"Since the successful closing of the Interpublic acquisition on November 26, we made key leadership and brand announcements, refreshed our enterprise growth strategy, and launched the next generation of our Omni data and technology platform,\" said Chairman and Chief Executive Officer of OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\"Since the successful closing of the Interpublic acquisition on November 26, we made key leadership and brand announcements, refreshed our enterprise growth strategy, and launched the next generation of our Omni data and technology platform,\" said Chairman and Chief Executive...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "$ in millions, except per share amounts Three Months Ended December 31, 2025 2024 Revenue $ 5,528.8 $ 4,322.2 Operating Income (Loss) (977.2) 685.3 Operating Income Margin (17.7) % 15.9 % Net Income (Loss) 1 (941.1) 448.0 Net Income (Loss) per Share - Diluted 1 $ (4.02) $ 2.26 Non-GAAP Measures: 1 EBITA $ (924.5) $ 707.6 EBITA Margin (16.7) % 16.4 % Adjusted EBITA 928.9 722.2 Adjusted EBITA Margin 16.8 % 16.7 % Non-GAAP Adjusted Net Income per Share - Diluted $ 2.59 $ 2.41",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "$ in millions, except per share amounts Three Months Ended December 31, 2025 2024 Revenue $ 5,528.8 $ 4,322.2 Operating Income (Loss) (977.2) 685.3 Operating Income Margin (17.7) % 15.9 % Net Income (Loss) 1 (941.1) 448.0 Net Income (Loss) per Share - Diluted 1 $ (4.02) $ 2.26...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "280 Park Avenue, New York, NY 10017.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "280 Park Avenue, New York, NY 10017. Tel 212-415-3672",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Revenue in the fourth quarter of 2025 increased $1.2 billion, or 27.9%, to $5.5 billion as compared to the fourth quarter of 2024, primarily due to constant currency revenue growth and to the inclusion of one month of revenue attributable to The Interpublic Group of Companies, Inc.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Revenue in the fourth quarter of 2025 increased $1.2 billion, or 27.9%, to $5.5 billion as compared to the fourth quarter of 2024, primarily due to constant currency revenue growth and to the inclusion of one month of revenue attributable to The Interpublic Group of Companies,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Revenue contribution by discipline in the fourth quarter of 2025 was as follows: 60.1% for Media & Advertising, 10.3% for Precision Marketing, 9.1% for Public Relations, 7.3% for Healthcare, 6.5% for Experiential, 3.7% for Execution & Support, and 3.0% for Branding & Retail Commerce.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Revenue contribution by discipline in the fourth quarter of 2025 was as follows: 60.1% for Media & Advertising, 10.3% for Precision Marketing, 9.1% for Public Relations, 7.3% for Healthcare, 6.5% for Experiential, 3.7% for Execution & Support, and 3.0% for Branding & Retail Co...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "Revenue contribution by region in the fourth quarter of 2025 was as follows: 51.9% for the United States, 17.6% for Euro Markets & Other Europe, 9.6% for the United Kingdom, 10.7% for Asia Pacific, 3.7% for Latin America, 3.7% for the Middle East & Africa, and 2.8% for Other North America.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Revenue contribution by region in the fourth quarter of 2025 was as follows: 51.9% for the United States, 17.6% for Euro Markets & Other Europe, 9.6% for the United Kingdom, 10.7% for Asia Pacific, 3.7% for Latin America, 3.7% for the Middle East & Africa, and 2.8% for Other N...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "costs_or_expenses",
+      "claim": "Operating expenses increased $2.9 billion to $6.5 billion in the fourth quarter of 2025 compared to the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Operating expenses increased $2.9 billion to $6.5 billion in the fourth quarter of 2025 compared to the fourth quarter of 2024. Included in operating expenses in the fourth quarter of 2025 are $186.7 million of transaction costs related to the acquisition of IPG, $1.1 billion...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Salary and service costs increased $899.8 million, or 28.6%, to $4.0 billion primarily due to the IPG acquisition and constant currency revenue growth.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Salary and service costs increased $899.8 million, or 28.6%, to $4.0 billion primarily due to the IPG acquisition and constant currency revenue growth. These costs tend to fluctuate with changes in revenue and are comprised of salary and related costs, which include employee c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Occupancy and other costs, which are less directly linked to changes in revenue than salary and service costs, increased $83.0 million, or 25.9%, to $403.5 million, primarily due to the inclusion of one month of IPG occupancy costs in the quarter.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Occupancy and other costs, which are less directly linked to changes in revenue than salary and service costs, increased $83.0 million, or 25.9%, to $403.5 million, primarily due to the inclusion of one month of IPG occupancy costs in the quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "costs_or_expenses",
+      "claim": "SG&A expenses increased $181.6 million, or 161.7%, to $293.9 million.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "SG&A expenses increased $181.6 million, or 161.7%, to $293.9 million. Included in SG&A expenses in the fourth quarter of 2025 are $186.7 million of transaction costs related to the acquisition of IPG.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "margins",
+      "claim": "Operating income decreased $1.7 billion, or 242.6%, to a loss of $977.2 million in the fourth quarter of 2025 compared to the fourth quarter of 2024, primarily as a result of IPG acquisition related costs and repositioning costs.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Operating income decreased $1.7 billion, or 242.6%, to a loss of $977.2 million in the fourth quarter of 2025 compared to the fourth quarter of 2024, primarily as a result of IPG acquisition related costs and repositioning costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "costs_or_expenses",
+      "claim": "Net interest expense in the fourth quarter of 2025 increased $15.1 million to $53.2 million compared to the fourth quarter of 2024, primarily due to the IPG acquisition and the related exchange of IPG debt into OMNICOM GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Net interest expense in the fourth quarter of 2025 increased $15.1 million to $53.2 million compared to the fourth quarter of 2024, primarily due to the IPG acquisition and the related exchange of IPG debt into OMNICOM GROUP INC. debt. Interest expense increased $16.3 million...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "Our effective tax rate on the operating loss for the fourth quarter of 2025 was 12.7% compared to 26.4% for the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Our effective tax rate on the operating loss for the fourth quarter of 2025 was 12.7% compared to 26.4% for the fourth quarter of 2024. The effective tax rate for 2025 reflects the impacts of the lower tax benefit associated with severance and repositioning charges and IPG acq...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "Net Income (Loss) \u2013 OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Net Income (Loss) \u2013 OMNICOM GROUP INC.. and Diluted Net Income per Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "earnings_or_eps",
+      "claim": "Net income - OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Net income - OMNICOM GROUP INC.. for the fourth quarter of 2025 decreased $1.4 billion to a loss of $941.1 million compared to the fourth quarter of 2024. Weighted-average diluted shares outstanding for the fourth quarter of 2025 increased 17.8% to 233.8 million from 198.4 mil...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP Adjusted Net Income per Share - Diluted for the fourth quarter of 2025 increased $0.18, or 7.5%, to $2.59 from $2.41.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Non-GAAP Adjusted Net Income per Share - Diluted for the fourth quarter of 2025 increased $0.18, or 7.5%, to $2.59 from $2.41. Non-GAAP Adjusted Net Income per Share - Diluted for the fourth quarters of 2025 and 2024 excluded $39.0 million and $16.5 million, respectively, of a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "margins",
+      "claim": "EBITA decreased $1.6 billion to a loss of $924.5 million in the fourth quarter of 2025 compared to the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "EBITA decreased $1.6 billion to a loss of $924.5 million in the fourth quarter of 2025 compared to the fourth quarter of 2024. Adjusted EBITA increased $206.7 million, or 28.6%, to $928.9 million in the fourth quarter of 2025 compared to the fourth quarter of 2024, and the rel...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "$ in millions, except per share amounts Year Ended December 31, 2025 2024 Revenue $ 17,271.9 $ 15,689.1 Operating Income 444.7 2,274.6 Operating Income Margin 2.6 % 14.5 % Net Income (Loss) 1 (54.5) 1,480.6 Net Income (Loss) per Share - Diluted 1 $ (0.27) $ 7.46 Non-GAAP Measures: 1 EBITA $ 560.5 $ 2,362.1 EBITA Margin 3.2 % 15.1 % Adjusted EBITA 2,701.9 2,434.5 Adjusted EBITA Margin 15.6 % 15.5 % Non-GAAP Adjusted Net Income per Share - Diluted $ 8.65 $ 8.06",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "$ in millions, except per share amounts Year Ended December 31, 2025 2024 Revenue $ 17,271.9 $ 15,689.1 Operating Income 444.7 2,274.6 Operating Income Margin 2.6 % 14.5 % Net Income (Loss) 1 (54.5) 1,480.6 Net Income (Loss) per Share - Diluted 1 $ (0.27) $ 7.46 Non-GAAP Measu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Revenue in 2025 increased $1.6 billion, or 10.1%, to $17.3 billion as compared to 2024, primarily due to constant currency revenue growth.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Revenue in 2025 increased $1.6 billion, or 10.1%, to $17.3 billion as compared to 2024, primarily due to constant currency revenue growth. Our performance also benefited from one month of operations of IPG. The impact of foreign currency translation increased revenue by $124.6...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "Revenue contribution by discipline in 2025 was as follows: 58.0% for Media & Advertising, 11.2% for Precision Marketing, 9.3% for Public Relations, 8.0% for Healthcare, 5.0% for Experiential, 4.9% for Execution & Support, and 3.6% for Branding & Retail Commerce.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Revenue contribution by discipline in 2025 was as follows: 58.0% for Media & Advertising, 11.2% for Precision Marketing, 9.3% for Public Relations, 8.0% for Healthcare, 5.0% for Experiential, 4.9% for Execution & Support, and 3.6% for Branding & Retail Commerce.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "revenue",
+      "claim": "Revenue contribution by region in 2025 was as follows: 52.7% for the United States, 17.4% for Euro Markets & Other Europe, 11.1% for Asia Pacific, 10.5% for the United Kingdom, 3.1% for Latin America, 2.4% for the Middle East & Africa, and 2.8% for Other North America.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Revenue contribution by region in 2025 was as follows: 52.7% for the United States, 17.4% for Euro Markets & Other Europe, 11.1% for Asia Pacific, 10.5% for the United Kingdom, 3.1% for Latin America, 2.4% for the Middle East & Africa, and 2.8% for Other North America.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "costs_or_expenses",
+      "claim": "Operating expenses increased $3.4 billion, or 25.4%, to $16.8 billion in 2025 compared to 2024.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Operating expenses increased $3.4 billion, or 25.4%, to $16.8 billion in 2025 compared to 2024. Included in operating expenses in 2025 are $347.3 million of IPG acquisition-related costs, $1.2 billion of repositioning costs related to the actions we took in the second and four...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Salary and service costs increased $1.2 billion, or 10.6%, to $12.6 billion, primarily due to revenue growth and the inclusion of one month of operations of IPG.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Salary and service costs increased $1.2 billion, or 10.6%, to $12.6 billion, primarily due to revenue growth and the inclusion of one month of operations of IPG. These costs tend to fluctuate with changes in revenue and are comprised of salary and related costs, which include...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Occupancy and other costs, which are less directly linked to changes in revenue than salary and service costs, increased $92.3 million, or 7.2%, to $1.4 billion, primarily due to the effects of including one month of IPG costs.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Occupancy and other costs, which are less directly linked to changes in revenue than salary and service costs, increased $92.3 million, or 7.2%, to $1.4 billion, primarily due to the effects of including one month of IPG costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "costs_or_expenses",
+      "claim": "SG&A expenses increased $337.6 million, to $745.7 million.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "SG&A expenses increased $337.6 million, to $745.7 million. Included in SG&A expenses in 2025 are $347.3 million of transaction costs related to the acquisition of IPG.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "margins",
+      "claim": "Operating income decreased $1.8 billion, to $444.7 million in 2025 compared to 2024 due to IPG acquisition related costs and repositioning costs.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Operating income decreased $1.8 billion, to $444.7 million in 2025 compared to 2024 due to IPG acquisition related costs and repositioning costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "costs_or_expenses",
+      "claim": "Net interest expense in 2025 increased $19.5 million to $166.5 million compared to 2024 primarily due to the IPG acquisition and the related exchange of IPG debt into OMNICOM GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Net interest expense in 2025 increased $19.5 million to $166.5 million compared to 2024 primarily due to the IPG acquisition and the related exchange of IPG debt into OMNICOM GROUP INC. debt. Interest expense increased $15.5 million to $263.4 million. Interest income decreased...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Our effective tax rate for 2025 increased to 87.1% compared to 26.3% for 2024.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Our effective tax rate for 2025 increased to 87.1% compared to 26.3% for 2024. The effective tax rate for 2025 increased primarily due to the lower tax benefit associated with severance and repositioning charges and IPG acquisition related costs, which are not deductible in ce...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Net income - OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Net income - OMNICOM GROUP INC.. for 2025 decreased $1.5 billion to a net loss of $54.5 million compared to 2024. Weighted-average diluted shares outstanding for 2025 increased 3.2% to 204.9 million from 198.6 million, primarily as a result of shares issued for the IPG acquisi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP Adjusted Net Income per Share - Diluted for 2025 increased $0.59, or 7.3%, to $8.65 from $8.06.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Non-GAAP Adjusted Net Income per Share - Diluted for 2025 increased $0.59, or 7.3%, to $8.65 from $8.06. Non-GAAP Adjusted Net Income per Share - Diluted for 2025 and 2024 excluded $85.7 million and $64.7 million, respectively, of after-tax amortization of acquired intangible...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "margins",
+      "claim": "EBITA decreased $1.8 billion, or 76.3%, to $560.5 million in 2025 compared to 2024, and the related margin decreased to 3.2% from 15.1%.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "EBITA decreased $1.8 billion, or 76.3%, to $560.5 million in 2025 compared to 2024, and the related margin decreased to 3.2% from 15.1%. Adjusted EBITA increased $267.4 million, or 11.0%, to $2.7 billion in 2025 compared to 2024, and the related margin increased to 15.6% from...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "risk_or_uncertainty",
+      "claim": "Global economic conditions and disruptions, including geopolitical events, international hostilities, acts of terrorism, public health crises, inflation or stagflation, tariffs and other trade barriers, central bank interest rate policies in countries that comprise our major markets, labor and supply chain issues affecting the distribution of our clients\u2019 products, or a disruption in the credit markets could cause economic uncertainty and volatility.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Global economic conditions and disruptions, including geopolitical events, international hostilities, acts of terrorism, public health crises, inflation or stagflation, tariffs and other trade barriers, central bank interest rate policies in countries that comprise our major m...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "monitor economic conditions and disruptions closely, as well as client revenue levels and other factors.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "monitor economic conditions and disruptions closely, as well as client revenue levels and other factors. In response to reductions in revenue, we can take actions to align our cost structure with changes in client demand and manage our working capital. However, there can be no...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "We use certain terms in describing the components of the change in revenue above.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "We use certain terms in describing the components of the change in revenue above.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "Foreign exchange rate impact : calculated by translating the current period\u2019s local currency revenue using the prior period average exchange rates to derive current period constant currency revenue.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Foreign exchange rate impact : calculated by translating the current period\u2019s local currency revenue using the prior period average exchange rates to derive current period constant currency revenue. The foreign exchange rate impact is the difference between the current period...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "Constant currency growth : represents the change in revenue from the prior year, excluding the effects of foreign currency exchange rate fluctuations.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Constant currency growth : represents the change in revenue from the prior year, excluding the effects of foreign currency exchange rate fluctuations. This measure is calculated by adjusting current-period revenue to eliminate the impact of changes in foreign exchange rates an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "OMNICOM GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "OMNICOM GROUP INC. (NYSE:OMC) is the world's leading marketing and sales company, built for intelligent growth in the next era. Powered by Omni, OMNICOM GROUP INC.'s Connected Capabilities unite the company's world-class agency brands, exceptional talent, and deep domain exper...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "Investors: Gregory Lundberg greg.lundberg@OMNICOM GROUP INC..com Media: Joanne Trout joanne.trout@OMNICOM GROUP INC..com",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Investors: Gregory Lundberg greg.lundberg@OMNICOM GROUP INC..com Media: Joanne Trout joanne.trout@OMNICOM GROUP INC..com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "revenue",
+      "claim": "We present financial measures determined in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d) and adjustments to the GAAP presentation (\u201cNon-GAAP\u201d), which we believe are meaningful for understanding our performance.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "We present financial measures determined in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d) and adjustments to the GAAP presentation (\u201cNon-GAAP\u201d), which we believe are meaningful for understanding our performance. We believe these measure...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "\u2022 risks relating to the completed merger (the \u201cMerger\u201d) between us and The Interpublic Group of Companies, Inc.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "\u2022 risks relating to the completed merger (the \u201cMerger\u201d) between us and The Interpublic Group of Companies, Inc. (IPG), including risks related to the integration of IPG\u2019s business, such as, among others: uncertainties associated with retaining key management and other employee...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 adverse economic conditions, including geopolitical events, international hostilities, acts of terrorism, public health crises, inflation or stagflation, tariffs and other trade barriers, central bank interest rate policies in countries that comprise our major markets, labor and supply chain issues affecting the distribution of our clients\u2019 products, or a disruption in the credit markets;",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "\u2022 adverse economic conditions, including geopolitical events, international hostilities, acts of terrorism, public health crises, inflation or stagflation, tariffs and other trade barriers, central bank interest rate policies in countries that comprise our major markets, labor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "other",
+      "claim": "\u2022 international, national or local economic conditions that could adversely affect us or our clients;",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "\u2022 international, national or local economic conditions that could adversely affect us or our clients;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "\u2022 reductions in client spending, a slowdown in client payments or a deterioration or disruption in the credit markets;",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "\u2022 reductions in client spending, a slowdown in client payments or a deterioration or disruption in the credit markets;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "other",
+      "claim": "\u2022 the ability to attract new clients and retain existing clients in the manner anticipated;",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "\u2022 the ability to attract new clients and retain existing clients in the manner anticipated;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "\u2022 changes in client marketing and communications services requirements;",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "\u2022 changes in client marketing and communications services requirements;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "\u2022 failure to manage potential conflicts of interest between or among clients;",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "\u2022 failure to manage potential conflicts of interest between or among clients;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "\u2022 unanticipated changes related to competitive factors in the marketing and communications services industries;",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "\u2022 unanticipated changes related to competitive factors in the marketing and communications services industries;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "\u2022 unanticipated changes to, or an inability to hire and retain, key personnel;",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "\u2022 unanticipated changes to, or an inability to hire and retain, key personnel;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "\u2022 reliance on information technology systems and risks related to cybersecurity incidents;",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "\u2022 reliance on information technology systems and risks related to cybersecurity incidents;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 effective management of the risks, challenges and efficiencies presented by utilizing artificial intelligence, or AI, technologies and related partnerships in our business, and their use by our competitors;",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "\u2022 effective management of the risks, challenges and efficiencies presented by utilizing artificial intelligence, or AI, technologies and related partnerships in our business, and their use by our competitors;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 our liquidity, long-term financing needs, credit ratings and access to capital markets;",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "\u2022 our liquidity, long-term financing needs, credit ratings and access to capital markets;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "other",
+      "claim": "\u2022 changes in legislation or governmental regulations affecting us or our clients;",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "\u2022 changes in legislation or governmental regulations affecting us or our clients;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "\u2022 losses on media purchases and production costs incurred on behalf of clients;",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "\u2022 losses on media purchases and production costs incurred on behalf of clients;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "\u2022 risks associated with assumptions we make in connection with our acquisitions, critical accounting estimates and legal proceedings;",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "\u2022 risks associated with assumptions we make in connection with our acquisitions, critical accounting estimates and legal proceedings;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "\u2022 our international operations, which are subject to the risks of currency repatriation restrictions, social or political conditions and an evolving regulatory environment in high-growth markets and developing countries;",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "\u2022 our international operations, which are subject to the risks of currency repatriation restrictions, social or political conditions and an evolving regulatory environment in high-growth markets and developing countries;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "\u2022 risks related to our environmental, social and governance goals and initiatives, including impacts from regulators and other stakeholders, and the impact of factors outside of our control on such goals and initiatives;",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "\u2022 risks related to our environmental, social and governance goals and initiatives, including impacts from regulators and other stakeholders, and the impact of factors outside of our control on such goals and initiatives;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "other",
+      "claim": "\u2022 changes in tax rates, tax laws, regulations or interpretations, or adverse outcomes of tax audits or proceedings; and",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "\u2022 changes in tax rates, tax laws, regulations or interpretations, or adverse outcomes of tax audits or proceedings; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 other business, financial, operational and legal risks and uncertainties detailed from time to time in our filings with the Securities and Exchange Commission (SEC).",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "\u2022 other business, financial, operational and legal risks and uncertainties detailed from time to time in our filings with the Securities and Exchange Commission (SEC).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Operating Expenses: Salary and service costs 4,043.6 3,143.8 12,644.0 11,432.5 Occupancy and other costs 403.5 320.5 1,366.7 1,274.4 Severance and repositioning costs 1 1,123.3 \u2014 1,247.0 57.8 Loss on disposition of subsidiaries 1 543.4 \u2014 547.1 \u2014 Cost of services 6,113.8 3,464.3 15,804.8 12,764.7 Selling, general and administrative expenses 1 293.9 112.3 745.7 408.1 Depreciation and amortization 98.3 60.3 276.7 241.7 Total Operating Expenses 1 6,506.0 3,636.9 16,827.2 13,414.5 Operating Income (Loss) (977.2) 685.3 444.7 2,274.6 Interest Expense 81.3 65.0 263.4 247.9 Interest Income 28.1 26.9 96.9 100.9 Income (Loss) Before Income Taxes and Income From Equity Method Investments (1,030.4) 647.2 278.2 2,127.6 Income Tax Expense (Benefit) 1 (131.3) 170.6 242.2 560.5 Income From Equity Method Investments 1.2 2.3 7.7 6.9 Net Income (Loss) 1 (897.9) 478.9 43.7 1,574.0 Net Income Attributed To Noncontrolling Interests 43.2 30.9 98.2 93.4 Net Income (Loss) - OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Operating Expenses: Salary and service costs 4,043.6 3,143.8 12,644.0 11,432.5 Occupancy and other costs 403.5 320.5 1,366.7 1,274.4 Severance and repositioning cost...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "2) See Note 4 on page 13 for the definition of EBITA.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "2) See Note 4 on page 13 for the definition of EBITA.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "earnings_or_eps",
+      "claim": "3) Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2025 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets, after-tax severance and repositioning costs, after-tax loss on disposition of subsidiaries and after-tax acquisition related costs.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "3) Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2025 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets, after-tax severance and repositioning costs, after-tax loss on dis...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "other",
+      "claim": "4) See Non-GAAP reconciliations starting on page 11 .",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "4) See Non-GAAP reconciliations starting on page 11 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Operating Expenses: Salary and service costs: Salary and related costs 2,391.1 1,910.3 7,777.9 7,441.4 Third-party service costs 1 1,442.9 1,054.8 4,113.7 3,348.6 Third-party incidental costs 2 209.6 178.7 752.4 642.5 Total salary and service costs 4,043.6 3,143.8 12,644.0 11,432.5 Occupancy and other costs 403.5 320.5 1,366.7 1,274.4 Severance and repositioning costs 3 1,123.3 \u2014 1,247.0 57.8 Loss on disposition of subsidiaries 3 543.4 \u2014 547.1 \u2014 Cost of services 6,113.8 3,464.3 15,804.8 12,764.7 Selling, general and administrative expenses 3 293.9 112.3 745.7 408.1 Depreciation and amortization 98.3 60.3 276.7 241.7 Total operating expenses 3 6,506.0 3,636.9 16,827.2 13,414.5 Operating Income (Loss) $ (977.2) $ 685.3 $ 444.7 $ 2,274.6",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Operating Expenses: Salary and service costs: Salary and related costs 2,391.1 1,910.3 7,777.9 7,441.4 Third-party service costs 1 1,442.9 1,054.8 4,113.7 3,348.6 Th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "other",
+      "claim": "1) Third-party service costs include third-party supplier costs when we act as principal in providing services to our clients.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "1) Third-party service costs include third-party supplier costs when we act as principal in providing services to our clients.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "revenue",
+      "claim": "2) Third-party incidental costs primarily consist of client-related travel and incidental out-of-pocket costs, which we bill back to the client directly at our cost and which we are required to include in revenue.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "2) Third-party incidental costs primarily consist of client-related travel and incidental out-of-pocket costs, which we bill back to the client directly at our cost and which we are required to include in revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Net Income (Loss) - OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Net Income (Loss) - OMNICOM GROUP INC.. $ (941.1) $ 448.0 $ (54.5) $ 1,480.6 Net Income Attributed To Noncontrolling Interests 43.2 30.9 98.2 93.4 Net Income (Loss) (897.9) 478.9 43.7 1,574.0 Income From Equity Meth...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "1) See Note 4 on page 13 for the definition of EBITA.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "1) See Note 4 on page 13 for the definition of EBITA.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "earnings_or_eps",
+      "claim": "The above table reconciles the Non-GAAP financial measures of EBITDA, EBITA, EBITA - Adjusted, EBITA Margin and EBITA Margin- Adjusted to the GAAP financial measure of Net Income- OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "The above table reconciles the Non-GAAP financial measures of EBITDA, EBITA, EBITA - Adjusted, EBITA Margin and EBITA Margin- Adjusted to the GAAP financial measure of Net Income- OMNICOM GROUP INC.. We use EBITA and EBITA Margin as additional operating performance measures, w...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31, Reported 2025 Non-GAAP Adj.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "Three Months Ended December 31, Reported 2025 Non-GAAP Adj. (1) Non-GAAP 2025 Adj. Reported 2024 Non-GAAP Adj. (1) Non-GAAP 2024 Adj. Revenue $ 5,528.8 $ \u2014 $ 5,528.8 $ 4,322.2 $ \u2014 $ 4,322.2 Operating Expenses 1 6,506.0 (1,853.4) 4,652.6 3,636.9 (14.6) 3,622.3 Operating Income...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "revenue",
+      "claim": "Full Year Reported 2025 Non-GAAP Adj.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Full Year Reported 2025 Non-GAAP Adj. (1) Non-GAAP 2025 Adj. Reported 2024 Non-GAAP Adj. (1) Non-GAAP 2024 Adj. Revenue $17,271.9 $ \u2014 $ 17,271.9 $ 15,689.1 $ \u2014 $ 15,689.1 Operating Expenses 1 16,827.2 (2,141.4) 14,685.8 13,414.5 (72.4) 13,342.1 Operating Income 444.7 2,141.4 2...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income (Loss) - OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income (Loss) - OMNICOM GROUP INC.. - Reported...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "earnings_or_eps",
+      "claim": "2) Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2025 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets, after-tax severance and repositioning costs, after-tax loss on disposition of subsidiaries and after-tax acquisition related costs.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "2) Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2025 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets, after-tax severance and repositioning costs, after-tax loss on dis...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "3) Weighted-average diluted shares for the three months ended December 31, 2025 and 2024 were 233.8 million and 198.4 million, respectively.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "3) Weighted-average diluted shares for the three months ended December 31, 2025 and 2024 were 233.8 million and 198.4 million, respectively. Weighted-average diluted shares for the year ended December 31, 2025 and 2024 were 204.9 million and 198.6 million, respectively. The ab...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "earnings_or_eps",
+      "claim": "1) Net Income and Net Income per Share for OMNICOM GROUP INC..",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "1) Net Income and Net Income per Share for OMNICOM GROUP INC..",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "other",
+      "claim": "2) See non-GAAP reconciliations starting on page 11 .",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "2) See non-GAAP reconciliations starting on page 11 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "earnings_or_eps",
+      "claim": "3) In 2025, operating expenses included $1.2 billion ($984.5 million after-tax) related to severance, real estate repositioning, contract cancellations and other costs, and $547.1 million ($447.5 million after-tax) of loss on dispositions of certain businesses in connection with the Merger as well as efficiency initiatives taken in the second quarter of 2025, primarily within OMNICOM GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "3) In 2025, operating expenses included $1.2 billion ($984.5 million after-tax) related to severance, real estate repositioning, contract cancellations and other costs, and $547.1 million ($447.5 million after-tax) of loss on dispositions of certain businesses in connection wi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "earnings_or_eps",
+      "claim": "In 2024, operating expenses included $57.8 million ($42.9 million after-tax) of repositioning costs, primarily related to severance, recorded in the second quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "In 2024, operating expenses included $57.8 million ($42.9 million after-tax) of repositioning costs, primarily related to severance, recorded in the second quarter of 2024. Included in selling, general and administrative expenses in the fourth quarter of 2024 are acquisition r...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "other",
+      "claim": "4) We define EBITA as earnings before interest, taxes and amortization of acquired intangible assets and internally developed strategic platform assets.",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "4) We define EBITA as earnings before interest, taxes and amortization of acquired intangible assets and internally developed strategic platform assets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.039693, ret_20d=-0.100859, market_ret_20d=0.012855",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.039693, ret_20d=-0.100859, market_ret_20d=0.012855",
+      "support_label": "supported"
+    }
+  ]
+}

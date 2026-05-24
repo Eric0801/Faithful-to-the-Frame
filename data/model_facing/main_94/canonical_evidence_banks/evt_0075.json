@@ -1,0 +1,886 @@
+{
+  "event_id": "evt_0075",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "MERIT MEDICAL SYSTEMS INC",
+  "ticker": "MMSI",
+  "company_alias": "MERIT MEDICAL SYSTEMS INC",
+  "masked_company": "Company BY",
+  "sector": "Health Care",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2024 Q4",
+  "event_date": "2026-02-24",
+  "accepted_at_et": "2026-02-24T16:14:23-05:00",
+  "source_packet_path": "source_packets/evt_0075.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b Contacts: \u200b \u200b \u200b \u200b PR/Media Inquiries: Sarah Comstock MERIT MEDICAL SYSTEMS INC Medical Investor Inquiries: Mike Piccinino, CFA, IRC ICR Healthcare \u200b \u200b +1-801-432-2864 +1-443-213-0509 \u200b \u200b sarah.comstock@MERIT MEDICAL SYSTEMS INC.com mike.piccinino@icrhealthcare.com \u200b \u200b \u200b \u200b \u200b",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b Contacts: \u200b \u200b \u200b \u200b PR/Media Inquiries: Sarah Comstock MERIT MEDICAL SYSTEMS INC Medical Investor Inquiries: Mike Piccinino, CFA, IRC ICR Healthcare \u200b \u200b +1-801-432-2864 +1-443-213-0509 \u200b \u200b sarah.comstock@MERIT MEDICAL SYSTEMS INC.com mike.piccinino@icrhealthcare.co...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "MERIT MEDICAL SYSTEMS INC MEDICAL REPORTS FOURTH QUARTER AND FULL YEAR 2025 RESULTS AND ISSUES FISCAL YEAR 2026 GUIDANCE",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC MEDICAL REPORTS FOURTH QUARTER AND FULL YEAR 2025 RESULTS AND ISSUES FISCAL YEAR 2026 GUIDANCE",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "Reported revenue of $393.9 million, up 11%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Reported revenue of $393.9 million, up 11%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "Constant currency revenue* and constant currency revenue, organic* up 10% and up 7%, respectively",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Constant currency revenue* and constant currency revenue, organic* up 10% and up 7%, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "margins",
+      "claim": "GAAP operating margin of 13.8%, compared to 10.3% in prior year period",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "GAAP operating margin of 13.8%, compared to 10.3% in prior year period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "Non-GAAP operating margin* of 21.0%, compared to 19.6% in prior year period",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Non-GAAP operating margin* of 21.0%, compared to 19.6% in prior year period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "balance_sheet_or_cash",
+      "claim": "Free cash flow* generation of $74.0 million, up 13%",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Free cash flow* generation of $74.0 million, up 13%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "Reported revenue of $1.516 billion, up 12%",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Reported revenue of $1.516 billion, up 12%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Constant currency revenue* and constant currency revenue, organic* up 11% and up 7%, respectively",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Constant currency revenue* and constant currency revenue, organic* up 11% and up 7%, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "margins",
+      "claim": "GAAP operating margin of 12.2%, compared to 11.5% in prior year",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "GAAP operating margin of 12.2%, compared to 11.5% in prior year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "margins",
+      "claim": "Non-GAAP operating margin* of 20.3%, compared to 19.0% in prior year",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Non-GAAP operating margin* of 20.3%, compared to 19.0% in prior year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "balance_sheet_or_cash",
+      "claim": "Free cash flow* generation of $215.7 million, up 16%",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Free cash flow* generation of $215.7 million, up 16%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "Total revenue of $1.610 billion to $1.630 billion, up 6% - 8% year-over-year on a reported basis and up 5% - 7% year-over-year on a constant currency* basis.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Total revenue of $1.610 billion to $1.630 billion, up 6% - 8% year-over-year on a reported basis and up 5% - 7% year-over-year on a constant currency* basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "Non-GAAP EPS of $4.01 to $4.15, up 5% \u2013 8% year-over-year.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Non-GAAP EPS of $4.01 to $4.15, up 5% \u2013 8% year-over-year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "\u2020 Comparisons above are calculated for the current quarter compared with the fourth quarter of 2024 or for the current year compared with fiscal year 2024, as applicable, unless otherwise specified.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2020 Comparisons above are calculated for the current quarter compared with the fourth quarter of 2024 or for the current year compared with fiscal year 2024, as applicable, unless otherwise specified. Amounts stated in this release are rounded, while percentages are calculated f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "* Constant currency revenue; constant currency revenue, organic; non-GAAP gross profit and margin; non-GAAP operating income and margin; non-GAAP net income; non-GAAP EPS; and free cash flow figures (used here and below) are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "* Constant currency revenue; constant currency revenue, organic; non-GAAP gross profit and margin; non-GAAP operating income and margin; non-GAAP net income; non-GAAP EPS; and free cash flow figures (used here and below) are non-GAAP financial measures. A reconciliation of the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "SOUTH JORDAN, Utah, 2026-02-24T16:14:23-05:00 -- MERIT MEDICAL SYSTEMS INC.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "SOUTH JORDAN, Utah, 2026-02-24T16:14:23-05:00 -- MERIT MEDICAL SYSTEMS INC. (NASDAQ:MMSI), a leading global manufacturer and marketer of healthcare technology, today announced financial results for the three and twelve-month periods ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "\u201cMERIT MEDICAL SYSTEMS INC delivered better-than-expected revenue and financial results in the fourth quarter,\u201d said Martha G.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u201cMERIT MEDICAL SYSTEMS INC delivered better-than-expected revenue and financial results in the fourth quarter,\u201d said Martha G. Aronson, MERIT MEDICAL SYSTEMS INC\u2019s President and CEO. \u201cOur fourth quarter capped off an impressive year of operating and financial performance in 20...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "MERIT MEDICAL SYSTEMS INC\u2019s revenue by operating segment and product category for the three and twelve-month periods ended December 31, 2025 and 2024 was as follows (unaudited; in thousands, except for percentages):",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC\u2019s revenue by operating segment and product category for the three and twelve-month periods ended December 31, 2025 and 2024 was as follows (unaudited; in thousands, except for percentages):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b Reported \u200b \u200b \u200b \u200b Constant Currency* \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b Impact of foreign \u200b December 31, \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 (1) \u200b % Change \u200b exchange \u200b 2025 \u200b % Change Cardiovascular \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Peripheral Intervention $ 154,933 \u200b $ 135,235 \u200b 15 % \u200b $ (1,635) \u200b $ 153,298 \u200b 13 % Cardiac Intervention 117,240 \u200b 95,228 \u200b 23 % \u200b \u200b (1,883) \u200b \u200b 115,357 \u200b 21 % Custom Procedural Solutions 53,621 \u200b 50,923 \u200b 5 % \u200b \u200b (562) \u200b \u200b 53,059 \u200b 4 % OEM 48,085 \u200b 56,314 \u200b (15) % \u200b \u200b (300) \u200b \u200b 47,785 \u200b (15) % Total 373,879 \u200b 337,700 \u200b 11 % \u200b \u200b (4,380) \u200b \u200b 369,499 \u200b 9 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Endoscopy \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Endoscopy Devices 20,057 \u200b 17,458 \u200b 15 % \u200b \u200b (15) \u200b \u200b 20,042 \u200b 15 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Total $ 393,936 \u200b $ 355,158 \u200b 11 % \u200b $ (4,395) \u200b $ 389,541 \u200b 10 %",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b Reported \u200b \u200b \u200b \u200b Constant Currency* \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b Impact of foreign \u200b December 31, \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 (1) \u200b % Change \u200b exchange \u200b 2025 \u200b % Change Cardiovascular \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b Reported \u200b \u200b \u200b \u200b Constant Currency * \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b Impact of foreign \u200b December 31, \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 (1) \u200b % Change \u200b exchange \u200b 2025 \u200b % Change Cardiovascular \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Peripheral Intervention $ 579,840 \u200b $ 532,770 \u200b 9 % \u200b $ (1,191) \u200b $ 578,649 \u200b 9 % Cardiac Intervention 448,914 \u200b 368,951 \u200b 22 % \u200b \u200b (2,213) \u200b \u200b 446,701 \u200b 21 % Custom Procedural Solutions 209,333 \u200b 200,033 \u200b 5 % \u200b \u200b (1,228) \u200b \u200b 208,105 \u200b 4 % OEM 204,955 \u200b 199,990 \u200b 2 % \u200b \u200b (521) \u200b \u200b 204,434 \u200b 2 % Total 1,443,042 \u200b 1,301,744 \u200b 11 % \u200b \u200b (5,153) \u200b \u200b 1,437,889 \u200b 10 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Endoscopy \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Endoscopy Devices 72,864 \u200b 54,770 \u200b 33 % \u200b \u200b (20) \u200b \u200b 72,844 \u200b 33 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Total $ 1,515,906 \u200b $ 1,356,514 \u200b 12 % \u200b $ (5,173) \u200b $ 1,510,733 \u200b 11 %",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b Reported \u200b \u200b \u200b \u200b Constant Currency * \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b Impact of foreign \u200b December 31, \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 (1) \u200b % Change \u200b exchange \u200b 2025 \u200b % Change Cardiovascular \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Commencing January 1, 2025, MERIT MEDICAL SYSTEMS INC reorganized its sales teams and product categories to include revenues from the sale of its spine devices under its OEM product category.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Commencing January 1, 2025, MERIT MEDICAL SYSTEMS INC reorganized its sales teams and product categories to include revenues from the sale of its spine devices under its OEM product category. Revenue figures for 2024 have been recast to reflect this realignment of its portfoli...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "margins",
+      "claim": "GAAP gross margin was 49.6%, compared to 48.7% for the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "GAAP gross margin was 49.6%, compared to 48.7% for the fourth quarter of 2024. Non-GAAP gross margin* was 54.5%, compared to 53.5% for the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "margins",
+      "claim": "GAAP operating margin was 13.8%, compared to 10.3% for the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "GAAP operating margin was 13.8%, compared to 10.3% for the fourth quarter of 2024. Non-GAAP operating margin* was 21.0%, compared to 19.6% for the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "earnings_or_eps",
+      "claim": "GAAP net income was $38.0 million, or $0.63 per share, compared to $27.9 million, or $0.46 per share, for the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "GAAP net income was $38.0 million, or $0.63 per share, compared to $27.9 million, or $0.46 per share, for the fourth quarter of 2024. Non-GAAP net income* was $62.5 million, or $1.04 per share, compared to $56.3 million, or $0.93 per share, for the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "margins",
+      "claim": "GAAP gross margin was 48.7%, compared to 47.4% for fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "GAAP gross margin was 48.7%, compared to 47.4% for fiscal year 2024. Non-GAAP gross margin* was 53.7%, compared to 51.7% for fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "margins",
+      "claim": "GAAP operating margin was 12.2%, compared to 11.5% for fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "GAAP operating margin was 12.2%, compared to 11.5% for fiscal year 2024. Non-GAAP operating margin* was 20.3%, compared to 19.0% for fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "GAAP net income was $128.5 million, or $2.13 per share, compared to $120.4 million, or $2.03 per share, for fiscal year 2024.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "GAAP net income was $128.5 million, or $2.13 per share, compared to $120.4 million, or $2.03 per share, for fiscal year 2024. Non-GAAP net income* was $231.4 million, or $3.83 per share, compared to $205.4 million, or $3.46 per share, for fiscal year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "balance_sheet_or_cash",
+      "claim": "As of December 31, 2025, MERIT MEDICAL SYSTEMS INC had cash and cash equivalents of $446.4 million and total debt obligations of $747.5 million, compared to cash and cash equivalents of $376.7 million and total debt obligations of $747.5 million as of December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "As of December 31, 2025, MERIT MEDICAL SYSTEMS INC had cash and cash equivalents of $446.4 million and total debt obligations of $747.5 million, compared to cash and cash equivalents of $376.7 million and total debt obligations of $747.5 million as of December 31, 2024. MERIT...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "Based upon the information currently available to MERIT MEDICAL SYSTEMS INC\u2019s management, for the twelve-months ending December 31, 2026, absent the potential impact of trade policies and related actions implemented by the U.S.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Based upon the information currently available to MERIT MEDICAL SYSTEMS INC\u2019s management, for the twelve-months ending December 31, 2026, absent the potential impact of trade policies and related actions implemented by the U.S. and other countries subsequent to today\u2019s date, m...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended Year Ending % Change Financial Measure \u200b December 31, 2025 December 31, 2026 Y/Y Total Revenue \u200b $1.516 billion $1.610 - $1.630 billion 6% - 8% \u200b \u200b \u200b \u200b \u200b Non-GAAP Earnings Per Share (1) \u200b $3.83 $4.01 - $4.15 5% - 8%",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended Year Ending % Change Financial Measure \u200b December 31, 2025 December 31, 2026 Y/Y Total Revenue \u200b $1.516 billion $1.610 - $1.630 billion 6% - 8% \u200b \u200b \u200b \u200b \u200b Non-GAAP Earnings Per Share (1) \u200b $3.83 $4.01 - $4.15 5% - 8%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "*Percentage figures approximated; dollar figures may not foot due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "*Percentage figures approximated; dollar figures may not foot due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "(1) MERIT MEDICAL SYSTEMS INC\u2019s non-GAAP earnings per share reflect the dilutive impact of its 3.00% Convertible Senior Notes due 2029 (the \u201cConvertible Notes\u201d) calculated using the if-converted method of approximately $0.07 per share for the year ending December 31, 2026.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "(1) MERIT MEDICAL SYSTEMS INC\u2019s non-GAAP earnings per share reflect the dilutive impact of its 3.00% Convertible Senior Notes due 2029 (the \u201cConvertible Notes\u201d) calculated using the if-converted method of approximately $0.07 per share for the year ending December 31, 2026. Any...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "MERIT MEDICAL SYSTEMS INC does not provide guidance for GAAP reported financial measures (other than revenue) or a reconciliation of forward-looking non-GAAP financial measures to the most directly comparable GAAP reported financial measures (other than revenue) because MERIT MEDICAL SYSTEMS INC is unable to predict with reasonable certainty the financial impact of various items which could impact MERIT MEDICAL SYSTEMS INC\u2019s future financial results, such as expenses attributable to acquisitions or other extraordinary transactions, non-cash expenses related to amortization or write-off of previously acquired tangible and intangible assets, certain employee termination benefits, performance-based stock compensation expenses, expenses resulting from non-ordinary course litigation or administrative proceedings and resulting settlements, governmental proceedings, and changes in governmental or industry regulations.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC does not provide guidance for GAAP reported financial measures (other than revenue) or a reconciliation of forward-looking non-GAAP financial measures to the most directly comparable GAAP reported financial measures (other than revenue) because MERIT...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "guidance",
+      "claim": "MERIT MEDICAL SYSTEMS INC\u2019s financial guidance for the year ending December 31, 2026 is subject to risks and uncertainties identified in this release and MERIT MEDICAL SYSTEMS INC\u2019s filings with the U.S.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC\u2019s financial guidance for the year ending December 31, 2026 is subject to risks and uncertainties identified in this release and MERIT MEDICAL SYSTEMS INC\u2019s filings with the U.S. Securities and Exchange Commission (the \u201cSEC\u201d). This guidance is based on...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "costs_or_expenses",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2025 \u200b December 31, \u200b \u200b (Unaudited) \u200b 2024 ASSETS \u200b \u200b \u200b \u200b Current Assets \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 446,404 \u200b $ 376,715 Trade receivables, net \u200b 203,710 \u200b 190,243 Other receivables \u200b 17,773 \u200b 16,588 Inventories \u200b 333,705 \u200b 306,063 Prepaid expenses and other assets \u200b 31,493 \u200b 28,544 Prepaid income taxes \u200b 4,941 \u200b 3,286 Income tax refund receivables \u200b 2,128 \u200b 2,335 Total current assets \u200b 1,040,154 \u200b 923,774 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Property and equipment, net \u200b 428,401 \u200b 386,165 Intangible assets, net \u200b 537,654 \u200b 498,265 Goodwill \u200b 506,837 \u200b 463,511 Deferred income tax assets \u200b 7,049 \u200b 16,044 Operating lease right-of-use assets \u200b 87,600 \u200b 65,508 Other assets \u200b 78,227 \u200b 65,336 Total Assets \u200b $ 2,685,922 \u200b $ 2,418,603 \u200b \u200b \u200b \u200b \u200b \u200b \u200b LIABILITIES AND STOCKHOLDERS' EQUITY \u200b \u200b \u200b \u200b Current Liabilities \u200b \u200b \u200b \u200b Trade payables \u200b $ 60,551 \u200b $ 68,502 Accrued expenses \u200b 159,486 \u200b 134,077 Current operating lease liabilities \u200b 10,876 \u200b 10,331 Income taxes payable \u200b 8,851 \u200b 3,492 Total current liabilities \u200b 239,764 \u200b 216,402 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Long-term debt \u200b 734,038 \u200b 729,551 Deferred income tax liabilities \u200b 19,665 \u200b 240 Liabilities related to unrecognized tax benefits \u200b 2,248 \u200b 2,118 Deferred compensation payable \u200b 17,542 \u200b 19,197 Deferred credits \u200b 1,398 \u200b 1,502 Long-term operating lease liabilities \u200b 76,658 \u200b 54,783 Other long-term obligations \u200b 10,306 \u200b 15,451 Total liabilities \u200b 1,101,619 \u200b 1,039,244 \u200b \u200b \u200b \u200b \u200b \u200b \u200b Stockholders' Equity \u200b \u200b \u200b \u200b Common stock \u200b 763,909 \u200b 703,219 Retained earnings \u200b 824,030 \u200b 695,541 Accumulated other comprehensive loss \u200b (3,636) \u200b (19,401) Total stockholders' equity \u200b 1,584,303 \u200b 1,379,359 Total Liabilities and Stockholders' Equity \u200b $ 2,685,922 \u200b $ 2,418,603",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b \u200b \u200b \u200b 2025 \u200b December 31, \u200b \u200b (Unaudited) \u200b 2024 ASSETS \u200b \u200b \u200b \u200b Current Assets \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b $ 446,404 \u200b $ 376,715 Trade receivables, net \u200b 203,710 \u200b 190,243 Other receivables \u200b 17,773 \u200b 16,588 Inventories \u200b 333,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 Net sales \u200b $ 393,936 \u200b $ 355,158 \u200b $ 1,515,906 \u200b $ 1,356,514 Cost of sales \u200b 198,584 \u200b 182,175 \u200b 777,636 \u200b 713,181 Gross profit \u200b 195,352 \u200b 172,983 \u200b 738,270 \u200b 643,333 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Operating expenses: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Selling, general and administrative \u200b 114,830 \u200b 111,074 \u200b 455,214 \u200b 399,731 Research and development \u200b 26,541 \u200b 25,194 \u200b 97,352 \u200b 87,466 Contingent consideration (benefit) expense \u200b (214) \u200b 151 \u200b 984 \u200b 443 Total operating expenses \u200b 141,157 \u200b 136,419 \u200b 553,550 \u200b 487,640 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income from operations \u200b 54,195 \u200b 36,564 \u200b 184,720 \u200b 155,693 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Other income (expense): \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Interest income \u200b 3,904 \u200b 4,741 \u200b 15,070 \u200b 26,230 Interest expense \u200b (6,364) \u200b (7,993) \u200b (26,461) \u200b (31,219) Other expense \u2014 net \u200b (675) \u200b (167) \u200b (2,392) \u200b (711) Total other expense \u2014 net \u200b (3,135) \u200b (3,419) \u200b (13,783) \u200b (5,700) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income before income taxes \u200b 51,060 \u200b 33,145 \u200b 170,937 \u200b 149,993 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Income tax expense \u200b 13,054 \u200b 5,198 \u200b 42,448 \u200b 29,636 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Net income \u200b $ 38,006 \u200b $ 27,947 \u200b $ 128,489 \u200b $ 120,357 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Earnings per common share \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic \u200b $ 0.64 \u200b $ 0.48 \u200b $ 2.17 \u200b $ 2.07 Diluted \u200b $ 0.63 \u200b $ 0.46 \u200b $ 2.13 \u200b $ 2.03 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Weighted average shares outstanding \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Basic \u200b 59,343 \u200b 58,541 \u200b 59,158 \u200b 58,218 Diluted \u200b 60,026 \u200b 60,613 \u200b 60,460 \u200b 59,365",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 Net sales \u200b $ 393,936 \u200b $ 355,158 \u200b $ 1,515,906 \u200b $ 1,356,514 Cost of sales \u200b 198,584 \u200b 182,175 \u200b 777,636 \u200b 713,181 Gross profit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 CASH FLOWS FROM OPERATING ACTIVITIES: \u200b \u200b \u200b Net income \u200b $ 128,489 \u200b $ 120,357 Adjustments to reconcile net income to net cash provided by operating activities: \u200b \u200b \u200b \u200b Depreciation and amortization \u200b 123,168 \u200b 102,709 Gain on disposition of a business \u200b \u200b (249) \u200b \u2014 Write-off of certain intangible assets and other long-term assets \u200b 313 \u200b 456 Amortization of right-of-use operating lease assets \u200b \u200b 11,481 \u200b 12,023 Fair value adjustments related to contingent consideration liabilities \u200b \u200b 984 \u200b 443 Deferred income taxes \u200b \u200b 5,214 \u200b \u200b (14,873) Stock-based compensation expense \u200b 43,460 \u200b 28,473 Other adjustments \u200b \u200b 7,855 \u200b \u200b 8,156 Changes in operating assets and liabilities, net of acquisitions \u200b (23,344) \u200b (36,945) Total adjustments \u200b 168,882 \u200b 100,442 Net cash, cash equivalents, and restricted cash provided by operating activities \u200b 297,371 \u200b 220,799 \u200b \u200b \u200b \u200b \u200b \u200b \u200b CASH FLOWS FROM INVESTING ACTIVITIES: \u200b \u200b \u200b \u200b Capital expenditures for property and equipment \u200b (81,716) \u200b (35,140) Cash paid for notes receivable and other investments \u200b \u200b (18,084) \u200b \u200b (10,433) Cash paid in acquisitions, net of cash acquired \u200b \u200b (144,769) \u200b \u200b (320,182) Other investing, net \u200b \u200b (2,817) \u200b \u200b (2,898) Net cash, cash equivalents, and restricted cash used in investing activities \u200b \u200b (247,386) \u200b \u200b (368,653) \u200b \u200b \u200b \u200b \u200b \u200b \u200b CASH FLOWS FROM FINANCING ACTIVITIES: \u200b \u200b \u200b Proceeds from issuance of common stock \u200b \u200b 28,213 \u200b \u200b 40,908 Proceeds from (payments on) long-term debt \u200b \u200b \u2014 \u200b \u200b (99,063) Contingent payments related to acquisitions \u200b (2,685) \u200b (261) Payment of taxes related to an exchange of common stock \u200b (9,529) \u200b (1,592) Net cash, cash equivalents, and restricted cash provided by (used in) financing activities \u200b 15,999 \u200b (60,008) Effect of exchange rates on cash \u200b 3,798 \u200b (2,515) Net increase (decrease) in cash, cash equivalents and restricted cash \u200b 69,782 \u200b (210,377) \u200b \u200b \u200b \u200b \u200b \u200b \u200b CASH, CASH EQUIVALENTS AND RESTRICTED CASH: \u200b \u200b \u200b \u200b Beginning of period \u200b 378,767 \u200b 589,144 End of period \u200b $ 448,549 \u200b $ 378,767 \u200b \u200b \u200b \u200b \u200b \u200b \u200b RECONCILIATION OF CASH, CASH EQUIVALENTS AND RESTRICTED CASH TO THE CONSOLIDATED BALANCE SHEETS: \u200b \u200b \u200b \u200b \u200b \u200b Cash and cash equivalents \u200b \u200b 446,404 \u200b \u200b 376,715 Restricted cash reported in prepaid expenses and other current assets \u200b \u200b 2,145 \u200b \u200b 2,052 Total cash, cash equivalents and restricted cash \u200b $ 448,549 \u200b $ 378,767",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 CASH FLOWS FROM OPERATING ACTIVITIES: \u200b \u200b \u200b Net income \u200b $ 128,489 \u200b $ 120,357 Adjustments to reconcile net income to net cash provided by operating activities: \u200b \u200b \u200b \u200b Depreciation and amortization \u200b 123,16...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "Although MERIT MEDICAL SYSTEMS INC\u2019s financial statements are prepared in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d), MERIT MEDICAL SYSTEMS INC\u2019s management believes that the non-GAAP financial measures referenced in this release may provide investors with useful information regarding the underlying business trends and performance of MERIT MEDICAL SYSTEMS INC\u2019s ongoing operations and can be useful for period-over-period comparisons of such operations.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Although MERIT MEDICAL SYSTEMS INC\u2019s financial statements are prepared in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d), MERIT MEDICAL SYSTEMS INC\u2019s management believes that the non-GAAP financial measures referenced in this...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "balance_sheet_or_cash",
+      "claim": "MERIT MEDICAL SYSTEMS INC\u2019s management team uses these non-GAAP financial measures to evaluate MERIT MEDICAL SYSTEMS INC\u2019s profitability and efficiency, to compare operating and financial results to prior periods, to evaluate changes in the results of its operating segments, and to measure and allocate financial resources internally.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC\u2019s management team uses these non-GAAP financial measures to evaluate MERIT MEDICAL SYSTEMS INC\u2019s profitability and efficiency, to compare operating and financial results to prior periods, to evaluate changes in the results of its operating segments, a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "earnings_or_eps",
+      "claim": "Readers should consider non-GAAP measures used in this release in addition to, not as a substitute for, financial reporting measures prepared in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Readers should consider non-GAAP measures used in this release in addition to, not as a substitute for, financial reporting measures prepared in accordance with GAAP. These non-GAAP financial measures generally exclude some, but not all, items that may affect MERIT MEDICAL SYS...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "MERIT MEDICAL SYSTEMS INC\u2019s constant currency revenue is prepared by converting the current-period reported revenue of subsidiaries whose functional currency is a currency other than the U.S.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC\u2019s constant currency revenue is prepared by converting the current-period reported revenue of subsidiaries whose functional currency is a currency other than the U.S. dollar at the applicable foreign exchange rates in effect during the comparable prior...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "MERIT MEDICAL SYSTEMS INC\u2019s constant currency revenue, organic, is defined, with respect to prior fiscal year periods, as GAAP revenue.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "MERIT MEDICAL SYSTEMS INC\u2019s constant currency revenue, organic, is defined, with respect to prior fiscal year periods, as GAAP revenue. With respect to current fiscal year periods, constant currency revenue, organic, is defined as constant currency revenue (as defined above),...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Non-GAAP gross profit is calculated by reducing GAAP cost of sales by amounts recorded for amortization of intangible assets and inventory mark-up related to acquisitions.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Non-GAAP gross profit is calculated by reducing GAAP cost of sales by amounts recorded for amortization of intangible assets and inventory mark-up related to acquisitions. Non-GAAP gross margin is calculated by dividing non-GAAP gross profit by reported net sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "revenue",
+      "claim": "Non-GAAP operating income is calculated by adjusting GAAP operating income for certain items which are deemed by MERIT MEDICAL SYSTEMS INC\u2019s management to be outside of core operations and vary in amount and frequency among periods, such as expenses related to acquisitions or other extraordinary transactions, non-cash expenses related to amortization or write-off of previously acquired tangible and intangible assets, certain employee termination benefits, performance-based stock compensation expenses, expenses resulting from non-ordinary course litigation or administrative proceedings and resulting settlements, governmental proceedings, and changes in governmental or industry regulations, as well as other items referenced in the tables below.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Non-GAAP operating income is calculated by adjusting GAAP operating income for certain items which are deemed by MERIT MEDICAL SYSTEMS INC\u2019s management to be outside of core operations and vary in amount and frequency among periods, such as expenses related to acquisitions or...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP net income is calculated by adjusting GAAP net income for the items set forth in the definition of non-GAAP operating income above, as well as for expenses related to debt issuance costs, gains or losses on disposal of certain assets, equity method investment loss (income) from equity investees, and other items set forth in the tables below.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Non-GAAP net income is calculated by adjusting GAAP net income for the items set forth in the definition of non-GAAP operating income above, as well as for expenses related to debt issuance costs, gains or losses on disposal of certain assets, equity method investment loss (in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP EPS is defined as non-GAAP net income divided by the diluted shares outstanding for the corresponding period.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Non-GAAP EPS is defined as non-GAAP net income divided by the diluted shares outstanding for the corresponding period.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "costs_or_expenses",
+      "claim": "Free cash flow is defined as cash flow from operations calculated in accordance with GAAP, less capital expenditures for property and equipment calculated in accordance with GAAP, as set forth in the consolidated statement of cash flows.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Free cash flow is defined as cash flow from operations calculated in accordance with GAAP, less capital expenditures for property and equipment calculated in accordance with GAAP, as set forth in the consolidated statement of cash flows.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "costs_or_expenses",
+      "claim": "The following tables set forth supplemental financial data and corresponding reconciliations of non-GAAP financial measures to MERIT MEDICAL SYSTEMS INC\u2019s corresponding financial measures prepared in accordance with GAAP, in each case, for the three and twelve-month periods ended December 31, 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "The following tables set forth supplemental financial data and corresponding reconciliations of non-GAAP financial measures to MERIT MEDICAL SYSTEMS INC\u2019s corresponding financial measures prepared in accordance with GAAP, in each case, for the three and twelve-month periods en...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliation of GAAP Net Income to Non-GAAP Net Income",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Reconciliation of GAAP Net Income to Non-GAAP Net Income",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b December 31, 2025 \u200b \u200b \u200b \u200b Pre-Tax \u200b \u200b \u200b Tax Impact \u200b \u200b \u200b After-Tax \u200b \u200b \u200b Per Share Impact GAAP net income \u200b $ 51,060 \u200b $ (13,054) \u200b $ 38,006 \u200b $ 0.63 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sales \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of intangibles \u200b \u200b 19,237 \u200b \u200b (4,541) \u200b \u200b 14,696 \u200b \u200b 0.24 Inventory mark-up related to acquisitions \u200b \u200b 97 \u200b \u200b (23) \u200b \u200b 74 \u200b \u200b 0.00 Operating Expenses \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Contingent consideration benefit \u200b \u200b (214) \u200b \u200b (3) \u200b \u200b (217) \u200b \u200b (0.00) Amortization of intangibles \u200b \u200b 2,586 \u200b \u200b (611) \u200b \u200b 1,975 \u200b \u200b 0.03 Performance-based share-based compensation (a) \u200b \u200b 5,543 \u200b \u200b 155 \u200b \u200b 5,698 \u200b \u200b 0.09 Corporate restructuring (b) \u200b \u200b (346) \u200b \u200b 82 \u200b \u200b (264) \u200b \u200b (0.00) Acquisition-related \u200b \u200b 602 \u200b \u200b (174) \u200b \u200b 428 \u200b \u200b 0.01 Medical Device Regulation expenses (c) \u200b \u200b 929 \u200b \u200b (219) \u200b \u200b 710 \u200b \u200b 0.01 Other (d) \u200b \u200b 50 \u200b \u200b (12) \u200b \u200b 38 \u200b \u200b 0.00 Other (Income) Expense \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of long-term debt issuance costs \u200b \u200b 1,414 \u200b \u200b (334) \u200b \u200b 1,080 \u200b \u200b 0.02 Other non-operating loss (e) \u200b \u200b 415 \u200b \u200b (98) \u200b \u200b 317 \u200b \u200b 0.01 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP net income \u200b $ 81,373 \u200b $ (18,832) \u200b $ 62,541 \u200b $ 1.04 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted shares \u200b \u200b \u200b \u200b \u200b \u200b \u200b 60,026",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b December 31, 2025 \u200b \u200b \u200b \u200b Pre-Tax \u200b \u200b \u200b Tax Impact \u200b \u200b \u200b After-Tax \u200b \u200b \u200b Per Share Impact GAAP net income \u200b $ 51,060 \u200b $ (13,054) \u200b $ 38,006 \u200b $ 0.63 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b December 31, 2024 \u200b \u200b Pre-Tax \u200b Tax Impact \u200b After-Tax \u200b Per Share Impact GAAP net income \u200b \u200b \u200b $ 33,145 \u200b \u200b \u200b $ (5,198) \u200b \u200b \u200b $ 27,947 \u200b \u200b \u200b $ 0.46 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sales \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of intangibles \u200b \u200b 16,832 \u200b \u200b (3,978) \u200b \u200b 12,854 \u200b \u200b 0.21 Inventory mark-up related to acquisitions \u200b \u200b 75 \u200b \u200b (17) \u200b \u200b 58 \u200b \u200b 0.00 Operating Expenses \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Contingent consideration expense \u200b \u200b 151 \u200b \u200b 48 \u200b \u200b 199 \u200b \u200b 0.00 Amortization of intangibles \u200b \u200b 2,385 \u200b \u200b (564) \u200b \u200b 1,821 \u200b \u200b 0.03 Performance-based share-based compensation (a) \u200b \u200b 5,841 \u200b \u200b (141) \u200b \u200b 5,700 \u200b \u200b 0.09 Corporate restructuring (b) \u200b \u200b 1,098 \u200b \u200b (260) \u200b \u200b 838 \u200b \u200b 0.01 Acquisition-related \u200b \u200b 5,239 \u200b \u200b (1,237) \u200b \u200b 4,002 \u200b \u200b 0.07 Medical Device Regulation expenses (c) \u200b \u200b 1,395 \u200b \u200b (329) \u200b \u200b 1,066 \u200b \u200b 0.02 Other (d) \u200b \u200b 71 \u200b \u200b (16) \u200b \u200b 55 \u200b \u200b 0.00 Other (Income) Expense \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of long-term debt issuance costs \u200b \u200b 2,338 \u200b \u200b (552) \u200b \u200b 1,786 \u200b \u200b 0.03 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP net income \u200b $ 68,570 \u200b $ (12,244) \u200b $ 56,326 \u200b $ 0.93 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted shares \u200b \u200b \u200b \u200b \u200b \u200b \u200b 60,613",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b December 31, 2024 \u200b \u200b Pre-Tax \u200b Tax Impact \u200b After-Tax \u200b Per Share Impact GAAP net income \u200b \u200b \u200b $ 33,145 \u200b \u200b \u200b $ (5,198) \u200b \u200b \u200b $ 27,947 \u200b \u200b \u200b $ 0.46 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sal...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "Note: Certain per-share impacts may not sum to totals due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Note: Certain per-share impacts may not sum to totals due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b December 31, 2025 \u200b \u200b \u200b \u200b Pre-Tax \u200b \u200b \u200b Tax Impact \u200b \u200b \u200b After-Tax \u200b \u200b \u200b Per Share Impact GAAP net income \u200b $ 170,937 \u200b $ (42,448) \u200b $ 128,489 \u200b $ 2.13 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sales \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of intangibles \u200b \u200b 75,035 \u200b \u200b (17,725) \u200b \u200b 57,310 \u200b 0.95 Inventory mark-up related to acquisitions \u200b \u200b 347 \u200b \u200b (82) \u200b \u200b 265 \u200b \u200b 0.00 Operating Expenses \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Contingent consideration expense \u200b \u200b 984 \u200b \u200b 26 \u200b \u200b 1,010 \u200b 0.02 Amortization of intangibles \u200b \u200b 10,083 \u200b \u200b (2,382) \u200b \u200b 7,701 \u200b 0.13 Performance-based share-based compensation (a) \u200b \u200b 25,224 \u200b \u200b (2,189) \u200b \u200b 23,035 \u200b \u200b 0.38 Corporate restructuring (b) \u200b \u200b 2,527 \u200b \u200b (596) \u200b \u200b 1,931 \u200b 0.03 Acquisition-related \u200b \u200b 2,690 \u200b \u200b (176) \u200b \u200b 2,514 \u200b 0.04 Medical Device Regulation expenses (c) \u200b \u200b 5,812 \u200b \u200b (1,372) \u200b \u200b 4,440 \u200b 0.07 Other (d) \u200b \u200b 153 \u200b \u200b (36) \u200b \u200b 117 \u200b \u200b 0.00 Other (Income) Expense \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of long-term debt issuance costs \u200b \u200b 5,656 \u200b \u200b (1,336) \u200b \u200b 4,320 \u200b 0.07 Other non-operating loss (e) \u200b \u200b 426 \u200b \u200b (159) \u200b \u200b 267 \u200b \u200b 0.00 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP net income \u200b $ 299,874 \u200b $ (68,475) \u200b $ 231,399 \u200b $ 3.83 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted shares \u200b \u200b \u200b \u200b \u200b \u200b \u200b 60,460",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b December 31, 2025 \u200b \u200b \u200b \u200b Pre-Tax \u200b \u200b \u200b Tax Impact \u200b \u200b \u200b After-Tax \u200b \u200b \u200b Per Share Impact GAAP net income \u200b $ 170,937 \u200b $ (42,448) \u200b $ 128,489 \u200b $ 2.13 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sales \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b December 31, 2024 \u200b \u200b \u200b \u200b Pre-Tax \u200b \u200b \u200b Tax Impact \u200b \u200b \u200b After-Tax \u200b \u200b \u200b Per Share Impact GAAP net income \u200b $ 149,993 \u200b $ (29,636) \u200b $ 120,357 \u200b $ 2.03 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sales \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of intangibles \u200b 57,659 \u200b \u200b (13,632) \u200b 44,027 \u200b 0.74 Inventory mark-up related to acquisitions \u200b 634 \u200b \u200b (149) \u200b 485 \u200b 0.01 Operating Expenses \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Contingent consideration expense \u200b 443 \u200b \u200b 17 \u200b 460 \u200b 0.01 Amortization of intangibles \u200b 7,931 \u200b \u200b (1,876) \u200b 6,055 \u200b 0.10 Performance-based share-based compensation (a) \u200b \u200b 15,237 \u200b \u200b (1,607) \u200b \u200b 13,630 \u200b \u200b 0.23 Corporate restructuring (b) \u200b 3,128 \u200b \u200b (739) \u200b 2,389 \u200b 0.04 Acquisition-related \u200b 8,849 \u200b \u200b (2,089) \u200b 6,760 \u200b 0.11 Medical Device Regulation expenses (c) \u200b \u200b 7,515 \u200b \u200b (1,774) \u200b \u200b 5,741 \u200b \u200b 0.10 Other (d) \u200b \u200b 373 \u200b \u200b (88) \u200b \u200b 285 \u200b \u200b 0.00 Other (Income) Expense \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of long-term debt issuance costs \u200b 6,769 \u200b \u200b (1,598) \u200b 5,171 \u200b 0.09 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP net income \u200b $ 258,531 \u200b $ (53,171) \u200b $ 205,360 \u200b $ 3.46 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Diluted shares \u200b \u200b \u200b \u200b \u200b \u200b \u200b 59,365",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Year Ended \u200b \u200b December 31, 2024 \u200b \u200b \u200b \u200b Pre-Tax \u200b \u200b \u200b Tax Impact \u200b \u200b \u200b After-Tax \u200b \u200b \u200b Per Share Impact GAAP net income \u200b $ 149,993 \u200b $ (29,636) \u200b $ 120,357 \u200b $ 2.03 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP adjustments: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Cost of Sales \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "margins",
+      "claim": "Reconciliation of Reported Operating Income to Non-GAAP Operating Income",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Reconciliation of Reported Operating Income to Non-GAAP Operating Income",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Three Months Ended \u200b Year Ended \u200b Year Ended \u200b \u200b December 31, 2025 \u200b December 31, 2024 \u200b December 31, 2025 \u200b December 31, 2024 \u200b \u200b \u200b \u200b Amounts \u200b \u200b \u200b % Sales \u200b \u200b \u200b Amounts \u200b \u200b \u200b % Sales \u200b \u200b \u200b Amounts \u200b \u200b \u200b % Sales \u200b \u200b \u200b Amounts \u200b \u200b \u200b % Sales Net Sales as Reported \u200b $ 393,936 \u200b \u200b \u200b \u200b $ 355,158 \u200b \u200b \u200b \u200b $ 1,515,906 \u200b \u200b \u200b \u200b $ 1,356,514 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b GAAP Operating Income \u200b \u200b 54,195 \u200b 13.8 % \u200b \u200b 36,564 \u200b 10.3 % \u200b \u200b 184,720 \u200b 12.2 % \u200b \u200b 155,693 \u200b 11.5 % Cost of Sales \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of intangibles \u200b \u200b 19,237 \u200b 4.9 % \u200b \u200b 16,832 \u200b 4.7 % \u200b \u200b 75,035 \u200b 4.9 % \u200b \u200b 57,659 \u200b 4.3 % Inventory mark-up related to acquisitions \u200b \u200b 97 \u200b 0.0 % \u200b \u200b 75 \u200b 0.0 % \u200b \u200b 347 \u200b 0.0 % \u200b \u200b 634 \u200b 0.0 % Operating Expenses \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Contingent consideration (benefit) expense \u200b \u200b (214) \u200b (0.1) % \u200b \u200b 151 \u200b 0.0 % \u200b \u200b 984 \u200b 0.1 % \u200b \u200b 443 \u200b 0.0 % Amortization of intangibles \u200b \u200b 2,586 \u200b 0.7 % \u200b \u200b 2,385 \u200b 0.7 % \u200b \u200b 10,083 \u200b 0.7 % \u200b \u200b 7,931 \u200b 0.6 % Performance-based share-based compensation (a) \u200b \u200b 5,543 \u200b 1.4 % \u200b \u200b 5,841 \u200b 1.6 % \u200b \u200b 25,224 \u200b 1.7 % \u200b \u200b 15,237 \u200b 1.1 % Corporate restructuring (b) \u200b \u200b (346) \u200b (0.1) % \u200b \u200b 1,098 \u200b 0.3 % \u200b \u200b 2,527 \u200b 0.2 % \u200b \u200b 3,128 \u200b 0.2 % Acquisition-related \u200b \u200b 602 \u200b 0.2 % \u200b \u200b 5,239 \u200b 1.5 % \u200b \u200b 2,690 \u200b 0.2 % \u200b \u200b 8,849 \u200b 0.7 % Medical Device Regulation expenses (c) \u200b \u200b 929 \u200b 0.2 % \u200b \u200b 1,395 \u200b 0.4 % \u200b \u200b 5,812 \u200b 0.4 % \u200b \u200b 7,515 \u200b 0.6 % Other (d) \u200b \u200b 50 \u200b 0.0 % \u200b \u200b 71 \u200b 0.0 % \u200b \u200b 153 \u200b 0.0 % \u200b \u200b 373 \u200b 0.0 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP Operating Income \u200b $ 82,679 \u200b 21.0 % \u200b $ 69,651 \u200b 19.6 % \u200b $ 307,575 \u200b 20.3 % \u200b $ 257,462 \u200b 19.0 %",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Three Months Ended \u200b Year Ended \u200b Year Ended \u200b \u200b December 31, 2025 \u200b December 31, 2024 \u200b December 31, 2025 \u200b December 31, 2024 \u200b \u200b \u200b \u200b Amounts \u200b \u200b \u200b % Sales \u200b \u200b \u200b Amounts \u200b \u200b \u200b % Sales \u200b \u200b \u200b Amounts \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "Note: Certain percentages may not sum to totals due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Note: Certain percentages may not sum to totals due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "Represents performance-based share-based compensation expense, including stock-settled and cash-settled awards.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Represents performance-based share-based compensation expense, including stock-settled and cash-settled awards.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "costs_or_expenses",
+      "claim": "Includes employee termination benefits associated with activities related to corporate restructuring initiatives and costs to terminate certain distribution contracts from the Biolife Merger.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Includes employee termination benefits associated with activities related to corporate restructuring initiatives and costs to terminate certain distribution contracts from the Biolife Merger.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "costs_or_expenses",
+      "claim": "Represents incremental expenses incurred to comply with the E.U.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Represents incremental expenses incurred to comply with the E.U. Medical Device Regulation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "Represents costs to comply with MERIT MEDICAL SYSTEMS INC\u2019s corporate integrity agreement with the U.S.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Represents costs to comply with MERIT MEDICAL SYSTEMS INC\u2019s corporate integrity agreement with the U.S. Department of Justice.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "Includes gains and losses associated with the disposal of business units and equity method investment loss (income) from equity investees.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Includes gains and losses associated with the disposal of business units and equity method investment loss (income) from equity investees.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "Reconciliation of Reported Revenue to Constant Currency Revenue (Non-GAAP), and Constant Currency Revenue, Organic (Non-GAAP)",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Reconciliation of Reported Revenue to Constant Currency Revenue (Non-GAAP), and Constant Currency Revenue, Organic (Non-GAAP)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "revenue",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b \u200b Year Ended \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b % Change \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 \u200b \u200b \u200b % Change \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 Reported Revenue 10.9 % $ 393,936 \u200b $ 355,158 11.8 % $ 1,515,906 \u200b $ 1,356,514 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Add: Impact of foreign exchange \u200b \u200b (4,395) \u200b \u2014 \u200b \u200b (5,173) \u200b \u2014 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Constant Currency Revenue (a) 9.7 % $ 389,541 \u200b $ 355,158 11.4 % $ 1,510,733 \u200b $ 1,356,514 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Less: Revenue from certain acquisitions \u200b \u200b \u200b \u200b (10,840) \u200b \u200b \u2014 \u200b \u200b \u200b \u200b (62,285) \u200b \u200b \u2014 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Constant Currency Revenue, Organic (a) \u200b 6.6 % $ 378,701 \u200b $ 355,158 \u200b 6.8 % $ 1,448,448 \u200b $ 1,356,514",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b \u200b \u200b Year Ended \u200b \u200b \u200b \u200b December 31, \u200b \u200b \u200b December 31, \u200b \u200b \u200b \u200b % Change \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 \u200b \u200b \u200b % Change \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 Reported Revenue 10.9 % $ 393,936 \u200b $ 355,158 11.8 % $ 1,515,906 \u200b $ 1,356,514 \u200b \u200b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "other",
+      "claim": "A non-GAAP financial measure.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "A non-GAAP financial measure. For a definition of this and other non-GAAP financial measures, see the section of this release entitled \u201cNon-GAAP Financial Measures.\u201d",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "margins",
+      "claim": "Reconciliation of Reported Gross Margin to Non-GAAP Gross Margin (Non-GAAP)",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Reconciliation of Reported Gross Margin to Non-GAAP Gross Margin (Non-GAAP)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "margins",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b \u200b 2024 \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b \u200b 2024 Reported Gross Margin 49.6 % \u200b 48.7 % \u200b 48.7 % \u200b 47.4 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Add back impact of: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization of intangibles 4.9 % \u200b 4.7 % \u200b 4.9 % \u200b 4.3 % Inventory mark-up related to acquisitions 0.0 % \u200b 0.0 % \u200b 0.0 % \u200b 0.0 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Non-GAAP Gross Margin \u200b 54.5 % \u200b 53.5 % \u200b 53.7 % \u200b 51.7 %",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b \u200b 2024 \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b \u200b 2024 Reported Gross Margin 49.6 % \u200b 48.7 % \u200b 48.7 % \u200b 47.4 % \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Add back impact of: \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Amortization...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "balance_sheet_or_cash",
+      "claim": "Reconciliation of Reported Cash Flow from Operations to Free Cash Flow (Non-GAAP)",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Reconciliation of Reported Cash Flow from Operations to Free Cash Flow (Non-GAAP)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "costs_or_expenses",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 \u200b 2025 \u200b \u200b \u200b 2024 Reported Cash Flow from Operations $ 98,510 \u200b $ 68,745 \u200b $ 297,371 \u200b $ 220,799 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Less: Capital Expenditures \u200b (24,464) \u200b \u200b (3,472) \u200b \u200b (81,716) \u200b \u200b (35,140) \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Free Cash Flow \u200b $ 74,046 \u200b $ 65,273 \u200b $ 215,655 \u200b $ 185,659",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Three Months Ended \u200b Year Ended \u200b \u200b December 31, \u200b December 31, \u200b \u200b \u200b \u200b 2025 \u200b \u200b \u200b 2024 \u200b 2025 \u200b \u200b \u200b 2024 Reported Cash Flow from Operations $ 98,510 \u200b $ 68,745 \u200b $ 297,371 \u200b $ 220,799 \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Less: Capital Expenditures \u200b (24,464...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "guidance",
+      "claim": "Reconciliation of 2026 Net Sales Guidance - % Change from Prior Year (Constant Currency)",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Reconciliation of 2026 Net Sales Guidance - % Change from Prior Year (Constant Currency)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "guidance",
+      "claim": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b Low \u200b High 2026 Net Sales Guidance - % Change from Prior Year (GAAP) \u200b 6.2% \u200b 7.5% Estimated impact of foreign currency exchange rate fluctuations \u200b (0.8%) \u200b (0.8%) 2026 Net Sales Guidance - % Change from Prior Year (Constant Currency) \u200b 5.4% \u200b 6.7%",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "\u200b \u200b \u200b \u200b \u200b \u200b \u200b Low \u200b High 2026 Net Sales Guidance - % Change from Prior Year (GAAP) \u200b 6.2% \u200b 7.5% Estimated impact of foreign currency exchange rate fluctuations \u200b (0.8%) \u200b (0.8%) 2026 Net Sales Guidance - % Change from Prior Year (Constant Currency) \u200b 5.4% \u200b 6.7%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "revenue",
+      "claim": "Founded in 1987, MERIT MEDICAL SYSTEMS INC is engaged in the development, manufacture, and distribution of proprietary medical devices used in interventional, diagnostic, and therapeutic procedures, particularly in cardiology, radiology, oncology, critical care, and endoscopy.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "Founded in 1987, MERIT MEDICAL SYSTEMS INC is engaged in the development, manufacture, and distribution of proprietary medical devices used in interventional, diagnostic, and therapeutic procedures, particularly in cardiology, radiology, oncology, critical care, and endoscopy....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "guidance",
+      "claim": "statements preceded or followed by, or that include the words, \u201cmay,\u201d \u201cwill,\u201d \u201cshould,\u201d \u201cexpects,\u201d \u201cplans,\u201d \u201canticipates,\u201d \u201cintends,\u201d \u201cseeks,\u201d \u201cbelieves,\u201d \u201cestimates,\u201d \u201cprojects,\u201d \u201cforecasts,\u201d \u201cpotential,\u201d \u201ctarget,\u201d \u201ccontinue,\u201d \u201cupcoming,\u201d \u201coptimistic\u201d or other forms of these words or similar words or expressions, or the negative thereof or other comparable terminology;",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "statements preceded or followed by, or that include the words, \u201cmay,\u201d \u201cwill,\u201d \u201cshould,\u201d \u201cexpects,\u201d \u201cplans,\u201d \u201canticipates,\u201d \u201cintends,\u201d \u201cseeks,\u201d \u201cbelieves,\u201d \u201cestimates,\u201d \u201cprojects,\u201d \u201cforecasts,\u201d \u201cpotential,\u201d \u201ctarget,\u201d \u201ccontinue,\u201d \u201cupcoming,\u201d \u201coptimistic\u201d or other forms of these...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "guidance",
+      "claim": "statements that address MERIT MEDICAL SYSTEMS INC\u2019s future operating performance or events or developments that MERIT MEDICAL SYSTEMS INC\u2019s management expects or anticipates will occur, including, without limitation, any statements regarding MERIT MEDICAL SYSTEMS INC\u2019s projected revenues, earnings or other financial measures, MERIT MEDICAL SYSTEMS INC\u2019s plans and objectives for future operations, MERIT MEDICAL SYSTEMS INC\u2019s proposed new products or services, the integration, development or commercialization of the business or any assets acquired from other parties, future economic conditions or performance, the implementation of, and results which may be achieved through, MERIT MEDICAL SYSTEMS INC\u2019s Continued Growth Initiatives Program or other business optimization initiatives, and any statements of assumptions underlying any of the foregoing; and",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "statements that address MERIT MEDICAL SYSTEMS INC\u2019s future operating performance or events or developments that MERIT MEDICAL SYSTEMS INC\u2019s management expects or anticipates will occur, including, without limitation, any statements regarding MERIT MEDICAL SYSTEMS INC\u2019s project...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "statements regarding MERIT MEDICAL SYSTEMS INC\u2019s past performance, efforts, or results about which inferences or assumptions may be made, including statements proceeded or followed by the words \"preliminary,\" \"initial,\" \"potential,\" \"possible,\" \"diligence,\" \"industry-leading,\" \"compliant,\" \"indications\" or \"early feedback\" or other forms of these words or similar words or expressions, or the negative thereof or other comparable terminology.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "statements regarding MERIT MEDICAL SYSTEMS INC\u2019s past performance, efforts, or results about which inferences or assumptions may be made, including statements proceeded or followed by the words \"preliminary,\" \"initial,\" \"potential,\" \"possible,\" \"diligence,\" \"industry-leading,\"...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "risk_or_uncertainty",
+      "claim": "DualCap\u00ae anti-microbial cap product line in February 2026, changes in tax laws and regulations in the United States or other jurisdictions or exposure to additional tax liabilities which may adversely affect MERIT MEDICAL SYSTEMS INC\u2019s effective tax rate; termination of relationships with MERIT MEDICAL SYSTEMS INC\u2019s suppliers, or failure of such suppliers to perform; development of new products and technology that could render MERIT MEDICAL SYSTEMS INC\u2019s existing or future products obsolete; market acceptance of new products; failure to comply with applicable environmental laws; changes in key personnel; labor shortages and increases in labor costs; price and product competition; extreme weather events; and geopolitical events.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "DualCap\u00ae anti-microbial cap product line in February 2026, changes in tax laws and regulations in the United States or other jurisdictions or exposure to additional tax liabilities which may adversely affect MERIT MEDICAL SYSTEMS INC\u2019s effective tax rate; termination of relati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "Unless noted otherwise, trademarks and registered trademarks used in this release are the property of MERIT MEDICAL SYSTEMS INC., its subsidiaries, or its licensors.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "Unless noted otherwise, trademarks and registered trademarks used in this release are the property of MERIT MEDICAL SYSTEMS INC., its subsidiaries, or its licensors.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.010295, ret_20d=-0.001333, market_ret_20d=-0.007766",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.010295, ret_20d=-0.001333, market_ret_20d=-0.007766",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "event_id": "evt_0012",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Edwards Lifesciences Corp",
+  "ticker": "EW",
+  "company_alias": "Edwards Lifesciences Corp",
+  "masked_company": "Company F",
+  "sector": "Health Care",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q3",
+  "event_date": "2026-02-10",
+  "filing_metadata": {
+    "cik": "1099800",
+    "accession_number": "0001099800-26-000006",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-10T16:22:48-05:00",
+    "event_date": "2026-02-10",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Edwards Lifesciences Corp Corporation One Edwards Lifesciences Corp Way \u00b7 Irvine, CA USA \u00b7 92614 Phone: 949.250.2500 \u00b7 www.Edwards Lifesciences Corp.com",
+      "token_count": 26
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Media: Amy Meshulam, 949-250-4009, media@Edwards Lifesciences Corp.com",
+      "token_count": 14
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Investors: investor_relations@Edwards Lifesciences Corp.com",
+      "token_count": 11
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "IRVINE, CA, 2026-02-10T16:22:48-05:00 \u2014 Edwards Lifesciences Corp (NYSE: EW) today reported financial results for the quarter and full-year ended Dec. 31, 2025 .",
+      "token_count": 34
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Q4 sales grew 13.3% to $1.57 billion 1 , constant currency 2 sales grew 11.6%",
+      "token_count": 20
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Q4 TAVR sales grew 12.0% to $1.16 billion 1 ; constant currency 2 sales grew 10.6%",
+      "token_count": 21
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Q4 TMTT sales grew more than 40% to $156 million 1 from repair and replacement therapies",
+      "token_count": 23
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Q4 EPS of $0.11 1 ; adjusted 2 EPS of $0.58",
+      "token_count": 12
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 FY 2025 sales grew 11.5% , 10.7% constant currency 2",
+      "token_count": 14
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Increased confidence in FY 2026 constant currency 2 sales growth of 8 \u2013 10%",
+      "token_count": 20
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 FY 2026 revenue outlook includes TMTT growing 35 \u2013 45% to $740 \u2013 $780 million",
+      "token_count": 20
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Increased confidence in FY 2026 adjusted 2 EPS $2.90 \u2013 $3.05",
+      "token_count": 16
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cEdwards Lifesciences Corp\u2019 strong fourth quarter and full year performance in 2025 reflect our differentiated strategy with a clear vision around three key elements: focusing solely on structural heart, solving large, urgent and very complex patient needs, and pursuing unique opportunities to innovate and lead, all achieved through excellent execution by our deeply experienced teams,\u201d said Bernard Zovighian, Edwards Lifesciences Corp\u2019 CEO. \u201cBased on multiple catalysts and the company\u2019s strong fourth quarter performance, we have increased confidence in our outlook for 2026 and believe that our 70 years of expertise in valve innovation and world-class evidence will create sustainable growth and expanded profitability.",
+      "token_count": 174
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cThese enduring catalysts benefitting Edwards Lifesciences Corp in 2026 and the years ahead include distinguished long-term results unique to Edwards Lifesciences Corp from the PARTNER 3 7-year and PARTNER 2 10-year trials, the impact of the practice-changing EARLY TAVR trial, new guidelines for treating aortic stenosis patients in Europe and the approvals of the first transcatheter mitral replacement therapy. We expect additional meaningful catalysts later in 2026 to fuel sustainable growth into the future, including next-generation TEER, PASCAL for U.S. tricuspid patients, continued scaling of EVOQUE and the potential of increased patient access from an updated TAVR NCD,\u201d continued Zovighian.",
+      "token_count": 168
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In the fourth quarter, the company reported TAVR sales of $1.16 billion, which grew 12.0% versus the prior year, or 10.6% on a constant currency basis. Full-year 2025 global sales of $4.5 billion increased 8.6% year-over-year on a constant currency basis. U.S. and OUS sales growth rates were similar on a constant currency basis. The company\u2019s procedural growth was comparable across the U.S. and OUS, and average price and competitive position was stable on a global basis.",
+      "token_count": 119
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In the U.S., the company saw intentional and urgent treatment of patients with severe aortic stenosis, fueled by a large and growing body of world-class evidence on the SAPIEN platform. The U.S. Centers for Medicare and Medicaid Services (CMS) formally opened the process to reconsider the National Coverage Determination for TAVR, a decision that has the potential to improve timely and equitable access to lifesaving TAVR therapy.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "At TCT last October, the 7\u2011year PARTNER 3 and 10-year PARTNER 2 data confirmed the long\u2011term durability and proven valve performance of the SAPIEN platform. These data reinforce the confidence that physicians and patients have in Edwards Lifesciences Corp\u2019 TAVR and set a new clinical standard with Edwards Lifesciences Corp\u2019 transcatheter heart valve therapy for safety, efficacy, durability, and lifetime management of patients.",
+      "token_count": 100
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Edwards Lifesciences Corp also expanded its partnership with the American Heart Association as the founding sponsor of the Heart Valve Initiative. This new multi-year initiative is focused on timely diagnosis and treatment to save lives and improve care for millions living with heart valve disease.",
+      "token_count": 71
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In Europe, fourth quarter results reflected healthy underlying TAVR procedure growth and Edwards Lifesciences Corp\u2019 consistent commercial execution across the region. The company continues to see modest year-over-year share improvement in the wake of a competitor\u2019s exit. Updated guidelines from the European Society of Cardiology and European Association for Cardio-Thoracic Surgery are reshaping clinical discussions around proactive disease management and reinforcing the role of TAVR for a broader patient population.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The depth and breadth of Edwards Lifesciences Corp\u2019 portfolio of repair and replacement therapies to treat mitral and tricuspid diseases drove another quarter of strong growth. Fourth quarter TMTT sales grew more than 40% to $156 million. Global adoption of PASCAL and EVOQUE contributed to overall growth. The company continues to expand the number of centers and physician training while focusing on excellent patient outcomes.",
+      "token_count": 104
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The recent FDA approval of SAPIEN M3 expands Edwards Lifesciences Corp\u2019 mitral portfolio in the U.S. and represents the first transcatheter replacement option for patients suffering from mitral disease. Similar to other Edwards Lifesciences Corp therapy launches, the strategic introduction of SAPIEN M3 is leveraging the company\u2019s proven high value support model and focusing on outstanding clinical outcomes. Edwards Lifesciences Corp is initially",
+      "token_count": 101
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "opening sites that were previously in the ENCIRCLE pivotal clinical trial, and physician focus and interest in this technology is growing.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "With PASCAL and EVOQUE growing globally, and now with the introduction of SAPIEN M3 in the U.S. and Europe, Edwards Lifesciences Corp continues to deliver on its vision of offering a portfolio of therapies and treating more patients in this globally underserved population with mitral and tricuspid disease. This comprehensive portfolio represents several layers of durable growth.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "In Surgical, fourth quarter global sales from continuing operations of $254 million increased 4% over the prior year, or 2% on a constant currency basis. Full-year Surgical sales of more than $1 billion grew 5%, or 4% on a constant currency basis, driven by continued adoption of RESILIA therapies that offer extended durability of Edwards Lifesciences Corp\u2019 surgical therapies including INSPIRIS, KONECT and MITRIS.",
+      "token_count": 100
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Edwards Lifesciences Corp is pursuing multiple new innovations to advance Surgical solutions for patients, including Left Atrial Appendage Closure (LAAC). This therapeutic area is a complementary solution to specific valvular procedures, and the company is planning on a preliminary introduction of a new surgical LAAC technology later this year.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For the quarter, the gross profit margin was 78.1%, or 78.3% adjusted, compared to 78.9%, or 79.0% adjusted, in the same period last year. The company continues to expect its full-year 2026 adjusted gross profit margin to be between 78% and 79%.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Selling, general and administrative expenses in the fourth quarter were $603 million, or 38.4% of sales, compared to 35.5% of sales in the prior year. This increase funded strategic investments to amplify patient access to therapy. Some of this strategic spending was delayed from previous quarters in the year. Research and development expenses in the fourth quarter were $268 million, or 17.1% of sales, compared to 19.6% in the prior year. The company continues to expect its full-year 2026 R&D as a percentage of sales to be approximately 17%.",
+      "token_count": 137
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Operating profit margin in the fourth quarter of 9.6%, or 23.7% adjusted, was in line with the company\u2019s previous guidance of mid-20% for the quarter. Adjusted EPS was $0.58, which also included a higher-than-expected tax rate for the quarter. In 2026, Edwards Lifesciences Corp expects full-year operating profit margin at the high end of the original 28% to 29% guidance range.",
+      "token_count": 91
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash and cash equivalents were approximately $3.0 billion as of Dec. 31, 2025. Total debt was approximately $600 million.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Edwards Lifesciences Corp has increased confidence in meeting its 2026 sales growth rate guidance of 8 to 10% and EPS guidance of $2.90 to $3.05. For the first quarter of 2026, the company projects total sales to be between $1.55 and $1.63 billion and adjusted EPS of $0.70 to $0.76.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Edwards Lifesciences Corp is the leading global structural heart innovation company, driven by a passion to improve patient lives. Through breakthrough technologies, world-class evidence and partnerships with clinicians and healthcare stakeholders, our employees are inspired by our patient-focused culture to deliver life-changing innovations to those who need them most. Discover more at www.Edwards Lifesciences Corp.com and follow us on LinkedIn, Facebook, Instagram and YouTube.",
+      "token_count": 113
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Edwards Lifesciences Corp, Edwards Lifesciences Corp, the stylized E logo, EARLY TAVR, EVOQUE, INSPIRIS, KONECT, MITRIS, PARTNER, PARTNER 3, PASCAL, RESILIA, SAPIEN, SAPIEN M3, SAPIEN 3, SAPIEN 3 Ultra, and SAPIEN M3 are trademarks of Edwards Lifesciences Corp Corporation or its affiliates. All other trademarks are the property of their respective owners.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "[1] Reported sales and diluted EPS are from continuing operations.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "[2] The company uses the terms \u201cadjusted\u201d and \u201cconstant currency\u201d when referring to non-GAAP sales from continuing operations and sales growth information, respectively, which excludes currency rate fluctuations and newly acquired products. Adjusted earnings per share from continuing operations is a non-GAAP item computed on a diluted basis and in this press release also excludes certain litigation expenses, amortization of intangible assets, separation costs, intangible assets impairment charges, fair value adjustments to contingent consideration liabilities, loss on impairment, restructuring expenses, charitable contribution to the Edwards Lifesciences Corp Foundation, acquisition contract termination costs, and a gain on remeasurement of previously held interest upon acquisition. See \u201cNon-GAAP Financial Information\u201d and reconciliation tables below.",
+      "token_count": 212
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Net sales $ 1,569.6 $ 1,385.8 $ 6,067.6 $ 5,439.5 Cost of sales 343.0 292.2 1,334.2 1,117.5 Gross profit 1,226.6 1,093.6 4,733.4 4,322.0 Selling, general, and administrative expenses 602.9 491.9 2,085.2 1,789.2 Research and development expenses 267.7 271.1 1,079.2 1,053.0 Intellectual property agreement and certain litigation expenses 208.6 12.6 325.4 40.4 Change in fair value of contingent consideration liabilities \u2014 \u2014 (12.5) \u2014 Restructuring charges, separation costs and other 10.6 28.1 19.1 61.0 Intangible assets impairment charges \u2014 \u2014 40.0 \u2014 Other operating income (14.3) (22.7) (67.2) (0.3) Operating income, net 151.1 312.6 1,264.2 1,378.7 Interest income, net (35.9) (44.2) (148.4) (100.5) Loss on impairment 99.8 \u2014 146.9 \u2014 Other non-operating income, net (3.2) (33.3) (7.2) (68.9) Income from continuing operations before provision for income taxes 90.4 390.1 1,272.9 1,548.1 Provision for income taxes 26.2 45.1 216.9 152.1 Net income from continuing operations 64.2 345.0 $ 1,056.0 $ 1,396.0 Income from discontinued operations, net of tax 27.0 39.3 13.4 2,773.7 Net income 91.2 384.3 1,069.4 4,169.7 Net loss attributable to noncontrolling interest \u2014 (1.3) (4.1) (4.9) Net income attributable to Edwards Lifesciences Corp Corporation $ 91.2 $ 385.6 $ 1,073.5 $ 4,174.6 Earnings per share: Basic: Continuing operations $ 0.11 $ 0.58 $ 1.81 $ 2.34 Discontinued operations $ 0.05 $ 0.07 $ 0.03 $ 4.64 Basic earnings per share $ 0.16 $ 0.65 $ 1.84 $ 6.98 Diluted: Continuing operations $ 0.11 $ 0.58 $ 1.81 $ 2.34 Discontinued operations $ 0.05 $ 0.07 $ 0.02 $ 4.63 Diluted earnings per share $ 0.16 $ 0.65 $ 1.83 $ 6.97 Weighted-average common shares outstanding: Basic 580.4 589.8 584.8 597.7 Diluted 581.8 590.5 585.8 599.3 Operating statistics from continuing operations As a percentage of net sales: Gross profit 78.1 % 78.9 % 78.0 % 79.5 % Selling, general, and administrative expenses 38.4 % 35.5 % 34.4 % 32.9 % Research and development expenses 17.1 % 19.6 % 17.8 % 19.4 % Operating income 9.6 % 22.6 % 20.8 % 25.3 % Income before provision for income taxes 5.8 % 28.1 % 21.0 % 28.5 % Net income from continuing operations 4.1 % 24.9 % 17.4 % 25.7 % Effective tax rate 29.0 % 11.6 % 17.0 % 9.8 %",
+      "token_count": 572
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Note: Numbers may not calculate due to rounding.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "To supplement the consolidated financial results prepared in accordance with Generally Accepted Accounting Principles (\u201cGAAP\u201d), the Company uses non-GAAP historical financial measures. Management makes adjustments to the GAAP measures for items (both charges and gains) that (a) do not reflect the core operational activities of the Company, (b) are commonly adjusted within the Company\u2019s industry to enhance comparability of the Company\u2019s financial results with those of its peer group, or (c) are inconsistent in amount or frequency between periods (albeit such items are monitored and controlled with equal diligence relative to core operations). The Company uses the terms \u201cadjusted\u201d and \u201cconstant currency\u201d when referring to non-GAAP sales from continuing operations and sales growth information, respectively, which excludes currency exchange rate fluctuations and newly acquired products. The Company uses the term \u201cadjusted\u201d to also exclude certain litigation expenses, amortization of intangible assets, separation costs, intangible assets impairment charges, fair value adjustments to contingent consideration liabilities, loss on impairment, restructuring expenses, charitable contribution to the Edwards Lifesciences Corp Foundation, acquisition contract termination costs, and a gain on remeasurement of previously held interest upon acquisition.",
+      "token_count": 336
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Management uses non-GAAP financial measures internally for strategic decision making, forecasting future results, and evaluating current performance. These non-GAAP financial measures are used in addition to, and in conjunction with, results presented in accordance with GAAP and reflect an additional way of viewing aspects of the Company's operations by investors that, when viewed with its GAAP results, provide a more complete understanding of factors and trends affecting the Company's business and facilitate comparability to historical periods.",
+      "token_count": 138
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Non-GAAP financial measures are not prepared in accordance with GAAP; therefore, the information is not necessarily comparable to other companies and should be considered as a supplement to, and not as a substitute for, or superior to, the corresponding measures calculated in accordance with GAAP. A reconciliation of non-GAAP historical financial measures to the most comparable GAAP measure is provided in the tables below.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fluctuations in currency exchange rates impact the comparative results and sales growth rates of the Company's underlying business. Management believes that excluding the impact of currency exchange rate fluctuations from its sales growth provides investors a more useful comparison to historical financial results. The impact of the fluctuations has been detailed in the \u201cReconciliation of Sales by Product Group and Region.\u201d",
+      "token_count": 107
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Guidance for sales and sales growth rates is provided on a \u201cconstant currency basis,\u201d and projections for diluted earnings per share, net income and growth, gross profit margin, and taxes are also provided on a non-GAAP basis, as adjusted, for the items identified above due to the inherent difficulty in forecasting such items without unreasonable efforts. The Company is not able to provide a reconciliation of the non-GAAP guidance to comparable GAAP measures due to the unknown effect, timing, and potential significance of special charges or gains, and management's inability to forecast charges associated with future transactions and initiatives.",
+      "token_count": 164
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Certain Litigation Expenses - The Company incurred certain litigation expenses of $10.9 million and $8.9 million in the first quarter of 2025 and 2024, respectively, $15.5 million and $8.1 million for the second quarter of 2025 and 2024, respectively, $90.4 million and $10.8 million for the third quarter of 2025 and 2024, respectively, and $208.6 million and $12.6 million in the fourth quarter of 2025 and 2024, respectively. Such expenses relate to intellectual property litigation, settlements, contingencies, and external legal costs.",
+      "token_count": 135
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Amortization of Intangible Assets - The Company recorded amortization expense related to developed technology and patents in the amount of $1.4 million and $0.5 million in the first quarter of 2025 and 2024, respectively, $1.8 million and $1.2 million in the second quarter of 2025 and 2024, respectively, $1.7 million and $1.3 million in the third quarter of 2025 and 2024, respectively, and $2.4 million and $1.4 million in the fourth quarter of 2025 and 2024, respectively.",
+      "token_count": 119
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Separation Costs - The Company recorded expenses of $4.2 million in both the first and second quarter of 2025, $0.1 million in the third quarter of 2025, and $19.0 million in the fourth quarter of 2024, related to consulting, legal, tax, and other professional advisory services related to the sale of Critical Care.",
+      "token_count": 79
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Intangible assets impairment charges - The Company recorded a $40.0 million charge in the third quarter of 2025 related to an impairment of certain developed technology asset acquired as part of an acquisition.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Change in Fair Value of Contingent Consideration Liabilities - The Company recorded a gain of $12.5 million in the third quarter of 2025 related to changes in the fair value of its contingent consideration liabilities arising from acquisitions.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Loss on Impairment - The Company recorded loss on impairment of $47.1 million in the second quarter of 2025 ($36.0 million net of tax adjustment), related to the Company's determination to not exercise an option to acquire one of its VIE investments. In addition, the Company recorded $99.8 million ($76.5 million net of tax) in the fourth quarter of 2025, related to impairment of its investment in JenaValve Technologies.",
+      "token_count": 106
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Restructuring Expenses - The Company recorded a $32.9 million charge in the third quarter of 2024 and $8.9 million charge in the fourth quarter of 2025 primarily related to severance expenses associated with a global workforce realignment.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Charitable Foundation Contribution - The Company recorded a $30.0 million charge in Other operating (income) expense, net in the third quarter of 2024 for a charitable contribution to the Edwards Lifesciences Corp Foundation.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Acquisition Contract Termination Costs - The Company recorded expenses of $1.7 million and $9.1 million in the fourth quarter of 2025 and 2024, respectively, related to the termination of certain contracts associated with the Company's acquisitions.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gain on Remeasurement of Previously Held Interest Upon Acquisition - The Company recorded a $24.6 million gain in the third quarter of 2024 and a $30.5 million gain in the fourth quarter of 2024 to remeasure its previously held interest upon acquisition of the investee.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Provision for Income Taxes - The income tax impacts of the expenses and gains discussed above are based upon the items' actual effect upon the Company's full-year effective tax rate. Adjustments to forecasted items unrelated to the expenses and gains above, as well as impacts related to interim reporting, will have an effect on the income tax impact of these items in subsequent periods.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Unaudited Reconciliation of GAAP to Non-GAAP Financial Information",
+      "token_count": 17
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, 2025 Net Sales Gross Profit Margin Operating Income, net Operating Profit Margin Other Non-operating Income Net Income Diluted EPS Effective Tax Rate GAAP - Continuing Operations $ 1,569.6 78.1 % $ 151.1 9.6 % $ 3.2 $ 64.2 $ 0.11 29.0 % Net loss attributable to noncontrolling interests \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 Total attributable to Edwards Lifesciences Corp Corporation 1,569.6 78.1 % 151.1 9.6 % 3.2 64.2 0.11 29.0 % Non-GAAP adjustments: (A) (B) Certain litigation expenses \u2014 \u2014 208.6 13.2 \u2014 187.1 0.32 (9.7) Amortization of intangible assets \u2014 0.2 2.4 0.2 \u2014 1.7 \u2014 \u2014 Restructuring expenses \u2014 \u2014 8.9 0.6 \u2014 6.8 0.01 (0.2) Acquisition contract termination costs \u2014 \u2014 1.7 0.1 \u2014 1.7 \u2014 (0.2) Loss on impairment \u2014 \u2014 \u2014 \u2014 \u2014 76.5 0.14 (1.0) Prior period ongoing tax impacts \u2014 \u2014 \u2014 \u2014 \u2014 (0.1) \u2014 \u2014 Adjusted $ 1,569.6 78.3 % $ 372.7 23.7 % $ 3.2 $ 337.9 $ 0.58 17.9 %",
+      "token_count": 215
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, 2024 Net Sales Gross Profit Margin Operating Income, net Operating Profit Margin Other Non-operating Income Net Income Diluted EPS Effective Tax Rate GAAP - Continuing Operations $ 1,385.8 78.9 % $ 312.6 22.6 % $ 33.3 $ 345.0 $ 0.58 11.6 % Net loss attributable to noncontrolling interests \u2014 \u2014 \u2014 \u2014 \u2014 1.3 \u2014 \u2014 Total attributable to Edwards Lifesciences Corp Corporation 1,385.8 78.9 % 312.6 22.6 % 33.3 346.3 0.58 11.6 % Non-GAAP adjustments: (A) (B) Certain litigation expenses \u2014 \u2014 12.6 0.9 \u2014 8.4 0.02 0.7 Amortization of intangible assets \u2014 0.1 1.4 0.1 \u2014 1.1 \u2014 \u2014 Separation costs \u2014 \u2014 19.0 1.4 \u2014 14.5 0.02 0.5 Acquisition contract termination costs \u2014 \u2014 9.1 0.6 \u2014 8.1 0.02 (0.1) Gain on remeasurement of previously held interest upon acquisition \u2014 \u2014 \u2014 \u2014 (30.5) (27.0) (0.05) \u2014 Prior period ongoing tax impacts \u2014 \u2014 \u2014 \u2014 \u2014 (2.0) \u2014 0.6 Adjusted $ 1,385.8 79.0 % $ 354.7 25.6 % $ 2.8 $ 349.4 $ 0.59 13.3 %",
+      "token_count": 229
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Twelve Months Ended December 31, 2025 Net Sales Gross Profit Margin Operating Income Operating Profit Margin Other Non-operating Income Net Income Diluted EPS Effective Tax Rate GAAP - Continuing Operations $ 6,067.6 78.0 % $ 1,264.2 20.8 % $ 7.2 $ 1,056.0 $ 1.81 17.0 % Net loss attributable to noncontrolling interests \u2014 \u2014 \u2014 \u2014 \u2014 4.1 \u2014 \u2014 Total attributable to Edwards Lifesciences Corp Corporation 6,067.6 78.0 % 1,264.2 20.8 % 7.2 1,060.1 1.81 17.0 % Non-GAAP adjustments: (A) (B) Certain litigation expenses \u2014 \u2014 325.4 5.5 \u2014 277.5 0.48 \u2014 Amortization of intangible assets \u2014 0.1 7.3 0.1 \u2014 5.6 \u2014 \u2014 Separation costs \u2014 \u2014 8.5 0.1 \u2014 6.5 0.01 \u2014 Restructuring expenses \u2014 \u2014 8.9 0.1 \u2014 6.8 0.01 \u2014 Intangible assets impairment charges \u2014 \u2014 40.0 0.7 \u2014 40.0 0.07 \u2014 Change in fair value of contingent consideration liabilities \u2014 \u2014 (12.5) (0.2) \u2014 (12.5) (0.02) \u2014 Acquisition contract termination costs \u2014 \u2014 1.7 \u2014 \u2014 1.7 \u2014 \u2014 Loss on impairment \u2014 \u2014 \u2014 \u2014 \u2014 112.5 0.20 \u2014 Adjusted $ 6,067.6 78.1 % $ 1,643.5 27.1 % $ 7.2 $ 1,498.2 $ 2.56 17.0 %",
+      "token_count": 252
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Twelve Months Ended December 31, 2024 Net Sales Gross Profit Margin Operating Income Operating Profit Margin Other Non-operating Income Net Income Diluted EPS Effective Tax Rate GAAP - Continuing Operations $ 5,439.5 79.5 % $ 1,378.7 25.3 % $ 68.9 $ 1,396.0 $ 2.34 9.8 % Net loss attributable to noncontrolling interests \u2014 \u2014 \u2014 \u2014 \u2014 4.9 \u2014 \u2014 Total attributable to Edwards Lifesciences Corp Corporation 5,439.5 79.5 % 1,378.7 25.3 % 68.9 1,400.9 2.34 9.8 % Non-GAAP adjustments: (A) (B) Certain litigation expenses \u2014 \u2014 40.4 0.7 \u2014 30.4 0.05 0.3 Amortization of intangible assets \u2014 \u2014 4.4 0.1 \u2014 3.5 \u2014 \u2014 Restructuring expenses \u2014 \u2014 32.9 0.6 \u2014 25.9 0.05 0.2 Charitable foundation contribution \u2014 \u2014 30.0 0.6 \u2014 22.7 0.04 0.3 Separation costs \u2014 \u2014 19.0 0.3 \u2014 14.5 0.02 0.2 Acquisition contract termination costs \u2014 \u2014 9.1 0.2 \u2014 8.1 0.02 0.1 Gain on remeasurement of previously held interest upon acquisition \u2014 \u2014 \u2014 \u2014 (55.1) (51.6) (0.09) 0.1 Prior period ongoing tax impacts \u2014 \u2014 \u2014 \u2014 \u2014 0.8 \u2014 \u2014 Adjusted $ 5,439.5 79.5 % $ 1,514.5 27.8 % $ 13.8 $ 1,455.2 $ 2.43 11.0 %",
+      "token_count": 258
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(A) See description of non-GAAP adjustments under \u201cNon-GAAP Financial Information.\u201d",
+      "token_count": 21
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(B) The tax effect on non-GAAP adjustments is calculated based upon the impact of the relevant tax jurisdictions\u2019 statutory tax rates on the Company\u2019s estimated annual effective tax rate, or discrete rate in the quarter, as applicable. The impact on the effective tax rate is reflected on each individual non-GAAP adjustment line item.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2025 Adjusted 2024 Adjusted Sales by Product Group (QTD) - Continuing Operations 4Q 2025 4Q 2024 Change GAAP Growth Rate* Implantable Heart Failure Management (A) 4Q 2025 Adjusted Sales FX Impact 4Q 2024 Adjusted Sales Constant Currency Growth Rate * Transcatheter Aortic Valve Replacement $ 1,160.3 $ 1,036.3 $ 124.0 12.0 % $ \u2014 $ 1,160.3 $ 13.5 $ 1,049.8 10.6 % Transcatheter Mitral and Tricuspid Therapies 155.7 105.1 50.6 48.3 % \u2014 155.7 2.9 108.0 44.1 % Surgical Structural Heart 253.6 244.4 9.2 3.8 % \u2014 253.6 3.7 248.1 2.2 % Total $ 1,569.6 $ 1,385.8 $ 183.8 13.3 % $ \u2014 $ 1,569.6 $ 20.1 $ 1,405.9 11.6 %",
+      "token_count": 152
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2025 Adjusted 2024 Adjusted Sales by Product Group (YTD) - Continuing Operations YTD 4Q 2025 YTD 4Q 2024 Change GAAP Growth Rate* Implantable Heart Failure Management (A) YTD 4Q 2025 Adjusted Sales FX Impact YTD 4Q 2024 Adjusted Sales Constant Currency Growth Rate * Transcatheter Aortic Valve Replacement $ 4,487.7 $ 4,106.1 $ 381.6 9.3 % $ \u2014 $ 4,487.7 $ 26.7 $ 4,132.8 8.6 % Transcatheter Mitral and Tricuspid Therapies 550.6 352.1 198.5 56.4 % (3.0) 547.6 5.8 357.9 53.1 % Surgical Structural Heart 1,029.3 981.3 48.0 4.9 % \u2014 1,029.3 5.9 987.2 4.3 % Total $ 6,067.6 $ 5,439.5 $ 628.1 11.5 % $ (3.0) $ 6,064.6 $ 38.4 $ 5,477.9 10.7 %",
+      "token_count": 159
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2025 Adjusted 2024 Adjusted Sales by Region (QTD) - Continuing Operations 4Q 2025 4Q 2024 Change GAAP Growth Rate* Implantable Heart Failure Management (A) 4Q 2025 Adjusted Sales FX Impact 4Q 2024 Adjusted Sales Constant Currency Growth Rate * United States $ 907.0 $ 812.9 $ 94.1 11.6 % $ \u2014 $ 907.0 $ \u2014 $ 812.9 11.6 % Europe 409.6 343.7 65.9 19.1 % \u2014 409.6 22.3 366.0 11.9 % Japan 87.5 85.9 1.6 1.9 % \u2014 87.5 (1.7) 84.2 3.9 % Rest of World 165.5 143.3 22.2 15.5 % \u2014 165.5 (0.5) 142.8 15.9 % Outside of the United States 662.6 572.9 89.7 15.6 % \u2014 662.6 20.1 593.0 11.7 % Total $ 1,569.6 $ 1,385.8 $ 183.8 13.3 % $ \u2014 $ 1,569.6 $ 20.1 $ 1,405.9 11.6 %",
+      "token_count": 162
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2025 Adjusted 2024 Adjusted Sales by Region (YTD) - Continuing Operations YTD 4Q 2025 YTD 4Q 2024 Change GAAP Growth Rate* Implantable Heart Failure Management (A) YTD 4Q 2025 Adjusted Sales FX Impact YTD 4Q 2024 Adjusted Sales Constant Currency Growth Rate * United States $ 3,543.1 $ 3,206.0 $ 337.1 10.5 % $ (3.0) $ 3,540.1 $ \u2014 $ 3,206.0 10.4 % Europe 1,517.5 1,321.7 195.8 14.8 % \u2014 1,517.5 44.6 1,366.3 11.1 % Japan 354.7 339.8 14.9 4.4 % \u2014 354.7 3.2 343.0 3.4 % Rest of World 652.3 572.0 80.3 14.0 % \u2014 652.3 (9.4) 562.6 15.9 % Outside of the United States 2,524.5 2,233.5 291.0 13.0 % \u2014 2,524.5 38.4 2,271.9 11.1 % Total $ 6,067.6 $ 5,439.5 $ 628.1 11.5 % $ (3.0) $ 6,064.6 $ 38.4 $ 5,477.9 10.7 %",
+      "token_count": 176
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(A) For the fourth quarter 2025, $2.1 million of revenues related to Implantable Heart Failure Management (\u201cIHFM\u201d) are included in TMTT and accounted as a part of its constant currency growth rates. For the year-to-date 2025, amounts represent revenues related to IHFM for January 2025 through August 2025. Beginning September 2025, $2.7 million of revenues related to IHFM are included in TMTT and accounted as a part of its constant currency growth rates.",
+      "token_count": 115
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "* Numbers may not calculate due to rounding.",
+      "token_count": 11
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2025Q3",
+      "value": 1553100000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2025Q3",
+      "value": 1207900000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2025Q3",
+      "value": 307100000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "2025Q3",
+      "value": 291100000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "ProfitLoss",
+      "period": "2025Q3",
+      "value": 290300000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2025Q3",
+      "value": 0.5,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "EarningsPerShareBasic",
+      "period": "2025Q3",
+      "value": 0.5,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X008",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2025Q3",
+      "value": 2685600000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X009",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2025Q3",
+      "value": 1144300000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": -0.06151,
+    "ret_20d": -0.071799,
+    "market_ret_20d": -0.004373
+  },
+  "outcome_blind": true
+}

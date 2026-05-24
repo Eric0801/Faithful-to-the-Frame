@@ -1,0 +1,1414 @@
+{
+  "event_id": "evt_0037",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "KROGER CO",
+  "ticker": "KR",
+  "company_alias": "KROGER CO",
+  "masked_company": "Company BI",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-03-05",
+  "accepted_at_et": "2026-03-05T01:52:13-05:00",
+  "source_packet_path": "source_packets/evt_0037.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "Identical Sales without fuel increased 2.4%",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Identical Sales without fuel increased 2.4%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "Operating Profit of $1,246 million; EPS of $1.35",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Operating Profit of $1,246 million; EPS of $1.35",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "Adjusted FIFO Operating Profit of $1,206 million and Adjusted EPS of $1.28",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Adjusted FIFO Operating Profit of $1,206 million and Adjusted EPS of $1.28",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "Adjusted eCommerce sales 1 increased 20%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Adjusted eCommerce sales 1 increased 20%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "Identical Sales without fuel 2 increased 2.9%",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Identical Sales without fuel 2 increased 2.9%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "Operating Profit of $1.9 billion; EPS of $1.54",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Operating Profit of $1.9 billion; EPS of $1.54",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "Includes $2.5 billion in previously announced impairment and related charges ($2.91 loss per diluted share) for the automated fulfillment network",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Includes $2.5 billion in previously announced impairment and related charges ($2.91 loss per diluted share) for the automated fulfillment network",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "Adjusted FIFO Operating Profit of $4.9 billion and Adjusted EPS of $4.85",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Adjusted FIFO Operating Profit of $4.9 billion and Adjusted EPS of $4.85",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "Delivered more than $16 billion in eCommerce sales",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Delivered more than $16 billion in eCommerce sales",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "Completed eCommerce strategic review, which is expected to deliver $400 million in eCommerce operating profit improvement in 2026, and establish a path to eCommerce profitability",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Completed eCommerce strategic review, which is expected to deliver $400 million in eCommerce operating profit improvement in 2026, and establish a path to eCommerce profitability",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "Delivered $1.5B in Operating Profit from Alternative Profit Businesses",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Delivered $1.5B in Operating Profit from Alternative Profit Businesses",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "Completed a $7.5 billion share repurchase authorization, including a $5 billion accelerated share repurchase program and $2.5 billion in open market transactions; Board of Directors approved an additional $2 billion share repurchase authorization",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Completed a $7.5 billion share repurchase authorization, including a $5 billion accelerated share repurchase program and $2.5 billion in open market transactions; Board of Directors approved an additional $2 billion share repurchase authorization",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "CINCINNATI, 2026-03-05T01:52:13-05:00 \u2013 The KROGER CO.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "CINCINNATI, 2026-03-05T01:52:13-05:00 \u2013 The KROGER CO. (NYSE: KR) today reported its fourth quarter and fiscal year 2025 results, provided 2026 guidance, and shared progress on key priorities.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "1 Adjusted eCommerce sales exclude the effect of fulfillment center exits in markets where KROGER CO does not operate stores, the sale of Vitacost, and the discontinuation of Ship Marketplace.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "1 Adjusted eCommerce sales exclude the effect of fulfillment center exits in markets where KROGER CO does not operate stores, the sale of Vitacost, and the discontinuation of Ship Marketplace.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "\u201cKROGER CO delivered a strong finish to the year, with improving market share trends and solid sales growth that reflect meaningful progress strengthening the business.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u201cKROGER CO delivered a strong finish to the year, with improving market share trends and solid sales growth that reflect meaningful progress strengthening the business.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "We have the right foundation in place, and I\u2019m focused on making it even stronger by delivering more value to customers, improving the customer experience in stores and online, and driving cost savings and productivity to fund our growth.\"",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "We have the right foundation in place, and I\u2019m focused on making it even stronger by delivering more value to customers, improving the customer experience in stores and online, and driving cost savings and productivity to fund our growth.\"",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted FIFO Operating Profit (Table 7)",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Adjusted FIFO Operating Profit (Table 7)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "risk_or_uncertainty",
+      "claim": "(1) Without fuel and adjustment items, if applicable, and includes an unfavorable 38 basis point impact from the Inflation Reduction Act.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "(1) Without fuel and adjustment items, if applicable, and includes an unfavorable 38 basis point impact from the Inflation Reduction Act.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "(2) Without rent, depreciation and amortization, fuel and adjustment items, if applicable.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "(2) Without rent, depreciation and amortization, fuel and adjustment items, if applicable.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "(3) Without fuel and adjustment items, if applicable.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "(3) Without fuel and adjustment items, if applicable.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "revenue",
+      "claim": "Total company sales were $34.7 billion in the fourth quarter compared to $34.3 billion for the same period last year.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Total company sales were $34.7 billion in the fourth quarter compared to $34.3 billion for the same period last year. Excluding fuel, sales increased 2.1% compared to the same period last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Gross margin was 23.1% of sales for the fourth quarter compared to 22.7% for the same period last year.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Gross margin was 23.1% of sales for the fourth quarter compared to 22.7% for the same period last year. The result was primarily attributable to sourcing improvements, lower supply chain costs, better fuel margins, decreased depreciation, and lower shrink, partially offset by...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "The FIFO gross margin rate, excluding rent, depreciation and amortization, and fuel, was flat compared to the same period last year.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "The FIFO gross margin rate, excluding rent, depreciation and amortization, and fuel, was flat compared to the same period last year. The result was primarily attributable to sourcing improvements, lower supply chain costs, and lower shrink offset by price investments and the m...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "The LIFO charge for the quarter was $11 million, compared to a LIFO charge of $30 million for the same period last year.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "The LIFO charge for the quarter was $11 million, compared to a LIFO charge of $30 million for the same period last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "The Operating, General and Administrative rate, excluding fuel and adjustment items, increased 21 basis points compared to the same period last year.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "The Operating, General and Administrative rate, excluding fuel and adjustment items, increased 21 basis points compared to the same period last year. The increase in rate was primarily attributable to cycling real estate gains from a year ago and labor investments to improve t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "Increased 44 basis points (including 30 basis points increase from the sale of KROGER CO Specialty Pharmacy)",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Increased 44 basis points (including 30 basis points increase from the sale of KROGER CO Specialty Pharmacy)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "Increased 29 basis points (including 22 basis points increase from the sale of KROGER CO Specialty Pharmacy)",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Increased 29 basis points (including 22 basis points increase from the sale of KROGER CO Specialty Pharmacy)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "risk_or_uncertainty",
+      "claim": "(1) Without fuel and adjustment items, if applicable, and includes an unfavorable 9 basis point impact from the Inflation Reduction Act.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "(1) Without fuel and adjustment items, if applicable, and includes an unfavorable 9 basis point impact from the Inflation Reduction Act.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "(2) Includes $2.5 billion in previously announced impairment and related charges ($2.91 loss per diluted share) for the automated fulfillment network in 2025.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "(2) Includes $2.5 billion in previously announced impairment and related charges ($2.91 loss per diluted share) for the automated fulfillment network in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "(3) Without rent, depreciation and amortization, fuel and adjustment items, if applicable.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "(3) Without rent, depreciation and amortization, fuel and adjustment items, if applicable.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "(4) Without fuel and adjustment items, if applicable.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "(4) Without fuel and adjustment items, if applicable.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Total company sales were $147.6 billion in 2025 compared to $147.1 billion in 2024, which included $2.0 billion from KROGER CO Specialty Pharmacy sales.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Total company sales were $147.6 billion in 2025 compared to $147.1 billion in 2024, which included $2.0 billion from KROGER CO Specialty Pharmacy sales. Excluding fuel and KROGER CO Specialty Pharmacy in both periods, sales increased 3.0% compared to last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Gross margin was 22.9% of sales for 2025 compared to 22.3% last year.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Gross margin was 22.9% of sales for 2025 compared to 22.3% last year. The improvement in rate was primarily attributable to the sale of KROGER CO Specialty Pharmacy, sourcing improvements, lower fuel sales, lower shrink, and lower supply chain costs partially offset by the mix...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "The FIFO gross margin rate, excluding rent, depreciation and amortization, fuel, and adjustment items, increased 44 basis points compared to last year.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "The FIFO gross margin rate, excluding rent, depreciation and amortization, fuel, and adjustment items, increased 44 basis points compared to last year. The improvement in rate was primarily attributable to the sale of KROGER CO Specialty Pharmacy, sourcing improvements, lower...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "The LIFO charge for 2025 was $157 million, compared to a LIFO charge of $95 million last year.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "The LIFO charge for 2025 was $157 million, compared to a LIFO charge of $95 million last year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "The Operating, General and Administrative rate, excluding fuel and adjustment items, increased 29 basis points compared to last year.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "The Operating, General and Administrative rate, excluding fuel and adjustment items, increased 29 basis points compared to last year. The increase in rate was primarily attributable to the sale of KROGER CO Specialty Pharmacy, partially offset by improved productivity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "guidance",
+      "claim": "KROGER CO expects to continue to generate strong free cash flow and remains committed to investing in the business to drive long-term sustainable net earnings growth, as well as maintaining its current investment grade debt rating.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "KROGER CO expects to continue to generate strong free cash flow and remains committed to investing in the business to drive long-term sustainable net earnings growth, as well as maintaining its current investment grade debt rating. The Company expects to continue to pay its qu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "As part of its previously announced $7.5 billion share repurchase authorization, KROGER CO executed a $5 billion accelerated share repurchase program and subsequently completed repurchases of the remaining authorization through open market share transactions by the end of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "As part of its previously announced $7.5 billion share repurchase authorization, KROGER CO executed a $5 billion accelerated share repurchase program and subsequently completed repurchases of the remaining authorization through open market share transactions by the end of fisc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "guidance",
+      "claim": "In December 2025, KROGER CO\u2019s Board of Directors approved an additional $2 billion share repurchase authorization.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "In December 2025, KROGER CO\u2019s Board of Directors approved an additional $2 billion share repurchase authorization. KROGER CO expects to complete these repurchases by the end of Fiscal 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "margins",
+      "claim": "KROGER CO\u2019s net total debt to adjusted EBITDA ratio is 1.76, compared to 1.79 a year ago (Table 5).",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "KROGER CO\u2019s net total debt to adjusted EBITDA ratio is 1.76, compared to 1.79 a year ago (Table 5). The company\u2019s net total debt to adjusted EBITDA ratio target range is 2.30 to 2.50. KROGER CO\u2019s strong balance sheet provides ample opportunities for the Company to invest in th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "* Without adjusted items, if applicable.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "* Without adjusted items, if applicable. KROGER CO is unable to provide a full reconciliation of the GAAP and non-GAAP measures used in 2026 guidance without unreasonable effort because it is not possible to predict certain of our adjustment items with a reasonable degree of c...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "earnings_or_eps",
+      "claim": "** Includes approximately 130 basis points unfavorable impact from the Inflation Reduction Act.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "** Includes approximately 130 basis points unfavorable impact from the Inflation Reduction Act.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "*** The adjusted tax rate reflects typical tax adjustments and does not reflect changes to the rate from the completion of income tax audit examinations and changes in tax laws and policies, which cannot be predicted.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "*** The adjusted tax rate reflects typical tax adjustments and does not reflect changes to the rate from the completion of income tax audit examinations and changes in tax laws and policies, which cannot be predicted.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "\u201cFor 2026, we expect identical sales without fuel growth of 1.0% to 2.0%, adjusted FIFO operating profit of $5.0 to $5.2 billion, and adjusted EPS of $5.10 to $5.30.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "\u201cFor 2026, we expect identical sales without fuel growth of 1.0% to 2.0%, adjusted FIFO operating profit of $5.0 to $5.2 billion, and adjusted EPS of $5.10 to $5.30. Our identical sales without fuel guidance includes an approximately 130 basis point headwind from the Inflation...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "This guidance reflects our ability to invest more aggressively in value for customers while improving gross margins, funded by eCommerce reaching profitability, meaningful procurement efficiencies, and productivity gains across the business.\u201d",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "This guidance reflects our ability to invest more aggressively in value for customers while improving gross margins, funded by eCommerce reaching profitability, meaningful procurement efficiencies, and productivity gains across the business.\u201d",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "earnings_or_eps",
+      "claim": "KROGER CO's fourth quarter 2025 ended on January 31, 2026.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "KROGER CO's fourth quarter 2025 ended on January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Note: Fuel sales have historically had a low gross margin rate and operating expense rate as compared to corresponding rates on non-fuel sales.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Note: Fuel sales have historically had a low gross margin rate and operating expense rate as compared to corresponding rates on non-fuel sales. As a result, KROGER CO discusses the changes in these rates excluding the effect of fuel.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "Please refer to the supplemental information presented in the tables for reconciliations of the non-GAAP financial measures used in this press release to the most comparable GAAP financial measure and related disclosure.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Please refer to the supplemental information presented in the tables for reconciliations of the non-GAAP financial measures used in this press release to the most comparable GAAP financial measure and related disclosure. As noted above, KROGER CO is unable to provide a full re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "KROGER CO's ability to achieve sales, earnings, incremental FIFO operating profit, and adjusted free cash flow goals may be affected by: labor negotiations; potential work stoppages; changes in the unemployment rate; pressures in the labor market; changes in government-funded benefit programs; changes in the types and numbers of businesses that compete with KROGER CO; pricing and promotional activities of existing and new competitors, and the aggressiveness of that competition; KROGER CO's response to these actions; the state of the economy, including interest rates, the inflationary, disinflationary and/or deflationary trends and such trends in certain commodities, products and/or operating costs; the geopolitical environment including wars and conflicts; unstable political situations and social unrest; changes in tariffs; the effect that fuel costs have on consumer spending; volatility of fuel margins; manufacturing commodity costs; supply constraints; diesel fuel costs related to KROGER CO\u2019s logistics operations; trends in consumer spending; the extent to which KROGER CO\u2019s customers exercise caution in their purchasing in response to economic conditions; the uncertainty of economic growth or recession; stock repurchases; changes in the regulatory environment in which KROGER CO operates, along with changes in federal policy and at state and federal regulatory agencies; KROGER CO\u2019s ability to retain pharmacy sales from third party payors; consolidation in the healthcare industry, including pharmacy benefit managers; KROGER CO\u2019s ability to negotiate modifications to multi-employer pension plans; natural disasters or adverse weather conditions; the effect of public health crises or other significant catastrophic events; the potential costs and risks associated with potential cyber-attacks or data security breaches; the success of KROGER CO's future growth plans; the ability to execute our growth strategy and value creation model, including continued cost savings, growth of our alternative profit businesses, and our ability to better serve our customers and to generate customer loyalty and sustainable growth through our strategic pillars of fresh, our brands, personalization, and eCommerce; the outcome of litigation matters, including those relating to the terminated transaction with Albertsons; and the risks relating to or arising from our opioid litigation settlements, including the risk of litigation relating to persons, entities, or jurisdictions that do not participate in those settlements .",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "KROGER CO's ability to achieve sales, earnings, incremental FIFO operating profit, and adjusted free cash flow goals may be affected by: labor negotiations; potential work stoppages; changes in the unemployment rate; pressures in the labor market; changes in government-funded...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "KROGER CO\u2019s adjusted effective tax rate may differ from the expected rate due to changes in tax laws and policies, the status of pending items with various taxing authorities, and the deductibility of certain expenses.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "KROGER CO\u2019s adjusted effective tax rate may differ from the expected rate due to changes in tax laws and policies, the status of pending items with various taxing authorities, and the deductibility of certain expenses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "earnings_or_eps",
+      "claim": "KROGER CO assumes no obligation to update the information contained herein unless required by applicable law.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "KROGER CO assumes no obligation to update the information contained herein unless required by applicable law. Please refer to KROGER CO's reports and filings with the Securities and Exchange Commission for a further discussion of these risks and uncertainties.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "margins",
+      "claim": "Reconciliation of Net Total Debt and Net Earnings Attributable to The KROGER CO.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Reconciliation of Net Total Debt and Net Earnings Attributable to The KROGER CO. to Adjusted EBITDA",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "Net Earnings Per Diluted Share Excluding the Adjustment Items",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Net Earnings Per Diluted Share Excluding the Adjustment Items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "Contacts: Media: Holly Stutz Smith (513) 762-1080; Investors: Rob Quast (513) 762-4969",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Contacts: Media: Holly Stutz Smith (513) 762-1080; Investors: Rob Quast (513) 762-4969",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "costs_or_expenses",
+      "claim": "MERCHANDISE COSTS, INCLUDING ADVERTISING, WAREHOUSING AND TRANSPORTATION (a), AND LIFO CHARGE (b)",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "MERCHANDISE COSTS, INCLUDING ADVERTISING, WAREHOUSING AND TRANSPORTATION (a), AND LIFO CHARGE (b)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "Certain percentages may not sum due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Certain percentages may not sum due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "The Company defines First-In First-Out (FIFO) gross profit as sales minus merchandise costs, including advertising, warehousing and transportation, but excluding the Last-In First-Out (LIFO) charge, rent and depreciation and amortization.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "The Company defines First-In First-Out (FIFO) gross profit as sales minus merchandise costs, including advertising, warehousing and transportation, but excluding the Last-In First-Out (LIFO) charge, rent and depreciation and amortization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "revenue",
+      "claim": "The Company defines FIFO gross margin as FIFO gross profit divided by sales.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "The Company defines FIFO gross margin as FIFO gross profit divided by sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "earnings_or_eps",
+      "claim": "The Company defines FIFO operating profit as operating profit excluding the LIFO charge.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "The Company defines FIFO operating profit as operating profit excluding the LIFO charge.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "revenue",
+      "claim": "The Company defines FIFO operating margin as FIFO operating profit divided by sales.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "The Company defines FIFO operating margin as FIFO operating profit divided by sales.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "The above FIFO financial metrics are important measures used by management to evaluate operational effectiveness.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "The above FIFO financial metrics are important measures used by management to evaluate operational effectiveness. Management believes these FIFO financial metrics are useful to investors and analysts because they measure our day-to-day operational effectiveness.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "costs_or_expenses",
+      "claim": "Merchandise costs (\"COGS\") and operating, general and administrative expenses (\"OG&A\") exclude depreciation and amortization expense and rent expense which are included in separate expense lines.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Merchandise costs (\"COGS\") and operating, general and administrative expenses (\"OG&A\") exclude depreciation and amortization expense and rent expense which are included in separate expense lines.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "balance_sheet_or_cash",
+      "claim": "Current portion of long-term debt including obligations under finance leases",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Current portion of long-term debt including obligations under finance leases",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "balance_sheet_or_cash",
+      "claim": "Payments for property and equipment, including payments for lease buyouts",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Payments for property and equipment, including payments for lease buyouts",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "balance_sheet_or_cash",
+      "claim": "Payments on long-term debt including obligations under finance leases",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Payments on long-term debt including obligations under finance leases",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "revenue",
+      "claim": "Table 4.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Table 4. Supplemental Sales Information",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "revenue",
+      "claim": "Items identified below should not be considered as alternatives to sales or any other GAAP measure of performance.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Items identified below should not be considered as alternatives to sales or any other GAAP measure of performance. Identical sales is an industry-specific measure, and it is important to review it in conjunction with KROGER CO's financial results reported in accordance with GA...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "revenue",
+      "claim": "KROGER CO defines identical sales, excluding fuel, as sales to retail customers, including sales from all departments at identical supermarket locations, jewelry and ship-to-home solutions.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "KROGER CO defines identical sales, excluding fuel, as sales to retail customers, including sales from all departments at identical supermarket locations, jewelry and ship-to-home solutions. KROGER CO defines a supermarket as identical when it has been in operation without expa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "revenue",
+      "claim": "(a) Identical sales, excluding fuel, were adjusted to exclude stores involved in the labor disputes in Colorado in the first quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "(a) Identical sales, excluding fuel, were adjusted to exclude stores involved in the labor disputes in Colorado in the first quarter of 2025. Identical sales, excluding fuel, were excluded for the first four weeks of the first quarter for stores involved in this labor dispute.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "balance_sheet_or_cash",
+      "claim": "Table 5.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Table 5. Reconciliation of Net Total Debt and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "margins",
+      "claim": "Net Earnings Attributable to The KROGER CO.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Net Earnings Attributable to The KROGER CO. to Adjusted EBITDA",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "margins",
+      "claim": "The items identified below should not be considered an alternative to any GAAP measure of performance or access to liquidity.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "The items identified below should not be considered an alternative to any GAAP measure of performance or access to liquidity. Net total debt to adjusted EBITDA is an important measure used by management to evaluate the Company's access to liquidity. The items below should be r...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "balance_sheet_or_cash",
+      "claim": "The following table provides a reconciliation of net total debt.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "The following table provides a reconciliation of net total debt.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "margins",
+      "claim": "The following table provides a reconciliation from net earnings attributable to The KROGER CO.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "The following table provides a reconciliation from net earnings attributable to The KROGER CO. to adjusted EBITDA, as defined in the Company's credit agreement, on a rolling four quarter basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "Adjustment for executive stock compensation for a former executive",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "Adjustment for executive stock compensation for a former executive",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "other",
+      "claim": "Adjustment for fulfillment network impairment and related charges",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Adjustment for fulfillment network impairment and related charges",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "(a) Merger-related costs primarily include third-party professional fees and credit facility fees associated with the terminated merger with Albertsons Companies, Inc.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "(a) Merger-related costs primarily include third-party professional fees and credit facility fees associated with the terminated merger with Albertsons Companies, Inc.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "Table 6.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "Table 6. Net Earnings Per Diluted Share Excluding the Adjustment Items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "other",
+      "claim": "The purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on net earnings per diluted common share for certain items described below.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "The purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on net earnings per diluted common share for certain items described below. Adjusted net earnings and adjusted net earnings per diluted share ar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "other",
+      "claim": "The following table summarizes items that affected the Company's financial results during the periods presented.",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "The following table summarizes items that affected the Company's financial results during the periods presented.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "other",
+      "claim": "Adjustment for executive stock compensation for a former executive (a)(e)",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "Adjustment for executive stock compensation for a former executive (a)(e)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "other",
+      "claim": "Adjustment for merger-related litigation and settlement charges (a)(g)",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "Adjustment for merger-related litigation and settlement charges (a)(g)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "other",
+      "claim": "Adjustment for opioid settlement charges and vendor reserves (a)(j)",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "Adjustment for opioid settlement charges and vendor reserves (a)(j)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "other",
+      "claim": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy (a)(l)",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy (a)(l)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "other",
+      "claim": "Adjustment for fulfillment network impairment and related charges (a)(n)",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "Adjustment for fulfillment network impairment and related charges (a)(n)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "other",
+      "claim": "Executive stock compensation for a former executive income tax adjustment",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "Executive stock compensation for a former executive income tax adjustment",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "other",
+      "claim": "Net earnings attributable to The KROGER CO.",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "Net earnings attributable to The KROGER CO. excluding the adjustment items above",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "other",
+      "claim": "Adjustment for executive stock compensation for a former executive (o)",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "Adjustment for executive stock compensation for a former executive (o)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "other",
+      "claim": "Adjustment for merger-related litigation and settlement charges (o)",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "Adjustment for merger-related litigation and settlement charges (o)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "other",
+      "claim": "Adjustment for opioid settlement charges and vendor reserves (o)",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "Adjustment for opioid settlement charges and vendor reserves (o)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "other",
+      "claim": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy (o)",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "Adjustment for gain on sale of KROGER CO Specialty Pharmacy (o)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "other",
+      "claim": "Adjustment for fulfillment network impairment and related charges (o)",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "Adjustment for fulfillment network impairment and related charges (o)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "other",
+      "claim": "Executive stock compensation for a former executive income tax adjustment (o)",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "Executive stock compensation for a former executive income tax adjustment (o)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "other",
+      "claim": "Net earnings attributable to The KROGER CO.",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "Net earnings attributable to The KROGER CO. per diluted common share excluding the adjustment items above",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "other",
+      "claim": "Table 6.",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "Table 6. Net Earnings Per Diluted Share Excluding the Adjustment Items (continued)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "other",
+      "claim": "The amounts presented represent the after-tax effect of each adjustment.",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "The amounts presented represent the after-tax effect of each adjustment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "other",
+      "claim": "The pre-tax adjustments for (gain) loss on investments were $(23) and $22 in the fourth quarters of 2025 and 2024, respectively.",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "The pre-tax adjustments for (gain) loss on investments were $(23) and $22 in the fourth quarters of 2025 and 2024, respectively. The year-to-date pre-tax adjustments for (gain) loss on investments were $41 and $148 in 2025 and 2024, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_099",
+      "category": "revenue",
+      "claim": "The pre-tax adjustments to Sales, COGS and OG&A expenses for labor dispute charges were $44.",
+      "value": null,
+      "source_ids": [
+        "S099"
+      ],
+      "source_quote": "The pre-tax adjustments to Sales, COGS and OG&A expenses for labor dispute charges were $44.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_100",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for store closures was $100.",
+      "value": null,
+      "source_ids": [
+        "S100"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for store closures was $100.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_101",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for executive stock compensation for a former executive was $(21).",
+      "value": null,
+      "source_ids": [
+        "S101"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for executive stock compensation for a former executive was $(21).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_102",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for merger-related costs was $175 in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S102"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for merger-related costs was $175 in the fourth quarter of 2024. The year-to-date pre-tax adjustment to OG&A expenses for merger-related costs was $684 in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_103",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for merger-related litigation and settlement charges was $17 in the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S103"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for merger-related litigation and settlement charges was $17 in the fourth quarter of 2025. The year-to-date pre-tax adjustment to OG&A expenses for merger-related litigation and settlement charges was $161 for 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_104",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for property losses was $25.",
+      "value": null,
+      "source_ids": [
+        "S104"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for property losses was $25.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_105",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to net interest expense for merger-related net interest expense was $34.",
+      "value": null,
+      "source_ids": [
+        "S105"
+      ],
+      "source_quote": "The pre-tax adjustment to net interest expense for merger-related net interest expense was $34.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_106",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustments to OG&A expenses for opioid settlement charges and vendor reserves were $(28) and $(27) in the fourth quarters of 2025 and 2024, respectively.",
+      "value": null,
+      "source_ids": [
+        "S106"
+      ],
+      "source_quote": "The pre-tax adjustments to OG&A expenses for opioid settlement charges and vendor reserves were $(28) and $(27) in the fourth quarters of 2025 and 2024, respectively. The year-to-date pre-tax adjustments to OG&A expenses for opioid settlement charges and vender reserves were $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_107",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustments to OG&A expenses for impairment of intangible assets were $50 and $30 in the fourth quarters and year-to-date in 2025 and 2024, respectively.",
+      "value": null,
+      "source_ids": [
+        "S107"
+      ],
+      "source_quote": "The pre-tax adjustments to OG&A expenses for impairment of intangible assets were $50 and $30 in the fourth quarters and year-to-date in 2025 and 2024, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_108",
+      "category": "other",
+      "claim": "The pre-tax adjustment for gain on sale of KROGER CO Specialty Pharmacy was $(79).",
+      "value": null,
+      "source_ids": [
+        "S108"
+      ],
+      "source_quote": "The pre-tax adjustment for gain on sale of KROGER CO Specialty Pharmacy was $(79).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_109",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for severance charge and related benefits was $32 in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S109"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for severance charge and related benefits was $32 in the fourth quarter of 2024. The year-to-date pre-tax adjustments to OG&A expenses for severance charges and related benefits were $47 in 2025 and $32 in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_110",
+      "category": "costs_or_expenses",
+      "claim": "The pre-tax adjustment to OG&A expenses for fulfillment network impairment and related charges was $(88) in the fourth quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S110"
+      ],
+      "source_quote": "The pre-tax adjustment to OG&A expenses for fulfillment network impairment and related charges was $(88) in the fourth quarter of 2025. The year-to-date pre-tax adjustment to OG&A expenses for fulfillment network impairment and related charges was $2,497 in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_111",
+      "category": "other",
+      "claim": "The amounts presented represent the net earnings (loss) per diluted common share effect of each adjustment.",
+      "value": null,
+      "source_ids": [
+        "S111"
+      ],
+      "source_quote": "The amounts presented represent the net earnings (loss) per diluted common share effect of each adjustment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_112",
+      "category": "other",
+      "claim": "2025 Fourth Quarter Adjustment Items include adjustments for the gain on investments, merger-related litigation and settlement charges, fulfillment network impairment and related charges, opioid settlement charges and vendor reserves and impairment of intangible assets.",
+      "value": null,
+      "source_ids": [
+        "S112"
+      ],
+      "source_quote": "2025 Fourth Quarter Adjustment Items include adjustments for the gain on investments, merger-related litigation and settlement charges, fulfillment network impairment and related charges, opioid settlement charges and vendor reserves and impairment of intangible assets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_113",
+      "category": "other",
+      "claim": "2025 Adjustment Items include the Fourth Quarter Adjustment Items plus the adjustments that occurred in the first three quarters of 2025 for the loss on investments, labor dispute charges, store closures, executive stock compensation for a former executive, merger-related litigation costs and settlement charges, opioid settlement charges and vendor reserves, severance charge and related benefits, fulfillment network impairment and related charges, executive stock compensation for a former executive income tax and held for sale income tax.",
+      "value": null,
+      "source_ids": [
+        "S113"
+      ],
+      "source_quote": "2025 Adjustment Items include the Fourth Quarter Adjustment Items plus the adjustments that occurred in the first three quarters of 2025 for the loss on investments, labor dispute charges, store closures, executive stock compensation for a former executive, merger-related liti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_114",
+      "category": "costs_or_expenses",
+      "claim": "2024 Fourth Quarter Adjustment Items include adjustments for the loss on investments, severance charge and related benefits, impairment of intangible assets, property losses, merger-related costs, merger-related net interest expense and opioid settlement charges.",
+      "value": null,
+      "source_ids": [
+        "S114"
+      ],
+      "source_quote": "2024 Fourth Quarter Adjustment Items include adjustments for the loss on investments, severance charge and related benefits, impairment of intangible assets, property losses, merger-related costs, merger-related net interest expense and opioid settlement charges.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_115",
+      "category": "other",
+      "claim": "2024 Adjustment Items include the Fourth Quarter Adjustment Items plus the adjustments that occurred in the first three quarters of 2024 for loss on investments, merger-related costs, the gain on sale of KROGER CO Specialty Pharmacy and held for sale income tax.",
+      "value": null,
+      "source_ids": [
+        "S115"
+      ],
+      "source_quote": "2024 Adjustment Items include the Fourth Quarter Adjustment Items plus the adjustments that occurred in the first three quarters of 2024 for loss on investments, merger-related costs, the gain on sale of KROGER CO Specialty Pharmacy and held for sale income tax.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_116",
+      "category": "earnings_or_eps",
+      "claim": "Table 7.",
+      "value": null,
+      "source_ids": [
+        "S116"
+      ],
+      "source_quote": "Table 7. Operating Profit Excluding the Adjustment Items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_117",
+      "category": "earnings_or_eps",
+      "claim": "The purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on operating profit for certain items described below.",
+      "value": null,
+      "source_ids": [
+        "S117"
+      ],
+      "source_quote": "The purpose of this table is to better illustrate comparable operating results from our ongoing business, after removing the effects on operating profit for certain items described below. Adjusted FIFO operating profit is a useful metric to investors and analysts because it pr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_118",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted FIFO operating profit excluding the adjustment items above",
+      "value": null,
+      "source_ids": [
+        "S118"
+      ],
+      "source_quote": "Adjusted FIFO operating profit excluding the adjustment items above",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_119",
+      "category": "other",
+      "claim": "(a) Merger-related costs primarily include third party professional fees and credit facility fees associated with the terminated merger with Albertsons Companies, Inc.",
+      "value": null,
+      "source_ids": [
+        "S119"
+      ],
+      "source_quote": "(a) Merger-related costs primarily include third party professional fees and credit facility fees associated with the terminated merger with Albertsons Companies, Inc.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_120",
+      "category": "balance_sheet_or_cash",
+      "claim": "Adjusted free cash flow is an important performance measure used by management, and management believes it is also a useful metric for investors and analysts to evaluate the Company's ability to generate additional funding from business operations available for dividends, managing debt levels, share repurchases and other strategic investments.",
+      "value": null,
+      "source_ids": [
+        "S120"
+      ],
+      "source_quote": "Adjusted free cash flow is an important performance measure used by management, and management believes it is also a useful metric for investors and analysts to evaluate the Company's ability to generate additional funding from business operations available for dividends, mana...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_121",
+      "category": "balance_sheet_or_cash",
+      "claim": "The following table sets forth a reconciliation of net cash provided by operating activities to adjusted free cash flow.",
+      "value": null,
+      "source_ids": [
+        "S121"
+      ],
+      "source_quote": "The following table sets forth a reconciliation of net cash provided by operating activities to adjusted free cash flow.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_122",
+      "category": "other",
+      "claim": "Adjustment for payments related to the Ocado exit liability",
+      "value": null,
+      "source_ids": [
+        "S122"
+      ],
+      "source_quote": "Adjustment for payments related to the Ocado exit liability",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_123",
+      "category": "costs_or_expenses",
+      "claim": "Adjustment for company pension plans and payments related to the restructuring of multi-employer pension plans",
+      "value": null,
+      "source_ids": [
+        "S123"
+      ],
+      "source_quote": "Adjustment for company pension plans and payments related to the restructuring of multi-employer pension plans",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_124",
+      "category": "margins",
+      "claim": "In the Consolidated Statements of Operations within Table 1, the Company separately presents rent and depreciation and amortization to evaluate operational effectiveness.",
+      "value": null,
+      "source_ids": [
+        "S124"
+      ],
+      "source_quote": "In the Consolidated Statements of Operations within Table 1, the Company separately presents rent and depreciation and amortization to evaluate operational effectiveness. The table below calculates gross margin in accordance with Generally Accepted Accounting Principles (\"GAAP...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_125",
+      "category": "earnings_or_eps",
+      "claim": "The following table provides the calculation of gross profit and gross margin in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S125"
+      ],
+      "source_quote": "The following table provides the calculation of gross profit and gross margin in accordance with GAAP.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_126",
+      "category": "other",
+      "claim": "Merchandise costs, including advertising, warehousing and transportation and LIFO charge, excluding rent and depreciation and amortization",
+      "value": null,
+      "source_ids": [
+        "S126"
+      ],
+      "source_quote": "Merchandise costs, including advertising, warehousing and transportation and LIFO charge, excluding rent and depreciation and amortization",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.005918, ret_20d=0.064843, market_ret_20d=-0.006381",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.005918, ret_20d=0.064843, market_ret_20d=-0.006381",
+      "support_label": "supported"
+    }
+  ]
+}

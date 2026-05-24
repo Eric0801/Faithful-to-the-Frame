@@ -1,0 +1,39 @@
+{
+  "event_id": "evt_0094",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CALIX, INC",
+  "ticker": "CALX",
+  "company_alias": "CALIX, INC",
+  "masked_company": "Company S",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-28",
+  "accepted_at_et": "2026-01-28T16:18:28-05:00",
+  "source_packet_path": "source_packets/evt_0094.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "CALIX, INC.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "CALIX, INC. (NYSE:CALX) \u2014 CALIX, INC delivers the industry\u2019s leading agentic AI cloud and appliance-based platform, purpose-built over two decades with open standards and advanced security so service providers of all sizes can transform into experience providers. The platform...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.062489, ret_20d=-0.008797, market_ret_20d=0.011005",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.062489, ret_20d=-0.008797, market_ret_20d=0.011005",
+      "support_label": "supported"
+    }
+  ]
+}

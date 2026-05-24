@@ -1,0 +1,666 @@
+{
+  "event_id": "evt_0065",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Asana, Inc.",
+  "ticker": "ASAN",
+  "company_alias": "Asana, Inc.",
+  "masked_company": "Company X",
+  "sector": "Information Technology",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-03-02",
+  "accepted_at_et": "2026-03-02T16:11:37-05:00",
+  "source_packet_path": "source_packets/evt_0065.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "Delivered Q4 revenue of $205.6 million, up 9% year over year Expanded Q4 GAAP operating margin by over 17 percentage points and non-GAAP operating margin by 10 percentage points",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Delivered Q4 revenue of $205.6 million, up 9% year over year Expanded Q4 GAAP operating margin by over 17 percentage points and non-GAAP operating margin by 10 percentage points",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "balance_sheet_or_cash",
+      "claim": "Grew Q4 operating cash flow by 74% and adjusted free cash flow by 108% year over year",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Grew Q4 operating cash flow by 74% and adjusted free cash flow by 108% year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Board authorized an additional $160M for share repurchases, bringing total authorization available to approximately $200M",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Board authorized an additional $160M for share repurchases, bringing total authorization available to approximately $200M",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "2026-03-02T16:11:37-05:00 \u2013 San Francisco, CA \u2013 Asana, Inc..",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "2026-03-02T16:11:37-05:00 \u2013 San Francisco, CA \u2013 Asana, Inc.. (NYSE:ASAN)(LTSE: Asana, Inc.), the system of action where humans and AI run work together, today reported financial results for its fourth quarter and fiscal year ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "\u201c FY26 was a year of meaningful progress as we advanced Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u201c FY26 was a year of meaningful progress as we advanced Asana, Inc. into a multi-product platform and strengthened our position as the foundational system of action layer for the Agentic Enterprise,\u201d said Chief Executive Officer of Asana, Inc.. \u201cWe exited Q4 with improving ent...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u201cIn Q4, we delivered a 9 percent non-GAAP operating margin, representing a 10 percentage point improvement year-over-year, driven by continued productivity and efficiency gains across the organization, and saw continued improvement in NRR driven by strong retention among our largest customers and improving underlying usage trends,\u201d said Chief Financial Officer of Asana, Inc..",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cIn Q4, we delivered a 9 percent non-GAAP operating margin, representing a 10 percentage point improvement year-over-year, driven by continued productivity and efficiency gains across the organization, and saw continued improvement in NRR driven by strong retention among our l...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u2022 Revenues: Revenues were $205.6 million, an increase of 9% year over year.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Revenues: Revenues were $205.6 million, an increase of 9% year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "\u2022 Operating Income/Loss: GAAP operating loss was $34.0 million, or 17% of revenues, compared to GAAP operating loss of $63.6 million, or 34% of revenues, in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Operating Income/Loss: GAAP operating loss was $34.0 million, or 17% of revenues, compared to GAAP operating loss of $63.6 million, or 34% of revenues, in the fourth quarter of fiscal 2025. Non-GAAP operating income was $18.2 million, or 9% of revenues, compared to non-GAAP...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net Income/Loss: GAAP net loss was $32.2 million, compared to GAAP net loss of $62.3 million in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Net Income/Loss: GAAP net loss was $32.2 million, compared to GAAP net loss of $62.3 million in the fourth quarter of fiscal 2025. GAAP net loss per share was $0.14, compared to GAAP net loss per share of $0.27 in the fourth quarter of fiscal 2025. Non-GAAP net income was $1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash Flow: Cash flows from operating activities were $27.6 million, compared to $15.9 million in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Cash Flow: Cash flows from operating activities were $27.6 million, compared to $15.9 million in the fourth quarter of fiscal 2025. Adjusted free cash flow was $25.7 million, compared to $12.3 million in the fourth quarter of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "\u2022 Revenues: Revenues were $790.8 million, an increase of 9% year over year.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Revenues: Revenues were $790.8 million, an increase of 9% year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "\u2022 Operating Income/Loss: GAAP operating loss was $197.3 million, or 25% of revenues, compared to GAAP operating loss of $266.7 million, or 37% of revenues,",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Operating Income/Loss: GAAP operating loss was $197.3 million, or 25% of revenues, compared to GAAP operating loss of $266.7 million, or 37% of revenues,",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "in fiscal 2025. Non-GAAP operating income was $56.7 million, or 7% of revenues, compared to non-GAAP operating loss of $40.8 million, or 6% of revenues, in fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net Income/Loss: GAAP net loss was $189.0 million, compared to GAAP net loss of $255.5 million in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 Net Income/Loss: GAAP net loss was $189.0 million, compared to GAAP net loss of $255.5 million in fiscal 2025. GAAP net loss per share was $0.80, compared to GAAP net loss per share of $1.11 in fiscal 2025. Non-GAAP net income was $65.0 million, compared to non-GAAP net loss...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Cash Flow: Cash flows from operating activities were $90.4 million, compared to $14.9 million in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Cash Flow: Cash flows from operating activities were $90.4 million, compared to $14.9 million in fiscal 2025. Adjusted free cash flow was $84.5 million, compared to $2.6 million in fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u2022 The number of Core customers, or customers spending $5,000 or more on an annualized basis, grew to 25,928 in Q4, an increase of 8% year over year.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 The number of Core customers, or customers spending $5,000 or more on an annualized basis, grew to 25,928 in Q4, an increase of 8% year over year. Revenues from Core customers in Q4 grew 10% year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "\u2022 The number of customers spending $100,000 or more on an annualized basis in Q4 grew to 817, an increase of 13% year over year.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 The number of customers spending $100,000 or more on an annualized basis in Q4 grew to 817, an increase of 13% year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "\u2022 Overall dollar-based net retention rate in Q4 was 96%.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Overall dollar-based net retention rate in Q4 was 96%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "\u2022 Dollar-based net retention rate for Core customers in Q4 was 97%.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 Dollar-based net retention rate for Core customers in Q4 was 97%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "\u2022 Dollar-based net retention rate for customers spending $100,000 or more on an annualized basis in Q4 was 96%.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Dollar-based net retention rate for customers spending $100,000 or more on an annualized basis in Q4 was 96%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "\u2022 Announced Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 Announced Asana, Inc. Gov, a FedRAMP-in-process platform that helps government agencies, regulated industries, and public sector partners manage complex programs, meet compliance standards, and collaborate securely.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "\u2022 Appointed Prachi Gore as Chief Marketing Officer to execute on a marketing vision that positions Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 Appointed Prachi Gore as Chief Marketing Officer to execute on a marketing vision that positions Asana, Inc. as a leader in the agentic enterprise.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "\u2022 Expanded Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 Expanded Asana, Inc. integrations across multiple major AI platforms. This includes the Asana, Inc. app in Claude which enables teams to turn brainstorms and conversations into structured work in Asana, Inc., complete with projects, portfolios, tasks, and owners.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "\u2022 Introduced timesheets and budgets add-ons for teams to easily track time, manage costs, and allocate resources to ensure projects stay on track.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 Introduced timesheets and budgets add-ons for teams to easily track time, manage costs, and allocate resources to ensure projects stay on track.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "\u2022 Named as one of the fastest-growing technology companies in North America by the Deloitte 2025 Technology Fast 500\u2122 list.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 Named as one of the fastest-growing technology companies in North America by the Deloitte 2025 Technology Fast 500\u2122 list.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "\u2022 Our Board of Directors increased our share repurchase authorization by $160 million.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "\u2022 Our Board of Directors increased our share repurchase authorization by $160 million. Asana, Inc. has close to $200 million available for future repurchases under the program.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "\u2022 Appointed Kevin Knieriem as Chief Revenue Officer to lead global revenue operations, bringing a proven track record of scaling enterprise SaaS businesses and aligning product-led and sales-led growth strategies.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 Appointed Kevin Knieriem as Chief Revenue Officer to lead global revenue operations, bringing a proven track record of scaling enterprise SaaS businesses and aligning product-led and sales-led growth strategies.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "\u2022 Revenues of $202.5 million to $204.5 million, representing year over year growth of 8.1% to 9.2%.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 Revenues of $202.5 million to $204.5 million, representing year over year growth of 8.1% to 9.2%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "\u2022 Non-GAAP operating profit of $15 million to $17 million, with 7.4% to 8.3% non-GAAP operating margin.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 Non-GAAP operating profit of $15 million to $17 million, with 7.4% to 8.3% non-GAAP operating margin.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "\u2022 Non-GAAP net income per share of $0.07 to $0.08, assuming diluted weighted average shares outstanding of approximately 241 million.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "\u2022 Non-GAAP net income per share of $0.07 to $0.08, assuming diluted weighted average shares outstanding of approximately 241 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "\u2022 Revenues of $850 million to $858 million, representing year over year growth of 7.5% to 8.5%.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 Revenues of $850 million to $858 million, representing year over year growth of 7.5% to 8.5%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "\u2022 Non-GAAP operating margin of at least 9.5%.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "\u2022 Non-GAAP operating margin of at least 9.5%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "\u2022 Non-GAAP net income per share of $0.36 to $0.37, assuming diluted weighted average shares outstanding of approximately 243 million.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 Non-GAAP net income per share of $0.36 to $0.37, assuming diluted weighted average shares outstanding of approximately 243 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "A reconciliation of non-GAAP outlook measures to corresponding GAAP measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, many of these costs and expenses that may be incurred in the future.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "A reconciliation of non-GAAP outlook measures to corresponding GAAP measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, many of these costs and expenses that may be incurred in the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "guidance",
+      "claim": "To supplement Asana, Inc.\u2019s consolidated financial statements, which are prepared and presented in accordance with GAAP, Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "To supplement Asana, Inc.\u2019s consolidated financial statements, which are prepared and presented in accordance with GAAP, Asana, Inc. utilizes certain non-GAAP financial measures to assist in understanding and evaluating its core operating performance. In this release, Asana, I...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "guidance",
+      "claim": "Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Asana, Inc. is presenting these non-GAAP financial measures because it believes that these non-GAAP financial measures provide useful information about its financial performance, enhance the overall understanding of Asana, Inc.\u2019s past performance and future prospects, facilita...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "guidance",
+      "claim": "Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Asana, Inc. believes the following adjustments and exclusions from its non-GAAP financial measures are useful to investors and others in assessing Asana, Inc.\u2019s operating performance due to the following factors:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "guidance",
+      "claim": "\u2022 Stock-based compensation expenses.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 Stock-based compensation expenses. Although stock-based compensation is an important aspect of the compensation of our employees and executives, management believes it is useful to exclude stock-based compensation expenses to better understand the long-term performance of As...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "guidance",
+      "claim": "\u2022 Employer payroll tax associated with RSUs.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Employer payroll tax associated with RSUs. The amount of employer payroll tax-related items on employee stock transactions is dependent on Asana, Inc.\u2019s stock price and other factors that are beyond its control and that do not correlate to the operation of the business.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "guidance",
+      "claim": "\u2022 Non-cash expenses .",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 Non-cash expenses . Non-cash expenses include charges for impairment of long-lived assets. We believe the exclusion of certain non-cash items provides useful supplemental information to investors and facilitates the analysis of its operating results and comparison of operati...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "\u2022 Restructuring related costs (benefits).",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "\u2022 Restructuring related costs (benefits). These charges are associated with the re-alignment of our organization to meet business needs, top strategic priorities, and key growth opportunities. We believe it is useful to exclude these expenses in order to better understand the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "\u2022 Revenues adjusted for the impact of foreign currency.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "\u2022 Revenues adjusted for the impact of foreign currency. Calculated by applying the comparative prior period average exchange rates to revenue recognized on invoices billed in currencies other than United States dollars in the current period. Asana, Inc. provides revenues adjus...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "There are a number of limitations related to the use of non-GAAP financial measures as compared to GAAP financial measures, including that the non-GAAP financial measures exclude stock-based compensation expense, which has been, and will continue to be for the foreseeable future, a significant recurring expense in Asana, Inc.\u2019s business and an important part of its compensation strategy.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "There are a number of limitations related to the use of non-GAAP financial measures as compared to GAAP financial measures, including that the non-GAAP financial measures exclude stock-based compensation expense, which has been, and will continue to be for the foreseeable futu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "In addition to the non-GAAP financial measures outlined above, Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "In addition to the non-GAAP financial measures outlined above, Asana, Inc. also uses the non-GAAP financial measure of adjusted free cash flow, which is defined as free cash flow plus costs paid related to restructuring. Asana, Inc. believes adjusted free cash flow is an impor...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "Customers spending $5,000 or more on an annualized basis, or Core customers",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Customers spending $5,000 or more on an annualized basis, or Core customers",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "We define customers spending $5,000 or more, which we also refer to as Core customers, as those organizations on a paid subscription plan that had $5,000 or more in annualized GAAP revenues in a given quarter, inclusive of discounts.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "We define customers spending $5,000 or more, which we also refer to as Core customers, as those organizations on a paid subscription plan that had $5,000 or more in annualized GAAP revenues in a given quarter, inclusive of discounts.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "Customers spending $100,000 or more on an annualized basis",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Customers spending $100,000 or more on an annualized basis",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "We define customers spending $100,000 or more as those organizations on a paid subscription plan that had $100,000 or more in annualized GAAP revenues in a given quarter, inclusive of discounts.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "We define customers spending $100,000 or more as those organizations on a paid subscription plan that had $100,000 or more in annualized GAAP revenues in a given quarter, inclusive of discounts.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "Asana, Inc.\u2019s reported dollar-based net retention rate equals the simple arithmetic average of its quarterly dollar-based net retention rate for the four quarters ending with the most recent fiscal quarter.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Asana, Inc.\u2019s reported dollar-based net retention rate equals the simple arithmetic average of its quarterly dollar-based net retention rate for the four quarters ending with the most recent fiscal quarter. Asana, Inc. calculates its dollar-based net retention rate by comparin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "guidance",
+      "claim": "Asana, Inc.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Asana, Inc. is the system of action where humans and AI run work together so individuals work smarter, teams move faster, and organizations deliver results. Powered by the Work Graph\u00ae data model, Asana, Inc. provides the context and governance that enables AI to operate inside...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Revenues $ 205,570 $ 188,334 $ 790,806 $ 723,876 Cost of revenues (1) 25,004 19,604 86,759 77,193 Gross profit 180,566 168,730 704,047 646,683 Operating expenses: Research and development (1) 73,180 84,239 301,496 341,467 Sales and marketing (1) 100,191 102,261 406,952 419,950 General and administrative (1) 41,180 45,819 192,930 152,001 Total operating expenses 214,551 232,319 901,378 913,418 Loss from operations (33,985) (63,589) (197,331) (266,735) Interest income and other income (expense), net 3,566 3,578 16,312 19,647 Interest expense (793) (852) (3,148) (3,683) Loss before provision for income taxes (31,212) (60,863) (184,167) (250,771) Provision for income taxes 1,001 1,436 4,857 4,765 Net loss $ (32,213) $ (62,299) $ (189,024) $ (255,536) Net loss per share: Basic and diluted $ (0.14) $ (0.27) $ (0.80) $ (1.11) Weighted-average shares used in calculating net loss per share: Basic and diluted 238,355 231,380 236,823 229,472",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Revenues $ 205,570 $ 188,334 $ 790,806 $ 723,876 Cost of revenues (1) 25,004 19,604 86,759 77,193 Gross profit 180,566 168,730 704,047 646,683 Operating expenses: Research and development (1) 73...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 523 $ 357 $ 1,803 $ 1,387 Research and development 24,724 27,081 106,174 115,953 Sales and marketing 11,606 15,986 58,089 64,320 General and administrative 12,923 7,145 48,777 29,611 Total stock-based compensation expense $ 49,776 $ 50,569 $ 214,843 $ 211,271",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 523 $ 357 $ 1,803 $ 1,387 Research and development 24,724 27,081 106,174 115,953 Sales and marketing 11,606 15,986 58,089 64,320 General and administrative 12,923 7,145 48,777...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "revenue",
+      "claim": "January 31, 2026 January 31, 2025 Assets Current assets Cash and cash equivalents $ 199,835 $ 184,728 Marketable securities 234,210 282,156 Restricted cash 418 136 Accounts receivable, net 110,312 87,567 Prepaid expenses and other current assets 48,573 46,154 Total current assets 593,348 600,741 Property and equipment, net 88,313 95,836 Operating lease right-of-use assets 133,422 166,545 Other assets 29,005 28,293 Total assets $ 844,088 $ 891,415 Liabilities and Stockholders\u2019 Equity Current liabilities Accounts payable $ 18,822 $ 9,922 Accrued expenses and other current liabilities 123,716 83,031 Deferred revenue, current 333,636 300,798 Operating lease liabilities, current 24,846 22,066 Total current liabilities 501,020 415,817 Term loan, net \u2014 39,291 Deferred revenue, noncurrent 220 2,005 Operating lease liabilities, noncurrent 183,749 201,733 Other liabilities 4,982 5,046 Total liabilities 689,971 663,892 Stockholders' equity Common stock 2 2 Additional paid-in capital 2,299,616 2,059,848 Accumulated other comprehensive income (loss) 4,205 (3,851) Accumulated deficit (2,149,706) (1,828,476) Total stockholders\u2019 equity 154,117 227,523 Total liabilities and stockholders\u2019 equity $ 844,088 $ 891,415",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "January 31, 2026 January 31, 2025 Assets Current assets Cash and cash equivalents $ 199,835 $ 184,728 Marketable securities 234,210 282,156 Restricted cash 418 136 Accounts receivable, net 110,312 87,567 Prepaid expenses and other current assets 48,573 46,154 Total current ass...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "guidance",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Cash flows from operating activities Net loss $ (32,213) $ (62,299) $ (189,024) $ (255,536) Adjustments to reconcile net loss to net cash provided by operating activities: Allowance for expected credit losses 276 2,165 1,868 3,190 Depreciation and amortization 6,119 4,813 22,037 17,543 Amortization of deferred contract acquisition costs 7,044 6,718 27,849 25,907 Stock-based compensation expense 49,776 50,569 214,843 211,271 Net accretion of discount on marketable securities (412) (864) (2,129) (5,510) Non-cash lease expense 4,577 4,439 18,265 17,967 Impairment of long-lived assets \u2014 6,785 30,716 6,785 Amortization of discount on revolving credit facility and term loan issuance costs 31 31 122 122 Changes in operating assets and liabilities: Accounts receivable (37,848) (25,271) (23,472) (4,661) Prepaid expenses and other current assets (4,112) (4,575) (28,823) (20,427) Other assets (1,192) 194 (631) (4,400) Accounts payable 4,708 (167) 7,317 4,443 Accrued expenses and other liabilities 8,244 18,012 3,408 6,604 Deferred revenue 28,727 20,661 31,053 31,581 Operating lease liabilities (6,135) (5,356) (23,038) (19,954) Net cash provided by operating activities 27,590 15,855 90,361 14,925 Cash flows from investing activities Purchases of marketable securities (18,078) (67,820) (179,155) (234,448) Sales of marketable securities 23,436 \u2014 23,436 \u2014 Maturities of marketable securities 40,688 44,996 206,264 240,601 Purchases of property and equipment (1,188) (1,505) (3,792) (5,569) Capitalized internal-use software costs (2,226) (2,011) (9,587) (6,713) Net cash provided by (used in) investing activities 42,632 (26,340) 37,166 (6,129) Cash flows from financing activities Repayment of term loan \u2014 (625) (3,750) (2,500) Repurchases of common stock (58,023) (4,485) (132,206) (78,354) Proceeds from exercise of stock options 2,186 5,217 5,021 9,101 Proceeds from employee stock purchase plan \u2014 \u2014 13,012 13,665 Taxes paid related to net share settlement of equity awards \u2014 \u2014 \u2014 (5) Net cash (used in) provided by financing activities (55,837) 107 (117,923) (58,093) Effect of foreign exchange rates on cash, cash equivalents, and restricted cash 1,990 (1,846) 5,785 (2,502) Net increase (decrease) in cash, cash equivalents, and restricted cash 16,375 (12,224) 15,389 (51,799) Cash, cash equivalents, and restricted cash Beginning of period 183,878 197,088 184,864 236,663 End of period $ 200,253 $ 184,864 $ 200,253 $ 184,864",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Cash flows from operating activities Net loss $ (32,213) $ (62,299) $ (189,024) $ (255,536) Adjustments to reconcile net loss to net cash provided by operating activities: Allowance for expected...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Reconciliation of gross profit and gross margin GAAP gross profit $ 180,566 $ 168,730 $ 704,047 $ 646,683 Plus: stock-based compensation and related employer payroll tax associated with RSUs 531 363 1,849 1,415 Non-GAAP gross profit $ 181,097 $ 169,093 $ 705,896 $ 648,098 GAAP gross margin 87.8 % 89.6 % 89.0 % 89.3 % Non-GAAP adjustments 0.3 % 0.2 % 0.3 % 0.2 % Non-GAAP gross margin 88.1 % 89.8 % 89.3 % 89.5 % Reconciliation of operating expenses GAAP research and development $ 73,180 $ 84,239 $ 301,496 $ 341,467 Less: stock-based compensation and related employer payroll tax associated with RSUs (25,260) (27,019) (108,831) (117,916) Adjustment for: restructuring costs (182) (2,492) (1,130) (2,492) Non-GAAP research and development $ 47,738 $ 54,728 $ 191,535 $ 221,059 GAAP research and development as percentage of revenue 35.6 % 44.7 % 38.1 % 47.2 % Non-GAAP research and development as percentage of revenue 23.2 % 29.1 % 24.2 % 30.5 % GAAP sales and marketing $ 100,191 $ 102,261 $ 406,952 $ 419,950 Less: stock-based compensation and related employer payroll tax associated with RSUs (11,799) (16,035) (59,354) (65,269) Adjustment for: restructuring costs (331) (1,241) (1,162) (1,241) Non-GAAP sales and marketing $ 88,061 $ 84,985 $ 346,436 $ 353,440 GAAP sales and marketing as percentage of revenue 48.7 % 54.3 % 51.5 % 58.0 % Non-GAAP sales and marketing as percentage of revenue 42.8 % 45.1 % 43.8 % 48.8 % GAAP general and administrative $ 41,180 $ 45,819 $ 192,930 $ 152,001 Less: stock-based compensation and related employer payroll tax associated with RSUs (13,217) (7,185) (49,669) (30,089) Less: impairment of long-lived assets \u2014 (6,785) (30,716) (6,785) Adjustment for: restructuring costs (837) (741) (1,275) (741) Non-GAAP general and administrative $ 27,126 $ 31,108 $ 111,270 $ 114,386 GAAP general and administrative as percentage of revenue 20.0 % 24.3 % 24.4 % 21.0 % Non-GAAP general and administrative as percentage of revenue 13.2 % 16.5 % 14.1 % 15.8 % Reconciliation of operating loss and operating margin GAAP loss from operations $ (33,985) $ (63,589) $ (197,331) $ (266,735) Plus: stock-based compensation and related employer payroll tax associated with RSUs 50,807 50,602 219,703 214,689 Plus: impairment of long-lived assets \u2014 6,785 30,716 6,785 Adjustment for: restructuring costs 1,350 4,474 3,567 4,474 Non-GAAP income (loss) from operations $ 18,172 $ (1,728) $ 56,655 $ (40,787) GAAP operating margin (16.5) % (33.8) % (25.0) % (36.8) % Non-GAAP adjustments 25.3 % 32.9 % 32.2 % 31.2 % Non-GAAP operating margin 8.8 % (0.9) % 7.2 % (5.6) %",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Reconciliation of gross profit and gross margin GAAP gross profit $ 180,566 $ 168,730 $ 704,047 $ 646,683 Plus: stock-based compensation and related employer payroll tax associated with RSUs 531...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Reconciliation of net income (loss) GAAP net loss $ (32,213) $ (62,299) $ (189,024) $ (255,536) Plus: stock-based compensation and related employer payroll tax associated with RSUs 50,807 50,602 219,703 214,689 Plus: impairment of long-lived assets \u2014 6,785 30,716 6,785 Adjustment for: restructuring costs 1,350 4,474 3,567 4,474 Non-GAAP net income (loss) $ 19,944 $ (438) $ 64,962 $ (29,588) Reconciliation of net income (loss) per share GAAP net loss per share, basic $ (0.14) $ (0.27) $ (0.80) $ (1.11) Non-GAAP adjustments to net loss 0.22 0.27 1.07 0.98 Non-GAAP net income (loss) per share, basic $ 0.08 $ \u2014 $ 0.27 $ (0.13) Weighted-average shares used in GAAP per share calculation, basic and diluted and non-GAAP per share calculation, basic 238,355 231,380 236,823 229,472 GAAP net loss per share, diluted $ (0.14) $ (0.27) $ (0.80) $ (1.11) Non-GAAP adjustments to net loss 0.22 0.27 1.07 0.98 Non-GAAP net income (loss) per share, diluted $ 0.08 $ \u2014 $ 0.27 $ (0.13) Weighted-average shares used in non-GAAP per share calculation, diluted 242,613 231,380 242,575 229,472",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Reconciliation of net income (loss) GAAP net loss $ (32,213) $ (62,299) $ (189,024) $ (255,536) Plus: stock-based compensation and related employer payroll tax associated with RSUs 50,807 50,602...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Computation of free cash flow and adjusted free cash flow Net cash provided by (used in) investing activities $ 42,632 $ (26,340) $ 37,166 $ (6,129) Net cash (used in) provided by financing activities $ (55,837) $ 107 $ (117,923) $ (58,093) Net cash provided by operating activities $ 27,590 $ 15,855 $ 90,361 $ 14,925 Less: purchases of property and equipment (1,188) (1,505) (3,792) (5,569) Less: capitalized internal-use software costs (2,226) (2,011) (9,587) (6,713) Free cash flow $ 24,176 $ 12,339 $ 76,982 $ 2,643 Plus: restructuring costs paid 1,549 \u2014 7,493 \u2014 Adjusted free cash flow $ 25,725 $ 12,339 $ 84,475 $ 2,643",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Computation of free cash flow and adjusted free cash flow Net cash provided by (used in) investing activities $ 42,632 $ (26,340) $ 37,166 $ (6,129) Net cash (used in) provided by financing acti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Computation of revenue adjusted for impact of foreign currency GAAP revenue $ 205,570 $ 188,334 $ 790,806 $ 723,876 Adjustment for: impact of foreign currency (1,571) 735 (2,822) 624 Revenue adjusted for impact of foreign currency $ 203,999 $ 189,069 $ 787,984 $ 724,500",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Three Months Ended January 31, Twelve Months Ended January 31, 2026 2025 2026 2025 Computation of revenue adjusted for impact of foreign currency GAAP revenue $ 205,570 $ 188,334 $ 790,806 $ 723,876 Adjustment for: impact of foreign currency (1,571) 735 (2,822) 624 Revenue adj...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.109423, ret_20d=-0.287805, market_ret_20d=-0.008078",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.109423, ret_20d=-0.287805, market_ret_20d=-0.008078",
+      "support_label": "supported"
+    }
+  ]
+}

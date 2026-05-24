@@ -1,0 +1,820 @@
+{
+  "event_id": "evt_0048",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CarGurus, Inc.",
+  "ticker": "CARG",
+  "company_alias": "CarGurus, Inc.",
+  "masked_company": "Company Y",
+  "sector": "Communication Services",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-19",
+  "accepted_at_et": "2026-02-19T16:10:33-05:00",
+  "source_packet_path": "source_packets/evt_0048.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "Full-year 2025 revenue from continuing operations grew 14% YoY for the second consecutive year",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Full-year 2025 revenue from continuing operations grew 14% YoY for the second consecutive year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "earnings_or_eps",
+      "claim": "Full-year 2025 GAAP Net Income from continuing operations of $196.7 million, up 53% YoY; Non-GAAP Adjusted EBITDA from continuing operations of $319.0 million, up 25% YoY",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Full-year 2025 GAAP Net Income from continuing operations of $196.7 million, up 53% YoY; Non-GAAP Adjusted EBITDA from continuing operations of $319.0 million, up 25% YoY",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Repurchased approximately $350 million worth of shares in 2025, and announces new $250.0 million share repurchase program for 2026",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Repurchased approximately $350 million worth of shares in 2025, and announces new $250.0 million share repurchase program for 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "BOSTON, 2026-02-19T16:10:33-05:00 - CarGurus, Inc..",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "BOSTON, 2026-02-19T16:10:33-05:00 - CarGurus, Inc.. (Nasdaq:CARG), the No. 1 visited automotive shopping site in the U.S. 1 , today announced financial results for the fourth quarter and year ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u201c2025 was a pivotal year for CarGurus, Inc.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u201c2025 was a pivotal year for CarGurus, Inc. as we delivered strong financial performance while expanding our products and use cases across both dealer workflows and the consumer journey,\u201d said Chief Executive Officer at CarGurus, Inc.. \u201cFull-year revenue grew 14% for the secon...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "Below are our financial highlights from continuing operations for the three months and year ended December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Below are our financial highlights from continuing operations for the three months and year ended December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "earnings_or_eps",
+      "claim": "GAAP Net Income from continuing operations (3)",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "GAAP Net Income from continuing operations (3)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "margins",
+      "claim": "Non-GAAP Adjusted EBITDA from continuing operations (4)",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Non-GAAP Adjusted EBITDA from continuing operations (4)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash and Cash Equivalents as of December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Cash and Cash Equivalents as of December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "During the three months ended December 31, 2025 and 2024, and the year ended December 31, 2025, there was no impairment recorded.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "During the three months ended December 31, 2025 and 2024, and the year ended December 31, 2025, there was no impairment recorded. During the year ended December 31, 2024, we recorded $9.8 million of impairments in cost of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "During the three months ended December 31, 2025 and 2024, there was no impairment recorded.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "During the three months ended December 31, 2025 and 2024, there was no impairment recorded. During the years ended December 31, 2025 and 2024, we recorded $0.5 million and $11.8 million, respectively, of impairments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "During the three months ended December 31, 2025 and 2024, there was no impairment recorded.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "During the three months ended December 31, 2025 and 2024, there was no impairment recorded. During the years ended December 31, 2025 and 2024, we recorded $0.5 million and $21.5 million, respectively, of impairments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "margins",
+      "claim": "For more information regarding our use of non-GAAP Adjusted EBITDA from continuing operations and other non-GAAP financial measures, please see the reconciliations of GAAP financial measures to non-GAAP financial measures and the section titled \u201cNon-GAAP Financial Measures and Other Business Metrics\u201d below.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "For more information regarding our use of non-GAAP Adjusted EBITDA from continuing operations and other non-GAAP financial measures, please see the reconciliations of GAAP financial measures to non-GAAP financial measures and the section titled \u201cNon-GAAP Financial Measures and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "For more information regarding our use of Key Performance Indicators, please see the section titled \u201cNon-GAAP Financial Measures and Other Business Metrics\u201d below.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "For more information regarding our use of Key Performance Indicators, please see the section titled \u201cNon-GAAP Financial Measures and Other Business Metrics\u201d below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "The table below provides CarGurus, Inc.\u2019 guidance, which is based on recent market trends, industry conditions, and management\u2019s expectations and assumptions as of today.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "The table below provides CarGurus, Inc.\u2019 guidance, which is based on recent market trends, industry conditions, and management\u2019s expectations and assumptions as of today.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "Non-GAAP Adjusted EBITDA from continuing operations margin change YoY",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Non-GAAP Adjusted EBITDA from continuing operations margin change YoY",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "The first quarter 2026 non-GAAP earnings per share calculations assumes 94.0 million diluted weighted-average common shares outstanding.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "The first quarter 2026 non-GAAP earnings per share calculations assumes 94.0 million diluted weighted-average common shares outstanding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "The assumptions that are built into guidance for the first quarter and full-year 2026 regarding our pace of paid dealer acquisition, churn, and expansion activity for the relevant period are based on recent market trends and industry conditions.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "The assumptions that are built into guidance for the first quarter and full-year 2026 regarding our pace of paid dealer acquisition, churn, and expansion activity for the relevant period are based on recent market trends and industry conditions. Guidance for the first quarter...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "CarGurus, Inc.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "CarGurus, Inc. has not reconciled its guidance of non-GAAP Adjusted EBITDA from continuing operations to GAAP net income from continuing operations or non-GAAP earnings per share from continuing operations to GAAP earnings per share because we are unable to accurately predict...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "On August 6, 2025, the Board of Directors of CarGurus, Inc.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "On August 6, 2025, the Board of Directors of CarGurus, Inc. determined, after considering all reasonably available options and a broader strategic reassessment, that it is in the best interests of its stockholders to wind down CarOffer, LLC (\u201cCarOffer\u201d), including the CarOffer...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "The wind-down of CarOffer was completed and the business was considered abandoned for accounting purposes as of December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "The wind-down of CarOffer was completed and the business was considered abandoned for accounting purposes as of December 31, 2025. We have presented the financial results of CarOffer as discontinued operations in our unaudited condensed consolidated financial statements for al...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "Beginning in the fourth quarter of 2025, in connection with the wind-down of CarOffer, our chief executive officer, who acts as the chief operating decision maker (\u201cCODM\u201d), began to manage our business, make operating decisions, and evaluate operating performance based on consolidated results.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Beginning in the fourth quarter of 2025, in connection with the wind-down of CarOffer, our chief executive officer, who acts as the chief operating decision maker (\u201cCODM\u201d), began to manage our business, make operating decisions, and evaluate operating performance based on cons...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "CarGurus, Inc.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "CarGurus, Inc. (Nasdaq:CARG) is the leading multinational automotive platform helping consumers and dealers confidently buy and sell vehicles. Founded in 2006 with a mission to bring more trust and transparency to car shopping, CarGurus, Inc. is the No. 1 visited automotive sh...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "CarGurus, Inc.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "CarGurus, Inc. operates online marketplaces in the U.S., U.K., and Canada. The company\u2019s network of brands includes PistonHeads, the largest online motoring community in the U.K. 3 , and Autolist, a U.S.- based online marketplace.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "To learn more about CarGurus, Inc., visit www.CarGurus, Inc..com.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "To learn more about CarGurus, Inc., visit www.CarGurus, Inc..com.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "1 Similarweb: Traffic and Engagement Report (Cars.com, Autotrader.com, TrueCar.com, CARFAX.com Listings (defined as CARFAX.com Total Visits minus Vehicle History Reports)), Q4 2025, U.S.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "1 Similarweb: Traffic and Engagement Report (Cars.com, Autotrader.com, TrueCar.com, CARFAX.com Listings (defined as CARFAX.com Total Visits minus Vehicle History Reports)), Q4 2025, U.S.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "2 Compared to Autotrader.com, Cars.com, TrueCar.com, and CARFAX (YipitData as of December 31, 2025)",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "2 Compared to Autotrader.com, Cars.com, TrueCar.com, and CARFAX (YipitData as of December 31, 2025)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "3 Similarweb: Traffic Insights, Q4 2025, U.K.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "3 Similarweb: Traffic Insights, Q4 2025, U.K.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "CarGurus, Inc.\u00ae and Autolist\u00ae are each a registered trademark of CarGurus, Inc.., and PistonHeads\u00ae is a registered trademark of CarGurus, Inc.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "CarGurus, Inc.\u00ae and Autolist\u00ae are each a registered trademark of CarGurus, Inc.., and PistonHeads\u00ae is a registered trademark of CarGurus, Inc. Ireland Limited in the U.K. and the European Union. All other product names, trademarks, and registered trademarks are property of the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "\u00a9 2026 CarGurus, Inc.., All Rights Reserved.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "\u00a9 2026 CarGurus, Inc.., All Rights Reserved.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "Accounts receivable, net of allowance for doubtful accounts of $600 and $696, respectively",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Accounts receivable, net of allowance for doubtful accounts of $600 and $696, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "costs_or_expenses",
+      "claim": "Prepaid expenses, prepaid income taxes and other current assets",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Prepaid expenses, prepaid income taxes and other current assets",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "Accrued expenses, accrued income taxes and other current liabilities",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Accrued expenses, accrued income taxes and other current liabilities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "Preferred stock, $0.001 par value per share; 10,000,000 shares authorized; no shares issued and outstanding",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Preferred stock, $0.001 par value per share; 10,000,000 shares authorized; no shares issued and outstanding",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "Class A common stock, $0.001 par value per share; 500,000,000 shares authorized; 80,667,475 and 89,002,571 shares issued and outstanding at December 31, 2025 and 2024, respectively",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Class A common stock, $0.001 par value per share; 500,000,000 shares authorized; 80,667,475 and 89,002,571 shares issued and outstanding at December 31, 2025 and 2024, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "Class B common stock, $0.001 par value per share; 100,000,000 shares authorized; 14,216,250 and 14,986,745 shares issued and outstanding at December 31, 2025 and 2024, respectively",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Class B common stock, $0.001 par value per share; 100,000,000 shares authorized; 14,216,250 and 14,986,745 shares issued and outstanding at December 31, 2025 and 2024, respectively",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Net loss from discontinued operations, net of tax benefits",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Net loss from discontinued operations, net of tax benefits",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "earnings_or_eps",
+      "claim": "Weighted\u2013average number of shares of common stock used in computing net income per share attributable to common stockholders",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Weighted\u2013average number of shares of common stock used in computing net income per share attributable to common stockholders",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "For the three months ended December 31, 2025 and 2024, and for the years ended December 31, 2025 and 2024, cost of revenue includes $2.8 million, $1.7 million, $9.3 million, and $8.5 million, respectively, of depreciation and amortization expense.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "For the three months ended December 31, 2025 and 2024, and for the years ended December 31, 2025 and 2024, cost of revenue includes $2.8 million, $1.7 million, $9.3 million, and $8.5 million, respectively, of depreciation and amortization expense.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "revenue",
+      "claim": "For the three months ended December 31, 2025 and 2024, and for the year ended December 31, 2025, there was no impairment recorded in cost of revenue.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "For the three months ended December 31, 2025 and 2024, and for the year ended December 31, 2025, there was no impairment recorded in cost of revenue. For the year ended December 31, 2024, we recorded $9.8 million in impairments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "earnings_or_eps",
+      "claim": "Adjustments to reconcile consolidated net income to net cash provided by operating activities",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Adjustments to reconcile consolidated net income to net cash provided by operating activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "Proceeds from issuance of common stock upon exercise of stock options",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Proceeds from issuance of common stock upon exercise of stock options",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "Payment of withholding taxes on net share settlements of restricted stock units",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Payment of withholding taxes on net share settlements of restricted stock units",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "other",
+      "claim": "Payment of excise taxes on repurchases of common stock",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Payment of excise taxes on repurchases of common stock",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "Change in gross advance payments received from third-party transaction processor",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Change in gross advance payments received from third-party transaction processor",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "balance_sheet_or_cash",
+      "claim": "Impact of foreign currency on cash, cash equivalents, and restricted cash",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Impact of foreign currency on cash, cash equivalents, and restricted cash",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net increase (decrease) in cash, cash equivalents, and restricted cash",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Net increase (decrease) in cash, cash equivalents, and restricted cash",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash at end of period",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash at end of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "Unaudited Reconciliation of GAAP Gross Profit from Continuing Operations to Non-GAAP Gross Profit from Continuing Operations and GAAP Gross Profit from Continuing Operations Margin to Non-GAAP Gross Profit from Continuing Operations Margin",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Unaudited Reconciliation of GAAP Gross Profit from Continuing Operations to Non-GAAP Gross Profit from Continuing Operations and GAAP Gross Profit from Continuing Operations Margin to Non-GAAP Gross Profit from Continuing Operations Margin",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "earnings_or_eps",
+      "claim": "Unaudited Reconciliation of GAAP Net Income from Continuing Operations to Non-GAAP Net Income from Continuing Operations and GAAP Net Income from Continuing Operations Per Share Attributable to Common Stockholders to Non-GAAP Net Income from Continuing Operations Per Share Attributable to Common Stockholders",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Unaudited Reconciliation of GAAP Net Income from Continuing Operations to Non-GAAP Net Income from Continuing Operations and GAAP Net Income from Continuing Operations Per Share Attributable to Common Stockholders to Non-GAAP Net Income from Continuing Operations Per Share Att...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "earnings_or_eps",
+      "claim": "GAAP net income from continuing operations per share attributable to common stockholders",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "GAAP net income from continuing operations per share attributable to common stockholders",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "earnings_or_eps",
+      "claim": "Non-GAAP net income from continuing operations per share attributable to common stockholders",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Non-GAAP net income from continuing operations per share attributable to common stockholders",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "Shares used in GAAP and Non-GAAP per share calculations",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Shares used in GAAP and Non-GAAP per share calculations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "earnings_or_eps",
+      "claim": "Unaudited Reconciliation of GAAP Net Income from Continuing Operations to Non-GAAP Adjusted EBITDA from Continuing Operations and GAAP Net Income from Continuing Operations Margin to Non-GAAP Adjusted EBITDA from Continuing Operations Margin",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Unaudited Reconciliation of GAAP Net Income from Continuing Operations to Non-GAAP Adjusted EBITDA from Continuing Operations and GAAP Net Income from Continuing Operations Margin to Non-GAAP Adjusted EBITDA from Continuing Operations Margin",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "costs_or_expenses",
+      "claim": "Unaudited Reconciliation of GAAP Expense from Continuing Operations to Non-GAAP Expense from Continuing Operations",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Unaudited Reconciliation of GAAP Expense from Continuing Operations to Non-GAAP Expense from Continuing Operations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "Three Months Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "costs_or_expenses",
+      "claim": "Operating expenses from continuing operations (1)",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Operating expenses from continuing operations (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "Total cost of revenue and operating expenses from continuing operations",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Total cost of revenue and operating expenses from continuing operations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "Three Months Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "revenue",
+      "claim": "Operating expenses include sales and marketing, product, technology, and development, general and administrative, impairments, and depreciation & amortization.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Operating expenses include sales and marketing, product, technology, and development, general and administrative, impairments, and depreciation & amortization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "balance_sheet_or_cash",
+      "claim": "Unaudited Reconciliation of GAAP Net Cash and Cash Equivalents Provided by Operating Activities to Non-GAAP Free Cash Flow",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Unaudited Reconciliation of GAAP Net Cash and Cash Equivalents Provided by Operating Activities to Non-GAAP Free Cash Flow",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "balance_sheet_or_cash",
+      "claim": "GAAP net cash and cash equivalents provided by operating activities",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "GAAP net cash and cash equivalents provided by operating activities",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "other",
+      "claim": "To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "To supplement our consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the U.S. (\"GAAP\"), we provide investors with certain non-GAAP financial measures and other business metrics, which we believe ar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "The presentation of non-GAAP financial information and other business metrics is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "The presentation of non-GAAP financial information and other business metrics is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with GAAP. While our non-GAAP financial measures and other business...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "guidance",
+      "claim": "While a reconciliation of non-GAAP guidance measures to corresponding GAAP measures is not available on a forward-looking basis because we are unable to accurately predict without unreasonable effort the exact amount or timing of certain reconciling items between such GAAP and non-GAAP financial measures, including, as applicable, depreciation expenses, amortization of intangible assets, non-intangible amortization, stock-based compensation, transaction-related expenses, impairments, and income tax effects, we have provided a reconciliation of non-GAAP financial measures and other business metrics to the nearest comparable GAAP measures in the accompanying financial statement tables included in this press release.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "While a reconciliation of non-GAAP guidance measures to corresponding GAAP measures is not available on a forward-looking basis because we are unable to accurately predict without unreasonable effort the exact amount or timing of certain reconciling items between such GAAP and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "revenue",
+      "claim": "We monitor operating measures of certain non-GAAP items including non-GAAP gross profit from continuing operations, non-GAAP gross margin from continuing operations, non-GAAP expense from continuing operations, non-GAAP net income from continuing operations, and non-GAAP net income from continuing operations per share attributable to common stockholders.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "We monitor operating measures of certain non-GAAP items including non-GAAP gross profit from continuing operations, non-GAAP gross margin from continuing operations, non-GAAP expense from continuing operations, non-GAAP net income from continuing operations, and non-GAAP net i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "revenue",
+      "claim": "We define non-GAAP Adjusted EBITDA from continuing operations as net income from continuing operations adjusted to exclude: depreciation and amortization, stock\u2011based compensation expense, transaction-related expenses, impairments, other income, net, and provision for income taxes.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "We define non-GAAP Adjusted EBITDA from continuing operations as net income from continuing operations adjusted to exclude: depreciation and amortization, stock\u2011based compensation expense, transaction-related expenses, impairments, other income, net, and provision for income t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "margins",
+      "claim": "We have presented non-GAAP Adjusted EBITDA from continuing operations and non-GAAP Adjusted EBITDA from continuing operations margin because they are key measures used by our management and Board of Directors to understand and evaluate our operating performance, generate future operating plans, and make strategic decisions regarding the allocation of capital.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "We have presented non-GAAP Adjusted EBITDA from continuing operations and non-GAAP Adjusted EBITDA from continuing operations margin because they are key measures used by our management and Board of Directors to understand and evaluate our operating performance, generate futur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "balance_sheet_or_cash",
+      "claim": "We define non-GAAP Free Cash Flow as cash flow from operations adjusted to include: purchases of property and equipment and capitalization of website development costs.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "We define non-GAAP Free Cash Flow as cash flow from operations adjusted to include: purchases of property and equipment and capitalization of website development costs. We have presented non-GAAP Free Cash Flow because it is a measure of our financial performance that represen...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "revenue",
+      "claim": "We define a paying dealer as a dealer account with an active, paid subscription at the end of a defined period.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "We define a paying dealer as a dealer account with an active, paid subscription at the end of a defined period. The number of paying dealers we have is important to us and we believe it provides valuable information to investors because it is indicative of the value propositio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "revenue",
+      "claim": "We define Quarterly Average Revenue per Subscribing Dealer (\u201cQARSD\u201d), which is measured at the end of a fiscal quarter, as the revenue primarily from subscription products during that trailing quarter divided by the average number of paying dealers during the quarter.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "We define Quarterly Average Revenue per Subscribing Dealer (\u201cQARSD\u201d), which is measured at the end of a fiscal quarter, as the revenue primarily from subscription products during that trailing quarter divided by the average number of paying dealers during the quarter. We calcu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.061432, ret_20d=-0.132501, market_ret_20d=-0.001342",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.061432, ret_20d=-0.132501, market_ret_20d=-0.001342",
+      "support_label": "supported"
+    }
+  ]
+}

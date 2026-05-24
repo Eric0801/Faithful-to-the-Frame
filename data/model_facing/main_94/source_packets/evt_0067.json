@@ -1,0 +1,323 @@
+{
+  "event_id": "evt_0067",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "KOHLS Corp",
+  "ticker": "KSS",
+  "company_alias": "KOHLS Corp",
+  "masked_company": "Company CD",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-10",
+  "filing_metadata": {
+    "cik": "885639",
+    "accession_number": "0001193125-26-099319",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-10T07:00:20-04:00",
+    "event_date": "2026-03-10",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "7.01",
+      "8.01",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "MENOMONEE FALLS, Wis.\u2014(BUSINESS WIRE)\u20142026-03-10T07:00:20-04:00\u2014Kohl\u2019s Corporation [NYSE:KOHLS Corp] (\u201cKohl\u2019s\u201d or the \u201cCompany\u201d) today reported results for the quarter and year ended January 31, 2026.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth quarter net sales decreased 3.9% and comparable sales decreased 2.8%; fiscal year 2025 net sales decreased 4.0% and comparable sales decreased 3.1%.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fourth quarter diluted earnings per share (\u201cEPS\u201d) of $1.07",
+      "token_count": 15
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fiscal year 2025 diluted EPS of $2.38 and adjusted diluted EPS of $1.62 (a)",
+      "token_count": 19
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Michael J. Bender, Kohl\u2019s Chief Executive Officer, said, \u201cWe are ending 2025 in a stronger position than we started, with important work still ahead of us. Over the past year, our efforts have been focused on resetting our foundation. This focus is intended to stabilize the business and strengthen our operational ability to build for a stronger future. In 2025, we made meaningful progress, despite our Q4 topline coming in softer than our expectations. We were able to manage the business with discipline, deliver improved earnings, and generate meaningful cash flow, all of which helped us strengthen our balance sheet.\u201d",
+      "token_count": 156
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cIn 2026, we are committed to further strengthening our foundation by addressing operational opportunities, building on our strengths, and modernizing our processes. We are confident that the work we are investing in now is essential for Kohl\u2019s long-term benefit,\u201d Bender continued.",
+      "token_count": 71
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Comparisons refer to the 13-week period ended January 31, 2026 versus the 13-week period ended February 1, 2025",
+      "token_count": 28
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales decreased 3.9% year-over-year, to $5.0 billion, with comparable sales down 2.8%.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross margin as a percentage of net sales was 33.1%, an increase of 25 basis points.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling, general & administrative (SG&A) expenses decreased 4.9% year-over-year, to $1.5 billion. As a percentage of total revenue, SG&A expenses were 28.3%, a decrease of 23 basis points year-over-year.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Operating income was $212 million compared to $126 million in the prior year. Adjusted operating income was $202 million in the prior year. As a percentage of total revenue, operating income was 4.1%, an increase of 176 basis points year-over-year and an increase of 35 basis points year over year compared to prior year adjusted operating income. (a)",
+      "token_count": 88
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income was $125 million, or $1.07 per diluted share, compared to net income of $48 million, or $0.43 per diluted share, and adjusted net income of $106 million, or $0.95 per adjusted diluted share, in the prior year. (a)",
+      "token_count": 56
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Inventory was $2.7 billion, a decrease of 7% year-over-year.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash flow provided by operating activities was $750 million compared to $596 million in the prior year.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Borrowings under revolving credit facility were $0, a decrease of $290 million year-over-year.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Comparisons refer to the 52-week period ended January 31, 2026 versus the 52-week period ended February 1, 2025",
+      "token_count": 28
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales decreased 4.0% year-over-year, to $14.8 billion, with comparable sales down 3.1%.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Gross margin as a percentage of net sales was 37.5%, an increase of 34 basis points.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling, general & administrative (SG&A) expenses decreased 4.1% year-over-year, to $5.1 billion. As a percentage of total revenue, SG&A expenses were 32.8%, an increase of 5 basis points year-over-year.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gain on legal settlement was $129 million from a credit card interchange fee lawsuit settlement.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Operating income was $624 million compared to $433 million in the prior year. As a percentage of total revenue, operating income was 4.0%, an increase of 135 basis points year-over-year. Adjusted operating income was $510 million compared to $509 million in the prior year. As a percentage of total revenue, adjusted operating income was 3.3%, an increase of 15 basis points year-over-year. (a)",
+      "token_count": 99
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income was $272 million, or $2.38 per diluted share, and adjusted net income was $186 million, or $1.62 per adjusted diluted share. This compares to net income of $109 million, or $0.98 per diluted share and adjusted net income of $167 million and $1.50 per adjusted diluted share, in the prior year. (a)",
+      "token_count": 77
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Cash flow provided by operating activities was $1.4 billion compared to $648 million in the prior year.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Current portion of long-term debt was reduced by $353 million through repayment of the 4.25% notes due July 2025 at maturity.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Long-term debt increased $262 million through issuance of $360 million of 10.000% senior secured notes due 2030, partially offset by open market repurchases of $87 million of our outstanding long-term debt.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP financial measures: Please see the \u201cRECONCILIATION OF NON-GAAP FINANCIAL MEASURES\u201d for a reconciliation of adjusted operating income to operating income, adjusted net income to net income, and adjusted diluted earnings per share to diluted earnings per share.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net sales and Comparable sales: A decrease of (2%) to flat",
+      "token_count": 15
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted operating margin: In the range of 2.8% to 3.4% (b)",
+      "token_count": 15
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted diluted EPS: In the range of $1.00 to $1.60 (b)",
+      "token_count": 14
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Capital Expenditures: Approximately $350 to $400 million",
+      "token_count": 14
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Dividend: On February 25, 2026, Kohl\u2019s Board of Directors declared a quarterly cash dividend on the Company\u2019s common stock of $0.125 per share. The dividend is payable April 1, 2026 to shareholders of record at the close of business on March 18, 2026.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP financial measures: The Company provides adjusted operating margin and adjusted diluted earnings per share on a non-GAAP basis and does not provide a reconciliation of the Company\u2019s forward looking guidance to the most directly comparable GAAP financial measures because of the inherent difficulty in forecasting and quantifying certain amounts that are necessary for such reconciliations.",
+      "token_count": 100
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Cautionary Statement Regarding Forward-Looking Information and Non-GAAP Measures",
+      "token_count": 20
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This press release contains certain financial measures that are not prepared in accordance with generally accepted accounting principles (GAAP), including adjusted operating income, adjusted net income and adjusted diluted earnings per share. These non-GAAP financial measures are provided as additional insight into our operational performance and do not purport to be substitutes for, or superior to, operating income, net income, or diluted earnings per share as a measure of operating performance. We believe these adjusted measures are useful, as they are more representative of our core business, enhance comparability across reporting periods and to industry peers, and align with the measures used by management to evaluate the Company\u2019s performance. We caution investors that non-GAAP measures should not be viewed in isolation and should be evaluated in addition to, and not as an alternative for, our results reported in accordance with GAAP. Because companies may use different calculation methods, these measures may not be comparable to other similarly titled measures reported by other companies. A reconciliation of each non-GAAP measure to the most directly comparable GAAP measure is included in this release .",
+      "token_count": 307
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Kohl\u2019s (NYSE:KSS) is a leading omnichannel retailer built on a foundation that combines great brands, incredible value and convenience for our customers. Kohl\u2019s is uniquely positioned to deliver against its long-term strategy and its purpose to take care of families\u2019 realest moments. Kohl\u2019s serves millions of families in its more than 1,100 stores in 49 states, online at KOHLS Corp.com, and through the Kohl\u2019s App. With a large national footprint, Kohl\u2019s is committed to making a positive impact in the communities it serves. For a list of store locations or to shop online, visit KOHLS Corp.com . For more information about Kohl\u2019s impact in the community or how to join our winning team, visit Corporate.KOHLS Corp.com .",
+      "token_count": 183
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Trevor Novotny, (262) 703-1617, trevor.novotny@KOHLS Corp.com",
+      "token_count": 16
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Jen Johnson, (262) 703-5241, jen.johnson@KOHLS Corp.com",
+      "token_count": 14
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended January 31, 2026",
+      "token_count": 9
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended February 1, 2025",
+      "token_count": 9
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Twelve Months Ended January 31, 2026",
+      "token_count": 9
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Twelve Months Ended February 1, 2025",
+      "token_count": 9
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.043928,
+    "ret_20d": -0.2,
+    "market_ret_20d": -0.017882
+  },
+  "outcome_blind": true
+}

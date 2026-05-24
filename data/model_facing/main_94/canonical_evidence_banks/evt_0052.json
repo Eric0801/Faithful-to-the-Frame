@@ -1,0 +1,732 @@
+{
+  "event_id": "evt_0052",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "MOVADO GROUP INC",
+  "ticker": "MOV",
+  "company_alias": "MOVADO GROUP INC",
+  "masked_company": "Company BN",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-03-19",
+  "accepted_at_et": "2026-03-19T08:00:09-04:00",
+  "source_packet_path": "source_packets/evt_0052.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "~ Fiscal 2026 Net Sales of $671.3 million ~",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "~ Fiscal 2026 Net Sales of $671.3 million ~",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "margins",
+      "claim": "~ Fiscal 2026 Operating Income of $29.8 million and Adjusted Operating Income of $34.8 million ~",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "~ Fiscal 2026 Operating Income of $29.8 million and Adjusted Operating Income of $34.8 million ~",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "~ Fiscal 2026 EPS of $1.17 and Fiscal 2026 Adjusted EPS of $1.34 ~",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "~ Fiscal 2026 EPS of $1.17 and Fiscal 2026 Adjusted EPS of $1.34 ~",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "~ Fourth Quarter Net Sales of $191.6 million ~",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "~ Fourth Quarter Net Sales of $191.6 million ~",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "~ Fourth Quarter EPS of $0.55 and Fourth Quarter Adjusted EPS of $0.57 ~",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "~ Fourth Quarter EPS of $0.55 and Fourth Quarter Adjusted EPS of $0.57 ~",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "~ Board Declared Quarterly Dividend of $0.35 Per Share ~",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "~ Board Declared Quarterly Dividend of $0.35 Per Share ~",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "Paramus, NJ \u2013 2026-03-19T08:00:09-04:00 -- MOVADO GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "Paramus, NJ \u2013 2026-03-19T08:00:09-04:00 -- MOVADO GROUP INC. (NYSE:MOV) today announced fourth quarter and fiscal year 2026 results for the periods ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "Fiscal Year 2026 Highlights (See attached table for GAAP and Non-GAAP measures)",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Fiscal Year 2026 Highlights (See attached table for GAAP and Non-GAAP measures)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Net sales of $671.3 million compared to $653.4 million for fiscal year 2025;",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Net sales of $671.3 million compared to $653.4 million for fiscal year 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "margins",
+      "claim": "Operating income of $29.8 million compared to $20.0 million for fiscal year 2025;",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Operating income of $29.8 million compared to $20.0 million for fiscal year 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "margins",
+      "claim": "Adjusted operating income of $34.8 million compared to $27.1 million for fiscal year 2025;",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Adjusted operating income of $34.8 million compared to $27.1 million for fiscal year 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "Diluted earnings per share of $1.17 compared to $0.81 for fiscal year 2025;",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Diluted earnings per share of $1.17 compared to $0.81 for fiscal year 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted diluted earnings per share of $1.34 compared to $1.12 for fiscal year 2025; and",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Adjusted diluted earnings per share of $1.34 compared to $1.12 for fiscal year 2025; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "balance_sheet_or_cash",
+      "claim": "Ended fiscal year 2026 with $230.5 million in cash and no debt.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Ended fiscal year 2026 with $230.5 million in cash and no debt.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Chairman and Chief Executive Officer, stated: \u201cOur strong performance in the 4 th quarter allowed us to close fiscal 2026 on a high note, delivering strong growth in net sales, a significant increase in profitability and strong positive cash flow generation.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Chairman and Chief Executive Officer, stated: \u201cOur strong performance in the 4 th quarter allowed us to close fiscal 2026 on a high note, delivering strong growth in net sales, a significant increase in profitability and strong positive cash flow generation. Total net sales gr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u201cThe MOVADO GROUP INC brand delivered a very strong quarter across our most important channels, led by our wholesale business with 25% sales growth, MOVADO GROUP INC.com with 18% sales growth and our MOVADO GROUP INC Company Stores with 9% growth,\u201d Mr.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u201cThe MOVADO GROUP INC brand delivered a very strong quarter across our most important channels, led by our wholesale business with 25% sales growth, MOVADO GROUP INC.com with 18% sales growth and our MOVADO GROUP INC Company Stores with 9% growth,\u201d Mr. Grinberg continued. \u201cOur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "Mr.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Mr. Grinberg concluded, \u201cAs we look ahead, we believe we are well positioned to continue our progress and navigate the dynamic environment. Given that the geopolitical environment remains volatile and tariff and trade policies are uncertain, we will remain agile and execute wi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "Fourth Quarter Fiscal 2026 Highlights (See attached table for GAAP and Non-GAAP measures)",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Fourth Quarter Fiscal 2026 Highlights (See attached table for GAAP and Non-GAAP measures)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "Net sales of $191.6 million, an increase of 5.6% from $181.5 million in the fourth quarter of fiscal 2025;",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Net sales of $191.6 million, an increase of 5.6% from $181.5 million in the fourth quarter of fiscal 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "margins",
+      "claim": "Gross margin of 54.1%, as compared to 54.2% in the prior-year period;",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Gross margin of 54.1%, as compared to 54.2% in the prior-year period;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "margins",
+      "claim": "Operating income of $13.8 million, an increase of 49.7% from $9.2 million in the prior-year period;",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Operating income of $13.8 million, an increase of 49.7% from $9.2 million in the prior-year period;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "margins",
+      "claim": "Adjusted operating income of $14.4 million, an increase of 6.2% from $13.5 million in the fourth quarter of fiscal 2025;",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Adjusted operating income of $14.4 million, an increase of 6.2% from $13.5 million in the fourth quarter of fiscal 2025;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "Diluted earnings per share of $0.55, an increase of 52.8% from $0.36 in the prior-year period; and",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Diluted earnings per share of $0.55, an increase of 52.8% from $0.36 in the prior-year period; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "earnings_or_eps",
+      "claim": "Adjusted diluted earnings per share of $0.57, an increase of 11.8% from $0.51 in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Adjusted diluted earnings per share of $0.57, an increase of 11.8% from $0.51 in the fourth quarter of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "Non-GAAP Items (See attached table for GAAP and Non-GAAP measures)",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Non-GAAP Items (See attached table for GAAP and Non-GAAP measures)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "a $0.6 million pre-tax charge, or $0.4 million after tax, representing $0.02 per diluted share, in costs related to the internal investigation of conduct within the Company\u2019s Dubai branch.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "a $0.6 million pre-tax charge, or $0.4 million after tax, representing $0.02 per diluted share, in costs related to the internal investigation of conduct within the Company\u2019s Dubai branch.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "a $2.5 million pre-tax charge, or $1.9 million after tax, representing $0.08 per diluted share, in costs related to the investigation noted above; and",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "a $2.5 million pre-tax charge, or $1.9 million after tax, representing $0.08 per diluted share, in costs related to the investigation noted above; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "costs_or_expenses",
+      "claim": "a $1.8 million pre-tax charge, or $1.5 million after tax, representing $0.07 per diluted share, associated with the establishment of a provision for a corporate cost-savings initiative.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "a $1.8 million pre-tax charge, or $1.5 million after tax, representing $0.07 per diluted share, associated with the establishment of a provision for a corporate cost-savings initiative.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "In this press release, references to \u201cadjusted\u201d results exclude the impact of the above charges and the impact of the items described in the Non-GAAP Items section of the Company\u2019s earnings releases for the first, second and third quarters of fiscal year 2026.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "In this press release, references to \u201cadjusted\u201d results exclude the impact of the above charges and the impact of the items described in the Non-GAAP Items section of the Company\u2019s earnings releases for the first, second and third quarters of fiscal year 2026. Please refer to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "other",
+      "claim": "Fourth Quarter Fiscal 2026 Results (See attached table for GAAP and Non-GAAP measures)",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Fourth Quarter Fiscal 2026 Results (See attached table for GAAP and Non-GAAP measures)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "revenue",
+      "claim": "Net sales increased 5.6% to $191.6 million, or increased 1.8% on a constant-dollar basis, compared to $181.5 million in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Net sales increased 5.6% to $191.6 million, or increased 1.8% on a constant-dollar basis, compared to $181.5 million in the fourth quarter of fiscal 2025. The increase in net sales reflected growth in the United States and international wholesale channels and brick and mortar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Gross profit was $103.6 million, or 54.1% of net sales, compared to $98.3 million, or 54.2% of net sales in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Gross profit was $103.6 million, or 54.1% of net sales, compared to $98.3 million, or 54.2% of net sales in the fourth quarter of fiscal 2025. The increase in gross margin percentage was primarily the result of favorable changes in channel and product mix, favorable impact of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "Operating expenses were $89.8 million in the fourth quarter of fiscal 2026 compared to $89.1 million in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Operating expenses were $89.8 million in the fourth quarter of fiscal 2026 compared to $89.1 million in the fourth quarter of fiscal 2025. Adjusted operating expenses were $89.3 million for the fourth quarter of fiscal 2026 as compared to $84.8 million for the fourth quarter o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "margins",
+      "claim": "Operating income was $13.8 million compared to $9.2 million in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Operating income was $13.8 million compared to $9.2 million in the fourth quarter of fiscal 2025. Adjusted operating income was $14.4 million for the fourth quarter of fiscal 2026, as compared to $13.5 million for the fourth quarter of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "The Company recorded a tax provision of $1.6 million, as compared to a tax provision of $2.2 million in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "The Company recorded a tax provision of $1.6 million, as compared to a tax provision of $2.2 million in the fourth quarter of fiscal 2025. Based on adjusted pre-tax income, the adjusted tax provision was $1.7 million, or an adjusted tax rate of 11.6%, as compared to an adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "Net income for the fourth quarter of fiscal 2026 was $12.6 million, or $0.55 per diluted share, compared to net income of $8.1 million, or $0.36 per diluted share, in the fourth quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Net income for the fourth quarter of fiscal 2026 was $12.6 million, or $0.55 per diluted share, compared to net income of $8.1 million, or $0.36 per diluted share, in the fourth quarter of fiscal 2025. Adjusted net income for the fiscal 2026 period was $13.0 million, or $0.57...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Full Year Fiscal 2026 Results (See attached table for GAAP and Non-GAAP measures)",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Full Year Fiscal 2026 Results (See attached table for GAAP and Non-GAAP measures)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "revenue",
+      "claim": "Net sales increased 2.7% to $671.3 million, or increased 1.0% on a constant-dollar basis, compared to $653.4 million in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Net sales increased 2.7% to $671.3 million, or increased 1.0% on a constant-dollar basis, compared to $653.4 million in fiscal 2025. Net sales increased 4.3% in the U.S. as compared to fiscal 2025. International net sales increased 1.6% (a decrease of 1.5% on a constant-dollar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "revenue",
+      "claim": "Gross profit was $363.6 million, or 54.2% of net sales, compared to gross profit of $353.1 million, or 54.0% of net sales, in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "Gross profit was $363.6 million, or 54.2% of net sales, compared to gross profit of $353.1 million, or 54.0% of net sales, in fiscal 2025. The increase in gross margin percentage was primarily the result of favorable changes in channel and product mix and the increased leverag...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "costs_or_expenses",
+      "claim": "Operating expenses were $333.8 million in fiscal 2026 compared to $333.1 million in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Operating expenses were $333.8 million in fiscal 2026 compared to $333.1 million in fiscal 2025. For fiscal 2026, adjusted operating expenses were $328.8 million as compared to $326.1 million for fiscal 2025. This increase was primarily due to higher performance-based compensa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "margins",
+      "claim": "Operating income was $29.8 million in fiscal 2026, an increase of 49.0% from $20.0 million in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Operating income was $29.8 million in fiscal 2026, an increase of 49.0% from $20.0 million in fiscal 2025. Adjusted operating income was $34.8 million in fiscal 2026, an increase of 28.7% from $27.1 million for fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "other",
+      "claim": "The Company recorded a tax provision of $7.5 million in fiscal 2026 compared to a tax provision of $7.4 million in fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "The Company recorded a tax provision of $7.5 million in fiscal 2026 compared to a tax provision of $7.4 million in fiscal 2025. Based on adjusted pre-tax income, the adjusted tax provision was $8.6 million, or an adjusted tax rate of 22.0%, as compared to an adjusted tax rate...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "earnings_or_eps",
+      "claim": "Net income was $26.6 million, or $1.17 per diluted share, for fiscal 2026, compared to net income of $18.4 million, or $0.81 per diluted share, for fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Net income was $26.6 million, or $1.17 per diluted share, for fiscal 2026, compared to net income of $18.4 million, or $0.81 per diluted share, for fiscal 2025. Adjusted net income in fiscal 2026 increased 19.6% to $30.4 million or $1.34 per diluted share, from $25.4 million,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "Given the current economic and geopolitical uncertainty, including the unpredictable impact of the current Middle East conflict and ongoing tariff developments, the Company has elected not to provide a fiscal 2027 outlook at this time.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Given the current economic and geopolitical uncertainty, including the unpredictable impact of the current Middle East conflict and ongoing tariff developments, the Company has elected not to provide a fiscal 2027 outlook at this time.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "The Company also announced on 2026-03-19T08:00:09-04:00, that the Board of Directors approved the payment on April 16, 2026, of a cash dividend in the amount of $0.35 for each share of the Company\u2019s outstanding common stock and class A common stock held by shareholders of record as of the close of business on April 2, 2026.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "The Company also announced on 2026-03-19T08:00:09-04:00, that the Board of Directors approved the payment on April 16, 2026, of a cash dividend in the amount of $0.35 for each share of the Company\u2019s outstanding common stock and class A common stock held by shareholders of reco...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "During fiscal year 2026, the Company repurchased approximately 208,000 shares under its December 5, 2024 share repurchase program, which expires on December 5, 2027.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "During fiscal year 2026, the Company repurchased approximately 208,000 shares under its December 5, 2024 share repurchase program, which expires on December 5, 2027. As of year-end, the Company had $46.1 million remaining available under the share repurchase program.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "MOVADO GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "MOVADO GROUP INC. designs, sources, and distributes MOVADO GROUP INC\u00ae, MVMT\u00ae, OLIVIA BURTON\u00ae, EBEL\u00ae, CONCORD\u00ae, CALVIN KLEIN\u00ae, COACH\u00ae, TOMMY HILFIGER\u00ae, HUGO BOSS\u00ae, and LACOSTE\u00ae watches and, to a lesser extent, jewelry and other accessories, and operates MOVADO GROUP INC Company...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "guidance",
+      "claim": "In this release, the Company presents certain financial measures that are not calculated according to generally accepted accounting principles in the United States (\u201cGAAP\u201d).",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "In this release, the Company presents certain financial measures that are not calculated according to generally accepted accounting principles in the United States (\u201cGAAP\u201d). Specifically, the Company is presenting adjusted operating expenses, adjusted operating income, adjuste...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "earnings_or_eps",
+      "claim": "Less: Net income attributable to noncontrolling interests",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Less: Net income attributable to noncontrolling interests",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "Net income attributable to MOVADO GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Net income attributable to MOVADO GROUP INC.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "earnings_or_eps",
+      "claim": "Net income per share attributable to MOVADO GROUP INC.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Net income per share attributable to MOVADO GROUP INC.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "Three Months Ended January 31, 2026",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Three Months Ended January 31, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "Costs related to the Dubai matter (1)",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Costs related to the Dubai matter (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "Three Months Ended January 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Three Months Ended January 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "Twelve Months Ended January 31, 2026",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Twelve Months Ended January 31, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "Twelve Months Ended January 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Twelve Months Ended January 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "Repatriation of Foreign Earnings (3)",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Repatriation of Foreign Earnings (3)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "Costs related to the investigation of allegations of misconduct within the Dubai branch of the Company's Swiss subsidiary.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Costs related to the investigation of allegations of misconduct within the Dubai branch of the Company's Swiss subsidiary.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "Related to the establishment of a provision for a corporate cost-savings initiative.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Related to the establishment of a provision for a corporate cost-savings initiative.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "Tax impact of repatriation of foreign earnings, primarily related to foreign currency gains.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Tax impact of repatriation of foreign earnings, primarily related to foreign currency gains.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "balance_sheet_or_cash",
+      "claim": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "balance_sheet_or_cash",
+      "claim": "Net change in cash, cash equivalents, and restricted cash",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Net change in cash, cash equivalents, and restricted cash",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash at beginning of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash, cash equivalents, and restricted cash at end of period",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Cash, cash equivalents, and restricted cash at end of period",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.00988, ret_20d=-0.069439, market_ret_20d=-0.036224",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.00988, ret_20d=-0.069439, market_ret_20d=-0.036224",
+      "support_label": "supported"
+    }
+  ]
+}

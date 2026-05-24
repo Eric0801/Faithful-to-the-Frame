@@ -1,0 +1,204 @@
+{
+  "event_id": "evt_0042",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CSX CORP",
+  "ticker": "CSX",
+  "company_alias": "CSX CORP",
+  "masked_company": "Company AV",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-22",
+  "accepted_at_et": "2026-01-22T11:01:20-05:00",
+  "source_packet_path": "source_packets/evt_0042.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "earnings_or_eps",
+      "claim": "JACKSONVILLE, Fla.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "JACKSONVILLE, Fla. \u2013 2026-01-22T11:01:20-05:00 \u2013 CSX CORP. (NASDAQ:CSX) today announced fourth quarter 2025 operating income of $1.11 billion and net earnings of $720 million, or $0.39 per share. Fourth quarter operating income and earnings per share include approximately $50...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "costs_or_expenses",
+      "claim": "\u201cOur quarterly results reflect the subdued industrial demand environment and actions taken to adjust our cost structure,\u201d said Steve Angel, president and chief executive officer.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u201cOur quarterly results reflect the subdued industrial demand environment and actions taken to adjust our cost structure,\u201d said Steve Angel, president and chief executive officer. \u201cCSX CORP has a strong operational foundation, and we are positioned to deliver improved financial...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "Fourth Quarter Financia l Highlights 1",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "Fourth Quarter Financia l Highlights 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "\u2022 Revenue totaled $3.51 billion for the quarter, decreasing 1% year-over-year, as the effects of lower merchandise volume and reduced export coal revenue offset higher pricing in merchandise and intermodal, an increase in intermodal volume, and higher fuel surcharge revenue.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Revenue totaled $3.51 billion for the quarter, decreasing 1% year-over-year, as the effects of lower merchandise volume and reduced export coal revenue offset higher pricing in merchandise and intermodal, an increase in intermodal volume, and higher fuel surcharge revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "margins",
+      "claim": "\u2022 Operating income was $1.11 billion, compared to adjusted operating income of $1.21 billion in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Operating income was $1.11 billion, compared to adjusted operating income of $1.21 billion in the prior year. Operating margin was 31.6%, compared to operating margin of 31.3% and adjusted operating margin of 34.3% in the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 EPS was $0.39, compared to adjusted EPS of $0.42 in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 EPS was $0.39, compared to adjusted EPS of $0.42 in the prior year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Fourth quarter operating income and EPS include $50 million and $0.02, respectively, in severance and technology rationalization expense.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Fourth quarter operating income and EPS include $50 million and $0.02, respectively, in severance and technology rationalization expense.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "Full Year 2025 Financia l Highlights 1",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Full Year 2025 Financia l Highlights 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "\u2022 Revenue totaled $14.09 billion in 2025.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Revenue totaled $14.09 billion in 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "margins",
+      "claim": "\u2022 Operating income was $4.52 billion, and adjusted operating income was $4.69 billion, excluding a $164 million goodwill impairment charge in the third quarter.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Operating income was $4.52 billion, and adjusted operating income was $4.69 billion, excluding a $164 million goodwill impairment charge in the third quarter. CSX CORP\u2019s operating margin was 32.1% for the full year, and adjusted operating margin was 33.2%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 EPS was $1.54, and adjusted EPS was $1.61.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 EPS was $1.54, and adjusted EPS was $1.61.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "This earnings announcement, as well as additional detailed financial information, is contained in the CSX CORP Quarterly Financial Report available through the company\u2019s website at http://investors.CSX CORP.com and on Form 8-K with the Securities and Exchange Commission.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "This earnings announcement, as well as additional detailed financial information, is contained in the CSX CORP Quarterly Financial Report available through the company\u2019s website at http://investors.CSX CORP.com and on Form 8-K with the Securities and Exchange Commission.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "1 See the Non-GAAP Measures section of the quarterly financial report for non-GAAP reconciliations and additional information.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "1 See the Non-GAAP Measures section of the quarterly financial report for non-GAAP reconciliations and additional information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "CSX CORP, based in Jacksonville, Florida, is a premier transportation company.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "CSX CORP, based in Jacksonville, Florida, is a premier transportation company. It provides rail, intermodal and rail-to-truck transload services and solutions to customers across a broad array of markets, including energy, industrial, construction, agricultural, and consumer p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "This announcement, as well as additional financial information, is available on the company's website at http://investors.CSX CORP.com .",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "This announcement, as well as additional financial information, is available on the company's website at http://investors.CSX CORP.com . CSX CORP also uses social media channels to communicate information about the company. Although social media channels are not intended to be...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "CSX CORP reports its financial results in accordance with accounting principles generally accepted in the United States of America (U.S.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "CSX CORP reports its financial results in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). CSX CORP also uses certain non-GAAP measures that fall within the meaning of Securities and Exchange Commission Regulation G and Regu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.02526, ret_20d=0.000822, market_ret_20d=0.007067",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.02526, ret_20d=0.000822, market_ret_20d=0.007067",
+      "support_label": "supported"
+    }
+  ]
+}

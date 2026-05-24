@@ -1,0 +1,847 @@
+{
+  "event_id": "evt_0051",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "LEVI STRAUSS & CO",
+  "ticker": "LEVI",
+  "company_alias": "LEVI STRAUSS & CO",
+  "masked_company": "Company CP",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-04-07",
+  "filing_metadata": {
+    "cik": "94845",
+    "accession_number": "0000094845-26-000021",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-04-07T16:12:22-04:00",
+    "event_date": "2026-04-07",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Investor Contact: Aida Orphan Media Contact: Mark Cazares LEVI STRAUSS & CO. LEVI STRAUSS & CO. (415) 501-6194 (415) 501-7777 Investor-Relations@LEVI STRAUSS & CO.com NewsMediaRequests@LEVI STRAUSS & CO.com",
+      "token_count": 45
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CHIEF FINANCIAL AND GROWTH OFFICER HARMIT SINGH WILL RETIRE AFTER A PLANNED TRANSITION",
+      "token_count": 22
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "SAN FRANCISCO (2026-04-07T16:12:22-04:00) \u2013 LEVI STRAUSS & CO. (NYSE:LEVI) today announced financial results for the first quarter ended March 1, 2026 .",
+      "token_count": 36
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cWe delivered very strong financial performance in the first quarter driven by broad-based growth across channels, regions and categories,\u201d said President and CEO of LEVI STRAUSS & CO. \u201cOur evolution into a DTC\u2011first denim lifestyle brand is allowing us to capture a much larger addressable market and deliver faster and more consistent growth. Today we are operating from a stronger foundation, executing with focus and intention, with more ways to win than ever before.\u201d",
+      "token_count": 117
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cWe are pleased to report first quarter revenue, margins and EPS above our guidance,\u201d said Harmit Singh, Chief Financial and Growth Officer of LEVI STRAUSS & CO. \u201cOur strategic transformation is translating into higher returns and more profitable growth, enabling us to convert more of our strong revenue growth into bottom-line profit. Our great start to the year in Q1 and positive quarter-to-date trends, give us the confidence to raise our full-year sales, margins and EPS guidance even as we remain prudent about the external environment.\u201d",
+      "token_count": 135
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net Revenues of $1.7 billion increased 14% on a reported basis and 9% on an organic basis versus Q1 2025.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 In the Americas , net revenues increased 9% on a reported basis and increased 7% on an organic basis. Within the Americas, the U.S. increased 4% on a reported basis and organic basis.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 In Europe , net revenues increased 24% on a reported basis and 10% on an organic basis.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 In Asia, net revenues increased 13% on a reported basis and 12% on an organic basis.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Beyond Yoga\u00ae increased 23% on a reported and organic basis.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 DTC (Direct-to-Consumer) net revenues increased 16% on a reported basis and 10% on an organic basis. DTC growth on a reported basis reflected a 10% increase in the U.S., a 19% increase in Europe and an 18% increase in Asia. DTC growth on an organic basis reflected a 10% increase in the U.S., a 5% increase in Europe and a 16% increase in Asia. Net revenues from e-commerce grew 21% on a reported basis and 17% on an organic basis. DTC comparable sales growth was 7%. DTC comprised 52% of total net revenues in the first quarter.",
+      "token_count": 133
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Wholesale net revenues increased 12% on a reported basis and 8% on an organic basis.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Revenues Operating Income (loss) Three Months Ended Increase (Decrease) As Reported Increase (Decrease) Organic Net Revenues Three Months Ended Increase (Decrease) As Reported ($ millions) March 1, 2026 March 2, 2025 March 1, 2026 March 2, 2025 Americas $ 856 $ 783 9 % 7 % $ 163 $ 170 (4) % Europe $ 496 $ 400 24 % 10 % $ 129 $ 102 26 % Asia $ 347 $ 308 13 % 12 % $ 70 $ 58 22 % Beyond Yoga\u00ae $ 43 $ 35 23 % 23 % $ (1) $ (3) 73 % ___________",
+      "token_count": 112
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating margin was 11.4% in Q1 2026 compared to 12.5% in Q1 2025. Adjusted EBIT margin was 12.5% in Q1 2026 compared to 13.4% in Q1 2025, reflecting the impact of tariffs and planned increases in advertising.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u25e6 Gross margin was 61.9% compared to 62.1% in Q1 2025 primarily due to the impact of tariffs, partially offset by price increases and less promotional activity.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u25e6 Selling, general and administrative (SG&A) expenses were $872 million compared to $749 million in Q1 2025. Adjusted SG&A expenses were up 15.7% to $861 million compared to $744 million last year primarily due to the planned higher advertising costs in connection with the launch of the Behind Every Original campaign, the higher-than-expected sales volume and foreign exchange.",
+      "token_count": 95
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Interest and other income (expense), net , which includes foreign exchange gains and losses, were income of $30 million and expenses of $15 million in the aggregate in Q1 2026 and Q1 2025, respectively.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 The effective income tax rate was 22.4%, compared to 20.6% in Q1 2025.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net income from continuing operations was $177 million compared to $140 million in Q1 2025. Adjusted net income was $167 million compared to $150 million in Q1 2025.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Diluted earnings per share from continuing operations was $0.45 compared to $0.35 in Q1 2025. Adjusted diluted earnings per share was $0.42 compared to $0.38 in Q1 2025.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Increase As Reported Increase Organic Net Revenues ($ millions) March 1, 2026 March 2, 2025 Net revenues $ 1,742 $ 1,527 14% 9% DTC Comparable Sales Growth 7 % + * *",
+      "token_count": 46
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Increase (Decrease) As Reported Increase (Decrease) Constant Currency ($ millions, except per-share amounts) March 1, 2026 March 2, 2025 Net income from continuing operations $ 177 $ 140 26% * Adjusted net income $ 167 $ 150 11% 7% Adjusted EBIT $ 218 $ 204 7% (2)% Diluted earnings per share from continuing operations $ 0.45 $ 0.35 10\u00a2 * Adjusted diluted earnings per share $ 0.42 $ 0.38 4\u00a2 3\u00a2 ___________",
+      "token_count": 107
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "+ For the three-month period ended March 2, 2025 the DTC Comparable Sales Growth was in the high-single digits.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Additional information regarding DTC Comparable sales growth, a key metric, is provided at the end of this press release.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Additional information regarding Adjusted SG&A, Adjusted EBIT, Adjusted EBIT margin, Adjusted net income, Adjusted diluted earnings per share, Adjusted free cash flow, as well as amounts presented on an organic net revenues basis and constant currency basis, all of which are non-GAAP financial measures, is provided at the end of this press release.",
+      "token_count": 88
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Balance Sheet Review as of March 1, 2026",
+      "token_count": 10
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Cash and cash equivalents were $717 million, while total liquidity was approximately $1.6 billion.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Total inventories increased 4% on a dollar basis compared to Q1 2025.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "On July 31, 2025, the company sold the Dockers\u00ae intellectual property and operations in the U.S. and Canada. The company completed the sale of the remaining Dockers\u00ae operations in multiple closings during the first quarter of 2026, with the final closing on February 27, 2026.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "LS&Co. also announced that Executive Vice President and Chief Financial & Growth Officer (CFGO) Harmit Singh will continue in his role as CFGO until a successor is appointed and then transition to serve as Special Advisor, following which he will retire. LS&Co. has initiated a search for his successor.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Dividends of $54 million, representing a dividend of $0.14 per share, up 5% from prior year;",
+      "token_count": 24
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 The company launched a $200 million accelerated share repurchase program, and took delivery of and retired approximately 8 million shares which had an aggregate cost of $160 million based on the January 29, 2026 closing share price. The remaining shares are expected to be settled at the end of the program.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "As of March 1, 2026, the company had $240 million remaining under its current share repurchase authorization, which has no expiration date.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The company declared a dividend of $0.14 per share totaling approximately $54 million, payable in cash on May 6, 2026 to the holders of record of Class A common stock and Class B common stock at the close of business on April 22, 2026.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Guidance for 2026 is based on continuing operations, reflecting the Dockers \u00ae business being reported in discontinued operations. Guidance assumes U.S. tariffs on imports from China remain at 30% and Rest-of-World at 20%.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Reported net revenues growth: Raised to 5.5% to 6.5%, up from 5% to 6%",
+      "token_count": 18
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Organic net revenues growth: Raised to 4.5% to 5.5%, up from 4% to 5%",
+      "token_count": 18
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Gross margin: Raised to flat to slightly up to prior year, up from flat to prior year",
+      "token_count": 22
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Adjusted EBIT margin: Raised to expanding to approximately 12%, up from 11.8% to 12%",
+      "token_count": 22
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Tax rate: Approximately 23%, 2 points higher than prior year",
+      "token_count": 16
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Adjusted diluted EPS: Raised to $1.42 to $1.48, up from $1.40 to $1.46. This includes an approximate $0.04 headwind from a higher tax rate.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This outlook also assumes no significant worsening of macro-economic pressures on the consumer, inflationary",
+      "token_count": 27
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "pressures, supply chain disruptions, potential tariffs or currency fluctuations. A reconciliation of non-GAAP forward looking information to the corresponding GAAP measures cannot be provided without unreasonable efforts due to the challenge in quantifying various items including but not limited to, the effects of foreign currency fluctuations, taxes, potential tariffs, and any future restructuring, restructuring-related, severance and other charges.",
+      "token_count": 114
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "https://edge.media-server.com/mmc/p/jpff4vek .",
+      "token_count": 12
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "LEVI STRAUSS & CO. (LS&Co.) is one of the world's largest brand-name apparel companies and a global leader in jeanswear. The company designs and markets jeans, casual wear and related accessories for men, women and children under the LEVI STRAUSS & CO's\u00ae, LEVI STRAUSS & CO Signature\u2122, and Beyond Yoga\u00ae brands. Its products are sold in approximately 120 countries worldwide through a combination of chain retailers, department stores, online sites, and a global footprint of approximately 3,300 retail stores and shop-in-shops. LEVI STRAUSS & CO.'s reported 2025 net revenues were $6.3 billion. For more information, go to http://levistrauss.com , and for financial news and announcements go to http://investors.levistrauss.com .",
+      "token_count": 176
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "DTC Comparable sales growth is used by management to evaluate the performance of our existing LEVI STRAUSS & CO\u2019s \u00ae brand company owned and operated mainline and outlet store base and owned digital channels by measuring year\u2011over\u2011year changes in net revenues for stores open for at least 12 full fiscal months, excluding the effects of changes in our store portfolio and other events that materially affect comparability such as significant relocations, or expansions and remodels. In fiscal years with 53 weeks, the impact of the additional week is excluded, and prior\u2011year periods are adjusted as necessary to align comparable weeks. DTC Comparable sales growth is presented on a constant currency basis and is intended as a supplemental operating metric, which may not be comparable to similarly titled measures used by other companies.",
+      "token_count": 208
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company reports its financial results in accordance with generally accepted accounting principles in the United States (GAAP) and the rules of the SEC. To supplement its financial statements prepared and presented in accordance with GAAP, the company uses certain non-GAAP financial measures, such as Adjusted SG&A, Adjusted SG&A margin, Adjusted EBIT (both reported and on a constant-currency basis), Adjusted EBIT margin (both reported and on a constant-currency basis), Adjusted EBITDA, Adjusted net income (both reported and on a constant-currency basis), Adjusted diluted earnings per share (both reported and on a constant-currency basis), organic net revenues, Adjusted free cash flow, and return on invested capital to provide investors with additional useful information about its financial performance, to enhance the overall understanding of its past performance and future prospects and to allow for greater transparency with respect to important metrics used by management for financial and operating decision-making. The company presents these non-GAAP financial measures to assist investors in seeing its financial performance from management's view and because it believes they provide an additional tool for investors to use in computing the company's core financial performance over multiple periods with other companies in its industry. The tables found below present Adjusted SG&A, Adjusted SG&A margin, Adjusted EBIT (both reported and on a constant-currency basis), Adjusted EBIT margin (both reported and on a constant-currency basis), Adjusted EBITDA, Adjusted net income (both reported and on a constant-currency basis), Adjusted diluted earnings per share (both reported and on a constant-currency basis), organic net revenues, Adjusted free cash flow, and return on invested capital and corresponding reconciliations of these non-GAAP financial measures to the most directly comparable financial measures calculated in accordance with GAAP. Non-GAAP financial measures have limitations in their usefulness to investors because they have no standardized meaning prescribed by GAAP and are not prepared under any comprehensive set of accounting rules or principles. Certain items that may be excluded or included in non-GAAP financial measures may be significant items that could impact the company\u2019s financial position, results of operations and cash flows and should therefore be considered in assessing the company\u2019s actual financial condition and performance. Non-GAAP financial measures are subject to inherent limitations as they reflect the exercise of judgment by management in determining how they are formulated. Some specific limitations include but are not limited to, the fact that such non-GAAP financial measures: (a) do not reflect cash outlays for capital expenditures, contractual commitments or liabilities including pension obligations, post-retirement health benefit obligations and income tax liabilities; (b) do not reflect changes in, or cash requirements for, working capital requirements; and (c) do not reflect the interest expense, or the cash requirements necessary to service interest or principal payments, on indebtedness. In addition, non-GAAP financial measures may be calculated differently from, and therefore may not be directly comparable to, similarly titled measures used by other companies. As a result, non-GAAP financial measures should be viewed as supplementing, and not as an alternative or substitute for, the company's financial results prepared in accordance with GAAP. The company urges investors to review the reconciliation of these non-GAAP financial measures to the most directly comparable GAAP financial measures included in this press release, and not to rely on any single financial measure to evaluate its business. See \u201cRECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES\u201d below for reconciliation to the most comparable GAAP financial measures. A reconciliation of non-GAAP forward looking information to the corresponding GAAP measures cannot be provided without unreasonable efforts due to the challenge in quantifying various items including but not limited to, the effects of foreign currency fluctuations, taxes, and any future restructuring, restructuring-related, severance and other charges.",
+      "token_count": 1073
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company reports net revenues in accordance with GAAP, as well as on an organic net revenues basis in order to facilitate period-to-period comparisons of our revenues which excludes the impact of fluctuating foreign currency exchange rates from the change in reported net revenues, net revenues derived from business acquisitions, divestitures or wind downs impacting the comparable reporting date and the estimated impact of any 53 rd week. The company reports certain operating results in accordance with GAAP, as well as on a constant-currency basis in order to facilitate period-to-period comparisons of its results without regard to the impact of fluctuating foreign currency exchange rates. These measures exclude the results of our Dockers\u00ae business, which is classified as discontinued operations.",
+      "token_count": 202
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The term foreign currency exchange rates refers to the exchange rates used to translate the company's operating results for all countries where the functional currency is not the U.S. Dollar into U.S. Dollars. Because the company is a global company, foreign currency exchange rates used for translation may have a significant effect on its reported results. In general, the company's financial results are affected positively by a weaker U.S. Dollar and are affected negatively by a stronger U.S. Dollar as compared to the foreign currencies in which it conducts its business. References to operating results on a constant-currency basis mean operating results without the impact of foreign currency translation fluctuations.",
+      "token_count": 182
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company calculates constant-currency amounts by translating local currency amounts in the prior-year period at actual foreign currency exchange rates for the current period. Constant-currency results do not eliminate the transaction currency impact, which primarily includes the realized and unrealized gains and losses recognized from the measurement and remeasurement of purchases and sales of products in a currency other than the functional currency and of forward foreign exchange contracts.",
+      "token_count": 125
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company believes disclosure of organic net revenues and Adjusted EBIT constant-currency, Adjusted EBIT Margin constant-currency and Adjusted Net Income constant-currency results is helpful to investors because it facilitates period-to-period comparisons of its results by increasing the transparency of the underlying performance by excluding the impact of fluctuating foreign currency exchange rates. However, organic net revenues and constant-currency results are non-GAAP financial measures and are not meant to be considered in isolation or as a substitute for comparable measures prepared in accordance with GAAP. Organic net revenues and constant-currency results have no standardized meaning prescribed by GAAP, are not prepared under any comprehensive set of accounting rules or principles and should be read in conjunction with the company's consolidated financial statements prepared in accordance with GAAP. Organic net revenues and constant-currency results have limitations in their usefulness to investors and may be calculated differently from, and therefore may not be directly comparable to, similarly titled measures used by other companies.",
+      "token_count": 291
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) March 1, 2026 November 30, 2025 (Dollars in millions) ASSETS Current Assets: Cash and cash equivalents $ 716.6 $ 757.9 Short-term investments in marketable securities 95.4 90.9 Trade receivables, net 728.9 774.7 Inventories 1,120.6 1,237.7 Other current assets 248.0 238.5 Current assets held for sale \u2014 54.0 Total current assets 2,909.5 3,153.7 Property, plant and equipment, net 669.1 681.8 Goodwill 282.4 280.6 Other intangible assets, net 193.6 194.4 Deferred tax assets, net 826.6 830.1 Operating lease right-of-use assets, net 1,154.4 1,148.2 Other non-current assets 539.2 538.7 Non-current assets held for sale \u2014 21.3 Total assets $ 6,574.8 $ 6,848.8 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY Current Liabilities: Accounts payable $ 487.6 $ 597.6 Accrued salaries, wages and employee benefits 201.5 244.7 Accrued sales returns and allowances 202.8 226.1 Short-term operating lease liabilities 266.7 260.7 Other accrued liabilities 686.7 703.4 Total current liabilities 1,845.3 2,032.5 Long-term debt 1,049.4 1,039.2 Long-term operating lease liabilities 1,000.5 1,005.6 Long-term employee related benefits 241.2 252.7 Other long-term liabilities 231.8 240.2 Total liabilities 4,368.2 4,570.2 Commitments and contingencies Stockholders\u2019 Equity: Common stock \u2014 $0.001 par value; 1,200,000,000 Class A shares authorized, 98,057,678 shares and 103,620,225 shares issued and outstanding as of March 1, 2026 and November 30, 2025, respectively; and 422,000,000 Class B shares authorized, 286,514,706 shares and 286,756,831 shares issued and outstanding, as of March 1, 2026 and November 30, 2025, respectively 0.4 0.4 Additional paid-in capital 729.5 788.1 Retained earnings 1,863.4 1,897.3 Accumulated other comprehensive loss (386.7) (407.2) Total stockholders\u2019 equity 2,206.6 2,278.6 Total liabilities and stockholders\u2019 equity $ 6,574.8 $ 6,848.8",
+      "token_count": 465
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Common stock \u2014 $0.001 par value; 1,200,000,000 Class A shares authorized, 98,057,678 shares and 103,620,225 shares issued and outstanding as of March 1, 2026 and November 30, 2025, respectively; and 422,000,000 Class B shares authorized, 286,514,706 shares and 286,756,831 shares issued and outstanding, as of March 1, 2026 and November 30, 2025, respectively",
+      "token_count": 90
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The notes accompanying our consolidated financial statements in our Form 10-Q for the first quarter of fiscal 2026 are an integral part of these consolidated financial statements.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 (Dollars in millions, except per share amounts) (Unaudited) Net revenues $ 1,742.5 $ 1,526.8 Cost of goods sold 664.2 579.2 Gross profit 1,078.3 947.6 Selling, general and administrative expenses 871.7 749.3 Restructuring charges, net 7.9 6.7 Operating income 198.7 191.6 Interest expense (13.1) (10.9) Other income (expense), net 42.6 (4.1) Income from continuing operations before income taxes 228.2 176.6 Income tax expense 51.1 36.4 Net income from continuing operations 177.1 140.2 Net income (loss) from discontinued operations, net of taxes (1.3) (5.2) Net income $ 175.8 $ 135.0 Earnings (loss) per common share: Continuing operations - Basic $ 0.45 $ 0.35 Discontinued operations - Basic \u2014 (0.01) Net income - Basic $ 0.45 $ 0.34 Continuing operations - Diluted $ 0.45 $ 0.35 Discontinued operations - Diluted \u2014 (0.01) Net income - Diluted $ 0.45 $ 0.34 Weighted-average common shares outstanding: Basic 389,907,760 396,576,662 Diluted 394,196,801 400,046,382",
+      "token_count": 254
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Cash Flows from Operating Activities: Net income $ 175.8 $ 135.0 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 55.6 49.2 Goodwill impairment \u2014 2.5 Gain on sale of business, prior to costs to sell (35.1) \u2014 Stock-based compensation 15.8 19.3 Deferred income taxes 10.5 (5.7) Other, net (7.6) 17.0 Net change in operating assets and liabilities (3.5) (164.8) Net cash provided by operating activities 211.5 52.5 Cash Flows from Investing Activities: Proceeds from sale of business 96.3 \u2014 Purchases of property, plant and equipment (59.4) (66.6) Payments to acquire short-term investments (26.8) (4.0) Proceeds from sale, maturity and collection of short-term investments 22.7 \u2014 Other investing activities, net (6.5) (0.5) Net cash provided by (used for) investing activities 26.3 (71.1) Cash Flows from Financing Activities: Accelerated share repurchase (200.0) \u2014 Repurchase of common stock \u2014 (30.0) Tax withholdings on equity awards (31.1) (18.3) Dividends to stockholders (53.8) (51.4) Other financing activities, net 0.8 2.2 Net cash used for financing activities (284.1) (97.5) Effect of exchange rate changes on cash and cash equivalents and restricted cash 5.0 0.5 Net increase (decrease) in cash and cash equivalents and restricted cash (41.3) (115.6) Beginning cash and cash equivalents 757.9 690.0 Ending cash and cash equivalents $ 716.6 $ 574.4 Noncash Investing Activity: Property, plant and equipment acquired and not yet paid at end of period $ 27.6 $ 36.3 Supplemental Disclosure of Cash Flow Information: Cash paid for income taxes during the period, net of refunds 28.1 18.7",
+      "token_count": 434
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Consolidated statements of cash flows include the cash flows from continuing and discontinued operations.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The following information relates to non-GAAP financial measures, and should be read in conjunction with the investor call held on 2026-04-07T16:12:22-04:00, discussing the company\u2019s financial condition and results of operations as of and for the quarter ended March 1, 2026. Because the results of our Dockers\u00ae business are classified as discontinued operations, those results are not reflected in our non-GAAP measures.",
+      "token_count": 103
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Most comparable GAAP measure Non-GAAP measure Non-GAAP measure definition Selling, general and administrative expenses (\u201cSG&A\u201d) Adjusted SG&A SG&A expenses excluding goodwill impairment charges and restructuring related charges and other, net SG&A margin Adjusted SG&A margin Adjusted SG&A as a percentage of net revenues Net income from continuing operations Adjusted EBIT Net income from continuing operations excluding income tax expense, interest expense, other (income) expense, net, goodwill impairment charges, restructuring charges, net, and restructuring related charges and other, net. Net income margin from continuing operations Adjusted EBIT margin Adjusted EBIT as a percentage of net revenues Net income from continuing operations Adjusted EBITDA Adjusted EBIT excluding depreciation and amortization expense Net income from continuing operations Adjusted net income Net income from continuing operations excluding goodwill impairment charges, restructuring charges, net, restructuring related charges and other, net, and gain on legal settlement adjusted to give effect to the income tax impact of such adjustments. Net income margin from continuing operations Adjusted net income margin Adjusted net income as a percentage of net revenues. Diluted earnings per share from continuing operations Adjusted diluted earnings per share Adjusted net income per weighted-average number of diluted common shares outstanding.",
+      "token_count": 358
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income from continuing operations excluding income tax expense, interest expense, other (income) expense, net, goodwill impairment charges, restructuring charges, net, and restructuring related charges and other, net.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income from continuing operations excluding goodwill impairment charges, restructuring charges, net, restructuring related charges and other, net, and gain on legal settlement adjusted to give effect to the income tax impact of such adjustments.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The following table presents a reconciliation of SG&A, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted SG&A for each of the periods presented.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Most comparable GAAP measure: Selling, general and administrative expenses $ 871.7 $ 749.3 Non-GAAP measure: Selling, general and administrative expenses $ 871.7 $ 749.3 Goodwill impairment charges (1) \u2014 (2.5) Restructuring related charges and other, net (2) (11.2) (3.2) Adjusted SG&A $ 860.5 $ 743.6 SG&A margin 50.0 % 49.1 % Adjusted SG&A margin 49.4 % 48.7 %",
+      "token_count": 111
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(1) For the three-month period ended March 2, 2025, goodwill impairment charges includes the recognition of a $2.5 million goodwill impairment charge related to our business in Bolivia. (2) For the three-month period ended March 1, 2026, restructuring related charges and other, net consists primarily of attorney fees related to a gain on legal settlement of $9.8 million. For the three-month period ended March 2, 2025, restructuring related charges and other, net primarily relates to consulting costs associated with our restructuring initiative of $2.1 million.",
+      "token_count": 142
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For the three-month period ended March 2, 2025, goodwill impairment charges includes the recognition of a $2.5 million goodwill impairment charge related to our business in Bolivia.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "For the three-month period ended March 1, 2026, restructuring related charges and other, net consists primarily of attorney fees related to a gain on legal settlement of $9.8 million.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "For the three-month period ended March 2, 2025, restructuring related charges and other, net primarily relates to consulting costs associated with our restructuring initiative of $2.1 million.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The following table presents a reconciliation of net income from continuing operations, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted EBIT and Adjusted EBITDA for each of the periods presented.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Most comparable GAAP measure: Net income from continuing operations $ 177.1 $ 140.2 Non-GAAP measure: Net income from continuing operations $ 177.1 $ 140.2 Income tax expense 51.1 36.4 Interest expense 13.1 10.9 Other (income) expense, net (42.6) 4.1 Goodwill impairment charges (1) \u2014 2.5 Restructuring charges, net (2) 7.9 6.7 Restructuring related charges and other, net (3) 11.2 3.2 Adjusted EBIT $ 217.8 $ 204.0 Depreciation and amortization 55.3 49.1 Adjusted EBITDA $ 273.1 $ 253.1 Net income margin from continuing operations 10.2 % 9.2 % Adjusted EBIT margin 12.5 % 13.4 %",
+      "token_count": 166
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "(1) For the three-month period ended March 2, 2025, goodwill impairment charges includes the recognition of a $2.5 million goodwill impairment charge related to our business in Bolivia. (2) For the three-month period ended March 1, 2026, restructuring charges, net consists primarily of severance and post-employment benefit charges. For the three-month period ended March 2, 2025, restructuring charges, net includes $6.7 million in connection with Project Fuel consisting primarily of severance, post-employment benefit charges, contract terminations and asset impairments. (3) For the three-month period ended March 1, 2026, restructuring related charges and other, net consists primarily of attorney fees related to a gain on legal settlement of $9.8 million. For the three-month period ended March 2, 2025, restructuring related charges and other, net primarily relates to consulting costs associated with our restructuring initiative of $2.1 million.",
+      "token_count": 239
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the three-month period ended March 1, 2026, restructuring charges, net consists primarily of severance and post-employment benefit charges.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "For the three-month period ended March 2, 2025, restructuring charges, net includes $6.7 million in connection with Project Fuel consisting primarily of severance, post-employment benefit charges, contract terminations and asset impairments.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The following table presents a reconciliation of net income from continuing operations, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted net income for each of the periods presented.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Twelve Months Ended March 1, 2026 March 2, 2025 March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Most comparable GAAP measure: Net income from continuing operations $ 177.1 $ 140.2 $ 538.9 $ 360.4 Non-GAAP measure: Net income from continuing operations $ 177.1 $ 140.2 $ 538.9 $ 360.4 Property, plant and equipment impairment \u2014 \u2014 \u2014 11.1 Goodwill impairment charges (1) \u2014 2.5 \u2014 113.9 Restructuring charges, net (2) 7.9 6.7 25.7 79.2 Restructuring related charges and other, net (3) 11.4 3.2 23.9 49.0 Loss on early extinguishment of debt \u2014 \u2014 1.5 \u2014 Gain on legal settlement (33.0) \u2014 (33.0) \u2014 Tax impact of adjustments (4) 3.3 (2.6) (3.2) (64.4) Adjusted net income $ 166.7 $ 150.0 $ 553.8 $ 549.2 Net income margin from continuing operations 10.2 % 9.2 % Adjusted net income margin 9.6 % 9.8 %",
+      "token_count": 206
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(1) For the three-month period ended March 2, 2025, goodwill impairment charges includes the recognition of a $2.5 million goodwill impairment charge related to our business in Bolivia. (2) For the three-month period ended March 1, 2026, restructuring charges, net consists primarily of severance and post-employment benefit charges. For the three-month period ended March 2, 2025, restructuring charges, net includes $6.7 million in connection with Project Fuel consisting primarily of severance, post-employment benefit charges, contract terminations and asset impairments. (3) For the three-month period ended March 1, 2026, restructuring related charges and other, net consists primarily of attorney fees related to a gain on legal settlement of $9.8 million. For the three-month period ended March 2, 2025, restructuring related charges and other, net primarily relates to consulting costs associated with our restructuring initiative of $2.1 million. (4) Tax impact calculated using the annual effective tax rate, excluding discrete costs and benefits.",
+      "token_count": 265
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The following table presents a reconciliation of diluted earnings per share from continuing operations, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted diluted earnings per share for each of the periods presented.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 (Unaudited) Most comparable GAAP measure: Diluted earnings per share from continuing operations $ 0.45 $ 0.35 Non-GAAP measure: Diluted earnings per share from continuing operations $ 0.45 $ 0.35 Goodwill impairment charges (1) \u2014 0.01 Restructuring charges, net (2) 0.02 0.02 Restructuring related charges and other, net (3) 0.02 0.01 Gain on legal settlement (0.08) \u2014 Tax impact of adjustments (4) 0.01 (0.01) Adjusted diluted earnings per share $ 0.42 $ 0.38",
+      "token_count": 127
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(1) For the three-month period ended March 2, 2025, goodwill impairment charges includes the recognition of a $2.5 million goodwill impairment charge related to our business in Bolivia. (2) For the three-month period ended March 1, 2026, restructuring charges, net consists primarily of severance and post-employment benefit charges. For the three-month period ended March 2, 2025, restructuring charges, net includes $6.7 million in connection with Project Fuel consisting primarily of severance, post-employment benefit charges, contract terminations and asset impairments. (3) For the three-month period ended March 1, 2026, restructuring related charges and other, net consists primarily of attorney fees related to a gain on legal settlement of $9.8 million. For the three-month period ended March 2, 2025, restructuring related charges, severance, and other, net primarily relates to consulting costs associated with our restructuring initiative of $2.1 million. (4) Tax impact calculated using the annual effective tax rate, excluding discrete costs and benefits.",
+      "token_count": 268
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "For the three-month period ended March 2, 2025, restructuring related charges, severance, and other, net primarily relates to consulting costs associated with our restructuring initiative of $2.1 million.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Adjusted free cash flow, a non-GAAP financial measure, includes net cash flow from operating activities less purchases of property, plant and equipment from continuing and discontinued operations. This measure therefore includes the results of our Dockers\u00ae business, which is classified as discontinued operations. We believe Adjusted free cash flow is an important liquidity measure of the cash that is available after capital expenditures for operational expenses and investment in our business. We believe Adjusted free cash flow is useful to investors because it measures our ability to generate or use cash. Once our business needs and obligations are met, cash can be used to maintain a strong balance sheet, invest in future growth and return capital to stockholders.",
+      "token_count": 194
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "The following table presents a reconciliation of net cash flow from operating activities, the most directly comparable financial measure calculated in accordance with GAAP, to Adjusted free cash flow for each of the periods presented.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Most comparable GAAP measure: Net cash provided by operating activities $ 211.5 $ 52.5 Net cash provided by (used for) investing activities 26.3 (71.1) Net cash used for financing activities (284.1) (97.5) Non-GAAP measure: Net cash provided by operating activities $ 211.5 $ 52.5 Purchases of property, plant and equipment (59.4) (66.6) Adjusted free cash flow $ 152.1 $ (14.1)",
+      "token_count": 115
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "We define Return on invested capital (\u201cROIC\u201d) as the trailing four quarters of Adjusted net income before interest and after taxes divided by the average trailing five quarters of total invested capital. We define total invested capital as total debt plus shareholders' equity less cash and short-term investments. We believe ROIC is useful to investors as it quantifies how efficiently we generated operating income relative to the capital we have invested in the business.",
+      "token_count": 119
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Our calculation of ROIC is considered a non-GAAP financial measure because we calculate ROIC using the non-GAAP metric Adjusted net income. Although ROIC is a standard financial metric, numerous methods exist for calculating a company's ROIC. As a result, the method we use to calculate our ROIC may differ from the methods used by other companies. This metric is not defined by GAAP and should not be considered as an alternative to earnings measures defined by GAAP.",
+      "token_count": 117
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The table below sets forth the calculation of ROIC for each of the periods presented.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S086",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Trailing Four Quarters March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Net income from continuing operations $ 538.9 $ 360.4 Numerator Adjusted net income (1) $ 553.8 $ 549.2 Interest expense 50.9 42.7 Adjusted income tax expense 149.9 111.3 Adjusted net income before interest and taxes $ 754.6 $ 703.2 Income tax adjustment (2) (160.7) (118.6) Adjusted net income before interest and after taxes $ 593.9 $ 584.6 _____________",
+      "token_count": 111
+    },
+    {
+      "source_id": "S087",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(1) Adjusted net income is reconciled from net income from continuing operations which is the most comparable GAAP measure. Refer to Adjusted net income table for more information.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S088",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Tax impact calculated using the adjusted annual effective tax rate, excluding discrete costs and benefits.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S089",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Average Trailing Five Quarters March 1, 2026 March 2, 2025 (Dollars in millions) (Unaudited) Denominator Total debt, including operating lease liabilities $ 2,339.4 $ 2,174.9 Shareholders' equity 2,083.2 1,842.1 Cash and Short-term investments (663.0) (599.9) Total invested Capital $ 3,759.6 $ 3,417.1 Net income to Total invested capital 14.3 % 10.5 % Return on Invested Capital 15.8 % 17.1 %",
+      "token_count": 99
+    },
+    {
+      "source_id": "S090",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The table below sets forth the calculation of net revenues by segment on an organic net revenues basis for each of the periods presented .",
+      "token_count": 35
+    },
+    {
+      "source_id": "S091",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 % Increase (Decrease) (Dollars in millions) (Unaudited) Total net revenues (1) As reported $ 1,742.5 $ 1,526.8 14.1 % Impact of foreign currency exchange rates \u2014 70.8 Net revenues from Denizen \u00ae wind down (2) \u2014 (2.3) Organic net revenues $ 1,742.5 $ 1,595.3 9.2 % Americas As reported $ 855.7 $ 783.0 9.3 % Impact of foreign currency exchange rates \u2014 18.4 Net revenues from Denizen \u00ae wind down (2) \u2014 (2.3) Organic net revenues - Americas $ 855.7 $ 799.1 7.1 % Europe As reported $ 496.0 $ 400.5 23.8 % Impact of foreign currency exchange rates \u2014 51.3 Organic net revenues - Europe $ 496.0 $ 451.8 9.8 % Asia As reported $ 347.5 $ 308.1 12.8 % Impact of foreign currency exchange rates \u2014 1.1 Organic net revenues - Asia $ 347.5 $ 309.2 12.4 % Beyond Yoga \u00ae As reported $ 43.3 $ 35.2 23.0 % Organic net revenues - Beyond Yoga \u00ae $ 43.3 $ 35.2 23.0 %",
+      "token_count": 224
+    },
+    {
+      "source_id": "S092",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) These measures exclude the results of our Dockers \u00ae business, which is classified as discontinued operations.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S093",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(2) Foreign currency did not significantly impact net revenues from Denizen \u00ae wind down for the three months ended March 2, 2025.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S094",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The table below sets forth the calculation of net revenues by channel on an organic net revenues basis for each of the periods presented.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S095",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 % Increase (Decrease) (Dollars in millions) (Unaudited) Total net revenues (1) As reported $ 1,742.5 $ 1,526.8 14.1 % Impact of foreign currency exchange rates \u2014 70.8 Net revenues from Denizen \u00ae wind down (2) \u2014 (2.3) Organic net revenues $ 1,742.5 $ 1,595.3 9.2 % Wholesale As reported $ 831.0 $ 739.3 12.4 % Impact of foreign currency exchange rates \u2014 29.5 Net revenues from Denizen \u00ae wind down (2) \u2014 (2.3) Organic net revenues - Wholesale $ 831.0 $ 766.5 8.4 % DTC As reported $ 911.5 $ 787.5 15.7 % Impact of foreign currency exchange rates \u2014 41.3 Organic net revenues - DTC $ 911.5 $ 828.8 10.0 %",
+      "token_count": 162
+    },
+    {
+      "source_id": "S096",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The table below sets forth the calculation of net revenues by brand on an organic net revenues basis for each of the periods presented.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S097",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 % Increase (Decrease) (Dollars in millions) (Unaudited) Total LEVI STRAUSS & CO\u2019s Brands net revenues As reported $ 1,699.2 $ 1,491.6 13.9 % Impact of foreign currency exchange rates \u2014 70.8 Net revenues from Denizen \u00ae wind down (1) \u2014 (2.3) Organic net revenues $ 1,699.2 $ 1,560.1 8.9 % LEVI STRAUSS & CO\u2019s \u00ae As reported $ 1,633.5 $ 1,432.8 14.0 % Impact of foreign currency exchange rates \u2014 70.6 Organic net revenues - LEVI STRAUSS & CO\u2019s \u00ae $ 1,633.5 $ 1,503.4 8.7 % LEVI STRAUSS & CO Signature TM As reported $ 65.7 $ 56.5 16.3 % Impact of foreign currency exchange rates \u2014 0.2 Organic net revenues - LEVI STRAUSS & CO Signature TM $ 65.7 $ 56.7 15.9 % Denizen \u00ae As reported $ \u2014 $ 2.3 (100.0) % Impact of foreign currency exchange rates \u2014 \u2014 Net revenues from Denizen \u00ae wind down (1) \u2014 (2.3) Organic net revenues - Denizen \u00ae $ \u2014 $ \u2014 *",
+      "token_count": 212
+    },
+    {
+      "source_id": "S098",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Foreign currency did not significantly impact net revenues from Denizen \u00ae wind down for the three months ended March 2, 2025.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S099",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "The table below sets forth the calculation of Adjusted EBIT and Adjusted EBIT margin on a constant-currency basis for each of the periods presented.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S100",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 % Increase (Decrease) (Dollars in millions) (Unaudited) Adjusted EBIT (1) $ 217.8 $ 204.0 6.8 % Impact of foreign currency exchange rates \u2014 17.3 * Constant-currency Adjusted EBIT $ 217.8 $ 221.3 (1.6) % Adjusted EBIT margin 12.5 % 13.4 % (6.7) % Impact of foreign currency exchange rates \u2014 % 0.5 % * Constant-currency Adjusted EBIT margin (2) 12.5 % 13.9 % (10.1) % _____________",
+      "token_count": 107
+    },
+    {
+      "source_id": "S101",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Adjusted EBIT is reconciled from net income from continuing operations which is the most comparable GAAP measure. Refer to Adjusted EBIT and Adjusted EBITDA table for more information. (2) We define constant-currency Adjusted EBIT margin as constant-currency Adjusted EBIT as a percentage of constant-currency net revenues from continuing operations.",
+      "token_count": 89
+    },
+    {
+      "source_id": "S102",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted EBIT is reconciled from net income from continuing operations which is the most comparable GAAP measure. Refer to Adjusted EBIT and Adjusted EBITDA table for more information.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S103",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We define constant-currency Adjusted EBIT margin as constant-currency Adjusted EBIT as a percentage of constant-currency net revenues from continuing operations.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S104",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The table below sets forth the calculation of Adjusted net income and Adjusted diluted earnings per share on a constant-currency basis for each of the periods presented.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S105",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended March 1, 2026 March 2, 2025 % Increase (Decrease) (Dollars in millions, except per share amounts) (Unaudited) Adjusted net income (1) $ 166.7 $ 150.0 11.1 % Impact of foreign currency exchange rates \u2014 6.0 * Constant-currency Adjusted net income $ 166.7 $ 156.0 6.9 % Constant-currency Adjusted net income margin (2) 9.6 % 9.8 % Adjusted diluted earnings per share $ 0.42 $ 0.38 10.5 % Impact of foreign currency exchange rates \u2014 0.01 * Constant-currency Adjusted diluted earnings per share $ 0.42 $ 0.39 7.7 % _____________",
+      "token_count": 136
+    },
+    {
+      "source_id": "S106",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(1) Adjusted net income is reconciled from net income from continuing operations which is the most comparable GAAP measure. Refer to Adjusted net income table for more information. (2) We define constant-currency Adjusted net income margin as constant-currency Adjusted net income as a percentage of constant-currency net revenues from continuing operations.",
+      "token_count": 90
+    },
+    {
+      "source_id": "S107",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted net income is reconciled from net income from continuing operations which is the most comparable GAAP measure. Refer to Adjusted net income table for more information.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S108",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We define constant-currency Adjusted net income margin as constant-currency Adjusted net income as a percentage of constant-currency net revenues from continuing operations.",
+      "token_count": 44
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2026Q1",
+      "value": 1742500000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2026Q1",
+      "value": 1078300000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q1",
+      "value": 198700000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "ProfitLoss",
+      "period": "2026Q1",
+      "value": 175800000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q1",
+      "value": 0.45,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q1",
+      "value": 0.45,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2026Q1",
+      "value": 716600000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X008",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q1",
+      "value": 211500000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.085352,
+    "ret_20d": 0.045069,
+    "market_ret_20d": -0.025432
+  },
+  "outcome_blind": true
+}

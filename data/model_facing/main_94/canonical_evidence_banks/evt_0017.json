@@ -1,0 +1,1469 @@
+{
+  "event_id": "evt_0017",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Salesforce, Inc.",
+  "ticker": "CRM",
+  "company_alias": "Salesforce, Inc.",
+  "masked_company": "Company G",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q4",
+  "event_date": "2026-02-25",
+  "accepted_at_et": "2026-02-25T11:03:12-05:00",
+  "source_packet_path": "source_packets/evt_0017.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "RPO Exceeds $72B, Up 14% Y/Y; $15B OCF",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "RPO Exceeds $72B, Up 14% Y/Y; $15B OCF",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "Scaling The Agentic Enterprise With 2.4B Agentic Work Units Delivered & 19T Tokens Processed All-Time",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "Scaling The Agentic Enterprise With 2.4B Agentic Work Units Delivered & 19T Tokens Processed All-Time",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "CEOs of SharkNinja, Wyndham Hotels & Resorts and SaaStr to join Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "CEOs of SharkNinja, Wyndham Hotels & Resorts and SaaStr to join Salesforce, Inc. Earnings Show",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "SAN FRANCISCO, Calif.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "SAN FRANCISCO, Calif. - 2026-02-25T11:03:12-05:00 - Salesforce, Inc. (NYSE:CRM), the world's #1 AI Salesforce, Inc., today announced results for its fourth quarter and full fiscal year ended January 31, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "\u2022 Current remaining performance obligation of $35.1 billion, up 16% year-over-year (\"Y/Y\") and 13% in constant currency (\"CC\"), including 4pts Informatica contribution",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Current remaining performance obligation of $35.1 billion, up 16% year-over-year (\"Y/Y\") and 13% in constant currency (\"CC\"), including 4pts Informatica contribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u2022 Remaining performance obligation of $72.4 billion, up 14% Y/Y",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Remaining performance obligation of $72.4 billion, up 14% Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u2022 Fourth quarter subscription & support revenue of $10.7 billion, up 13% Y/Y and 11% in CC, including $388 million Informatica contribution",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Fourth quarter subscription & support revenue of $10.7 billion, up 13% Y/Y and 11% in CC, including $388 million Informatica contribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "\u2022 Fourth quarter revenue of $11.2 billion, up 12% Y/Y and 10% in CC, including $399 million Informatica contribution",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Fourth quarter revenue of $11.2 billion, up 12% Y/Y and 10% in CC, including $399 million Informatica contribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "\u2022 FY26 revenue of $41.5 billion, up 10% Y/Y and 9% in CC, including $399 million Informatica contribution",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 FY26 revenue of $41.5 billion, up 10% Y/Y and 9% in CC, including $399 million Informatica contribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "margins",
+      "claim": "\u2022 FY26 GAAP operating margin of 20.1% and non-GAAP operating margin of 34.1%",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 FY26 GAAP operating margin of 20.1% and non-GAAP operating margin of 34.1%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 FY26 operating cash flow of $15.0 billion, up 15% Y/Y, and free cash flow of $14.4 billion, up 16% Y/Y",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 FY26 operating cash flow of $15.0 billion, up 15% Y/Y, and free cash flow of $14.4 billion, up 16% Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "\u2022 Returned $14.3 billion to shareholders, including $12.7 billion in share repurchases and $1.6 billion in dividends",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Returned $14.3 billion to shareholders, including $12.7 billion in share repurchases and $1.6 billion in dividends",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "\u2022 Announces $50 billion share repurchase program authorization, replacing all previously unused authorizations",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 Announces $50 billion share repurchase program authorization, replacing all previously unused authorizations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "\u2022 Increased quarterly dividend to $0.44 per share of outstanding common stock, up 5.8% Y/Y",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 Increased quarterly dividend to $0.44 per share of outstanding common stock, up 5.8% Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "\u201cWe delivered a phenomenal quarter to close out a record fiscal 2026, delivering $41.5 billion in revenue, up 10% year-over-year and we passed an incredible milestone, with $72 billion in total RPO, up 14% year-over-year,\u201d said Marc Benioff, Chair and CEO, Salesforce, Inc..",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u201cWe delivered a phenomenal quarter to close out a record fiscal 2026, delivering $41.5 billion in revenue, up 10% year-over-year and we passed an incredible milestone, with $72 billion in total RPO, up 14% year-over-year,\u201d said Marc Benioff, Chair and CEO, Salesforce, Inc.. \u201cW...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u201cSalesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u201cSalesforce, Inc. delivered a record Q4 as our customers' shift to the Agentic Enterprise surges, fueling NNAOV acceleration in H2 FY26,\u201d said President and Chief Financial and Operating Officer, Salesforce, Inc.. \u201cOur performance makes us even more confident in our path to re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "\u2022 Introduced Agentic Work Units (\u201cAWUs\u201d) to measures tasks accomplished by an AI Agent, with 2.4 billion AWUs delivered to date across Agentforce and Slack, growing 57% quarter-over-quarter (\"Q/Q\")",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "\u2022 Introduced Agentic Work Units (\u201cAWUs\u201d) to measures tasks accomplished by an AI Agent, with 2.4 billion AWUs delivered to date across Agentforce and Slack, growing 57% quarter-over-quarter (\"Q/Q\")",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "\u2022 Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Salesforce, Inc. has processed more than 19 trillion tokens to date, up 5x Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "\u2022 Agentforce and Data 360 annual recurring revenue (\"ARR\") exceeds $2.9 billion, up over 200% Y/Y, including $1.1 billion Informatica Cloud ARR and $800 million Agentforce ARR, up 169% Y/Y",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 Agentforce and Data 360 annual recurring revenue (\"ARR\") exceeds $2.9 billion, up over 200% Y/Y, including $1.1 billion Informatica Cloud ARR and $800 million Agentforce ARR, up 169% Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "\u2022 Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Salesforce, Inc. has closed over 29,000 Agentforce deals since launch, up 50% Q/Q",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "\u2022 More than 60% of Agentforce and Data 360 Q4 bookings came from existing customer expansion",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 More than 60% of Agentforce and Data 360 Q4 bookings came from existing customer expansion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "\u2022 Agentforce accounts in production increased nearly 50% Q/Q",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "\u2022 Agentforce accounts in production increased nearly 50% Q/Q",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "\u2022 In FY26, Data 360 ingested 112 trillion records, up 114% Y/Y, including 53 trillion via Zero Copy, up 310% Y/Y, and processed 18 terabytes of unstructured data",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "\u2022 In FY26, Data 360 ingested 112 trillion records, up 114% Y/Y, including 53 trillion via Zero Copy, up 310% Y/Y, and processed 18 terabytes of unstructured data",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "\u2022 All Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u2022 All Salesforce, Inc. Top 10 Q4 wins included Agentforce 360, Data 360, Agentforce Sales, Agentforce Service, Agentforce 360 Platform, and Agentforce Analytics",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "\u2022 Collectively, Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "\u2022 Collectively, Salesforce, Inc. industry businesses finished the year at $6.6 billion ARR, up nearly 20% Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "balance_sheet_or_cash",
+      "claim": "Salesforce, Inc.\u2019s Board of Directors declared a quarterly cash dividend of $0.44 per share of outstanding common stock, which represents a 5.8% Y/Y increase.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Salesforce, Inc.\u2019s Board of Directors declared a quarterly cash dividend of $0.44 per share of outstanding common stock, which represents a 5.8% Y/Y increase. The dividend is payable on April 23, 2026 to stockholders of record as of the close of business on April 9, 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "\u2022 Initiates full year FY27 revenue guidance of $45.8 billion to $46.2 billion, up 10% - 11% Y/Y and in CC, including approximately 3pts Informatica contribution",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "\u2022 Initiates full year FY27 revenue guidance of $45.8 billion to $46.2 billion, up 10% - 11% Y/Y and in CC, including approximately 3pts Informatica contribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "guidance",
+      "claim": "\u2022 Expects organic revenue re-acceleration in the second half of FY27",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "\u2022 Expects organic revenue re-acceleration in the second half of FY27",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "guidance",
+      "claim": "\u2022 Initiates full year FY27 subscription & support revenue growth guidance of slightly under 12% Y/Y and approximately 11% in CC, including approximately 3pts Informatica contribution",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "\u2022 Initiates full year FY27 subscription & support revenue growth guidance of slightly under 12% Y/Y and approximately 11% in CC, including approximately 3pts Informatica contribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "\u2022 Initiates full year FY27 GAAP operating margin guidance of 20.9%, and non-GAAP operating margin guidance of 34.3%",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "\u2022 Initiates full year FY27 GAAP operating margin guidance of 20.9%, and non-GAAP operating margin guidance of 34.3%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "\u2022 Initiates full year FY27 operating cash flow growth guidance of approximately 9% - 10% Y/Y",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 Initiates full year FY27 operating cash flow growth guidance of approximately 9% - 10% Y/Y",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "\u2022 Raises full year FY30 revenue target to $63 billion including Informatica",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "\u2022 Raises full year FY30 revenue target to $63 billion including Informatica",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "Salesforce, Inc.'s guidance includes GAAP and non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Salesforce, Inc.'s guidance includes GAAP and non-GAAP financial measures. The following tables summarize Salesforce, Inc.'s guidance for the first quarter fiscal 2027 and full-year fiscal 2027: Q1 FY27 Guidance GAAP Non-GAAP (1) Revenue $11.03 - $11.08 billion N/A Revenue gro...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "Full Year FY27 Guidance GAAP Non-GAAP (1) Revenue $45.80 - $46.20 billion N/A Revenue growth (2) 10% - 11% Approximately 10% - 11% CC, $300M Y/Y FX Includes approximately 3pts Informatica contribution Subscription & support revenue growth (4) Slightly under 12% Approximately 11% CC Includes approximately 3pts Informatica contribution Operating margin 20.9% 34.3% Diluted net income per share $7.85 - $7.93 $13.11 - $13.19 Operating cash flow growth Approximately 9% - 10% N/A Free cash flow growth N/A Approximately 9% - 10% Capital expenditures N/A Approximately 1.5% of revenue",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Full Year FY27 Guidance GAAP Non-GAAP (1) Revenue $45.80 - $46.20 billion N/A Revenue growth (2) 10% - 11% Approximately 10% - 11% CC, $300M Y/Y FX Includes approximately 3pts Informatica contribution Subscription & support revenue growth (4) Slightly under 12% Approximately 1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "guidance",
+      "claim": "(1) Non-GAAP CC revenue growth, non-GAAP CC remaining performance obligation growth, non-GAAP CC subscription & support revenue growth, non-GAAP operating margin, non-GAAP diluted net income per share, and free cash flow growth are non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "(1) Non-GAAP CC revenue growth, non-GAAP CC remaining performance obligation growth, non-GAAP CC subscription & support revenue growth, non-GAAP operating margin, non-GAAP diluted net income per share, and free cash flow growth are non-GAAP financial measures. See below for an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "guidance",
+      "claim": "computing GAAP diluted net income per share guidance and non-GAAP diluted net income per share guidance excludes any impact to share count from potential Q1 - Q4 FY27 repurchase activity under our share repurchase program.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "computing GAAP diluted net income per share guidance and non-GAAP diluted net income per share guidance excludes any impact to share count from potential Q1 - Q4 FY27 repurchase activity under our share repurchase program.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "guidance",
+      "claim": "(2) Revenue FX impact is calculated by taking the current period rates compared to the prior period average rates.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "(2) Revenue FX impact is calculated by taking the current period rates compared to the prior period average rates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "guidance",
+      "claim": "(3) Current remaining performance obligation FX impact is calculated by taking the current period rates compared to the prior period ending rates.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "(3) Current remaining performance obligation FX impact is calculated by taking the current period rates compared to the prior period ending rates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "guidance",
+      "claim": "(4) Subscription & support revenue excludes professional services revenue.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "(4) Subscription & support revenue excludes professional services revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "guidance",
+      "claim": "Full Year FY27 Guidance GAAP operating margin (1) 20.9% Plus Amortization of purchased intangibles (2) 4.1% Stock-based compensation expense (2)(3) 9.0% Restructuring and acquisition-related costs (2)(3) 0.3% Non-GAAP operating margin (1) 34.3%",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "Full Year FY27 Guidance GAAP operating margin (1) 20.9% Plus Amortization of purchased intangibles (2) 4.1% Stock-based compensation expense (2)(3) 9.0% Restructuring and acquisition-related costs (2)(3) 0.3% Non-GAAP operating margin (1) 34.3%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "(1) GAAP operating margin is the proportion of GAAP income from operations as a percentage of GAAP revenue.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "(1) GAAP operating margin is the proportion of GAAP income from operations as a percentage of GAAP revenue. Non-GAAP operating margin is the proportion of non-GAAP income from operations as a percentage of GAAP revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "(2) The percentages shown above have been calculated based on the midpoint of the low and high ends of the revenue guidance for full year FY27.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "(2) The percentages shown above have been calculated based on the midpoint of the low and high ends of the revenue guidance for full year FY27.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "(3) The percentages shown in the restructuring and acquisition-related costs line have been calculated based on charges associated with the Company's restructuring initiatives and acquisition-related costs.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(3) The percentages shown in the restructuring and acquisition-related costs line have been calculated based on charges associated with the Company's restructuring initiatives and acquisition-related costs. Stock-based compensation expense excludes stock-based compensation exp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "The following is a per share reconciliation of GAAP diluted net income per share to non-GAAP diluted net income per share guidance for the next quarter and the full year: Fiscal 2027 Q1 FY27 GAAP diluted net income per share range (1)(2) $1.77 - $1.79 $7.85 - $7.93 Plus Amortization of purchased intangibles $ 0.59 $ 2.00 Stock-based compensation expense $ 1.03 $ 4.41 Restructuring and acquisition-related costs (3) $ 0.05 $ 0.14 Less Income tax effects and adjustments (4) $ (0.33) $ (1.29) Non-GAAP diluted net income per share (2) $3.11 - $3.13 $13.11 - $13.19 Shares used in computing basic net income per share (millions) (5) 931 938 Shares used in computing diluted net income per share (millions) (5) 937 943",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "The following is a per share reconciliation of GAAP diluted net income per share to non-GAAP diluted net income per share guidance for the next quarter and the full year: Fiscal 2027 Q1 FY27 GAAP diluted net income per share range (1)(2) $1.77 - $1.79 $7.85 - $7.93 Plus Amorti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "(1) The Company's GAAP tax provision is expected to be approximately 21.0% for the three months ended April 30, 2026 and for the year ended January 31, 2027.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "(1) The Company's GAAP tax provision is expected to be approximately 21.0% for the three months ended April 30, 2026 and for the year ended January 31, 2027. The GAAP tax rates may fluctuate due to discrete tax items, changes in valuation allowance assessment, future acquisiti...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "(2) The Company's projected GAAP and non-GAAP diluted net income per share assumes no change to the value of our strategic investment portfolio as it is not possible to forecast future gains and losses.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "(2) The Company's projected GAAP and non-GAAP diluted net income per share assumes no change to the value of our strategic investment portfolio as it is not possible to forecast future gains and losses. The impact of future gains or losses from the Company\u2019s strategic investme...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "earnings_or_eps",
+      "claim": "(3) The estimated impact to GAAP diluted net income per share is in connection with the Company's restructuring initiatives and acquisition-related costs.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "(3) The estimated impact to GAAP diluted net income per share is in connection with the Company's restructuring initiatives and acquisition-related costs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "(4) The Company\u2019s non-GAAP tax provision uses a long-term projected tax rate of 20.5%, which reflects currently available information and could be subject to change.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "(4) The Company\u2019s non-GAAP tax provision uses a long-term projected tax rate of 20.5%, which reflects currently available information and could be subject to change.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "(5) The Company's shares used in computing GAAP net income per share guidance and non-GAAP net income per share guidance excludes any impact to share count from potential Q1 - Q4 FY27 repurchase activity under our share repurchase program.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "(5) The Company's shares used in computing GAAP net income per share guidance and non-GAAP net income per share guidance excludes any impact to share count from potential Q1 - Q4 FY27 repurchase activity under our share repurchase program.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "For additional information regarding non-GAAP financial measures see the reconciliation of results and related explanations below.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "For additional information regarding non-GAAP financial measures see the reconciliation of results and related explanations below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "Management will provide further commentary around these guidance assumptions on its earnings call.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Management will provide further commentary around these guidance assumptions on its earnings call.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "costs_or_expenses",
+      "claim": "Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Salesforce, Inc. releases major updates for our core platform and apps three times a year, with additional updates happening regularly across our portfolio. These releases are a result of significant research and development investments made over multiple years, and are design...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "To learn more about our newest innovations and product release highlights, including our latest Spring 2026 Product Release, see FY26 Q4 Product Releases and Announcements at https://www.Salesforce, Inc..com/news/stories/fy26-q4-highlights/ and see our latest major release at www.Salesforce, Inc..com/releases.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "To learn more about our newest innovations and product release highlights, including our latest Spring 2026 Product Release, see FY26 Q4 Product Releases and Announcements at https://www.Salesforce, Inc..com/news/stories/fy26-q4-highlights/ and see our latest major release at...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "To learn more about our latest initiatives and priorities, review our Stakeholder Impact Report at https://Salesforce, Inc..com/stakeholder-impact-report.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "To learn more about our latest initiatives and priorities, review our Stakeholder Impact Report at https://Salesforce, Inc..com/stakeholder-impact-report.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Salesforce, Inc. helps organizations of any size become agentic enterprises - integrating humans, agents, apps, and data on a trusted, unified platform to unlock unprecedented growth and innovation. Visit www.Salesforce, Inc..com for more information.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the effect of the acquisition of Informatica on our operating results, the market price of our common stock, our ability to retain and hire key personnel and our ability to maintain relationships with customers, suppliers and others with whom we or Informatica do business;",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "\u2022 the effect of the acquisition of Informatica on our operating results, the market price of our common stock, our ability to retain and hire key personnel and our ability to maintain relationships with customers, suppliers and others with whom we or Informatica do business;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to maintain sufficient security levels and service performance, avoid downtime and prevent, detect and remediate performance degradation and security breaches;",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "\u2022 our ability to maintain sufficient security levels and service performance, avoid downtime and prevent, detect and remediate performance degradation and security breaches;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to secure sufficient data center capacity;",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "\u2022 our ability to secure sufficient data center capacity;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our reliance on third-party infrastructure providers, including hardware, software, energy and platform providers and the organizations responsible for the development and maintenance of Internet infrastructure;",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "\u2022 our reliance on third-party infrastructure providers, including hardware, software, energy and platform providers and the organizations responsible for the development and maintenance of Internet infrastructure;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 uncertainties regarding AI technologies and their integration into our product offerings;",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "\u2022 uncertainties regarding AI technologies and their integration into our product offerings;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the evolving landscape related to environmental, social and governance (\u201cESG\u201d) matters;",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "\u2022 the evolving landscape related to environmental, social and governance (\u201cESG\u201d) matters;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the effect of evolving government regulations, including those related to our industry and providing services on or accessing the Internet, and those addressing ESG matters, data privacy, cybersecurity, cross-border data transfers, government contracting and procurement, and import and export controls;",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "\u2022 the effect of evolving government regulations, including those related to our industry and providing services on or accessing the Internet, and those addressing ESG matters, data privacy, cybersecurity, cross-border data transfers, government contracting and procurement, and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 current and potential litigation and regulatory investigations involving us or our industry;",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "\u2022 current and potential litigation and regulatory investigations involving us or our industry;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to successfully expand or introduce new services and product features, including related to AI and Agentforce;",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "\u2022 our ability to successfully expand or introduce new services and product features, including related to AI and Agentforce;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to successfully complete, integrate and realize the benefits from acquisitions or other strategic transactions;",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "\u2022 our ability to successfully complete, integrate and realize the benefits from acquisitions or other strategic transactions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 uncertainties regarding the pace of change and innovation and our ability to compete in the markets in which we participate;",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "\u2022 uncertainties regarding the pace of change and innovation and our ability to compete in the markets in which we participate;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to successfully execute our business strategy and our business plans, including efforts to expand internationally and related risks;",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "\u2022 our ability to successfully execute our business strategy and our business plans, including efforts to expand internationally and related risks;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "revenue",
+      "claim": "\u2022 our ability to meet our long-term revenue target and profitable growth framework;",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "\u2022 our ability to meet our long-term revenue target and profitable growth framework;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "revenue",
+      "claim": "\u2022 our ability to predict and meet expectations regarding our operating results and cash flows, including revenue and remaining performance obligation, including as a result of the seasonal nature of our sales cycle and the variability in our results arising from the accounting for term license revenue products and some complex transactions;",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "\u2022 our ability to predict and meet expectations regarding our operating results and cash flows, including revenue and remaining performance obligation, including as a result of the seasonal nature of our sales cycle and the variability in our results arising from the accounting...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to predict and limit customer attrition and costs related to those efforts;",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "\u2022 our ability to predict and limit customer attrition and costs related to those efforts;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the demands on our personnel and infrastructure resulting from significant growth in our customer base and operations, including as a result of acquisitions;",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "\u2022 the demands on our personnel and infrastructure resulting from significant growth in our customer base and operations, including as a result of acquisitions;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our real estate and office facilities strategy and related costs and uncertainties;",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "\u2022 our real estate and office facilities strategy and related costs and uncertainties;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the performance of our strategic investment portfolio, including fluctuations in the fair value of our investments;",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "\u2022 the performance of our strategic investment portfolio, including fluctuations in the fair value of our investments;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to protect our intellectual property rights;",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "\u2022 our ability to protect our intellectual property rights;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 our ability to maintain and enhance our brands;",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "\u2022 our ability to maintain and enhance our brands;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 uncertainties regarding the realizability, valuation and potential availability of certain tax assets;",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "\u2022 uncertainties regarding the realizability, valuation and potential availability of certain tax assets;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 the impact of new accounting pronouncements and tax rules;",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "\u2022 the impact of new accounting pronouncements and tax rules;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 uncertainties affecting our ability to estimate our tax rate;",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "\u2022 uncertainties affecting our ability to estimate our tax rate;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 uncertainties regarding the effect of geopolitical events, inflationary pressures, market and macroeconomic volatility, financial institution instability, changes in monetary policy, foreign currency exchange rate and interest rate fluctuations, uncertainty regarding changes in trade policies, including trade wars, the threat or imposition of tariffs or other trade restrictions as well as any retaliatory actions, and climate change, natural disasters and actual or threatened public health emergencies on our workforce, business, and operating results;",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "\u2022 uncertainties regarding the effect of geopolitical events, inflationary pressures, market and macroeconomic volatility, financial institution instability, changes in monetary policy, foreign currency exchange rate and interest rate fluctuations, uncertainty regarding changes...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "risk_or_uncertainty",
+      "claim": "\u2022 uncertainties regarding the impact of expensing stock options and other equity awards;",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "\u2022 uncertainties regarding the impact of expensing stock options and other equity awards;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 the sufficiency of our capital resources, including our ability to execute our share repurchase program and declare future cash dividends;",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "\u2022 the sufficiency of our capital resources, including our ability to execute our share repurchase program and declare future cash dividends;",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 our ability to comply with our debt covenants and lease obligations; and",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "\u2022 our ability to comply with our debt covenants and lease obligations; and",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "guidance",
+      "claim": "\u2022 uncertainties regarding impacts to our workforce and workplace culture, such as those arising from our current and future office environments or remote work policies or our ability to realize the expected benefits of the Company's restructuring initiatives.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "\u2022 uncertainties regarding impacts to our workforce and workplace culture, such as those arising from our current and future office environments or remote work policies or our ability to realize the expected benefits of the Company's restructuring initiatives.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "risk_or_uncertainty",
+      "claim": "Further information on these and other factors that could affect the Company\u2019s actual results or outcomes is included in the reports on Forms 10-K, 10-Q and 8-K and in other filings it makes with the Securities and Exchange Commission from time to time.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "Further information on these and other factors that could affect the Company\u2019s actual results or outcomes is included in the reports on Forms 10-K, 10-Q and 8-K and in other filings it makes with the Securities and Exchange Commission from time to time. These documents are ava...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "risk_or_uncertainty",
+      "claim": "\u00a9 2026 Salesforce, Inc..",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "\u00a9 2026 Salesforce, Inc.. All rights reserved. Salesforce, Inc. and other marks are trademarks of Salesforce, Inc.. Other brands featured herein may be trademarks of their respective owners.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "revenue",
+      "claim": "4 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Revenues: (unaudited) (unaudited) (unaudited) Subscription and support $ 10,675 $ 9,451 $ 39,388 $ 35,679 Professional services and other 526 542 2,137 2,216 Total revenues 11,201 9,993 41,525 37,895 Cost of revenues (1)(2): Subscription and support 1,875 1,581 6,796 6,198 Professional services and other 633 636 2,474 2,445 Total cost of revenues 2,508 2,217 9,270 8,643 Gross profit 8,693 7,776 32,255 29,252 Operating expenses (1)(2): Research and development 1,619 1,420 5,993 5,493 Sales and marketing 4,017 3,471 14,345 13,257 General and administrative 902 767 3,000 2,836 Restructuring 286 298 586 461 Total operating expenses 6,824 5,956 23,924 22,047 Income from operations 1,869 1,820 8,331 7,205 Gains (losses) on strategic investments, net 811 96 1,017 (121) Other income (expense) (52) 72 172 354 Income before provision for income taxes 2,628 1,988 9,520 7,438 Provision for income taxes (685) (280) (2,063) (1,241) Net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Basic net income per share $ 2.08 $ 1.78 $ 7.85 $ 6.44 Diluted net income per share (3) $ 2.07 $ 1.75 $ 7.80 $ 6.36 Shares used in computing basic net income per share 935 959 950 962 Shares used in computing diluted net income per share 940 974 956 974",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "4 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Revenues: (unaudited) (unaudited) (unaudited) Subscription and support $ 10,675 $ 9,451 $ 39,388 $ 35,679 Professional services and other 526 542 2,137 2,216 Total revenues 11,201 9,993 41,525 3...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "revenue",
+      "claim": "(1) Amounts include amortization of intangible assets acquired through business combinations, as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 224 $ 150 $ 692 $ 750 Sales and marketing 302 232 995 901",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "(1) Amounts include amortization of intangible assets acquired through business combinations, as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 224 $ 150 $ 692 $ 750 Sales and marketing 302 232 995 901",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "revenue",
+      "claim": "(2) Amounts include stock-based compensation expense, as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 147 $ 132 $ 553 $ 518 Research and development 336 277 1,162 1,091 Sales and marketing 413 294 1,287 1,205 General and administrative 187 100 478 367 Restructuring 0 0 29 2",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "(2) Amounts include stock-based compensation expense, as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 147 $ 132 $ 553 $ 518 Research and development 336 277 1,162 1,091 Sales and marketing 413 294 1,287 1,205 Gene...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "earnings_or_eps",
+      "claim": "(3) During the three months ended January 31, 2026 and 2025, gains on strategic investments impacted GAAP diluted net income per share by $0.66 and $0.07 based on a U.S.",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "(3) During the three months ended January 31, 2026 and 2025, gains on strategic investments impacted GAAP diluted net income per share by $0.66 and $0.07 based on a U.S. tax rate of 23.5% and 24.0%, respectively, and non-GAAP diluted net income per share by $0.67 and $0.08 bas...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "earnings_or_eps",
+      "claim": "and 2025, gains (losses) on strategic investments impacted GAAP diluted EPS by $0.81 and $(0.09) based on a U.S.",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "and 2025, gains (losses) on strategic investments impacted GAAP diluted EPS by $0.81 and $(0.09) based on a U.S. tax rate of 23.5% and 24.0%, respectively, and non-GAAP diluted EPS by $0.83 and $(0.10) based on a non-GAAP tax rate of 22.0%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "revenue",
+      "claim": "(As a percentage of total revenues) Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Revenues: (unaudited) (unaudited) (unaudited) Subscription and support 95 % 95 % 95 % 94 % Professional services and other 5 5 5 6 Total revenues 100 100 100 100 Cost of revenues (1)(2): Subscription and support 17 16 16 16 Professional services and other 5 6 6 7 Total cost of revenues 22 22 22 23 Gross profit 78 78 78 77 Operating expenses (1)(2): Research and development 14 14 15 15 Sales and marketing 36 35 35 35 General and administrative 8 8 7 7 Restructuring 3 3 1 1 Total operating expenses 61 60 58 58 Income from operations 17 18 20 19 Gains on strategic investments, net 7 1 3 0 Other income (expense) (1) 1 0 1 Income before provision for income taxes 23 20 23 20 Provision for income taxes (6) (3) (5) (4) Net income 17 % 17 % 18 % 16 %",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "(As a percentage of total revenues) Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Revenues: (unaudited) (unaudited) (unaudited) Subscription and support 95 % 95 % 95 % 94 % Professional services and other 5 5 5 6 Total revenues 100 100 100 10...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues 2 % 2 % 2 % 2 % Sales and marketing 3 2 2 2",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues 2 % 2 % 2 % 2 % Sales and marketing 3 2 2 2",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "revenue",
+      "claim": "(2) Amounts include stock-based compensation expense as a percentage of total revenues, as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues 1 % 1 % 1 % 1 % Research and development 3 3 3 3 Sales and marketing 4 3 3 3 General and administrative 2 1 1 1 Restructuring 0 0 0 0",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "(2) Amounts include stock-based compensation expense as a percentage of total revenues, as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues 1 % 1 % 1 % 1 % Research and development 3 3 3 3 Sales and marketing 4 3 3 3 Ge...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "revenue",
+      "claim": "January 31, 2026 January 31, 2025 Assets (unaudited) Current assets: Cash and cash equivalents $ 7,327 $ 8,848 Marketable securities 2,238 5,184 Accounts receivable, net 14,339 11,945 Costs capitalized to obtain revenue contracts, net 2,075 1,971 Prepaid expenses and other current assets 2,243 1,779 Total current assets 28,222 29,727 Property and equipment, net 3,120 3,236 Operating lease right-of-use assets, net 2,003 2,157 Noncurrent costs capitalized to obtain revenue contracts, net 2,985 2,475 Strategic investments 7,591 4,852 Goodwill 57,941 51,283 Intangible assets acquired through business combinations, net 6,815 4,428 Deferred tax assets and other assets, net 3,628 4,770 Total assets $ 112,305 $ 102,928 Liabilities and stockholders\u2019 equity Current liabilities: Accounts payable, accrued expenses and other liabilities $ 8,253 $ 6,658 Operating lease liabilities, current 548 579 Unearned revenue 24,317 20,743 Debt, current 4,000 0 Total current liabilities 37,118 27,980 Noncurrent debt 10,439 8,433 Noncurrent operating lease liabilities 2,189 2,380 Other noncurrent liabilities 3,417 2,962 Total liabilities 53,163 41,755 Stockholders\u2019 equity: Common stock 1 1 Treasury stock, at cost (32,228) (19,507) Additional paid-in capital 68,835 64,576 Accumulated other comprehensive income (loss) 313 (266) Retained earnings 22,221 16,369 Total stockholders\u2019 equity 59,142 61,173 Total liabilities and stockholders\u2019 equity $ 112,305 $ 102,928",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "January 31, 2026 January 31, 2025 Assets (unaudited) Current assets: Cash and cash equivalents $ 7,327 $ 8,848 Marketable securities 2,238 5,184 Accounts receivable, net 14,339 11,945 Costs capitalized to obtain revenue contracts, net 2,075 1,971 Prepaid expenses and other cur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "revenue",
+      "claim": "4 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Operating activities: (unaudited) (unaudited) (unaudited) Net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization (1) 1,120 877 3,631 3,477 Amortization of costs capitalized to obtain revenue contracts, net 560 527 2,197 2,095 Stock-based compensation expense 1,083 803 3,509 3,183 (Gains) losses on strategic investments, net (811) (96) (1,017) 121 Changes in assets and liabilities, net of business combinations: Accounts receivable, net (8,632) (7,171) (2,160) (490) Costs capitalized to obtain revenue contracts, net (1,492) (1,016) (2,811) (2,121) Prepaid expenses and other current assets and other assets 936 (232) 819 (1,495) Accounts payable and accrued expenses and other liabilities 2,238 1,592 1,014 1,089 Operating lease liabilities (152) (161) (567) (548) Unearned revenue 8,671 7,139 2,924 1,584 Net cash provided by operating activities 5,464 3,970 14,996 13,092 Investing activities: Business combinations, net of cash acquired (8,236) (2,217) (9,268) (2,734) Purchases of strategic investments (512) (165) (1,958) (539) Sales of strategic investments 72 8 184 126 Purchases of marketable securities (193) (1,838) (3,763) (6,879) Sales of marketable securities 225 491 4,414 4,143 Maturities of marketable securities 78 939 2,395 3,378 Capital expenditures (141) (154) (594) (658) Net cash used in investing activities (8,707) (2,936) (8,590) (3,163) Financing activities: Proceeds from issuance of debt, net of issuance costs 6,000 0 6,000 0 Repurchases of common stock (3,937) (76) (12,596) (7,829) Payments for taxes related to net share settlement of equity awards (212) 0 (351) 0 Proceeds from employee stock plans 274 484 1,039 1,540 Principal payments on financing obligations (146) (98) (584) (603) Repayments of debt 0 0 0 (1,000) Payments of dividends and dividend equivalents (391) (383) (1,587) (1,537) Net cash provided by (used in) financing activities 1,588 (73) (8,079) (9,429) Effect of exchange rate changes 4 (110) 152 (124) Net increase (decrease) in cash and cash equivalents (1,651) 851 (1,521) 376 Cash and cash equivalents, beginning of period 8,978 7,997 8,848 8,472 Cash and cash equivalents, end of period $ 7,327 $ 8,848 $ 7,327 $ 8,848",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "4 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Operating activities: (unaudited) (unaudited) (unaudited) Net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Adjustments to reconcile net income to net cash provided by operating activities: Depreciatio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "other",
+      "claim": "(1) Includes amortization of intangible assets acquired through business combinations, depreciation of fixed assets and amortization and impairment of right-of-use assets.",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "(1) Includes amortization of intangible assets acquired through business combinations, depreciation of fixed assets and amortization and impairment of right-of-use assets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "revenue",
+      "claim": "Remaining performance obligation (\"RPO\") represents contracted revenue that has not yet been recognized, which includes unearned revenue and unbilled amounts that will be recognized as revenue in future periods.",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "Remaining performance obligation (\"RPO\") represents contracted revenue that has not yet been recognized, which includes unearned revenue and unbilled amounts that will be recognized as revenue in future periods. RPO is influenced by several factors, including seasonality, the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "other",
+      "claim": "RPO consisted of the following (in billions): Current Noncurrent Total As of January 31, 2026 (1) $ 35.1 $ 37.3 $ 72.4 As of October 31, 2025 29.4 30.1 59.5 As of July 31, 2025 29.4 30.5 59.9 As of April 30, 2025 29.6 31.3 60.9 As of January 31, 2025 30.2 33.2 63.4",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "RPO consisted of the following (in billions): Current Noncurrent Total As of January 31, 2026 (1) $ 35.1 $ 37.3 $ 72.4 As of October 31, 2025 29.4 30.1 59.5 As of July 31, 2025 29.4 30.5 59.9 As of April 30, 2025 29.6 31.3 60.9 As of January 31, 2025 30.2 33.2 63.4",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_099",
+      "category": "other",
+      "claim": "(1) Includes approximately $2.2 billion of remaining performance obligation related to Informatica, Inc.",
+      "value": null,
+      "source_ids": [
+        "S099"
+      ],
+      "source_quote": "(1) Includes approximately $2.2 billion of remaining performance obligation related to Informatica, Inc. (\u201cInformatica\u201d).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_100",
+      "category": "revenue",
+      "claim": "Unearned revenue represents amounts that have been invoiced in advance of revenue recognition and is recognized as revenue when transfer of control to customers has occurred or services have been provided.",
+      "value": null,
+      "source_ids": [
+        "S100"
+      ],
+      "source_quote": "Unearned revenue represents amounts that have been invoiced in advance of revenue recognition and is recognized as revenue when transfer of control to customers has occurred or services have been provided. The change in unearned revenue was as follows (in millions): Three Mont...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_101",
+      "category": "other",
+      "claim": "(1) Other includes, for example, the impact of foreign currency translation as well as contributions from contract assets and business combinations, including $651 million from Informatica as of the acquisition date.",
+      "value": null,
+      "source_ids": [
+        "S101"
+      ],
+      "source_quote": "(1) Other includes, for example, the impact of foreign currency translation as well as contributions from contract assets and business combinations, including $651 million from Informatica as of the acquisition date.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_102",
+      "category": "revenue",
+      "claim": "Subscription and Support Revenue by the Company's service offerings (1)",
+      "value": null,
+      "source_ids": [
+        "S102"
+      ],
+      "source_quote": "Subscription and Support Revenue by the Company's service offerings (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_103",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Agentforce Sales $ 2,333 $ 2,134 $ 9,028 $ 8,322 Agentforce Service 2,531 2,327 9,818 9,054 Agentforce 360 Platform, Slack and Other (2) 2,655 1,918 8,882 7,247 Agentforce Marketing and Agentforce Commerce 1,377 1,357 5,428 5,281 Agentforce Integration and Agentforce Analytics 1,779 1,715 6,232 5,775 $ 10,675 $ 9,451 $ 39,388 $ 35,679",
+      "value": null,
+      "source_ids": [
+        "S103"
+      ],
+      "source_quote": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Agentforce Sales $ 2,333 $ 2,134 $ 9,028 $ 8,322 Agentforce Service 2,531 2,327 9,818 9,054 Agentforce 360 Platform, Slack and Other (2) 2,655 1,918 8,882 7,247 Agentforce Marketing and Agentforce...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_104",
+      "category": "revenue",
+      "claim": "(1) In the third quarter of fiscal 2026, the Company renamed its service offerings to reference Agentforce.",
+      "value": null,
+      "source_ids": [
+        "S104"
+      ],
+      "source_quote": "(1) In the third quarter of fiscal 2026, the Company renamed its service offerings to reference Agentforce. There were no changes in the allocation of revenue between these service offerings coming from this change.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_105",
+      "category": "revenue",
+      "claim": "(2) Agentforce 360 Platform, Slack and Other revenue for the year ended January 31, 2026 includes $388 million in subscription and support revenue from Informatica, which the Company acquired in November 2025.",
+      "value": null,
+      "source_ids": [
+        "S105"
+      ],
+      "source_quote": "(2) Agentforce 360 Platform, Slack and Other revenue for the year ended January 31, 2026 includes $388 million in subscription and support revenue from Informatica, which the Company acquired in November 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_106",
+      "category": "revenue",
+      "claim": "Revenues by geographical region consisted of the following (in millions): Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Americas $ 7,285 $ 6,660 $ 27,193 $ 25,143 Europe 2,781 2,334 10,017 8,891 Asia Pacific 1,135 999 4,315 3,861 $ 11,201 $ 9,993 $ 41,525 $ 37,895",
+      "value": null,
+      "source_ids": [
+        "S106"
+      ],
+      "source_quote": "Revenues by geographical region consisted of the following (in millions): Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Americas $ 7,285 $ 6,660 $ 27,193 $ 25,143 Europe 2,781 2,334 10,017 8,891 Asia Pacific 1,135 999 4,315 3,861 $ 11,201 $ 9...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_107",
+      "category": "revenue",
+      "claim": "Three Months Ended January 31, 2026 Compared to Three Months Ended January 31, 2025 Three Months Ended October 31, 2025 Compared to Three Months Ended October 31, 2024 Three Months Ended January 31, 2025 Compared to Three Months Ended January 31, 2024 Agentforce Sales 8% 8% 9% Agentforce Service 7% 8% 9% Agentforce 360 Platform, Slack and Other 37% 19% 12% Agentforce Marketing and Agentforce Commerce (1)% 1% 8% Agentforce Integration and Agentforce Analytics 3% 6% 6% Total growth 11% 9% 9%",
+      "value": null,
+      "source_ids": [
+        "S107"
+      ],
+      "source_quote": "Three Months Ended January 31, 2026 Compared to Three Months Ended January 31, 2025 Three Months Ended October 31, 2025 Compared to Three Months Ended October 31, 2024 Three Months Ended January 31, 2025 Compared to Three Months Ended January 31, 2024 Agentforce Sales 8% 8% 9%...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_108",
+      "category": "revenue",
+      "claim": "Revenue constant currency growth rates by geographical region were as follows: Three Months Ended January 31, 2026 Compared to Three Months Ended January 31, 2025 Three Months Ended October 31, 2025 Compared to Three Months Ended October 31, 2024 Three Months Ended January 31, 2025 Compared to Three Months Ended January 31, 2024 Americas 9% 8% 8% Europe 13% 7% 7% Asia Pacific 13% 11% 14% Total growth 10% 8% 9%",
+      "value": null,
+      "source_ids": [
+        "S108"
+      ],
+      "source_quote": "Revenue constant currency growth rates by geographical region were as follows: Three Months Ended January 31, 2026 Compared to Three Months Ended January 31, 2025 Three Months Ended October 31, 2025 Compared to Three Months Ended October 31, 2024 Three Months Ended January 31,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_109",
+      "category": "revenue",
+      "claim": "Current remaining performance obligation constant currency growth rates were as follows: January 31, 2026 Compared to January 31, 2025 October 31, 2025 Compared to October 31, 2024 January 31, 2025 Compared to January 31, 2024 Total growth 13% 11% 11%",
+      "value": null,
+      "source_ids": [
+        "S109"
+      ],
+      "source_quote": "Current remaining performance obligation constant currency growth rates were as follows: January 31, 2026 Compared to January 31, 2025 October 31, 2025 Compared to October 31, 2024 January 31, 2025 Compared to January 31, 2024 Total growth 13% 11% 11%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_110",
+      "category": "revenue",
+      "claim": "(Unaudited) Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Non-GAAP income from operations GAAP income from operations $ 1,869 $ 1,820 $ 8,331 $ 7,205 Plus: Amortization of purchased intangibles (1) 526 382 1,687 1,651 Stock-based compensation expense (2)(3) 1,083 803 3,480 3,181 Restructuring and acquisition-related costs 358 298 658 461 Non-GAAP income from operations $ 3,836 $ 3,303 $ 14,156 $ 12,498 Non-GAAP operating margin as a percentage of revenues Total revenues $ 11,201 $ 9,993 $ 41,525 $ 37,895 GAAP operating margin (4) 16.7 % 18.2 % 20.1 % 19.0 % Non-GAAP operating margin (4) 34.2 % 33.1 % 34.1 % 33.0 % Non-GAAP net income GAAP net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Plus: Amortization of purchased intangibles (1) 526 382 1,687 1,651 Stock-based compensation expense (2)(3) 1,083 803 3,480 3,181 Restructuring and acquisition-related costs 358 298 658 461 Income tax effects and adjustments (326) (484) (1,313) (1,560) Non-GAAP net income $ 3,584 $ 2,707 $ 11,969 $ 9,930",
+      "value": null,
+      "source_ids": [
+        "S110"
+      ],
+      "source_quote": "(Unaudited) Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Non-GAAP income from operations GAAP income from operations $ 1,869 $ 1,820 $ 8,331 $ 7,205 Plus: Amortization of purchased intangibles (1) 526 382 1,687 1,651 Stock-based compensation...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_111",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Non-GAAP diluted net income per share GAAP diluted net income per share $ 2.07 $ 1.75 $ 7.80 $ 6.36 Plus: Amortization of purchased intangibles (1) 0.56 0.39 1.76 1.70 Stock-based compensation expense (2)(3) 1.15 0.82 3.64 3.27 Restructuring and acquisition-related costs 0.38 0.31 0.69 0.47 Income tax effects and adjustments (0.35) (0.49) (1.37) (1.60) Non-GAAP diluted net income per share $ 3.81 $ 2.78 $ 12.52 $ 10.20 Shares used in computing non-GAAP diluted net income per share 940 974 956 974",
+      "value": null,
+      "source_ids": [
+        "S111"
+      ],
+      "source_quote": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Non-GAAP diluted net income per share GAAP diluted net income per share $ 2.07 $ 1.75 $ 7.80 $ 6.36 Plus: Amortization of purchased intangibles (1) 0.56 0.39 1.76 1.70 Stock-based compensation exp...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_112",
+      "category": "revenue",
+      "claim": "(1) Amortization of purchased intangibles was as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 224 $ 150 $ 692 $ 750 Sales and marketing 302 232 995 901 $ 526 $ 382 $ 1,687 $ 1,651",
+      "value": null,
+      "source_ids": [
+        "S112"
+      ],
+      "source_quote": "(1) Amortization of purchased intangibles was as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 224 $ 150 $ 692 $ 750 Sales and marketing 302 232 995 901 $ 526 $ 382 $ 1,687 $ 1,651",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_113",
+      "category": "revenue",
+      "claim": "(2) Stock-based compensation expense, excluding stock-based compensation expense related to restructuring, was as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 147 $ 132 $ 553 $ 518 Research and development 336 277 1,162 1,091 Sales and marketing 413 294 1,287 1,205 General and administrative 187 100 478 367 $ 1,083 $ 803 $ 3,480 $ 3,181",
+      "value": null,
+      "source_ids": [
+        "S113"
+      ],
+      "source_quote": "(2) Stock-based compensation expense, excluding stock-based compensation expense related to restructuring, was as follows: Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Cost of revenues $ 147 $ 132 $ 553 $ 518 Research and development 336 277...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_114",
+      "category": "revenue",
+      "claim": "(4) GAAP operating margin is the proportion of GAAP income from operations as a percentage of GAAP revenue.",
+      "value": null,
+      "source_ids": [
+        "S114"
+      ],
+      "source_quote": "(4) GAAP operating margin is the proportion of GAAP income from operations as a percentage of GAAP revenue. Non-GAAP operating margin is the proportion of non-GAAP income from operations as a percentage of GAAP revenue. Non-GAAP income from operations excludes the impact of th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_115",
+      "category": "earnings_or_eps",
+      "claim": "Computation of Basic and Diluted GAAP and Non-GAAP Net Income Per Share",
+      "value": null,
+      "source_ids": [
+        "S115"
+      ],
+      "source_quote": "Computation of Basic and Diluted GAAP and Non-GAAP Net Income Per Share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_116",
+      "category": "earnings_or_eps",
+      "claim": "(Unaudited) Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 GAAP Basic Net Income Per Share Net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Basic net income per share $ 2.08 $ 1.78 $ 7.85 $ 6.44 Shares used in computing basic net income per share 935 959 950 962 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Non-GAAP Basic Net Income Per Share Non-GAAP net income $ 3,584 $ 2,707 $ 11,969 $ 9,930 Non-GAAP basic net income per share $ 3.83 $ 2.82 $ 12.60 $ 10.32 Shares used in computing non-GAAP basic net income per share 935 959 950 962 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 GAAP Diluted Net Income Per Share Net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Diluted net income per share $ 2.07 $ 1.75 $ 7.80 $ 6.36 Shares used in computing diluted net income per share 940 974 956 974 Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 Non-GAAP Diluted Net Income Per Share Non-GAAP net income $ 3,584 $ 2,707 $ 11,969 $ 9,930 Non-GAAP diluted net income per share $ 3.81 $ 2.78 $ 12.52 $ 10.20 Shares used in computing non-GAAP diluted net income per share 940 974 956 974",
+      "value": null,
+      "source_ids": [
+        "S116"
+      ],
+      "source_quote": "(Unaudited) Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 GAAP Basic Net Income Per Share Net income $ 1,943 $ 1,708 $ 7,457 $ 6,197 Basic net income per share $ 2.08 $ 1.78 $ 7.85 $ 6.44 Shares used in computing basic net income per share 93...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_117",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 GAAP net cash provided by operating activities $ 5,464 $ 3,970 $ 14,996 $ 13,092 Capital expenditures (141) (154) (594) (658) Free cash flow $ 5,323 $ 3,816 $ 14,402 $ 12,434",
+      "value": null,
+      "source_ids": [
+        "S117"
+      ],
+      "source_quote": "Three Months Ended January 31, Fiscal Year Ended January 31, 2026 2025 2026 2025 GAAP net cash provided by operating activities $ 5,464 $ 3,970 $ 14,996 $ 13,092 Capital expenditures (141) (154) (594) (658) Free cash flow $ 5,323 $ 3,816 $ 14,402 $ 12,434",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_118",
+      "category": "revenue",
+      "claim": "Non-GAAP Financial Measures: This press release includes information about non-GAAP operating margin, non-GAAP net income per share, non-GAAP tax rates, free cash flow, constant currency revenue and revenue growth rate, constant currency subscription and support revenue growth rate and constant currency current remaining performance obligation growth rates (collectively the \u201cnon-GAAP financial measures\u201d).",
+      "value": null,
+      "source_ids": [
+        "S118"
+      ],
+      "source_quote": "Non-GAAP Financial Measures: This press release includes information about non-GAAP operating margin, non-GAAP net income per share, non-GAAP tax rates, free cash flow, constant currency revenue and revenue growth rate, constant currency subscription and support revenue growth...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_119",
+      "category": "other",
+      "claim": "The primary purpose of using non-GAAP financial measures is to provide supplemental information that may prove useful to investors and to enable investors to evaluate the Company\u2019s results in the same way management does.",
+      "value": null,
+      "source_ids": [
+        "S119"
+      ],
+      "source_quote": "The primary purpose of using non-GAAP financial measures is to provide supplemental information that may prove useful to investors and to enable investors to evaluate the Company\u2019s results in the same way management does. Management believes that supplementing GAAP disclosure...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_120",
+      "category": "revenue",
+      "claim": "Non-GAAP operating margin is the proportion of non-GAAP income from operations as a percentage of GAAP revenue.",
+      "value": null,
+      "source_ids": [
+        "S120"
+      ],
+      "source_quote": "Non-GAAP operating margin is the proportion of non-GAAP income from operations as a percentage of GAAP revenue. Non-GAAP income from operations excludes the impact of the following items: stock-based compensation expense, amortization of acquisition-related intangibles and cha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_121",
+      "category": "guidance",
+      "claim": "\u2022 Stock-Based Compensation Expense: The Company\u2019s compensation strategy includes the use of stock-based compensation expense to attract and retain employees and executives.",
+      "value": null,
+      "source_ids": [
+        "S121"
+      ],
+      "source_quote": "\u2022 Stock-Based Compensation Expense: The Company\u2019s compensation strategy includes the use of stock-based compensation expense to attract and retain employees and executives. It is principally aimed at aligning their interests with those of our stockholders and at long-term empl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_122",
+      "category": "guidance",
+      "claim": "\u2022 Amortization of Purchased Intangibles: The Company views amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company\u2019s research and development efforts, trade names, customer lists and customer relationships, and, in some cases, acquired lease intangibles, as items arising from pre-acquisition activities determined at the time of an acquisition.",
+      "value": null,
+      "source_ids": [
+        "S122"
+      ],
+      "source_quote": "\u2022 Amortization of Purchased Intangibles: The Company views amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company\u2019s research and development efforts, trade names, customer lists and customer relationships...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_123",
+      "category": "guidance",
+      "claim": "\u2022 Restructuring: Restructuring charges are costs associated with a formal restructuring plan and may include employee notice period costs and severance payments, lease or contract termination costs, asset impairments, accelerated depreciation and amortization and other related expenses.",
+      "value": null,
+      "source_ids": [
+        "S123"
+      ],
+      "source_quote": "\u2022 Restructuring: Restructuring charges are costs associated with a formal restructuring plan and may include employee notice period costs and severance payments, lease or contract termination costs, asset impairments, accelerated depreciation and amortization and other related...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_124",
+      "category": "guidance",
+      "claim": "\u2022 Acquisition-related costs: Acquisition-related expenses include transaction and integration expenses for consummated transactions that are incurred prior to the acquisition closing or within the first year of the acquisition close date, which may include transaction or integration expenses paid to third parties, one-time severance and retention bonuses for acquired and transitional employees, or exit costs associated with an acquired company\u2019s long-lived assets, such as real estate, or other long-term commercial agreements.",
+      "value": null,
+      "source_ids": [
+        "S124"
+      ],
+      "source_quote": "\u2022 Acquisition-related costs: Acquisition-related expenses include transaction and integration expenses for consummated transactions that are incurred prior to the acquisition closing or within the first year of the acquisition close date, which may include transaction or integ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_125",
+      "category": "guidance",
+      "claim": "\u2022 Gains (Losses) on Strategic Investments, net: The Company records all fair value adjustments to its equity securities held within the strategic investment portfolio through the statement of operations.",
+      "value": null,
+      "source_ids": [
+        "S125"
+      ],
+      "source_quote": "\u2022 Gains (Losses) on Strategic Investments, net: The Company records all fair value adjustments to its equity securities held within the strategic investment portfolio through the statement of operations. As it is not possible to forecast future gains and losses, the Company as...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_126",
+      "category": "guidance",
+      "claim": "\u2022 Income Tax Effects and Adjustments: The Company utilizes a fixed long-term projected non-GAAP tax rate in order to provide better consistency across the interim reporting periods by eliminating the effects of items such as changes in the tax valuation allowance and tax effects of acquisition-related costs, since each of these can vary in size and frequency.",
+      "value": null,
+      "source_ids": [
+        "S126"
+      ],
+      "source_quote": "\u2022 Income Tax Effects and Adjustments: The Company utilizes a fixed long-term projected non-GAAP tax rate in order to provide better consistency across the interim reporting periods by eliminating the effects of items such as changes in the tax valuation allowance and tax effec...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_127",
+      "category": "guidance",
+      "claim": "The Company presents constant currency information to provide a framework for assessing how the Company's underlying business performed excluding the effect of foreign currency rate fluctuations.",
+      "value": null,
+      "source_ids": [
+        "S127"
+      ],
+      "source_quote": "The Company presents constant currency information to provide a framework for assessing how the Company's underlying business performed excluding the effect of foreign currency rate fluctuations. To present constant currency revenue growth rates, current and comparative prior...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_128",
+      "category": "guidance",
+      "claim": "The Company defines the non-GAAP measure free cash flow as GAAP net cash provided by operating activities, less capital expenditures.",
+      "value": null,
+      "source_ids": [
+        "S128"
+      ],
+      "source_quote": "The Company defines the non-GAAP measure free cash flow as GAAP net cash provided by operating activities, less capital expenditures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_129",
+      "category": "guidance",
+      "claim": "Other Metrics : The Company defines Agentforce and Data 360 annual recurring revenue (\"ARR\") as the annualized recurring value of active Data 360 and certain generative artificial intelligence (\"AI\") subscription agreements, including those for Agentforce and generative AI products and features, that were executed at the end of the reporting period.",
+      "value": null,
+      "source_ids": [
+        "S129"
+      ],
+      "source_quote": "Other Metrics : The Company defines Agentforce and Data 360 annual recurring revenue (\"ARR\") as the annualized recurring value of active Data 360 and certain generative artificial intelligence (\"AI\") subscription agreements, including those for Agentforce and generative AI pro...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_130",
+      "category": "guidance",
+      "claim": "The Company defines Net New Annual Order Value (\"NNAOV\") as the net change in the annual order value of our customer subscription agreements during a given period.",
+      "value": null,
+      "source_ids": [
+        "S130"
+      ],
+      "source_quote": "The Company defines Net New Annual Order Value (\"NNAOV\") as the net change in the annual order value of our customer subscription agreements during a given period. NNAOV is calculated as the sum of: (i) the annualized contract value from new and existing customers who enter in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_131",
+      "category": "guidance",
+      "claim": "The Company defines an Agentic Work Unit (\"AWU\") as a measure of discrete tasks executed by AI agents in production across the Salesforce, Inc.",
+      "value": null,
+      "source_ids": [
+        "S131"
+      ],
+      "source_quote": "The Company defines an Agentic Work Unit (\"AWU\") as a measure of discrete tasks executed by AI agents in production across the Salesforce, Inc. platform, including Agentforce and Slack. AWUs represent the conversion of generative AI capabilities into measurable business output...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.006132, ret_20d=-0.191717, market_ret_20d=-0.007766",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.006132, ret_20d=-0.191717, market_ret_20d=-0.007766",
+      "support_label": "supported"
+    }
+  ]
+}

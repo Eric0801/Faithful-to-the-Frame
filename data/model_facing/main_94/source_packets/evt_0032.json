@@ -1,0 +1,630 @@
+{
+  "event_id": "evt_0032",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "OMNICOM GROUP INC.",
+  "ticker": "OMC",
+  "company_alias": "OMNICOM GROUP INC.",
+  "masked_company": "Company AW",
+  "sector": "Communication Services",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-18",
+  "filing_metadata": {
+    "cik": "29989",
+    "accession_number": "0000029989-26-000002",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-18T16:09:05-05:00",
+    "event_date": "2026-02-18",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "7.01",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net loss of $0.9 billion; net income of $607.7 million Non-GAAP adjusted",
+      "token_count": 19
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Diluted loss per share of $4.02; earnings per share of $2.59 Non-GAAP adjusted",
+      "token_count": 20
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating loss of $1.0 billion ; Non-GAAP Adj. EBITA of $928.9 million with a 16.8% margin",
+      "token_count": 23
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net loss of $54.5 million; net income of $1.8 billion Non-GAAP adjusted",
+      "token_count": 19
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Diluted loss per share of $0.27; earnings per share of $8.65 Non-GAAP adjusted",
+      "token_count": 20
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating income of $444.7 million ; Non-GAAP Adj. EBITA of $2.7 billion with a 15.6% margin",
+      "token_count": 24
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "NEW YORK, 2026-02-18T16:09:05-05:00 - OMNICOM GROUP INC. (NYSE:OMC) today announced results for the full year and quarter ended December 31, 2025.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\"Since the successful closing of the Interpublic acquisition on November 26, we made key leadership and brand announcements, refreshed our enterprise growth strategy, and launched the next generation of our Omni data and technology platform,\" said Chairman and Chief Executive Officer of OMNICOM GROUP INC.. \"We have also executed on three key priorities. First, we are simplifying and aligning our portfolio of businesses to prioritize Connected Capability delivery, growth, and profitability. Second, we are doubling our total cost synergy target to $1.5 billion, including $900 million in 2026. And third, our Board has authorized a $5.0 billion share buyback, including a $2.5 billion Accelerated Share Repurchase. We expect these catalysts to positively transform our business performance this year and beyond.\u201d",
+      "token_count": 202
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "$ in millions, except per share amounts Three Months Ended December 31, 2025 2024 Revenue $ 5,528.8 $ 4,322.2 Operating Income (Loss) (977.2) 685.3 Operating Income Margin (17.7) % 15.9 % Net Income (Loss) 1 (941.1) 448.0 Net Income (Loss) per Share - Diluted 1 $ (4.02) $ 2.26 Non-GAAP Measures: 1 EBITA $ (924.5) $ 707.6 EBITA Margin (16.7) % 16.4 % Adjusted EBITA 928.9 722.2 Adjusted EBITA Margin 16.8 % 16.7 % Non-GAAP Adjusted Net Income per Share - Diluted $ 2.59 $ 2.41",
+      "token_count": 120
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "280 Park Avenue, New York, NY 10017. Tel 212-415-3672",
+      "token_count": 14
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue in the fourth quarter of 2025 increased $1.2 billion, or 27.9%, to $5.5 billion as compared to the fourth quarter of 2024, primarily due to constant currency revenue growth and to the inclusion of one month of revenue attributable to The Interpublic Group of Companies, Inc. (\"IPG\") acquisition which closed on November 26, 2025. The impact of foreign currency translation increased revenue by $89.0 million, or 2.1%.",
+      "token_count": 107
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue contribution by discipline in the fourth quarter of 2025 was as follows: 60.1% for Media & Advertising, 10.3% for Precision Marketing, 9.1% for Public Relations, 7.3% for Healthcare, 6.5% for Experiential, 3.7% for Execution & Support, and 3.0% for Branding & Retail Commerce.",
+      "token_count": 71
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue contribution by region in the fourth quarter of 2025 was as follows: 51.9% for the United States, 17.6% for Euro Markets & Other Europe, 9.6% for the United Kingdom, 10.7% for Asia Pacific, 3.7% for Latin America, 3.7% for the Middle East & Africa, and 2.8% for Other North America.",
+      "token_count": 73
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Operating expenses increased $2.9 billion to $6.5 billion in the fourth quarter of 2025 compared to the fourth quarter of 2024. Included in operating expenses in the fourth quarter of 2025 are $186.7 million of transaction costs related to the acquisition of IPG, $1.1 billion of repositioning costs, and $543.4 million of loss on planned dispositions following closing of the IPG acquisition. In addition, operating expenses include one month of operating expenses of IPG.",
+      "token_count": 119
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Salary and service costs increased $899.8 million, or 28.6%, to $4.0 billion primarily due to the IPG acquisition and constant currency revenue growth. These costs tend to fluctuate with changes in revenue and are comprised of salary and related costs, which include employee compensation and benefits costs and freelance labor, third-party service costs, and third-party incidental costs. Salary and related costs increased $480.8 million, or 25.2%, to $2.4 billion. As a percentage of revenue, salary and related costs decreased as compared to the prior period. Third-party service costs include third-party supplier costs when we act as principal in providing services to our clients. Third-party service costs increased $388.1 million, or 36.8%, to $1.4 billion, primarily due to growth in our Media & Advertising and Experiential disciplines and the effects of including one month of IPG costs. Third-party incidental costs that are required to be included in revenue primarily consist of client-related travel and incidental out-of-pocket costs, which are billed back to the client directly at our cost. Third-party incidental costs increased $30.9 million, or 17.3%, to $209.6 million, primarily due to revenue growth and the effects of including one month of IPG costs.",
+      "token_count": 320
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Occupancy and other costs, which are less directly linked to changes in revenue than salary and service costs, increased $83.0 million, or 25.9%, to $403.5 million, primarily due to the inclusion of one month of IPG occupancy costs in the quarter.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "SG&A expenses increased $181.6 million, or 161.7%, to $293.9 million. Included in SG&A expenses in the fourth quarter of 2025 are $186.7 million of transaction costs related to the acquisition of IPG.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income decreased $1.7 billion, or 242.6%, to a loss of $977.2 million in the fourth quarter of 2025 compared to the fourth quarter of 2024, primarily as a result of IPG acquisition related costs and repositioning costs.",
+      "token_count": 58
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net interest expense in the fourth quarter of 2025 increased $15.1 million to $53.2 million compared to the fourth quarter of 2024, primarily due to the IPG acquisition and the related exchange of IPG debt into OMNICOM GROUP INC. debt. Interest expense increased $16.3 million to $81.3 million. Interest income increased $1.2 million to $28.1 million.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Our effective tax rate on the operating loss for the fourth quarter of 2025 was 12.7% compared to 26.4% for the fourth quarter of 2024. The effective tax rate for 2025 reflects the impacts of the lower tax benefit associated with severance and repositioning charges and IPG acquisition related costs, which are not deductible in certain jurisdictions.",
+      "token_count": 88
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net Income (Loss) \u2013 OMNICOM GROUP INC.. and Diluted Net Income per Share",
+      "token_count": 16
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income - OMNICOM GROUP INC.. for the fourth quarter of 2025 decreased $1.4 billion to a loss of $941.1 million compared to the fourth quarter of 2024. Weighted-average diluted shares outstanding for the fourth quarter of 2025 increased 17.8% to 233.8 million from 198.4 million primarily as a result of shares issued for the IPG acquisition, partially offset by net share repurchases. Diluted net loss per share of $4.02 decreased $6.28 from income per share $2.26.",
+      "token_count": 116
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP Adjusted Net Income per Share - Diluted for the fourth quarter of 2025 increased $0.18, or 7.5%, to $2.59 from $2.41. Non-GAAP Adjusted Net Income per Share - Diluted for the fourth quarters of 2025 and 2024 excluded $39.0 million and $16.5 million, respectively, of after-tax amortization of acquired intangible assets and internally developed strategic platform assets. Non-GAAP Adjusted Net Income per Share - Diluted for the fourth quarter of 2025 also excluded $173.4 million of after-tax acquisition related costs, $892.6 million of after-tax repositioning costs and $443.8 million of loss on dispositions. In 2024, Non-GAAP Adjusted Net Income per Share - Diluted excluded $13.1 million of costs related to the acquisition of IPG. We present Non-GAAP Adjusted Net Income per Share - Diluted to allow for comparability with the prior year period.",
+      "token_count": 216
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "EBITA decreased $1.6 billion to a loss of $924.5 million in the fourth quarter of 2025 compared to the fourth quarter of 2024. Adjusted EBITA increased $206.7 million, or 28.6%, to $928.9 million in the fourth quarter of 2025 compared to the fourth quarter of 2024, and the related margin increased to 16.8% from 16.7%. EBITA and Adjusted EBITA excluded amortization of acquired intangible assets and internally developed strategic platform assets of $52.7 million and $22.3 million in the fourth quarters of 2025 and 2024, respectively. Adjusted EBITA also excluded $186.7 million of costs related to the acquisition of IPG, repositioning costs of $1.1 billion, and a loss on dispositions of $543.4 million in the fourth quarter of 2025. Adjusted EBITA in 2024 also excluded $14.6 million of costs related to the acquisition of IPG.",
+      "token_count": 209
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "$ in millions, except per share amounts Year Ended December 31, 2025 2024 Revenue $ 17,271.9 $ 15,689.1 Operating Income 444.7 2,274.6 Operating Income Margin 2.6 % 14.5 % Net Income (Loss) 1 (54.5) 1,480.6 Net Income (Loss) per Share - Diluted 1 $ (0.27) $ 7.46 Non-GAAP Measures: 1 EBITA $ 560.5 $ 2,362.1 EBITA Margin 3.2 % 15.1 % Adjusted EBITA 2,701.9 2,434.5 Adjusted EBITA Margin 15.6 % 15.5 % Non-GAAP Adjusted Net Income per Share - Diluted $ 8.65 $ 8.06",
+      "token_count": 116
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue in 2025 increased $1.6 billion, or 10.1%, to $17.3 billion as compared to 2024, primarily due to constant currency revenue growth. Our performance also benefited from one month of operations of IPG. The impact of foreign currency translation increased revenue by $124.6 million, or 0.8%.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue contribution by discipline in 2025 was as follows: 58.0% for Media & Advertising, 11.2% for Precision Marketing, 9.3% for Public Relations, 8.0% for Healthcare, 5.0% for Experiential, 4.9% for Execution & Support, and 3.6% for Branding & Retail Commerce.",
+      "token_count": 66
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue contribution by region in 2025 was as follows: 52.7% for the United States, 17.4% for Euro Markets & Other Europe, 11.1% for Asia Pacific, 10.5% for the United Kingdom, 3.1% for Latin America, 2.4% for the Middle East & Africa, and 2.8% for Other North America.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Operating expenses increased $3.4 billion, or 25.4%, to $16.8 billion in 2025 compared to 2024. Included in operating expenses in 2025 are $347.3 million of IPG acquisition-related costs, $1.2 billion of repositioning costs related to the actions we took in the second and fourth quarters of 2025 and $547.1 million of loss on planned dispositions following closing of the IPG acquisition.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Salary and service costs increased $1.2 billion, or 10.6%, to $12.6 billion, primarily due to revenue growth and the inclusion of one month of operations of IPG. These costs tend to fluctuate with changes in revenue and are comprised of salary and related costs, which include employee compensation and benefits costs and freelance labor, third-party service costs, and third-party incidental costs. Salary and related costs increased $336.5 million, or 4.5%, to $7.8 billion. As a percentage of revenue, salary and related costs decreased as compared to the prior year. Third-party service costs include third-party supplier costs when we act as principal in providing services to our clients. Third-party service costs increased $765.1 million, or 22.8%, to $4.1 billion, primarily due to growth in our Media & Advertising and Experiential disciplines and the effects of including one month of operations of IPG. Third-party incidental costs that are required to be included in revenue primarily consist of client-related travel and incidental out-of-pocket costs, which are billed back to the client directly at our cost. Third-party incidental costs increased $109.9 million, or 17.1%, to $752.4 million, primarily due to revenue growth and the effects of including one month of IPG costs.",
+      "token_count": 324
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Occupancy and other costs, which are less directly linked to changes in revenue than salary and service costs, increased $92.3 million, or 7.2%, to $1.4 billion, primarily due to the effects of including one month of IPG costs.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "SG&A expenses increased $337.6 million, to $745.7 million. Included in SG&A expenses in 2025 are $347.3 million of transaction costs related to the acquisition of IPG.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Operating income decreased $1.8 billion, to $444.7 million in 2025 compared to 2024 due to IPG acquisition related costs and repositioning costs.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net interest expense in 2025 increased $19.5 million to $166.5 million compared to 2024 primarily due to the IPG acquisition and the related exchange of IPG debt into OMNICOM GROUP INC. debt. Interest expense increased $15.5 million to $263.4 million. Interest income decreased $4.0 million to $96.9 million, primarily due to lower interest rates.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Our effective tax rate for 2025 increased to 87.1% compared to 26.3% for 2024. The effective tax rate for 2025 increased primarily due to the lower tax benefit associated with severance and repositioning charges and IPG acquisition related costs, which are not deductible in certain jurisdictions.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income - OMNICOM GROUP INC.. for 2025 decreased $1.5 billion to a net loss of $54.5 million compared to 2024. Weighted-average diluted shares outstanding for 2025 increased 3.2% to 204.9 million from 198.6 million, primarily as a result of shares issued for the IPG acquisition, partially offset by net share repurchases. Diluted net loss per share of $0.27 decreased from net income per share of $7.46.",
+      "token_count": 100
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP Adjusted Net Income per Share - Diluted for 2025 increased $0.59, or 7.3%, to $8.65 from $8.06. Non-GAAP Adjusted Net Income per Share - Diluted for 2025 and 2024 excluded $85.7 million and $64.7 million, respectively, of after-tax amortization of acquired intangible assets and internally developed strategic platform assets. Non-GAAP Adjusted Net Income per Share - Diluted for 2025 excluded $318.5 million of after-tax acquisition related costs, $984.5 million of after-tax repositioning costs and $447.5 million of loss on dispositions. Non-GAAP Adjusted Net Income per Share - Diluted for 2024 excluded $13.1 million of after-tax acquisition related costs and $42.9 million of after-tax repositioning costs. We present Non-GAAP Adjusted Net Income per Share - Diluted to allow for comparability with the prior year period.",
+      "token_count": 209
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "EBITA decreased $1.8 billion, or 76.3%, to $560.5 million in 2025 compared to 2024, and the related margin decreased to 3.2% from 15.1%. Adjusted EBITA increased $267.4 million, or 11.0%, to $2.7 billion in 2025 compared to 2024, and the related margin increased to 15.6% from 15.5%. EBITA and Adjusted EBITA excluded amortization of acquired intangible assets and internally developed strategic platform assets of $115.8 million and $87.5 million in 2025 and 2024, respectively. Adjusted EBITA excluded $347.3 million of costs related to the acquisition of IPG, repositioning costs of $1.2 billion, and a loss on dispositions of $547.1 million in 2025. Adjusted EBITA in 2024 excluded $14.6 million of costs related to the acquisition of IPG and repositioning costs of $57.8 million.",
+      "token_count": 196
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "Global economic conditions and disruptions, including geopolitical events, international hostilities, acts of terrorism, public health crises, inflation or stagflation, tariffs and other trade barriers, central bank interest rate policies in countries that comprise our major markets, labor and supply chain issues affecting the distribution of our clients\u2019 products, or a disruption in the credit markets could cause economic uncertainty and volatility. The impact of these issues on our business will vary by geographic market and discipline. We",
+      "token_count": 137
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "monitor economic conditions and disruptions closely, as well as client revenue levels and other factors. In response to reductions in revenue, we can take actions to align our cost structure with changes in client demand and manage our working capital. However, there can be no assurance as to the effectiveness of our efforts to mitigate any impact of the current and future adverse economic conditions and disruptions, reductions in client revenue, changes in client creditworthiness and other developments.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We use certain terms in describing the components of the change in revenue above.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Foreign exchange rate impact : calculated by translating the current period\u2019s local currency revenue using the prior period average exchange rates to derive current period constant currency revenue. The foreign exchange rate impact is the difference between the current period revenue in U.S. Dollars and the current period constant currency revenue.",
+      "token_count": 88
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Constant currency growth : represents the change in revenue from the prior year, excluding the effects of foreign currency exchange rate fluctuations. This measure is calculated by adjusting current-period revenue to eliminate the impact of changes in foreign exchange rates and comparing the resulting amount to prior-year revenue.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "OMNICOM GROUP INC. (NYSE:OMC) is the world's leading marketing and sales company, built for intelligent growth in the next era. Powered by Omni, OMNICOM GROUP INC.'s Connected Capabilities unite the company's world-class agency brands, exceptional talent, and deep domain expertise across media, commerce, consulting, precision marketing, advertising, production, health, public relations, branding, and experiential to address clients' most critical growth priorities. For more information, visit OMNICOM GROUP INC..com .",
+      "token_count": 127
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Investors: Gregory Lundberg greg.lundberg@OMNICOM GROUP INC..com Media: Joanne Trout joanne.trout@OMNICOM GROUP INC..com",
+      "token_count": 26
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "We present financial measures determined in accordance with generally accepted accounting principles in the United States (\u201cGAAP\u201d) and adjustments to the GAAP presentation (\u201cNon-GAAP\u201d), which we believe are meaningful for understanding our performance. We believe these measures are useful in evaluating the impact of certain items on operating performance and allow for comparability between reporting periods. We define EBITA as earnings before interest, taxes, and amortization of acquired intangible assets and internally developed strategic platform assets, and EBITA margin is defined as EBITA divided by revenue. We use EBITA and EBITA margin as additional operating performance measures, which exclude the non-cash amortization expense of acquired intangible assets and internally developed strategic platform assets. We also use Adjusted Operating Income, Adjusted Operating Income Margin, Adjusted EBITA, Adjusted EBITA Margin, Adjusted Income Tax Expense, Adjusted Net Income \u2013 OMNICOM GROUP INC.. and Adjusted Net Income per share \u2013 OMNICOM GROUP INC.. - Diluted as additional operating performance measures. Non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information presented in accordance with GAAP. Non-GAAP financial measures as reported by us may not be comparable to similarly titled amounts reported by other companies.",
+      "token_count": 346
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 risks relating to the completed merger (the \u201cMerger\u201d) between us and The Interpublic Group of Companies, Inc. (IPG), including risks related to the integration of IPG\u2019s business, such as, among others: uncertainties associated with retaining key management and other employees; potential disruptions to client, vendor, and business partner relationships; the risk that integration activities may be more time-consuming, complex, or costly than expected; the possibility that anticipated synergies, efficiencies, and other benefits of the Merger may not be realized, or may be realized more slowly than anticipated; and risks associated with managing a larger, more complex combined organization and effectively integrating systems, processes, operations, and cultures;",
+      "token_count": 193
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "\u2022 adverse economic conditions, including geopolitical events, international hostilities, acts of terrorism, public health crises, inflation or stagflation, tariffs and other trade barriers, central bank interest rate policies in countries that comprise our major markets, labor and supply chain issues affecting the distribution of our clients\u2019 products, or a disruption in the credit markets;",
+      "token_count": 99
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 international, national or local economic conditions that could adversely affect us or our clients;",
+      "token_count": 26
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 reductions in client spending, a slowdown in client payments or a deterioration or disruption in the credit markets;",
+      "token_count": 30
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 the ability to attract new clients and retain existing clients in the manner anticipated;",
+      "token_count": 23
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 changes in client marketing and communications services requirements;",
+      "token_count": 18
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 failure to manage potential conflicts of interest between or among clients;",
+      "token_count": 20
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 unanticipated changes related to competitive factors in the marketing and communications services industries;",
+      "token_count": 28
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 unanticipated changes to, or an inability to hire and retain, key personnel;",
+      "token_count": 20
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 reliance on information technology systems and risks related to cybersecurity incidents;",
+      "token_count": 23
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "\u2022 effective management of the risks, challenges and efficiencies presented by utilizing artificial intelligence, or AI, technologies and related partnerships in our business, and their use by our competitors;",
+      "token_count": 52
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 our liquidity, long-term financing needs, credit ratings and access to capital markets;",
+      "token_count": 23
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 changes in legislation or governmental regulations affecting us or our clients;",
+      "token_count": 21
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 losses on media purchases and production costs incurred on behalf of clients;",
+      "token_count": 20
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 risks associated with assumptions we make in connection with our acquisitions, critical accounting estimates and legal proceedings;",
+      "token_count": 34
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 our international operations, which are subject to the risks of currency repatriation restrictions, social or political conditions and an evolving regulatory environment in high-growth markets and developing countries;",
+      "token_count": 55
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 risks related to our environmental, social and governance goals and initiatives, including impacts from regulators and other stakeholders, and the impact of factors outside of our control on such goals and initiatives;",
+      "token_count": 55
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 changes in tax rates, tax laws, regulations or interpretations, or adverse outcomes of tax audits or proceedings; and",
+      "token_count": 30
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "risk_or_uncertainty",
+      "text": "\u2022 other business, financial, operational and legal risks and uncertainties detailed from time to time in our filings with the Securities and Exchange Commission (SEC).",
+      "token_count": 42
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Operating Expenses: Salary and service costs 4,043.6 3,143.8 12,644.0 11,432.5 Occupancy and other costs 403.5 320.5 1,366.7 1,274.4 Severance and repositioning costs 1 1,123.3 \u2014 1,247.0 57.8 Loss on disposition of subsidiaries 1 543.4 \u2014 547.1 \u2014 Cost of services 6,113.8 3,464.3 15,804.8 12,764.7 Selling, general and administrative expenses 1 293.9 112.3 745.7 408.1 Depreciation and amortization 98.3 60.3 276.7 241.7 Total Operating Expenses 1 6,506.0 3,636.9 16,827.2 13,414.5 Operating Income (Loss) (977.2) 685.3 444.7 2,274.6 Interest Expense 81.3 65.0 263.4 247.9 Interest Income 28.1 26.9 96.9 100.9 Income (Loss) Before Income Taxes and Income From Equity Method Investments (1,030.4) 647.2 278.2 2,127.6 Income Tax Expense (Benefit) 1 (131.3) 170.6 242.2 560.5 Income From Equity Method Investments 1.2 2.3 7.7 6.9 Net Income (Loss) 1 (897.9) 478.9 43.7 1,574.0 Net Income Attributed To Noncontrolling Interests 43.2 30.9 98.2 93.4 Net Income (Loss) - OMNICOM GROUP INC.. 1 $ (941.1) $ 448.0 $ (54.5) $ 1,480.6 Net Income (Loss) Per Share - OMNICOM GROUP INC..: 1 Basic $ (4.02) $ 2.28 $ (0.27) $ 7.54 Diluted $ (4.02) $ 2.26 $ (0.27) $ 7.46 Dividends Declared Per Common Share $ 0.80 $ 0.70 $ 2.90 $ 2.80 Operating income (loss) margin (17.7) % 15.9 % 2.6 % 14.5 % Non-GAAP Measures: 4 EBITA 2 $ (924.5) $ 707.6 $ 560.5 $ 2,362.1 EBITA Margin 2 (16.7) % 16.4 % 3.2 % 15.1 % EBITA - Adjusted 1,2 $ 928.9 $ 722.2 $ 2,701.9 $ 2,434.5 EBITA Margin - Adjusted 1,2 16.8 % 16.7 % 15.6 % 15.5 % Non-GAAP Adjusted Net Income Per Share - OMNICOM GROUP INC.. - Diluted 1,3 $ 2.59 $ 2.41 $ 8.65 $ 8.06",
+      "token_count": 423
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2) See Note 4 on page 13 for the definition of EBITA.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "3) Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2025 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets, after-tax severance and repositioning costs, after-tax loss on disposition of subsidiaries and after-tax acquisition related costs. Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2024 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets and after-tax acquisition related costs, and for the year ended December 31, 2024, also excludes after-tax severance and repositioning costs. We believe these measures are useful in evaluating the impact of these items on operating performance and allows for comparability between reporting periods.",
+      "token_count": 213
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "4) See Non-GAAP reconciliations starting on page 11 .",
+      "token_count": 14
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Operating Expenses: Salary and service costs: Salary and related costs 2,391.1 1,910.3 7,777.9 7,441.4 Third-party service costs 1 1,442.9 1,054.8 4,113.7 3,348.6 Third-party incidental costs 2 209.6 178.7 752.4 642.5 Total salary and service costs 4,043.6 3,143.8 12,644.0 11,432.5 Occupancy and other costs 403.5 320.5 1,366.7 1,274.4 Severance and repositioning costs 3 1,123.3 \u2014 1,247.0 57.8 Loss on disposition of subsidiaries 3 543.4 \u2014 547.1 \u2014 Cost of services 6,113.8 3,464.3 15,804.8 12,764.7 Selling, general and administrative expenses 3 293.9 112.3 745.7 408.1 Depreciation and amortization 98.3 60.3 276.7 241.7 Total operating expenses 3 6,506.0 3,636.9 16,827.2 13,414.5 Operating Income (Loss) $ (977.2) $ 685.3 $ 444.7 $ 2,274.6",
+      "token_count": 214
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "1) Third-party service costs include third-party supplier costs when we act as principal in providing services to our clients.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2) Third-party incidental costs primarily consist of client-related travel and incidental out-of-pocket costs, which we bill back to the client directly at our cost and which we are required to include in revenue.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Net Income (Loss) - OMNICOM GROUP INC.. $ (941.1) $ 448.0 $ (54.5) $ 1,480.6 Net Income Attributed To Noncontrolling Interests 43.2 30.9 98.2 93.4 Net Income (Loss) (897.9) 478.9 43.7 1,574.0 Income From Equity Method Investments 1.2 2.3 7.7 6.9 Income Tax Expense (Benefit) (131.3) 170.6 242.2 560.5 Income (Loss) Before Income Taxes and Income From Equity Method Investments (1,030.4) 647.2 278.2 2,127.6 Interest Expense 81.3 65.0 263.4 247.9 Interest Income 28.1 26.9 96.9 100.9 Operating Income (Loss) (977.2) 685.3 444.7 2,274.6 Add back: amortization of acquired intangible assets and internally developed strategic platform assets 1 52.7 22.3 115.8 87.5 Earnings (Loss) before interest, taxes and amortization of intangible assets (\u201cEBITA\u201d) 1 $ (924.5) $ 707.6 $ 560.5 $ 2,362.1 Amortization of other purchased and internally developed software 3.9 4.7 15.8 18.1 Depreciation 41.7 33.3 145.1 136.1 EBITDA $ (878.9) $ 745.6 $ 721.4 $ 2,516.3 EBITA 1 $ (924.5) $ 707.6 $ 560.5 $ 2,362.1 Severance and repositioning costs 2 1,123.3 \u2014 1,247.0 57.8 Loss on disposition of subsidiary 2 543.4 \u2014 547.1 \u2014 Acquisition related costs 2 186.7 14.6 347.3 14.6 EBITA - Adjusted 1,2 $ 928.9 $ 722.2 $ 2,701.9 $ 2,434.5 Revenue $ 5,528.8 $ 4,322.2 $ 17,271.9 $ 15,689.1 Non-GAAP Measures: EBITA 1 $ (924.5) $ 707.6 $ 560.5 $ 2,362.1 EBITA Margin 1 (16.7) % 16.4 % 3.2 % 15.1 % EBITA - Adjusted 1,2 $ 928.9 $ 722.2 $ 2,701.9 $ 2,434.5 EBITA Margin - Adjusted 1,2 16.8 % 16.7 % 15.6 % 15.5 %",
+      "token_count": 384
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "1) See Note 4 on page 13 for the definition of EBITA.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The above table reconciles the Non-GAAP financial measures of EBITDA, EBITA, EBITA - Adjusted, EBITA Margin and EBITA Margin- Adjusted to the GAAP financial measure of Net Income- OMNICOM GROUP INC.. We use EBITA and EBITA Margin as additional operating performance measures, which exclude the non-cash amortization expense of acquired intangible assets and internally developed strategic platform assets. Accordingly, we believe EBITA, EBITA Margin, EBITA - Adjusted, and EBITA Margin - Adjusted are useful measures for investors to evaluate the comparability of the performance of our business year to year.",
+      "token_count": 151
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Reported 2025 Non-GAAP Adj. (1) Non-GAAP 2025 Adj. Reported 2024 Non-GAAP Adj. (1) Non-GAAP 2024 Adj. Revenue $ 5,528.8 $ \u2014 $ 5,528.8 $ 4,322.2 $ \u2014 $ 4,322.2 Operating Expenses 1 6,506.0 (1,853.4) 4,652.6 3,636.9 (14.6) 3,622.3 Operating Income (Loss) (977.2) 1,853.4 876.2 685.3 14.6 699.9 Operating Income Margin (17.7) % 15.8 % 15.9 % 16.2 %",
+      "token_count": 94
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Full Year Reported 2025 Non-GAAP Adj. (1) Non-GAAP 2025 Adj. Reported 2024 Non-GAAP Adj. (1) Non-GAAP 2024 Adj. Revenue $17,271.9 $ \u2014 $ 17,271.9 $ 15,689.1 $ \u2014 $ 15,689.1 Operating Expenses 1 16,827.2 (2,141.4) 14,685.8 13,414.5 (72.4) 13,342.1 Operating Income 444.7 2,141.4 2,586.1 2,274.6 72.4 2,347.0 Operating Income Margin 2.6 % 15.0 % 14.5 % 15.0 %",
+      "token_count": 89
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31, Full Year 2025 2024 2025 2024 Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income Net Income per Share- Diluted Net Income (Loss) - OMNICOM GROUP INC.. - Reported $ (941.1) $ (4.02) $ 448.0 $ 2.26 $ (54.5) $ (0.27) $ 1,480.6 $ 7.46 Severance and repositioning costs (after-tax) 2 892.6 3.80 \u2014 \u2014 984.5 4.78 42.9 0.22 Loss on dispositions 1 443.8 1.90 \u2014 \u2014 447.5 2.17 \u2014 \u2014 Acquisition related costs (after-tax) 1,2 173.4 0.74 13.1 0.07 318.5 1.55 13.1 0.06 Amortization of acquired intangible assets and internally developed strategic platform assets (after-tax) 2 39.0 0.17 16.5 0.08 85.7 0.42 64.7 0.32 Non-GAAP Net Income - OMNICOM GROUP INC.. - Adjusted 2,3 $ 607.7 $ 2.59 $ 477.6 $ 2.41 $ 1,781.7 $ 8.65 $ 1,601.3 $ 8.06",
+      "token_count": 205
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "2) Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2025 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets, after-tax severance and repositioning costs, after-tax loss on disposition of subsidiaries and after-tax acquisition related costs. Adjusted Net Income per Share - Diluted for the three months and year ended December 31, 2024 excludes after-tax amortization of acquired intangible assets and internally developed strategic platform assets and after-tax acquisition related costs, and for the year ended December 31, 2024, also excludes after-tax severance and repositioning costs. We believe these measures are useful in evaluating the impact of these items on operating performance and allows for comparability between reporting periods.",
+      "token_count": 213
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "3) Weighted-average diluted shares for the three months ended December 31, 2025 and 2024 were 233.8 million and 198.4 million, respectively. Weighted-average diluted shares for the year ended December 31, 2025 and 2024 were 204.9 million and 198.6 million, respectively. The above tables reconcile the Non-GAAP financial measures of Non-GAAP Operating Income - Adjusted, Non-GAAP Net Income-OMNICOM GROUP INC.. - Adjusted and Non-GAAP Adjusted Net Income per Share - Diluted to the GAAP financial measures of Operating Income, Net Income - OMNICOM GROUP INC.. and Net Income per Share - Diluted. Management believes these Non-GAAP measures are useful for investors to evaluate the comparability of the performance of our business year to year.",
+      "token_count": 182
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "1) Net Income and Net Income per Share for OMNICOM GROUP INC..",
+      "token_count": 14
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2) See non-GAAP reconciliations starting on page 11 .",
+      "token_count": 14
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "3) In 2025, operating expenses included $1.2 billion ($984.5 million after-tax) related to severance, real estate repositioning, contract cancellations and other costs, and $547.1 million ($447.5 million after-tax) of loss on dispositions of certain businesses in connection with the Merger as well as efficiency initiatives taken in the second quarter of 2025, primarily within OMNICOM GROUP INC. Advertising and OMNICOM GROUP INC. Production. Included in selling, general and administrative expenses are acquisition related costs of $347.3 million ($318.5 million after-tax), related to the Merger with IPG. The net impact of these items reduced operating income for 2025 by $2.1 billion ($1.8 billion after-tax) and reduced diluted net income per share - OMNICOM GROUP INC.. by $8.50.",
+      "token_count": 191
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "In 2024, operating expenses included $57.8 million ($42.9 million after-tax) of repositioning costs, primarily related to severance, recorded in the second quarter of 2024. Included in selling, general and administrative expenses in the fourth quarter of 2024 are acquisition related costs of $14.6 million ($13.1 million after-tax), related to the Merger with IPG. The net impact of these items reduced operating income for 2024 by $72.4 million ($56.0 million after-tax) and reduced diluted net income per share - OMNICOM GROUP INC.. by $0.28.",
+      "token_count": 135
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "4) We define EBITA as earnings before interest, taxes and amortization of acquired intangible assets and internally developed strategic platform assets.",
+      "token_count": 38
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.039693,
+    "ret_20d": -0.100859,
+    "market_ret_20d": 0.012855
+  },
+  "outcome_blind": true
+}

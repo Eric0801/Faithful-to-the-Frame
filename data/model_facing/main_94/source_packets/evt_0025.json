@@ -1,0 +1,412 @@
+{
+  "event_id": "evt_0025",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "BOSTON SCIENTIFIC CORP",
+  "ticker": "BSX",
+  "company_alias": "BOSTON SCIENTIFIC CORP",
+  "masked_company": "Company CE",
+  "sector": "Health Care",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-04",
+  "filing_metadata": {
+    "cik": "885725",
+    "accession_number": "0000885725-26-000006",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-04T01:33:43-05:00",
+    "event_date": "2026-02-04",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Marlborough, Mass. (2026-02-04T01:33:43-05:00) -- BOSTON SCIENTIFIC CORP Corporation (NYSE:BSX) generated net sales of $5.286 billion during the fourth quarter of 2025, growing 15.9 percent on a reported basis, 14.3 percent on an operational 1 basis and 12.7 percent on an organic 2 basis, all compared to the prior year period. The company reported GAAP net income attributable to BOSTON SCIENTIFIC CORP common stockholders of $672 million or $0.45 per share (EPS), compared to $566 million or $0.38 per share a year ago, and achieved adjusted 3 EPS of $0.80 for the period, compared to $0.70 a year ago.",
+      "token_count": 145
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "For the full year 2025, the company generated net sales of $20.074 billion, growing 19.9 percent on a reported basis, 19.2 percent on an operational 1 basis and 15.8 percent on an organic 2 basis, all compared to the prior year period. The company reported GAAP net income attributable to BOSTON SCIENTIFIC CORP common stockholders of $2.898 billion or $1.94 per share, compared to $1.853 billion or $1.25 per share a year ago, and delivered full year adjusted 3 EPS of $3.06, compared to $2.51 a year ago.",
+      "token_count": 124
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u201c2025 was another exceptional year for BOSTON SCIENTIFIC CORP, with our global teams delivering differentiated innovation and high performance that enabled us to exceed our goals,\" said Mike Mahoney, chairman and chief executive officer, BOSTON SCIENTIFIC CORP. \"As a direct result of the dedication, consistency and winning spirit of our team, we have impacted millions of patient lives and are well-positioned to continue on our strong growth trajectory well into the future.\"",
+      "token_count": 114
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Reported net sales of $5.286 billion, representing an increase of 15.9 percent on a reported basis, compared to the company's guidance range of 14.5 to 16.5 percent; 14.3 percent on an operational basis; and 12.7 percent on an organic basis, compared to the company's guidance range of 11 to 13 percent, all compared to the prior year period.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Reported GAAP net income attributable to BOSTON SCIENTIFIC CORP common stockholders of $0.45 per share, compared to the company's guidance range of $0.48 to $0.52 per share, and achieved adjusted EPS of $0.80 per share, compared to the guidance range of $0.77 to $0.79 per share.",
+      "token_count": 68
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 MedSurg: 11.7 percent reported, 10.2 percent operational and 6.5 percent organic",
+      "token_count": 21
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Cardiovascular: 18.2 percent reported, 16.5 percent operational and 16.1 percent organic",
+      "token_count": 23
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 United States (U.S.): 17.0 percent reported and operational",
+      "token_count": 16
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Europe, Middle East and Africa (EMEA): 12.4 percent reported and 4.8 percent operational",
+      "token_count": 23
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25aa In the second quarter of 2025, management made the decision to discontinue worldwide sales of the ACURATE neo2\u2122 and ACURATE Prime\u2122 Aortic Valve Systems, which had prior year global sales of approximately $50 million per quarter",
+      "token_count": 58
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Asia-Pacific (APAC): 15.2 percent reported and 14.8 percent operational",
+      "token_count": 19
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Latin America and Canada (LACA): 15.9 percent reported and 10.4 percent operational",
+      "token_count": 22
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u25e6 Emerging Markets 4 : 15.4 percent reported and 13.0 percent operational",
+      "token_count": 19
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Received U.S. Food and Drug Administration (FDA) approval and CE mark for the FARAPOINT\u2122 Pulsed Field Ablation (PFA) Catheter , a nav-enabled, focal PFA catheter that can create focal and linear-shaped lesions within a single device.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Commenced enrollment in the OPTIMIZE clinical trial, which uses the Cortex OPTIMAP\u2122 Electrographic Flow (EGF) Mapping Technology with the FARAPULSE\u2122 PFA Platform to evaluate how EGF-guided mapping and delivery of PFA to atrial fibrillation (AF) sources outside the pulmonary veins impacts outcomes for patients with persistent AF, compared to traditional anatomic approaches.",
+      "token_count": 95
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Completed enrollment in the SIMPLAAFY clinical trial evaluating two single-drug regimens as post-procedural alternatives to dual anti-platelet therapy following implantation of the WATCHMAN FLX\u2122 Pro Left Atrial Appendage Closure Device in patients with AF.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Initiated U.S. launch of the SEISMIQ\u2122 Intravascular Lithotripsy (IVL) System to treat patients with complex calcified peripheral artery disease.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Completed enrollment in the global FRACTURE IDE clinical trial evaluating the use of the SEISMIQ IVL System to treat patients with complex calcified coronary artery disease.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Received U.S. FDA 510(k) clearance for the TheraSphere 360\u2122 Y-90 Management Platform , a web-based platform that simplifies ordering TheraSphere Y-90 and helps care teams plan, dose and track the therapy for patients with liver cancer.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Received positive coverage for the Intracept\u2122 Procedure from Health Care Service Corporation and launched the Intracept EDGE J Stylet , the latest advancement to the Intracept Procedure System, designed to improve access to the basivertebral nerve and streamline the treatment experience.",
+      "token_count": 73
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Commenced enrollment in the MOSAIC study, using commercially approved BOSTON SCIENTIFIC CORP Spinal Cord Stimulation (SCS) Systems, to evaluate the effectiveness of time variant pulse patterns of SCS and compile real-world clinical outcomes in subjects with chronic, intractable low back and/or leg pain.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Received U.S. coverage of Endoscopic Sleeve Gastroplasty (ESG), using the OverStitch\u2122 Endoscopic Suturing System , by Elevance Health (formerly Anthem) beginning December 18, 2025, and recognition by The American Society for Metabolic and",
+      "token_count": 60
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Bariatric Surgery of ESG as an endorsed procedure, expanding patient access to an innovative, less invasive weight-loss solution.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Received CE mark for the MOSES Raydar\u2122 Holmium Laser System , which is designed to increase ablation efficiency by maintaining an effective proximity range between the laser fiber tip and kidney stone during lithotripsy procedures.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Announced agreement to acquire Penumbra, Inc. , (NYSE: PEN) a publicly traded company that offers thrombectomy products for use in peripheral vascular procedures, minimally invasive peripheral embolization technologies and differentiated neurovascular solutions for access, stroke revascularization and neuro embolization \u2013 subject to customary closing conditions.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Announced agreement to acquire Valencia Technologies Corporation , a privately held company focused on the development and commercialization of the eCoin\u00ae System, an implantable tibial nerve stimulation device for the treatment of urge urinary incontinence \u2014 subject to customary closing conditions.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Completed the acquisition of Nalu Medical, Inc. , developer of the Nalu Neuromodulation System, designed to use peripheral nerve stimulation to deliver targeted relief for adults living with severe, intractable chronic pain of peripheral nerve origin.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "1. Operational net sales growth excludes the impact of foreign currency fluctuations.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2. Organic net sales growth excludes the impact of foreign currency fluctuations and net sales attributable to certain acquisitions and divestitures for which there are less than a full period of comparable net sales.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "3. Adjusted EPS excludes the impacts of certain charges (credits) which may include amortization expense, goodwill and other intangible asset impairment charges, acquisition/divestiture-related net charges (credits), investment portfolio net losses (gains) and impairments, restructuring and restructuring-related net charges (credits), certain litigation-related net charges (credits), European Union (EU) Medical Device Regulation (MDR) implementation costs, debt extinguishment net charges, deferred tax expenses (benefits) and certain discrete tax items.",
+      "token_count": 140
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "4. Our Emerging Markets countries include all countries except the United States, Western and Central Europe, Japan, Australia, New Zealand and Canada.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Increase/(Decrease) Three Months Ended December 31, Reported Basis Impact of Foreign Currency Fluctuations Operational Basis Impact of Certain Acquisitions/ Divestitures Organic Basis (in millions) 2025 2024 Endoscopy $ 760 $ 690 10.1 % (1.9) % 8.2 % \u2014 % 8.2 % Urology 717 630 13.8 % (1.1) % 12.7 % (9.5) % 3.2 % Neuromodulation 332 299 11.1 % (1.2) % 9.9 % \u2014 % 9.9 % MedSurg 1,809 1,619 11.7 % (1.5) % 10.2 % (3.7) % 6.5 % Cardiovascular 3,477 2,942 18.2 % (1.7) % 16.5 % (0.4) % 16.1 % Net Sales $ 5,286 $ 4,561 15.9 % (1.6) % 14.3 % (1.6) % 12.7 % Increase/(Decrease) Three Months Ended December 31, Reported Basis Impact of Foreign Currency Fluctuations Operational Basis (in millions) 2025 2024 U.S. $ 3,385 $ 2,893 17.0 % \u2014 % 17.0 % EMEA 933 830 12.4 % (7.6) % 4.8 % APAC 788 684 15.2 % (0.4) % 14.8 % LACA 179 155 15.9 % (5.5) % 10.4 % Net Sales $ 5,286 $ 4,561 15.9 % (1.6) % 14.3 % Emerging Markets 4 $ 771 $ 668 15.4 % (2.5) % 13.0 % Amounts may not add due to rounding. Growth rates are based on actual, non-rounded amounts and may not recalculate precisely. Net sales growth rates that exclude the impact of foreign currency fluctuations and/or the impact of certain acquisitions/divestitures are not prepared in accordance with U.S. GAAP.",
+      "token_count": 313
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales growth rates that exclude the impact of foreign currency fluctuations and/or the impact of certain acquisitions/divestitures are not prepared in accordance with U.S. GAAP.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Increase/(Decrease) Year Ended December 31, Reported Basis Impact of Foreign Currency Fluctuations Operational Basis Impact of Certain Acquisitions/ Divestitures Organic Basis (in millions) 2025 2024 Endoscopy $ 2,916 $ 2,687 8.6 % (0.8) % 7.8 % (0.1) % 7.7 % Urology 2,709 2,200 23.1 % (0.4) % 22.7 % (17.9) % 4.7 % Neuromodulation 1,199 1,106 8.4 % (0.4) % 8.0 % \u2014 % 8.0 % MedSurg 6,824 5,993 13.9 % (0.6) % 13.3 % (6.6) % 6.7 % Cardiovascular 13,250 10,755 23.2 % (0.7) % 22.5 % (1.6) % 20.8 % Net Sales $ 20,074 $ 16,747 19.9 % (0.7) % 19.2 % (3.4) % 15.8 % Increase/(Decrease) Year Ended December 31, Reported Basis Impact of Foreign Currency Fluctuations Operational Basis (in millions) 2025 2024 U.S. $ 12,864 $ 10,210 26.0 % \u2014 % 26.0 % EMEA 3,451 3,228 6.9 % (3.7) % 3.2 % APAC 3,080 2,686 14.7 % (0.2) % 14.5 % LACA 678 624 8.7 % 2.0 % 10.7 % Net Sales $ 20,074 $ 16,747 19.9 % (0.7) % 19.2 % Emerging Markets 4 $ 2,985 $ 2,680 11.4 % 0.2 % 11.6 % Amounts may not add due to rounding. Growth rates are based on actual, non-rounded amounts and may not recalculate precisely. Net sales growth rates that exclude the impact of foreign currency fluctuations and/or the impact of certain acquisitions/divestitures are not prepared in accordance with U.S. GAAP.",
+      "token_count": 316
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company estimates net sales growth for the full year 2026, versus the prior year period, to be approximately 10.5 to 11.5 percent on a reported basis and 10.0 to 11.0 percent on an organic basis. Full year organic net sales guidance excludes the impact of foreign currency fluctuations and net sales attributable to certain acquisitions and divestitures for which there are less than a full period of comparable net sales. The company estimates adjusted EPS, excluding certain charges (credits), of $3.43 to $3.49.",
+      "token_count": 130
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company estimates net sales growth for the first quarter of 2026, versus the prior year period, to be approximately 10.5 to 12.0 percent on a reported basis and 8.5 to 10.0 percent on an organic basis. First quarter organic net sales guidance excludes the impact of foreign currency fluctuations and net sales attributable to certain acquisitions and divestitures for which there are less than a full period of comparable net sales. The company estimates adjusted EPS, excluding certain charges (credits), of $0.78 to $0.80.",
+      "token_count": 132
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company has not provided reconciliations of the forward-looking adjusted EPS guidance to GAAP guidance as it is unable to predict with reasonable certainty and without unreasonable efforts the impact of certain items such as intangible asset impairment charges, acquisition-related charges, restructuring and restructuring-related charges and litigation-related charges. The combined impact of these items is uncertain, dependent on various factors and cannot be predicted with reasonable certainty, and could be material to our GAAP measures of financial results.",
+      "token_count": 142
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "BOSTON SCIENTIFIC CORP transforms lives through innovative medical technologies that improve the health of patients around the world. As a global medical technology leader for more than 45 years, we advance science for life by providing a broad range of high-performance solutions that address unmet patient needs and reduce the cost of healthcare. Our portfolio of devices and therapies helps physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological, neurological and urological diseases and conditions. Learn more at",
+      "token_count": 135
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "www.bostonscientific.com and follow us on LinkedIn .",
+      "token_count": 13
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Note : Amounts reported in millions within this press release are computed based on the amounts in thousands. As a result, the sum of the components reported in millions may not equal the total amount reported in millions due to rounding. Certain columns and rows within tables may not add due to the use of rounded numbers. Percentages presented are calculated from the underlying unrounded amounts.",
+      "token_count": 100
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "A reconciliation of the company's non-GAAP financial measures to the corresponding GAAP measures, and an explanation of the company's use of these non-GAAP financial measures, is included in the exhibits attached to this press release.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Year Ended December 31, in millions, except per share data 2025 2024 2025 2024 Net sales $ 5,286 $ 4,561 $ 20,074 $ 16,747 Cost of products sold (excluding amortization expense) 1,608 1,466 6,221 5,257 Gross profit 3,678 3,095 13,854 11,490 Operating expenses: Selling, general and administrative expenses 1,834 1,612 6,887 5,984 Research and development expenses 569 460 2,052 1,615 Royalty expense 6 10 46 33 Amortization expense 228 225 897 856 Intangible asset impairment charges \u2014 111 46 386 Contingent consideration net expense (benefit) 6 (1) 18 (5) Restructuring net charges (credits) 16 4 101 16 Litigation-related net charges (credits) 194 \u2014 194 \u2014 2,854 2,420 10,241 8,887 Operating income (loss) 825 675 3,613 2,603 Other income (expense): Interest expense (90) (80) (349) (305) Other, net (34) (10) 121 (16) Income (loss) before income taxes 700 585 3,385 2,282 Income tax expense (benefit) 30 23 493 436 Net income (loss) $ 670 $ 562 $ 2,892 $ 1,846 Net income (loss) attributable to noncontrolling interests (2) (4) (6) (8) Net income (loss) attributable to BOSTON SCIENTIFIC CORP common stockholders $ 672 $ 566 $ 2,898 $ 1,853 Net income (loss) per common share - basic $ 0.45 $ 0.38 $ 1.96 $ 1.26 Net income (loss) per common share - diluted $ 0.45 $ 0.38 $ 1.94 $ 1.25 Weighted-average shares outstanding Basic 1,482.7 1,474.2 1,480.4 1,471.5 Diluted 1,495.8 1,490.2 1,494.5 1,485.9 Amounts may not add due to rounding.",
+      "token_count": 365
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31, 2025 (in millions, except per share data) Gross Profit Operating Expenses Operating Income (Loss) Other Income (Expense) Income (Loss) Before Income Taxes Net Income (Loss) Net Income (Loss) Attributable to Noncontrolling Interests Net Income (Loss) Attributable to BOSTON SCIENTIFIC CORP Common Stockholders Impact per Share Reported $ 3,678 $ 2,854 $ 825 $ (124) $ 700 $ 670 $ (2) $ 672 $ 0.45 Non-GAAP adjustments: Amortization expense \u2014 (228) 228 \u2014 228 194 2 192 0.13 Goodwill and other intangible asset impairment charges \u2014 \u2014 \u2014 \u2014 \u2014 0 \u2014 0 0.00 Acquisition/divestiture-related net charges/credits 24 (65) 89 0 89 29 \u2014 29 0.02 Restructuring and restructuring-related net charges/credits 26 (71) 97 \u2014 97 83 \u2014 83 0.06 Litigation-related net charges/credits \u2014 (194) 194 \u2014 194 149 \u2014 149 0.10 Investment portfolio net losses/gains and impairments \u2014 \u2014 \u2014 26 26 26 \u2014 26 0.02 EU MDR implementation costs 7 (5) 12 \u2014 12 10 \u2014 10 0.01 Deferred tax expenses/benefits \u2014 \u2014 \u2014 \u2014 \u2014 67 \u2014 67 0.04 Discrete tax items \u2014 \u2014 \u2014 \u2014 \u2014 (27) \u2014 (27) (0.02) Adjusted $ 3,735 $ 2,291 $ 1,444 $ (99) $ 1,345 $ 1,202 $ 0 $ 1,201 $ 0.80 Three Months Ended December 31, 2024 (in millions, except per share data) Gross Profit Operating Expenses Operating Income (Loss) Other Income (Expense) Income (Loss) Before Income Taxes Net Income (Loss) Net Income (Loss) Attributable to Noncontrolling Interests Net Income (Loss) Attributable to BOSTON SCIENTIFIC CORP Common Stockholders Impact per Share Reported $ 3,095 $ 2,420 $ 675 $ (90) $ 585 $ 562 $ (4) $ 566 $ 0.38 Non-GAAP adjustments: Amortization expense \u2014 (225) 225 \u2014 225 198 2 196 0.13 Goodwill and other intangible asset impairment charges \u2014 (111) 111 \u2014 111 96 \u2014 96 0.06 Acquisition/divestiture-related net charges/credits 63 (84) 147 0 147 61 \u2014 61 0.04 Restructuring and restructuring-related net charges/credits 56 (24) 80 \u2014 80 70 \u2014 70 0.05 Litigation-related net charges/credits \u2014 \u2014 \u2014 \u2014 \u2014 (0) \u2014 (0) (0.00) Investment portfolio net losses/gains and impairments \u2014 \u2014 \u2014 2 2 1 \u2014 1 0.00 EU MDR implementation costs 9 (5) 13 \u2014 13 12 \u2014 12 0.01 Deferred tax expenses/benefits \u2014 \u2014 \u2014 \u2014 \u2014 45 \u2014 45 0.03 Discrete tax items \u2014 \u2014 \u2014 \u2014 \u2014 (4) \u2014 (4) (0.00) Adjusted $ 3,222 $ 1,971 $ 1,251 $ (87) $ 1,164 $ 1,041 $ (1) $ 1,043 $ 0.70 An explanation of the company's use of these non-GAAP financial measures is provided at the end of this document. Amounts may not add due to rounding.",
+      "token_count": 599
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Year Ended December 31, 2025 in millions, except per share data Gross Profit Operating Expenses Operating Income (Loss) Other Income (Expense) Income (Loss) Before Income Taxes Net Income (Loss) Net Income (Loss) Attributable to Noncontrolling Interests Net Income (Loss) Attributable to BOSTON SCIENTIFIC CORP Common Stockholders Impact per Share Reported $ 13,854 $ 10,241 $ 3,613 $ (228) $ 3,385 $ 2,892 $ (6) $ 2,898 $ 1.94 Non-GAAP adjustments: Amortization expense \u2014 (897) 897 \u2014 897 770 9 761 0.51 Goodwill and other intangible asset impairment charges \u2014 (46) 46 \u2014 46 37 \u2014 37 0.02 Acquisition/divestiture-related net charges/credits 182 (291) 473 (229) 245 186 \u2014 186 0.12 Restructuring and restructuring-related net charges/credits 110 (233) 343 \u2014 343 298 \u2014 298 0.20 Litigation-related net charges/credits \u2014 (194) 194 \u2014 194 149 \u2014 149 0.10 Investment portfolio net losses/gains and impairments \u2014 \u2014 \u2014 26 26 26 \u2014 26 0.02 EU MDR implementation costs 29 (17) 46 \u2014 46 39 \u2014 39 0.03 Deferred tax expenses/benefits \u2014 \u2014 \u2014 \u2014 \u2014 206 \u2014 206 0.14 Discrete tax items \u2014 \u2014 \u2014 \u2014 \u2014 (27) \u2014 (27) (0.02) Adjusted $ 14,175 $ 8,563 $ 5,612 $ (430) $ 5,182 $ 4,577 $ 3 $ 4,574 $ 3.06 Year Ended December 31, 2024 in millions, except per share data Gross Profit Operating Expenses Operating Income (Loss) Other Income (Expense) Income (Loss) Before Income Taxes Net Income (Loss) Net Income (Loss) Attributable to Noncontrolling Interests Net Income (Loss) Attributable to BOSTON SCIENTIFIC CORP Common Stockholders Impact per Share Reported $ 11,490 $ 8,887 $ 2,603 $ (321) $ 2,282 $ 1,846 $ (8) $ 1,853 $ 1.25 Non-GAAP adjustments: Amortization expense \u2014 (856) 856 \u2014 856 743 9 734 0.49 Goodwill and other intangible asset impairment charges \u2014 (386) 386 \u2014 386 339 \u2014 339 0.23 Acquisition/divestiture-related net charges/credits 111 (291) 402 1 403 375 \u2014 375 0.25 Restructuring and restructuring-related net charges/credits 139 (90) 229 \u2014 229 199 \u2014 199 0.13 Litigation-related net charges/credits \u2014 \u2014 \u2014 \u2014 \u2014 (0) \u2014 (0) (0.00) Investment portfolio net losses/gains and impairments \u2014 \u2014 \u2014 20 20 19 \u2014 19 0.01 EU MDR implementation costs 35 (17) 52 \u2014 52 45 \u2014 45 0.03 Deferred tax expenses/benefits \u2014 \u2014 \u2014 \u2014 \u2014 165 \u2014 165 0.11 Discrete tax items \u2014 \u2014 \u2014 \u2014 \u2014 (4) \u2014 (4) (0.00) Adjusted $ 11,776 $ 7,246 $ 4,529 $ (301) $ 4,229 $ 3,726 $ 1 $ 3,725 $ 2.51 An explanation of the company's use of these non-GAAP financial measures is provided at the end of this document. Amounts may not add due to rounding.",
+      "token_count": 611
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Q1 2026 Estimate Full Year 2026 Estimate (Low) (High) (Low) (High) Reported growth 10.5 % 12.0 % 10.5 % 11.5 % Impact of foreign currency fluctuations (2.0) % (2.0) % (0.5) % (0.5) % Operational growth 8.5 % 10.0 % 10.0 % 11.0 % Impact of certain acquisitions/divestitures \u2014 % \u2014 % \u2014 % \u2014 % Organic growth 8.5 % 10.0 % 10.0 % 11.0 %",
+      "token_count": 83
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To supplement our unaudited consolidated financial statements presented on a GAAP basis, we disclose certain non-GAAP financial measures, including adjusted net income (loss), adjusted net income (loss) attributable to BOSTON SCIENTIFIC CORP common stockholders and adjusted net income (loss) per share (EPS) that exclude certain charges (credits); operational net sales, which exclude the impact of foreign currency fluctuations; and organic net sales, which exclude the impact of foreign currency fluctuations as well as the impact of certain acquisitions and divestitures with less than a full period of comparable net sales. These non-GAAP financial measures are not in accordance with generally accepted accounting principles in the United States and should not be considered in isolation from or as a replacement for the most directly comparable GAAP financial measures. Further, other companies may calculate these non-GAAP financial measures differently than we do, which may limit the usefulness of those measures for comparative purposes.",
+      "token_count": 259
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To calculate adjusted net income (loss), adjusted net income (loss) attributable to BOSTON SCIENTIFIC CORP common stockholders and adjusted net income (loss) per share, we exclude certain charges (credits) from GAAP net income and GAAP net income attributable to BOSTON SCIENTIFIC CORP common stockholders, which include amortization expense, goodwill and other intangible asset impairment charges, acquisition/divestiture-related net charges (credits), investment portfolio net losses (gains) and impairments, restructuring and restructuring-related net charges (credits), certain litigation-related net charges (credits), EU MDR implementation costs, debt extinguishment net charges, deferred tax expenses (benefits) and certain discrete tax items. Amounts are presented after-tax using the company's effective tax rate, unless the amount is a significant unusual or infrequently occurring item in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 740-270-30, \u201c General Methodology and Use of Estimated Annual Effective Tax Rate. \u201d In addition to the explanation below, please refer to Part II, Item 7. Management \u2019 s Discussion and Analysis of Financial Condition and Results of Operations in our most recent Annual Report on Form 10-K filed with the Securities and Exchange Commission or Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations in any Quarterly Report on Form 10-Q that we have filed or will file thereafter for an explanation of each of these adjustments and the reasons for excluding each item. The following is an explanation of each incremental or revised adjustment type, since our most recent Annual Report on Form 10-K, that management excluded as part of these non-GAAP financial measures as well as the reason for excluding each item:",
+      "token_count": 457
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Restructuring and restructuring-related net charges (credits) - These adjustments primarily represent severance and other compensation-related charges, fixed asset write-offs, contract cancellations, project management fees, facility shut down costs, costs to transfer manufacturing lines between geographically dispersed facilities and other direct costs associated with our restructuring plans. These restructuring plans each consist of distinct initiatives that are fundamentally different from our ongoing, core cost reduction initiatives in terms of, among other things, the frequency with which each action is performed and the required planning, resourcing, cost and timing. Examples of such initiatives include the movement of business activities, facility consolidations and closures and the transfer of product lines between manufacturing facilities, which, due to the highly regulated nature of our industry, requires a significant investment in time and cost to create duplicate manufacturing lines, run product validations and seek regulatory approvals. Restructuring plans take place over a defined timeframe and have a distinct project timeline that requires, and begins subsequent to, approval by our Board of Directors. In contrast to our ongoing cost reduction initiatives, restructuring plans typically result in duplicative cost and exit costs over the defined timeframe and are not considered part of our core, ongoing operations. In addition, in 2025, we incurred",
+      "token_count": 372
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "restructuring and restructuring-related net charges (credits) associated with management's decision to discontinue worldwide sales of the ACURATE neo2 TM and ACURATE Prime TM Aortic Valve Systems. These restructuring plans and activities are incremental to the core activities that arise in the ordinary course of our business. Restructuring and restructuring-related net charges (credits) are excluded from management's assessment of operating performance and from our operating segments' measures of profit and loss used for making operating decisions and assessing performance.",
+      "token_count": 145
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The GAAP financial measures most directly comparable to adjusted net income (loss), adjusted net income (loss) attributable to BOSTON SCIENTIFIC CORP common stockholders and adjusted net income (loss) per share are GAAP net income (loss), GAAP net income (loss) attributable to BOSTON SCIENTIFIC CORP common stockholders and GAAP net income (loss) per common share \u2013 diluted, respectively.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To calculate operational net sales growth rates, which exclude the impact of foreign currency fluctuations, we convert actual net sales from local currency to U.S. dollars using constant foreign currency exchange rates in the current and prior periods. To calculate organic net sales growth rates, we also remove the impact of certain acquisitions and divestitures with less than a full period of comparable net sales. The GAAP financial measure most directly comparable to operational net sales and organic net sales is net sales reported on a GAAP basis.",
+      "token_count": 139
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Reconciliations of each of these non-GAAP financial measures to the corresponding GAAP financial measure are included in the accompanying schedules.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Management uses these supplemental non-GAAP financial measures to evaluate performance period over period, to analyze the underlying trends in our business, to assess our performance relative to our competitors and to establish operational goals and forecasts that are used in allocating resources. In addition, management uses these non-GAAP financial measures to further its understanding of the performance of our operating segments. The adjustments excluded from our non-GAAP financial measures are consistent with those excluded from our operating segments\u2019 measures of net sales and profit or loss. These adjustments are excluded from the segment measures reported to our chief operating decision maker that are used to make operating decisions and assess performance.",
+      "token_count": 194
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We believe that presenting adjusted net income (loss), adjusted net income (loss) attributable to BOSTON SCIENTIFIC CORP common stockholders, adjusted net income (loss) per share, operational net sales growth rates and organic net sales growth rates, in addition to the corresponding GAAP financial measures, provides investors greater transparency to the information used by management for its operational decision-making and allows investors to see our results \u201cthrough the eyes\u201d of management. We further believe that providing this information assists our investors in understanding our operating performance and the methodology used by management to evaluate and measure such performance.",
+      "token_count": 171
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.021258,
+    "ret_20d": -0.040427,
+    "market_ret_20d": 0.002632
+  },
+  "outcome_blind": true
+}

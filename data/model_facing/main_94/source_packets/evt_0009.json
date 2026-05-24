@@ -1,0 +1,615 @@
+{
+  "event_id": "evt_0009",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "KIMBERLY CLARK CORP",
+  "ticker": "KMB",
+  "company_alias": "KIMBERLY CLARK CORP",
+  "masked_company": "Company BH",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-01-27",
+  "filing_metadata": {
+    "cik": "55785",
+    "accession_number": "0001628280-26-003514",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-27T01:37:08-05:00",
+    "event_date": "2026-01-27",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "KIMBERLY CLARK CORP Reports Strong Finish to Second Year of Transformation",
+      "token_count": 17
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2025 results show further momentum from Powering Care strategy, supporting further strategic transformation",
+      "token_count": 27
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "DALLAS, 2026-01-27T01:37:08-05:00 - KIMBERLY CLARK CORP Corporation (Nasdaq:KMB) today reported fourth quarter and full year 2025 results that reflect the momentum of its innovation-driven, volume-plus-mix led growth model. These are supported by significant efficiencies that are enabling strong reinvestment in its brands and capabilities, and generating attractive returns to its shareholders.",
+      "token_count": 97
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cIn 2025, we accelerated the largest transformation in KIMBERLY CLARK CORP\u2019s more than 150-year history, delivering results that underscore the strength of our business and serve as a springboard for enhanced growth and continued outperformance in 2026,\u201d said KIMBERLY CLARK CORP Chairman and CEO. \u201cWe delivered pioneering innovation across the value spectrum, breakthrough creative storytelling that strengthened brand love, and superior execution that fueled our second consecutive year of broad-based, share gain-led volume-plus-mix growth. We\u2019ve also maintained a relentless focus on cost discipline as we successfully pivot our portfolio to higher growth, higher margin personal care categories.\u201d",
+      "token_count": 171
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cAcquiring Kenvue is a powerful next step in our transformation that will compound the momentum we\u2019re already delivering across KIMBERLY CLARK CORP. Importantly, it will also enable us to raise the standard of care for billions of people around the world,\u201d Hsu continued. \"We are making strong progress on our integration planning efforts and look forward to delivering on this unique opportunity to create generational value for KIMBERLY CLARK CORP shareholders.\"",
+      "token_count": 112
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Unless otherwise noted, reported results in this release are based on continuing operations and exclude the International Family Care and Professional (\"IFP\") business, which is reported as discontinued operations.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Delivered net sales of $4.1 billion, down 0.6 percent, with organic sales growth of 2.1 percent.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Gross margin was 35.9 percent; adjusted gross margin was 37.0 percent, in line with the prior year.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Operating profit for the quarter was $507 million, while adjusted operating profit was $629 million, up 13.1 percent versus the prior year driven by strong productivity gains and lower planned marketing, research and general expenses.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted earnings per share (\"EPS\") attributable to KIMBERLY CLARK CORP were $1.50; adjusted earnings per share were $1.86, up 24.0 percent versus prior year driven primarily by strong operating profit delivery, aided by higher income from discontinued operations and lower adjusted effective tax rate.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $4.1 billion were down 0.6 percent, as organic sales growth of 2.1 percent was offset by a 2.5 percent decline primarily from the exit of the company's private label diaper business in the US. Organic sales growth was",
+      "token_count": 58
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "driven by volume-plus-mix growth of 3.0 percent, partially offset by price investments of 1.1 percent to enhance value propositions.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Gross margin was 35.9 percent compared to 35.2 percent in the prior year, inclusive of $44 million, or approximately 110 basis points, and $68 million, or approximately 170 basis points, respectively, of charges related to the 2024 Transformation Initiative. Excluding these charges, adjusted gross margin was 37.0 percent, in line with the prior year as strong productivity savings and volume growth were offset by unfavorable pricing net of cost inflation, reflecting planned investments to improve price:value tiers across the portfolio.",
+      "token_count": 135
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating profit was $507 million compared to $420 million in the prior year, inclusive of charges of $122 million and $136 million, respectively, for certain items that management does not believe reflect our underlying and ongoing operations. Excluding these items, adjusted operating profit was $629 million compared to $556 million, an increase of 13.1 percent driven by strong productivity savings and lower marketing, research and general expenses.",
+      "token_count": 114
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net interest expense was $54 million, broadly in line with prior year.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The effective tax rate was 23.9 percent compared to 13.4 percent in the prior year. On an adjusted basis, the effective rate was 23.1 percent, compared to 26.8 percent in the prior year. The year-on-year benefit to the adjusted rate was driven primarily by a lower valuation allowance linked to improved business outlook in an enterprise market, and by the resolution of certain tax matters.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income of equity companies was $59 million compared to $44 million in the prior year, primarily driven by favorable currency impacts.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Income from discontinued operations, net of income taxes was $119 million compared to $103 million in the prior year including an impact of pre-tax separation costs of $27 million in the current year. Adjusted income from discontinued operations was $142 million compared to $103 million in the prior year, an increase of 37.9 percent primarily driven by lower depreciation and amortization expense of approximately $30 million in the current year due to discontinued operations reporting requirements along with higher net sales.",
+      "token_count": 133
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted EPS attributable to KIMBERLY CLARK CORP were $1.50 compared to $1.34 the prior year. These amounts are inclusive of net charges of $0.36 and $0.16, respectively, for certain items that management does not believe reflect our underlying and ongoing operations. Excluding these items, adjusted EPS attributable to KIMBERLY CLARK CORP increased 24.0 percent to $1.86 reflecting growth in adjusted operating profit, lower diluted shares outstanding and higher income from equity companies.",
+      "token_count": 119
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $16.4 billion were 2.1 percent lower than the prior year primarily due to a 2.9 percent negative impact from a combination of the PPE divestiture and the exit of the company's private label diaper business in the US, as well as a 0.9 percent negative impact from foreign currency translation. Organic sales grew 1.7 percent driven by a 2.5 percent increase in volume, partially offset by price investments of 0.9 percent, while portfolio mix was broadly in line with a year ago.",
+      "token_count": 123
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Gross margin was 36.0 percent compared to 37.4 percent in the prior year, inclusive of $213 million, or approximately 130 basis points, and $144 million, or approximately 85 basis points, respectively, of charges related to the 2024 Transformation Initiative. Excluding these charges, adjusted gross margin was 37.3 percent, a decrease",
+      "token_count": 84
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "of 100 basis points versus the prior year as strong productivity gains were more than offset by unfavorable pricing net of cost inflation, reflecting planned investments to improve price:value tiers across the portfolio, as well as incremental tariff-related costs.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating profit was $2.4 billion compared to $2.7 billion in the prior year, inclusive of net charges of $380 million and $27 million, respectively, for certain items that management does not believe reflect our underlying and ongoing operations. Excluding these items, adjusted operating profit was $2.7 billion, in line with the prior year as lower marketing, research and general expenses driven by efficiency gains were offset by the gross profit headwinds discussed above.",
+      "token_count": 120
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net Interest expense was $232 million compared to $222 million in the prior year primarily driven by lower interest income.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The effective tax rate was 29.2 percent compared to 18.3 percent in the prior year. The increase was primarily due to incremental tax charges relating to a valuation allowance on current and prior year U.S. foreign tax credits due to provisions within the One Big Beautiful Bill Act (\"OBBBA\"), coupled with tax benefits recognized in the prior year for the release of an uncertain tax position reserve related to the impairment for certain Softex intangible assets. On an adjusted basis, the effective tax rate was 22.8 percent, in line with the prior year.",
+      "token_count": 140
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income of equity companies was $196 million compared to $216 million in the prior year driven primarily by unfavorable currency impacts.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Income from discontinued operations, net of income taxes was $400 million compared to $386 million in the prior year including an impact of pre-tax separation costs of $77 million in the current year. Adjusted income from discontinued operations was $467 million compared to $386 million in the prior year, an increase of 21.0 percent driven by a step-up in operating results combined with a lower effective tax rate. Depreciation and amortization expense was approximately $70 million lower in the current year due to discontinued operations reporting requirements.",
+      "token_count": 142
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted EPS attributable to KIMBERLY CLARK CORP were $6.07 compared to $7.55 in the prior year. These amounts are inclusive of $1.46 of charges and $0.25 of net benefit, respectively, for certain items that management does not believe reflect our underlying and ongoing operations. Excluding these items, adjusted EPS attributable to KIMBERLY CLARK CORP were $7.53 compared to $7.30, an increase of 3.2 percent driven primarily by lower weighted average shares outstanding and higher income from discontinued operations.",
+      "token_count": 126
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Q4 changes vs. year ago (%) Volume Mix/Other Net Price Divestitures and Business Exits (c) Currency Translation Total (a) Organic (b) Consolidated 2.7 0.3 (1.1) (2.5) (0.1) (0.6) 2.1 NA 2.5 (0.7) (1.0) (3.7) (0.1) (3.0) 0.8 IPC 3.3 2.4 (1.2) (0.1) (0.2) 4.2 4.5",
+      "token_count": 66
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "FY changes vs. year ago (%) Volume Mix/Other Net Price Divestitures and Business Exits (c) Currency Translation Total (a) Organic (b) Consolidated 2.5 0.1 (0.9) (2.9) (0.9) (2.1) 1.7 NA 2.6 (0.5) (0.4) (3.9) (0.2) (2.4) 1.8 IPC 2.3 1.3 (2.0) (0.2) (2.3) (0.9) 1.7",
+      "token_count": 66
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) Total may not sum across due to rounding.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(b) Represents the change in net sales excluding the impacts of currency translation and divestitures and business exits. Organic Sales Growth is a non-GAAP financial measure. See \"Summary of Non-GAAP Financial Measures\" below for reconciliations of our GAAP to non-GAAP measures.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(c) Impact of the sale of the PPE business, the exit of the Company's private label diaper business in the United States, and other exited businesses and markets in conjunction with the 2024 Transformation Initiative.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $2.6 billion decreased 3.0 percent in the quarter, driven by a 3.7 percent impact from the exit of the company's private label diaper business, partially offset by organic sales growth of 0.8 percent. Organic sales growth was driven by broad-based volume growth of 2.5 percent, which was partially offset by declines in price and mix.",
+      "token_count": 87
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $10.8 billion for the year were down 2.4 percent driven by a 3.9 percent impact from the exit of the company's private label diaper business, partially offset by organic sales growth of 1.8 percent. Organic sales growth was driven by volume growth of 2.6 percent, partially offset by declines in price and mix. Personal Care categories value market share were up 20 basis points for the year, with volume share up 90 basis points.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating profit for the quarter of $580 million increased 5.5 percent versus the prior year, despite a 290 basis point headwind from divestiture and business exits, reflecting strong productivity gains and lower marketing, research and general expenses.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating profit for the year of $2.6 billion was in line with the prior year despite a 330 basis point headwind from divestiture and business exits. Results reflect organic growth led gains, strong productivity savings and lower marketing, research and general expenses, partially offset by unfavorable pricing net of cost inflation, including tariff impacts, and supply chain related investments.",
+      "token_count": 100
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales in the quarter of $1.4 billion increased 4.2 driven by organic sales growth of 4.5 percent. Organic sales benefitted from strong volume led growth of 3.3 percent reflecting improvements in consumer value propositions across the portfolio, and enhanced portfolio mix of 2.4 percent, partially offset by price investment of 1.2 percent.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales of $5.7 billion for the year decreased 0.9 percent as unfavorable currency impacts offset organic sales growth of 1.7 percent. Similar to the quarter, organic sales growth was driven by volume led growth and improved portfolio mix, partially offset by price investments. Strong volume led growth drove weighted share gains primarily in baby and child care.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating profit for the quarter of $199 million increased 20.6 percent driven by volume and mix led gains, strong productivity savings and lower marketing, research and general expenses, partially offset by pricing investments resulting in negative pricing net of cost inflation.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating profit for the year of $796 million decreased 3.6 percent primarily due to strong comparisons in the prior year period and incremental pricing investments, partially offset by strong productivity savings and lower marketing, research and general expenses.",
+      "token_count": 67
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Cash provided by operations was $2.8 billion compared to $3.2 billion last year, while capital spending was $1.1 billion compared to $721 million last year. The company returned $1.8 billion to shareholders through dividends and share repurchases. The company completed share repurchases of 1.1 million shares at a cost of $141 million in 2025. Total debt was $7.2 billion as of December 31, 2025 compared to $7.4 billion at the end of 2024.",
+      "token_count": 111
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Consistent with the Company's long term growth algorithm, it currently expects 2026 Organic Sales Growth to grow in line to ahead of the weighted average growth in the categories and countries it competes, which for the latest year grew at approximately two percent. Reported Net Sales are forecast to reflect a negative impact of 50 basis points from the exit of the company's private label diaper business in the US with no meaningful impact from currency translation. Adjusted Operating Profit is expected to grow at a mid-to-high single-digit rate on a constant-currency basis. Adjusted Earnings Per Share from Continuing Operations are expected to grow Double-Digit on a constant-currency basis driven by approximately 30 percent increase in Income from Equity Companies versus 2025, expectations of flat net interest expense, an adjusted effective tax rate of approximately 23 percent, and average shares outstanding essentially unchanged versus 2025. Adjusted Earnings Per Share attributable to KIMBERLY CLARK CORP are expected to be flat on a constant-currency basis reflecting a reduction in Income from Discontinued Operations in line with the expected close of the IFP transaction in mid-2026, the proceeds from which will be held to fund, in part, the Kenvue acquisition. Earnings Per Share are expected to be favorably impacted by currency translation of approximately 130 basis points.",
+      "token_count": 348
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "KIMBERLY CLARK CORP (NASDAQ:KMB) and its trusted brands are an indispensable part of life for people in more than 175 countries and territories. Our portfolio of brands, including Huggies, Kleenex, Scott, Kotex, Cottonelle, Poise, Depend, Andrex, Pull-Ups, Goodnites, Intimus, Plenitud, Sweety, Softex, Viva and WypAll, hold No. 1 or No. 2 share positions in approximately 70 countries. Our company\u2019s purpose is to deliver Better Care for a Better World. We are committed to using sustainable practices designed to support a healthy planet, build strong communities, and enable our business to thrive for decades to come. To keep up with the latest news and learn more about the company's more than 150-year history of innovation, visit the KIMBERLY CLARK CORP website.",
+      "token_count": 190
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Copies of KIMBERLY CLARK CORP's Annual Report to Stockholders and its proxy statements and other SEC filings, including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, are made available free of charge on the company's website on the same day they are filed with the SEC. To view these filings, visit the Investors section of the company's website.",
+      "token_count": 96
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "and the resulting negative impacts on our supply chain, commodity costs, and consumer spending), pandemics, epidemics, fluctuations in foreign currency exchange rates, the prices and availability of our raw materials, supply chain disruptions, disruptions in the capital and credit markets, counterparty defaults (including customers, suppliers and financial institutions with which we do business), failure to realize the expected benefits or synergies from our acquisition and disposition activity, impairment of goodwill and intangible assets and our projections of operating results and other factors that may affect our impairment testing, changes in customer preferences, severe weather conditions, regional instabilities and hostilities, potential competitive pressures on selling prices for our products, energy costs, general economic and political conditions globally and in the markets in which we do business, as well as our ability to maintain key customer relationships, could affect the realization of these estimates.",
+      "token_count": 259
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31 2025 2024 Change Net Sales $ 4,080 $ 4,104 (0.6) % Cost of products sold 2,615 2,659 (1.7) % Gross Profit 1,465 1,445 1.4 % Marketing, research and general expenses 955 1,006 (5.1) % Other (income) and expense, net 3 19 (84.2) % Operating Profit 507 420 20.7 % Nonoperating expense (17) (15) 13.3 % Interest income 6 11 (45.5) % Interest expense (60) (64) (6.3) % Income from Continuing Operations Before Income Taxes and Equity Interests 436 352 23.9 % Provision for income taxes (104) (47) 121.3 % Income from Continuing Operations Before Equity Interests 332 305 8.9 % Share of net income of equity companies 59 44 34.1 % Income from Continuing Operations 391 349 12.0 % Income from Discontinued Operations, Net of Income Taxes 119 103 15.5 % Net Income 510 452 12.8 % Net income attributable to noncontrolling interests (11) (5) 120.0 % Net Income Attributable to KIMBERLY CLARK CORP Corporation $ 499 $ 447 11.6 % Per Share Basis Net Income Attributable to KIMBERLY CLARK CORP Corporation Basic: Continuing operations $ 1.14 $ 1.03 10.7 % Discontinued operations 0.36 0.31 16.1 % Basic Earnings per Share $ 1.50 $ 1.34 11.9 % Diluted: Continuing operations $ 1.14 $ 1.03 10.7 % Discontinued operations 0.36 0.31 16.1 % Diluted Earnings per Share $ 1.50 $ 1.34 11.9 % Cash Dividends Declared $ 1.26 $ 1.22 3.3 % Common Shares Outstanding December 31 2025 2024 Outstanding shares as of 331.9 331.8 Average diluted shares for three months ended 333.1 334.4",
+      "token_count": 368
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Twelve Months Ended December 31 2025 2024 Change Net Sales $ 16,447 $ 16,805 (2.1) % Cost of products sold 10,524 10,516 0.1 % Gross Profit 5,923 6,289 (5.8) % Marketing, research and general expenses 3,528 3,930 (10.2) % Impairment of intangible assets \u2014 97 N.M. Other (income) and expense, net 44 (438) N.M. Operating Profit 2,351 2,700 (12.9) % Nonoperating expense (67) (60) 11.7 % Interest income 24 48 (50.0) % Interest expense (256) (270) (5.2) % Income from Continuing Operations Before Income Taxes and Equity Interests 2,052 2,418 (15.1) % Provision for income taxes (599) (442) 35.5 % Income from Continuing Operations Before Equity Interests 1,453 1,976 (26.5) % Share of net income of equity companies 196 216 (9.3) % Income from Continuing Operations 1,649 2,192 (24.8) % Income from Discontinued Operations, Net of Income Taxes 400 386 3.6 % Net Income 2,049 2,578 (20.5) % Net income attributable to noncontrolling interests (28) (33) (15.2) % Net Income Attributable to KIMBERLY CLARK CORP Corporation $ 2,021 $ 2,545 (20.6) % Per Share Basis Net Income Attributable to KIMBERLY CLARK CORP Corporation Basic: Continuing operations $ 4.88 $ 6.43 (24.1) % Discontinued operations 1.21 1.15 5.2 % Basic Earnings per Share $ 6.09 $ 7.58 (19.7) % Diluted: Continuing operations $ 4.86 $ 6.41 (24.2) % Discontinued operations 1.21 1.14 6.1 % Diluted Earnings per Share $ 6.07 $ 7.55 (19.6) % Cash Dividends Declared $ 5.04 $ 4.88 3.3 % Common Shares Outstanding December 31 2025 2024 Average diluted shares for twelve months ended 333.2 337.0",
+      "token_count": 384
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "December 31 2025 2024 ASSETS Current Assets Cash and cash equivalents $ 688 $ 1,010 Accounts receivable, net 1,892 1,728 Inventories 1,475 1,452 Other current assets 535 694 Current assets of discontinued operations 720 696 Total Current Assets 5,310 5,580 Property, Plant and Equipment, Net 6,775 6,284 Investments in Equity Companies 330 314 Goodwill 1,839 1,796 Other Intangible Assets, Net 77 80 Other Assets 1,062 984 Non-current Assets of Discontinued Operations 1,705 1,508 TOTAL ASSETS $ 17,098 $ 16,546 LIABILITIES AND STOCKHOLDERS' EQUITY Current Liabilities Debt payable within one year $ 694 $ 564 Trade accounts payable 3,388 3,264 Accrued expenses and other current liabilities 1,888 2,091 Dividends payable 415 402 Current liabilities of discontinued operations 740 683 Total Current Liabilities 7,125 7,004 Long-Term Debt 6,474 6,854 Non-current Employee Benefits 605 628 Deferred Income Taxes 445 300 Other Liabilities 646 609 Non-current Liabilities of Discontinued Operations 151 139 Redeemable Preferred Securities of Subsidiaries 22 37 Stockholders' Equity KIMBERLY CLARK CORP Corporation 1,502 840 Noncontrolling Interests 128 135 Total Stockholders' Equity 1,630 975 TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY $ 17,098 $ 16,546",
+      "token_count": 311
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Twelve Months Ended December 31 2025 2024 Operating Activities Net income $ 2,049 $ 2,578 Depreciation and amortization 805 781 Asset impairments 18 114 Stock-based compensation 140 131 Deferred income taxes 241 (38) Net (gains) losses on asset and business dispositions 39 (448) Equity companies' earnings (in excess of) less than dividends paid (35) (62) Operating working capital (503) 178 Postretirement benefits 15 3 Other 8 (3) Cash Provided by Operations 2,777 3,234 Investing Activities Capital spending (1,138) (721) Proceeds from asset and business dispositions 33 651 Investments in time deposits (447) (605) Maturities of time deposits 552 562 Other 49 13 Cash Used for Investing (951) (100) Financing Activities Cash dividends paid (1,660) (1,628) Change in short-term debt 275 1 Debt repayments (550) (554) Proceeds from exercise of stock options 40 136 Repurchases of common stock (141) (1,000) Cash dividends paid to noncontrolling interests (32) (35) Other (111) (86) Cash Used for Financing (2,179) (3,166) Effect of Exchange Rate Changes on Cash and Cash Equivalents 33 (40) Change in Cash and Cash Equivalents (320) (72) Cash and cash equivalents from continuing operations - beginning of period 1,010 1,075 Cash and cash equivalents from discontinued operations - beginning of period (a) 11 18 Cash and Cash Equivalents - Beginning of Period 1,021 1,093 Cash and cash equivalents from continuing operations - end of period 688 1,010 Cash and cash equivalents from discontinued operations - end of period (a) 13 11 Cash and Cash Equivalents - End of Period $ 701 $ 1,021",
+      "token_count": 398
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "(a) Included in Current assets of discontinued operations.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 Change 2025 2024 Change Net Sales NA $ 2,641 $ 2,723 (3.0) % $ 10,753 $ 11,017 (2.4) % IPC 1,439 1,381 4.2 % 5,694 5,743 (0.9) % Segment Net Sales (a) 4,080 4,104 (0.6) % 16,447 16,760 (1.9) % Corporate & Other (b) \u2014 \u2014 N.M. \u2014 45 N.M. Total Net Sales $ 4,080 $ 4,104 (0.6) % $ 16,447 $ 16,805 (2.1) % Operating Profit NA $ 580 $ 550 5.5 % $ 2,553 $ 2,542 0.4 % IPC 199 165 20.6 % 796 826 (3.6) % Segment Operating Profit (a) 779 715 9.0 % 3,349 3,368 (0.6) % Corporate & Other (b) (272) (295) (7.8) % (998) (668) 49.4 % Total Operating Profit $ 507 $ 420 20.7 % $ 2,351 $ 2,700 (12.9) %",
+      "token_count": 165
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(a) Segment Net Sales and Segment Operating Profit are non-GAAP financial measures as they exclude certain results included within Corporate & Other, as discussed below. Refer to \"Summary of Non-GAAP Financial Measures\" below for further discussion of how we utilize non-GAAP financial measures. As shown above, we have included a reconciliation to Total Net Sales and Total Operating Profit, as determined in accordance with GAAP.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(b) Corporate & Other includes income and expense not associated with the ongoing operations of the segments, including certain operations of the former IFP segment that were divested prior to the IFP Transaction and costs previously allocated to the former IFP segment that aren't reported as discontinued operations.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The following provides the reconciliation of the non-GAAP financial measures provided in this press release to the most closely related GAAP measure. These measures include: Organic Sales Growth, Adjusted Gross Profit, Adjusted Operating Profit, Adjusted Earnings per Share from Continuing Operations, Adjusted Earnings per Share Attributable to KIMBERLY CLARK CORP, Adjusted Effective Tax Rate, and Adjusted Income from Discontinued Operations. Unless specifically stated, all discussions regarding non-GAAP financial measures reflect results from our continuing operations for all periods presented.",
+      "token_count": 148
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Organic Sales Growth is defined as the change in Net Sales, as determined in accordance with U.S. GAAP, excluding the impacts of currency translation and divestitures and business exits.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Adjusted Gross and Operating Profit, Adjusted Earnings per Share from Continuing Operations, Adjusted Earnings per Share Attributable to KIMBERLY CLARK CORP, Adjusted Effective Tax Rate, and Adjusted Income from Discontinued Operations are defined as Gross Profit, Operating Profit, Diluted Earnings per Share from Continuing Operations, Diluted Earnings per Share Attributable to KIMBERLY CLARK CORP, Effective Tax Rate, and Income from Discontinued Operations, Net of Income Taxes, respectively, as determined in accordance with U.S. GAAP, excluding the impacts of certain items that management believes do not reflect our underlying operations, and which are discussed in further detail below.",
+      "token_count": 170
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The income tax effect of these non-GAAP items on the Company's Adjusted Earnings per Share from Continuing Operations is calculated based upon the tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the underlying non-GAAP adjustment. The impact of these non-GAAP items on the Company\u2019s effective tax rate represents the difference in the effective tax rate calculated with and without the non-GAAP adjustment on Income from Continuing Operations Before Income Taxes and Equity Interests and Provision for income taxes.",
+      "token_count": 137
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "We use these non-GAAP financial measures to assist in comparing our performance on a consistent basis for purposes of business decision making by removing the impact of certain items that we do not believe reflect our underlying and ongoing operations. We believe that presenting these non-GAAP financial measures is useful to investors because it (i) provides investors with meaningful supplemental information regarding financial performance by excluding certain items, (ii) permits investors to view performance using the same tools that management uses to budget, make operating and strategic decisions, and evaluate historical performance, and (iii) otherwise provides supplemental information that may be useful to investors in evaluating our results. We believe that the presentation of these non-GAAP financial measures, when considered together with the corresponding U.S. GAAP financial measures and the reconciliation to those measures, provides investors with additional understanding of the factors and trends affecting our business than could be obtained absent these disclosures.",
+      "token_count": 274
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "These non-GAAP financial measures are not meant to be considered in isolation or as a substitute for the comparable GAAP measures, and they should be read only in conjunction with our Consolidated Financial Statements prepared in accordance with GAAP. There are limitations to these non-GAAP financial measures because they are not prepared in accordance with GAAP and may not be comparable to similarly titled measures of other companies due to potential differences in methods of calculation and items being excluded. We compensate for these limitations by using these non-GAAP financial measures as a supplement to the GAAP measures and by providing reconciliations of the non-GAAP and comparable GAAP financial measures. Certain non-GAAP financial measures referenced in this press release are presented on a forward-looking basis. KIMBERLY CLARK CORP does not provide a reconciliation of these forward-looking non-GAAP financial measures to the most directly comparable GAAP financial measures on a forward-looking basis because it is unable to predict certain adjustment items without unreasonable effort. Please note that these items could be material to KIMBERLY CLARK CORP\u2019s results calculated in accordance with GAAP.",
+      "token_count": 303
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 2024 Transformation Initiative - We initiated this transformation to create a more agile and focused operating structure that will accelerate our proprietary pipeline of innovation in right-to-win spaces and improve our growth trajectory, profitability, and returns on investment.",
+      "token_count": 71
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Kenvue Acquisition - Acquisition-related costs incurred in connection with the pending Kenvue Acquisition, primarily related to external advisory, legal, accounting, and other related costs.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 U.S. Tax Reform Related Matters (OBBBA) - In 2025, we recognized a valuation allowance on prior year U.S. foreign tax credits as a result of provisions within the OBBBA that impact our ability to use the credits.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 IFP Repatriated Earnings \u2013 In connection with the IFP Transaction, we recognized a deferred tax liability for certain permanently reinvested earnings from the IFP Business that are expected to be repatriated prior to the close of the transaction.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 IFP Separation Costs - In 2025, costs were incurred in connection with the IFP Transaction related to external advisory, legal, accounting, contractor and other incremental costs, and are reported in discontinued operations.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 IFP Tax Basis Adjustment - In 2025, in connection with the IFP Transaction, we recognized a deferred tax liability on the difference between our book and tax basis for certain of our investments in subsidiaries reported as discontinued operations.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Sale of PPE Business - In 2024, we recognized a gain related to the sale of our PPE business.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Impairment of Intangible Assets - In 2024, we recognized charges related to the impairment of certain intangible assets related to Softex and Thinx.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Legal Expense - In 2024, we incurred certain costs related to litigation and regulatory matters for a previously exited business.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Softex Tax Reserve Release - In 2024 we released a reserve for an uncertain tax position related to the prior year impairment of certain Softex intangible assets.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, 2025 Percent change vs. the prior year period NA IPC Total Net Sales Growth (3.0) 4.2 (0.6) Currency Translation 0.1 0.2 0.1 Divestitures and Business Exits 3.7 0.1 2.6 Organic Sales Growth (a) 0.8 4.5 2.1",
+      "token_count": 60
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Year Ended December 31, 2025 Percent change vs. the prior year period NA IPC Total Net Sales Growth (2.4) (0.9) (2.1) Currency Translation 0.2 2.3 0.9 Divestitures and Business Exits 4.0 0.3 2.9 Organic Sales Growth (a) 1.8 1.7 1.7",
+      "token_count": 58
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(a) Table may not foot due to rounding.",
+      "token_count": 10
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31 Year Ended December 31 2025 2024 2025 2024 Gross Profit $ 1,465 $ 1,445 $ 5,923 $ 6,289 2024 Transformation Initiative 44 68 213 144 Adjusted Gross Profit $ 1,509 $ 1,513 $ 6,136 $ 6,433",
+      "token_count": 55
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31 Year Ended December 31 2025 2024 2025 2024 Operating Profit $ 507 $ 420 $ 2,351 $ 2,700 2024 Transformation Initiative 90 97 348 456 Kenvue Acquisition 32 \u2014 32 \u2014 Sale of PPE Business \u2014 \u2014 \u2014 (565) Impairment of Intangible Assets \u2014 \u2014 \u2014 97 Legal Expense \u2014 39 \u2014 39 Adjusted Operating Profit $ 629 $ 556 $ 2,731 $ 2,727",
+      "token_count": 86
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31 Year Ended December 31 2025 2024 2025 2024 Diluted Earnings per Share from Continuing Operations $ 1.14 $ 1.03 $ 4.86 $ 6.41 2024 Transformation Initiative 0.22 0.25 0.86 1.01 Kenvue Acquisition 0.07 \u2014 0.07 \u2014 OBBBA \u2014 \u2014 0.29 \u2014 IFP Repatriated Earnings \u2014 \u2014 0.04 \u2014 Sale of PPE Business \u2014 \u2014 \u2014 (1.34) Impairment of Intangible Assets \u2014 \u2014 \u2014 0.17 Legal Expense \u2014 0.11 \u2014 0.11 Softex Tax Reserve Release \u2014 (0.20) \u2014 (0.20) Adjusted Earnings per Share from Continuing Operations (a) $ 1.43 $ 1.19 $ 6.12 $ 6.16",
+      "token_count": 133
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) The non-GAAP adjustments included above are presented net of tax. The income tax effect of these non-GAAP items is calculated based upon the tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the underlying non-GAAP adjustment. Refer to the Adjusted Effective Tax Rate reconciliation below for the tax effect of these adjustments on the Company's reported Provision for income taxes.",
+      "token_count": 105
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended December 31 Year Ended December 31 2025 2024 2025 2024 Diluted Earnings per Share Attributable to KIMBERLY CLARK CORP $ 1.50 $ 1.34 $ 6.07 $ 7.55 2024 Transformation Initiative 0.22 0.25 0.86 1.01 Kenvue Acquisition 0.07 \u2014 0.07 \u2014 OBBBA \u2014 \u2014 0.29 \u2014 IFP Separation Costs 0.07 \u2014 0.18 \u2014 IFP Repatriated Earnings \u2014 \u2014 0.04 \u2014 IFP Tax Basis Adjustment \u2014 \u2014 0.02 \u2014 Sale of PPE Business \u2014 \u2014 \u2014 (1.34) Impairment of Intangible Assets \u2014 \u2014 \u2014 0.17 Legal Expense \u2014 0.11 \u2014 0.11 Softex Tax Reserve Release \u2014 (0.20) \u2014 (0.20) Adjusted Earnings per Share Attributable to KIMBERLY CLARK CORP $ 1.86 $ 1.50 $ 7.53 $ 7.30",
+      "token_count": 149
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Three Months Ended December 31 2025 2024 Income from Continuing Operations Before Income Taxes and Equity Interests Provision for Income Taxes Income from Continuing Operations Before Income Taxes and Equity Interests Provision for Income Taxes As Reported $ 436 $ (104) $ 352 $ (47) 2024 Transformation Initiative 90 (17) 98 (16) Kenvue Acquisition 32 (8) \u2014 \u2014 Legal Expense \u2014 \u2014 39 (1) Softex Tax Reserve Release \u2014 \u2014 \u2014 (67) As Adjusted $ 558 $ (129) $ 489 $ (131) Effective Tax Rate As Reported 23.9 % 13.4 % As Adjusted 23.1 % 26.8 %",
+      "token_count": 134
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Year Ended December 31 2025 2024 Income from Continuing Operations Before Income Taxes and Equity Interests Provision for Income Taxes Income from Continuing Operations Before Income Taxes and Equity Interests Provision for Income Taxes As Reported $ 2,052 $ (599) $ 2,418 $ (442) 2024 Transformation Initiative 351 (56) 457 (118) Kenvue Acquisition 32 (8) \u2014 \u2014 OBBBA \u2014 96 \u2014 \u2014 IFP Repatriated Earnings \u2014 13 \u2014 \u2014 Sale of PPE Business \u2014 \u2014 (565) 112 Impairment of Intangible Assets \u2014 \u2014 97 (40) Legal Expense \u2014 \u2014 39 (1) Softex Tax Reserve Release \u2014 \u2014 \u2014 (67) As Adjusted $ 2,435 $ (554) $ 2,446 $ (556) Effective Tax Rate As Reported 29.2 % 18.3 % As Adjusted 22.8 % 22.7 %",
+      "token_count": 167
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Three Months Ended December 31 Year Ended December 31 2025 2024 2025 2024 Income from Discontinued Operations, Net of Income Taxes $ 119 $ 103 $ 400 $ 386 IFP Separation Costs 27 \u2014 77 \u2014 Tax Effect (a) (4) \u2014 (10) \u2014 Adjusted Income from Discontinued Operations $ 142 $ 103 $ 467 $ 386",
+      "token_count": 71
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(a) The income tax effect of this non-GAAP item is calculated based upon the tax laws and statutory income tax rates applicable in the tax jurisdiction(s) of the non-GAAP adjustment, and is inclusive of the IFP Tax Basis Adjustment (as defined above).",
+      "token_count": 63
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Media Relations contact: Kyrsten Aspegren, media.relations@kcc.com",
+      "token_count": 17
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": 0.018325,
+    "ret_20d": 0.000594,
+    "market_ret_20d": 0.003404
+  },
+  "outcome_blind": true
+}

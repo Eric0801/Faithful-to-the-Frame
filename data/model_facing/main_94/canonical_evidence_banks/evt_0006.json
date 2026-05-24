@@ -1,0 +1,1128 @@
+{
+  "event_id": "evt_0006",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "General Motors Co",
+  "ticker": "GM",
+  "company_alias": "General Motors Co",
+  "masked_company": "Company V",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-01-27",
+  "accepted_at_et": "2026-01-27T02:25:05-05:00",
+  "source_packet_path": "source_packets/evt_0006.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "For Release: Tuesday, 2026-01-27T02:25:05-05:00, at 6:30 a.m.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "For Release: Tuesday, 2026-01-27T02:25:05-05:00, at 6:30 a.m. ET",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "guidance",
+      "claim": "GM releases 2025 financial results and 2026 guidance; Board declares dividend at 20% higher quarterly rate, and approves new $6.0 billion share repurchase authorization",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "GM releases 2025 financial results and 2026 guidance; Board declares dividend at 20% higher quarterly rate, and approves new $6.0 billion share repurchase authorization",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "DETROIT \u2013 General Motors Co (NYSE: GM) today reported full-year 2025 net income attributable to stockholders of $2.7 billion and EBIT-adjusted of $12.7 billion.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "DETROIT \u2013 General Motors Co (NYSE: GM) today reported full-year 2025 net income attributable to stockholders of $2.7 billion and EBIT-adjusted of $12.7 billion. Fourth-quarter 2025 net income attributable to stockholders was a loss of $3.3 billion and EBIT-adjusted was $2.8 bi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "Fourth-quarter net income was reduced by more than $7.2 billion in special charges driven primarily by a realignment of electric vehicle capacity and investments to adjust to expected declines in consumer demand for EVs, and in response to U.S.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Fourth-quarter net income was reduced by more than $7.2 billion in special charges driven primarily by a realignment of electric vehicle capacity and investments to adjust to expected declines in consumer demand for EVs, and in response to U.S. Government policy changes includ...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "The chart below summarizes GM's 2025 financial guidance and 2025 results, as well as the company's 2026 guidance, which is for a year of strong financial performance.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "The chart below summarizes GM's 2025 financial guidance and 2025 results, as well as the company's 2026 guidance, which is for a year of strong financial performance.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "guidance",
+      "claim": "Final 2025 Guidance 2025 Results 2026 Guidance Net income attributable to stockholders $7.7 billion - $8.3 billion $2.7 billion $10.3 billion - $11.7 billion EBIT-adjusted $12.0 billion - $13.0 billion $12.7 billion $13.0 billion - $15.0 billion Automotive operating cash flow $19.2 billion - $21.2 billion $18.7 billion $19.0 billion - $23.0 billion Adjusted automotive free cash flow $10.0 billion - $11.0 billion $10.6 billion $9.0 billion - $11.0 billion EPS-diluted $8.30 - $9.05 $3.27 $11.00 - $13.00 EPS-diluted-adjusted $9.75 - $10.50 $10.60 $11.00 - $13.00",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Final 2025 Guidance 2025 Results 2026 Guidance Net income attributable to stockholders $7.7 billion - $8.3 billion $2.7 billion $10.3 billion - $11.7 billion EBIT-adjusted $12.0 billion - $13.0 billion $12.7 billion $13.0 billion - $15.0 billion Automotive operating cash flow...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "GM's 2026 financial guidance also includes anticipated capital spending of $10.0 billion - $12.0 billion, inclusive of the company's battery cell manufacturing joint ventures.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "GM's 2026 financial guidance also includes anticipated capital spending of $10.0 billion - $12.0 billion, inclusive of the company's battery cell manufacturing joint ventures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "Higher quarterly dividend rate and share repurchase authorization GM announced today that its Board of Directors has approved a $0.03 per share increase in the quarterly common stock dividend rate to $0.18 per share.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Higher quarterly dividend rate and share repurchase authorization GM announced today that its Board of Directors has approved a $0.03 per share increase in the quarterly common stock dividend rate to $0.18 per share. GM declared a quarterly cash dividend on the company\u2019s outst...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "The company also announced that its Board has approved a new $6.0 billion share repurchase authorization.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "The company also announced that its Board has approved a new $6.0 billion share repurchase authorization.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "\u201cFor several years now, GM\u2019s strong brands and winning vehicles, as well as our technology-driven services and operating discipline, have delivered consistently strong cash generation.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u201cFor several years now, GM\u2019s strong brands and winning vehicles, as well as our technology-driven services and operating discipline, have delivered consistently strong cash generation. This has allowed us to execute all phases of our capital allocation strategy, from investing...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "The share repurchase program, which has no expiration date, will be executed in accordance with applicable securities laws and regulations and may be suspended or discontinued at any time at the company's discretion.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "The share repurchase program, which has no expiration date, will be executed in accordance with applicable securities laws and regulations and may be suspended or discontinued at any time at the company's discretion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "As of December 31, 2025, the company had 904 million shares outstanding, down from 995 million at the end of 2024, and 1.2 billion at the end of 2023.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "As of December 31, 2025, the company had 904 million shares outstanding, down from 995 million at the end of 2024, and 1.2 billion at the end of 2023.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "\u2022 1-517-308-9481 (international/caller-paid)",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 1-517-308-9481 (international/caller-paid)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "Three Months Ended $M except per share amounts December 31, 2025 December 31, 2024 Change % Change Revenue $ 45,287 $ 47,702 $ (2,415) (5.1) % Net income (loss) attributable to stockholders $ (3,310) $ (2,961) $ (349) (11.8) % EBIT-adjusted $ 2,843 $ 2,509 $ 334 13.3 % Net income margin (7.3) % (6.2) % (1.1) ppts (17.7) % EBIT-adjusted margin 6.3 % 5.3 % 1.0 ppts 18.9 % Automotive operating cash flow $ 5,606 $ 4,765 $ 841 17.6 % Adjusted automotive free cash flow $ 2,755 $ 1,823 $ 933 51.2 % EPS-diluted(a) $ (3.60) $ (1.64) $ (1.96) n.m.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Three Months Ended $M except per share amounts December 31, 2025 December 31, 2024 Change % Change Revenue $ 45,287 $ 47,702 $ (2,415) (5.1) % Net income (loss) attributable to stockholders $ (3,310) $ (2,961) $ (349) (11.8) % EBIT-adjusted $ 2,843 $ 2,509 $ 334 13.3 % Net inc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Years Ended $M except per share amounts December 31, 2025 December 31, 2024 Change % Change Revenue $ 185,019 $ 187,442 $ (2,422) (1.3) % Net income attributable to stockholders $ 2,697 $ 6,008 $ (3,311) (55.1) % EBIT-adjusted $ 12,747 $ 14,934 $ (2,187) (14.6) % Net income margin 1.5 % 3.2 % (1.7) ppts (53.1) % EBIT-adjusted margin 6.9 % 8.0 % (1.1) ppts (13.8) % Automotive operating cash flow $ 18,733 $ 23,939 $ (5,206) (21.7) % Adjusted automotive free cash flow $ 10,595 $ 14,045 $ (3,450) (24.6) % EPS-diluted $ 3.27 $ 6.37 $ (3.10) (48.7) % EPS-diluted-adjusted $ 10.60 $ 10.60 $ \u2014 \u2014 % GMNA EBIT-adjusted $ 10,452 $ 14,528 $ (4,077) (28.1) % GMNA EBIT-adjusted margin 6.8 % 9.2 % (2.4) ppts (26.1) % GMI EBIT-adjusted(a) $ 737 $ 303 $ 434 n.m.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Years Ended $M except per share amounts December 31, 2025 December 31, 2024 Change % Change Revenue $ 185,019 $ 187,442 $ (2,422) (1.3) % Net income attributable to stockholders $ 2,697 $ 6,008 $ (3,311) (55.1) % EBIT-adjusted $ 12,747 $ 14,934 $ (2,187) (14.6) % Net income ma...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "General Motors Co (NYSE:GM) is driving the future of transportation, leveraging advanced technology to build safer, smarter, and lower emission cars, trucks, and SUVs.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "General Motors Co (NYSE:GM) is driving the future of transportation, leveraging advanced technology to build safer, smarter, and lower emission cars, trucks, and SUVs. GM\u2019s Buick, Cadillac, Chevrolet, and GMC brands offer a broad portfolio of innovative gasoline-powered vehicl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "Year Ending December 31, 2025 Net income attributable to stockholders $ 7.7-8.3 Income tax expense 1.8-2.2 Automotive interest income, net (0.1) Adjustments(a) 2.6 EBIT-adjusted $ 12.0-13.0",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Year Ending December 31, 2025 Net income attributable to stockholders $ 7.7-8.3 Income tax expense 1.8-2.2 Automotive interest income, net (0.1) Adjustments(a) 2.6 EBIT-adjusted $ 12.0-13.0",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "The following table reconciles expected automotive net cash provided by operating activities to expected adjusted automotive free cash flow (dollars in billions):",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "The following table reconciles expected automotive net cash provided by operating activities to expected adjusted automotive free cash flow (dollars in billions):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "Year Ending December 31, 2025 Net automotive cash provided by operating activities $ 19.2-21.2 Less: Capital expenditures 10.0-11.0 Adjustments(a) 0.8 Adjusted automotive free cash flow $ 10.0-11.0",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Year Ending December 31, 2025 Net automotive cash provided by operating activities $ 19.2-21.2 Less: Capital expenditures 10.0-11.0 Adjustments(a) 0.8 Adjusted automotive free cash flow $ 10.0-11.0",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "Year Ending December 31, 2025 Diluted earnings per common share $ 8.30-9.05 Adjustments(a) 1.45 EPS-diluted-adjusted $ 9.75-10.50",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Year Ending December 31, 2025 Diluted earnings per common share $ 8.30-9.05 Adjustments(a) 1.45 EPS-diluted-adjusted $ 9.75-10.50",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "(a) Adjustments as of September 30, 2025.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "(a) Adjustments as of September 30, 2025. See our Quarterly Report on Form 10-Q for the quarter ended September 30, 2025 for full details. We do not consider the potential future impact of adjustments on our expected financial results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "Year Ending December 31, 2026 Net income attributable to stockholders $ 10.3-11.7 Income tax expense 2.6-3.2 Automotive interest expense, net 0.1 EBIT-adjusted(a) $ 13.0-15.0",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Year Ending December 31, 2026 Net income attributable to stockholders $ 10.3-11.7 Income tax expense 2.6-3.2 Automotive interest expense, net 0.1 EBIT-adjusted(a) $ 13.0-15.0",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "Year Ending December 31, 2026 Net automotive cash provided by operating activities $ 19.0-23.0 Less: Capital expenditures 10.0-12.0 Adjusted automotive free cash flow(a) $ 9.0-11.0",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Year Ending December 31, 2026 Net automotive cash provided by operating activities $ 19.0-23.0 Less: Capital expenditures 10.0-12.0 Adjusted automotive free cash flow(a) $ 9.0-11.0",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "(a) We do not consider the potential future impact of adjustments on our expected financial results.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "(a) We do not consider the potential future impact of adjustments on our expected financial results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "General Motors Co Company and Subsidiaries 1",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "General Motors Co Company and Subsidiaries 1",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "guidance",
+      "claim": "Year Ended December 31, 2025 Year Ended December 31, 2024 Automotive Cruise GM Financial Reclassifications/Eliminations Combined Automotive Cruise GM Financial Reclassifications/Eliminations Combined Net sales and revenue Automotive $ 167,970 $ 1 $ \u2014 $ \u2014 $ 167,971 $ 171,605 $ 257 $ \u2014 $ (256) $ 171,606 GM Financial \u2014 \u2014 17,060 (12) 17,048 \u2014 \u2014 15,875 (40) 15,836 Total net sales and revenue 167,970 1 17,060 (12) 185,019 171,605 257 15,875 (296) 187,442 Costs and expenses Automotive and other cost of sales 158,968 163 \u2014 (3) 159,128 148,501 2,566 \u2014 (3) 151,065 GM Financial interest, operating, and other expenses \u2014 \u2014 14,296 (1) 14,295 \u2014 \u2014 12,974 (1) 12,972 Automotive and other selling, General Motors Co, and administrative expense 8,580 111 \u2014 (4) 8,687 9,898 727 \u2014 (4) 10,621 Total costs and expenses 167,548 274 14,296 (8) 182,110 158,399 3,293 12,974 (8) 174,658 Operating income (loss) 422 (273) 2,764 (4) 2,909 13,206 (3,036) 2,902 (288) 12,784 Automotive interest expense 724 30 \u2014 (27) 727 845 189 \u2014 (189) 846 Interest income and other non-operating income, net 1,557 2 (1) (23) 1,535 1,124 35 (1) 99 1,257 Equity income (loss) (639) \u2014 39 \u2014 (600) (4,419) \u2014 (256) \u2014 (4,675) Income (loss) before income taxes 617 (301) 2,802 \u2014 3,117 9,065 (3,191) 2,645 \u2014 8,519 Income tax expense (benefit) 338 2,556 Net income (loss) 2,780 5,963 Net loss (income) attributable to noncontrolling interests (83) 45 Net income (loss) attributable to stockholders $ 2,697 $ 6,008 Net income (loss) attributable to common stockholders $ 3,180 $ 7,189",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Year Ended December 31, 2025 Year Ended December 31, 2024 Automotive Cruise GM Financial Reclassifications/Eliminations Combined Automotive Cruise GM Financial Reclassifications/Eliminations Combined Net sales and revenue Automotive $ 167,970 $ 1 $ \u2014 $ \u2014 $ 167,971 $ 171,605 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "guidance",
+      "claim": "1 Certain columns and rows may not add due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "1 Certain columns and rows may not add due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Basic earnings per share Net income (loss) attributable to stockholders $ (3,310) $ (2,961) $ 2,697 $ 6,008 Adjustments(a) (20) 1,236 483 1,181 Net income (loss) attributable to common stockholders $ (3,330) $ (1,725) $ 3,180 $ 7,189 Weighted-average common shares outstanding 925 1,055 955 1,115 Basic earnings per common share $ (3.60) $ (1.64) $ 3.33 $ 6.45 Diluted earnings per share Net income (loss) attributable to common stockholders \u2013 diluted $ (3,330) $ (1,725) $ 3,180 $ 7,189 Weighted-average common shares outstanding \u2013 diluted 925 1,055 973 1,129 Diluted earnings per common share $ (3.60) $ (1.64) $ 3.27 $ 6.37 Potentially dilutive securities(b) 30 36 \u2014 \u2014",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Basic earnings per share Net income (loss) attributable to stockholders $ (3,310) $ (2,961) $ 2,697 $ 6,008 Adjustments(a) (20) 1,236 483 1,181 Net income (loss) attributable...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "(a) Includes returns from preferred shareholders related to the redemption of Cruise preferred shares from noncontrolling interest holders of $593 million in the year ended December 31, 2025 and $1.2 billion in the three months and year ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "(a) Includes returns from preferred shareholders related to the redemption of Cruise preferred shares from noncontrolling interest holders of $593 million in the year ended December 31, 2025 and $1.2 billion in the three months and year ended December 31, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "(b) Potentially dilutive securities attributable to outstanding stock options, restricted stock units, and performance stock units at December 31, 2025 and 2024 were excluded from the computation of diluted EPS because the securities would have had an antidilutive effect.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "(b) Potentially dilutive securities attributable to outstanding stock options, restricted stock units, and performance stock units at December 31, 2025 and 2024 were excluded from the computation of diluted EPS because the securities would have had an antidilutive effect.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "earnings_or_eps",
+      "claim": "December 31, 2025 December 31, 2024 Automotive Cruise GM Financial Reclassifications/Eliminations Combined Automotive Cruise GM Financial Reclassifications/Eliminations Combined ASSETS Current Assets Cash and cash equivalents $ 15,062 $ 56 $ 5,826 $ \u2014 $ 20,945 $ 14,470 $ 308 $ 5,094 $ \u2014 $ 19,872 Marketable debt securities 6,685 \u2014 39 \u2014 6,724 7,265 \u2014 \u2014 \u2014 7,265 Accounts and notes receivable, net(a) 12,199 76 1,506 (727) 13,054 11,498 22 1,988 (681) 12,827 GM Financial receivables, net(d) \u2014 \u2014 45,661 (395) 45,266 \u2014 \u2014 46,760 (398) 46,362 Inventories 14,472 \u2014 \u2014 (5) 14,467 14,569 \u2014 \u2014 (5) 14,564 Other current assets 3,167 9 5,130 6 8,312 2,816 38 4,799 2 7,655 Total current assets 51,585 141 58,162 (1,120) 108,767 50,618 369 58,640 (1,082) 108,545 Non-current Assets GM Financial receivables, net(c) \u2014 \u2014 44,384 \u2014 44,384 \u2014 \u2014 46,750 (276) 46,474 Equity in net assets of nonconsolidated affiliates 4,564 \u2014 1,117 \u2014 5,681 5,896 \u2014 1,206 \u2014 7,102 Property, net 51,458 99 126 \u2014 51,683 51,729 69 107 \u2014 51,904 Goodwill and intangible assets, net 3,018 \u2014 1,348 \u2014 4,366 2,642 570 1,339 \u2014 4,551 Equipment on operating leases, net \u2014 \u2014 33,686 \u2014 33,686 \u2014 \u2014 31,586 \u2014 31,586 Deferred income taxes 24,446 \u2014 (1,486) \u2014 22,960 21,149 1,899 (1,795) \u2014 21,254 Other assets(b) 8,226 47 1,483 \u2014 9,756 9,340 41 1,323 (2,359) 8,346 Total non-current assets 91,712 147 80,658 \u2014 172,517 90,756 2,579 80,516 (2,635) 171,216 Total Assets $ 143,297 $ 288 $ 138,820 $ (1,120) $ 281,284 $ 141,374 $ 2,948 $ 139,156 $ (3,717) $ 279,761 LIABILITIES AND EQUITY Current Liabilities Accounts payable (principally trade)(a) $ 24,075 $ 1 $ 491 $ (649) $ 23,919 $ 25,446 $ 200 $ 714 $ (681) $ 25,680 Short-term debt and current portion of long-term debt Automotive(a)(d) 1,120 7 \u2014 (471) 656 2,413 7 \u2014 (279) 2,141 GM Financial \u2014 \u2014 35,012 \u2014 35,012 \u2014 \u2014 37,291 \u2014 37,291 Cruise(d) \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 119 \u2014 (119) \u2014 Accrued liabilities 28,956 54 4,744 \u2014 33,754 24,949 548 5,661 (4) 31,154 Total current liabilities 54,151 63 40,248 (1,120) 93,342 52,808 874 43,666 (1,082) 96,265 Non-current Liabilities Long-term debt Automotive(b) 15,522 70 \u2014 \u2014 15,591 13,288 2,397 \u2014 (2,359) 13,327 GM Financial \u2014 \u2014 79,018 \u2014 79,018 \u2014 \u2014 76,973 \u2014 76,973 Cruise(c) \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 276 \u2014 (276) \u2014 Postretirement benefits other than pensions 4,025 \u2014 \u2014 \u2014 4,025 3,990 \u2014 \u2014 \u2014 3,990 Pensions 4,977 \u2014 11 \u2014 4,988 5,772 \u2014 7 \u2014 5,779 Other liabilities 17,495 281 3,375 \u2014 21,151 14,635 297 2,904 \u2014 17,836 Total non-current liabilities 42,019 351 82,404 \u2014 124,775 37,686 2,970 79,885 (2,635) 117,906 Total Liabilities 96,170 414 122,652 (1,120) 218,116 90,494 3,844 123,551 (3,717) 214,171 Equity Common stock, $0.01 par value 9 \u2014 \u2014 \u2014 9 10 \u2014 \u2014 \u2014 10 Additional paid-in capital(e) 18,086 1,842 1,077 (1,076) 19,928 19,632 1,187 1,196 (1,172) 20,843 Retained earnings 37,024 (1,968) 16,467 1 51,524 40,203 (2,647) 15,916 1 53,472 Accumulated other comprehensive loss (8,966) \u2014 (1,377) \u2014 (10,343) (9,744) (3) (1,506) \u2014 (11,253) Total stockholders\u2019 equity 46,153 (126) 16,167 (1,075) 61,119 50,100 (1,464) 15,606 (1,170) 63,072 Noncontrolling interests(e) 974 \u2014 \u2014 1,075 2,049 780 568 \u2014 1,170 2,518 Total Equity 47,127 (126) 16,167 \u2014 63,168 50,880 (896) 15,606 \u2014 65,590 Total Liabilities and Equity $ 143,297 $ 288 $ 138,820 $ (1,120) $ 281,284 $ 141,374 $ 2,948 $ 139,156 $ (3,717) $ 279,761",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "December 31, 2025 December 31, 2024 Automotive Cruise GM Financial Reclassifications/Eliminations Combined Automotive Cruise GM Financial Reclassifications/Eliminations Combined ASSETS Current Assets Cash and cash equivalents $ 15,062 $ 56 $ 5,826 $ \u2014 $ 20,945 $ 14,470 $ 308 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "(a) Eliminations primarily include GM Financial accounts and notes receivable of $0.5 billion due from Automotive; and Automotive accounts receivable of $0.1 billion primarily due from GM Financial at December 31, 2025; and GM Financial accounts and notes receivable of $0.5 billion due from Automotive and Automotive accounts receivable of $0.2 billion due from GM Financial and Cruise at December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "(a) Eliminations primarily include GM Financial accounts and notes receivable of $0.5 billion due from Automotive; and Automotive accounts receivable of $0.1 billion primarily due from GM Financial at December 31, 2025; and GM Financial accounts and notes receivable of $0.5 bi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "(b) Eliminations primarily related to convertible note issued by Cruise to Automotive at December 31, 2024 and deferral agreement between Cruise and Automotive as regards to engineering, capital spending, restructuring, and other costs incurred by Automotive on behalf of Cruise resulting in a long-term payable for Cruise offset by a long-term receivable for Automotive.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "(b) Eliminations primarily related to convertible note issued by Cruise to Automotive at December 31, 2024 and deferral agreement between Cruise and Automotive as regards to engineering, capital spending, restructuring, and other costs incurred by Automotive on behalf of Cruis...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "(c) Eliminations primarily related to intercompany loans due from Cruise to GM Financial.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "(c) Eliminations primarily related to intercompany loans due from Cruise to GM Financial.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "(d) Eliminations primarily related to GM Financial accounts receivables due from Automotive and Cruise.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "(d) Eliminations primarily related to GM Financial accounts receivables due from Automotive and Cruise.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "(e) Primarily reclassification of GM Financial Cumulative Perpetual Preferred Stock, Series A, B and C.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "(e) Primarily reclassification of GM Financial Cumulative Perpetual Preferred Stock, Series A, B and C. The preferred stock is classified as noncontrolling interests in our consolidated balance sheets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "earnings_or_eps",
+      "claim": "Year Ended December 31, 2025 Year Ended December 31, 2024 Automotive Cruise GM Financial Reclassifications/Eliminations Combined Automotive Cruise GM Financial Reclassifications/Eliminations Combined Cash flows from operating activities Net income (loss) $ 1,081 $ (302) $ 2,000 $ \u2014 $ 2,780 $ 6,637 $ (2,535) $ 1,862 $ \u2014 $ 5,963 Depreciation and impairment of Equipment on operating leases, net \u2014 \u2014 4,942 \u2014 4,942 \u2014 \u2014 4,844 \u2014 4,844 Depreciation, amortization and impairment charges on Property, net 9,584 29 34 \u2014 9,646 6,549 958 38 \u2014 7,545 Foreign currency remeasurement and transaction (gains) losses 353 \u2014 10 \u2014 363 (314) \u2014 (7) \u2014 (321) Undistributed earnings and impairment of nonconsolidated affiliates, net 1,662 \u2014 123 \u2014 1,785 3,708 \u2014 411 \u2014 4,118 Pension contributions and OPEB payments (537) \u2014 (1) \u2014 (539) (1,517) \u2014 \u2014 \u2014 (1,518) Pension and OPEB (income) expense, net 27 \u2014 2 \u2014 29 88 \u2014 2 \u2014 89 Provision (benefit) for deferred taxes (1,715) \u2014 466 \u2014 (1,249) 966 (656) 1,059 \u2014 1,368 Change in other operating assets and liabilities(a) 5,748 (557) 1,243 2,623 9,056 4,978 693 (896) (6,304) (1,529) Other operating activities(c) 2,532 (144) (840) (1,495) 54 2,846 (693) (883) (1,703) (433) Net cash provided by (used in) operating activities 18,733 (973) 7,979 1,128 26,867 23,939 (2,233) 6,429 (8,006) 20,129 Cash flows from investing activities Expenditures for property (9,241) (10) (51) \u2014 (9,303) (10,711) (7) (24) (88) (10,830) Available-for-sale marketable securities, acquisitions (2,303) \u2014 (37) \u2014 (2,339) (3,986) \u2014 \u2014 \u2014 (3,986) Available-for-sale marketable securities, liquidations 3,010 \u2014 2 \u2014 3,012 4,331 \u2014 \u2014 \u2014 4,331 Purchases of finance receivables(a) \u2014 \u2014 (36,752) 7 (36,745) \u2014 \u2014 (42,792) 6,444 (36,348) Principal collections and recoveries on finance receivable(a)(b) \u2014 \u2014 38,004 (2,894) 35,109 \u2014 \u2014 31,783 1 31,784 Proceeds from sale of finance receivables \u2014 \u2014 2,005 \u2014 2,005 \u2014 \u2014 \u2014 \u2014 \u2014 Purchases of leased vehicles \u2014 \u2014 (15,793) \u2014 (15,793) \u2014 \u2014 (15,279) \u2014 (15,279) Proceeds from termination of leased vehicles \u2014 \u2014 10,095 \u2014 10,095 \u2014 \u2014 10,892 \u2014 10,892 Other investing activities(b) (3,229) \u2014 \u2014 1,054 (2,175) (2,448) \u2014 2 1,365 (1,081) Net cash provided by (used in) investing activities (11,763) (10) (2,527) (1,834) (16,134) (12,813) (7) (15,418) 7,721 (20,517) Cash flows from financing activities Net increase (decrease) in short-term debt (11) \u2014 (301) \u2014 (312) 16 \u2014 112 \u2014 128 Proceeds from issuance of debt (original maturities greater than three months)(b) 2,078 723 41,135 (746) 43,191 83 1,118 53,398 (1,165) 53,435 Payments on debt (original maturities greater than three months) (1,923) (6) (43,662) \u2014 (45,591) (919) (8) (42,478) 6 (43,399) Payments to purchase common stock (6,012) \u2014 \u2014 \u2014 (6,012) (7,064) \u2014 \u2014 \u2014 (7,064) Issuance (redemption) of subsidiary stock(b) \u2014 \u2014 \u2014 (29) (29) \u2014 255 \u2014 (356) (101) Dividends paid(c) (538) \u2014 (1,599) 1,480 (657) (534) \u2014 (1,919) 1,800 (653) Other financing activities (42) \u2014 (138) \u2014 (180) (82) (161) (164) \u2014 (407) Net cash provided by (used in) financing activities (6,449) 717 (4,563) 705 (9,590) (8,501) 1,204 8,950 285 1,938 Effect of exchange rate changes on cash, cash equivalents, and restricted cash 103 1 73 \u2014 177 (374) \u2014 (128) \u2014 (503) Net increase (decrease) in cash, cash equivalents, and restricted cash 624 (266) 962 \u2014 1,320 2,251 (1,037) (167) \u2014 1,047 Cash, cash equivalents, and restricted cash at beginning of period 14,561 322 8,081 \u2014 22,964 12,310 1,359 8,249 \u2014 21,917 Cash, cash equivalents, and restricted cash at end of period $ 15,185 $ 56 $ 9,043 $ \u2014 $ 24,284 $ 14,561 $ 322 $ 8,081 $ \u2014 $ 22,964",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Year Ended December 31, 2025 Year Ended December 31, 2024 Automotive Cruise GM Financial Reclassifications/Eliminations Combined Automotive Cruise GM Financial Reclassifications/Eliminations Combined Cash flows from operating activities Net income (loss) $ 1,081 $ (302) $ 2,00...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "(a) Includes eliminations of $2.6 billion and $6.4 billion in the years ended December 31, 2025 and 2024 primarily driven by purchases/collections of wholesale finance receivables resulting from vehicles sold by GM to dealers that have arranged their inventory floor plan financing through GM Financial.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "(a) Includes eliminations of $2.6 billion and $6.4 billion in the years ended December 31, 2025 and 2024 primarily driven by purchases/collections of wholesale finance receivables resulting from vehicles sold by GM to dealers that have arranged their inventory floor plan finan...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "(b) Eliminations include intercompany funding activity from Automotive and GM Financial to Cruise in the years ended December 31, 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "(b) Eliminations include intercompany funding activity from Automotive and GM Financial to Cruise in the years ended December 31, 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "(c) Eliminations include dividends issued by GM Financial to Automotive in the years ended December 31, 2025 and 2024.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "(c) Eliminations include dividends issued by GM Financial to Automotive in the years ended December 31, 2025 and 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "other",
+      "claim": "Note: Certain intercompany transactions that are eliminated in consolidation are presented on a net basis.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Note: Certain intercompany transactions that are eliminated in consolidation are presented on a net basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "revenue",
+      "claim": "GMNA GMI Corporate Eliminations Total Automotive Cruise GM Financial Reclassifications/Eliminations Total Three Months Ended December 31, 2025 Net sales and revenue $ 36,893 $ 4,029 $ 65 $ (1) $ 40,986 $ \u2014 $ 4,304 $ (3) $ 45,287 Expenditures for property $ 2,958 $ 183 $ 47 $ \u2014 $ 3,188 $ 8 $ 25 $ \u2014 $ 3,220 Depreciation and amortization $ 1,556 $ 119 $ 4 $ \u2014 $ 1,679 $ \u2014 $ 1,275 $ \u2014 $ 2,954 Impairment charges $ 1,527 $ 20 $ \u2014 $ \u2014 $ 1,547 $ \u2014 $ \u2014 $ \u2014 $ 1,547 Equity income (loss)(a)(b) $ 89 $ (514) $ (77) $ \u2014 $ (502) $ \u2014 $ 2 $ \u2014 $ (500) GMNA GMI Corporate Eliminations Total Automotive Cruise GM Financial Reclassifications/Eliminations Total Three Months Ended December 31, 2024 Net sales and revenue $ 39,528 $ 3,994 $ 76 $ \u2014 $ 43,598 $ 181 $ 4,114 $ (191) $ 47,702 Expenditures for property $ 3,046 $ 157 $ 12 $ \u2014 $ 3,215 $ 2 $ 8 $ 7 $ 3,233 Depreciation and amortization $ 1,548 $ 103 $ 27 $ \u2014 $ 1,678 $ 7 $ 1,221 $ \u2014 $ 2,905 Impairment charges $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 328 $ \u2014 $ \u2014 $ 328 Equity income (loss)(a)(b) $ 190 $ (4,057) $ \u2014 $ \u2014 $ (3,867) $ \u2014 $ (311) $ \u2014 $ (4,178) GMNA GMI Corporate Eliminations Total Automotive Cruise GM Financial Reclassifications/Eliminations Total Year Ended December 31, 2025 Net sales and revenue $ 154,317 $ 13,427 $ 227 $ (1) $ 167,970 $ 1 $ 17,060 $ (12) $ 185,019 Expenditures for property $ 8,687 $ 457 $ 97 $ \u2014 $ 9,241 $ 10 $ 51 $ \u2014 $ 9,303 Depreciation and amortization $ 6,489 $ 466 $ 43 $ \u2014 $ 6,999 $ 5 $ 4,976 $ \u2014 $ 11,980 Impairment charges $ 2,571 $ 38 $ \u2014 $ \u2014 $ 2,609 $ \u2014 $ \u2014 $ \u2014 $ 2,609 Equity income (loss)(a)(b) $ 558 $ (306) $ (108) $ \u2014 $ 145 $ \u2014 $ 39 $ \u2014 $ 184 GMNA GMI Corporate Eliminations Total Automotive Cruise GM Financial Reclassifications/Eliminations Total Year Ended December 31, 2024 Net sales and revenue $ 157,509 $ 13,890 $ 206 $ \u2014 $ 171,605 $ 257 $ 15,875 $ (296) $ 187,442 Expenditures for property $ 10,266 $ 415 $ 30 $ \u2014 $ 10,711 $ 7 $ 24 $ 88 $ 10,830 Depreciation and amortization $ 5,963 $ 506 $ 80 $ \u2014 $ 6,548 $ 25 $ 4,883 $ \u2014 $ 11,456 Impairment charges $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ \u2014 $ 933 $ \u2014 $ \u2014 $ 934 Equity income (loss)(a)(b) $ 955 $ (4,400) $ \u2014 $ \u2014 $ (3,445) $ \u2014 $ (256) $ \u2014 $ (3,701)",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "GMNA GMI Corporate Eliminations Total Automotive Cruise GM Financial Reclassifications/Eliminations Total Three Months Ended December 31, 2025 Net sales and revenue $ 36,893 $ 4,029 $ 65 $ (1) $ 40,986 $ \u2014 $ 4,304 $ (3) $ 45,287 Expenditures for property $ 2,958 $ 183 $ 47 $ \u2014...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "(a) Includes Automotive China joi nt ventures (Automotive China JVs) equity income (loss) of $(0.5) billion and $(0.3) billion in the three months and year ended December 31, 2025 and $(4.1) billion and $(4.4) billion in the three months and year ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "(a) Includes Automotive China joi nt ventures (Automotive China JVs) equity income (loss) of $(0.5) billion and $(0.3) billion in the three months and year ended December 31, 2025 and $(4.1) billion and $(4.4) billion in the three months and year ended December 31, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "(b) Equity income (loss) related to Ultium Cells Holdings LLC, an equally owned joint venture with LG Energy Solution, is presented in Automotive and other cost of sales as this entity is integral to the operations of our business by providing battery cells for our electric vehicles.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "(b) Equity income (loss) related to Ultium Cells Holdings LLC, an equally owned joint venture with LG Energy Solution, is presented in Automotive and other cost of sales as this entity is integral to the operations of our business by providing battery cells for our electric ve...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "earnings_or_eps",
+      "claim": "General Motors Co Company (GM) uses both generally accepted accounting principles (GAAP) and non-GAAP financial measures for operational and financial decision making, and to assess Company and segment business performance.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "General Motors Co Company (GM) uses both generally accepted accounting principles (GAAP) and non-GAAP financial measures for operational and financial decision making, and to assess Company and segment business performance. Our non-GAAP measures include: earnings before intere...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "other",
+      "claim": "These non-GAAP measures allow management and investors to view operating trends, perform analytical comparisons, and benchmark performance between periods and among geographic regions to understand operating performance without regard to items we do not consider a component of our core operating performance.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "These non-GAAP measures allow management and investors to view operating trends, perform analytical comparisons, and benchmark performance between periods and among geographic regions to understand operating performance without regard to items we do not consider a component of...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "earnings_or_eps",
+      "claim": "EBIT-adjusted (Most comparable GAAP measure: Net income attributable to stockholders) EBIT-adjusted is presented net of noncontrolling interests and is used by management and can be used by investors to review our consolidated operating results because it excludes automotive interest income, automotive interest expense, and income taxes as well as certain additional adjustments that are not considered part of our core operations.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "EBIT-adjusted (Most comparable GAAP measure: Net income attributable to stockholders) EBIT-adjusted is presented net of noncontrolling interests and is used by management and can be used by investors to review our consolidated operating results because it excludes automotive i...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "earnings_or_eps",
+      "claim": "EPS-diluted-adjusted (Most comparable GAAP measure: Diluted earnings per common share) EPS-diluted-adjusted is used by management and can be used by investors to review our consolidated diluted EPS results on a consistent basis.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "EPS-diluted-adjusted (Most comparable GAAP measure: Diluted earnings per common share) EPS-diluted-adjusted is used by management and can be used by investors to review our consolidated diluted EPS results on a consistent basis. EPS-diluted-adjusted is calculated as net income...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "guidance",
+      "claim": "ETR-adjusted (Most comparable GAAP measure: Effective tax rate) ETR-adjusted is used by management and can be used by investors to review the consolidated effective tax rate for our core operations on a consistent basis.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "ETR-adjusted (Most comparable GAAP measure: Effective tax rate) ETR-adjusted is used by management and can be used by investors to review the consolidated effective tax rate for our core operations on a consistent basis. ETR-adjusted is calculated as Income tax expense less th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "earnings_or_eps",
+      "claim": "ROIC-adjusted (Most comparable GAAP measure: Return on equity) ROIC-adjusted is used by management and can be used by investors to review our investment and capital allocation decisions.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "ROIC-adjusted (Most comparable GAAP measure: Return on equity) ROIC-adjusted is used by management and can be used by investors to review our investment and capital allocation decisions. We define ROIC-adjusted as EBIT-adjusted for the trailing four quarters divided by ROIC-ad...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "costs_or_expenses",
+      "claim": "Adjusted automotive free cash flow (Most comparable GAAP measure: Net automotive cash provided by operating activities) Adjusted automotive free cash flow is used by management and can be used by investors to review the liquidity of our automotive operations and to measure and monitor our performance against our capital allocation program and evaluate our automotive liquidity against the substantial cash requirements of our automotive operations.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Adjusted automotive free cash flow (Most comparable GAAP measure: Net automotive cash provided by operating activities) Adjusted automotive free cash flow is used by management and can be used by investors to review the liquidity of our automotive operations and to measure and...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "earnings_or_eps",
+      "claim": "The following table reconciles Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) (dollars in millions):",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "The following table reconciles Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) (dollars in millions):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net income (loss) attributable to stockholders(a) $ (3,310) $ (2,961) $ 2,697 $ 6,008 Income tax expense (989) 318 338 2,556 Automotive interest expense 167 215 727 846 Automotive interest income (242) (279) (854) (967) Adjustments EV strategic realignment(b) 5,992 \u2014 7,914 \u2014 China restructuring actions(c) 702 4,010 842 4,010 Legal matters(d) 357 \u2014 657 \u2014 Cruise restructuring(e) 133 520 223 1,103 Separation costs(f) \u2014 10 87 200 GMI exit costs(g) 28 4 61 150 Headquarters relocation(h) 5 30 55 64 Buick dealer strategy(i) \u2014 643 \u2014 964 Total adjustments 7,217 5,217 9,839 6,491 EBIT-adjusted 2,843 2,509 12,747 14,934 Operating segments GM North America (GMNA) 2,244 2,274 10,452 14,528 GM International (GMI) 278 221 737 303 Cruise \u2014 (418) (273) (1,701) GM Financial(j) 609 719 2,802 2,965 Total operating segments 3,131 2,796 13,718 16,095 Corporate and eliminations(k) (288) (287) (972) (1,161) EBIT-adjusted $ 2,843 $ 2,509 $ 12,747 $ 14,934",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net income (loss) attributable to stockholders(a) $ (3,310) $ (2,961) $ 2,697 $ 6,008 Income tax expense (989) 318 338 2,556 Automotive interest expense 167 215 727 846 Autom...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "(a) Net of net loss (income) attributable to noncontrolling interests.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "(a) Net of net loss (income) attributable to noncontrolling interests.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "(b) These adjustments were excluded because they relate to our strategic realignment of our EV capacity and manufacturing footprint.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "(b) These adjustments were excluded because they relate to our strategic realignment of our EV capacity and manufacturing footprint. These adjustments include $0.3 billion that was recorded in the three months ended June 30, 2025 associated with Ultium's strategic realignment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "costs_or_expenses",
+      "claim": "(c) These adjustments were excluded because they relate to restructuring activities associated with our operations in China, including an other-than-temporary impairment and restructuring charges recorded in equity earnings associated with our Automotive China JVs.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "(c) These adjustments were excluded because they relate to restructuring activities associated with our operations in China, including an other-than-temporary impairment and restructuring charges recorded in equity earnings associated with our Automotive China JVs.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "(d) These adjustments were excluded because they relate to investigations and litigation associated with our former OnStar Smart Driver product and an indemnification charge for a European-wide Takata Corporation related recall.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "(d) These adjustments were excluded because they relate to investigations and litigation associated with our former OnStar Smart Driver product and an indemnification charge for a European-wide Takata Corporation related recall.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "costs_or_expenses",
+      "claim": "(e) These adjustments were excluded because they relate to restructuring charges resulting from the plan to combine the Cruise and GM technical efforts to advance autonomous and assisted driving, the indefinite delay of the Cruise Origin, and the voluntary pausing in 2023 of Cruise's driverless, supervised, and manual AV operations in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "(e) These adjustments were excluded because they relate to restructuring charges resulting from the plan to combine the Cruise and GM technical efforts to advance autonomous and assisted driving, the indefinite delay of the Cruise Origin, and the voluntary pausing in 2023 of C...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "(f) These adjustments were excluded because they relate to employee separation charges including the acceleration of attrition as part of the cost reduction program announced in January 2023, primarily in the U.S.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "(f) These adjustments were excluded because they relate to employee separation charges including the acceleration of attrition as part of the cost reduction program announced in January 2023, primarily in the U.S.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "other",
+      "claim": "(g) T hese adjustments were excluded because they primarily relate to the wind down of our manufacturing operations in Colombia and Ecuador and an asset sale resulting from our strategic decision in 2020 to exit India .",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(g) T hese adjustments were excluded because they primarily relate to the wind down of our manufacturing operations in Colombia and Ecuador and an asset sale resulting from our strategic decision in 2020 to exit India .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "(h) These adjustments were excluded because they relate to the GM headquarters relocation, primarily consisting of accelerated depreciation and other relocation expenditures.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "(h) These adjustments were excluded because they relate to the GM headquarters relocation, primarily consisting of accelerated depreciation and other relocation expenditures.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "(i) These adjustments were excluded because they relate to strategic activities to transition certain Buick dealers out of our dealer network as part of Buick\u2019s EV strategy.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(i) These adjustments were excluded because they relate to strategic activities to transition certain Buick dealers out of our dealer network as part of Buick\u2019s EV strategy.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "(j) GM Financial amounts represent EBT-adjusted.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(j) GM Financial amounts represent EBT-adjusted.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "(k) GM's automotive interest income and interest expense, corporate expenditures, legacy costs from the Opel/Vauxhall Business (primarily pension costs), and certain revenues and expenses that are not part of a reportable segment are recorded centrally in Corporate.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(k) GM's automotive interest income and interest expense, corporate expenditures, legacy costs from the Opel/Vauxhall Business (primarily pension costs), and certain revenues and expenses that are not part of a reportable segment are recorded centrally in Corporate.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Amount Per Share Amount Per Share Amount Per Share Amount Per Share Diluted earnings (loss) per common share $ (3,330) $ (3.60) $ (1,725) $ (1.64) $ 3,180 $ 3.27 $ 7,189 $ 6.37 Impact of including dilutive securities(a) 0.09 0.03 \u2014 \u2014 Adjustments(b) 7,217 7.60 5,217 4.85 9,839 10.12 6,491 5.75 Tax effect on adjustments(c) (1,509) (1.59) (187) (0.17) (2,115) (2.17) (477) (0.42) Return from preferred shareholders(d) \u2014 \u2014 (1,239) (1.15) (593) (0.61) (1,239) (1.10) EPS-diluted-adjusted $ 2,378 $ 2.51 $ 2,066 $ 1.92 $ 10,311 $ 10.60 $ 11,963 $ 10.60",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Amount Per Share Amount Per Share Amount Per Share Amount Per Share Diluted earnings (loss) per common share $ (3,330) $ (3.60) $ (1,725) $ (1.64) $ 3,180 $ 3.27 $ 7,189 $ 6....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "earnings_or_eps",
+      "claim": "(a) Represents the dilutive effect of awards under stock incentive plans.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "(a) Represents the dilutive effect of awards under stock incentive plans. Refer to the table below for the effect on weighted-average common shares outstanding \u2014 diluted-adjusted.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "earnings_or_eps",
+      "claim": "(b) Refer to the reconciliation of Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) for adjustment details.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(b) Refer to the reconciliation of Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) for adjustment details.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "earnings_or_eps",
+      "claim": "(c) The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "(c) The tax effect of each adjustment is determined based on the tax laws and valuation allowance status of the jurisdiction to which the adjustment relates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "earnings_or_eps",
+      "claim": "(d) This adjustment consists of a return from the preferred shareholders related to the redemption of Cruise preferred shares from noncontrolling interest holders in the year ended December 31, 2025 and the three months and year ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "(d) This adjustment consists of a return from the preferred shareholders related to the redemption of Cruise preferred shares from noncontrolling interest holders in the year ended December 31, 2025 and the three months and year ended December 31, 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "earnings_or_eps",
+      "claim": "The following table reconciles weighted-average common shares outstanding \u2014 diluted to weighted-average common shares outstanding \u2014 diluted-adjusted used in the calculation of EPS-diluted-adjusted (shares in millions):",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "The following table reconciles weighted-average common shares outstanding \u2014 diluted to weighted-average common shares outstanding \u2014 diluted-adjusted used in the calculation of EPS-diluted-adjusted (shares in millions):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Weighted-average common shares outstanding \u2014 diluted 925 1,055 973 1,129 Dilutive effect of awards under stock incentive plans 24 20 \u2014 \u2014 Weighted-average common shares outstanding \u2014 diluted-adjusted 949 1,075 973 1,129",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Weighted-average common shares outstanding \u2014 diluted 925 1,055 973 1,129 Dilutive effect of awards under stock incentive plans 24 20 \u2014 \u2014 Weighted-average common shares outsta...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "costs_or_expenses",
+      "claim": "Years Ended December 31, 2025 2024 Income before income taxes Income tax expense Effective tax rate Income before income taxes Income tax expense Effective tax rate Effective tax rate $ 3,117 $ 338 10.8 % $ 8,519 $ 2,556 30.0 % Adjustments(a) 9,839 2,115 6,564 477 ETR-adjusted $ 12,956 $ 2,453 18.9 % $ 15,083 $ 3,033 20.1 %",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Years Ended December 31, 2025 2024 Income before income taxes Income tax expense Effective tax rate Income before income taxes Income tax expense Effective tax rate Effective tax rate $ 3,117 $ 338 10.8 % $ 8,519 $ 2,556 30.0 % Adjustments(a) 9,839 2,115 6,564 477 ETR-adjusted...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "earnings_or_eps",
+      "claim": "(a) Refer to the reconciliation of Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) for adjustment details.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(a) Refer to the reconciliation of Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) for adjustment details. These adjustments include Net income attributable to noncontrolling interests where applicable. The tax effect of each adjustmen...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "earnings_or_eps",
+      "claim": "We define return on equity (ROE) as Net income (loss) attributable to stockholders for the trailing four quarters divided by average equity for the same period.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "We define return on equity (ROE) as Net income (loss) attributable to stockholders for the trailing four quarters divided by average equity for the same period. Management uses average equity to provide comparable amounts in the calculation of ROE. The following table summariz...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "earnings_or_eps",
+      "claim": "Years Ended December 31, 2025 2024 Net income attributable to stockholders $ 2.7 $ 6.0 Average equity(a) $ 64.6 $ 68.9 ROE 4.2 % 8.7 %",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "Years Ended December 31, 2025 2024 Net income attributable to stockholders $ 2.7 $ 6.0 Average equity(a) $ 64.6 $ 68.9 ROE 4.2 % 8.7 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "earnings_or_eps",
+      "claim": "(a) Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in Net income attributable to stockholders.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "(a) Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in Net income attributable to stockholders.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "earnings_or_eps",
+      "claim": "Years Ended December 31, 2025 2024 EBIT-adjusted(a) $ 12.7 $ 14.9 Average equity(b) $ 64.6 $ 68.9 Add: Average automotive debt and interest liabilities (excluding finance leases) 16.2 16.1 Add: Average automotive net pension and OPEB liability 8.5 9.4 Less: Average automotive net income tax asset (23.2) (22.7) ROIC-adjusted average net assets $ 66.0 $ 71.8 ROIC-adjusted 19.3 % 20.8 %",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Years Ended December 31, 2025 2024 EBIT-adjusted(a) $ 12.7 $ 14.9 Average equity(b) $ 64.6 $ 68.9 Add: Average automotive debt and interest liabilities (excluding finance leases) 16.2 16.1 Add: Average automotive net pension and OPEB liability 8.5 9.4 Less: Average automotive...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "(a) Refer to the reconciliation of Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) for adjustment details.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "(a) Refer to the reconciliation of Net income (loss) attributable to stockholders to EBIT-adjusted and segment profit (loss) for adjustment details.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "(b) Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in EBIT-adjusted.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "(b) Includes equity of noncontrolling interests where the corresponding earnings (loss) are included in EBIT-adjusted.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "balance_sheet_or_cash",
+      "claim": "The following table reconciles Net automotive cash provided by operating activities to adjusted automotive free cash flow (dollars in millions):",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "The following table reconciles Net automotive cash provided by operating activities to adjusted automotive free cash flow (dollars in millions):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net automotive cash provided by operating activities $ 5,606 $ 4,765 $ 18,733 $ 23,939 Less: Capital expenditures (3,188) (3,215) (9,241) (10,711) Add: Buick dealer strategy 10 154 718 530 Add: EV strategic realignment 401 \u2014 401 \u2014 Add: China restructuring actions 207 \u2014 217 \u2014 Add: Separation costs \u2014 89 139 221 Add: GMI exit costs \u2014 30 12 65 Less: Ultium strategic realignment (281) \u2014 (384) \u2014 Adjusted automotive free cash flow $ 2,755 $ 1,823 $ 10,595 $ 14,045",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net automotive cash provided by operating activities $ 5,606 $ 4,765 $ 18,733 $ 23,939 Less: Capital expenditures (3,188) (3,215) (9,241) (10,711) Add: Buick dealer strategy...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "revenue",
+      "claim": "GM presents both wholesale and total vehicle sales data to assist in the analysis of our revenue and market share.",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "GM presents both wholesale and total vehicle sales data to assist in the analysis of our revenue and market share. Wholesale vehicle sales data consists of sales to GM's dealers and distributors, as well as sales to the U.S. Government, and excludes vehicles sold by our joint...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "other",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 GMNA 780 876 3,296 3,464 GMI 157 163 503 547 Total 937 1,039 3,799 4,010",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 GMNA 780 876 3,296 3,464 GMI 157 163 503 547 Total 937 1,039 3,799 4,010",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "revenue",
+      "claim": "Total vehicle sales data represents: (1) retail sales (i.e., sales to consumers who purchase new vehicles from dealers or distributors); (2) fleet sales (i.e., sales to large and small businesses, governments, and daily rental car companies); and (3) certain vehicles used by dealers in their business, including but not limited to courtesy transportation vehicles previously used by dealers that were sold to the end consumer.",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "Total vehicle sales data represents: (1) retail sales (i.e., sales to consumers who purchase new vehicles from dealers or distributors); (2) fleet sales (i.e., sales to large and small businesses, governments, and daily rental car companies); and (3) certain vehicles used by d...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "revenue",
+      "claim": "The following table summarizes industry and GM total vehicle sales and GM's related competitive position by geographic region (vehicles in thousands):",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "The following table summarizes industry and GM total vehicle sales and GM's related competitive position by geographic region (vehicles in thousands):",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "other",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Industry GM Market Share Industry GM Market Share Industry GM Market Share Industry GM Market Share North America United States 4,097 703 17.2 % 4,329 755 17.4 % 16,631 2,853 17.2 % 16,356 2,705 16.5 % Other 1,020 124 12.2 % 1,020 134 13.2 % 4,027 507 12.6 % 3,904 510 13.1 % Total North America 5,117 827 16.2 % 5,349 889 16.6 % 20,658 3,361 16.3 % 20,260 3,215 15.9 % Asia/Pacific, Middle East, and Africa China(a) 7,079 521 7.4 % 8,284 599 7.2 % 26,412 1,880 7.1 % 26,408 1,839 7.0 % Other 5,701 169 3.0 % 5,610 139 2.5 % 22,368 538 2.4 % 21,876 522 2.4 % Total Asia/Pacific, Middle East, and Africa 12,780 690 5.4 % 13,894 738 5.3 % 48,780 2,418 5.0 % 48,284 2,360 4.9 % South America Brazil 779 84 10.8 % 776 92 11.9 % 2,688 276 10.3 % 2,634 315 12.0 % Other 411 32 7.7 % 356 27 7.7 % 1,679 126 7.5 % 1,347 109 8.1 % Total South America 1,190 116 9.7 % 1,132 119 10.5 % 4,367 403 9.2 % 3,981 424 10.7 % Total in GM markets 19,087 1,633 8.6 % 20,375 1,747 8.6 % 73,805 6,182 8.4 % 72,524 6,000 8.3 % Total Europe 4,312 \u2014 \u2014 % 4,224 1 \u2014 % 16,925 2 \u2014 % 16,765 2 \u2014 % Total Worldwide(b) 23,399 1,633 7.0 % 24,599 1,747 7.1 % 90,730 6,184 6.8 % 89,289 6,003 6.7 % United States Cars 637 13 2.1 % 739 37 5.0 % 2,719 57 2.1 % 2,946 178 6.0 % Trucks 1,178 402 34.1 % 1,199 396 33.1 % 4,592 1,517 33.0 % 4,336 1,383 31.9 % Crossovers 2,282 288 12.6 % 2,392 322 13.5 % 9,320 1,280 13.7 % 9,074 1,144 12.6 % Total United States 4,097 703 17.2 % 4,329 755 17.4 % 16,631 2,853 17.2 % 16,356 2,705 16.5 % China(a) SGMS 131 152 512 524 SGMW 390 447 1,368 1,315 Total 7,079 521 7.4 % 8,284 599 7.2 % 26,412 1,880 7.1 % 26,408 1,839 7.0 %",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Industry GM Market Share Industry GM Market Share Industry GM Market Share Industry GM Market Share North America United States 4,097 703 17.2 % 4,329 755 17.4 % 16,631 2,853...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "revenue",
+      "claim": "(a) Includes sales by the Automotive China JVs: SAIC General Motors Co Sales Co., Ltd.",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "(a) Includes sales by the Automotive China JVs: SAIC General Motors Co Sales Co., Ltd. (SGMS) and SAIC GM Wuling Automobile Co., Ltd. (SGMW).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "revenue",
+      "claim": "(b) Cuba, Iran, North Korea, and Sudan have been subject to broad economic sanctions.",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "(b) Cuba, Iran, North Korea, and Sudan have been subject to broad economic sanctions. Accordingly, these countries are excluded from industry sales data and corresponding calculation of market share.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "revenue",
+      "claim": "As discussed above, total vehicle sales and market share data provided in the table above includes fleet vehicles.",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "As discussed above, total vehicle sales and market share data provided in the table above includes fleet vehicles. Certain fleet transactions, particularly sales to daily rental car companies, are generally less profitable than retail sales to end customers. The following tabl...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "revenue",
+      "claim": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 GMNA 170 168 667 615 GMI 150 127 427 401 Total fleet sales 320 295 1,094 1,016 Fleet sales as a percentage of total vehicle sales 19.6 % 16.9 % 17.7 % 16.9 % North America capacity two-shift utilization 104.7 % 103.5 % 113.7 % 105.7 %",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 GMNA 170 168 667 615 GMI 150 127 427 401 Total fleet sales 320 295 1,094 1,016 Fleet sales as a percentage of total vehicle sales 19.6 % 16.9 % 17.7 % 16.9 % North America ca...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "revenue",
+      "claim": "Revenues reported for FY2025: 185019000000",
+      "value": 185019000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "Revenues reported for FY2025: 185019000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for FY2025: 167971000000",
+      "value": 167971000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for FY2025: 167971000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for FY2025: 2909000000",
+      "value": 2909000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for FY2025: 2909000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "other",
+      "claim": "OperatingExpenses reported for FY2025: 182110000000",
+      "value": 182110000000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "OperatingExpenses reported for FY2025: 182110000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for FY2025: 2697000000",
+      "value": 2697000000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "NetIncomeLoss reported for FY2025: 2697000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "other",
+      "claim": "ProfitLoss reported for FY2025: 2780000000",
+      "value": 2780000000,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "ProfitLoss reported for FY2025: 2780000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for FY2025: 3.27",
+      "value": 3.27,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for FY2025: 3.27",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for FY2025: 3.33",
+      "value": 3.33,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for FY2025: 3.33",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 20945000000",
+      "value": 20945000000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 20945000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_010",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 26867000000",
+      "value": 26867000000,
+      "source_ids": [
+        "X010"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 26867000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=-0.017199, ret_20d=-0.041626, market_ret_20d=0.003404",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=-0.017199, ret_20d=-0.041626, market_ret_20d=0.003404",
+      "support_label": "supported"
+    }
+  ]
+}

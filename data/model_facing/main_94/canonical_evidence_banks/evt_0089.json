@@ -1,0 +1,402 @@
+{
+  "event_id": "evt_0089",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "FRANKLIN ELECTRIC CO INC",
+  "ticker": "FELE",
+  "company_alias": "FRANKLIN ELECTRIC CO INC",
+  "masked_company": "Company BD",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-17",
+  "accepted_at_et": "2026-02-17T08:00:14-05:00",
+  "source_packet_path": "source_packets/evt_0089.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "\u2022 Consolidated net sales of $506.9 million, an increase of 4% to the prior year",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Consolidated net sales of $506.9 million, an increase of 4% to the prior year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\u2022 Net sales increased across all three segments; 4% in Water Systems, 9% in Energy Systems, and 3% in Distribution",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Net sales increased across all three segments; 4% in Water Systems, 9% in Energy Systems, and 3% in Distribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "margins",
+      "claim": "\u2022 Operating income was $51.6 million, an increase of 20% to the prior year, with operating margin of 10.2%",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Operating income was $51.6 million, an increase of 20% to the prior year, with operating margin of 10.2%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 GAAP fully diluted earnings per share (EPS) was $0.87, an increase of 21 percent",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 GAAP fully diluted earnings per share (EPS) was $0.87, an increase of 21 percent",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u2022 Consolidated net sales of $2.1 billion, an increase of 5% to the prior year",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Consolidated net sales of $2.1 billion, an increase of 5% to the prior year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u2022 Net sales increased across all three segments; 6% in Water Systems, 9% in Energy Systems, and 2% in Distribution",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Net sales increased across all three segments; 6% in Water Systems, 9% in Energy Systems, and 2% in Distribution",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "margins",
+      "claim": "\u2022 Operating income was $269.0 million, an increase of 10% to the prior year, with operating margin of 12.6%",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Operating income was $269.0 million, an increase of 10% to the prior year, with operating margin of 12.6%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 The company terminated its US Pension Plan for a pre-tax settlement charge of $54.9 million ($41.5 million net of tax) and a full year EPS impact of approximately $0.91 per share net of tax",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 The company terminated its US Pension Plan for a pre-tax settlement charge of $54.9 million ($41.5 million net of tax) and a full year EPS impact of approximately $0.91 per share net of tax",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 GAAP fully diluted earnings per share (EPS) was $3.22; Adjusted fully diluted EPS was $4.14",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 GAAP fully diluted earnings per share (EPS) was $3.22; Adjusted fully diluted EPS was $4.14",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "Fort Wayne, IN \u2013 2026-02-17T08:00:14-05:00 \u2013 FRANKLIN ELECTRIC CO INC.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Fort Wayne, IN \u2013 2026-02-17T08:00:14-05:00 \u2013 FRANKLIN ELECTRIC CO INC. today announced its fourth quarter and full year financial results for fiscal year 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "revenue",
+      "claim": "Fourth quarter 2025 net sales were $506.9 million compared to fourth quarter 2024 net sales of $485.7 million.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Fourth quarter 2025 net sales were $506.9 million compared to fourth quarter 2024 net sales of $485.7 million. Fourth quarter 2025 operating income was $51.6 million, compared to fourth quarter 2024 operating income of $43.0 million. Fourth quarter 2025 diluted EPS was $0.87,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "revenue",
+      "claim": "Full year 2025 net sales were $2.1 billion compared to full year 2024 net sales of $2.0 billion.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Full year 2025 net sales were $2.1 billion compared to full year 2024 net sales of $2.0 billion. Full year 2025 operating income was $269.0 million, compared to full year 2024 operating income of $243.6 million. Full year 2025 diluted EPS was $3.22, compared to full year 2024...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "margins",
+      "claim": "\u201cThe fourth quarter marked a solid close to a strong year of growth, expanded margins, and strong overall execution.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u201cThe fourth quarter marked a solid close to a strong year of growth, expanded margins, and strong overall execution. For the full year, results were supported by effective pricing actions, transformation initiatives, and continued progress on our strategic investments in innov...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "margins",
+      "claim": "\u201cWhile macroeconomic conditions remain dynamic, we enter the new year with healthy order trends and a solid balance sheet with the flexibility to fuel our balanced approach to capital allocation.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u201cWhile macroeconomic conditions remain dynamic, we enter the new year with healthy order trends and a solid balance sheet with the flexibility to fuel our balanced approach to capital allocation. As we look ahead, our focus remains on driving profitable growth, expanding margi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "Water Systems net sales were $291.6 million in the fourth quarter, an increase of $12.0 million or 4 percent compared to the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Water Systems net sales were $291.6 million in the fourth quarter, an increase of $12.0 million or 4 percent compared to the fourth quarter of 2024. Results were driven by the incremental sales impact of recent acquisitions, price realization and favorable foreign exchange, pa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "Distribution net sales were $161.6 million, an increase of $4.4 million or 3 percent compared to the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Distribution net sales were $161.6 million, an increase of $4.4 million or 3 percent compared to the fourth quarter of 2024. Sales increases were driven by higher volumes and price realization. The Distribution segment operating income in the fourth quarter 2025 was $5.3 milli...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "revenue",
+      "claim": "Energy Systems net sales were $74.7 million in the fourth quarter 2025, an increase of $5.9 million or 9 percent compared to the fourth quarter 2024.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Energy Systems net sales were $74.7 million in the fourth quarter 2025, an increase of $5.9 million or 9 percent compared to the fourth quarter 2024. Sales increases were driven by higher volumes and price realization. Energy Systems operating income in the fourth quarter of 2...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "balance_sheet_or_cash",
+      "claim": "The Company ended 2025 with a cash balance of $99.7 million, a decrease of $120.9 million compared to the end of 2024.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "The Company ended 2025 with a cash balance of $99.7 million, a decrease of $120.9 million compared to the end of 2024. Net cash flows from operating activities for 2025 were $238.9 million versus $261.4 million in the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "The Company expects its guidance for full year 2026 sales to be in the range of $2.17 billion to $2.24 billion and full year 2026 Adjusted Diluted EPS to be in the range of $4.40 to $4.60.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "The Company expects its guidance for full year 2026 sales to be in the range of $2.17 billion to $2.24 billion and full year 2026 Adjusted Diluted EPS to be in the range of $4.40 to $4.60.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "guidance",
+      "claim": "https://edge.media-server.com/mmc/p/twst9mwq",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "https://edge.media-server.com/mmc/p/twst9mwq",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "guidance",
+      "claim": "For those interested in participating in the question-and-answer portion of the call, please register for the call at the link below.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "For those interested in participating in the question-and-answer portion of the call, please register for the call at the link below.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "https://register-conf.media-server.com/register/BI645ef453263f42b58d068091ae11f46d",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "https://register-conf.media-server.com/register/BI645ef453263f42b58d068091ae11f46d",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "guidance",
+      "claim": "All registrants will receive dial-in information and a PIN allowing them to access the live call.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "All registrants will receive dial-in information and a PIN allowing them to access the live call. It is recommended that you join 10 minutes prior to the event start (although you may register and dial in at any time during the call).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "guidance",
+      "claim": "The company reports its financial results in accordance with U.S.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "The company reports its financial results in accordance with U.S. generally accepted accounting principles (GAAP). Management believes that the non-GAAP financial measure Adjusted Diluted EPS provides additional meaningful information regarding the company\u2019s performance and fi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "guidance",
+      "claim": "FRANKLIN ELECTRIC CO INC is a global leader in the production and marketing of systems and components for the movement of water and energy.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "FRANKLIN ELECTRIC CO INC is a global leader in the production and marketing of systems and components for the movement of water and energy. Recognized as a technical leader in its products and services, FRANKLIN ELECTRIC CO INC serves customers around the world in residential,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "FRANKLIN ELECTRIC CO INC.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "FRANKLIN ELECTRIC CO INC. AND CONSOLIDATED SUBSIDIARIES CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Unaudited) (In thousands, except per share amounts) Fourth Quarter Ended Twelve Months Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net sales $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "earnings_or_eps",
+      "claim": "FRANKLIN ELECTRIC CO INC.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "FRANKLIN ELECTRIC CO INC. AND CONSOLIDATED SUBSIDIARIES CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) (In thousands) December 31, 2025 December 31, 2024 ASSETS Cash and cash equivalents $ 99,662 $ 220,540 Receivables (net) 247,511 226,826 Inventories 552,981 483,875 Other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "FRANKLIN ELECTRIC CO INC.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "FRANKLIN ELECTRIC CO INC. AND CONSOLIDATED SUBSIDIARIES CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited) Twelve Months Ended (In thousands) December 31, 2025 December 31, 2024 Cash flows from operating activities: Net income $ 148,694 $ 181,609 Adjustments to reconc...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "Net Sales For the Fourth Quarter (in millions) United States & Canada Latin America Europe, Middle East & Africa Asia Pacific Total Water Energy Distribution Other/Elims Consolidated Q4 2024 $ 158.5 $ 44.3 $ 49.7 $ 27.1 $ 279.6 $ 68.8 $ 157.2 $ (19.9) $ 485.7 Q4 2025 $ 152.5 $ 57.0 $ 53.4 $ 28.7 $ 291.6 $ 74.7 $ 161.6 $ (21.0) $ 506.9 Change $ (6.0) $ 12.7 $ 3.7 $ 1.6 $ 12.0 $ 5.9 $ 4.4 $ (1.1) $ 21.2 % Change (4) % 29 % 7 % 6 % 4 % 9 % 3 % 4 % Foreign currency translation, net* $ 0.1 $ 2.6 $ 2.5 $ (0.1) $ 5.1 $ 0.1 $ \u2014 $ 5.2 % Change \u2014 % 6 % 5 % \u2014 % 2 % \u2014 % \u2014 % 1 % Acquisitions $ 0.7 $ 11.7 $ \u2014 $ 2.5 $ 14.9 $ \u2014 $ \u2014 $ 14.9 % Change \u2014 % 26 % \u2014 % 9 % 5 % \u2014 % \u2014 % 3 % Volume/Price $ (6.8) $ (1.6) $ 1.2 $ (0.8) $ (8.0) $ 5.8 $ 4.4 $ (1.1) $ 1.1 % Change (4) % (4) % 2 % (3) % (3) % 8 % 3 % 6 % \u2014 %",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Net Sales For the Fourth Quarter (in millions) United States & Canada Latin America Europe, Middle East & Africa Asia Pacific Total Water Energy Distribution Other/Elims Consolidated Q4 2024 $ 158.5 $ 44.3 $ 49.7 $ 27.1 $ 279.6 $ 68.8 $ 157.2 $ (19.9) $ 485.7 Q4 2025 $ 152.5 $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Net Sales For the Full Year (in millions) United States & Canada Latin America Europe, Middle East & Africa Asia Pacific Total Water Energy Distribution Other/Elims Consolidated FY 2024 $ 708.5 $ 170.9 $ 211.4 $ 93.2 $ 1,184.0 $ 273.7 $ 685.5 $ (121.9) $ 2,021.3 FY 2025 $ 732.7 $ 204.7 $ 218.1 $ 100.9 $ 1,256.4 $ 299.0 $ 700.7 $ (124.8) $ 2,131.3 Change $ 24.2 $ 33.8 $ 6.7 $ 7.7 $ 72.4 $ 25.3 $ 15.2 $ (2.9) $ 110.0 % Change 3 % 20 % 3 % 8 % 6 % 9 % 2 % 5 % Foreign currency translation, net* $ (1.5) $ (2.4) $ 3.2 $ (1.8) $ (2.5) $ \u2014 $ \u2014 $ (2.5) % Change \u2014 % (1) % 2 % (2) % \u2014 % \u2014 % \u2014 % \u2014 % Acquisitions $ 4.2 $ 38.6 $ \u2014 $ 9.3 $ 52.1 $ \u2014 $ \u2014 $ 52.1 % Change 1 % 23 % \u2014 % 10 % 4 % \u2014 % \u2014 % 3 % Volume/Price $ 21.5 $ (2.4) $ 3.5 $ 0.2 $ 22.8 $ 25.3 $ 15.2 $ (2.9) $ 60.4 % Change 3 % (1) % 2 % \u2014 % 2 % 9 % 2 % 2 % 3 %",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Net Sales For the Full Year (in millions) United States & Canada Latin America Europe, Middle East & Africa Asia Pacific Total Water Energy Distribution Other/Elims Consolidated FY 2024 $ 708.5 $ 170.9 $ 211.4 $ 93.2 $ 1,184.0 $ 273.7 $ 685.5 $ (121.9) $ 2,021.3 FY 2025 $ 732....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "*The Company has presented local currency price increases used to offset currency devaluation in the highly inflationary economies of Argentina and Turkey within the foreign currency translation, net row above.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "*The Company has presented local currency price increases used to offset currency devaluation in the highly inflationary economies of Argentina and Turkey within the foreign currency translation, net row above.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Key Performance Indicators: Operating Income and Margin Summary Operating Income and Margins (in millions) For the Fourth Quarter 2025 Water Energy Distribution Other/Elims Consolidated Operating Income/(Loss) $ 41.8 $ 22.6 $ 5.3 $ (18.1) $ 51.6 % Operating Income To Net Sales 14.3 % 30.3 % 3.3 % 10.2 % Operating Income and Margins (in millions) For the Fourth Quarter 2024 Water Energy Distribution Other/Elims Consolidated Operating Income/(Loss) $ 35.6 $ 24.7 $ 0.5 $ (17.8) $ 43.0 % Operating Income To Net Sales 12.7 % 35.9 % 0.3 % 8.9 %",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Key Performance Indicators: Operating Income and Margin Summary Operating Income and Margins (in millions) For the Fourth Quarter 2025 Water Energy Distribution Other/Elims Consolidated Operating Income/(Loss) $ 41.8 $ 22.6 $ 5.3 $ (18.1) $ 51.6 % Operating Income To Net Sales...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "revenue",
+      "claim": "Operating Income and Margins (in millions) For the Full Year of 2025 Water Energy Distribution Other/Elims Consolidated Operating Income/(Loss) $ 207.2 $ 99.1 $ 39.8 $ (77.2) $ 268.9 % Operating Income To Net Sales 16.5 % 33.1 % 5.7 % 12.6 % Operating Income and Margins (in millions) For the Full Year of 2024 Water Energy Distribution Other/Elims Consolidated Operating Income/(Loss) $ 197.9 $ 93.6 $ 24.3 $ (72.2) $ 243.6 % Operating Income To Net Sales 16.7 % 34.2 % 3.5 % 12.1 %",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Operating Income and Margins (in millions) For the Full Year of 2025 Water Energy Distribution Other/Elims Consolidated Operating Income/(Loss) $ 207.2 $ 99.1 $ 39.8 $ (77.2) $ 268.9 % Operating Income To Net Sales 16.5 % 33.1 % 5.7 % 12.6 % Operating Income and Margins (in mi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "earnings_or_eps",
+      "claim": "For the Fourth Quarter For the Full Year of 2025 2024 Change 2025 2024 Change Diluted Earnings per Share \"EPS\" (as reported - US GAAP) $ 0.87 $ 0.72 21 % $ 3.22 $ 3.86 (17) % Pension Settlement $ (0.01) $ \u2014 $ 0.91 $ \u2014 Restructuring $ 0.01 $ 0.06 $ 0.01 $ 0.06 Adjusted Diluted EPS (non-GAAP) $ 0.87 $ 0.78 12 % $ 4.14 $ 3.92 6 %",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "For the Fourth Quarter For the Full Year of 2025 2024 Change 2025 2024 Change Diluted Earnings per Share \"EPS\" (as reported - US GAAP) $ 0.87 $ 0.72 21 % $ 3.22 $ 3.86 (17) % Pension Settlement $ (0.01) $ \u2014 $ 0.91 $ \u2014 Restructuring $ 0.01 $ 0.06 $ 0.01 $ 0.06 Adjusted Diluted...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.012924, ret_20d=0.087437, market_ret_20d=-0.015154",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.012924, ret_20d=0.087437, market_ret_20d=-0.015154",
+      "support_label": "supported"
+    }
+  ]
+}

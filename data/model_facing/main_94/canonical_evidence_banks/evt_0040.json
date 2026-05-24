@@ -1,0 +1,798 @@
+{
+  "event_id": "evt_0040",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Eaton Corp plc",
+  "ticker": "ETN",
+  "company_alias": "Eaton Corp plc",
+  "masked_company": "Company AB",
+  "sector": "Industrials",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-03",
+  "accepted_at_et": "2026-02-03T07:00:20-05:00",
+  "source_packet_path": "source_packets/evt_0040.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "Eaton Corp plc Reports Record Fourth Quarter 2025 Results, with Accelerating Orders and Continued Backlog Growth, and Issues Guidance on 2026 Outlook",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Eaton Corp plc Reports Record Fourth Quarter 2025 Results, with Accelerating Orders and Continued Backlog Growth, and Issues Guidance on 2026 Outlook",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "\u2022 Twelve-month rolling average order acceleration in Electrical Americas, up 16%, driven by data center momentum, with strong Aerospace order growth, up 11%",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Twelve-month rolling average order acceleration in Electrical Americas, up 16%, driven by data center momentum, with strong Aerospace order growth, up 11%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "\u2022 Strong year-over-year backlog growth of 29% in Electrical sector and 16% in Aerospace segment",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Strong year-over-year backlog growth of 29% in Electrical sector and 16% in Aerospace segment",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "\u2022 Fourth quarter record segment margins of 24.9%, above the high end of guidance",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Fourth quarter record segment margins of 24.9%, above the high end of guidance",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Fourth quarter earnings per share of $2.91, a fourth quarter record and up 19% over 2024, and record adjusted earnings per share of $3.33, up 18% over 2024",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Fourth quarter earnings per share of $2.91, a fourth quarter record and up 19% over 2024, and record adjusted earnings per share of $3.33, up 18% over 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 For full year 2025, record earnings per share of $10.45, up 10% over 2024, and record adjusted earnings per share of $12.07, up 12% over 2024, with 8% organic growth",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 For full year 2025, record earnings per share of $10.45, up 10% over 2024, and record adjusted earnings per share of $12.07, up 12% over 2024, with 8% organic growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "\u2022 For full year 2026, earnings per share expected to be between $11.57 and $12.07, up 13% at the midpoint over 2025, and adjusted earnings per share expected to be between $13.00 and $13.50, up 10% at the midpoint over 2025",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 For full year 2026, earnings per share expected to be between $11.57 and $12.07, up 13% at the midpoint over 2025, and adjusted earnings per share expected to be between $13.00 and $13.50, up 10% at the midpoint over 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "earnings_or_eps",
+      "claim": "DUBLIN \u2014 February 26, 2026 \u2014 Intelligent power management company Eaton Corp plc Corporation plc (NYSE:ETN) today announced that fourth quarter 2025 earnings per share were $2.91, a fourth quarter record.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "DUBLIN \u2014 February 26, 2026 \u2014 Intelligent power management company Eaton Corp plc Corporation plc (NYSE:ETN) today announced that fourth quarter 2025 earnings per share were $2.91, a fourth quarter record. Excluding charges of $0.25 per share related to intangible amortization,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Sales in the quarter were $7.1 billion, a record and up 13% from the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Sales in the quarter were $7.1 billion, a record and up 13% from the fourth quarter of 2024. The sales increase consisted of 9% growth in organic sales, 2% growth from acquisitions and 2% growth from foreign exchange.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "margins",
+      "claim": "Segment margins were 24.9%, a fourth quarter record and a 20-basis point improvement over the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "Segment margins were 24.9%, a fourth quarter record and a 20-basis point improvement over the fourth quarter of 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "balance_sheet_or_cash",
+      "claim": "Operating cash flow was $2.0 billion and free cash flow was $1.6 billion, both quarterly records and up 23% and 17%, respectively, over the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "Operating cash flow was $2.0 billion and free cash flow was $1.6 billion, both quarterly records and up 23% and 17%, respectively, over the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Paulo Ruiz, Eaton Corp plc chief executive officer, said, \u201cIn the fourth quarter, we continued to convert strong demand into accelerated orders and organic growth.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Paulo Ruiz, Eaton Corp plc chief executive officer, said, \u201cIn the fourth quarter, we continued to convert strong demand into accelerated orders and organic growth. Electrical and Aerospace were standout drivers, contributing to sustained backlog growth and a book-to-bill ratio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "revenue",
+      "claim": "For the full year 2025, sales were a record $27.4 billion, up 10% from 2024.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "For the full year 2025, sales were a record $27.4 billion, up 10% from 2024. The sales increase consisted of 8% growth in organic sales and 2% growth from acquisitions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "Segment margins of 24.5% for 2025 were a record and at the high end of the latest guidance range.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Segment margins of 24.5% for 2025 were a record and at the high end of the latest guidance range. This represents a 50-basis point improvement over the full year 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "earnings_or_eps",
+      "claim": "Earnings per share for 2025 were a record $10.45, up 10% over 2024.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Earnings per share for 2025 were a record $10.45, up 10% over 2024. Excluding charges of $0.99 per share related to intangible amortization, $0.37 per share related to acquisitions and divestitures, and $0.26 per share related to a multi-year restructuring program, adjusted ea...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "balance_sheet_or_cash",
+      "claim": "Operating cash flow for 2025 was $4.5 billion and free cash flow was $3.6 billion, both records and up 3% and 1%, respectively, over the same period in 2024.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Operating cash flow for 2025 was $4.5 billion and free cash flow was $3.6 billion, both records and up 3% and 1%, respectively, over the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "On full year results, Ruiz continued, \u201cOur solid performance in 2025 was driven by our Lead, Invest and Execute for Growth strategy, including key investments that expanded our capacity and capabilities.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "On full year results, Ruiz continued, \u201cOur solid performance in 2025 was driven by our Lead, Invest and Execute for Growth strategy, including key investments that expanded our capacity and capabilities. Our growing and diversified backlog provides us with extended visibility,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Earnings per share between $11.57 and $12.07",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u2022 Earnings per share between $11.57 and $12.07",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Adjusted earnings per share between $13.00 and $13.50",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u2022 Adjusted earnings per share between $13.00 and $13.50",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Earnings per share between $2.29 and $2.49",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "\u2022 Earnings per share between $2.29 and $2.49",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Adjusted earnings per share between $2.65 and $2.85",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "\u2022 Adjusted earnings per share between $2.65 and $2.85",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "Sales for the Electrical Americas segment were a record $3.5 billion, up 21% from the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Sales for the Electrical Americas segment were a record $3.5 billion, up 21% from the fourth quarter of 2024. The sales increase consisted of 15% growth in organic sales, 5% growth from acquisitions and 1% growth from foreign exchange. Operating profits were a record $1.0 bill...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "The twelve-month rolling average of orders in the fourth quarter was up 16% organically.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "The twelve-month rolling average of orders in the fourth quarter was up 16% organically. Backlog at the end of December remained strong and was up 31% over December 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "Sales for the Electrical Global segment were a fourth quarter record $1.7 billion, up 10% from the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Sales for the Electrical Global segment were a fourth quarter record $1.7 billion, up 10% from the fourth quarter of 2024. Organic sales were up 6%, and positive currency translation added 4%. Operating profits were a fourth quarter record $340 million, up 23% over the fourth...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "The twelve-month rolling average of orders in the fourth quarter was up 6% organically.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "The twelve-month rolling average of orders in the fourth quarter was up 6% organically. Backlog at the end of December was up 19% over December 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "On a rolling twelve-month basis, the book-to-bill ratio for the Electrical businesses remained strong at 1.1.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "On a rolling twelve-month basis, the book-to-bill ratio for the Electrical businesses remained strong at 1.1.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "Aerospace segment sales were a record $1.1 billion, up 14% from the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Aerospace segment sales were a record $1.1 billion, up 14% from the fourth quarter of 2024. Organic sales were up 12%, and positive currency translation added 2%. Operating profits were $268 million, a fourth quarter record and up 21% over the fourth quarter of 2024. Operating...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "The twelve-month rolling average of orders in the fourth quarter was up 11% organically.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "The twelve-month rolling average of orders in the fourth quarter was up 11% organically. The backlog at the end of December was up 16% over December 2024. On a rolling twelve-month basis, the book-to-bill ratio for the Aerospace segment remained strong at 1.1.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "revenue",
+      "claim": "The Vehicle segment posted sales of $586 million, down 9% from the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "The Vehicle segment posted sales of $586 million, down 9% from the fourth quarter of 2024. Organic sales declined 13%, which was partially offset by 4% from positive currency translation. Operating profits were $96 million, and operating margins in the quarter were 16.5%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "eMobility segment sales were $125 million, down 15% from the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "eMobility segment sales were $125 million, down 15% from the fourth quarter of 2024. Organic sales declined 17%, which was partially offset by 2% from positive currency translation. The segment recorded an operating profit of $10 million, and operating margins in the quarter w...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "risk_or_uncertainty",
+      "claim": "Eaton Corp plc is an intelligent power management company dedicated to protecting the environment and improving the quality of life for people everywhere.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Eaton Corp plc is an intelligent power management company dedicated to protecting the environment and improving the quality of life for people everywhere. We make products for the data center, utility, industrial, commercial and institutional, machine building, residential, ae...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "revenue",
+      "claim": "Founded in 1911, Eaton Corp plc has continuously evolved to meet the changing and expanding needs of our stakeholders.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Founded in 1911, Eaton Corp plc has continuously evolved to meet the changing and expanding needs of our stakeholders. With revenues of $27.4 billion in 2025, the company serves customers in 180 countries. For more information, visit www.Eaton Corp plc.com. Follow us on LinkedIn.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "The company\u2019s comparative financial results for the three months ended December 31, 2025, are available on the company\u2019s website, www.Eaton Corp plc.com.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "The company\u2019s comparative financial results for the three months ended December 31, 2025, are available on the company\u2019s website, www.Eaton Corp plc.com.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "revenue",
+      "claim": "Eaton Corp plc CORPORATION plc CONSOLIDATED STATEMENTS OF INCOME Three months ended December 31 Year ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Net sales $ 7,055 $ 6,240 $ 27,448 $ 24,878 Cost of products sold 4,457 3,811 17,131 15,375 Selling and administrative expense 1,009 1,003 4,311 4,077 Research and development expense 203 201 797 794 Interest expense - net 70 42 241 130 Other expense (income) - net 22 16 37 (64) Income before income taxes 1,294 1,167 4,932 4,566 Income tax expense 161 195 841 768 Net income 1,133 972 4,090 3,798 Less net income for noncontrolling interests (1) (1) (3) (4) Net income attributable to Eaton Corp plc ordinary shareholders $ 1,132 $ 971 $ 4,087 $ 3,794 Net income per share attributable to Eaton Corp plc ordinary shareholders Diluted $ 2.91 $ 2.45 $ 10.45 $ 9.50 Basic 2.92 2.46 10.48 9.54 Weighted-average number of ordinary shares outstanding Diluted 389.5 396.0 391.2 399.4 Basic 388.2 394.1 389.9 397.6 Reconciliation of net income attributable to Eaton Corp plc ordinary shareholders to adjusted earnings Net income attributable to Eaton Corp plc ordinary shareholders $ 1,132 $ 971 $ 4,087 $ 3,794 Excluding acquisition and divestiture charges, after-tax 40 9 145 26 Excluding restructuring program charges, after-tax 28 56 103 160 Excluding intangible asset amortization expense, after-tax 97 84 384 335 Adjusted earnings $ 1,297 $ 1,120 $ 4,720 $ 4,314 Net income per share attributable to Eaton Corp plc ordinary shareholders - diluted $ 2.91 $ 2.45 $ 10.45 $ 9.50 Excluding per share impact of acquisition and divestiture charges, after-tax 0.10 0.02 0.37 0.06 Excluding per share impact of restructuring program charges, after-tax 0.07 0.14 0.26 0.40 Excluding per share impact of intangible asset amortization expense, after-tax 0.25 0.22 0.99 0.84 Adjusted earnings per ordinary share $ 3.33 $ 2.83 $ 12.07 $ 10.80",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Eaton Corp plc CORPORATION plc CONSOLIDATED STATEMENTS OF INCOME Three months ended December 31 Year ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Net sales $ 7,055 $ 6,240 $ 27,448 $ 24,878 Cost of products sold 4,457 3,811 17,131 15,375 Sellin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "revenue",
+      "claim": "Eaton Corp plc CORPORATION plc BUSINESS SEGMENT INFORMATION Three months ended December 31 Year ended December 31 (In millions) 2025 2024 2025 2024 Net sales Electrical Americas $ 3,506 $ 2,905 $ 13,276 $ 11,436 Electrical Global 1,728 1,569 6,815 6,248 Aerospace 1,111 971 4,249 3,744 Vehicle 586 647 2,505 2,790 eMobility 125 147 604 662 Total net sales $ 7,055 $ 6,240 $ 27,448 $ 24,878 Segment operating profit (loss) Electrical Americas $ 1,046 $ 918 $ 3,972 $ 3,455 Electrical Global 340 277 1,323 1,149 Aerospace 268 222 1,013 859 Vehicle 96 122 419 502 eMobility 10 3 (14) (7) Total segment operating profit 1,760 1,542 6,713 5,959 Corporate Intangible asset amortization expense (121) (107) (486) (425) Interest expense - net (70) (42) (241) (130) Pension and other postretirement benefits income 4 10 19 40 Restructuring program charges (35) (70) (133) (202) Other expense - net (244) (166) (941) (675) Income before income taxes 1,294 1,167 4,932 4,566 Income tax expense 161 195 841 768 Net income 1,133 972 4,090 3,798 Less net income for noncontrolling interests (1) (1) (3) (4) Net income attributable to Eaton Corp plc ordinary shareholders $ 1,132 $ 971 $ 4,087 $ 3,794",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Eaton Corp plc CORPORATION plc BUSINESS SEGMENT INFORMATION Three months ended December 31 Year ended December 31 (In millions) 2025 2024 2025 2024 Net sales Electrical Americas $ 3,506 $ 2,905 $ 13,276 $ 11,436 Electrical Global 1,728 1,569 6,815 6,248 Aerospace 1,111 971 4,2...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "costs_or_expenses",
+      "claim": "Eaton Corp plc CORPORATION plc CONDENSED CONSOLIDATED BALANCE SHEETS (In millions) December 31, 2025 December 31, 2024 Assets Current assets Cash $ 622 $ 555 Short-term investments 181 1,525 Accounts receivable - net 5,387 4,619 Inventory 4,721 4,227 Prepaid expenses and other current assets 1,444 874 Total current assets 12,355 11,801 Property, plant and equipment - net 4,316 3,729 Other noncurrent assets Goodwill 15,769 14,713 Other intangible assets 5,054 4,658 Operating lease assets 768 806 Deferred income taxes 707 609 Other assets 2,281 2,066 Total assets $ 41,251 $ 38,381 Liabilities and shareholders\u2019 equity Current liabilities Short-term debt $ 1 $ \u2014 Current portion of long-term debt 1,136 674 Accounts payable 4,168 3,678 Accrued compensation 644 670 Other current liabilities 3,421 2,835 Total current liabilities 9,370 7,857 Noncurrent liabilities Long-term debt 8,758 8,478 Pension liabilities 702 741 Other postretirement benefits liabilities 161 164 Operating lease liabilities 637 669 Deferred income taxes 265 275 Other noncurrent liabilities 1,889 1,667 Total noncurrent liabilities 12,412 11,994 Shareholders\u2019 equity Eaton Corp plc shareholders\u2019 equity 19,425 18,488 Noncontrolling interests 44 43 Total equity 19,469 18,531 Total liabilities and equity $ 41,251 $ 38,381",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Eaton Corp plc CORPORATION plc CONDENSED CONSOLIDATED BALANCE SHEETS (In millions) December 31, 2025 December 31, 2024 Assets Current assets Cash $ 622 $ 555 Short-term investments 181 1,525 Accounts receivable - net 5,387 4,619 Inventory 4,721 4,227 Prepaid expenses and other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "Amounts are in millions of dollars unless indicated otherwise (per share data assume dilution).",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Amounts are in millions of dollars unless indicated otherwise (per share data assume dilution). Columns and rows may not add and the sum of components may not equal total amounts reported due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "Note 1.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Note 1. NON-GAAP FINANCIAL INFORMATION",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "balance_sheet_or_cash",
+      "claim": "This earnings release includes certain non-GAAP financial measures.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "This earnings release includes certain non-GAAP financial measures. These financial measures include adjusted earnings, adjusted earnings per ordinary share, and free cash flow, each of which differs from the most directly comparable measure calculated in accordance with gener...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "guidance",
+      "claim": "The Company's first quarter and full year net income per ordinary share and adjusted earnings per ordinary share guidance for 2026 is as follows:",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "The Company's first quarter and full year net income per ordinary share and adjusted earnings per ordinary share guidance for 2026 is as follows:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "earnings_or_eps",
+      "claim": "Three months ended March 31, 2026 Year ended December 31, 2026 Net income per share attributable to Eaton Corp plc ordinary shareholders - diluted $2.29 - $2.49 $11.57 - $12.07 Excluding per share impact of acquisition and divestiture charges, after tax 0.05 0.19 Excluding per share impact of restructuring program charges, after tax 0.06 0.23 Excluding per share impact of intangible asset amortization expense, after tax 0.25 1.01 Adjusted earnings per ordinary share $2.65 - $2.85 $13.00 - $13.50",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Three months ended March 31, 2026 Year ended December 31, 2026 Net income per share attributable to Eaton Corp plc ordinary shareholders - diluted $2.29 - $2.49 $11.57 - $12.07 Excluding per share impact of acquisition and divestiture charges, after tax 0.05 0.19 Excluding per...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "Reconciliations of operating cash flow to free cash flow is as follows: Three months ended December 31 (In millions) 2025 2024 Operating cash flow $ 1,965 $ 1,597 Capital expenditures for property, plant and equipment (392) (255) Free cash flow $ 1,573 $ 1,342",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "Reconciliations of operating cash flow to free cash flow is as follows: Three months ended December 31 (In millions) 2025 2024 Operating cash flow $ 1,965 $ 1,597 Capital expenditures for property, plant and equipment (392) (255) Free cash flow $ 1,573 $ 1,342",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "costs_or_expenses",
+      "claim": "Year ended December 31 (In millions) 2025 2024 Operating cash flow $ 4,472 $ 4,327 Capital expenditures for property, plant and equipment (919) (808) Free cash flow $ 3,553 $ 3,518",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Year ended December 31 (In millions) 2025 2024 Operating cash flow $ 4,472 $ 4,327 Capital expenditures for property, plant and equipment (919) (808) Free cash flow $ 3,553 $ 3,518",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "other",
+      "claim": "Note 2.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Note 2. ACQUISITIONS AND DIVESTITURE OF BUSINESSES",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "On May 20, 2024, Eaton Corp plc acquired Exertherm, a U.K.-based provider of thermal monitoring solutions for electrical equipment.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "On May 20, 2024, Eaton Corp plc acquired Exertherm, a U.K.-based provider of thermal monitoring solutions for electrical equipment. Exertherm is reported within the Electrical Americas business segment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "other",
+      "claim": "Acquisition of a 49% stake in NordicEPOD AS",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Acquisition of a 49% stake in NordicEPOD AS",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "other",
+      "claim": "On May 31, 2024, Eaton Corp plc acquired a 49 percent stake in NordicEPOD AS, which designs and assembles standardized power modules for data centers in the Nordic region.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "On May 31, 2024, Eaton Corp plc acquired a 49 percent stake in NordicEPOD AS, which designs and assembles standardized power modules for data centers in the Nordic region. Eaton Corp plc accounts for this investment on the equity method of accounting and it is reported within...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "revenue",
+      "claim": "On April 1, 2025, Eaton Corp plc acquired Fibrebond Corporation (Fibrebond) for $1.43 billion, net of cash acquired.",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "On April 1, 2025, Eaton Corp plc acquired Fibrebond Corporation (Fibrebond) for $1.43 billion, net of cash acquired. Fibrebond is a U.S. based designer and builder of pre-integrated modular power enclosures for data center, industrial, utility and communications customers. Fib...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "costs_or_expenses",
+      "claim": "As part of the acquisition, Eaton Corp plc assumed $240 million of employee transaction and retention awards.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "As part of the acquisition, Eaton Corp plc assumed $240 million of employee transaction and retention awards. Awards vest in six equal annual installments starting in the second quarter of 2025, subject to continued employment with Eaton Corp plc. Forfeited employee awards are...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "Acquisition of Resilient Power Systems Inc.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Acquisition of Resilient Power Systems Inc.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "guidance",
+      "claim": "On August 6, 2025, Eaton Corp plc acquired Resilient Power Systems Inc.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "On August 6, 2025, Eaton Corp plc acquired Resilient Power Systems Inc. (Resilient), a leading North American developer and manufacturer of innovative energy solutions, including solid-state transformer-based technology. Resilient was acquired for $86 million, including $55 mi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "guidance",
+      "claim": "As part of the acquisition, Eaton Corp plc assumed employee incentives with a maximum payout of $50 million contingent upon achievement of the same revenue performance and technology-based milestones, as well as continued employment with Eaton Corp plc.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "As part of the acquisition, Eaton Corp plc assumed employee incentives with a maximum payout of $50 million contingent upon achievement of the same revenue performance and technology-based milestones, as well as continued employment with Eaton Corp plc. The incentives will be...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "guidance",
+      "claim": "On November 2, 2025, Eaton Corp plc signed an agreement to acquire Boyd Thermal, a U.S.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "On November 2, 2025, Eaton Corp plc signed an agreement to acquire Boyd Thermal, a U.S. based global leader in thermal components, systems, and ruggedized solutions for data center, aerospace and other end-markets. Boyd Thermal employs more than 5,000 people with manufacturing...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "balance_sheet_or_cash",
+      "claim": "On January 23, 2026, Eaton Corp plc acquired Ultra PCS Limited (Ultra PCS) for $1.55 billion, net of cash acquired.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "On January 23, 2026, Eaton Corp plc acquired Ultra PCS Limited (Ultra PCS) for $1.55 billion, net of cash acquired. Ultra PCS is headquartered in the U.K. with operations in the U.K. and the U.S. Ultra PCS produces electronic controls, sensing, stores ejection and data process...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "guidance",
+      "claim": "On January 26, 2026, Eaton Corp plc announced its intention to pursue a spin-off of its Mobility business, which consists of its Vehicle and eMobility operating segments, into an independent, publicly traded company.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "On January 26, 2026, Eaton Corp plc announced its intention to pursue a spin-off of its Mobility business, which consists of its Vehicle and eMobility operating segments, into an independent, publicly traded company. Eaton Corp plc expects to complete the anticipated spin-off...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "Note 3.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Note 3. ACQUISITION AND DIVESTITURE CHARGES",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "Eaton Corp plc incurs integration charges and transaction costs to acquire and integrate businesses, and transaction, separation and other costs to divest and exit businesses.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Eaton Corp plc incurs integration charges and transaction costs to acquire and integrate businesses, and transaction, separation and other costs to divest and exit businesses. Eaton Corp plc also recognizes gains and losses on the sale of businesses. A summary of these Corpora...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "Three months ended December 31 Year ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Acquisition integration, divestiture charges and transaction costs $ 48 $ 13 $ 183 $ 36 Income tax benefit 9 4 38 10 Total charges after income taxes $ 40 $ 9 $ 145 $ 26 Per ordinary share - diluted $ 0.10 $ 0.02 $ 0.37 $ 0.06",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "Three months ended December 31 Year ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Acquisition integration, divestiture charges and transaction costs $ 48 $ 13 $ 183 $ 36 Income tax benefit 9 4 38 10 Total charges after income taxes $ 40 $ 9 $ 14...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "guidance",
+      "claim": "\u2022 The acquisitions of Fibrebond Corporation, Resilient Power Systems Inc., Ultra PCS Limited, and Exertherm, the expected acquisition of Boyd Thermal, transactions completed prior to 2023, and other charges to acquire and exit businesses.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "\u2022 The acquisitions of Fibrebond Corporation, Resilient Power Systems Inc., Ultra PCS Limited, and Exertherm, the expected acquisition of Boyd Thermal, transactions completed prior to 2023, and other charges to acquire and exit businesses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Employee transaction and retention award compensation expense related to the acquisition of Fibrebond of $18 million and $82 million in the three months and year ended December 31, 2025, respectively.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "\u2022 Employee transaction and retention award compensation expense related to the acquisition of Fibrebond of $18 million and $82 million in the three months and year ended December 31, 2025, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 Employee incentive compensation expense related to the acquisition of Resilient of $6 million and $10 million in the three months and year ended December 31, 2025, respectively.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "\u2022 Employee incentive compensation expense related to the acquisition of Resilient of $6 million and $10 million in the three months and year ended December 31, 2025, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "Acquisition integration, divestiture charges and transaction costs in 2024 are primarily related to acquisitions completed prior to 2023, and include other charges and income to acquire and exit businesses, and the reduction in fair value of contingent future consideration from the Green Motion SA acquisition.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "Acquisition integration, divestiture charges and transaction costs in 2024 are primarily related to acquisitions completed prior to 2023, and include other charges and income to acquire and exit businesses, and the reduction in fair value of contingent future consideration fro...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "costs_or_expenses",
+      "claim": "Charges in 2025 and 2024 were included in Cost of products sold, Selling and administrative expense, Research and development expense, or Other expense (income) - net.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Charges in 2025 and 2024 were included in Cost of products sold, Selling and administrative expense, Research and development expense, or Other expense (income) - net. In Business Segment Information, the charges were included in Other expense - net.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "guidance",
+      "claim": "During the first quarter of 2024, Eaton Corp plc implemented a multi-year restructuring program to accelerate opportunities to optimize its operations and global support structure.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "During the first quarter of 2024, Eaton Corp plc implemented a multi-year restructuring program to accelerate opportunities to optimize its operations and global support structure. These actions will better align the Company's functions to support anticipated growth and drive...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "costs_or_expenses",
+      "claim": "A summary of restructuring program charges is as follows: Three months ended December 31 Year ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Workforce reductions $ 16 $ 42 $ 81 $ 120 Plant closing and other 19 28 52 83 Total before income taxes 35 70 133 202 Income tax benefit 8 14 29 43 Total after income taxes $ 28 $ 56 $ 103 $ 160 Per ordinary share - diluted $ 0.07 $ 0.14 $ 0.26 $ 0.40",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "A summary of restructuring program charges is as follows: Three months ended December 31 Year ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Workforce reductions $ 16 $ 42 $ 81 $ 120 Plant closing and other 19 28 52 83 Total before income taxes 3...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "costs_or_expenses",
+      "claim": "Restructuring program charges (income) related to the following segments: Three months ended December 31 Year ended December 31 (In millions) 2025 2024 2025 2024 Electrical Americas $ 2 $ 4 $ 14 $ 12 Electrical Global 24 18 63 88 Aerospace 10 2 10 9 Vehicle 1 (10) 8 13 40 eMobility 8 22 18 25 Corporate 2 16 14 29 Total $ 35 $ 70 $ 133 $ 202",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Restructuring program charges (income) related to the following segments: Three months ended December 31 Year ended December 31 (In millions) 2025 2024 2025 2024 Electrical Americas $ 2 $ 4 $ 14 $ 12 Electrical Global 24 18 63 88 Aerospace 10 2 10 9 Vehicle 1 (10) 8 13 40 eMob...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "costs_or_expenses",
+      "claim": "1 The restructuring program liability was adjusted by $12 million in the fourth quarter of 2025 primarily related to true-ups for completed workforce reductions in the Vehicle segment.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "1 The restructuring program liability was adjusted by $12 million in the fourth quarter of 2025 primarily related to true-ups for completed workforce reductions in the Vehicle segment.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "These restructuring program charges were included in Cost of products sold, Selling and administrative expense, Research and development expense, or Other expense (income) - net, as appropriate.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "These restructuring program charges were included in Cost of products sold, Selling and administrative expense, Research and development expense, or Other expense (income) - net, as appropriate. In Business Segment Information, these restructuring program charges are treated a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "costs_or_expenses",
+      "claim": "Note 5.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Note 5. INTANGIBLE ASSET AMORTIZATION EXPENSE",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "costs_or_expenses",
+      "claim": "Three months ended December 31 Twelve months ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Intangible asset amortization expense $ 121 $ 107 $ 486 $ 425 Income tax benefit 24 23 101 91 Total after income taxes $ 97 $ 84 $ 384 $ 335 Per ordinary share - diluted $ 0.25 $ 0.22 $ 0.99 $ 0.84",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Three months ended December 31 Twelve months ended December 31 (In millions except for per share data) 2025 2024 2025 2024 Intangible asset amortization expense $ 121 $ 107 $ 486 $ 425 Income tax benefit 24 23 101 91 Total after income taxes $ 97 $ 84 $ 384 $ 335 Per ordinary...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.081738, ret_20d=0.098164, market_ret_20d=0.017916",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.081738, ret_20d=0.098164, market_ret_20d=0.017916",
+      "support_label": "supported"
+    }
+  ]
+}

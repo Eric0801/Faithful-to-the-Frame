@@ -1,0 +1,482 @@
+{
+  "event_id": "evt_0046",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Fortinet, Inc.",
+  "ticker": "FTNT",
+  "company_alias": "Fortinet, Inc.",
+  "masked_company": "Company M",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-05",
+  "filing_metadata": {
+    "cik": "1262039",
+    "accession_number": "0001262039-26-000003",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-05T11:07:06-05:00",
+    "event_date": "2026-02-05",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue grew 15% year over year to $1.91 billion",
+      "token_count": 13
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Product revenue grew 20% year over year to $691 million",
+      "token_count": 15
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Billings grew 18% to $2.37 billion 1",
+      "token_count": 10
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP operating margin of 37% 1",
+      "token_count": 9
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue grew 14% year over year to $6.80 billion",
+      "token_count": 13
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Product revenue grew 16% year over year to $2.22 billion",
+      "token_count": 15
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Billings grew 16% to $7.55 billion 1",
+      "token_count": 10
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Unified SASE & SecOps billings grew 24%",
+      "token_count": 11
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP operating margin of 35% 1",
+      "token_count": 9
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Free cash flow of $2.21 billion 1",
+      "token_count": 9
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Exceeded the \u2018Rule of 45\u2019 for the sixth consecutive year 2",
+      "token_count": 15
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "SUNNYVALE, Calif. - 2026-02-05T11:07:06-05:00 - Fortinet, Inc.\u00ae (Nasdaq:FTNT), a global cybersecurity leader driving the convergence of networking and security, today announced financial results for the fourth quarter of 2025 and full year ended December 31, 2025.",
+      "token_count": 64
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cWe are pleased with our strong finish to the year, highlighted by an excellent fourth quarter driven by broad-based demand across our portfolio, which drove billings above the high end of our guidance,\u201d said Ken Xie, Founder, Chairman and Chief Executive Officer of Fortinet, Inc.. \u201cWe continue to execute our strategy by accelerating our investments in high-growth Unified SASE and Security Operations markets, delivering strong momentum while further strengthening our Secure Networking leadership. As the #1 firewall leader with a 55% unit market share, Fortinet, Inc. is well-positioned to extend that leadership into SASE, driven by our rapidly expanding SASE adoption and growing customer demand. Our easy-to-adopt FortiSASE solution, powered by our single FortiOS operating system, supports both sovereign and public deployments, delivering high performance with significantly lower total cost of ownership than the competition.\u201d",
+      "token_count": 232
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Announced an integrated solution with NVIDIA that delivers isolated infrastructure acceleration for the AI Factory, embedding FortiGate VM on BlueField-3 DPUs to provide firewalling, segmentation and policy enforcement directly in the infrastructure for higher performance, stronger isolation and simpler operations.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "\u2022 Recognized as a Gartner Peer Insights\u2122 Customers\u2019 Choice for Security Service Edge for the third consecutive year, making Fortinet, Inc. the only cybersecurity vendor to receive this distinction.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Named the inaugural Google Unified Security Recommended partner for network protection, recognizing FortiSASE and FortiGate NGFW for delivering converged networking and security natively on Google Cloud.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Won the 2025 Red Dot Product Design Award for the FortiGate Rugged series, Fortinet, Inc.\u2019s second consecutive win, recognizing design excellence, reliability and performance at the industrial edge.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fortinet, Inc. Expands Share Repurchase Authorization by $1.0 Billion",
+      "token_count": 16
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Fortinet, Inc. today announced that its Board of Directors has authorized an increase of its share repurchase program by $1.0 billion worth of shares of common stock, for an aggregate authorized repurchase amount of up to $10.25 billion through February 28, 2027. As of February 4, 2026 approximately $1.38 billion remained available under the share repurchase program, including the $1.0 billion increase. Repurchases under Fortinet, Inc.\u2019s share repurchase program may be made through privately negotiated transactions or open market transactions, including pursuant to a trading plan in accordance with Rule 10b5-1 and/or Rule 10b-18 under the Securities Exchange Act of 1934, as amended. Fortinet, Inc.\u2019s share repurchase program does not obligate Fortinet, Inc. to acquire any particular amount of its common stock, and it may be suspended at any time at Fortinet, Inc.\u2019s discretion. The timing and actual number of shares repurchased may depend on a variety of factors, including price, general business and market conditions, and alternative investment opportunities.",
+      "token_count": 263
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Revenue in the range of $1.700 billion to $1.760 billion",
+      "token_count": 15
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Billings in the range of $1.770 billion to $1.870 billion",
+      "token_count": 15
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP gross margin in the range of 80.0% to 81.0%",
+      "token_count": 14
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP operating margin in the range of 30.0% to 32.0%",
+      "token_count": 15
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted non-GAAP net income per share in the range of $0.59 to $0.63, assuming a non-GAAP effective tax rate of 18%. This assumes a diluted share count of 746 million to 750 million.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Revenue in the range of $7.500 billion to $7.700 billion",
+      "token_count": 15
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Service revenue in the range of $5.050 billion to $5.150 billion",
+      "token_count": 17
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Billings in the range of $8.400 billion to $8.600 billion",
+      "token_count": 15
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP gross margin in the range of 79.0% to 81.0%",
+      "token_count": 14
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP operating margin in the range of 33.0% to 36.0%",
+      "token_count": 15
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Diluted non-GAAP net income per share in the range of $2.94 to $3.00, assuming a non-GAAP effective tax rate of 18%. This assumes a diluted share count of 747 million to 753 million.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Our guidance with respect to non-GAAP financial measures excludes stock-based compensation, amortization of acquired intangible assets, gain on intellectual property matters and a tax adjustment required for an effective tax rate on a non-GAAP basis, which differs from the GAAP effective tax rate. We have not reconciled our guidance with respect to non-GAAP financial measures to the corresponding GAAP measures because certain items that impact these measures are uncertain or out of our control or cannot be reasonably predicted. Accordingly, a reconciliation of these non-GAAP financial measures to the corresponding GAAP measures is not available without unreasonable effort.",
+      "token_count": 171
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "About Fortinet, Inc. ( www.Fortinet, Inc..com )",
+      "token_count": 10
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Fortinet, Inc. (Nasdaq:FTNT) is a driving force in the evolution of cybersecurity and the convergence of networking and security. Our mission is to secure people, devices and data everywhere, and today we deliver cybersecurity everywhere our customers need it with the largest integrated portfolio of over 50 enterprise-grade products. Well over half a million customers trust Fortinet, Inc. \u2019 s solutions, which are among the most deployed, most patented and most validated in the industry. The Fortinet, Inc. Training Institute , one of the largest and broadest training programs in the industry, is dedicated to making cybersecurity training and new career opportunities available to everyone. Collaboration with esteemed organizations from both the public and private sectors, including Computer Emergency Response Teams (\u201cCERTs\u201d), government entities, and academia, is a fundamental aspect of Fortinet, Inc.\u2019s commitment to enhance cyber resilience globally. FortiGuard Labs , Fortinet, Inc.\u2019s elite threat intelligence and research organization, develops and utilizes leading-edge machine learning and AI technologies to provide customers with timely and consistently top-rated protection and actionable threat intelligence. Learn more at https://www.Fortinet, Inc..com, the Fortinet, Inc. Blog or FortiGuard Labs .",
+      "token_count": 323
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "We believe that the presentation of non-GAAP financial information provides important supplemental information to management and investors regarding financial and business trends relating to our financial condition and results of operations. For further information regarding why we believe that these non-GAAP measures provide useful information to investors, the specific",
+      "token_count": 94
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "manner in which management uses these measures, and some of the limitations associated with the use of these measures, please refer to the \u201cExplanation of Non-GAAP Financial Measures\u201d section of this press release.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 2,495.3 $ 2,875.9 Short-term investments 1,087.2 1,190.6 Accounts receivable\u2014net 1,691.2 1,463.4 Inventory 399.5 315.5 Prepaid expenses and other current assets 227.0 126.1 Total current assets 5,900.2 5,971.5 LONG-TERM INVESTMENTS 339.7 \u2014 PROPERTY AND EQUIPMENT\u2014NET 1,619.0 1,349.5 DEFERRED CONTRACT COSTS 735.5 622.9 DEFERRED TAX ASSETS 1,314.9 1,335.6 GOODWILL AND OTHER INTANGIBLE ASSETS\u2014NET 354.7 350.4 OTHER ASSETS 125.2 133.2 TOTAL ASSETS $ 10,389.2 $ 9,763.1 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY CURRENT LIABILITIES: Accounts payable $ 230.8 $ 190.9 Accrued liabilities 354.6 337.9 Accrued payroll and compensation 312.9 255.7 Current portion of long-term debt 499.7 \u2014 Deferred revenue 3,636.0 3,276.2 Total current liabilities 5,034.0 4,060.7 DEFERRED REVENUE 3,479.8 3,084.7 LONG-TERM DEBT 496.6 994.3 OTHER LIABILITIES 141.3 129.6 Total liabilities 9,151.7 8,269.3 COMMITMENTS AND CONTINGENCIES STOCKHOLDERS\u2019 EQUITY: Common stock 0.7 0.8 Additional paid-in capital 1,770.1 1,636.2 Accumulated other comprehensive loss (25.4) (26.1) Accumulated deficit (507.9) (117.1) Total stockholders\u2019 equity 1,237.5 1,493.8 TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY $ 10,389.2 $ 9,763.1",
+      "token_count": 318
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Year Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 REVENUE: Product $ 691.1 $ 574.0 $ 2,218.4 $ 1,908.7 Service 1,213.9 1,086.1 4,581.2 4,047.1 Total revenue 1,905.0 1,660.1 6,799.6 5,955.8 COST OF REVENUE: Product 228.9 178.0 725.4 652.0 Service 160.3 136.5 603.5 505.6 Total cost of revenue 389.2 314.5 1,328.9 1,157.6 GROSS PROFIT: Product 462.2 396.0 1,493.0 1,256.7 Service 1,053.6 949.6 3,977.7 3,541.5 Total gross profit 1,515.8 1,345.6 5,470.7 4,798.2 OPERATING EXPENSES: Research and development 205.0 191.1 815.5 716.8 Sales and marketing 629.3 526.5 2,347.5 2,044.8 General and administrative 57.3 55.1 233.4 237.8 Gain on intellectual property matters (1.4) (1.2) (10.4) (4.6) Total operating expenses 890.2 771.5 3,386.0 2,994.8 OPERATING INCOME 625.6 574.1 2,084.7 1,803.4 INTEREST INCOME 32.3 42.3 162.3 155.2 INTEREST EXPENSE (4.4) (4.9) (20.1) (20.0) OTHER INCOME (EXPENSE)\u2014NET (2.7) 6.9 55.3 119.9 INCOME BEFORE INCOME TAXES AND LOSS FROM EQUITY METHOD INVESTMENTS 650.8 618.4 2,282.2 2,058.5 PROVISION FOR INCOME TAXES 144.8 86.7 439.1 283.9 GAIN (LOSS) FROM EQUITY METHOD INVESTMENTS \u2014 (5.5) 10.3 (29.4) NET INCOME $ 506.0 $ 526.2 $ 1,853.4 $ 1,745.2 Net income per share: Basic $ 0.68 $ 0.69 $ 2.45 $ 2.28 Diluted $ 0.68 $ 0.68 $ 2.42 $ 2.26 Weighted-average shares outstanding: Basic 743.1 766.5 758.0 764.4 Diluted 748.0 775.2 764.6 771.9",
+      "token_count": 353
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Year Ended December 31, 2025 December 31, 2024 CASH FLOWS FROM OPERATING ACTIVITIES: Net income $ 1,853.4 $ 1,745.2 Adjustments to reconcile net income to net cash provided by operating activities: Stock-based compensation 279.5 257.9 Amortization of deferred contract costs 336.3 293.7 Depreciation and amortization 152.0 122.8 Amortization of investment discounts (33.7) (48.8) Other (52.7) (92.1) Changes in operating assets and liabilities, net of impact of business combinations: Accounts receivable\u2014net (215.9) (45.4) Inventory (90.6) 131.2 Prepaid expenses and other current assets (95.9) (13.7) Deferred contract costs (449.0) (311.1) Deferred tax assets 66.2 (223.2) Other assets (16.2) (11.0) Accounts payable 27.9 (10.2) Accrued liabilities 13.3 (106.7) Accrued payroll and compensation 55.0 \u2014 Deferred revenue 754.2 577.8 Other liabilities 6.8 (8.3) Net cash provided by operating activities 2,590.6 2,258.1 CASH FLOWS FROM INVESTING ACTIVITIES: Purchases of investments (1,996.1) (1,948.6) Sales of investments 10.6 0.5 Maturities of investments 1,792.7 1,891.7 Purchases of property and equipment (364.8) (378.9) Payments made in connection with business combinations, net of cash acquired (41.6) (275.5) Purchases of marketable equity securities \u2014 (16.7) Other 0.1 0.1 Net cash used in investing activities (599.1) (727.4) CASH FLOWS FROM FINANCING ACTIVITIES: Repurchase and retirement of common stock (2,289.8) (0.6) Proceeds from issuance of common stock 44.7 63.1 Taxes paid related to net share settlement of equity awards (126.3) (100.9) Other (0.1) (11.7) Net cash used in financing activities (2,371.5) (50.1) EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS (0.6) (2.6) NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS (380.6) 1,478.0 CASH AND CASH EQUIVALENTS\u2014Beginning of year 2,875.9 1,397.9 CASH AND CASH EQUIVALENTS\u2014End of year $ 2,495.3 $ 2,875.9",
+      "token_count": 473
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Reconciliations of non-GAAP results of operations measures to the nearest comparable GAAP measures",
+      "token_count": 25
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Reconciliation of GAAP operating income to non-GAAP operating income, operating margin, net income and diluted net income per share",
+      "token_count": 33
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Year Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Reconciliation of non-GAAP operating income: GAAP operating income $ 625.6 $ 574.1 $ 2,084.7 $ 1,803.4 GAAP operating margin 32.8 % 34.6 % 30.7 % 30.3 % Add back: Stock\u2010based compensation 73.1 66.5 282.1 260.2 Amortization of acquired intangible assets 12.6 11.5 50.7 23.1 Litigation-related matters \u2014 \u2014 5.6 3.2 Gain on intellectual property matters (1.4) (1.2) (10.4) (4.6) Non\u2010GAAP operating income $ 709.9 $ 650.9 $ 2,412.7 $ 2,085.3 Non\u2010GAAP operating margin 37.3 % 39.2 % 35.5 % 35.0 % Reconciliation of non-GAAP net income: GAAP net income $ 506.0 $ 526.2 $ 1,853.4 $ 1,745.2 Add back: Stock\u2010based compensation 73.1 66.5 282.1 260.2 Amortization of acquired intangible assets 12.6 11.5 50.7 23.1 Litigation-related matters \u2014 \u2014 5.6 3.2 Gain on intellectual property matters (1.4) (1.2) (10.4) (4.6) Gain on bargain purchase \u2014 \u2014 (39.9) (106.3) Tax adjustment (a) 12.4 (31.5) (23.6) (95.9) Gain from equity method investment \u2014 \u2014 (10.8) \u2014 Non-cash charge on equity method investment \u2014 \u2014 \u2014 8.0 Non-GAAP net income $ 602.7 $ 571.5 $ 2,107.1 $ 1,832.9 Non-GAAP net income per share, diluted Non-GAAP net income $ 602.7 $ 571.5 $ 2,107.1 $ 1,832.9 Non-GAAP shares used in diluted net income per share calculations 748.0 775.2 764.6 771.9 Non-GAAP net income per share, diluted $ 0.81 $ 0.74 $ 2.76 $ 2.37 Reconciliation of non-GAAP net income per share, diluted GAAP net income per share, diluted $ 0.68 $ 0.68 $ 2.42 $ 2.26 Add back: Non-GAAP adjustments to net income per share 0.13 0.06 0.34 0.11 Non-GAAP net income per share, diluted $ 0.81 $ 0.74 $ 2.76 $ 2.37",
+      "token_count": 417
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "(a) Non-GAAP financial information is adjusted to an effective tax rate of 18% in the three months and year ended December 31, 2025 and 17% in the three months and year ended 2024 on a non-GAAP basis, which differs from the GAAP effective tax rate.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Reconciliation of net cash provided by operating activities to adjusted free cash flow",
+      "token_count": 22
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Year Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Net cash provided by operating activities $ 620.2 $ 477.6 $ 2,590.6 $ 2,258.1 Less: Purchases of property and equipment (42.8) (97.6) (364.8) (378.9) Less: Proceeds from intellectual property matter \u2014 \u2014 (14.0) \u2014 Free cash flow $ 577.4 $ 380.0 $ 2,211.8 $ 1,879.2 Add: Real estate related add backs 11.3 78.5 289.7 328.7 Adjusted free cash flow $ 588.7 $ 458.5 $ 2,501.5 $ 2,207.9 Free cash flow margin 30.3 % 22.9 % 32.5 % 31.6 % Adjusted free cash flow margin 30.9 % 27.6 % 36.8 % 37.1 % Net cash used in investing activities $ (46.3) $ (79.9) $ (599.1) $ (727.4) Net cash used in financing activities $ (72.7) $ (8.8) $ (2,371.5) $ (50.1)",
+      "token_count": 186
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Reconciliation of total revenue to total billings Three Months Ended Year Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Total revenue $ 1,905.0 $ 1,660.1 $ 6,799.6 $ 5,955.8 Add: Change in deferred revenue 465.4 349.2 754.9 625.9 Less: Deferred revenue balance acquired in business acquisitions \u2014 (6.8) (0.8) (49.2) Total billings $ 2,370.4 $ 2,002.5 $ 7,553.7 $ 6,532.5",
+      "token_count": 101
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "1 A reconciliation of GAAP to non-GAAP measures has been provided in the financial statement tables included in this press release. An explanation of these measures is also included below under the heading \u201cExplanation of Non-GAAP Financial Measures\u201d.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "2 Fortinet, Inc. defines the Rule of 45 as GAAP revenue year over year growth plus non-GAAP operating margin.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "We have provided in this release financial information that has not been prepared in accordance with U.S. Generally Accepted Accounting Principles (\u201cGAAP\u201d). These non-GAAP financial and liquidity measures are not based on any standardized methodology prescribed by GAAP and are not necessarily comparable to similar measures presented by other companies. We use these non-GAAP financial measures internally in analyzing our financial results and believe they are useful to investors, as a supplement to GAAP measures, in evaluating our ongoing operational performance. We believe that the use of these non-GAAP financial measures provides an additional tool for investors to use in evaluating ongoing operating results and trends and in comparing our financial results with peer companies, many of which present similar non-GAAP financial measures to investors.",
+      "token_count": 216
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Investors are encouraged to review the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measures provided in the financial statement tables below.",
+      "token_count": 88
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Billings (non-GAAP). We define billings as revenue recognized in accordance with GAAP plus the change in deferred revenue from the beginning to the end of the period less any deferred revenue balances acquired from business combination(s) during the period. We consider billings to be a useful metric for management and investors because billings drive current and future revenue as well as cash flows. There are a number of limitations related to the use of billings instead of GAAP revenue. First, billings are impacted by the term of security subscription and support agreements and do not provide an indication as to the timing of revenue being recognized from these service contracts. Second, we may calculate billings in a manner that is different from peer companies that report similar financial measures. Management accounts for these limitations by providing specific information regarding GAAP revenue and evaluating billings together with GAAP revenue.",
+      "token_count": 241
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Free cash flow (non-GAAP). We define free cash flow as net cash provided by operating activities minus purchases of property and equipment and excluding any significant non-recurring items, such as proceeds from intellectual property matters. Free cash flow margin is defined as free cash flow divided by GAAP revenue. We believe free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business that, after capital expenditures and net of proceeds from intellectual property matters, can be used for strategic opportunities, including repurchasing outstanding common stock, investing in our business, making strategic acquisitions and strengthening the balance sheet. A limitation of using free cash flow rather than the GAAP measures of cash provided by or used in operating activities, investing activities, and financing activities is that free cash flow does not represent the total increase or decrease in the cash and cash equivalents balance for the period because it excludes cash flows from significant non-recurring items, such as proceeds from intellectual property matters, investing activities other than capital expenditures and cash flows from financing activities. Management accounts for this limitation by providing information about our proceeds from intellectual property matters, our capital expenditures and other investing and financing activities on the face of the cash flow statement and under the caption \u201cManagement \u2019 s Discussion and Analysis of Financial Condition and Results of Operations \u2014 Liquidity and Capital Resources\u201d in our most recent Quarterly Report on Form 10-Q and Annual Report on Form 10-K and by presenting cash flows from investing and financing activities in our reconciliation of free cash flow. In addition, it is important to note that other companies, including companies in our industry, may not use free cash flow, may calculate free cash flow in a different manner than we do or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of free cash flow as a comparative measure.",
+      "token_count": 543
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted free cash flow (non-GAAP). We define adjusted free cash flow as free cash flow plus cash payments associated with real estate purchases. Adjusted free cash flow margin is defined as adjusted free cash flow divided by GAAP revenue.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Non-GAAP operating income and operating margin. We define non-GAAP operating income as operating income plus stock-based compensation, amortization of acquired intangible assets and charges in connection with litigation settlements, less gain on intellectual property matters and, when applicable, other significant non-recurring items in a given quarter. Non-GAAP operating margin is defined as non-GAAP operating income divided by GAAP revenue. We consider these non-GAAP financial measures to be useful metrics for management and investors because they exclude the items noted above so that our management and investors can compare our recurring core business operating results over multiple periods. There are a number of limitations related to the use of non-GAAP operating income instead of operating income calculated in accordance with GAAP. First, non-GAAP operating income excludes the items noted above. Second, the components of the costs that we exclude from our calculation of non-GAAP operating income may differ from the components that peer companies exclude when they report their non-GAAP results of operations. Management accounts for these limitations by providing specific information regarding the GAAP amounts excluded from non-GAAP operating income and evaluating non-GAAP operating income together with operating income calculated in accordance with GAAP.",
+      "token_count": 346
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Non-GAAP net income and diluted net income per share. We define non-GAAP net income as net income plus the items noted above under non-GAAP operating income and operating margin. In addition, we adjust non-GAAP net income and diluted net income per share for a gain on bargain purchase related to acquisition, a gain from an equity method investment related to acquisition, a non-cash charge of impairment on an equity method investment and a tax adjustment required for an effective tax rate on a non-GAAP basis, which differs from the GAAP effective tax rate. We define non-GAAP diluted net income per share as non-GAAP net income divided by the non-GAAP diluted weighted-average shares outstanding. We consider these non-GAAP financial measures to be useful metrics for management and investors for the same reasons that we use non-GAAP operating income and non-GAAP operating margin. However, in order to provide a more complete picture of our recurring core business operating results, we include in non-GAAP net income and non-GAAP diluted net income per share, the tax adjustment required resulting in an effective tax rate on a non-GAAP basis, which often differs from the GAAP tax rate. We believe the non-GAAP effective tax rates we use are reasonable estimates of normalized tax rates for our current and prior fiscal years under our global operating structure. The same limitations described above regarding our use of non-GAAP operating income and non-GAAP operating margin apply to our use of non-GAAP net income and non-GAAP diluted net income per share. We account for these limitations by providing specific information regarding the GAAP amounts excluded from non-GAAP net income and non-GAAP diluted net income per share and evaluating non-GAAP net income and non-GAAP diluted net income per share together with net income and diluted net income per share calculated in accordance with GAAP.",
+      "token_count": 478
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Copyright \u00a9 2026 Fortinet, Inc.. All rights reserved. The symbols \u00ae and \u2122 denote respectively federally registered trademarks and common law trademarks of Fortinet, Inc.., its subsidiaries and affiliates. Fortinet, Inc.\u2019s trademarks include, but are not limited to, the following: Fortinet, Inc., the Fortinet, Inc. logo, FortiGate, FortiOS, FortiGuard, FortiCare, FortiAnalyzer, FortiManager, FortiASIC, FortiClient, FortiCloud, FortiCore, FortiMail, FortiSandbox, FortiADC, FortiAgent, FortiAI, FortiAIOps, FortiAntenna, FortiAP, FortiAPCam, FortiAppSec, FortiAuthenticator, FortiBranchSASE, FortiCall, FortiCam, FortiCamera, FortiCarrier, FortiCART, FortiCASB, FortiCentral, FortiCNP, FortiConnect, FortiController, FortiConverter, FortiCWP, FortiDAST, FortiDATA, FortiDB, FortiDevice, FortiDDoS, FortiDeceptor, FortiDeploy, FortiDevice, FortiDevSec, FortiDLP, FortiEdge, FortiEDR, FortiEndpoint, FortiExplorer, FortiExtender, FortiFirewall, FortiFlex, FortiFone, FortiGSLB, FortiGuest, FortiHypervisor, FortiIdentity, FortiInsight, FortiIsolator, FortiLAN, FortiLink, FortiMonitor, FortiNAC, FortiNDR, FortiPAM, FortiPhish, FortiPoint, FortiPoints, FortiPortal, FortiPresence, FortiProxy, FortiRecon, FortiRecorder, FortiSASE, FortiSEC, FortiSIEM, FortiSMS, FortiSOAR, FortiSRA, FortiSwitch, FortiTelemetry, FortiTester, FortiTIP, FortiToken, FortiTrust, FortiVoice, FortiWAN, FortiWeb, FortiWiFi, FortiWLC, FortiWLM, FortiXDR, Lacework FortiCNAPP, Linksys, Intelligent Mesh, Velop, Max-Stream, Performance Perfected and SECURITY FABRIC. Other trademarks belong to their respective owners. Fortinet, Inc. has not independently verified statements or certifications herein attributed to third parties and Fortinet, Inc. does not independently endorse such statements. Notwithstanding anything to the contrary herein, nothing herein constitutes a warranty, guarantee, contract, binding specification or other binding commitment by Fortinet, Inc. or any indication of intent related to a binding commitment, and performance and other specification information herein may be unique to certain environments.",
+      "token_count": 517
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Firewall research data provided by 650 Group as of Q3 2025.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally. All rights reserved.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gartner does not endorse any vendor, product, or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner\u2019s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.",
+      "token_count": 129
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Note for Gartner Peer Insights\u2122: Reviews from vendor partners or end users of companies with less than $50 million in revenue are excluded from this methodology. See the full \u201c Voice of the Customer \u201d methodology.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gartner and Peer Insights are trademarks of Gartner, Inc. and/or its affiliates. All rights reserved. Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences, and should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose.",
+      "token_count": 151
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Gartner, Gartner Peer Insights \u2018Voice of the Customer\u2019 for Security Service Edge (SSE), Peer Contributors, 30 October 2025.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Gartner, Gartner Peer Insights \u2018Voice of the Customer\u2019 for Security Service Edge (SSE), Peer Contributors, 27 September 2024.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Gartner, Gartner Peer Insights \u2018Voice of the Customer\u2019 for Security Service Edge (SSE), Peer Contributors, 29 September 2023.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Investor Contact: Media Contact: Anthony Luscri Stephanie Lira Fortinet, Inc.. Fortinet, Inc.. 408-235-7700 408-235-7700 investors@Fortinet, Inc..com pr@Fortinet, Inc..com",
+      "token_count": 38
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.011696,
+    "ret_20d": 0.034166,
+    "market_ret_20d": -0.008124
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,864 @@
+{
+  "event_id": "evt_0063",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "GATX CORP",
+  "ticker": "GATX",
+  "company_alias": "GATX CORP",
+  "masked_company": "Company BE",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2024 Q4",
+  "event_date": "2026-02-19",
+  "accepted_at_et": "2026-02-19T03:31:05-05:00",
+  "source_packet_path": "source_packets/evt_0063.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "GATX CORP CORPORATION REPORTS 2025 FOURTH-QUARTER AND FULL-YEAR RESULTS; BOARD OF DIRECTORS INCREASES QUARTERLY DIVIDEND 8.2%; BOARD OF DIRECTORS AUTHORIZES NEW $300 MILLION SHARE REPURCHASE PROGRAM",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "GATX CORP CORPORATION REPORTS 2025 FOURTH-QUARTER AND FULL-YEAR RESULTS; BOARD OF DIRECTORS INCREASES QUARTERLY DIVIDEND 8.2%; BOARD OF DIRECTORS AUTHORIZES NEW $300 MILLION SHARE REPURCHASE PROGRAM",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Fourth-quarter 2025 net income was $97.0 million or $2.66 per diluted share; full-year 2025 net income was $333.3 million or $9.12 per diluted share",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Fourth-quarter 2025 net income was $97.0 million or $2.66 per diluted share; full-year 2025 net income was $333.3 million or $9.12 per diluted share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "\u25e6 2025 fourth-quarter and full-year results include net positive impacts of $0.22 and $0.37 per diluted share, respectively, from tax adjustments and other items",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u25e6 2025 fourth-quarter and full-year results include net positive impacts of $0.22 and $0.37 per diluted share, respectively, from tax adjustments and other items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "\u2022 Rail North America\u2019s fleet utilization remained strong at 99.0%; Lease Price Index (LPI) at 21.9%",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Rail North America\u2019s fleet utilization remained strong at 99.0%; Lease Price Index (LPI) at 21.9%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "\u2022 Full-year investment volume exceeded $1.3 billion",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Full-year investment volume exceeded $1.3 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u2022 The acquisition of Wells Fargo's rail operating lease portfolio was completed on Jan.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 The acquisition of Wells Fargo's rail operating lease portfolio was completed on Jan. 1, 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "guidance",
+      "claim": "CHICAGO , 2026-02-19T03:31:05-05:00\u2014GATX CORP Corporation (NYSE:GATX) (\"GATX CORP\" or the \"Company\") today reported 2025 fourth-quarter net income of $97.0 million or $2.66 per diluted share, compared to net income of $76.5 million or $2.10 per diluted share in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "CHICAGO , 2026-02-19T03:31:05-05:00\u2014GATX CORP Corporation (NYSE:GATX) (\"GATX CORP\" or the \"Company\") today reported 2025 fourth-quarter net income of $97.0 million or $2.66 per diluted share, compared to net income of $76.5 million or $2.10 per diluted share in the fourth quar...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "guidance",
+      "claim": "Net income for the full-year 2025 was $333.3 million or $9.12 per diluted share, compared to $284.2 million or $7.78 per diluted share in the prior year.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "Net income for the full-year 2025 was $333.3 million or $9.12 per diluted share, compared to $284.2 million or $7.78 per diluted share in the prior year. The 2025 full-year results include a net positive impact of $0.37 per diluted share from tax adjustments and other items. T...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "guidance",
+      "claim": "\"2025 was an exceptional year for GATX CORP, highlighted by strong financial results and the announcement of our largest-ever railcar acquisition,\" said Robert C.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\"2025 was an exceptional year for GATX CORP, highlighted by strong financial results and the announcement of our largest-ever railcar acquisition,\" said Robert C. Lyons, president and chief executive officer of GATX CORP. \"Despite unpredictable economic conditions and challeng...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "guidance",
+      "claim": "billion in attractive, long-lived assets, further strengthening our global leasing platforms and providing a strong foundation for future earnings growth and value creation.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "billion in attractive, long-lived assets, further strengthening our global leasing platforms and providing a strong foundation for future earnings growth and value creation.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "guidance",
+      "claim": "\u201cOn Jan.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u201cOn Jan. 1, 2026, GATX CORP successfully closed the largest acquisition in the Company\u2019s history. Through a newly formed joint venture with Brookfield Infrastructure Partners, we acquired approximately 101,000 railcars from Wells Fargo for about $4.2 billion. We are integratin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u201cIn Rail North America, demand for existing railcars remained solid, reflected by our 99.0% fleet utilization at year end and a 91.4% renewal success rate in the fourth quarter.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u201cIn Rail North America, demand for existing railcars remained solid, reflected by our 99.0% fleet utilization at year end and a 91.4% renewal success rate in the fourth quarter. During the year, our commercial team achieved higher renewal lease rates and extended lease terms,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "\"Rail International performed in line with expectations in 2025.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\"Rail International performed in line with expectations in 2025. GATX CORP Rail Europe (\u201cGRE\u201d) achieved higher renewal lease rates across the majority of car types despite soft economic conditions. During the year, GRE entered into an agreement to acquire approximately 6,000 f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "\"In Engine Leasing, both the Rolls\u2011Royce & Partners Finance affiliates (\"RRPF\") and our wholly owned aircraft spare engine portfolio performed very well in 2025.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\"In Engine Leasing, both the Rolls\u2011Royce & Partners Finance affiliates (\"RRPF\") and our wholly owned aircraft spare engine portfolio performed very well in 2025. Air travel trends continue to drive strong global demand for aircraft spare engines, creating a favorable operating...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "Mr.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "Mr. Lyons added, \"For 2026, we expect generally stable conditions in the North American railcar leasing market. The diversity of our North American fleet is an advantage, as we anticipate that continued demand for the vast majority of our fleet will buffer softer conditions in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "Mr.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Mr. Lyons concluded, \"As we begin 2026, we are well positioned to build on the strong operational and financial momentum we achieved last year. The scale and diversity of our expanded global fleet, the strength of our customer relationships, and our disciplined investment appr...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "BOARD OF DIRECTORS APPROVES 8.2% INCREASE IN QUARTERLY DIVIDEND AND $300 MILLION SHARE REPURCHASE AUTHORIZATION",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "BOARD OF DIRECTORS APPROVES 8.2% INCREASE IN QUARTERLY DIVIDEND AND $300 MILLION SHARE REPURCHASE AUTHORIZATION",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "On Feb.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "On Feb. 18, 2026, the board of directors of GATX CORP (the \"Board\") declared a quarterly dividend of $0.66 per common share, payable on March 31, 2026, to shareholders of record as of March 2, 2026. GATX CORP has paid quarterly dividends without interruption since 1919, and th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "Mr.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "Mr. Lyons said, \"2026 marks our 108th consecutive year of paying a dividend, a track record few companies can match. Earlier this month, GATX CORP was added to the S&P 400 Dividend Aristocrats Index, affirming the durability of our cash flows and our disciplined approach to ca...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Rail North America reported segment profit of $95.7 million in the fourth quarter of 2025, compared to $84.5 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Rail North America reported segment profit of $95.7 million in the fourth quarter of 2025, compared to $84.5 million in the fourth quarter of 2024. For the full year, Rail North America reported segment profit of $351.8 million in 2025, compared to $356.0 million in 2024. High...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "As of Dec.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "As of Dec. 31, 2025, Rail North America\u2019s wholly owned fleet was approximately 107,600 cars, including approximately 7,000 boxcars. The following fleet statistics and performance discussion exclude the boxcar fleet.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "other",
+      "claim": "Fleet utilization was 99.0% at the end of the fourth quarter, compared to 98.9% at the end of the prior quarter and 99.1% at 2024 year-end.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Fleet utilization was 99.0% at the end of the fourth quarter, compared to 98.9% at the end of the prior quarter and 99.1% at 2024 year-end. During the fourth quarter, the renewal lease rate change of the GATX CORP Lease Price Index (LPI) was 21.9%. This compares to 22.8% in th...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "Additional fleet statistics, including information on the boxcar fleet, and macroeconomic data related to Rail North America\u2019s business, are provided in the attached Supplemental Information under Rail North America Statistics.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "Additional fleet statistics, including information on the boxcar fleet, and macroeconomic data related to Rail North America\u2019s business, are provided in the attached Supplemental Information under Rail North America Statistics.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "earnings_or_eps",
+      "claim": "Rail International\u2019s segment profit was $33.6 million in the fourth quarter of 2025, compared to $30.6 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "Rail International\u2019s segment profit was $33.6 million in the fourth quarter of 2025, compared to $30.6 million in the fourth quarter of 2024. Full-year segment profit was $125.9 million in 2025, compared to $119.8 million in 2024. Higher segment profit for the fourth quarter a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "other",
+      "claim": "As of Dec.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "As of Dec. 31, 2025, GRE's fleet consisted of approximately 36,500 cars and fleet utilization was 94.7%, compared to 93.7% at the end of the prior quarter and 96.1% at 2024 year-end.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "other",
+      "claim": "As of Dec.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "As of Dec. 31, 2025, GATX CORP Rail India's fleet consisted of approximately 12,200 railcars and fleet utilization was 100.0%, consistent with the end of the prior quarter and at 2024 year-end.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "For the full-year 2025, total investment volume at Rail International was $502.4 million.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "For the full-year 2025, total investment volume at Rail International was $502.4 million. Additional fleet statistics for GRE and Rail India are provided on the last page of this press release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "earnings_or_eps",
+      "claim": "Engine Leasing reported segment profit of $55.2 million in the fourth quarter of 2025, compared to segment profit of $35.7 million in the fourth quarter of 2024.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "Engine Leasing reported segment profit of $55.2 million in the fourth quarter of 2025, compared to segment profit of $35.7 million in the fourth quarter of 2024. 2025 fourth-quarter results include a net positive impact of $4.4 million ($3.3 million after tax) from tax adjustm...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "2025 full-year segment profit was $181.5 million, compared to $117.3 million in 2024.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "2025 full-year segment profit was $181.5 million, compared to $117.3 million in 2024. 2025 full-year results include a net positive impact of $15.3 million ($11.5 million after tax) from tax adjustments and other items. 2024 full-year results include a net positive impact of $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "Excluding these impacts, higher segment profit for the fourth quarter and full-year 2025 was driven by strong performance at the Rolls-Royce and Partners Finance affiliates, as well as more engines under ownership at GATX CORP Engine Leasing, the Company\u2019s wholly owned engine portfolio.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Excluding these impacts, higher segment profit for the fourth quarter and full-year 2025 was driven by strong performance at the Rolls-Royce and Partners Finance affiliates, as well as more engines under ownership at GATX CORP Engine Leasing, the Company\u2019s wholly owned engine...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "other",
+      "claim": "At GATX CORP Corporation (NYSE:GATX), we empower our customers to propel the world forward.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "At GATX CORP Corporation (NYSE:GATX), we empower our customers to propel the world forward. GATX CORP leases transportation assets including railcars, aircraft spare engines and tank containers to customers worldwide. Our mission is to provide innovative, unparalleled service...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "International Dial-In: 1-646-307-1963",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "International Dial-In: 1-646-307-1963",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "costs_or_expenses",
+      "claim": "\u2022 a significant decline in customer demand for our transportation assets or services, including as a result of: \u25e6 prolonged inflation or deflation \u25e6 high interest rates \u25e6 weak macroeconomic conditions and world trade policies \u25e6 weak market conditions in our customers' businesses \u25e6 adverse changes in the price of, or demand for, commodities \u25e6 changes in railroad operations, efficiency, pricing and service offerings \u25e6 changes in, or disruptions to, supply chains \u25e6 availability of pipelines, trucks, and other alternative modes of transportation \u25e6 changes in conditions affecting the aviation industry, including geopolitical tensions or conflicts, geographic exposure and customer concentrations \u25e6 customers' desire to buy, rather than lease, our transportation assets \u25e6 other operational or commercial needs or decisions of our customers \u2022 reduced demand for our rail assets resulting from a change in pricing, service offerings, or operating conditions of North American railroads \u2022 competitive factors in our primary markets \u2022 threatened or implemented changes in tariffs or other global trade policies \u2022 higher costs associated with increased assignments of our transportation assets following non-renewal of leases or a significant increase in compliance-based maintenance events \u2022 events having an adverse impact on assets, customers, or regions where we have a concentrated investment exposure \u2022 financial and operational risks associated with long-term purchase commitments for transportation assets \u2022 reduced opportunities to generate asset remarketing income \u2022 inability to successfully consummate and manage ongoing acquisition and divestiture activities, including the recent acquisition of the Wells Fargo fleet \u2022 reliance on Rolls-Royce in connection with our aircraft spare engine leasing businesses \u2022 potential obsolescence of our assets \u2022 risks related to our international operations and expansion into new geographic markets, including laws, regulations, tariffs, taxes, treaties or trade barriers affecting our activities in the countries where we do business \u2022 failure to successfully negotiate collective bargaining agreements with the unions representing a substantial portion of our employees \u2022 inability to attract, retain, and motivate qualified personnel, including key management personnel \u2022 inability to protect our information technology from cybersecurity threats \u2022 risks posed by artificial intelligence \u2022 exposure to damages, fines, criminal and civil penalties, and reputational harm arising from a negative outcome in litigation, including claims arising from an accident involving transportation assets \u2022 changes in, or failure to comply with, laws, rules, and regulations \u2022 environmental liabilities and remediation costs \u2022 operational, functional and regulatory risks associated with climate change, severe weather events, and other environmental concerns \u2022 risks associated with sustainability concerns \u2022 U.S.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 a significant decline in customer demand for our transportation assets or services, including as a result of: \u25e6 prolonged inflation or deflation \u25e6 high interest rates \u25e6 weak macroeconomic conditions and world trade policies \u25e6 weak market conditions in our customers' business...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "\u25e6 changes in conditions affecting the aviation industry, including geopolitical tensions or conflicts, geographic exposure and customer concentrations",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "\u25e6 changes in conditions affecting the aviation industry, including geopolitical tensions or conflicts, geographic exposure and customer concentrations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "\u2022 reduced demand for our rail assets resulting from a change in pricing, service offerings, or operating conditions of North American railroads",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 reduced demand for our rail assets resulting from a change in pricing, service offerings, or operating conditions of North American railroads",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "other",
+      "claim": "\u2022 higher costs associated with increased assignments of our transportation assets following non-renewal of leases or a significant increase in compliance-based maintenance events",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 higher costs associated with increased assignments of our transportation assets following non-renewal of leases or a significant increase in compliance-based maintenance events",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "other",
+      "claim": "\u2022 inability to successfully consummate and manage ongoing acquisition and divestiture activities, including the recent acquisition of the Wells Fargo fleet",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 inability to successfully consummate and manage ongoing acquisition and divestiture activities, including the recent acquisition of the Wells Fargo fleet",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "other",
+      "claim": "\u2022 risks related to our international operations and expansion into new geographic markets, including laws, regulations, tariffs, taxes, treaties or trade barriers affecting our activities in the countries where we do business",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 risks related to our international operations and expansion into new geographic markets, including laws, regulations, tariffs, taxes, treaties or trade barriers affecting our activities in the countries where we do business",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "\u2022 exposure to damages, fines, criminal and civil penalties, and reputational harm arising from a negative outcome in litigation, including claims arising from an accident involving transportation assets",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 exposure to damages, fines, criminal and civil penalties, and reputational harm arising from a negative outcome in litigation, including claims arising from an accident involving transportation assets",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "\u2022 U.S.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 U.S. and global political conditions and the impact of increased geopolitical tension, civil unrest and armed conflict on domestic and global economic conditions",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 2025 2024 Revenues Lease revenue $ 380.7 $ 356.5 $ 1,486.2 $ 1,381.1 Non-dedicated engine revenue 22.2 19.6 86.7 64.6 Other revenue 46.1 37.4 167.5 139.8 Total Revenues 449.0 413.5 1,740.4 1,585.5 Expenses Maintenance expense 107.2 97.7 427.7 381.6 Depreciation expense 111.8 104.5 431.8 402.4 Operating lease expense 7.1 7.9 28.9 33.9 Other operating expense 16.0 16.2 65.3 57.7 Selling, general and administrative expense 71.6 64.6 252.6 236.3 Total Expenses 313.7 290.9 1,206.3 1,111.9 Other Income (Expense) Net gain on asset dispositions 39.9 28.0 136.9 138.3 Interest expense, net (102.2) (91.5) (391.5) (341.0) Other (expense) income (3.1) 1.4 (0.4) (9.5) Income before Income Taxes and Share of Affiliates\u2019 Earnings 69.9 60.5 279.1 261.4 Income taxes (9.1) (8.1) (63.1) (60.0) Share of affiliates\u2019 earnings, net of taxes 36.2 24.1 117.3 82.8 Net Income 97.0 76.5 333.3 284.2 Less: Net Income Attributable to Non-Controlling Interest \u2014 \u2014 \u2014 \u2014 Net Income Attributable to GATX CORP $ 97.0 $ 76.5 $ 333.3 $ 284.2 GATX CORP Share Data Basic earnings per share $ 2.67 $ 2.10 $ 9.14 $ 7.80 Average number of common shares 35.8 35.8 35.8 35.8 Diluted earnings per share $ 2.66 $ 2.10 $ 9.12 $ 7.78 Average number of common shares and common share equivalents 35.9 35.9 35.9 35.9 Dividends declared per common share $ 0.61 $ 0.58 $ 2.44 $ 2.32",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 2025 2024 Revenues Lease revenue $ 380.7 $ 356.5 $ 1,486.2 $ 1,381.1 Non-dedicated engine revenue 22.2 19.6 86.7 64.6 Other revenue 46.1 37.4 167.5 139.8 Total Revenues 449.0 413.5 1,740.4 1,585.5 Expense...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "costs_or_expenses",
+      "claim": "December 31 December 31 2025 2024 Assets Cash and Cash Equivalents $ 743.0 $ 401.6 Restricted Cash 4,241.9 0.2 Receivables Rent and other receivables 109.0 86.5 Finance leases (as lessor) 104.2 118.3 Less: allowance for losses (6.0) (5.7) 207.2 199.1 Operating Assets and Facilities 15,662.6 14,330.6 Less: allowance for depreciation (4,251.7) (3,880.9) 11,410.9 10,449.7 Lease Assets (as lessee) Right-of-use assets, net of accumulated depreciation 137.4 165.4 Investments in Affiliated Companies 732.3 663.3 Goodwill 126.3 114.1 Other Assets 400.5 303.1 Total Assets $ 17,999.5 $ 12,296.5 Liabilities and Shareholders\u2019 Equity Accounts Payable and Accrued Expenses $ 318.4 $ 217.1 Debt Borrowings under bank credit facilities 82.2 10.4 Recourse 12,451.7 8,215.3 12,533.9 8,225.7 Lease Obligations (as lessee) Operating leases 154.3 180.0 Deferred Income Taxes 1,195.7 1,127.3 Other Liabilities 162.1 107.5 Total Liabilities 14,364.4 9,857.6 Total GATX CORP Shareholders\u2019 Equity 2,750.5 2,438.9 Non-Controlling Interest 884.6 \u2014 Total Equity 3,635.1 2,438.9 Total Liabilities and Equity $ 17,999.5 $ 12,296.5",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "December 31 December 31 2025 2024 Assets Cash and Cash Equivalents $ 743.0 $ 401.6 Restricted Cash 4,241.9 0.2 Receivables Rent and other receivables 109.0 86.5 Finance leases (as lessor) 104.2 118.3 Less: allowance for losses (6.0) (5.7) 207.2 199.1 Operating Assets and Facil...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "other",
+      "claim": "Three Months Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "Three Months Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "revenue",
+      "claim": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 262.2 $ 98.7 $ 11.6 $ 8.2 $ 380.7 Non-dedicated engine revenue \u2014 \u2014 22.2 \u2014 22.2 Other revenue 38.7 5.4 \u2014 2.0 46.1 Total Revenues 300.9 104.1 33.8 10.2 449.0 Expenses Maintenance expense 89.4 16.9 \u2014 0.9 107.2 Depreciation expense 71.5 25.7 10.5 4.1 111.8 Operating lease expense 7.1 \u2014 \u2014 \u2014 7.1 Other operating expense 7.6 5.0 2.6 0.8 16.0 Total Expenses 175.6 47.6 13.1 5.8 242.1 Other Income (Expense) Net gain on asset dispositions 37.5 2.3 \u2014 0.1 39.9 Interest expense, net (65.5) (22.8) (13.2) (0.7) (102.2) Other (expense) income (1.6) (2.4) (0.1) 1.0 (3.1) Share of affiliates' pre-tax earnings \u2014 \u2014 47.8 \u2014 47.8 Segment Profit $ 95.7 $ 33.6 $ 55.2 $ 4.8 $ 189.3 Less: Selling, general and administrative expense 71.6 Income taxes (includes $11.6 related to affiliates' earnings) 20.7 Net Income 97.0 Less: Net Income Attributable to Non-Controlling Interest \u2014 Net Income Attributable to GATX CORP $ 97.0 Selected Data: Investment volume $ 141.6 $ 292.5 $ \u2014 $ 5.6 $ 439.7 Net Gain on Asset Dispositions Asset Remarketing Income: Net gains on disposition of owned assets $ 35.5 $ 0.9 $ \u2014 $ 0.1 $ 36.5 Residual sharing income 0.1 \u2014 \u2014 \u2014 0.1 Non-remarketing net gains (1) 1.9 1.4 \u2014 \u2014 3.3 $ 37.5 $ 2.3 $ \u2014 $ 0.1 $ 39.9",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 262.2 $ 98.7 $ 11.6 $ 8.2 $ 380.7 Non-dedicated engine revenue \u2014 \u2014 22.2 \u2014 22.2 Other revenue 38.7 5.4 \u2014 2.0 46.1 Total Revenues 300.9 104.1 33.8 10.2 449.0 Expenses Maint...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "other",
+      "claim": "(1) Includes net gains from scrapping of railcars.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "(1) Includes net gains from scrapping of railcars.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "other",
+      "claim": "Three Months Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Three Months Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "revenue",
+      "claim": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 255.7 $ 84.7 $ 8.1 $ 8.0 $ 356.5 Non-dedicated engine revenue \u2014 \u2014 19.6 \u2014 19.6 Other revenue 29.4 6.1 0.1 1.8 37.4 Total Revenues 285.1 90.8 27.8 9.8 413.5 Expenses Maintenance expense 78.9 18.0 \u2014 0.8 97.7 Depreciation expense 70.0 20.1 10.7 3.7 104.5 Operating lease expense 7.9 \u2014 \u2014 \u2014 7.9 Other operating expense 6.3 6.6 2.6 0.7 16.2 Total Expenses 163.1 44.7 13.3 5.2 226.3 Other Income (Expense) Net gain on asset dispositions 27.0 0.8 \u2014 0.2 28.0 Interest (expense) income, net (62.2) (18.7) (11.6) 1.0 (91.5) Other (expense) income (2.2) 2.4 0.3 0.9 1.4 Share of affiliates' pre-tax (loss) earnings (0.1) \u2014 32.5 \u2014 32.4 Segment Profit $ 84.5 $ 30.6 $ 35.7 $ 6.7 $ 157.5 Less: Selling, general and administrative expense 64.6 Income taxes (includes $8.3 related to affiliates' earnings) 16.4 Net Income 76.5 Less: Net Income Attributable to Non-Controlling Interest \u2014 Net Income Attributable to GATX CORP $ 76.5 Selected Data: Investment volume $ 206.7 $ 42.8 $ 94.7 $ 5.1 $ 349.3 Net Gain (loss) on Asset Dispositions Asset Remarketing Income: Net gains on disposition of owned assets $ 23.1 $ 0.4 $ \u2014 $ 0.1 $ 23.6 Residual sharing income 0.2 \u2014 \u2014 \u2014 0.2 Non-remarketing net gains (1) 3.7 0.4 \u2014 0.1 4.2 $ 27.0 $ 0.8 $ \u2014 $ 0.2 $ 28.0",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 255.7 $ 84.7 $ 8.1 $ 8.0 $ 356.5 Non-dedicated engine revenue \u2014 \u2014 19.6 \u2014 19.6 Other revenue 29.4 6.1 0.1 1.8 37.4 Total Revenues 285.1 90.8 27.8 9.8 413.5 Expenses Mainte...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2025",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 1,049.1 $ 366.1 $ 38.2 $ 32.8 $ 1,486.2 Non-dedicated engine revenue \u2014 \u2014 86.7 \u2014 86.7 Other revenue 137.3 21.7 \u2014 8.5 167.5 Total Revenues 1,186.4 387.8 124.9 41.3 1,740.4 Expenses Maintenance expense 350.5 72.4 \u2014 4.8 427.7 Depreciation expense 285.7 90.5 39.7 15.9 431.8 Operating lease expense 28.9 \u2014 \u2014 \u2014 28.9 Other operating expense 31.1 19.3 11.2 3.7 65.3 Total Expenses 696.2 182.2 50.9 24.4 953.7 Other Income (Expense) Net gain on asset dispositions 130.0 6.8 \u2014 0.1 136.9 Interest (expense) income, net (259.5) (82.6) (49.7) 0.3 (391.5) Other (expense) income (8.7) (3.9) \u2014 12.2 (0.4) Share of affiliates' pre-tax (loss) earnings (0.2) \u2014 157.2 \u2014 157.0 Segment Profit $ 351.8 $ 125.9 $ 181.5 $ 29.5 $ 688.7 Less: Selling, general and administrative expense 252.6 Income taxes (includes $39.7 related to affiliates' earnings) 102.8 Net Income 333.3 Less: Net Income Attributable to Non-Controlling Interest \u2014 Net Income Attributable to GATX CORP $ 333.3 Selected Data: Investment volume $ 644.1 $ 502.4 $ 147.1 $ 23.1 $ 1,316.7 Net Gain on Asset Dispositions Asset Remarketing Income: Net gains on disposition of owned assets $ 116.5 $ 2.3 $ \u2014 $ 0.1 $ 118.9 Residual sharing income 0.5 \u2014 \u2014 \u2014 0.5 Non-remarketing net gains (1) 16.6 4.5 \u2014 \u2014 21.1 Asset impairments (3.6) \u2014 \u2014 \u2014 (3.6) $ 130.0 $ 6.8 $ \u2014 $ 0.1 $ 136.9",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 1,049.1 $ 366.1 $ 38.2 $ 32.8 $ 1,486.2 Non-dedicated engine revenue \u2014 \u2014 86.7 \u2014 86.7 Other revenue 137.3 21.7 \u2014 8.5 167.5 Total Revenues 1,186.4 387.8 124.9 41.3 1,740.4...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Twelve Months Ended December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "revenue",
+      "claim": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 983.5 $ 333.6 $ 32.4 $ 31.6 $ 1,381.1 Non-dedicated engine revenue \u2014 \u2014 64.6 \u2014 64.6 Other revenue 115.5 16.7 0.1 7.5 139.8 Total Revenues 1,099.0 350.3 97.1 39.1 1,585.5 Expenses Maintenance expense 306.9 70.7 \u2014 4.0 381.6 Depreciation expense 271.1 78.7 37.8 14.8 402.4 Operating lease expense 33.9 \u2014 \u2014 \u2014 33.9 Other operating expense 26.4 17.4 9.6 4.3 57.7 Total Expenses 638.3 166.8 47.4 23.1 875.6 Other Income (Expense) Net gain on asset dispositions 132.8 4.5 0.6 0.4 138.3 Interest (expense) income, net (232.1) (71.4) (41.9) 4.4 (341.0) Other (expense) income (5.4) 3.2 0.6 (7.9) (9.5) Share of affiliates' pre-tax earnings \u2014 \u2014 108.3 \u2014 108.3 Segment Profit $ 356.0 $ 119.8 $ 117.3 $ 12.9 $ 606.0 Less: Selling, general and administrative expense 236.3 Income taxes (includes $25.5 related to affiliates' earnings) 85.5 Net Income 284.2 Less: Net Income Attributable to Non-Controlling Interest \u2014 Net Income Attributable to GATX CORP $ 284.2 Selected Data: Investment volume $ 1,162.4 $ 232.9 $ 260.8 $ 18.3 $ 1,674.4 Net Gain on Asset Dispositions Asset Remarketing Income: Net gains on disposition of owned assets $ 119.4 $ 1.7 $ 0.6 $ 0.3 $ 122.0 Residual sharing income 0.5 \u2014 \u2014 \u2014 0.5 Non-remarketing net gains (1) 12.9 2.8 \u2014 0.1 15.8 $ 132.8 $ 4.5 $ 0.6 $ 0.4 $ 138.3",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Rail North America Rail International Engine Leasing Other GATX CORP Consolidated Revenues Lease revenue $ 983.5 $ 333.6 $ 32.4 $ 31.6 $ 1,381.1 Non-dedicated engine revenue \u2014 \u2014 64.6 \u2014 64.6 Other revenue 115.5 16.7 0.1 7.5 139.8 Total Revenues 1,099.0 350.3 97.1 39.1 1,585.5 E...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "earnings_or_eps",
+      "claim": "Impact of tax adjustments and other items on Net Income Attributable to GATX CORP (1)",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "Impact of tax adjustments and other items on Net Income Attributable to GATX CORP (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 2025 2024 Net income (GAAP) $ 97.0 $ 76.5 $ 333.3 $ 284.2 Less: Net income attributable to non-controlling interest \u2014 \u2014 \u2014 \u2014 Net income attributable to GATX CORP $ 97.0 $ 76.5 $ 333.3 $ 284.2 Adjustments to pre-tax income attributable to GATX CORP: Acquisition-related expenses (2) $ 2.7 $ \u2014 $ 6.5 $ \u2014 Litigation claims settlements (3) \u2014 \u2014 \u2014 3.3 Environmental reserves (4) \u2014 \u2014 \u2014 10.7 Net gain on Specialized Gas Vessels at Engine Leasing (5) \u2014 \u2014 \u2014 (0.6) Total adjustments to pre-tax income attributable to GATX CORP $ 2.7 $ \u2014 $ 6.5 $ 13.4 Income taxes thereon, based on applicable effective tax rate $ (0.7) $ \u2014 $ (1.6) $ (3.5) Other income tax adjustments to income attributable to GATX CORP: Income tax rate changes (6) $ (13.3) $ (6.0) $ (13.3) $ (6.0) Net operating loss valuation allowance adjustment (7) 6.4 \u2014 6.4 \u2014 Total other income tax adjustments to income attributable to GATX CORP $ (6.9) $ (6.0) $ (6.9) $ (6.0) Adjustments attributable to affiliates' earnings, net of taxes: Insurance proceeds (8) $ (3.3) $ \u2014 $ (11.5) $ \u2014 Total adjustments attributable to affiliates' earnings, net of taxes $ (3.3) $ \u2014 $ (11.5) $ \u2014 Net income attributable to GATX CORP, excluding tax adjustments and other items (non-GAAP) $ 88.8 $ 70.5 $ 319.8 $ 288.1",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 2025 2024 Net income (GAAP) $ 97.0 $ 76.5 $ 333.3 $ 284.2 Less: Net income attributable to non-controlling interest \u2014 \u2014 \u2014 \u2014 Net income attributable to GATX CORP $ 97.0 $ 76.5 $ 333.3 $ 284.2 Adjustments t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "earnings_or_eps",
+      "claim": "Impact of tax adjustments and other items on Diluted Earnings per Share (1)",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Impact of tax adjustments and other items on Diluted Earnings per Share (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 2025 2024 Diluted earnings per share (GAAP) $ 2.66 $ 2.10 $ 9.12 $ 7.78 Diluted earnings per share, excluding tax adjustments and other items (non-GAAP) $ 2.44 $ 1.93 $ 8.75 $ 7.89",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "Three Months Ended December 31 Twelve Months Ended December 31 2025 2024 2025 2024 Diluted earnings per share (GAAP) $ 2.66 $ 2.10 $ 9.12 $ 7.78 Diluted earnings per share, excluding tax adjustments and other items (non-GAAP) $ 2.44 $ 1.93 $ 8.75 $ 7.89",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "Impact of tax adjustments and other items on Return on Equity attributable to GATX CORP (1)",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "Impact of tax adjustments and other items on Return on Equity attributable to GATX CORP (1)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "Twelve Months Ended December 31 2025 2024 Return on Equity attributable to GATX CORP (GAAP) 12.8 % 12.1 % Return on Equity attributable to GATX CORP, excluding tax adjustments and other items (non-GAAP) 12.3 % 12.2 %",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "Twelve Months Ended December 31 2025 2024 Return on Equity attributable to GATX CORP (GAAP) 12.8 % 12.1 % Return on Equity attributable to GATX CORP, excluding tax adjustments and other items (non-GAAP) 12.3 % 12.2 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "earnings_or_eps",
+      "claim": "(1) In addition to financial results reported in accordance with GAAP, we compute certain financial measures using non-GAAP components.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "(1) In addition to financial results reported in accordance with GAAP, we compute certain financial measures using non-GAAP components. Specifically, we exclude the effects of certain tax adjustments and other items for purposes of presenting net income attributable to GATX CO...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "(2) Expenses associated with the acquisition of Wells Fargo's rail assets.",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "(2) Expenses associated with the acquisition of Wells Fargo's rail assets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "costs_or_expenses",
+      "claim": "(3) Expenses recorded for the settlements of litigation claims arising out of legacy business operations.",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "(3) Expenses recorded for the settlements of litigation claims arising out of legacy business operations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "(4) Reserves recorded for our share of anticipated environmental remediation costs arising out of prior operations and legacy businesses.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "(4) Reserves recorded for our share of anticipated environmental remediation costs arising out of prior operations and legacy businesses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "revenue",
+      "claim": "(5) In 2022, we made the decision to sell the Specialized Gas Vessels.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(5) In 2022, we made the decision to sell the Specialized Gas Vessels. We have recorded gains and losses associated with the subsequent impairments and sales of these assets. As of December 31, 2023, all vessels had been sold.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "(6) Deferred income tax adjustment attributable to an enacted corporate income tax rate reduction in Germany in 2025 and deferred income tax adjustments attributable to state tax reductions in 2024.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(6) Deferred income tax adjustment attributable to an enacted corporate income tax rate reduction in Germany in 2025 and deferred income tax adjustments attributable to state tax reductions in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "other",
+      "claim": "(7) Valuation allowance adjustment associated with the realizability of state net operating losses in future tax years.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(7) Valuation allowance adjustment associated with the realizability of state net operating losses in future tax years.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "other",
+      "claim": "(8) Insurance recoveries related to aircraft spare engines at RRPF for which it had previously recorded impairment losses.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "(8) Insurance recoveries related to aircraft spare engines at RRPF for which it had previously recorded impairment losses.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "balance_sheet_or_cash",
+      "claim": "12/31/2025 9/30/2025 6/30/2025 3/31/2025 12/31/2024 Total Assets, Excluding Cash, by Segment Rail North America $ 7,969.0 $ 7,865.3 $ 7,886.8 $ 7,888.3 $ 7,741.1 Rail International 2,825.1 2,522.9 2,514.9 2,304.3 2,169.0 Engine Leasing 1,786.9 1,805.9 1,626.5 1,619.8 1,603.9 Other 433.6 415.3 416.8 396.3 380.7 Total assets, excluding cash $ 13,014.6 $ 12,609.4 $ 12,445.0 $ 12,208.7 $ 11,894.7 Debt and Lease Obligations, Net of Unrestricted Cash Unrestricted cash $ (743.0) $ (696.1) $ (754.6) $ (757.2) $ (401.6) Borrowings under bank credit facilities 82.2 117.3 106.1 101.5 10.4 Recourse debt 12,451.7 8,751.3 8,741.3 8,653.1 8,215.3 Operating lease obligations 154.3 160.7 168.4 174.4 180.0 Total debt and lease obligations, net of unrestricted cash $ 11,945.2 $ 8,333.2 $ 8,261.2 $ 8,171.8 $ 8,004.1 Total recourse debt (1) $ 11,945.2 $ 8,333.2 $ 8,261.2 $ 8,171.8 $ 8,004.1 Total equity $ 3,635.1 $ 2,718.9 $ 2,669.7 $ 2,549.4 $ 2,438.9 Recourse leverage (2) 3.3 3.1 3.1 3.2 3.3",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "12/31/2025 9/30/2025 6/30/2025 3/31/2025 12/31/2024 Total Assets, Excluding Cash, by Segment Rail North America $ 7,969.0 $ 7,865.3 $ 7,886.8 $ 7,888.3 $ 7,741.1 Rail International 2,825.1 2,522.9 2,514.9 2,304.3 2,169.0 Engine Leasing 1,786.9 1,805.9 1,626.5 1,619.8 1,603.9 O...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "balance_sheet_or_cash",
+      "claim": "(1) Includes recourse debt, borrowings under bank credit facilities, and operating lease obligations, net of unrestricted cash.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(1) Includes recourse debt, borrowings under bank credit facilities, and operating lease obligations, net of unrestricted cash.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "balance_sheet_or_cash",
+      "claim": "(2) Calculated as total recourse debt / total equity.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "(2) Calculated as total recourse debt / total equity.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "balance_sheet_or_cash",
+      "claim": "Reconciliation of Total Assets to Total Assets, Excluding Cash Total Assets $ 17,999.5 $ 13,305.8 $ 13,200.2 $ 12,966.3 $ 12,296.5 Less: cash (4,984.9) (696.4) (755.2) (757.6) (401.8) Total Assets, excluding cash $ 13,014.6 $ 12,609.4 $ 12,445.0 $ 12,208.7 $ 11,894.7",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "Reconciliation of Total Assets to Total Assets, Excluding Cash Total Assets $ 17,999.5 $ 13,305.8 $ 13,200.2 $ 12,966.3 $ 12,296.5 Less: cash (4,984.9) (696.4) (755.2) (757.6) (401.8) Total Assets, excluding cash $ 13,014.6 $ 12,609.4 $ 12,445.0 $ 12,208.7 $ 11,894.7",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "other",
+      "claim": "12/31/2025 9/30/2025 6/30/2025 3/31/2025 12/31/2024 Rail North America Statistics Lease Price Index (LPI) (1) Average renewal lease rate change 21.9 % 22.8 % 24.2 % 24.5 % 26.7 % Average renewal term (months) 58 60 60 61 60 Renewal Success Rate (2) 91.4 % 87.1 % 84.2 % 85.1 % 89.1 % Fleet Rollforward (3) Beginning balance 101,288 102,317 103,310 102,966 102,697 Railcars added 920 366 595 1,464 1,126 Railcars scrapped (898) (478) (614) (316) (309) Railcars sold (717) (917) (974) (804) (548) Ending balance 100,593 101,288 102,317 103,310 102,966 Utilization 99.0 % 98.9 % 99.2 % 99.2 % 99.1 % Average active railcars 99,999 100,896 102,073 102,367 102,150 Boxcar Fleet Rollforward Beginning balance 7,478 7,621 7,990 8,395 8,779 Railcars added 1 172 27 \u2014 \u2014 Railcars scrapped (365) (285) (396) (405) (349) Railcars sold (82) (30) \u2014 \u2014 (35) Ending balance 7,032 7,478 7,621 7,990 8,395 Utilization 97.1 % 96.9 % 98.7 % 99.8 % 99.8 % Average active railcars 7,206 7,391 7,773 8,163 8,552 Rail North America Industry Statistics Manufacturing Capacity Utilization Index (4) 76.3 % 76.1 % 77.8 % 77.6 % 77.6 % Year-over-year Change in U.S.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "12/31/2025 9/30/2025 6/30/2025 3/31/2025 12/31/2024 Rail North America Statistics Lease Price Index (LPI) (1) Average renewal lease rate change 21.9 % 22.8 % 24.2 % 24.5 % 26.7 % Average renewal term (months) 58 60 60 61 60 Renewal Success Rate (2) 91.4 % 87.1 % 84.2 % 85.1 %...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "other",
+      "claim": "(1) GATX CORP's Lease Price Index (LPI) is an internally-generated business indicator that measures renewal activity for our North American railcar fleet, excluding boxcars.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "(1) GATX CORP's Lease Price Index (LPI) is an internally-generated business indicator that measures renewal activity for our North American railcar fleet, excluding boxcars. The LPI calculation includes all renewal activity based on a 12-month trailing average, and the renewal...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "other",
+      "claim": "(2) The renewal success rate represents the percentage of railcars on expiring leases that were renewed with the existing lessee.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "(2) The renewal success rate represents the percentage of railcars on expiring leases that were renewed with the existing lessee. The renewal success rate is an important metric because railcars returned by our customers may remain idle or incur additional maintenance and frei...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "other",
+      "claim": "(4) As reported and revised by the Federal Reserve.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(4) As reported and revised by the Federal Reserve.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "(5) As reported by the Association of American Railroads (AAR).",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "(5) As reported by the Association of American Railroads (AAR).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "(6) As reported by the Railway Supply Institute (RSI).",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "(6) As reported by the Railway Supply Institute (RSI).",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "other",
+      "claim": "12/31/2025 9/30/2025 6/30/2025 3/31/2025 12/31/2024 Rail Europe Statistics Fleet Rollforward Beginning balance 30,572 30,492 30,223 30,027 29,953 Railcars added 6,145 328 579 446 196 Railcars scrapped or sold (233) (248) (310) (250) (122) Ending balance 36,484 30,572 30,492 30,223 30,027 Utilization 94.7 % 93.7 % 93.3 % 95.1 % 96.1 % Average active railcars 32,671 28,592 28,572 28,823 28,812 Rail India Statistics Fleet Rollforward Beginning balance 11,712 11,112 10,895 10,583 10,361 Railcars added 453 600 217 312 222 Railcars scrapped or sold \u2014 \u2014 \u2014 \u2014 \u2014 Ending balance 12,165 11,712 11,112 10,895 10,583 Utilization 100.0 % 100.0 % 99.6 % 99.6 % 100.0 % Average active railcars 11,905 11,363 10,945 10,711 10,460",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "12/31/2025 9/30/2025 6/30/2025 3/31/2025 12/31/2024 Rail Europe Statistics Fleet Rollforward Beginning balance 30,572 30,492 30,223 30,027 29,953 Railcars added 6,145 328 579 446 196 Railcars scrapped or sold (233) (248) (310) (250) (122) Ending balance 36,484 30,572 30,492 30...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.003693, ret_20d=0.062842, market_ret_20d=0.012855",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.003693, ret_20d=0.062842, market_ret_20d=0.012855",
+      "support_label": "supported"
+    }
+  ]
+}

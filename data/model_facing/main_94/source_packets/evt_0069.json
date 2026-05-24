@@ -1,0 +1,391 @@
+{
+  "event_id": "evt_0069",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AMERICAN EAGLE OUTFITTERS INC",
+  "ticker": "AEO",
+  "company_alias": "AMERICAN EAGLE OUTFITTERS INC",
+  "masked_company": "Company CK",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-03-04",
+  "filing_metadata": {
+    "cik": "919012",
+    "accession_number": "0001193125-26-091582",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-03-04T16:20:45-05:00",
+    "event_date": "2026-03-04",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "AMERICAN EAGLE OUTFITTERS INC Inc. Reports Strong Fourth Quarter Fiscal 2025 Results; Provides Fiscal 2026 Outlook",
+      "token_count": 24
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total revenue increased 10% to a record $1.8 billion, driven by total comparable sales increase of 8% with positive results across brands",
+      "token_count": 35
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Aerie comps +23%, AMERICAN EAGLE OUTFITTERS INC Eagle comps +2%",
+      "token_count": 11
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Returned $341 million to shareholders in 2025 from $256 million in shares repurchases and $85 million in dividends",
+      "token_count": 29
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "PITTSBURGH--(BUSINESS WIRE)--AMERICAN EAGLE OUTFITTERS INC. (NYSE:AEO) today announced financial results for the fourth quarter and fiscal year ended January 31, 2026, and provided its outlook for fiscal year 2026.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Jay Schottenstein, Executive Chairman of the Board and Chief Executive Officer, AMERICAN EAGLE OUTFITTERS INC Inc., commented, \u201cI am extremely pleased with the strong execution in the back half of the year, which reignited growth across our brands and channels. Building on the improved trends beginning last summer, we achieved a record fourth quarter and holiday period, with double digit growth at Aerie and OFFLINE and solid, positive performance at AMERICAN EAGLE OUTFITTERS INC Eagle. Compelling new product collections, supported by fresh marketing campaigns, led to higher demand trends in the quarter. I want to thank our associates for their resilience and outstanding execution to deliver a strong finish to 2025.\u201d",
+      "token_count": 172
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cWe enter 2026 from a position of strength with the goal of building on this year\u2019s successes. The first quarter is off to a positive start and we remain focused on investing in our brands and driving additional corporate savings and efficiency across the business. I\u2019m confident that our strategic actions will lead to long-term profitable growth and shareholder value creation,\u201d he concluded.",
+      "token_count": 99
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total net revenue of $1.8 billion increased 10% to last year. Total comparable sales increased 8%, on top of 3% comp growth last year.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Aerie comparable sales increased 23% on a 6% increase last year. AMERICAN EAGLE OUTFITTERS INC Eagle comparable sales grew 2% following 1% growth last year.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit of $651 million rose 9% from $599 million last year. The gross margin of 37.0% declined 30 basis points to last year.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The net tariff impact was $50 million or 280 basis points to gross margin. Increased markdowns were largely offset by leverage on positive sales combined with lower costs, favorable currency and operational efficiencies.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Buying, Occupancy and Warehousing (BOW) expenses leveraged 50 basis points due to positive sales.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling, general and administrative (SG&A) expenses increased 4% to $418 million, leveraging 120 basis points to a rate of 23.8% to revenue. Overall cost efficiencies and lower incentives were offset by planned investments in advertising.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP operating profit was $96 million, which includes $84 million of impairment and restructuring charges related to the company\u2019s exit from the Quiet Platform third party logistics business, store impairments and general corporate restructuring.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted operating profit of $180 million increased 27% from $142 million last year. The adjusted operating margin of 10.2% expanded 130 basis points from 8.9% last year.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Other income of $15 million reflected unrealized gains on investments previously disclosed.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP Diluted earnings per share of $0.50 compared to $0.54 last year.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted diluted earnings per share of $0.84 compared to $0.54 last year. Average diluted shares outstanding were 176 million.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Total net revenue of $5.5 billion increased 3% versus last year. Total comparable sales increased 3%, on top of 4% comp growth last year.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Aerie comparable sales increased 9% on 5% growth last year. AMERICAN EAGLE OUTFITTERS INC Eagle comparable sales were flat following 3% growth last year.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit of $2.0 billion decreased 3%. Gross margin of 36.9% decreased 230 basis points largely reflecting an inventory write-down taken in the first quarter, higher markdowns and the impact of tariffs, partially offset by business improvement and cost efficiencies in the second half of the year.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling, general and administrative expense of $1.5 billion increased 4%, up 10 basis points as a rate to revenue. Lower incentive costs and general cost savings were offset by planned investments in advertising.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "GAAP Operating income of $226 million, which includes $102 million of impairment and restructuring charges related to the company\u2019s exit from the Quiet Platform third party logistics business, store impairments and general corporate restructuring. GAAP operating income was $427 million last year.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Adjusted operating income of $328 million compared to adjusted operating income of $445 million last year.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "GAAP diluted earnings per share was $1.09 compared to $1.68 last year.",
+      "token_count": 18
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted diluted earnings per share was $1.50 compared to adjusted diluted earnings per share of $1.74 last year. Average diluted shares outstanding were 176 million.",
+      "token_count": 42
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Total ending inventory increased 10% to $702 million with units up 3%. Ending cost inventory includes the impact of tariffs.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "In the fourth quarter the company repurchased one million shares for $25 million, bringing full year repurchases to 21 million shares for $256 million. The company also returned $21 million to shareholders via its quarterly cash dividend of $0.125 per share, bringing year-to-date cash dividends to $85 million.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Capital expenditures totaled $59 million in the fourth quarter, bringing full year spend to $261 million. The company expects 2026 capital expenditures to be in the range of $250 to $260 million.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "*All guidance is based on estimates and includes tariffs reflecting 2025 IEEPA guidelines.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "AMERICAN EAGLE OUTFITTERS INC. (NYSE:AEO) is a leading global specialty retailer with a portfolio of beloved apparel brands including AMERICAN EAGLE OUTFITTERS INC Eagle, Aerie, OFFL/NE by Aerie, Todd Snyder and Unsubscribed. Rooted in optimism, inclusivity and authenticity, AMERICAN EAGLE OUTFITTERS INC\u2019s brands empower every customer to celebrate their unique personal style by offering casual, comfortable, timeless outfitting and high-quality products that are made to last.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "AMERICAN EAGLE OUTFITTERS INC Inc. operates stores in the United States, Canada and Mexico, with merchandise available in more than 30 countries through a global network of license partners. Additionally, the company operates a robust e-commerce business across its brands. For more information, visit AMERICAN EAGLE OUTFITTERS INC-inc.com.",
+      "token_count": 76
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "This press release includes operating income and diluted earnings per share presented on an \u201cadjusted\u201d or \u201cnon-GAAP\u201d basis, which are non-GAAP financial measures. Non-GAAP financial",
+      "token_count": 46
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "measures are not based on any standardized methodology prescribed by U.S. generally accepted accounting principles (GAAP) and are not necessarily comparable to similar measures presented by other companies. Non-GAAP information is provided as a supplement to, not as a substitute for, or as superior to, measures of financial performance prepared in accordance with GAAP. We believe that this non-GAAP information is useful as an additional means for investors to evaluate our operating performance when reviewed in conjunction with our GAAP Consolidated Financial Statements and provides a higher degree of transparency. These amounts are not determined in accordance with GAAP and, therefore, should not be used exclusively in evaluating our business and operations. The tables included in this release reconcile the GAAP financial measures to the non-GAAP financial measures discussed above for the 13 weeks ended January 31, 2026 and both the 52 weeks ended January 31, 2026 and February 1, 2025.",
+      "token_count": 250
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "consumer discretionary spending habits, which could have a material adverse effect on our business, results of operations and liquidity.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The use of the \u201ccompany,\u201d \u201cAMERICAN EAGLE OUTFITTERS INC,\u201d \u201cwe,\u201d \"us,\" and \u201cour\u201d in this release refers to AMERICAN EAGLE OUTFITTERS INC.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Property and equipment, at cost, net of accumulated depreciation",
+      "token_count": 16
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(Unaudited; Dollars and shares in thousands, except per share amounts)",
+      "token_count": 18
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Cost of sales, including certain buying, occupancy and warehouse expenses",
+      "token_count": 19
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Basic net income per common share attributable to AMERICAN EAGLE OUTFITTERS INC",
+      "token_count": 15
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted net income per common share attributable to AMERICAN EAGLE OUTFITTERS INC",
+      "token_count": 16
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Add: Impairment and restructuring charges (1)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(1) The adjustments relate to the Company's exit from the Quiet Platforms third party logistics business, store impairments, and corporate restructuring.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) The tax effect of excluded items is the difference between the tax provision calculated on a GAAP basis and on a non-GAAP basis.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Add: Impairment, restructuring and other charges (1)",
+      "token_count": 13
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "(1) The adjustments relate to restructuring costs related to employee severance, as well as impairment and restructuring costs related to the sale of the Company's Hong Kong retail operations to a third party buyer. Please refer to Note 14. \u201cImpairment, Restructuring and Other Charges,\u201d to the Consolidated Financial Statements included in the Company's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on December 12, 2024 for further information on the nature of these amounts.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Total gross square footage at end of period (in '000)",
+      "token_count": 14
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "International license locations at end of period (3)",
+      "token_count": 13
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) AE Brand includes AE stand alone locations, AE/Aerie side-by side locations, AE/OFFL/NE side-by-side locations, and AE/Aerie/OFFL/NE side-by-side locations.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Aerie (incl. OFFL/NE) includes Aerie stand alone locations, OFFL/NE stand alone locations, and Aerie/OFFL/NE side-by-side locations.",
+      "token_count": 34
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) International license locations (retail stores and concessions) are not included in the consolidated store data or the total gross square footage calculation.",
+      "token_count": 41
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.06614,
+    "ret_20d": -0.065362,
+    "market_ret_20d": -0.006381
+  },
+  "outcome_blind": true
+}

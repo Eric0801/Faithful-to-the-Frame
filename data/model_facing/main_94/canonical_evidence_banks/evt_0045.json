@@ -1,0 +1,1007 @@
+{
+  "event_id": "evt_0045",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CISCO SYSTEMS, INC.",
+  "ticker": "CSCO",
+  "company_alias": "CISCO SYSTEMS, INC.",
+  "masked_company": "Company BZ",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-02-11",
+  "accepted_at_et": "2026-02-11T16:07:20-05:00",
+  "source_packet_path": "source_packets/evt_0045.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "\u2022 Double-digit top and bottom-line growth exceeding our guidance, with EPS growing faster than revenue",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 Double-digit top and bottom-line growth exceeding our guidance, with EPS growing faster than revenue",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\u25e6 Record revenue of $15.3 billion, up 10% year over year; GAAP EPS of $0.80, up 31% year over year; and Non-GAAP EPS of $1.04, up 11% year over year",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u25e6 Record revenue of $15.3 billion, up 10% year over year; GAAP EPS of $0.80, up 31% year over year; and Non-GAAP EPS of $1.04, up 11% year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "guidance",
+      "claim": "\u25e6 GAAP gross margin of 65.0% and Non-GAAP gross margin of 67.5%; GAAP operating margin of 24.6% and Non-GAAP operating margin of 34.6%, both above the high end of our guidance range",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u25e6 GAAP gross margin of 65.0% and Non-GAAP gross margin of 67.5%; GAAP operating margin of 24.6% and Non-GAAP operating margin of 34.6%, both above the high end of our guidance range",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "\u2022 Accelerating, double-digit growth in product orders across all geographies and robust growth across all customer markets",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Accelerating, double-digit growth in product orders across all geographies and robust growth across all customer markets",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "other",
+      "claim": "\u25e6 Product orders up 18% year over year with networking product orders accelerating to more than 20% year over year",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u25e6 Product orders up 18% year over year with networking product orders accelerating to more than 20% year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "\u2022 AI Infrastructure orders taken from hyperscalers totaled $2.1 billion, reflecting a significant acceleration in growth",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 AI Infrastructure orders taken from hyperscalers totaled $2.1 billion, reflecting a significant acceleration in growth",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "\u2022 Major multi-year, multi-billion-dollar campus networking refresh cycle underway",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 Major multi-year, multi-billion-dollar campus networking refresh cycle underway",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "\u2022 Dividend increased by 2% to $0.42 per share",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Dividend increased by 2% to $0.42 per share",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u25e6 Earnings per Share: GAAP: $0.80; Non-GAAP: $1.04",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u25e6 Earnings per Share: GAAP: $0.80; Non-GAAP: $1.04",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "earnings_or_eps",
+      "claim": "\u25aa GAAP EPS increased 31% year over year",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u25aa GAAP EPS increased 31% year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "earnings_or_eps",
+      "claim": "\u25aa Non-GAAP EPS increased 11% year over year",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u25aa Non-GAAP EPS increased 11% year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "guidance",
+      "claim": "\u25e6 Revenue: $15.4 billion to $15.6 billion",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u25e6 Revenue: $15.4 billion to $15.6 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "guidance",
+      "claim": "\u25e6 Earnings per Share: GAAP: $0.73 to $0.77; Non-GAAP: $1.02 to $1.04",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u25e6 Earnings per Share: GAAP: $0.73 to $0.77; Non-GAAP: $1.02 to $1.04",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "guidance",
+      "claim": "\u25e6 Revenue: $61.2 billion to $61.7 billion",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u25e6 Revenue: $61.2 billion to $61.7 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "guidance",
+      "claim": "\u25e6 Earnings per Share: GAAP: $3.00 to $3.08; Non-GAAP: $4.13 to $4.17",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u25e6 Earnings per Share: GAAP: $3.00 to $3.08; Non-GAAP: $4.13 to $4.17",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "(1) EPS guidance includes the estimated impact of tariffs based on current trade policy.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "(1) EPS guidance includes the estimated impact of tariffs based on current trade policy.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "guidance",
+      "claim": "SAN JOSE, Calif.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "SAN JOSE, Calif. -- 2026-02-11T16:07:20-05:00 -- CISCO SYSTEMS, INC. (NASDAQ:CSCO) today reported second quarter results for the period ended January 24, 2026. CISCO SYSTEMS, INC. reported second quarter revenue of $15.3 billion, net income on a generally accepted accounting p...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "guidance",
+      "claim": "\u201cCISCO SYSTEMS, INC.'s strong second quarter and first half of fiscal 2026 demonstrate both the power of our portfolio and the fundamental role we continue to play in connecting and protecting customers in a rapidly evolving landscape,\u201d said Chuck Robbins, chair and CEO of CISCO SYSTEMS, INC..",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "\u201cCISCO SYSTEMS, INC.'s strong second quarter and first half of fiscal 2026 demonstrate both the power of our portfolio and the fundamental role we continue to play in connecting and protecting customers in a rapidly evolving landscape,\u201d said Chuck Robbins, chair and CEO of CIS...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "guidance",
+      "claim": "\u201cIn Q2, we delivered double-digit growth on both the top and bottom lines which exceeded the high end of our guidance and puts us on track to deliver our strongest revenue year yet in fiscal 2026,\u201d said CFO of CISCO SYSTEMS, INC..",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "\u201cIn Q2, we delivered double-digit growth on both the top and bottom lines which exceeded the high end of our guidance and puts us on track to deliver our strongest revenue year yet in fiscal 2026,\u201d said CFO of CISCO SYSTEMS, INC.. \u201cOperating margin was also above the high end...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "revenue",
+      "claim": "Q2 FY 2026 Q2 FY 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Q2 FY 2026 Q2 FY 2025 vs. Q2 FY 2025 Revenue $ 15.3 billion $ 14.0 billion 10% Net Income $ 3.2 billion $ 2.4 billion 31% Diluted Earnings per Share (EPS) $ 0.80 $ 0.61 31%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "Q2 FY 2026 Q2 FY 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Q2 FY 2026 Q2 FY 2025 vs. Q2 FY 2025 Net Income $ 4.1 billion $ 3.8 billion 10% EPS $ 1.04 $ 0.94 11%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "earnings_or_eps",
+      "claim": "Reconciliations between net income, EPS, and other measures on a GAAP and non-GAAP basis are provided in the tables located in the section entitled \"Reconciliations of GAAP to non-GAAP Measures.\"",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Reconciliations between net income, EPS, and other measures on a GAAP and non-GAAP basis are provided in the tables located in the section entitled \"Reconciliations of GAAP to non-GAAP Measures.\"",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "earnings_or_eps",
+      "claim": "CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "CISCO SYSTEMS, INC. has declared a quarterly dividend of $0.42 per common share, a 1-cent increase or up 2% over the previous quarter's dividend, to be paid on April 22, 2026, to all stockholders of record as of the close of business on April 2, 2026. Future dividends will be...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "All comparative percentages are on a year-over-year basis unless otherwise noted.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "All comparative percentages are on a year-over-year basis unless otherwise noted.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "Revenue -- Total revenue was $15.3 billion, up 10%, with product revenue up 14% and services revenue down 1%.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "Revenue -- Total revenue was $15.3 billion, up 10%, with product revenue up 14% and services revenue down 1%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "Revenue by geographic segment was: Americas up 8%, EMEA up 15%, and APJC up 8% .",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "Revenue by geographic segment was: Americas up 8%, EMEA up 15%, and APJC up 8% . Product revenue performance reflected growth in Networking, up 21%, and Collaboration, up 6%. Security was down 4%. Observability was flat.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "margins",
+      "claim": "Gross Margin -- On a GAAP basis, total gross margin, product gross margin, and services gross margin were 65.0%, 63.9%, and 68.4%, respectively, as compared with 65.1%, 63.7%, and 68.9%, respectively, in the second quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "Gross Margin -- On a GAAP basis, total gross margin, product gross margin, and services gross margin were 65.0%, 63.9%, and 68.4%, respectively, as compared with 65.1%, 63.7%, and 68.9%, respectively, in the second quarter of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "margins",
+      "claim": "On a non-GAAP basis, total gross margin, product gross margin, and services gross margin were 67.5%, 66.4%, and 70.9%, respectively, as compared with 68.7%, 67.7%, and 71.6%, respectively, in the second quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "On a non-GAAP basis, total gross margin, product gross margin, and services gross margin were 67.5%, 66.4%, and 70.9%, respectively, as compared with 68.7%, 67.7%, and 71.6%, respectively, in the second quarter of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "margins",
+      "claim": "Total gross margins by geographic segment were: 65.8% for the Americas, 71.7% for EMEA and 65.8% for APJC.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "Total gross margins by geographic segment were: 65.8% for the Americas, 71.7% for EMEA and 65.8% for APJC.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "revenue",
+      "claim": "Operating Expenses -- On a GAAP basis, operating expenses were $6.2 billion, up 3% year over year, and were 40.3% of revenue.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Operating Expenses -- On a GAAP basis, operating expenses were $6.2 billion, up 3% year over year, and were 40.3% of revenue. Non-GAAP operating expenses were $5.0 billion, up 6%, and were 32.9% of revenue.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "margins",
+      "claim": "Operating Income -- GAAP operating income was $3.8 billion, up 21%, with GAAP operating margin of 24.6%.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "Operating Income -- GAAP operating income was $3.8 billion, up 21%, with GAAP operating margin of 24.6%. Non-GAAP operating income was $5.3 billion, up 9%, with non-GAAP operating margin at 34.6%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "Provision for Income Taxes -- The GAAP tax provision rate was 12.9%.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "Provision for Income Taxes -- The GAAP tax provision rate was 12.9%. The non-GAAP tax provision rate was 19.0%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "earnings_or_eps",
+      "claim": "Net Income and EPS -- On a GAAP basis, net income was $3.2 billion, an increase of 31%, and EPS was $0.80, an increase of 31%.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "Net Income and EPS -- On a GAAP basis, net income was $3.2 billion, an increase of 31%, and EPS was $0.80, an increase of 31%. On a non-GAAP basis, net income was $4.1 billion, an increase of 10%, and EPS was $1.04, an increase of 11%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash Flow from Operating Activities -- $1.8 billion for the second quarter of fiscal 2026, a decrease of 19%, compared with $2.2 billion for the second quarter of fiscal 2025.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Cash Flow from Operating Activities -- $1.8 billion for the second quarter of fiscal 2026, a decrease of 19%, compared with $2.2 billion for the second quarter of fiscal 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash and Cash Equivalents and Investments -- $15.8 billion at the end of the second quarter of fiscal 2026, compared with $16.1 billion at the end of fiscal 2025 .",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "Cash and Cash Equivalents and Investments -- $15.8 billion at the end of the second quarter of fiscal 2026, compared with $16.1 billion at the end of fiscal 2025 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "balance_sheet_or_cash",
+      "claim": "Remaining Performance Obligations (RPO) -- $43.4 billion, up 5% in total.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "Remaining Performance Obligations (RPO) -- $43.4 billion, up 5% in total. Product RPO was up 8%, of which long-term RPO was $11.8 billion, up 11% . Services RPO was up 2%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "revenue",
+      "claim": "Deferred Revenue -- $28.4 billion, up 2% in total, with deferred product revenue up 3% and deferred services revenue up 2%.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Deferred Revenue -- $28.4 billion, up 2% in total, with deferred product revenue up 3% and deferred services revenue up 2%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "balance_sheet_or_cash",
+      "claim": "Capital Allocation -- In the second quarter of fiscal 2026, we returned $3.0 billion to stockholders through share buybacks and dividends.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Capital Allocation -- In the second quarter of fiscal 2026, we returned $3.0 billion to stockholders through share buybacks and dividends. We declared and paid a cash dividend of $0.41 per common share, or $1.6 billion, and repurchased approximately 18 million shares of common...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "other",
+      "claim": "\u2022 NeuralFabric Corp.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 NeuralFabric Corp. , a privately held enterprise AI platform company",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "other",
+      "claim": "\u2022 EzDubs, Inc.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 EzDubs, Inc. , a privately held AI software company",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "revenue",
+      "claim": "Q3 FY 2026 Revenue $15.4 billion - $15.6 billion Non-GAAP gross margin 65.5% - 66.5% Non-GAAP operating margin 33.5% - 34.5% Non-GAAP EPS $1.02 - $1.04",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "Q3 FY 2026 Revenue $15.4 billion - $15.6 billion Non-GAAP gross margin 65.5% - 66.5% Non-GAAP operating margin 33.5% - 34.5% Non-GAAP EPS $1.02 - $1.04",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "earnings_or_eps",
+      "claim": "CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "CISCO SYSTEMS, INC. estimates that GAAP EPS will be $0.73 to $0.77 for the third quarter of fiscal 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "revenue",
+      "claim": "FY 2026 Revenue $61.2 billion - $61.7 billion Non-GAAP EPS $4.13 - $4.17",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "FY 2026 Revenue $61.2 billion - $61.7 billion Non-GAAP EPS $4.13 - $4.17",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "earnings_or_eps",
+      "claim": "CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "CISCO SYSTEMS, INC. estimates that GAAP EPS will be $3.00 to $3.08 for fiscal 2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "Margin and EPS guidance includes the estimated impact of tariffs based on current trade policy.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "Margin and EPS guidance includes the estimated impact of tariffs based on current trade policy.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "Our Q3 FY 2026 guidance assumes an effective tax provision rate of approximately 17% for GAAP and approximately 19% for non-GAAP results.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "Our Q3 FY 2026 guidance assumes an effective tax provision rate of approximately 17% for GAAP and approximately 19% for non-GAAP results. Our FY 2026 guidance assumes an effective tax provision rate of approximately 16% for GAAP and approximately 19% for non-GAAP results.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "A reconciliation between the guidance on a GAAP and non-GAAP basis is provided in the tables entitled \"GAAP to non-GAAP Guidance\" located in the section entitled \"Reconciliations of GAAP to non-GAAP Measures.\"",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "A reconciliation between the guidance on a GAAP and non-GAAP basis is provided in the tables entitled \"GAAP to non-GAAP Guidance\" located in the section entitled \"Reconciliations of GAAP to non-GAAP Measures.\"",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "revenue",
+      "claim": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 REVENUE: Product $ 11,642 $ 10,234 $ 22,719 $ 20,348 Services 3,707 3,757 7,513 7,484 Total revenue 15,349 13,991 30,232 27,832 COST OF SALES: Product 4,205 3,713 8,139 7,239 Services 1,172 1,167 2,376 2,361 Total cost of sales 5,377 4,880 10,515 9,600 GROSS MARGIN 9,972 9,111 19,717 18,232 OPERATING EXPENSES: Research and development 2,355 2,299 4,755 4,585 Sales and marketing 2,881 2,672 5,752 5,424 General and administrative 688 752 1,421 1,547 Amortization of purchased intangible assets 231 265 462 530 Restructuring and other charges 36 10 183 675 Total operating expenses 6,191 5,998 12,573 12,761 OPERATING INCOME 3,781 3,113 7,144 5,471 Interest income 210 238 432 524 Interest expense (370) (404) (720) (822) Other income (loss), net 25 (60) 181 (19) Interest and other income (loss), net (135) (226) (107) (317) INCOME BEFORE PROVISION FOR INCOME TAXES 3,646 2,887 7,037 5,154 Provision for income taxes 471 459 1,002 15 NET INCOME $ 3,175 $ 2,428 $ 6,035 $ 5,139 Net income per share: Basic $ 0.80 $ 0.61 $ 1.53 $ 1.29 Diluted $ 0.80 $ 0.61 $ 1.51 $ 1.28 Shares used in per-share calculation: Basic 3,955 3,981 3,955 3,986 Diluted 3,984 4,005 3,987 4,008",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 REVENUE: Product $ 11,642 $ 10,234 $ 22,719 $ 20,348 Services 3,707 3,757 7,513 7,484 Total revenue 15,349 13,991 30,232 27,832 COST OF SALES: Product 4,205 3,713 8,139 7,23...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "January 24, 2026 Three Months Ended Six Months Ended Amount Y/Y % Amount Y/Y % Revenue : Americas $ 8,845 8% $ 17,834 8% EMEA 4,425 15% 8,208 10% APJC 2,080 8% 4,191 7% Total $ 15,349 10% $ 30,232 9%",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "January 24, 2026 Three Months Ended Six Months Ended Amount Y/Y % Amount Y/Y % Revenue : Americas $ 8,845 8% $ 17,834 8% EMEA 4,425 15% 8,208 10% APJC 2,080 8% 4,191 7% Total $ 15,349 10% $ 30,232 9%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "Amounts may not sum and percentages may not recalculate due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Amounts may not sum and percentages may not recalculate due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "margins",
+      "claim": "January 24, 2026 Three Months Ended Six Months Ended Gross Margin Percentage : Americas 65.8% 66.3% EMEA 71.7% 71.8% APJC 65.8% 66.4%",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "January 24, 2026 Three Months Ended Six Months Ended Gross Margin Percentage : Americas 65.8% 66.3% EMEA 71.7% 71.8% APJC 65.8% 66.4%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "revenue",
+      "claim": "January 24, 2026 Three Months Ended Six Months Ended Amount Y/Y % Amount Y/Y % Revenue : Networking $ 8,294 21% $ 16,061 18% Security 2,018 (4)% 3,998 (3)% Collaboration 1,054 6% 2,109 1% Observability 277 \u2014% 550 3% Total Product 11,642 14% 22,719 12% Services 3,707 (1)% 7,513 \u2014% Total $ 15,349 10% $ 30,232 9%",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "January 24, 2026 Three Months Ended Six Months Ended Amount Y/Y % Amount Y/Y % Revenue : Networking $ 8,294 21% $ 16,061 18% Security 2,018 (4)% 3,998 (3)% Collaboration 1,054 6% 2,109 1% Observability 277 \u2014% 550 3% Total Product 11,642 14% 22,719 12% Services 3,707 (1)% 7,513...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "revenue",
+      "claim": "January 24, 2026 July 26, 2025 ASSETS Current assets: Cash and cash equivalents $ 7,458 $ 8,346 Investments 8,319 7,764 Accounts receivable, net of allowance of $76 at January 24, 2026 and $69 at July 26, 2025 6,606 6,701 Inventories 3,920 3,164 Financing receivables, net 2,944 3,061 Other current assets 5,884 5,950 Total current assets 35,131 34,986 Property and equipment, net 2,351 2,113 Financing receivables, net 3,698 3,466 Goodwill 59,234 59,136 Purchased intangible assets, net 8,307 9,175 Deferred tax assets 7,399 7,356 Other assets 7,251 6,059 TOTAL ASSETS $ 123,371 $ 122,291 LIABILITIES AND EQUITY Current liabilities: Short-term debt $ 8,719 $ 5,232 Accounts payable 2,762 2,528 Income taxes payable 195 1,857 Accrued compensation 3,494 3,611 Deferred revenue 16,199 16,416 Other current liabilities 5,417 5,420 Total current liabilities 36,786 35,064 Long-term debt 21,367 22,861 Income taxes payable 2,124 2,165 Deferred revenue 12,204 12,363 Other long-term liabilities 3,167 2,995 Total liabilities 75,648 75,448 Total equity 47,723 46,843 TOTAL LIABILITIES AND EQUITY $ 123,371 $ 122,291",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "January 24, 2026 July 26, 2025 ASSETS Current assets: Cash and cash equivalents $ 7,458 $ 8,346 Investments 8,319 7,764 Accounts receivable, net of allowance of $76 at January 24, 2026 and $69 at July 26, 2025 6,606 6,701 Inventories 3,920 3,164 Financing receivables, net 2,94...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "revenue",
+      "claim": "(Unaudited) Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 Cash flows from operating activities: Net income $ 3,175 $ 2,428 $ 6,035 $ 5,139 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation, amortization, and other 659 761 1,265 1,550 Share-based compensation expense 934 921 1,989 1,748 Provision for receivables 12 8 9 7 Deferred income taxes (89) (101) (64) (382) (Gains) losses on divestitures, investments and other, net (59) 55 (237) (5) Change in operating assets and liabilities, net of effects of acquisitions and divestitures: Accounts receivable (1,803) (1,258) 54 969 Inventories (527) 212 (761) 441 Financing receivables 192 157 (120) 330 Other assets (50) (237) (642) (427) Accounts payable 344 (90) 236 (359) Income taxes, net (2,375) (1,479) (2,503) (2,285) Accrued compensation 419 461 (120) (293) Deferred revenue 433 416 (290) (555) Other liabilities 557 (13) 183 24 Net cash provided by operating activities 1,822 2,241 5,034 5,902 Cash flows from investing activities: Purchases of investments (2,244) (486) (4,228) (2,261) Proceeds from sales of investments 176 301 1,445 1,791 Proceeds from maturities of investments 1,081 1,539 2,303 2,703 Acquisitions, net of cash and cash equivalents acquired and divestitures (39) (40) (46) (257) Purchases of investments in privately held companies (47) (95) (65) (137) Return of investments in privately held companies 36 17 55 94 Acquisition of property and equipment (283) (210) (606) (427) Other 14 (4) (8) (5) Net cash provided by (used in) investing activities (1,306) 1,022 (1,150) 1,501 Cash flows from financing activities: Issuances of common stock 354 320 354 320 Repurchases of common stock - repurchase program (1,363) (1,240) (3,355) (3,243) Shares repurchased for tax withholdings on vesting of restricted stock units (784) (490) (1,068) (655) Short-term borrowings, original maturities of 90 days or less, net (510) 944 750 1,012 Issuances of debt 2,682 4,674 4,241 10,406 Repayments of debt (204) (6,561) (2,992) (11,382) Dividends paid (1,617) (1,593) (3,234) (3,185) Other 3 1 2 (2) Net cash used in financing activities (1,439) (3,945) (5,302) (6,729) Effect of foreign currency exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents (19) (18) (33) (8) Net increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents (942) (700) (1,451) 666 Cash, cash equivalents, restricted cash and restricted cash equivalents, beginning of period 8,401 10,208 8,910 8,842 Cash, cash equivalents, restricted cash and restricted cash equivalents, end of period $ 7,459 $ 9,508 $ 7,459 $ 9,508 Supplemental cash flow information: Cash paid for interest $ 85 $ 224 $ 701 $ 769 Cash paid for income taxes, net $ 2,935 $ 2,039 $ 3,569 $ 2,682",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "(Unaudited) Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 Cash flows from operating activities: Net income $ 3,175 $ 2,428 $ 6,035 $ 5,139 Adjustments to reconcile net income to net cash provided by operating activities...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "January 24, 2026 October 25, 2025 January 25, 2025 Amount Y/Y% Amount Y/Y% Amount Y/Y% Product (1) $ 21,977 8 % $ 21,904 10 % $ 20,321 25 % Services 21,429 2 % 20,969 4 % 20,947 8 % Total $ 43,406 5 % $ 42,873 7 % $ 41,268 16 %",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "January 24, 2026 October 25, 2025 January 25, 2025 Amount Y/Y% Amount Y/Y% Amount Y/Y% Product (1) $ 21,977 8 % $ 21,904 10 % $ 20,321 25 % Services 21,429 2 % 20,969 4 % 20,947 8 % Total $ 43,406 5 % $ 42,873 7 % $ 41,268 16 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "(1) As of the end of the second quarter of fiscal 2026, long-term product RPO was $11.8 billion, up 11% year over year.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "(1) As of the end of the second quarter of fiscal 2026, long-term product RPO was $11.8 billion, up 11% year over year.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "revenue",
+      "claim": "January 24, 2026 October 25, 2025 January 25, 2025 Deferred revenue: Product $ 13,371 $ 13,252 $ 13,033 Services 15,032 14,717 14,762 Total $ 28,403 $ 27,969 $ 27,795 Reported as: Current $ 16,199 $ 15,801 $ 15,999 Noncurrent 12,204 12,168 11,796 Total $ 28,403 $ 27,969 $ 27,795",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "January 24, 2026 October 25, 2025 January 25, 2025 Deferred revenue: Product $ 13,371 $ 13,252 $ 13,033 Services 15,032 14,717 14,762 Total $ 28,403 $ 27,969 $ 27,795 Reported as: Current $ 16,199 $ 15,801 $ 15,999 Noncurrent 12,204 12,168 11,796 Total $ 28,403 $ 27,969 $ 27,795",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "DIVIDENDS STOCK REPURCHASE PROGRAM TOTAL Quarter Ended Per Share Amount Shares Weighted-Average Price per Share Amount Amount Fiscal 2026 January 24, 2026 $ 0.41 $ 1,617 18 $ 76.29 $ 1,351 $ 2,968 October 25, 2025 $ 0.41 $ 1,617 29 $ 68.28 $ 2,001 $ 3,618 Fiscal 2025 July 26, 2025 $ 0.41 $ 1,625 19 $ 64.65 $ 1,252 $ 2,877 April 26, 2025 $ 0.41 $ 1,627 25 $ 59.78 $ 1,504 $ 3,131 January 25, 2025 $ 0.40 $ 1,593 21 $ 58.58 $ 1,236 $ 2,829 October 26, 2024 $ 0.40 $ 1,592 40 $ 49.56 $ 2,003 $ 3,595",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "DIVIDENDS STOCK REPURCHASE PROGRAM TOTAL Quarter Ended Per Share Amount Shares Weighted-Average Price per Share Amount Amount Fiscal 2026 January 24, 2026 $ 0.41 $ 1,617 18 $ 76.29 $ 1,351 $ 2,968 October 25, 2025 $ 0.41 $ 1,617 29 $ 68.28 $ 2,001 $ 3,618 Fiscal 2025 July 26,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "revenue",
+      "claim": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 GAAP net income $ 3,175 $ 2,428 $ 6,035 $ 5,139 Adjustments to cost of sales: Share-based compensation expense 151 151 301 282 Amortization of acquisition-related intangible assets 228 335 461 654 Acquisition/divestiture-related costs 6 17 14 36 Total adjustments to GAAP cost of sales 385 503 776 972 Adjustments to operating expenses: Share-based compensation expense 782 765 1,666 1,444 Amortization of acquisition-related intangible assets 231 265 462 530 Acquisition/divestiture-related costs 96 205 199 490 Significant asset impairments and restructurings 36 10 183 675 Total adjustments to GAAP operating expenses 1,145 1,245 2,510 3,139 Adjustments to interest and other income (loss), net: (Gains) and losses on investments (61) 7 (256) (91) Total adjustments to GAAP interest and other income (loss), net (61) 7 (256) (91) Total adjustments to GAAP income before provision for income taxes 1,469 1,755 3,030 4,020 Income tax effect of non-GAAP adjustments (442) (423) (779) (899) Significant tax matters (59) \u2014 (132) (829) Total adjustments to GAAP provision for income taxes (501) (423) (911) (1,728) Non-GAAP net income $ 4,143 $ 3,760 $ 8,154 $ 7,431",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 GAAP net income $ 3,175 $ 2,428 $ 6,035 $ 5,139 Adjustments to cost of sales: Share-based compensation expense 151 151 301 282 Amortization of acquisition-related intangible...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "earnings_or_eps",
+      "claim": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 GAAP EPS $ 0.80 $ 0.61 $ 1.51 $ 1.28 Adjustments to GAAP: Share-based compensation expense 0.23 0.23 0.49 0.43 Amortization of acquisition-related intangible assets 0.12 0.15 0.23 0.30 Acquisition/divestiture-related costs 0.03 0.06 0.05 0.13 Significant asset impairments and restructurings 0.01 \u2014 0.05 0.17 (Gains) and losses on investments (0.02) \u2014 (0.06) (0.02) Income tax effect of non-GAAP adjustments (0.11) (0.11) (0.20) (0.22) Significant tax matters (0.01) \u2014 (0.03) (0.21) Non-GAAP EPS $ 1.04 $ 0.94 $ 2.05 $ 1.85",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 GAAP EPS $ 0.80 $ 0.61 $ 1.51 $ 1.28 Adjustments to GAAP: Share-based compensation expense 0.23 0.23 0.49 0.43 Amortization of acquisition-related intangible assets 0.12 0.1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "Amounts may not sum due to rounding.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "Amounts may not sum due to rounding.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "earnings_or_eps",
+      "claim": "GROSS MARGINS, OPERATING EXPENSES, OPERATING MARGINS, INTEREST AND OTHER INCOME (LOSS), NET, AND NET INCOME",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "GROSS MARGINS, OPERATING EXPENSES, OPERATING MARGINS, INTEREST AND OTHER INCOME (LOSS), NET, AND NET INCOME",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "revenue",
+      "claim": "Three Months Ended January 24, 2026 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Y/Y Operating Income Y/Y Interest and other income (loss), net Net Income Y/Y GAAP amount $ 7,437 $ 2,535 $ 9,972 $ 6,191 3% $ 3,781 21% $ (135) $ 3,175 31% % of revenue 63.9 % 68.4 % 65.0 % 40.3 % 24.6 % (0.9) % 20.7 % Adjustments to GAAP amounts: Share-based compensation expense 63 88 151 782 933 \u2014 933 Amortization of acquisition-related intangible assets 228 \u2014 228 231 459 \u2014 459 Acquisition/divestiture-related costs 2 4 6 96 102 \u2014 102 Significant asset impairments and restructurings \u2014 \u2014 \u2014 36 36 \u2014 36 (Gains) and losses on investments \u2014 \u2014 \u2014 \u2014 \u2014 (61) (61) Income tax effect/significant tax matters \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (501) Non-GAAP amount $ 7,730 $ 2,627 $ 10,357 $ 5,046 6% $ 5,311 9% $ (196) $ 4,143 10% % of revenue 66.4 % 70.9 % 67.5 % 32.9 % 34.6 % (1.3) % 27.0 %",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "Three Months Ended January 24, 2026 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Y/Y Operating Income Y/Y Interest and other income (loss), net Net Income Y/Y GAAP amount $ 7,437 $ 2,535 $ 9,972 $ 6,191 3% $ 3,781 21% $ (135) $ 3,175 31% % o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "revenue",
+      "claim": "Three Months Ended January 25, 2025 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Operating Income Interest and other income (loss), net Net Income GAAP amount $ 6,521 $ 2,590 $ 9,111 $ 5,998 $ 3,113 $ (226) $ 2,428 % of revenue 63.7 % 68.9 % 65.1 % 42.9 % 22.3 % (1.6) % 17.4 % Adjustments to GAAP amounts: Share-based compensation expense 65 86 151 765 916 \u2014 916 Amortization of acquisition-related intangible assets 335 \u2014 335 265 600 \u2014 600 Acquisition/divestiture-related costs 3 14 17 205 222 \u2014 222 Significant asset impairments and restructurings \u2014 \u2014 \u2014 10 10 \u2014 10 (Gains) and losses on investments \u2014 \u2014 \u2014 \u2014 \u2014 7 7 Income tax effect/significant tax matters \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (423) Non-GAAP amount $ 6,924 $ 2,690 $ 9,614 $ 4,753 $ 4,861 $ (219) $ 3,760 % of revenue 67.7 % 71.6 % 68.7 % 34.0 % 34.7 % (1.6) % 26.9 %",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "Three Months Ended January 25, 2025 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Operating Income Interest and other income (loss), net Net Income GAAP amount $ 6,521 $ 2,590 $ 9,111 $ 5,998 $ 3,113 $ (226) $ 2,428 % of revenue 63.7 % 68.9 %...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "revenue",
+      "claim": "Six Months Ended January 24, 2026 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Y/Y Operating Income Y/Y Interest and other income (loss), net Net Income Y/Y GAAP amount $ 14,580 $ 5,137 $ 19,717 $ 12,573 (1)% $ 7,144 31% $ (107) $ 6,035 17% % of revenue 64.2 % 68.4 % 65.2 % 41.6 % 23.6 % (0.4) % 20.0 % Adjustments to GAAP amounts: Share-based compensation expense 131 170 301 1,666 1,967 \u2014 1,967 Amortization of acquisition-related intangible assets 461 \u2014 461 462 923 \u2014 923 Acquisition/divestiture-related costs 4 10 14 199 213 \u2014 213 Significant asset impairments and restructurings \u2014 \u2014 \u2014 183 183 \u2014 183 (Gains) and losses on investments \u2014 \u2014 \u2014 \u2014 \u2014 (256) (256) Income tax effect/significant tax matters \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (911) Non-GAAP amount $ 15,176 $ 5,317 $ 20,493 $ 10,063 5% $ 10,430 9% $ (363) $ 8,154 10% % of revenue 66.8 % 70.8 % 67.8 % 33.3 % 34.5 % (1.2) % 27.0 %",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Six Months Ended January 24, 2026 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Y/Y Operating Income Y/Y Interest and other income (loss), net Net Income Y/Y GAAP amount $ 14,580 $ 5,137 $ 19,717 $ 12,573 (1)% $ 7,144 31% $ (107) $ 6,035 17%...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "revenue",
+      "claim": "Six Months Ended January 25, 2025 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Operating Income Interest and other income (loss), net Net Income GAAP amount $ 13,109 $ 5,123 $ 18,232 $ 12,761 $ 5,471 $ (317) $ 5,139 % of revenue 64.4 % 68.5 % 65.5 % 45.9 % 19.7 % (1.1) % 18.5 % Adjustments to GAAP amounts: Share-based compensation expense 122 160 282 1,444 1,726 \u2014 1,726 Amortization of acquisition-related intangible assets 654 \u2014 654 530 1,184 \u2014 1,184 Acquisition/divestiture-related costs 8 28 36 490 526 \u2014 526 Significant asset impairments and restructurings \u2014 \u2014 \u2014 675 675 \u2014 675 (Gains) and losses on investments \u2014 \u2014 \u2014 \u2014 \u2014 (91) (91) Income tax effect/significant tax matters \u2014 \u2014 \u2014 \u2014 \u2014 \u2014 (1,728) Non-GAAP amount $ 13,893 $ 5,311 $ 19,204 $ 9,622 $ 9,582 $ (408) $ 7,431 % of revenue 68.3 % 71.0 % 69.0 % 34.6 % 34.4 % (1.5) % 26.7 %",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "Six Months Ended January 25, 2025 Product Gross Margin Services Gross Margin Total Gross Margin Operating Expenses Operating Income Interest and other income (loss), net Net Income GAAP amount $ 13,109 $ 5,123 $ 18,232 $ 12,761 $ 5,471 $ (317) $ 5,139 % of revenue 64.4 % 68.5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "other",
+      "claim": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 GAAP effective tax rate 12.9 % 15.9 % 14.2 % 0.3 % Total adjustments to GAAP provision for income taxes 6.1 % 3.1 % 4.8 % 18.7 % Non-GAAP effective tax rate 19.0 % 19.0 % 19.0 % 19.0 %",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "Three Months Ended Six Months Ended January 24, 2026 January 25, 2025 January 24, 2026 January 25, 2025 GAAP effective tax rate 12.9 % 15.9 % 14.2 % 0.3 % Total adjustments to GAAP provision for income taxes 6.1 % 3.1 % 4.8 % 18.7 % Non-GAAP effective tax rate 19.0 % 19.0 % 19...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "guidance",
+      "claim": "Q3 FY 2026 Gross Margin Rate Operating Margin Rate Earnings per Share (1) GAAP 63% - 64% 24% - 25% $0.73 - $0.77 Estimated adjustments for: Share-based compensation expense 1.0% 6.0% $0.17 - $0.18 Amortization of acquisition-related intangible assets and acquisition/divestiture-related costs 1.5% 3.5% $0.10 - $0.11 Non-GAAP 65.5% - 66.5% 33.5% - 34.5% $1.02 - $1.04",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "Q3 FY 2026 Gross Margin Rate Operating Margin Rate Earnings per Share (1) GAAP 63% - 64% 24% - 25% $0.73 - $0.77 Estimated adjustments for: Share-based compensation expense 1.0% 6.0% $0.17 - $0.18 Amortization of acquisition-related intangible assets and acquisition/divestitur...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "earnings_or_eps",
+      "claim": "FY 2026 Earnings per Share (1) GAAP $3.00 - $3.08 Estimated adjustments for: Share-based compensation expense $0.70 - $0.72 Amortization of acquisition-related intangible assets and acquisition/divestiture-related costs $0.43 - $0.45 Significant asset impairments and restructurings $0.04 (Gains) and losses on investments ($0.05) Significant tax matters ($0.03) Non-GAAP $4.13 - $4.17",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "FY 2026 Earnings per Share (1) GAAP $3.00 - $3.08 Estimated adjustments for: Share-based compensation expense $0.70 - $0.72 Amortization of acquisition-related intangible assets and acquisition/divestiture-related costs $0.43 - $0.45 Significant asset impairments and restructu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "earnings_or_eps",
+      "claim": "(1) Estimated adjustments to GAAP earnings per share are shown after income tax effects.",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "(1) Estimated adjustments to GAAP earnings per share are shown after income tax effects.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "guidance",
+      "claim": "Except as noted above, this guidance does not include the effects of any future acquisitions/divestitures, significant asset impairments and restructurings, significant litigation settlements and other contingencies, gains and losses on investments, significant tax matters, or other items, which may or may not be significant.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "Except as noted above, this guidance does not include the effects of any future acquisitions/divestitures, significant asset impairments and restructurings, significant litigation settlements and other contingencies, gains and losses on investments, significant tax matters, or...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "other",
+      "claim": "Forward Looking Statements, Non-GAAP Information and Additional Information",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "Forward Looking Statements, Non-GAAP Information and Additional Information",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "earnings_or_eps",
+      "claim": "This release includes non-GAAP net income, non-GAAP gross margins, non-GAAP operating expenses, non-GAAP operating income and margin, non-GAAP effective tax rates, non-GAAP interest and other income (loss), net, and non-GAAP net income per share data for the periods presented.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "This release includes non-GAAP net income, non-GAAP gross margins, non-GAAP operating expenses, non-GAAP operating income and margin, non-GAAP effective tax rates, non-GAAP interest and other income (loss), net, and non-GAAP net income per share data for the periods presented....",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "other",
+      "claim": "These non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with generally accepted accounting principles (GAAP) and may be different from non-GAAP measures used by other companies.",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "These non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with generally accepted accounting principles (GAAP) and may be different from non-GAAP measures used by other companies. In addition, these non-GAAP measures are not bas...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "other",
+      "claim": "CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "CISCO SYSTEMS, INC. believes that the presentation of non-GAAP measures when shown in conjunction with the corresponding GAAP measures, provides useful information to investors and management regarding financial and business trends relating to its financial condition and its h...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "costs_or_expenses",
+      "claim": "For its internal budgeting process, CISCO SYSTEMS, INC.'s management uses financial statements that do not include, when applicable, share-based compensation expense, amortization of acquisition-related intangible assets, acquisition/divestiture-related costs, significant asset impairments and restructurings, significant litigation settlements and other contingencies, gains and losses on investments, the income tax effects of the foregoing and significant tax matters.",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "For its internal budgeting process, CISCO SYSTEMS, INC.'s management uses financial statements that do not include, when applicable, share-based compensation expense, amortization of acquisition-related intangible assets, acquisition/divestiture-related costs, significant asse...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "other",
+      "claim": "periods, CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "periods, CISCO SYSTEMS, INC. has excluded other items that it no longer excludes for purposes of its non-GAAP financial measures. From time to time in the future there may be other items that CISCO SYSTEMS, INC. may exclude for purposes of its internal budgeting process and in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "other",
+      "claim": "CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "CISCO SYSTEMS, INC. (NASDAQ:CSCO) is the worldwide technology leader that is revolutionizing the way organizations connect and protect in the AI era. For more than 40 years, CISCO SYSTEMS, INC. has securely connected the world. With its industry leading AI-powered solutions an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "Copyright \u00a9 2026 CISCO SYSTEMS, INC.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "Copyright \u00a9 2026 CISCO SYSTEMS, INC. and/or its affiliates. All rights reserved. CISCO SYSTEMS, INC. and the CISCO SYSTEMS, INC. logo are trademarks or registered trademarks of CISCO SYSTEMS, INC. and/or its affiliates in the U.S. and other countries. To view a list of CISCO S...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "other",
+      "claim": "RSS Feed for CISCO SYSTEMS, INC.: https://newsroom.CISCO SYSTEMS, INC..com/rss-feeds",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "RSS Feed for CISCO SYSTEMS, INC.: https://newsroom.CISCO SYSTEMS, INC..com/rss-feeds",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q1: 14883000000",
+      "value": 14883000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for 2026Q1: 14883000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for 2026Q1: 9745000000",
+      "value": 9745000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for 2026Q1: 9745000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q1: 3363000000",
+      "value": 3363000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q1: 3363000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "other",
+      "claim": "OperatingExpenses reported for 2026Q1: 6382000000",
+      "value": 6382000000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "OperatingExpenses reported for 2026Q1: 6382000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q1: 2860000000",
+      "value": 2860000000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q1: 2860000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q1: 0.72",
+      "value": 0.72,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q1: 0.72",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q1: 0.72",
+      "value": 0.72,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q1: 0.72",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 8400000000",
+      "value": 8400000000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 8400000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 3212000000",
+      "value": 3212000000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 3212000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.053967, ret_20d=0.13343, market_ret_20d=-0.002609",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.053967, ret_20d=0.13343, market_ret_20d=-0.002609",
+      "support_label": "supported"
+    }
+  ]
+}

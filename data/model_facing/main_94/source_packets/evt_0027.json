@@ -1,0 +1,300 @@
+{
+  "event_id": "evt_0027",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "INTUITIVE SURGICAL INC",
+  "ticker": "ISRG",
+  "company_alias": "INTUITIVE SURGICAL INC",
+  "masked_company": "Company B",
+  "sector": "Health Care",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2024 Q4",
+  "event_date": "2026-01-22",
+  "filing_metadata": {
+    "cik": "1035267",
+    "accession_number": "0001035267-26-000006",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-22T11:05:12-05:00",
+    "event_date": "2026-01-22",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "SUNNYVALE, CALIF. 2026-01-22T11:05:12-05:00 \u2013 INTUITIVE SURGICAL INC (the \u201cCompany\u201d) (Nasdaq:ISRG), a global technology leader in minimally invasive care and the pioneer of robotic-assisted surgery, today announced financial results for the quarter ended December 31, 2025.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Worldwide procedures (da Vinci and Ion combined) grew approximately 18% compared with the fourth quarter of 2024. Da Vinci procedures grew approximately 17% and Ion procedures grew approximately 44%.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 The Company placed 532 da Vinci surgical systems, compared with 493 in the fourth quarter of 2024. The fourth quarter 2025 da Vinci surgical system placements included 303 da Vinci 5 systems, compared with 174 in the fourth quarter of 2024. The Company placed 42 Ion endoluminal systems, compared with 69 in the fourth quarter of 2024.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 The Company grew its da Vinci surgical system installed base to 11,106 systems as of December 31, 2025, an increase of 12% compared with 9,902 as of December 31, 2024. The Company grew its Ion endoluminal system installed base to 995 systems as of December 31, 2025, an increase of 24% compared with 805 as of December 31, 2024.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Fourth quarter 2025 revenue of $2.87 billion increased 19% compared with $2.41 billion in the fourth quarter of 2024.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Fourth quarter 2025 GAAP net income attributable to INTUITIVE SURGICAL INC was $795 million, or $2.21 per diluted share, compared with $686 million, or $1.88 per diluted share, in the fourth quarter of 2024.",
+      "token_count": 49
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Fourth quarter 2025 non-GAAP* net income attributable to INTUITIVE SURGICAL INC was $914 million, or $2.53 per diluted share, compared with $805 million, or $2.21 per diluted share, in the fourth quarter of 2024. Fourth quarter 2025 non-GAAP* net income attributable to INTUITIVE SURGICAL INC included tax benefits of $0.11 per diluted share associated with the release of unrecognized tax benefits.",
+      "token_count": 94
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "\u2022 Fourth quarter 2025 expenses included a $70 million contribution to the INTUITIVE SURGICAL INC Foundation compared to a $45 million contribution to the INTUITIVE SURGICAL INC Foundation in the fourth quarter of 2024.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gross profit, income from operations, net income attributable to INTUITIVE SURGICAL INC., and net income per diluted share attributable to INTUITIVE SURGICAL INC. are reported on a GAAP and non-GAAP* basis. The non-GAAP* measures are described below and are reconciled to the corresponding GAAP measures at the end of this release.",
+      "token_count": 77
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth quarter 2025 revenue was $2.87 billion, an increase of 19% compared with $2.41 billion in the fourth quarter of 2024. The higher fourth quarter revenue was driven by growth in procedure volume, higher da Vinci system placements, and an increase in the installed base of systems.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth quarter 2025 instruments and accessories revenue increased by 17% to $1.66 billion, compared with $1.41 billion in the fourth quarter of 2024. The increase in instruments and accessories revenue was primarily driven by approximately 17% growth in da Vinci procedure volume and approximately 44% growth in Ion procedure volume.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Fourth quarter 2025 systems revenue was $786 million, compared with $655 million in the fourth quarter of 2024. The higher systems revenue reflected increased da Vinci system placements, a higher lease installed base, and higher da Vinci system average selling prices compared with the fourth quarter of 2024. The Company placed 532 da Vinci surgical systems, of which 303 were da Vinci 5 systems, in the fourth quarter of 2025, compared with 493 systems, of which 174 were da Vinci 5 systems, in the fourth quarter of 2024. The fourth quarter 2025 da Vinci surgical system placements included 250 systems placed under operating lease arrangements, of which 150 systems were placed under usage-based operating lease arrangements, compared with 222 systems placed under operating lease arrangements, of which 140 systems were placed under usage-based operating lease arrangements in the fourth quarter of 2024.",
+      "token_count": 228
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Fourth quarter 2025 GAAP income from operations increased to $864 million, compared with $735 million in the fourth quarter of 2024. Fourth quarter 2025 GAAP income from operations included share-based compensation expense of $207 million, compared with $180 million in the fourth quarter of 2024. Fourth quarter 2025 non-",
+      "token_count": 81
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "GAAP* income from operations increased to $1.07 billion, compared with $0.93 billion in the fourth quarter of 2024.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fourth quarter 2025 GAAP net income attributable to INTUITIVE SURGICAL INC. was $795 million, or $2.21 per diluted share, compared with $686 million, or $1.88 per diluted share, in the fourth quarter of 2024. Fourth quarter 2025 GAAP net income attributable to INTUITIVE SURGICAL INC. included excess tax benefits of $43 million, or $0.12 per diluted share, compared with $34 million, or $0.09 per diluted share, in the fourth quarter of 2024. Additionally, fourth quarter 2025 GAAP net income included a discrete tax benefit of $23 million, or $0.06 per diluted share, arising from the release of unrecognized tax benefits due to statute expiration in various jurisdictions, compared with $19 million, or $0.05 per diluted share, in the fourth quarter of 2024.",
+      "token_count": 184
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fourth quarter 2025 non-GAAP* net income attributable to INTUITIVE SURGICAL INC. was $914 million, or $2.53 per diluted share, compared with $805 million, or $2.21 per diluted share, in the fourth quarter of 2024. Fourth quarter 2025 non-GAAP* net income included a discrete tax benefit of $11 million, or $0.03 per diluted share, arising from the release of unrecognized tax benefits due to statute expiration in various jurisdictions, compared with $8 million, or $0.02 per diluted share, in the fourth quarter of 2024.",
+      "token_count": 127
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The Company ended the fourth quarter of 2025 with $9.03 billion in cash, cash equivalents, and investments, an increase of $0.60 billion during the quarter, primarily driven by cash generated from operations, partially offset by cash used for repurchases of common stock and capital expenditures.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Worldwide da Vinci procedure growth of approximately 13% to 15% in 2026, compared to 18% in 2025.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP* gross profit margin to be within a range of 67% and 68% of revenue in 2026, compared to 67.6% in 2025. This range includes an estimated impact from tariffs of 1.2% of revenue, plus or minus 10 basis points.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP* operating expense growth of 11% to 15% in 2026, compared to 12% in 2025.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The range for expected non-GAAP* gross profit margin reflects the Company\u2019s estimates of the adverse impact from tariffs that are currently in effect as of the time of this press release and assumes such tariffs remain in place. Should additional tariffs be implemented or existing tariffs be modified, the additional impact on the Company\u2019s financial results in 2026, including the change in expected non-GAAP* gross profit margin, could be material. The ultimate effect of tariffs will depend on various factors, including the proportion of components procured and finished goods manufactured outside of the United States and the amount, scope, nature, and timing of the tariffs.",
+      "token_count": 171
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The 2026 financial outlook provided above includes forward-looking, non-GAAP financial measures, which management uses in measuring performance. We do not provide a reconciliation of non-GAAP outlook measures to corresponding GAAP measures on a forward-looking basis, because we are unable to predict with reasonable certainty the exact timing and ultimate outcome of certain items, including but not limited to legal proceedings, without unreasonable efforts. These items are uncertain, depend on various factors, and could be material to INTUITIVE SURGICAL INC\u2019s results computed in accordance with GAAP. For additional information regarding the nature of these items, refer to the reconciliations of historical GAAP to non-GAAP measures included elsewhere in this release.",
+      "token_count": 191
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "INTUITIVE SURGICAL INC (Nasdaq:ISRG), headquartered in Sunnyvale, California, is a global leader in minimally invasive care and the pioneer of robotic-assisted surgery. Our technologies include the da Vinci surgical systems and the Ion endoluminal system. By uniting advanced systems, progressive learning, and value-enhancing services, we help",
+      "token_count": 85
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "physicians and their teams optimize care delivery to support the best outcomes possible. At INTUITIVE SURGICAL INC, we envision a future of care that is less invasive and profoundly better, where diseases are identified early and treated quickly, so patients can get back to what matters most.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Product and brand names/logos are trademarks or registered trademarks of INTUITIVE SURGICAL INC or their respective owner. See www.INTUITIVE SURGICAL INC.com/trademarks .",
+      "token_count": 36
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For more information, please visit the Company\u2019s website at www.INTUITIVE SURGICAL INC.com .",
+      "token_count": 20
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To supplement its consolidated financial statements, which are prepared and presented in accordance with U.S. generally accepted accounting principles (\u201cGAAP\u201d), the Company uses the following non-GAAP financial measures: non-GAAP gross profit, non-GAAP income from operations, non-GAAP net income attributable to INTUITIVE SURGICAL INC, and non-GAAP net income per diluted share attributable to INTUITIVE SURGICAL INC (\u201cEPS\u201d). The presentation of this financial information is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.",
+      "token_count": 152
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company uses these non-GAAP financial measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons. The Company believes that these non-GAAP financial measures provide meaningful supplemental information regarding its performance by excluding items such as amortization of intangible assets, share-based compensation (\u201cSBC\u201d) and long-term incentive plan (\u201cLTIP\u201d) expenses, and other special items. LTIP expense relates to phantom share awards granted in China by the Company\u2019s INTUITIVE SURGICAL INC-Fosun joint venture to its employees that vest over four years and can remain outstanding for seven to ten years. These awards are valued based on certain key performance metrics. Accordingly, they are subject to significant volatility based on the performance of these metrics and are not tied to performance of the Company\u2019s business within the period. The Company believes that both management and investors benefit from referring to these non-GAAP financial measures in assessing its performance and when planning, forecasting, and analyzing future periods. These non-GAAP financial measures also facilitate management\u2019s internal comparisons to its historical performance. The Company believes these non-GAAP financial measures are useful to investors, because (1) they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making, and (2) they are used by institutional investors and the analyst community to help them analyze the performance of the Company\u2019s business.",
+      "token_count": 396
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP gross profit . The Company defines non-GAAP gross profit as gross profit, excluding SBC and LTIP expenses and amortization of intangible assets.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP income from operations . The Company defines non-GAAP income from operations as income from operations, excluding SBC and LTIP expenses, amortization of intangible assets, litigation charges, and gains on the sale of a business.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP net income attributable to INTUITIVE SURGICAL INC and EPS . The Company defines non-GAAP net income as net income attributable to INTUITIVE SURGICAL INC, excluding SBC and LTIP expenses, amortization of intangible assets, litigation charges, gains on the sale of a business, gains or losses on strategic investments, tax adjustments, including the excess tax benefits associated with SBC arrangements and the net tax effects related to intra-entity transfers of non-inventory assets, and adjustments attributable to noncontrolling interest in joint venture, net of the related tax effects. The Company excludes the excess tax benefits associated with SBC arrangements as well as the tax effects associated with non-cash amortization of deferred tax assets related to intra-entity non-inventory transfers, because the Company does not believe these items correlate with the ongoing results of its core operations. The tax effects of the non-GAAP items are determined by applying a calculated non-GAAP effective tax rate, which is commonly referred to as the with-and-without method. Without excluding these tax effects, investors would only see the gross effect that these non-GAAP adjustments had on the Company\u2019s operating results. The Company\u2019s calculated non-GAAP effective tax rate is generally higher than its GAAP effective tax rate. The Company defines non-GAAP EPS as non-GAAP net income attributable to INTUITIVE SURGICAL INC divided by diluted shares outstanding, which are calculated as GAAP weighted-average outstanding shares plus dilutive potential shares outstanding during the period.",
+      "token_count": 393
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "There are a number of limitations related to the use of non-GAAP measures versus measures calculated in accordance with GAAP. Non-GAAP gross profit, non-GAAP income from operations, non-GAAP net income attributable to INTUITIVE SURGICAL INC, and non-GAAP EPS exclude items such as SBC and LTIP expenses, amortization of intangible assets, excess tax benefits associated with SBC arrangements, and non-cash amortization of deferred tax assets related to intra-entity transfers of non-inventory assets, which are primarily recurring items. SBC expense has been, and will continue to be for the foreseeable future, a significant recurring expense in the Company\u2019s business. In addition, the components of the costs that the Company excludes in its calculation of non-GAAP net income attributable to INTUITIVE SURGICAL INC and non-GAAP EPS may differ from the components that its peer companies exclude when they report their results of operations. Management addresses these limitations by providing specific information regarding the GAAP amounts excluded from non-GAAP net income attributable to INTUITIVE SURGICAL INC and non-GAAP EPS and evaluating non-GAAP net income attributable to INTUITIVE SURGICAL INC and non-GAAP EPS together with net income attributable to INTUITIVE SURGICAL INC and net income per share attributable to INTUITIVE SURGICAL INC calculated in accordance with GAAP.",
+      "token_count": 328
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, 2025 September 30, 2025 December 31, 2024 Revenue: Instruments and accessories $ 1,658.3 $ 1,518.8 $ 1,411.5 Systems 785.9 590.4 654.6 Services 422.0 395.9 347.4 Total revenue 2,866.2 2,505.1 2,413.5 Cost of revenue: Product 809.8 699.4 663.9 Service 152.1 143.3 107.4 Total cost of revenue 961.9 842.7 771.3 Gross profit 1,904.3 1,662.4 1,642.2 Operating expenses: Selling, general and administrative (1) 687.1 573.3 612.6 Research and development 352.9 329.4 294.7 Total operating expenses 1,040.0 902.7 907.3 Income from operations (2) 864.3 759.7 734.9 Interest and other income (expense), net 91.3 95.5 74.9 Income before taxes 955.6 855.2 809.8 Income tax expense (benefit) (3) 156.1 146.0 121.8 Net income 799.5 709.2 688.0 Less: net income attributable to noncontrolling interest in joint venture 4.7 4.8 2.3 Net income attributable to INTUITIVE SURGICAL INC. $ 794.8 $ 704.4 $ 685.7 Net income per share attributable to INTUITIVE SURGICAL INC.: Basic $ 2.24 $ 1.98 $ 1.92 Diluted (4) $ 2.21 $ 1.95 $ 1.88 Weighted average shares outstanding: Basic 354.9 356.6 356.4 Diluted 360.4 361.8 363.9 (1) Selling, general and administrative includes the effect of the following item: Contribution to the INTUITIVE SURGICAL INC Foundation $ 70.0 $ \u2014 $ 45.0 (2) Income from operations includes the effect of the following items: Amortization of intangible assets $ (3.3) $ (3.3) $ (3.1) Expensed IP charged to R&D $ \u2014 $ (0.6) $ (5.7) (3) Income tax expense (benefit) includes the effect of the following items: Excess tax benefits related to share-based compensation arrangements $ (43.0) $ (24.2) $ (34.3) Discrete tax benefit from release of unrecognized tax benefits $ (22.5) $ (22.5) $ (18.9) (4) Diluted net income per share attributable to INTUITIVE SURGICAL INC. includes the effect of the following items: Contribution to the INTUITIVE SURGICAL INC Foundation, net of tax $ (0.15) $ \u2014 $ (0.10) Amortization of intangible assets, net of tax $ (0.01) $ (0.01) $ (0.01) Expensed IP charged to R&D, net of tax $ \u2014 $ \u2014 $ (0.01) Excess tax benefits related to share-based compensation arrangements $ 0.12 $ 0.07 $ 0.09 Discrete tax benefit from release of unrecognized tax benefits $ 0.06 $ 0.06 $ 0.05",
+      "token_count": 543
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Years Ended December 31, 2025 2024 Revenue: Instruments and accessories $ 6,018.9 $ 5,079.0 Systems 2,473.7 1,966.0 Services 1,572.1 1,307.1 Total revenue 10,064.7 8,352.1 Cost of revenue: Product 2,866.1 2,313.1 Service 556.3 404.8 Total cost of revenue 3,422.4 2,717.9 Gross profit 6,642.3 5,634.2 Operating expenses: Selling, general and administrative (1) 2,385.0 2,140.0 Research and development 1,311.8 1,145.3 Total operating expenses 3,696.8 3,285.3 Income from operations (2) 2,945.5 2,348.9 Interest and other income, net 365.9 324.9 Income before taxes 3,311.4 2,673.8 Income tax expense (3) 434.8 336.3 Net income 2,876.6 2,337.5 Less: net income attributable to noncontrolling interest in joint venture 20.6 14.9 Net income attributable to INTUITIVE SURGICAL INC. $ 2,856.0 $ 2,322.6 Net income per share attributable to INTUITIVE SURGICAL INC.: Basic $ 8.00 $ 6.54 Diluted (4) $ 7.87 $ 6.42 Weighted average shares outstanding: Basic 356.9 355.2 Diluted 362.7 362.0 (1) Selling, general and administrative includes the effect of the following item: Contribution to the INTUITIVE SURGICAL INC Foundation $ 70.0 $ 45.0 (2) Income from operations includes the effect of the following items: Amortization of intangible assets $ (13.2) $ (16.7) Expensed IP charged to R&D $ (7.0) $ (5.9) (3) Income tax expense includes the effect of the following items: Excess tax benefits related to share-based compensation arrangements $ (245.5) $ (223.3) Discrete tax benefit from release of unrecognized tax benefits $ (45.5) $ (27.0) (4) Diluted net income per share attributable to INTUITIVE SURGICAL INC. includes the effect of the following items: Contribution to the INTUITIVE SURGICAL INC Foundation, net of tax $ (0.15) $ (0.10) Amortization of intangible assets, net of tax $ (0.03) $ (0.04) Expensed IP charged to R&D, net of tax $ (0.02) $ (0.01) Excess tax benefits related to share-based compensation arrangements $ 0.68 $ 0.62 Discrete tax benefit from release of unrecognized tax benefits $ 0.13 $ 0.07",
+      "token_count": 488
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 December 31, 2024 Cash, cash equivalents, and investments $ 9,034.1 $ 8,832.4 Accounts receivable, net 1,527.3 1,225.4 Inventory 1,840.0 1,487.2 Property, plant, and equipment, net 5,342.4 4,646.6 Goodwill 370.3 347.5 Deferred tax assets 1,018.6 1,045.1 Other assets 1,326.0 1,159.0 Total assets $ 20,458.7 $ 18,743.2 Accounts payable and other liabilities $ 1,918.9 $ 1,690.7 Deferred revenue 598.1 522.9 Total liabilities 2,517.0 2,213.6 Stockholders\u2019 equity 17,941.7 16,529.6 Total liabilities and stockholders\u2019 equity $ 20,458.7 $ 18,743.2",
+      "token_count": 141
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Three Months Ended Years Ended December 31, 2025 September 30, 2025 December 31, 2024 December 31, 2025 December 31, 2024 GAAP gross profit $ 1,904.3 $ 1,662.4 $ 1,642.2 $ 6,642.3 $ 5,634.2 Share-based compensation expense 35.5 38.8 33.6 147.1 123.7 Long-term incentive plan expense (0.1) 0.2 0.2 0.5 0.8 Amortization of intangible assets 2.4 2.4 2.4 9.7 12.3 Non-GAAP gross profit $ 1,942.1 $ 1,703.8 $ 1,678.4 $ 6,799.6 $ 5,771.0 GAAP income from operations $ 864.3 $ 759.7 $ 734.9 $ 2,945.5 $ 2,348.9 Share-based compensation expense 203.2 203.5 177.0 788.1 676.8 Long-term incentive plan expense (1.4) 1.3 1.2 1.0 5.6 Amortization of intangible assets 3.3 3.3 3.1 13.2 16.7 Litigation charges 2.0 8.1 12.6 13.6 19.8 Gain on sale of business (1.0) \u2014 (1.1) (1.0) (1.1) Non-GAAP income from operations $ 1,070.4 $ 975.9 $ 927.7 $ 3,760.4 $ 3,066.7 GAAP net income attributable to INTUITIVE SURGICAL INC. $ 794.8 $ 704.4 $ 685.7 $ 2,856.0 $ 2,322.6 Share-based compensation expense 203.2 203.5 177.0 788.1 676.8 Long-term incentive plan expense (1.4) 1.3 1.2 1.0 5.6 Amortization of intangible assets 3.3 3.3 3.1 13.2 16.7 Litigation charges 2.0 8.1 12.6 13.6 19.8 Gain on sale of business (1.0) \u2014 (1.1) (1.0) (1.1) (Gains) losses on strategic investments (4.9) (3.0) 12.7 (2.9) 9.2 Tax adjustments (1) (82.7) (49.9) (86.0) (427.0) (391.5) Adjustments attributable to noncontrolling interest in joint venture 0.3 (0.5) (0.5) (0.8) (2.2) Non-GAAP net income attributable to INTUITIVE SURGICAL INC. $ 913.6 $ 867.2 $ 804.7 $ 3,240.2 $ 2,655.9 GAAP net income per share attributable to INTUITIVE SURGICAL INC. - diluted $ 2.21 $ 1.95 $ 1.88 $ 7.87 $ 6.42 Share-based compensation expense 0.56 0.56 0.49 2.17 1.87 Long-term incentive plan expense \u2014 0.01 \u2014 \u2014 0.02 Amortization of intangible assets 0.01 0.01 0.01 0.04 0.05 Litigation charges \u2014 0.02 0.03 0.04 0.05 Gain on sale of business \u2014 \u2014 \u2014 \u2014 \u2014 (Gains) losses on strategic investments (0.02) (0.01) 0.04 (0.01) 0.02 Tax adjustments (1) (0.23) (0.14) (0.24) (1.18) (1.08) Adjustments attributable to noncontrolling interest in joint venture \u2014 \u2014 \u2014 \u2014 (0.01) Non-GAAP net income per share attributable to INTUITIVE SURGICAL INC. - diluted $ 2.53 $ 2.40 $ 2.21 $ 8.93 $ 7.34 (1) For the three months ended December 31, 2025, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(43.0) million, or $(0.12) per diluted share; (b) the tax impact related to intra-entity transfers of non-inventory assets of $10.6 million, or $0.03 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(50.3) million, or $(0.14) per diluted share. For the three months ended December 31, 2024, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(34.3) million, or $(0.09) per diluted share; (b) the tax impact related to intra-entity transfers of non-inventory assets of $10.2 million, or $0.03 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(61.9) million, or $(0.18) per diluted share. For the twelve months ended December 31, 2025, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(245.5) million, or $(0.68) per diluted share; (b) tax impact related to intra-entity transfers of non-inventory assets of $42.6 million, or $0.12 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(224.1) million, or $(0.62) per diluted share. For the twelve months ended December 31, 2024, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(223.3) million, or $(0.62) per diluted share; (b) tax impact related to intra-entity transfers of non-inventory assets of $40.7 million, or $0.11 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(208.9) million, or $(0.57) per diluted share.",
+      "token_count": 1017
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) For the three months ended December 31, 2025, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(43.0) million, or $(0.12) per diluted share; (b) the tax impact related to intra-entity transfers of non-inventory assets of $10.6 million, or $0.03 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(50.3) million, or $(0.14) per diluted share. For the three months ended December 31, 2024, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(34.3) million, or $(0.09) per diluted share; (b) the tax impact related to intra-entity transfers of non-inventory assets of $10.2 million, or $0.03 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(61.9) million, or $(0.18) per diluted share.",
+      "token_count": 239
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For the twelve months ended December 31, 2025, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(245.5) million, or $(0.68) per diluted share; (b) tax impact related to intra-entity transfers of non-inventory assets of $42.6 million, or $0.12 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(224.1) million, or $(0.62) per diluted share. For the twelve months ended December 31, 2024, tax adjustments included: (a) excess tax benefits associated with share-based compensation arrangements of $(223.3) million, or $(0.62) per diluted share; (b) tax impact related to intra-entity transfers of non-inventory assets of $40.7 million, or $0.11 per diluted share; and (c) other tax adjustments effects determined by applying a calculated non-GAAP effective tax rate of $(208.9) million, or $(0.57) per diluted share.",
+      "token_count": 237
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.067869,
+    "ret_20d": -0.08521,
+    "market_ret_20d": 0.007067
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,687 @@
+{
+  "event_id": "evt_0043",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "INTUIT INC.",
+  "ticker": "INTU",
+  "company_alias": "INTUIT INC.",
+  "masked_company": "Company CF",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-02-26",
+  "filing_metadata": {
+    "cik": "896878",
+    "accession_number": "0000896878-26-000012",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-26T16:02:55-05:00",
+    "event_date": "2026-02-26",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "8.01",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Contacts: Investors Media Anne-Sophie Seigneurbieux Kali Fry INTUIT INC.. INTUIT INC.. 650-944-5655 650-944-3036 anne-sophie_seigneurbieux@INTUIT INC..com kali_fry@INTUIT INC..com",
+      "token_count": 44
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Global Business Solutions Online Ecosystem Revenue Grew 21 percent; Consumer Revenue Grew 15 percent",
+      "token_count": 25
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "MOUNTAIN VIEW, Calif. - 2026-02-26T16:02:55-05:00 - INTUIT INC.. (Nasdaq:INTU), the global financial technology platform that makes INTUIT INC. TurboTax, Credit Karma, QuickBooks, Mailchimp, and INTUIT INC. Enterprise Suite, announced financial results for the second quarter of fiscal 2026, which ended January 31.",
+      "token_count": 78
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\"We delivered an outstanding second quarter, driven by disciplined execution,\u201d said Sasan Goodarzi, chairman and chief executive officer of INTUIT INC.. \u201cWe are defining a new category at the intersection of AI and human intelligence, one that delivers autonomous, done-for-you experiences, disrupts the traditional assisted tax segment, and provides mid-market enterprises with the AI-native ERP platform they need to win. We\u2019re accelerating execution and innovation to deliver even greater impact for our customers.\"",
+      "token_count": 130
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Grew total revenue to $4.7 billion, up 17 percent.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Increased Global Business Solutions revenue to $3.2 billion, up 18 percent; grew Online Ecosystem revenue to $2.5 billion, up 21 percent. Excluding Mailchimp, Global Business Solutions revenue grew 21 percent, and Online Ecosystem revenue grew 25 percent.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Grew Consumer revenue to $1.5 billion, up 15 percent. Increased Credit Karma revenue to $616 million, up 23 percent and TurboTax revenue to $581 million, up 12 percent.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Increased GAAP operating income to $855 million, up 44 percent.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Grew non-GAAP operating income to $1.5 billion, up 23 percent.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Increased GAAP diluted earnings per share to $2.48, up 49 percent.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Grew non-GAAP diluted earnings per share to $4.15, up 25 percent.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Unless otherwise noted, all growth rates refer to the current period versus the comparable prior-year period, and the business metrics and associated growth rates refer to worldwide business metrics.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "GAAP Non-GAAP Q2 FY26 Q2 FY25 Change Q2 FY26 Q2 FY25 Change Revenue $4,651 $3,963 17% $4,651 $3,963 17% Operating Income $855 $593 44% $1,549 $1,260 23% Earnings Per Share $2.48 $1.67 49% $4.15 $3.32 25%",
+      "token_count": 51
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Dollars are in millions, except earnings per share. See \u201cAbout Non-GAAP Financial Measures\u201d below for more information regarding financial measures not prepared in accordance with Generally Accepted Accounting Principles (GAAP).",
+      "token_count": 57
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\"We delivered a very strong second quarter of fiscal 2026, reflecting our continued business momentum across the big bets and our disciplined approach to managing the business,\u201d said Sandeep Aujla, INTUIT INC.'s chief financial officer. \"Our momentum across the company continues to give us high confidence in delivering double-digit revenue growth and expanding margin this year, and we are reiterating our full year guidance for fiscal 2026.\"",
+      "token_count": 111
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Global Business Solutions revenue grew to $3.2 billion, up 18 percent, and Online Ecosystem revenue increased to $2.5 billion, up 21 percent.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 QuickBooks Online Accounting revenue grew 24 percent in the quarter, driven by higher effective prices, customer growth, and mix-shift.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Online Services revenue grew 18 percent, driven by growth in money and payroll offerings.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Total international online revenue grew 9 percent on a constant currency basis.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Consumer revenue of $1.5 billion was up 15 percent in the quarter.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Credit Karma revenue grew 23 percent to $616 million, driven by strength in personal loans, credit cards, and auto insurance.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 TurboTax revenue grew 12 percent to $581 million.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 ProTax revenue grew 7 percent to $290 million.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Reported a total cash and investments balance of approximately $3.0 billion and $6.2 billion in debt as of January 31, 2026. The company entered into a $5.8 billion unsecured revolving credit facility on January 30, 2026, to fund a portion of its TurboTax early tax refund offering. This facility was terminated effective 2026-02-26T16:02:55-05:00. On January 9, 2026, the company entered into a new $2.2 billion unsecured revolving credit facility maturing January 9, 2031, replacing its February 5, 2024 credit agreement, to support working capital and general corporate purposes.",
+      "token_count": 144
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Repurchased $961 million of stock, and $3.5 billion remains on the company's share repurchase authorization.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Received Board approval for a quarterly dividend of $1.20 per share, payable April 17, 2026. This represents a 15 percent increase per share compared to the same period last year.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Revenue of $20.997 billion to $21.186 billion, growth of approximately 12 to 13 percent.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 GAAP operating income of $5.782 billion to $5.859 billion, growth of approximately 17 to 19 percent.",
+      "token_count": 26
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP operating income of $8.611 billion to $8.688 billion, growth of approximately 14 to 15 percent.",
+      "token_count": 27
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 GAAP diluted earnings per share of $15.49 to $15.69, growth of approximately 13 to 15 percent.",
+      "token_count": 24
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP diluted earnings per share of $22.98 to $23.18, growth of approximately 14 to 15 percent.",
+      "token_count": 25
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Global Business Solutions: reiterated growth of 14 to 15 percent. The company expects Mailchimp to return to double-digit growth some time beyond fiscal 2026.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Consumer: reiterated growth of 8 to 9 percent. This includes TurboTax growth of 8 percent, Credit Karma growth of 10 to 13 percent, and ProTax growth of 2 to 3 percent.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Revenue growth of approximately 10 percent.",
+      "token_count": 12
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 GAAP diluted earnings per share of $10.56 to $10.62.",
+      "token_count": 14
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP diluted earnings per share of $12.45 to $12.51.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "INTUIT INC. is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using products such as TurboTax, Credit Karma, QuickBooks, Mailchimp and INTUIT INC. Enterprise Suite, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible. Please visit us at INTUIT INC..com and find us on social for the latest information about INTUIT INC. and our products and services.",
+      "token_count": 136
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This press release and the accompanying tables include non-GAAP financial measures. For a description of these non-GAAP financial measures, including the reasons management uses each measure, and reconciliations of these non-GAAP financial measures to the most directly comparable financial measures prepared in accordance with Generally Accepted Accounting Principles, please see the section of the accompanying tables titled \"About Non-GAAP Financial Measures\" as well as the related Table B1,",
+      "token_count": 124
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "risks in providing capital to businesses; amortization of acquired intangible assets and impairment charges; our ability to repay or otherwise comply with the terms of our outstanding debt; our ability to repurchase shares or distribute dividends; volatility of our stock price; and our ability to successfully market our offerings.",
+      "token_count": 83
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Six Months Ended January 31, 2026 January 31, 2025 January 31, 2026 January 31, 2025 Net revenue: Service $ 3,872 $ 3,249 $ 7,369 $ 6,138 Product and other 779 714 1,167 1,108 Total net revenue 4,651 3,963 8,536 7,246 Costs and expenses: Cost of revenue: Cost of service revenue 981 880 1,805 1,652 Cost of product and other revenue 18 20 33 34 Amortization of acquired technology 44 37 88 74 Selling and marketing 1,395 1,204 2,477 2,166 Research and development 836 716 1,679 1,420 General and administrative 401 389 823 783 Amortization of other acquired intangible assets 121 120 242 240 Restructuring \u2014 4 \u2014 13 Total costs and expenses [A] 3,796 3,370 7,147 6,382 Operating income 855 593 1,389 864 Interest expense (58) (60) (116) (120) Interest and other income, net 72 38 157 40 Income before income taxes 869 571 1,430 784 Income tax provision [B] 176 100 291 116 Net income $ 693 $ 471 $ 1,139 $ 668 Basic net income per share $ 2.49 $ 1.68 $ 4.09 $ 2.38 Shares used in basic per share calculations 278 280 279 280 Diluted net income per share $ 2.48 $ 1.67 $ 4.06 $ 2.36 Shares used in diluted per share calculations 280 283 281 283",
+      "token_count": 291
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "[A] The following table summarizes the total share-based compensation expense that we recorded in operating income for the periods shown.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Six Months Ended (In millions) January 31, 2026 January 31, 2025 January 31, 2026 January 31, 2025 Cost of revenue $ 94 $ 110 $ 191 $ 221 Selling and marketing 150 136 306 273 Research and development 178 161 363 322 General and administrative 99 91 204 193 Total share-based compensation expense $ 521 $ 498 $ 1,064 $ 1,009",
+      "token_count": 86
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "[B] We compute our provision for or benefit from income taxes by applying the estimated annual effective tax rate to income or loss from recurring operations and adding the effects of any discrete income tax items specific to the period.",
+      "token_count": 60
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For the three and six months ended January 31, 2026 , we recognized excess tax benefits on share-based compensation of $21 million and $51 million, respectively, in our provision for income taxes. For the three and six months ended January 31, 2025, we recognized excess tax benefits on share-based compensation of $29 million and $57 million, respectively, in our provision for income taxes.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Our effective tax rate for the three and six months ended January 31, 2026 was approximately 20%. Excluding discrete tax items primarily related to share-based compensation, our effective tax rate for both periods was approximately 24%. The difference from the federal statutory rate of 21% was primarily due to state income taxes and non-deductible share-based compensation, which were partially offset by the tax benefit we received from the federal research and experimentation credit.",
+      "token_count": 122
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Our effective tax rates for the three and six months ended January 31, 2025 was approximately 17% and 15%, respectively. Excluding discrete tax items primarily related to share-based compensation, our effective tax rate for both periods was approximately 24%. The difference from the federal statutory rate of 21% was primarily due to state income taxes and non-deductible share-based compensation, which were partially offset by the tax benefit we received from the federal research and experimentation credit.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "In the current global tax policy environment, the U.S. and other domestic and foreign governments continue to consider, and in some cases enact, changes in corporate tax laws. As changes occur, we account for finalized legislation in the period of enactment.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fiscal 2026 Q1 Q2 Q3 Q4 Year to Date GAAP operating income (loss) $ 534 $ 855 $ \u2014 $ \u2014 $ 1,389 Amortization of acquired technology 44 44 \u2014 \u2014 88 Amortization of other acquired intangible assets 121 121 \u2014 \u2014 242 Net (gain) loss on executive deferred compensation plan liabilities 16 8 \u2014 \u2014 24 Share-based compensation expense 543 521 \u2014 \u2014 1,064 Non-GAAP operating income (loss) $ 1,258 $ 1,549 $ \u2014 $ \u2014 $ 2,807 GAAP net income (loss) $ 446 $ 693 $ \u2014 $ \u2014 $ 1,139 Amortization of acquired technology 44 44 \u2014 \u2014 88 Amortization of other acquired intangible assets 121 121 \u2014 \u2014 242 Net (gain) loss on executive deferred compensation plan liabilities 16 8 \u2014 \u2014 24 Share-based compensation expense 543 521 \u2014 \u2014 1,064 Net (gain) loss on debt securities and other investments [A] (34) (29) \u2014 \u2014 (63) Net (gain) loss on executive deferred compensation plan assets (15) (8) \u2014 \u2014 (23) Income tax effects and adjustments [B] (182) (190) \u2014 \u2014 (372) Non-GAAP net income (loss) $ 939 $ 1,160 $ \u2014 $ \u2014 $ 2,099 GAAP diluted net income (loss) per share $ 1.59 $ 2.48 $ \u2014 $ \u2014 $ 4.06 Amortization of acquired technology 0.16 0.16 \u2014 \u2014 0.31 Amortization of other acquired intangible assets 0.43 0.43 \u2014 \u2014 0.86 Net (gain) loss on executive deferred compensation plan liabilities 0.05 0.03 \u2014 \u2014 0.08 Share-based compensation expense 1.93 1.86 \u2014 \u2014 3.79 Net (gain) loss on debt securities and other investments [A] (0.12) (0.10) \u2014 \u2014 (0.22) Net (gain) loss on executive deferred compensation plan assets (0.05) (0.03) \u2014 \u2014 (0.08) Income tax effects and adjustments [B] (0.65) (0.68) \u2014 \u2014 (1.32) Non-GAAP diluted net income (loss) per share $ 3.34 $ 4.15 $ \u2014 $ \u2014 $ 7.48 Shares used in GAAP diluted per share calculations 281 280 \u2014 \u2014 281 Shares used in non-GAAP diluted per share calculations 281 280 \u2014 \u2014 281",
+      "token_count": 440
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "[A] During the three months ended October 31, 2025 and January 31, 2026, we recognized $34 million and $31 million, respectively, in net gains on other long-term investments.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "[B] As discussed in \u201cAbout Non-GAAP Financial Measures - Income Tax Effects and Adjustments\u201d following Table E, our long-term non-GAAP tax rate eliminates the effects of non-recurring and period-specific items. Income tax adjustments consist primarily of the tax impact of the non-GAAP pre-tax adjustments and tax benefits related to share-based compensation.",
+      "token_count": 90
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "See \u201cAbout Non-GAAP Financial Measures\u201d immediately following Table E for information on these measures, the items excluded from the most directly comparable GAAP measures in arriving at non-GAAP financial measures, and the reasons management uses each measure and excludes the specified amounts in arriving at each non-GAAP financial measure.",
+      "token_count": 86
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Fiscal 2025 Q1 Q2 Q3 Q4 Full Year GAAP operating income (loss) $ 271 $ 593 $ 3,720 $ 339 $ 4,923 Amortization of acquired technology 37 37 38 44 156 Amortization of other acquired intangible assets 120 120 120 121 481 Restructuring 9 4 1 1 15 Professional fees for business combinations \u2014 \u2014 2 \u2014 2 Net (gain) loss on executive deferred compensation plan liabilities 5 8 (7) 21 27 Share-based compensation expense 511 498 469 490 1,968 Non-GAAP operating income (loss) $ 953 $ 1,260 $ 4,343 $ 1,016 $ 7,572 GAAP net income (loss) $ 197 $ 471 $ 2,820 $ 381 $ 3,869 Amortization of acquired technology 37 37 38 44 156 Amortization of other acquired intangible assets 120 120 120 121 481 Restructuring 9 4 1 1 15 Professional fees for business combinations \u2014 \u2014 2 \u2014 2 Net (gain) loss on executive deferred compensation plan liabilities 5 8 (7) 21 27 Share-based compensation expense 511 498 469 490 1,968 Net (gain) loss on debt securities and other investments [A] 42 3 2 (2) 45 Net (gain) loss on executive deferred compensation plan assets (4) (7) 7 (20) (24) Income tax effects and adjustments [B] (208) (196) (172) (260) (836) Non-GAAP net income (loss) $ 709 $ 938 $ 3,280 $ 776 $ 5,703 GAAP diluted net income (loss) per share $ 0.70 $ 1.67 $ 10.02 $ 1.35 $ 13.67 Amortization of acquired technology 0.13 0.13 0.13 0.16 0.55 Amortization of other acquired intangible assets 0.42 0.42 0.43 0.43 1.70 Restructuring 0.03 0.01 \u2014 \u2014 0.05 Professional fees for business combinations \u2014 \u2014 0.01 \u2014 0.01 Net (gain) loss on executive deferred compensation plan liabilities 0.02 0.03 (0.02) 0.07 0.10 Share-based compensation expense 1.80 1.76 1.66 1.74 6.95 Net (gain) loss on debt securities and other investments [A] 0.15 0.01 0.01 (0.01) 0.16 Net (gain) loss on executive deferred compensation plan assets (0.02) (0.02) 0.02 (0.07) (0.09) Income tax effects and adjustments [B] (0.73) (0.69) (0.61) (0.92) (2.95) Non-GAAP diluted net income (loss) per share $ 2.50 $ 3.32 $ 11.65 $ 2.75 $ 20.15 Shares used in GAAP diluted per share calculations 283 283 282 282 283 Shares used in non-GAAP diluted per share calculations 283 283 282 282 283",
+      "token_count": 533
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "[A] During the three months ended October 31, 2024, we recognized a $42 million net loss on other long-term investments.",
+      "token_count": 30
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "January 31, 2026 July 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 2,942 $ 2,884 Investments 33 1,668 Accounts receivable, net 1,175 530 Notes receivable held for investment 1,699 1,403 Notes receivable held for sale 117 \u2014 Income taxes receivable 84 50 Prepaid expenses and other current assets 1,239 496 Current assets before funds receivable and amounts held for customers 7,289 7,031 Funds receivable and amounts held for customers 4,414 7,076 Total current assets 11,703 14,107 Long-term investments 127 94 Property and equipment, net 974 961 Operating lease right-of-use assets 593 541 Goodwill 13,983 13,980 Acquired intangible assets, net 4,971 5,302 Long-term deferred income tax assets 1,106 1,222 Other assets 825 751 Total assets $ 34,282 $ 36,958 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY Current liabilities: Short-term debt $ 749 $ \u2014 Accounts payable 946 792 Accrued compensation and related liabilities 702 858 Deferred revenue 1,141 1,019 Income taxes payable 82 3 Other current liabilities 810 622 Current liabilities before funds payable and amounts due to customers 4,430 3,294 Funds payable and amounts due to customers 4,414 7,076 Total current liabilities 8,844 10,370 Long-term debt 5,411 5,973 Operating lease liabilities 646 597 Other long-term obligations 326 308 Total liabilities 15,227 17,248 Stockholders\u2019 equity 19,055 19,710 Total liabilities and stockholders\u2019 equity $ 34,282 $ 36,958",
+      "token_count": 357
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Six Months Ended January 31, 2026 January 31, 2025 Cash flows from operating activities: Net income $ 1,139 $ 668 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation 88 86 Amortization of acquired intangible assets 330 314 Non-cash operating lease cost 49 37 Share-based compensation expense 1,064 1,009 Deferred income taxes 137 (227) Provision for credit losses 105 65 Other (82) 34 Total adjustments 1,691 1,318 Changes in operating assets and liabilities: Accounts receivable (645) (560) Income taxes receivable (33) (13) Prepaid expenses and other assets (204) (208) Accounts payable 131 319 Accrued compensation and related liabilities (165) (300) Deferred revenue 119 154 Income taxes payable 79 22 Operating lease liabilities (39) (46) Other liabilities 134 77 Total changes in operating assets and liabilities (623) (555) Net cash provided by operating activities 2,207 1,431 Cash flows from investing activities: Purchases of corporate and customer fund investments (115) (321) Sales of corporate and customer fund investments 119 133 Maturities of corporate and customer fund investments 1,641 637 Purchases of property and equipment (84) (64) Originations and purchases of notes receivable held for investment (2,885) (1,825) Sales of notes receivable originally classified as held for investment 595 246 Principal repayments of notes receivable held for investment 1,812 924 Other (585) (407) Net cash provided by (used in) investing activities 498 (677) Cash flows from financing activities: Proceeds from borrowings under secured revolving credit facilities 186 219 Proceeds from issuance of stock under employee stock plans 91 175 Payments for employee taxes withheld upon vesting of restricted stock units (454) (436) Cash paid for purchases of treasury stock (1,787) (1,274) Dividends and dividend rights paid (682) (596) Net change in funds receivable and funds payable and amounts due to customers (2,756) (583) Other (7) (4) Net cash used in financing activities (5,409) (2,499)",
+      "token_count": 511
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Effect of exchange rates on cash, cash equivalents, restricted cash, and restricted cash equivalents 6 (12) Net decrease in cash, cash equivalents, restricted cash, and restricted cash equivalents (2,698) (1,757) Cash, cash equivalents, restricted cash, and restricted cash equivalents at beginning of period 9,481 7,099 Cash, cash equivalents, restricted cash, and restricted cash equivalents at end of period $ 6,783 $ 5,342 Reconciliation of cash, cash equivalents, restricted cash, and restricted cash equivalents reported within the condensed consolidated balance sheets to the total amounts reported on the condensed consolidated statements of cash flows Cash and cash equivalents $ 2,942 $ 2,435 Restricted cash and restricted cash equivalents included in funds receivable and amounts held for customers 3,841 2,907 Total cash, cash equivalents, restricted cash, and restricted cash equivalents at end of period $ 6,783 $ 5,342 Supplemental schedule of non-cash investing activities: Transfers of notes receivable originated or purchased as held for investment to held for sale $ 693 $ 248",
+      "token_count": 274
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Reconciliation of cash, cash equivalents, restricted cash, and restricted cash equivalents reported within the condensed consolidated balance sheets to the total amounts reported on the condensed consolidated statements of cash flows",
+      "token_count": 59
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "RECONCILIATION OF FORWARD-LOOKING GUIDANCE FOR NON-GAAP FINANCIAL MEASURES TO PROJECTED GAAP REVENUE, OPERATING INCOME, AND EPS",
+      "token_count": 32
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Forward-Looking Guidance GAAP Range of Estimate Non-GAAP Range of Estimate From To Adjmts From To Three Months Ending April 30, 2026 Revenue $ 8,520 $ 8,553 $ \u2014 $ 8,520 $ 8,553 Operating income $ 3,928 $ 3,948 $ 656 [a] $ 4,584 $ 4,604 Diluted net income per share $ 10.56 $ 10.62 $ 1.89 [b] $ 12.45 $ 12.51 Twelve Months Ending July 31, 2026 Revenue $ 20,997 $ 21,186 $ \u2014 $ 20,997 $ 21,186 Operating income $ 5,782 $ 5,859 $ 2,829 [c] $ 8,611 $ 8,688 Diluted net income per share $ 15.49 $ 15.69 $ 7.49 [d] $ 22.98 $ 23.18",
+      "token_count": 131
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "[a] Reflects estimated adjustments for share-based compensation expense of approximately $492 million; amortization of other acquired intangible assets of approximately $120 million; and amortization of acquired technology of approximately $44 million.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "[b] Reflects estimated adjustments in item [a], income taxes related to these adjustments, and other income tax effects related to the use of the non-GAAP tax rate.",
+      "token_count": 41
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "[c] Reflects estimated adjustments for share-based compensation expense of approximately $2.1 billion; amortization of other acquired intangible assets of approximately $483 million; amortization of acquired technology of approximately $176 million; and net losses on executive deferred compensation plan liabilities of approximately $24 million.",
+      "token_count": 87
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "[d] Reflects estimated adjustments in item [c], income taxes related to these adjustments, other income tax effects related to the use of the non-GAAP tax rate, and adjustments for a net loss on other long-term investments.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The accompanying press release dated 2026-02-26T16:02:55-05:00 contains non-GAAP financial measures. Table B1, Table B2, and Table E reconcile the non-GAAP financial measures in that press release to the most directly comparable financial measures prepared in accordance with Generally Accepted Accounting Principles (GAAP). These non-GAAP financial measures include non-GAAP operating income (loss), non-GAAP net income (loss), and non-GAAP diluted net income (loss) per share.",
+      "token_count": 118
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Non-GAAP financial measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. These non-GAAP financial measures do not reflect a comprehensive system of accounting, differ from GAAP measures with the same names, and may differ from non-GAAP financial measures with the same or similar names that are used by other companies.",
+      "token_count": 101
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "We compute non-GAAP financial measures using the same consistent method from quarter to quarter and year to year. We may consider whether other significant items that arise in the future should be excluded from our non-GAAP financial measures.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Gains and losses on executive deferred compensation plan liabilities",
+      "token_count": 18
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Gains and losses on disposals of businesses and long-lived assets",
+      "token_count": 17
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Professional fees and transaction costs for business combinations",
+      "token_count": 17
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Gains and losses on debt securities and other investments",
+      "token_count": 15
+    },
+    {
+      "source_id": "S071",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Gains and losses on executive deferred compensation plan assets",
+      "token_count": 17
+    },
+    {
+      "source_id": "S072",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "We believe these non-GAAP financial measures provide meaningful supplemental information regarding INTUIT INC.\u2019s operating results primarily because they exclude amounts that we do not consider part of ongoing operating results when planning and forecasting and when assessing the performance of the organization, our individual operating segments, or our senior management. Segment managers are not held accountable for share-based compensation expense, amortization, restructuring, or the other excluded items and, accordingly, we exclude these amounts from our measures of segment performance. We believe our non-GAAP financial measures also facilitate the comparison by management and investors of results for current periods and guidance for future periods with results for past periods.",
+      "token_count": 198
+    },
+    {
+      "source_id": "S073",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The following are descriptions of the items we exclude from our non-GAAP financial measures.",
+      "token_count": 23
+    },
+    {
+      "source_id": "S074",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Amortization of acquired technology and amortization of other acquired intangible assets . When we acquire a business in a business combination, we are required by GAAP to record the fair values of the intangible assets of the business and amortize them over their useful lives. Amortization of acquired technology in cost of revenue includes amortization of software and other technology assets of acquired businesses. Amortization of other acquired intangible assets in operating expenses includes amortization of assets such as customer lists and trade names.",
+      "token_count": 141
+    },
+    {
+      "source_id": "S075",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Restructuring charges . This consists of costs incurred as a direct result of discrete strategic restructuring actions, including, but not limited to severance and other one-time termination benefits, and other costs, which are different in terms of size, strategic nature, and frequency than ongoing productivity and business improvements.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S076",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Share-based compensation expense . This consists of non-cash expenses for stock options, restricted stock units, and our Employee Stock Purchase Plan. When considering the impact of equity awards, we place greater emphasis on overall shareholder dilution rather than the accounting charges associated with those awards.",
+      "token_count": 80
+    },
+    {
+      "source_id": "S077",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gains and losses on executive deferred compensation plan liabilities . We exclude from our non-GAAP financial measures gains and losses on the revaluation of our executive deferred compensation plan liabilities.",
+      "token_count": 53
+    },
+    {
+      "source_id": "S078",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Goodwill and intangible asset impairment charges . We exclude from our non-GAAP financial measures non-cash charges to adjust the carrying values of goodwill and other acquired intangible assets to their estimated fair values.",
+      "token_count": 57
+    },
+    {
+      "source_id": "S079",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gains and losses on disposals of businesses and long-lived assets. We exclude from our non-GAAP financial measures gains and losses on disposals of businesses and long-lived assets because they are unrelated to our ongoing business operating results.",
+      "token_count": 63
+    },
+    {
+      "source_id": "S080",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Professional fees and transaction costs for business combinations . We exclude from our non-GAAP financial measures the professional fees we incur to complete business combinations. These include investment banking, legal, and accounting fees.",
+      "token_count": 61
+    },
+    {
+      "source_id": "S081",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gains and losses on debt securities and other investments . We exclude from our non-GAAP financial measures credit losses on available-for-sale debt securities and gains and losses on other investments.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S082",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Gains and losses on executive deferred compensation plan assets . We exclude from our non-GAAP financial measures gains and losses on the revaluation of our executive deferred compensation plan assets.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S083",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Income tax effects and adjustments. We use a long-term non-GAAP tax rate for evaluating operating results and for planning, forecasting, and analyzing future periods. This long-term non-GAAP tax rate excludes the income tax effects of the non-GAAP pre-tax adjustments described above, and eliminates the effects of non-recurring and period specific items which can vary in size and frequency. Based on our long-term projections, we are using a long-term non-GAAP tax rate of 24% for fiscal 2025 and fiscal 2026. This long-term non-GAAP tax rate could be subject to change for various reasons including significant acquisitions, changes in our geographic earnings mix, or fundamental tax law changes in major jurisdictions in which we operate. We will evaluate this long-term non-GAAP tax rate on an annual basis and whenever any significant events occur which may materially affect this rate.",
+      "token_count": 223
+    },
+    {
+      "source_id": "S084",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Operating results and gains and losses on the sale of discontinued operations . From time to time, we sell or otherwise dispose of selected operations as we adjust our portfolio of businesses to meet our strategic goals. In accordance with GAAP, we segregate the operating results of discontinued operations as well as gains and losses on the sale of these discontinued operations from continuing operations on our GAAP statements of operations but continue to include them in GAAP net income or loss and net income or loss per share. We exclude these amounts from our non-GAAP financial measures.",
+      "token_count": 150
+    },
+    {
+      "source_id": "S085",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The reconciliations of the forward-looking non-GAAP financial measures to the most directly comparable GAAP financial measures in Table E include all information reasonably available to INTUIT INC. at the date of this press release. These tables include adjustments that we can reasonably predict. Events that could cause the reconciliation to change include acquisitions and divestitures of businesses, goodwill and other asset impairments, sales of available-for-sale debt securities and other investments, and disposals of businesses and long-lived assets.",
+      "token_count": 140
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "Revenues",
+      "period": "2026Q2",
+      "value": 4651000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2026Q2",
+      "value": 4651000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q2",
+      "value": 855000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "2026Q2",
+      "value": 693000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q2",
+      "value": 2.48,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q2",
+      "value": 2.49,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2026Q2",
+      "value": 2942000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X008",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q2",
+      "value": 2207000000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.033758,
+    "ret_20d": -0.26783,
+    "market_ret_20d": -0.0088
+  },
+  "outcome_blind": true
+}

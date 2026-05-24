@@ -1,0 +1,1227 @@
+{
+  "event_id": "evt_0005",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Hilton Worldwide Holdings Inc.",
+  "ticker": "HLT",
+  "company_alias": "Hilton Worldwide Holdings Inc.",
+  "masked_company": "Company AD",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-11",
+  "accepted_at_et": "2026-02-11T06:01:15-05:00",
+  "source_packet_path": "source_packets/evt_0005.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "Investor Contact 7930 Jones Branch Drive Charlie Ruehr McLean, VA 22102 +1 703 883 1000 ir.Hilton Worldwide Holdings Inc..com Media Contact Kent Landers +1 703 883 3246",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "Investor Contact 7930 Jones Branch Drive Charlie Ruehr McLean, VA 22102 +1 703 883 1000 ir.Hilton Worldwide Holdings Inc..com Media Contact Kent Landers +1 703 883 3246",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "other",
+      "claim": "MCLEAN, VA (2026-02-11T06:01:15-05:00) - Hilton Worldwide Holdings Inc..",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "MCLEAN, VA (2026-02-11T06:01:15-05:00) - Hilton Worldwide Holdings Inc.. (\"Hilton Worldwide Holdings Inc.,\" \"the Company,\" \"we,\" \"us\" or \"our\") (NYSE:HLT) today reported its fourth quarter and full year 2025 results. Highlights include:",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted EPS was $1.27 for the fourth quarter and $6.12 for the full year",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Diluted EPS was $1.27 for the fourth quarter and $6.12 for the full year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Diluted EPS, adjusted for special items, was $2.08 for the fourth quarter and $8.11 for the full year",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "\u2022 Diluted EPS, adjusted for special items, was $2.08 for the fourth quarter and $8.11 for the full year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Net income was $298 million for the fourth quarter and $1,461 million for the full year",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u2022 Net income was $298 million for the fourth quarter and $1,461 million for the full year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "margins",
+      "claim": "\u2022 Adjusted EBITDA was $946 million for the fourth quarter and $3,725 million for the full year",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA was $946 million for the fourth quarter and $3,725 million for the full year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "other",
+      "claim": "\u2022 System-wide comparable RevPAR increased 0.5 percent and 0.4 percent, on a currency neutral basis, for the fourth quarter and full year, respectively, compared to the same periods in 2024",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 System-wide comparable RevPAR increased 0.5 percent and 0.4 percent, on a currency neutral basis, for the fourth quarter and full year, respectively, compared to the same periods in 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "other",
+      "claim": "\u2022 Approved 37,400 new rooms for development during the fourth quarter, bringing our development pipeline to a record 520,500 rooms as of December 31, 2025, representing growth of 4 percent from December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Approved 37,400 new rooms for development during the fourth quarter, bringing our development pipeline to a record 520,500 rooms as of December 31, 2025, representing growth of 4 percent from December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "\u2022 Added 26,000 rooms to our system in the fourth quarter, resulting in 97,000 room openings for the full year, contributing to net unit growth of 6.7 percent from December 31, 2024",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 Added 26,000 rooms to our system in the fourth quarter, resulting in 97,000 room openings for the full year, contributing to net unit growth of 6.7 percent from December 31, 2024",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "other",
+      "claim": "\u2022 Issued $1.0 billion aggregate principal amount of 5.500% Senior Notes due 2034 in December 2025",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Issued $1.0 billion aggregate principal amount of 5.500% Senior Notes due 2034 in December 2025",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "\u2022 Announced the launch of a new brand, Apartment Collection by Hilton Worldwide Holdings Inc., in January 2026",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Announced the launch of a new brand, Apartment Collection by Hilton Worldwide Holdings Inc., in January 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "\u2022 Expanded Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 Expanded Hilton Worldwide Holdings Inc. Honors Adventures in December 2025, welcoming Explora Journeys as the second partner, following AutoCamp in 2024, and expanding into luxury ocean travel",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "\u2022 Repurchased 2.8 million shares of Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "\u2022 Repurchased 2.8 million shares of Hilton Worldwide Holdings Inc. common stock during the fourth quarter, bringing total capital return, including dividends, to $792 million for the quarter and $3.3 billion for the full year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 Full year 2026 system-wide RevPAR is projected to increase between 1.0 percent and 2.0 percent on a comparable and currency neutral basis compared to 2025; full year net income is projected to be between $1,982 million and $2,011 million; full year Adjusted EBITDA is projected to be between $4,000 million and $4,040 million",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 Full year 2026 system-wide RevPAR is projected to increase between 1.0 percent and 2.0 percent on a comparable and currency neutral basis compared to 2025; full year net income is projected to be between $1,982 million and $2,011 million; full year Adjusted EBITDA is project...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "other",
+      "claim": "\u2022 Full year 2026 capital return is projected to be approximately $3.5 billion",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Full year 2026 capital return is projected to be approximately $3.5 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "guidance",
+      "claim": "\u2022 Net unit growth for 2026 is expected to be between 6.0% and 7.0%",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 Net unit growth for 2026 is expected to be between 6.0% and 7.0%",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "Christopher J.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Christopher J. Nassetta, President & Chief Executive Officer of Hilton Worldwide Holdings Inc., said, \"We delivered another quarter of strong bottom-line results, demonstrating the continued strength of our business model. As we look ahead to 2026, we are increasingly optimist...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "For the three months ended December 31, 2025, system-wide comparable RevPAR increased 0.5 percent compared to the same period in 2024 due to an increase in ADR, partially offset by modest occupancy declines.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "For the three months ended December 31, 2025, system-wide comparable RevPAR increased 0.5 percent compared to the same period in 2024 due to an increase in ADR, partially offset by modest occupancy declines. Management and franchise fee revenues increased 7.4 percent compared...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "revenue",
+      "claim": "For the year ended December 31, 2025, system-wide comparable RevPAR increased 0.4 percent compared to the same period in 2024 due to an increase in ADR.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "For the year ended December 31, 2025, system-wide comparable RevPAR increased 0.4 percent compared to the same period in 2024 due to an increase in ADR. Management and franchise fee revenues increased 6.4 percent compared to the same period in 2024.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "earnings_or_eps",
+      "claim": "For the three months ended December 31, 2025, diluted EPS was $1.27 and diluted EPS, adjusted for special items, was $2.08, compared to $2.06 and $1.76, respectively, for the three months ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "For the three months ended December 31, 2025, diluted EPS was $1.27 and diluted EPS, adjusted for special items, was $2.08, compared to $2.06 and $1.76, respectively, for the three months ended December 31, 2024. Net income and Adjusted EBITDA were $298 million and $946 millio...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "earnings_or_eps",
+      "claim": "For the year ended December 31, 2025, diluted EPS was $6.12 and diluted EPS, adjusted for special items, was $8.11, compared to $6.14 and $7.12, respectively, for the year ended December 31, 2024.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "For the year ended December 31, 2025, diluted EPS was $6.12 and diluted EPS, adjusted for special items, was $8.11, compared to $6.14 and $7.12, respectively, for the year ended December 31, 2024. Net income and Adjusted EBITDA were $1,461 million and $3,725 million, respectiv...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "In the fourth quarter of 2025, we opened 190 hotels, totaling 26,000 rooms, resulting in 21,300 net room additions.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "In the fourth quarter of 2025, we opened 190 hotels, totaling 26,000 rooms, resulting in 21,300 net room additions. Notable openings included the Waldorf Astoria Shanghai Qiantan in China and over 10 Tapestry Collection hotels, including the Anise Aluma Athens, Tapestry Collec...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "We added 37,400 rooms to the development pipeline during the fourth quarter, and, as of December 31, 2025, our development pipeline totaled 3,703 hotels representing 520,500 rooms throughout 129 countries and territories, including 26 countries and territories where we had no existing hotels.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "We added 37,400 rooms to the development pipeline during the fourth quarter, and, as of December 31, 2025, our development pipeline totaled 3,703 hotels representing 520,500 rooms throughout 129 countries and territories, including 26 countries and territories where we had no...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "balance_sheet_or_cash",
+      "claim": "As of December 31, 2025, we had $12.5 billion of debt outstanding, excluding the deduction for unamortized deferred financing costs and discount, with a weighted average interest rate of 4.76 percent.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "As of December 31, 2025, we had $12.5 billion of debt outstanding, excluding the deduction for unamortized deferred financing costs and discount, with a weighted average interest rate of 4.76 percent. Excluding all finance lease liabilities, we had $12.1 billion of debt outsta...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "balance_sheet_or_cash",
+      "claim": "In December 2025, we issued $1.0 billion aggregate principal amount of 5.500% Senior Notes due 2034 and used a portion of the net proceeds to redeem all $500 million in aggregate principal amount of the 5.750% Senior Notes due 2028, plus accrued and unpaid interest.",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "In December 2025, we issued $1.0 billion aggregate principal amount of 5.500% Senior Notes due 2034 and used a portion of the net proceeds to redeem all $500 million in aggregate principal amount of the 5.750% Senior Notes due 2028, plus accrued and unpaid interest. No borrowi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "balance_sheet_or_cash",
+      "claim": "In December 2025, we paid a quarterly cash dividend of $0.15 per share of common stock, for a total payment of $35 million, bringing total dividend payments for the year to $143 million.",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "In December 2025, we paid a quarterly cash dividend of $0.15 per share of common stock, for a total payment of $35 million, bringing total dividend payments for the year to $143 million. In February 2026, our board of directors authorized a regular quarterly cash dividend of $...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "other",
+      "claim": "During the three months ended December 31, 2025, we repurchased 2.8 million shares of Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "During the three months ended December 31, 2025, we repurchased 2.8 million shares of Hilton Worldwide Holdings Inc. common stock at an average price per share of $272.40, for a total of $757 million. During the year ended December 31, 2025, we repurchased 12.5 million shares...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "including dividends.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "including dividends. The amount authorized remaining under our stock repurchase program as of December 31, 2025 was approximately $1.3 billion. In January 2026, our board of directors authorized an additional $3.5 billion for share repurchases under our stock repurchase program.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "other",
+      "claim": "The number of shares outstanding as of February 6, 2026 was 229.3 million.",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "The number of shares outstanding as of February 6, 2026 was 229.3 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "guidance",
+      "claim": "Share-based metrics in Hilton Worldwide Holdings Inc.'s outlook include actual share repurchases through the fourth quarter but do not include the effects of potential share repurchases thereafter.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "Share-based metrics in Hilton Worldwide Holdings Inc.'s outlook include actual share repurchases through the fourth quarter but do not include the effects of potential share repurchases thereafter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "guidance",
+      "claim": "\u2022 System-wide comparable RevPAR, on a currency neutral basis, is projected to increase between 1.0 percent and 2.0 percent compared to 2025.",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "\u2022 System-wide comparable RevPAR, on a currency neutral basis, is projected to increase between 1.0 percent and 2.0 percent compared to 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "guidance",
+      "claim": "\u2022 Diluted EPS is projected to be between $8.49 and $8.61.",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "\u2022 Diluted EPS is projected to be between $8.49 and $8.61.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "guidance",
+      "claim": "\u2022 Diluted EPS, adjusted for special items, is projected to be between $8.65 and $8.77.",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "\u2022 Diluted EPS, adjusted for special items, is projected to be between $8.65 and $8.77.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "guidance",
+      "claim": "\u2022 Net income is projected to be between $1,982 million and $2,011 million.",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "\u2022 Net income is projected to be between $1,982 million and $2,011 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "guidance",
+      "claim": "\u2022 Adjusted EBITDA is projected to be between $4,000 million and $4,040 million.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA is projected to be between $4,000 million and $4,040 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "guidance",
+      "claim": "\u2022 Contract acquisition costs and capital expenditures, excluding amounts reimbursed by third parties, are projected to be approximately $300 million.",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "\u2022 Contract acquisition costs and capital expenditures, excluding amounts reimbursed by third parties, are projected to be approximately $300 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "guidance",
+      "claim": "\u2022 Capital return is projected to be approximately $3.5 billion.",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "\u2022 Capital return is projected to be approximately $3.5 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "guidance",
+      "claim": "\u2022 General and administrative expenses are projected to be approximately $400 million.",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "\u2022 General and administrative expenses are projected to be approximately $400 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "guidance",
+      "claim": "\u2022 Net unit growth is projected to be between 6.0 percent and 7.0 percent.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "\u2022 Net unit growth is projected to be between 6.0 percent and 7.0 percent.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "guidance",
+      "claim": "\u2022 System-wide comparable RevPAR, on a currency neutral basis, is projected to increase between 1.0 percent and 2.0 percent compared to the first quarter of 2025.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "\u2022 System-wide comparable RevPAR, on a currency neutral basis, is projected to increase between 1.0 percent and 2.0 percent compared to the first quarter of 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_041",
+      "category": "guidance",
+      "claim": "\u2022 Diluted EPS is projected to be between $1.87 and $1.93.",
+      "value": null,
+      "source_ids": [
+        "S041"
+      ],
+      "source_quote": "\u2022 Diluted EPS is projected to be between $1.87 and $1.93.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_042",
+      "category": "guidance",
+      "claim": "\u2022 Diluted EPS, adjusted for special items, is projected to be between $1.91 and $1.97.",
+      "value": null,
+      "source_ids": [
+        "S042"
+      ],
+      "source_quote": "\u2022 Diluted EPS, adjusted for special items, is projected to be between $1.91 and $1.97.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_043",
+      "category": "guidance",
+      "claim": "\u2022 Net income is projected to be between $436 million and $450 million.",
+      "value": null,
+      "source_ids": [
+        "S043"
+      ],
+      "source_quote": "\u2022 Net income is projected to be between $436 million and $450 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_044",
+      "category": "guidance",
+      "claim": "\u2022 Adjusted EBITDA is projected to be between $875 million and $895 million.",
+      "value": null,
+      "source_ids": [
+        "S044"
+      ],
+      "source_quote": "\u2022 Adjusted EBITDA is projected to be between $875 million and $895 million.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_045",
+      "category": "guidance",
+      "claim": "See the \"Definitions\" section for the definition of certain terms used within this press release, including within the schedules.",
+      "value": null,
+      "source_ids": [
+        "S045"
+      ],
+      "source_quote": "See the \"Definitions\" section for the definition of certain terms used within this press release, including within the schedules.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_046",
+      "category": "guidance",
+      "claim": "We refer to certain financial measures that are not recognized under U.S.",
+      "value": null,
+      "source_ids": [
+        "S046"
+      ],
+      "source_quote": "We refer to certain financial measures that are not recognized under U.S. generally accepted accounting principles (\"GAAP\") in this press release, including: net income, adjusted for special items; diluted EPS, adjusted for special items; Adjusted EBITDA; Adjusted EBITDA margi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_047",
+      "category": "guidance",
+      "claim": "Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S047"
+      ],
+      "source_quote": "Hilton Worldwide Holdings Inc. (NYSE:HLT) is a leading global hospitality company with a portfolio of 26 world-class brands comprising more than 9,100 properties and over 1.3 million rooms, in 143 countries and territories. Dedicated to fulfilling its founding vision to fill t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_048",
+      "category": "costs_or_expenses",
+      "claim": "Page Condensed Consolidated Statements of Operations 6 Comparable and Currency Neutral System-Wide Hotel Operating Statistics 7 Property Summary 9 Capital Expenditures and Contract Acquisition Costs 10 Reconciliations of Non-GAAP Financial Measures 11 Definitions 16",
+      "value": null,
+      "source_ids": [
+        "S048"
+      ],
+      "source_quote": "Page Condensed Consolidated Statements of Operations 6 Comparable and Currency Neutral System-Wide Hotel Operating Statistics 7 Property Summary 9 Capital Expenditures and Contract Acquisition Costs 10 Reconciliations of Non-GAAP Financial Measures 11 Definitions 16",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_049",
+      "category": "revenue",
+      "claim": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Revenues Franchise and licensing fees $ 671 $ 642 $ 2,780 $ 2,600 Base and other management fees 98 82 376 369 Incentive management fees 101 86 313 290 Ownership 345 333 1,233 1,255 Other revenues 65 53 252 232 1,280 1,196 4,954 4,746 Cost reimbursement revenues 1,807 1,587 7,085 6,428 Total revenues 3,087 2,783 12,039 11,174 Expenses Ownership 292 293 1,094 1,126 Depreciation and amortization 47 39 177 146 General and administrative 95 97 393 415 Other expenses 57 44 132 137 491 473 1,796 1,824 Reimbursed expenses 1,994 1,821 7,550 6,985 Total expenses 2,485 2,294 9,346 8,809 Gain on sales of assets, net \u2014 \u2014 \u2014 5 Operating income 602 489 2,693 2,370 Interest expense (165) (157) (620) (569) Loss on foreign currency transactions (3) (7) (11) (12) Other non-operating income (loss), net (5) 11 10 (6) Income before income taxes 429 336 2,072 1,783 Income tax benefit (expense) (131) 169 (611) (244) Net income 298 505 1,461 1,539 Net income attributable to redeemable and nonredeemable noncontrolling interests (1) \u2014 (4) (4) Net income attributable to Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S049"
+      ],
+      "source_quote": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Revenues Franchise and licensing fees $ 671 $ 642 $ 2,780 $ 2,600 Base and other management fees 98 82 376 369 Incentive management fees 101 86 313 290 Ownership 345 333 1,233 1,255 Other revenues 65 5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_050",
+      "category": "other",
+      "claim": "Three Months Ended December 31, Occupancy ADR RevPAR 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S050"
+      ],
+      "source_quote": "Three Months Ended December 31, Occupancy ADR RevPAR 2025 vs. 2024 2025 vs. 2024 2025 vs. 2024 System-wide 69.6 % (0.3) % pts. $ 159.25 0.9 % $ 110.89 0.5 % Region U.S. 68.8 % (0.9) % pts. $ 166.53 (0.2) % $ 114.57 (1.6) % Americas (excluding U.S.) 67.2 1.2 153.44 2.0 103.12 3...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_051",
+      "category": "other",
+      "claim": "Year Ended December 31, Occupancy ADR RevPAR 2025 vs.",
+      "value": null,
+      "source_ids": [
+        "S051"
+      ],
+      "source_quote": "Year Ended December 31, Occupancy ADR RevPAR 2025 vs. 2024 2025 vs. 2024 2025 vs. 2024 System-wide 71.5 % (0.1) % pts. $ 159.89 0.5 % $ 114.39 0.4 % Region U.S. 72.0 % (0.5) % pts. $ 169.28 \u2014 % $ 121.91 (0.8) % Americas (excluding U.S.) 68.3 0.5 153.79 4.4 105.06 5.1 Europe 74...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_052",
+      "category": "other",
+      "claim": "(1) Excludes brands for which a significant number of the hotels were designated as non-comparable hotels as of the end of the period so as to make comparative statistics for such brand not meaningful.",
+      "value": null,
+      "source_ids": [
+        "S052"
+      ],
+      "source_quote": "(1) Excludes brands for which a significant number of the hotels were designated as non-comparable hotels as of the end of the period so as to make comparative statistics for such brand not meaningful.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_053",
+      "category": "other",
+      "claim": "(2) Includes hotels owned or leased by entities in which we own a noncontrolling financial interest.",
+      "value": null,
+      "source_ids": [
+        "S053"
+      ],
+      "source_quote": "(2) Includes hotels owned or leased by entities in which we own a noncontrolling financial interest.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_054",
+      "category": "other",
+      "claim": "Ownership (1) Managed Franchised / Licensed Total Properties Rooms Properties Rooms Properties Rooms Properties Rooms Waldorf Astoria Hotels & Resorts 2 463 37 9,225 \u2014 \u2014 39 9,688 Conrad Hotels & Resorts 1 164 44 14,121 5 2,779 50 17,064 LXR Hotels & Resorts \u2014 \u2014 7 1,155 11 1,788 18 2,943 NoMad \u2014 \u2014 1 91 \u2014 \u2014 1 91 Signia by Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S054"
+      ],
+      "source_quote": "Ownership (1) Managed Franchised / Licensed Total Properties Rooms Properties Rooms Properties Rooms Properties Rooms Waldorf Astoria Hotels & Resorts 2 463 37 9,225 \u2014 \u2014 39 9,688 Conrad Hotels & Resorts 1 164 44 14,121 5 2,779 50 17,064 LXR Hotels & Resorts \u2014 \u2014 7 1,155 11 1,78...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_055",
+      "category": "other",
+      "claim": "(1) Includes hotels owned or leased by entities in which we own a noncontrolling financial interest.",
+      "value": null,
+      "source_ids": [
+        "S055"
+      ],
+      "source_quote": "(1) Includes hotels owned or leased by entities in which we own a noncontrolling financial interest.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_056",
+      "category": "other",
+      "claim": "(2) Includes hotels that are included in our booking channels and participate in the Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S056"
+      ],
+      "source_quote": "(2) Includes hotels that are included in our booking channels and participate in the Hilton Worldwide Holdings Inc. Honors guest loyalty program through strategic partnership arrangements.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_057",
+      "category": "other",
+      "claim": "(3) Includes other hotels in our system that are not distinguished by a specific Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S057"
+      ],
+      "source_quote": "(3) Includes other hotels in our system that are not distinguished by a specific Hilton Worldwide Holdings Inc. brand.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_058",
+      "category": "other",
+      "claim": "(4) Includes properties under our timeshare brands including Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S058"
+      ],
+      "source_quote": "(4) Includes properties under our timeshare brands including Hilton Worldwide Holdings Inc. Club, Hilton Worldwide Holdings Inc. Grand Vacations Club and Hilton Worldwide Holdings Inc. Vacation Club.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_059",
+      "category": "costs_or_expenses",
+      "claim": "Three Months Ended December 31, Increase / (Decrease) 2025 2024 $ % Capital expenditures for property and equipment (2) $ 30 $ 48 (18) (37.5) Capitalized software costs (3) 22 31 (9) (29.0) Total capital expenditures 52 79 (27) (34.2) Contract acquisition costs, net of refunds (4) 128 18 110 NM (1) Total capital expenditures and contract acquisition costs $ 180 $ 97 83 85.6",
+      "value": null,
+      "source_ids": [
+        "S059"
+      ],
+      "source_quote": "Three Months Ended December 31, Increase / (Decrease) 2025 2024 $ % Capital expenditures for property and equipment (2) $ 30 $ 48 (18) (37.5) Capitalized software costs (3) 22 31 (9) (29.0) Total capital expenditures 52 79 (27) (34.2) Contract acquisition costs, net of refunds...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_060",
+      "category": "costs_or_expenses",
+      "claim": "Year Ended December 31, Increase / (Decrease) 2025 2024 $ % Capital expenditures for property and equipment (2) $ 101 $ 96 5 5.2 Capitalized software costs (3) 84 102 (18) (17.6) Total capital expenditures 185 198 (13) (6.6) Contract acquisition costs, net of refunds (4) 231 105 126 NM (1) Total capital expenditures and contract acquisition costs $ 416 $ 303 113 37.3",
+      "value": null,
+      "source_ids": [
+        "S060"
+      ],
+      "source_quote": "Year Ended December 31, Increase / (Decrease) 2025 2024 $ % Capital expenditures for property and equipment (2) $ 101 $ 96 5 5.2 Capitalized software costs (3) 84 102 (18) (17.6) Total capital expenditures 185 198 (13) (6.6) Contract acquisition costs, net of refunds (4) 231 1...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_061",
+      "category": "other",
+      "claim": "(1) Fluctuation in terms of percentage change is not meaningful.",
+      "value": null,
+      "source_ids": [
+        "S061"
+      ],
+      "source_quote": "(1) Fluctuation in terms of percentage change is not meaningful.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_062",
+      "category": "other",
+      "claim": "(2) Represents expenditures for hotels, corporate and other property and equipment, which include amounts reimbursed by third parties of $12 million and $16 million for the three months ended December 31, 2025 and 2024, respectively, and $49 million and $37 million for the years ended December 31, 2025 and 2024, respectively.",
+      "value": null,
+      "source_ids": [
+        "S062"
+      ],
+      "source_quote": "(2) Represents expenditures for hotels, corporate and other property and equipment, which include amounts reimbursed by third parties of $12 million and $16 million for the three months ended December 31, 2025 and 2024, respectively, and $49 million and $37 million for the yea...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_063",
+      "category": "other",
+      "claim": "(3) Includes $20 million and $29 million of expenditures that were reimbursed to us by third parties for the three months ended December 31, 2025 and 2024, respectively, and $76 million and $95 million for the years ended December 31, 2025 and 2024, respectively.",
+      "value": null,
+      "source_ids": [
+        "S063"
+      ],
+      "source_quote": "(3) Includes $20 million and $29 million of expenditures that were reimbursed to us by third parties for the three months ended December 31, 2025 and 2024, respectively, and $76 million and $95 million for the years ended December 31, 2025 and 2024, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_064",
+      "category": "other",
+      "claim": "(4) The increases during the three months and year ended December 31, 2025 were primarily due to the timing of certain strategic hotel developments supporting our growth resulting in higher contract acquisition costs during the periods.",
+      "value": null,
+      "source_ids": [
+        "S064"
+      ],
+      "source_quote": "(4) The increases during the three months and year ended December 31, 2025 were primarily due to the timing of certain strategic hotel developments supporting our growth resulting in higher contract acquisition costs during the periods.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_065",
+      "category": "revenue",
+      "claim": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Net income attributable to Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S065"
+      ],
+      "source_quote": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Net income attributable to Hilton Worldwide Holdings Inc. stockholders, as reported $ 297 $ 505 $ 1,457 $ 1,535 Diluted EPS, as reported $ 1.27 $ 2.06 $ 6.12 $ 6.14 Special items: Cost reimbursement re...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_066",
+      "category": "revenue",
+      "claim": "(1) Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs.",
+      "value": null,
+      "source_ids": [
+        "S066"
+      ],
+      "source_quote": "(1) Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not ope...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_067",
+      "category": "margins",
+      "claim": "(2) Amount includes losses on debt guarantees for certain hotels that we manage which were recognized in other non-operating income (loss), net.",
+      "value": null,
+      "source_ids": [
+        "S067"
+      ],
+      "source_quote": "(2) Amount includes losses on debt guarantees for certain hotels that we manage which were recognized in other non-operating income (loss), net.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_068",
+      "category": "costs_or_expenses",
+      "claim": "(3) Amounts for the three months and year ended December 31, 2024 primarily relate to an affirmative tax claim filed with a foreign taxing authority to increase the tax basis of certain brand assets that were part of an intercompany transfer.",
+      "value": null,
+      "source_ids": [
+        "S068"
+      ],
+      "source_quote": "(3) Amounts for the three months and year ended December 31, 2024 primarily relate to an affirmative tax claim filed with a foreign taxing authority to increase the tax basis of certain brand assets that were part of an intercompany transfer. Amounts for all periods include in...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_069",
+      "category": "guidance",
+      "claim": "(4) Amount for the year ended December 31, 2025 includes expected future credit losses on financing receivables, which were recognized in other non-operating income (loss), net.",
+      "value": null,
+      "source_ids": [
+        "S069"
+      ],
+      "source_quote": "(4) Amount for the year ended December 31, 2025 includes expected future credit losses on financing receivables, which were recognized in other non-operating income (loss), net. Amounts for the years ended December 31, 2025 and 2024 include restructuring costs related to certa...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_070",
+      "category": "revenue",
+      "claim": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Net income $ 298 $ 505 $ 1,461 $ 1,539 Interest expense 165 157 620 569 Income tax expense (benefit) 131 (169) 611 244 Depreciation and amortization expenses 47 39 177 146 Gain on sales of assets, net \u2014 \u2014 \u2014 (5) Loss on foreign currency transactions 3 7 11 12 Loss on debt guarantees (1) \u2014 \u2014 \u2014 50 FF&E replacement reserves 23 19 73 57 Share-based compensation expense 35 36 170 176 Amortization of contract acquisition costs 15 13 57 50 Cost reimbursement revenues (2) (1,807) (1,587) (7,085) (6,428) Reimbursed expenses (2) 1,994 1,821 7,550 6,985 Other adjustments (3) 42 17 80 34 Adjusted EBITDA $ 946 $ 858 $ 3,725 $ 3,429",
+      "value": null,
+      "source_ids": [
+        "S070"
+      ],
+      "source_quote": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Net income $ 298 $ 505 $ 1,461 $ 1,539 Interest expense 165 157 620 569 Income tax expense (benefit) 131 (169) 611 244 Depreciation and amortization expenses 47 39 177 146 Gain on sales of assets, net...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_071",
+      "category": "margins",
+      "claim": "(1) Amount includes losses on debt guarantees for certain hotels that we manage which were recognized in other non-operating income (loss), net.",
+      "value": null,
+      "source_ids": [
+        "S071"
+      ],
+      "source_quote": "(1) Amount includes losses on debt guarantees for certain hotels that we manage which were recognized in other non-operating income (loss), net.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_072",
+      "category": "revenue",
+      "claim": "(2) Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs.",
+      "value": null,
+      "source_ids": [
+        "S072"
+      ],
+      "source_quote": "(2) Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not ope...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_073",
+      "category": "guidance",
+      "claim": "(3) Amount for the year ended December 31, 2025 includes expected future credit losses on financing receivables.",
+      "value": null,
+      "source_ids": [
+        "S073"
+      ],
+      "source_quote": "(3) Amount for the year ended December 31, 2025 includes expected future credit losses on financing receivables. Amounts for the years ended December 31, 2025 and 2024 include restructuring costs related to certain leased hotels. Amount for the year ended December 31, 2024 als...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_074",
+      "category": "revenue",
+      "claim": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Total revenues, as reported $ 3,087 $ 2,783 $ 12,039 $ 11,174 Add: amortization of contract acquisition costs 15 13 57 50 Less: cost reimbursement revenues (1) (1,807) (1,587) (7,085) (6,428) Total revenues, as adjusted $ 1,295 $ 1,209 $ 5,011 $ 4,796 Net income $ 298 $ 505 $ 1,461 $ 1,539 Net income margin 9.7 % 18.2 % 12.1 % 13.8 % Adjusted EBITDA $ 946 $ 858 $ 3,725 $ 3,429 Adjusted EBITDA margin 73.0 % 71.0 % 74.4 % 71.5 %",
+      "value": null,
+      "source_ids": [
+        "S074"
+      ],
+      "source_quote": "Three Months Ended Year Ended December 31, December 31, 2025 2024 2025 2024 Total revenues, as reported $ 3,087 $ 2,783 $ 12,039 $ 11,174 Add: amortization of contract acquisition costs 15 13 57 50 Less: cost reimbursement revenues (1) (1,807) (1,587) (7,085) (6,428) Total rev...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_075",
+      "category": "revenue",
+      "claim": "(1) Amounts include revenues from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs.",
+      "value": null,
+      "source_ids": [
+        "S075"
+      ],
+      "source_quote": "(1) Amounts include revenues from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not op...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_076",
+      "category": "earnings_or_eps",
+      "claim": "December 31, 2025 2024 Long-term debt, including current maturities $ 12,363 $ 11,151 Add: unamortized deferred financing costs and discount 96 85 Long-term debt, including current maturities and excluding the deduction for unamortized deferred financing costs and discount 12,459 11,236 Less: cash and cash equivalents (918) (1,301) Less: restricted cash and cash equivalents (52) (75) Net debt $ 11,489 $ 9,860 Net income $ 1,461 $ 1,539 Long-term debt to net income ratio 8.5 7.2 Adjusted EBITDA $ 3,725 $ 3,429 Net debt to Adjusted EBITDA ratio 3.1 2.9",
+      "value": null,
+      "source_ids": [
+        "S076"
+      ],
+      "source_quote": "December 31, 2025 2024 Long-term debt, including current maturities $ 12,363 $ 11,151 Add: unamortized deferred financing costs and discount 96 85 Long-term debt, including current maturities and excluding the deduction for unamortized deferred financing costs and discount 12,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_077",
+      "category": "guidance",
+      "claim": "Three Months Ending March 31, 2026 Low Case High Case Net income attributable to Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S077"
+      ],
+      "source_quote": "Three Months Ending March 31, 2026 Low Case High Case Net income attributable to Hilton Worldwide Holdings Inc. stockholders $ 435 $ 449 Diluted EPS (1) $ 1.87 $ 1.93 Special items (2) : FF&E replacement reserves $ 11 $ 11 Other adjustments 1 1 Total special items before taxes...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_078",
+      "category": "earnings_or_eps",
+      "claim": "Year Ending December 31, 2026 Low Case High Case Net income attributable to Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S078"
+      ],
+      "source_quote": "Year Ending December 31, 2026 Low Case High Case Net income attributable to Hilton Worldwide Holdings Inc. stockholders $ 1,979 $ 2,008 Diluted EPS (1) $ 8.49 $ 8.61 Special items (2) : FF&E replacement reserves $ 43 $ 43 Other adjustments 5 5 Total special items before taxes...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_079",
+      "category": "other",
+      "claim": "(1) Does not include the effect of share repurchases made after December 31, 2025.",
+      "value": null,
+      "source_ids": [
+        "S079"
+      ],
+      "source_quote": "(1) Does not include the effect of share repurchases made after December 31, 2025.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_080",
+      "category": "earnings_or_eps",
+      "claim": "(2) See \"\u2014Net Income and Diluted EPS, Adjusted for Special Items\" for details of these special items.",
+      "value": null,
+      "source_ids": [
+        "S080"
+      ],
+      "source_quote": "(2) See \"\u2014Net Income and Diluted EPS, Adjusted for Special Items\" for details of these special items.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_081",
+      "category": "guidance",
+      "claim": "Three Months Ending March 31, 2026 Low Case High Case Net income $ 436 $ 450 Interest expense 164 164 Income tax expense 159 165 Depreciation and amortization expenses 48 48 FF&E replacement reserves 11 11 Share-based compensation expense 40 40 Amortization of contract acquisition costs 16 16 Other adjustments (1) 1 1 Adjusted EBITDA $ 875 $ 895",
+      "value": null,
+      "source_ids": [
+        "S081"
+      ],
+      "source_quote": "Three Months Ending March 31, 2026 Low Case High Case Net income $ 436 $ 450 Interest expense 164 164 Income tax expense 159 165 Depreciation and amortization expenses 48 48 FF&E replacement reserves 11 11 Share-based compensation expense 40 40 Amortization of contract acquisi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_082",
+      "category": "guidance",
+      "claim": "Year Ending December 31, 2026 Low Case High Case Net income $ 1,982 $ 2,011 Interest expense 720 720 Income tax expense 791 802 Depreciation and amortization expenses 201 201 FF&E replacement reserves 43 43 Share-based compensation expense 192 192 Amortization of contract acquisition costs 65 65 Other adjustments (1) 6 6 Adjusted EBITDA $ 4,000 $ 4,040 ____________",
+      "value": null,
+      "source_ids": [
+        "S082"
+      ],
+      "source_quote": "Year Ending December 31, 2026 Low Case High Case Net income $ 1,982 $ 2,011 Interest expense 720 720 Income tax expense 791 802 Depreciation and amortization expenses 201 201 FF&E replacement reserves 43 43 Share-based compensation expense 192 192 Amortization of contract acqu...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_083",
+      "category": "guidance",
+      "claim": "(1) See \"\u2014Net Income Margin and Adjusted EBITDA and Adjusted EBITDA Margin\" for details of these adjustments.",
+      "value": null,
+      "source_ids": [
+        "S083"
+      ],
+      "source_quote": "(1) See \"\u2014Net Income Margin and Adjusted EBITDA and Adjusted EBITDA Margin\" for details of these adjustments.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_084",
+      "category": "guidance",
+      "claim": "Net Income (Loss), Adjusted for Special Items, and Diluted EPS, Adjusted for Special Items",
+      "value": null,
+      "source_ids": [
+        "S084"
+      ],
+      "source_quote": "Net Income (Loss), Adjusted for Special Items, and Diluted EPS, Adjusted for Special Items",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_085",
+      "category": "guidance",
+      "claim": "Net income (loss), adjusted for special items is calculated as net income (loss) attributable to Hilton Worldwide Holdings Inc.",
+      "value": null,
+      "source_ids": [
+        "S085"
+      ],
+      "source_quote": "Net income (loss), adjusted for special items is calculated as net income (loss) attributable to Hilton Worldwide Holdings Inc. stockholders, as reported, plus total special items after taxes. Net income (loss), adjusted for special items, and diluted earnings (loss) per share...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_086",
+      "category": "guidance",
+      "claim": "Net income (loss), adjusted for special items, and diluted EPS, adjusted for special items, are included to assist investors in performing meaningful comparisons of past, present and future operating results and as a means of highlighting the results of our ongoing operations.",
+      "value": null,
+      "source_ids": [
+        "S086"
+      ],
+      "source_quote": "Net income (loss), adjusted for special items, and diluted EPS, adjusted for special items, are included to assist investors in performing meaningful comparisons of past, present and future operating results and as a means of highlighting the results of our ongoing operations.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_087",
+      "category": "guidance",
+      "claim": "Adjusted EBITDA, Net Income (Loss) Margin and Adjusted EBITDA Margin",
+      "value": null,
+      "source_ids": [
+        "S087"
+      ],
+      "source_quote": "Adjusted EBITDA, Net Income (Loss) Margin and Adjusted EBITDA Margin",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_088",
+      "category": "guidance",
+      "claim": "Adjusted EBITDA is calculated as net income (loss), excluding interest expense, a provision for income tax benefit (expense) and depreciation and amortization expenses, as well as gains, losses, revenues and expenses earned or incurred in connection with: (i) asset dispositions for both consolidated and unconsolidated investments; (ii) foreign currency transactions; (iii) debt restructurings and retirements; (iv) furniture, fixtures and equipment (\"FF&E\") replacement reserves required under certain lease agreements; (v) share-based compensation; (vi) reorganization, severance, relocation and other expenses; (vii) non-cash impairment; (viii) amortization of contract acquisition costs; (ix) cost reimbursement revenues and reimbursed expenses; and (x) other items .",
+      "value": null,
+      "source_ids": [
+        "S088"
+      ],
+      "source_quote": "Adjusted EBITDA is calculated as net income (loss), excluding interest expense, a provision for income tax benefit (expense) and depreciation and amortization expenses, as well as gains, losses, revenues and expenses earned or incurred in connection with: (i) asset disposition...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_089",
+      "category": "guidance",
+      "claim": "Net income (loss) margin represents net income (loss) as a percentage of total revenues.",
+      "value": null,
+      "source_ids": [
+        "S089"
+      ],
+      "source_quote": "Net income (loss) margin represents net income (loss) as a percentage of total revenues. Adjusted EBITDA margin represents Adjusted EBITDA as a percentage of total revenues, adjusted to exclude the amortization of contract acquisition costs and cost reimbursement revenues.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_090",
+      "category": "guidance",
+      "claim": "We believe that Adjusted EBITDA and Adjusted EBITDA margin provide useful information to investors about us and our financial condition and results of operations for the following reasons: (i) these measures are used by our management team to evaluate our operating performance and make day-to-day operating decisions and (ii) these measures are frequently used by securities analysts, investors and other interested parties as a common performance measure to compare results or estimate valuations across companies in our industry.",
+      "value": null,
+      "source_ids": [
+        "S090"
+      ],
+      "source_quote": "We believe that Adjusted EBITDA and Adjusted EBITDA margin provide useful information to investors about us and our financial condition and results of operations for the following reasons: (i) these measures are used by our management team to evaluate our operating performance...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_091",
+      "category": "guidance",
+      "claim": "Adjusted EBITDA and Adjusted EBITDA margin are not recognized terms under GAAP and should not be considered as alternatives, either in isolation or as a substitute, for net income (loss), net income (loss) margin or other measures of financial performance or liquidity, including cash flows, derived in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S091"
+      ],
+      "source_quote": "Adjusted EBITDA and Adjusted EBITDA margin are not recognized terms under GAAP and should not be considered as alternatives, either in isolation or as a substitute, for net income (loss), net income (loss) margin or other measures of financial performance or liquidity, includi...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_092",
+      "category": "guidance",
+      "claim": "Net Debt, Long-Term Debt to Net Income (Loss) Ratio and Net Debt to Adjusted EBITDA Ratio",
+      "value": null,
+      "source_ids": [
+        "S092"
+      ],
+      "source_quote": "Net Debt, Long-Term Debt to Net Income (Loss) Ratio and Net Debt to Adjusted EBITDA Ratio",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_093",
+      "category": "guidance",
+      "claim": "Long-term debt to net income (loss) ratio is calculated as the ratio of Hilton Worldwide Holdings Inc.'s long-term debt, including current maturities, to net income (loss).",
+      "value": null,
+      "source_ids": [
+        "S093"
+      ],
+      "source_quote": "Long-term debt to net income (loss) ratio is calculated as the ratio of Hilton Worldwide Holdings Inc.'s long-term debt, including current maturities, to net income (loss). Net debt is calculated as: long-term debt, including current maturities and excluding the deduction for...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_094",
+      "category": "guidance",
+      "claim": "Net debt should not be considered as a substitute to debt presented in accordance with GAAP, and net debt to Adjusted EBITDA ratio should not be considered as an alternative to measures of financial condition derived in accordance with GAAP.",
+      "value": null,
+      "source_ids": [
+        "S094"
+      ],
+      "source_quote": "Net debt should not be considered as a substitute to debt presented in accordance with GAAP, and net debt to Adjusted EBITDA ratio should not be considered as an alternative to measures of financial condition derived in accordance with GAAP. Net debt and net debt to Adjusted E...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_095",
+      "category": "guidance",
+      "claim": "We define our comparable hotels as those that were active and operating in our system for at least one full calendar year and were open January 1st of the previous year.",
+      "value": null,
+      "source_ids": [
+        "S095"
+      ],
+      "source_quote": "We define our comparable hotels as those that were active and operating in our system for at least one full calendar year and were open January 1st of the previous year. We exclude hotels that have undergone a change in brand or ownership type or a large-scale capital project...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_096",
+      "category": "guidance",
+      "claim": "Occupancy represents the total number of room nights sold divided by the total number of room nights available at a hotel or group of hotels for a given period.",
+      "value": null,
+      "source_ids": [
+        "S096"
+      ],
+      "source_quote": "Occupancy represents the total number of room nights sold divided by the total number of room nights available at a hotel or group of hotels for a given period. Occupancy measures the utilization of available capacity at a hotel or group of hotels. Management uses occupancy to...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_097",
+      "category": "guidance",
+      "claim": "ADR represents hotel room revenue divided by the total number of room nights sold for a given period.",
+      "value": null,
+      "source_ids": [
+        "S097"
+      ],
+      "source_quote": "ADR represents hotel room revenue divided by the total number of room nights sold for a given period. ADR measures the average room price attained by a hotel, and ADR trends provide useful information concerning the pricing environment and the nature of the customer base of a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_098",
+      "category": "guidance",
+      "claim": "RevPAR is calculated by dividing hotel room revenue by the total number of room nights available to guests for a given period.",
+      "value": null,
+      "source_ids": [
+        "S098"
+      ],
+      "source_quote": "RevPAR is calculated by dividing hotel room revenue by the total number of room nights available to guests for a given period. We consider RevPAR to be a meaningful indicator of our performance as it provides a metric correlated to two primary and key drivers of operations at...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_099",
+      "category": "guidance",
+      "claim": "References to occupancy, ADR and RevPAR are presented on a comparable basis, based on the comparable hotels as of December 31, 2025, and references to ADR and RevPAR are presented on a currency neutral basis, unless otherwise noted.",
+      "value": null,
+      "source_ids": [
+        "S099"
+      ],
+      "source_quote": "References to occupancy, ADR and RevPAR are presented on a comparable basis, based on the comparable hotels as of December 31, 2025, and references to ADR and RevPAR are presented on a currency neutral basis, unless otherwise noted. As such, comparisons of these hotel operatin...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_100",
+      "category": "guidance",
+      "claim": "Rooms under construction include rooms for hotels under construction or operating hotels that are in the process of conversion to our system.",
+      "value": null,
+      "source_ids": [
+        "S100"
+      ],
+      "source_quote": "Rooms under construction include rooms for hotels under construction or operating hotels that are in the process of conversion to our system.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "revenue",
+      "claim": "Revenues reported for FY2025: 12039000000",
+      "value": 12039000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "Revenues reported for FY2025: 12039000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "other",
+      "claim": "RevenueFromContractWithCustomerExcludingAssessedTax reported for FY2025: 12039000000",
+      "value": 12039000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "RevenueFromContractWithCustomerExcludingAssessedTax reported for FY2025: 12039000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for FY2025: 2693000000",
+      "value": 2693000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for FY2025: 2693000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for FY2025: 1457000000",
+      "value": 1457000000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "NetIncomeLoss reported for FY2025: 1457000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "other",
+      "claim": "ProfitLoss reported for FY2025: 1461000000",
+      "value": 1461000000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "ProfitLoss reported for FY2025: 1461000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for FY2025: 6.12",
+      "value": 6.12,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for FY2025: 6.12",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for FY2025: 6.18",
+      "value": 6.18,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for FY2025: 6.18",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 918000000",
+      "value": 918000000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 918000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 2129000000",
+      "value": 2129000000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 2129000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.062705, ret_20d=0.077563, market_ret_20d=-0.004373",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.062705, ret_20d=0.077563, market_ret_20d=-0.004373",
+      "support_label": "supported"
+    }
+  ]
+}

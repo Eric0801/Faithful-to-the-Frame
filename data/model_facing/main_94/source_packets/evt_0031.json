@@ -1,0 +1,490 @@
+{
+  "event_id": "evt_0031",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "Arista Networks, Inc.",
+  "ticker": "ANET",
+  "company_alias": "Arista Networks, Inc.",
+  "masked_company": "Company AE",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q3",
+  "event_date": "2026-02-12",
+  "filing_metadata": {
+    "cik": "1596532",
+    "accession_number": "0001596532-26-000010",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-12T16:07:57-05:00",
+    "event_date": "2026-02-12",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "SANTA CLARA, Calif.- 2026-02-12T16:07:57-05:00 -- Arista Networks, Inc.. (NYSE:ANET), an industry leader in data-driven, client-to-cloud networking for large AI, data center, campus, and routing environments, today announced financial results for its fourth quarter and the full year ended December 31, 2025.",
+      "token_count": 74
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201c2025 was the year of validation of our Arista Networks, Inc. 2.0 momentum, as we hit the milestone of shipping a cumulative of 150 million ports,\u201d stated Chairperson and CEO of Arista Networks, Inc.. \"We exceeded both our AI networking and campus expansion goals, delivering profitable growth and revenue of $9 billion.\"",
+      "token_count": 75
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue of $2.488 billion, an increase of 7.8% compared to the third quarter of 2025, and an increase of 28.9% from the fourth quarter of 2024.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP gross margin of 62.9%, compared to GAAP gross margin of 64.6% in the third quarter of 2025 and 63.8% in the fourth quarter of 2024.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP gross margin of 63.4%, compared to non-GAAP gross margin of 65.2% in the third quarter of 2025 and 64.2% in the fourth quarter of 2024.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP net income of $955.8 million, or $0.75 per diluted share, compared to GAAP net income of $801.0 million, or $0.62 per diluted share, in the fourth quarter of 2024.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Non-GAAP net income of $1.047 billion, or $0.82 per diluted share, compared to non-GAAP net income of $849.6 million 1 , or $0.66 1 per diluted share, in the fourth quarter of 2024.",
+      "token_count": 46
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue of $9.006 billion, an increase of 28.6% compared to fiscal year 2024 .",
+      "token_count": 20
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP gross margin of 64.1%, compared to GAAP gross margin of 64.1% in fiscal year 2024 .",
+      "token_count": 23
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP gross margin of 64.6%, compared to non-GAAP gross margin of 64.6% in fiscal year 2024 .",
+      "token_count": 25
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP net income of $3.511 billion, or $2.75 per diluted share, compared to GAAP net income of $2.852 billion, or $2.23 per diluted share, in fiscal year 2024 .",
+      "token_count": 41
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Non-GAAP net income of $3.806 billion or $2.98 per diluted share, compared to non-GAAP net income of $2.971 billion 1 or $2.32 1 per diluted share, in fiscal year 2024 .",
+      "token_count": 43
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cOur Q4 results underscore the strong operating leverage inherent in our model, providing a powerful exit rate as we head into 2026,\" said Chantelle Breithaupt, Arista Networks, Inc.\u2019s CFO . \"By pairing 29% revenue growth with a disciplined 47.5% operating margin, Arista Networks, Inc. achieved a historic milestone: surpassing $1 billion in quarterly net income. Congratulations to the team.\"",
+      "token_count": 93
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. Unveiled Next Generation Data and AI Center Networks",
+      "token_count": 17
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "The R4 series platforms for AI, data center, and routed backbone deployment deliver high performance, low AI job completion times, low power consumption, and integrated security, while helping customers reduce total cost of ownership.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. Introduced Innovations for Massive Scale Campus Mobility",
+      "token_count": 18
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "1 Prior period amounts have been updated to conform to the current period presentation. Refer to the Reconciliation of Selected GAAP to Non-GAAP Financial Measures for details.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Arista Networks, Inc. Virtual Ethernet Segment with Proxy ARP (Arista Networks, Inc. VESPA) enables customers to deploy large-scale WLAN mobility domains.",
+      "token_count": 33
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. AVA uses Agentic AI to Streamline Network Operations",
+      "token_count": 17
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Arista Networks, Inc. AVA (Autonomous Virtual Assist) was extended with additional agentic AI capabilities for use cases such as multi-domain event correlation, continuous monitoring, and network troubleshooting.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. Launched Cognitive Campus Switches for the Industrial Edge",
+      "token_count": 18
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Arista Networks, Inc.\u2019s new ruggedized platforms bring the power, reliability, and operational simplicity of EOS to demanding industrial or outdoor environments.",
+      "token_count": 38
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. introduced intelligent innovations for AI networking",
+      "token_count": 17
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Capabilities such as Cluster Load Balancing (CLB) and CloudVision\u00ae Universal Network Observability\u2122 (CV UNO\u2122) maximize AI workload performance and deliver deep job-centric observability for enhanced troubleshooting.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. to collaborate with industry leaders to deliver Ethernet for Scale-Up Networks (ESUN)",
+      "token_count": 25
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "ESUN was unveiled at the OCP Global Summit in October 2025 as an open OCP workstream committed to the goal of open standards-based solutions for scale-up, based on Ethernet, and open to all.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. announced AI agents to streamline network operations",
+      "token_count": 17
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "With the combined power of open standards like MCP and the robust data and programmability of Arista Networks, Inc.'s EOS and NetDL, organizations are empowered to build, manage, and secure the networks of the future.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. Acquired the VeloCloud\u00ae SD-WAN Portfolio from Broadcom",
+      "token_count": 17
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "VeloCloud enables customers to securely and efficiently interconnect data centers and distributed campus/branch offices while complementing Arista Networks, Inc.'s existing portfolio.",
+      "token_count": 43
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Arista Networks, Inc. Recognized in the Leaders Quadrant of the 2025 Gartner\u00ae Magic Quadrant\u2122 for Data Center Switching, published on March 31, 2025, and in the Visionaries Quadrant of the 2025 Gartner\u00ae Magic Quadrant\u2122 for Enterprise Wired and Wireless LAN Infrastructure published on 25 June 2025",
+      "token_count": 72
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Gartner positioned Arista Networks, Inc. as the vendor with the highest Ability to Execute in the Magic Quadrant\u2122 for Data Center Switching .",
+      "token_count": 33
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Todd Nightingale was appointed President and Chief Operating Office r, Kenneth Duda was promoted to President and Chief Technology Officer, and Tyson Lamoreaux was appointed Senior Vice President of Cloud and AI Networking.",
+      "token_count": 56
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Revenue of approximately $2.6 billion;",
+      "token_count": 10
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP gross margin between approximately 62-63%; and",
+      "token_count": 15
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP operating margin of approximately 46%.",
+      "token_count": 13
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Guidance for non-GAAP financial measures excludes certain items, including stock-based compensation expense, intangible asset amortization, and potential non-recurring charges or benefits. A reconciliation of non-GAAP guidance measures to corresponding GAAP measures is not available on a forward-looking basis without unreasonable effort because these exclusions can be uncertain or difficult to predict, including stock-based compensation expense which is impacted by the timing of employee stock transactions, the company\u2019s future hiring",
+      "token_count": 135
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "and retention needs and the future fair market value of the company\u2019s common stock. The actual amount of these exclusions will have a significant impact on the company\u2019s GAAP gross margin and GAAP operating margin.",
+      "token_count": 54
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "This press release and accompanying table contain certain non-GAAP financial measures, including non-GAAP gross profit, non-GAAP gross margin, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, and non-GAAP diluted net income per share. These non-GAAP financial measures exclude stock-based compensation expense, intangible asset amortization, gains/losses on strategic investments, and the income tax effect of these non-GAAP exclusions, including the recognition of direct excess tax benefits associated with stock-based awards, as well as non-recurring adjustments to our tax provision resulting from the enactment of the One Big Beautiful Bill Act (\u201cOBBB Act\u201d). Effective the fourth quarter and fiscal year 2025, the Company updated its methodology for calculating the income tax effect of Non-GAAP adjustments. Previously, the Company\u2019s calculation excluded all tax benefits associated with stock-based awards, consisting of both direct excess tax benefits and other discrete indirect effects. Under the updated methodology, the Company continues to exclude direct excess tax benefits but no longer excludes the discrete indirect effects of such awards. Management believes this change better aligns with industry practice and provides a more meaningful view of the Company\u2019s effective tax rate. All prior period Non-GAAP results presented in this release have been recast to conform to the current period presentation.",
+      "token_count": 364
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company uses these non-GAAP financial measures internally in analyzing its financial results and believes that these non-GAAP financial measures are useful to investors as an additional tool to evaluate ongoing operating results and trends. In addition, these measures are the primary indicators management uses as a basis for its planning and forecasting for future periods.",
+      "token_count": 95
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP financial measures are not meant to be considered in isolation or as a substitute for the comparable GAAP financial measures. Non-GAAP financial measures are subject to limitations and should be read only in conjunction with the company's consolidated financial statements prepared in accordance with GAAP. Non-GAAP financial measures do not have any standardized meaning and are, therefore, unlikely to be comparable to similarly titled measures presented by other companies. A description of these non-GAAP financial measures and a reconciliation of the company\u2019s non-GAAP financial measures to their most directly comparable GAAP measures have been provided in the financial statement tables included in this press release, and investors are encouraged to review the reconciliation.",
+      "token_count": 199
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Gartner\u00ae, Magic Quadrant\u2122 for Data Center Switching, Andrew Lerner et al., 31 March 2025",
+      "token_count": 22
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Gartner\u00ae, Magic Quadrant\u2122 for Enterprise Wired and Wireless LAN Infrastructure, Mike Leibovitz et al., 25 June 2025",
+      "token_count": 29
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "GARTNER and MAGIC QUADRANT are trademarks of Gartner, Inc. and its affiliates.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Gartner does not endorse any company, vendor, product or service depicted in its publications, and does not advise technology users to select only those vendors with the highest ratings or other designation.",
+      "token_count": 52
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Gartner publications consist of the opinions of Gartner\u2019s business and technology insights organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, including any warranties of merchantability or fitness for a particular purpose.",
+      "token_count": 82
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Gartner content described herein (the \u201cGartner Content\u201d) represents research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. (\"Gartner\"), and is not a representation of fact. Gartner Content speaks as of its original publication date (and not as of the date of this Earnings Press Release), and the opinions expressed in the Gartner Content are subject to change without notice.",
+      "token_count": 108
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Arista Networks, Inc. is an industry leader in data-driven, client-to-cloud networking for large AI, data center, campus, and routing environments. Its award-winning platforms deliver availability, agility, automation, analytics, and security through an advanced network operating stack. For more information, visit www.Arista Networks, Inc..com.",
+      "token_count": 81
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Arista Networks, Inc., CloudVision, and Etherlink are among the registered and unregistered trademarks of Arista Networks, Inc.. in jurisdictions around the world. Other company names or product names may be trademarks of their respective owners. Additional information and resources can be found at www.Arista Networks, Inc..com.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 Revenue: Product $ 2,095.7 $ 1,608.1 $ 7,576.9 $ 5,884.0 Service 392.1 322.3 1,428.8 1,119.1 Total revenue 2,487.8 1,930.4 9,005.7 7,003.1 Cost of revenue: Product 853.2 643.6 2,978.7 2,299.0 Service 70.8 55.8 258.3 212.8 Total cost of revenue 924.0 699.4 3,237.0 2,511.8 Total gross profit 1,563.8 1,231.0 5,768.7 4,491.3 Operating expenses: Research and development 348.4 285.0 1,237.3 996.7 Sales and marketing 139.1 111.0 533.4 427.3 General and administrative 43.4 35.4 141.9 122.7 Total operating expenses 530.9 431.4 1,912.6 1,546.7 Income from operations 1,032.9 799.6 3,856.1 2,944.6 Other income, net 104.5 89.4 393.6 320.5 Income before income taxes 1,137.4 889.0 4,249.7 3,265.1 Provision for income taxes 181.6 88.0 738.3 413.0 Net income $ 955.8 $ 801.0 $ 3,511.4 $ 2,852.1 Earnings per share: Basic $ 0.76 $ 0.64 $ 2.79 $ 2.27 Diluted $ 0.75 $ 0.62 $ 2.75 $ 2.23 Weighted-average common shares outstanding: Basic 1,257.8 1,260.3 1,258.0 1,256.3 Diluted 1,275.8 1,283.4 1,275.7 1,281.1",
+      "token_count": 271
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(Unaudited, in millions, except percentages and per share amounts)",
+      "token_count": 17
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended December 31, Twelve Months Ended December 31, 2025 2024 2025 2024 GAAP gross profit $ 1,563.8 $ 1,231.0 $ 5,768.7 $ 4,491.3 GAAP gross margin 62.9 % 63.8 % 64.1 % 64.1 % Stock-based compensation expense 7.6 4.3 26.9 15.8 Intangible asset amortization 7.0 4.2 19.8 16.8 Non-GAAP gross profit $ 1,578.4 $ 1,239.5 $ 5,815.4 $ 4,523.9 Non-GAAP gross margin 63.4 % 64.2 % 64.6 % 64.6 % GAAP income from operations $ 1,032.9 $ 799.7 $ 3,856.1 $ 2,944.6 GAAP operating margin 41.5 % 41.4 % 42.8 % 42.0 % Stock-based compensation expense 133.1 100.7 439.2 355.4 Intangible asset amortization 15.3 6.7 41.7 26.8 Non-GAAP income from operations $ 1,181.3 $ 907.1 $ 4,337.0 $ 3,326.8 Non-GAAP operating margin 47.5 % 47.0 % 48.2 % 47.5 % GAAP net income $ 955.8 $ 801.0 $ 3,511.4 $ 2,852.1 Stock-based compensation expense 133.1 100.7 439.2 355.4 Intangible asset amortization 15.3 6.7 41.7 26.8 Gain on strategic investments (2.5) \u2014 (13.4) (12.4) Tax impact of OBBB (12.0) \u2014 22.6 \u2014 Tax benefit on stock-based awards 2 (29.8) (44.0) (146.9) (191.7) Income tax effect on non-GAAP exclusions 2 (13.3) (14.8) (48.6) (59.4) Non-GAAP net income 2 $ 1,046.6 $ 849.6 $ 3,806.0 $ 2,970.8 GAAP diluted net income per share $ 0.75 $ 0.62 $ 2.75 $ 2.23 Non-GAAP adjustments to net income 2 0.07 0.04 0.23 0.09 Non-GAAP diluted net income per share 2 $ 0.82 $ 0.66 $ 2.98 $ 2.32 Weighted-average shares used in computing diluted net income per share 1,275.8 1,283.4 1,275.7 1,281.1 Summary of Stock-Based Compensation Expense: Cost of revenue $ 7.6 $ 4.3 $ 26.9 $ 15.8 Research and development 75.9 59.0 260.7 211.8 Sales and marketing 32.5 22.1 104.1 78.8 General and administrative 17.1 15.4 47.5 49.0 Total $ 133.1 $ 100.8 $ 439.2 $ 355.4",
+      "token_count": 435
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "2 Prior period amounts have been updated to conform to the current period presentation to reflect the change in methodology for calculating non-GAAP income taxes associated with stock-based awards. The retrospective application of this change resulted in an increase to non-GAAP income of $19.5 million and $61.3 million for the three months and fiscal year ended December 31, 2024, respectively. The impact of this change on non-GAAP diluted net income per share was an increase of $0.01 and $0.05 for the three months and fiscal year ended December 31, 2024, respectively. Please refer to the discussions under \"Non-GAAP Financial Measures\" for further information with respect to this change.",
+      "token_count": 174
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 1,963.9 $ 2,762.4 Marketable securities 8,779.1 5,541.1 Accounts receivable, net 1,886.9 1,140.5 Inventories 2,247.1 1,834.6 Prepaid expenses and other current assets 1,510.0 632.3 Total current assets 16,387.0 11,910.9 Property and equipment, net 203.1 98.8 Goodwill 416.1 268.5 Deferred tax assets 1,773.6 1,440.4 Other assets 668.8 325.3 TOTAL ASSETS $ 19,448.6 $ 14,043.9 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY CURRENT LIABILITIES: Accounts payable $ 651.7 $ 381.1 Accrued liabilities 475.4 435.3 Deferred revenue 4,002.6 1,727.3 Other current liabilities 246.8 188.5 Total current liabilities 5,376.5 2,732.2 Deferred revenue, non-current 1,369.8 1,064.1 Other long-term liabilities 331.8 252.8 TOTAL LIABILITIES 7,078.1 4,049.1 STOCKHOLDERS\u2019 EQUITY: Common stock 0.1 0.1 Additional paid-in capital 2,911.8 2,465.4 Retained earnings 9,446.6 7,542.5 Accumulated other comprehensive income (loss) 12.0 (13.2) TOTAL STOCKHOLDERS\u2019 EQUITY 12,370.5 9,994.8 TOTAL LIABILITIES AND STOCKHOLDERS\u2019 EQUITY $ 19,448.6 $ 14,043.9",
+      "token_count": 277
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Twelve Months Ended December 31, 2025 2024 CASH FLOWS FROM OPERATING ACTIVITIES: Net income $ 3,511.4 $ 2,852.1 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 72.6 62.0 Stock-based compensation 439.2 355.4 Deferred income taxes (312.0) (492.9) Other (27.1) (53.6) Changes in operating assets and liabilities: Accounts receivable, net (746.4) (106.1) Inventories (412.5) 110.6 Other assets (937.4) (234.2) Accounts payable 260.5 (51.6) Other liabilities 119.4 47.8 Deferred revenue 2,452.0 1,285.2 Income taxes, net (47.8) (66.5) Net cash provided by operating activities 4,371.9 3,708.2 CASH FLOWS FROM INVESTING ACTIVITIES: Proceeds from maturities of marketable securities 3,432.5 2,058.6 Proceeds from sale of marketable securities 144.3 48.8 Purchases of marketable securities (6,748.4) (4,526.1) Purchases of property, equipment and intangible assets (119.5) (32.0) Cash paid for business combination, net of cash acquired (300.0) \u2014 Other 14.9 (6.6) Net cash used in investing activities (3,576.2) (2,457.3) CASH FLOWS FROM FINANCING ACTIVITIES: Proceeds from issuance of common stock under equity plans 57.7 60.2 Tax withholding paid on behalf of employees for net share settlement (50.5) (58.4) Repurchase of common stock (1,603.1) (423.6) Net cash used in financing activities (1,595.9) (421.8) Effect of exchange rate changes 1.7 (4.8) NET INCREASE (DECREASE) IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH (798.5) 824.3 CASH, CASH EQUIVALENTS AND RESTRICTED CASH \u2014Beginning of period 2,763.8 1,939.5 CASH, CASH EQUIVALENTS AND RESTRICTED CASH \u2014End of period $ 1,965.3 $ 2,763.8",
+      "token_count": 413
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Investor Contacts: Arista Networks, Inc.. Investor Advocacy Rudolph Araujo Rod Hall +1 (408) 547-8080 ir@Arista Networks, Inc..com",
+      "token_count": 27
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2025Q3",
+      "value": 2308300000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2025Q3",
+      "value": 1490200000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2025Q3",
+      "value": 978200000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "OperatingExpenses",
+      "period": "2025Q3",
+      "value": 512000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "NetIncomeLoss",
+      "period": "2025Q3",
+      "value": 853000000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2025Q3",
+      "value": 0.67,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "EarningsPerShareBasic",
+      "period": "2025Q3",
+      "value": 0.68,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X008",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "period": "2025Q3",
+      "value": 2326600000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X009",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2025Q3",
+      "value": 3110000000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.050128,
+    "ret_20d": 0.080182,
+    "market_ret_20d": -0.013167
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,287 @@
+{
+  "event_id": "evt_0091",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "APPLIED INDUSTRIAL TECHNOLOGIES INC",
+  "ticker": "AIT",
+  "company_alias": "APPLIED INDUSTRIAL TECHNOLOGIES INC",
+  "masked_company": "Company E",
+  "sector": "Industrials",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2026 Q2",
+  "event_date": "2026-01-27",
+  "filing_metadata": {
+    "cik": "109563",
+    "accession_number": "0000109563-26-000013",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-01-27T04:19:17-05:00",
+    "event_date": "2026-01-27",
+    "after_close": false,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Net Sales of $1.2 Billion Up 8.4% YoY; Up 2.2% on an Organic Basis",
+      "token_count": 17
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Net Income of $95.3 Million, or $2.51 Per Diluted Share Up 4.6% YoY",
+      "token_count": 18
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Operating Income of $123.2 Million; EBITDA of $140.4 Million Up 3.9% YoY",
+      "token_count": 19
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u2022 Operating Cash Flow of $99.7 Million; Free Cash Flow of $93.4 Million",
+      "token_count": 18
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Quarterly Dividend Increased 11% to $0.51 Per Share",
+      "token_count": 14
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2022 Announcing Acquisition of Thompson Industrial Supply Inc.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Adjusting FY26 Guidance; EPS Now $10.45 to 10.75 on Sales of +5.5% to +7.0%",
+      "token_count": 20
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "CLEVELAND, OHIO (2026-01-27T04:19:17-05:00) \u2013 APPLIED INDUSTRIAL TECHNOLOGIES INC Technologies (NYSE:AIT), a leading value-added distributor and technical solutions provider of industrial motion, fluid power, flow control, automation technologies, and related maintenance supplies, today reported results for its fiscal 2026 second quarter ended December 31, 2025.",
+      "token_count": 84
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales for the quarter of $1.2 billion increased 8.4% over the prior year. The change includes a 6.0% increase from acquisitions and a positive 0.2% impact from foreign currency translation. Excluding these factors, sales increased 2.2% on an organic basis reflecting a 2.9% increase in the Service Center segment and a 0.5% increase in the Engineered Solutions segment. The Company reported net income of $95.3 million, or $2.51 per share, and EBITDA of $140.4 million. On a pre-tax basis, results include $6.9 million ($0.14 after tax per share) of LIFO expense compared to $0.7 million ($0.01 after tax per share) of LIFO expense in the prior-year period.",
+      "token_count": 166
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Neil A. Schrimsher, APPLIED INDUSTRIAL TECHNOLOGIES INC\u2019s President & Chief Executive Officer, commented, \u201cDuring the second quarter we continued to effectively manage through an evolving but still mixed end-market backdrop while positioning the Company for stronger growth that we see ahead. Sales and EBITDA margins were in line with our guidance, and earnings grew modestly over the prior year. This is inclusive of greater than expected LIFO expense and muted December sales activity. Our teams responded with an ongoing focus on internal initiatives and channel execution. These efforts drove solid underlying gross margin and EBITDA margin performance when excluding the LIFO impact, particularly considering difficult prior-year comparisons as previously highlighted. In addition, we continued to see encouraging signs on the sales front with order growth continuing to build across both segments. We believe this positive momentum could translate more meaningfully to sales in the second half of our fiscal year, as reflected by organic sales trending up by a mid single-digit percent year over year month to date in January. Lastly, we remain active with capital deployment including ongoing share repurchases, as well as today\u2019s announced 11% increase in our quarterly dividend and the bolt-on Service Center acquisition of Thompson Industrial Supply Inc.\u201d",
+      "token_count": 335
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Mr. Schrimsher added, \u201cAs we enter the second half of fiscal 2026, we remain constructive on our setup given the potential for accelerating sales and earnings growth. Our updated guidance incorporates ongoing macro and policy uncertainty that will likely continue to influence customer spending behavior and shipment activity near term. That said, we are encouraged by early fiscal third quarter sales trends including stronger sales growth across both segments. Sentiment from customers and sales teams is directionally positive, while business funnels continue to expand. Furthermore, we believe technical MRO and capital spending requirements are heightened entering a more productive environment in calendar 2026 as benefits from lower interest rates, tax policy, and deregulation provide incremental support. Combined with ongoing self-help margin opportunities and balance sheet capacity, we are well positioned to capitalize on various growth catalysts developing across the North American industrial sector.\u201d",
+      "token_count": 254
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Today, the Company is adjusting fiscal 2026 EPS guidance to a range of $10.45 to $10.75 (prior $10.10 to $10.85) following fiscal 2026 first half performance. Updated guidance now assumes sales growth of 5.5% to 7.0% (prior range up 4.0% to 7.0%) including up 2.5% to 4.0% on an organic basis (prior range up 1.0% to 4.0%), while EBITDA margin guidance is now 12.2% to 12.4% (prior range 12.2% to 12.5%). Guidance now assumes annual",
+      "token_count": 108
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "LIFO expense in a range of $24 million to $26 million (prior range $14 million to $18 million), and incorporates ongoing macro uncertainty, broader inflationary headwinds, and growth investments. Guidance does not assume contribution from future acquisitions or share buybacks.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The Company today also announced the acquisition of Thompson Industrial Supply Inc. (Thompson). Based in Los Angeles, CA, Thompson is a provider of industrial bearings, power transmission, hydraulics, pneumatics, linear motion, and lightweight belting products and related service solutions. Thompson operates with a team of more than 40 associates from two locations in Southern California and serves customers across many core verticals including food and beverage, consumer products, pharmaceutical, life sciences, and other various industrial industries. The Company will be integrated into APPLIED INDUSTRIAL TECHNOLOGIES INC\u2019s U.S. Service Center operations and is expected to generate annual sales of approximately $20 million in the first year of ownership.",
+      "token_count": 185
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Mr. Schrimsher commented, \u201cWe welcome Thompson to APPLIED INDUSTRIAL TECHNOLOGIES INC as we continue to bolster our local service center position and provide our customers with leading aftermarket support of motion control solutions. Thompson is a nice bolt-on acquisition that will enhance our footprint in an important industrial market. They bring strong technical knowledge and aligned supplier relationships, as well as in-house belting and fabrication capabilities that will strengthen our value-added services and competitive position in the region. We look forward to seeing their capabilities support our collective efforts and value proposition moving forward.\u201d",
+      "token_count": 162
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Today the Company also announced that its Board of Directors approved an 11% increase in the quarterly cash dividend to $0.51 per common share, payable on February 27, 2026, to shareholders of record on February 13, 2026. This represents the 17 th dividend increase since 2010.",
+      "token_count": 70
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "APPLIED INDUSTRIAL TECHNOLOGIES INC Technologies is a leading value-added distributor and technical solutions provider of industrial motion, fluid power, flow control, automation technologies, and related maintenance supplies. Our leading brands, specialized services, and comprehensive knowledge serve MRO (maintenance, repair, and operations) and OEM (original equipment manufacturing), and new system install applications in virtually all industrial markets through our multi-channel capabilities that provide choice, convenience, and expertise. For more information, visit www.APPLIED INDUSTRIAL TECHNOLOGIES INC.com.",
+      "token_count": 143
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "216-426-4887 / rcieslak@APPLIED INDUSTRIAL TECHNOLOGIES INC.com",
+      "token_count": 10
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "APPLIED INDUSTRIAL TECHNOLOGIES INC. AND SUBSIDIARIES CONDENSED STATEMENTS OF CONSOLIDATED INCOME (Unaudited) (In thousands, except per share data) Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 Net Sales $ 1,163,023 $ 1,073,001 $ 2,362,546 $ 2,171,945 Cost of sales 809,689 744,951 1,647,783 1,518,813 Gross Profit 353,334 328,050 714,763 653,132 Selling, distribution and administrative expense, including depreciation 230,125 207,180 462,524 419,090 Operating Income 123,209 120,870 252,239 234,042 Interest expense (income), net 942 (936) 1,935 (1,563) Other income, net (505) (755) (1,053) (3,036) Income Before Income Taxes 122,772 122,561 251,357 238,641 Income tax expense 27,423 29,271 55,201 53,288 Net Income $ 95,349 $ 93,290 $ 196,156 $ 185,353 Net Income Per Share - Basic $ 2.54 $ 2.43 $ 5.21 $ 4.83 Net Income Per Share - Diluted $ 2.51 $ 2.39 $ 5.14 $ 4.76 Average Shares Outstanding - Basic 37,595 38,427 37,676 38,413 Average Shares Outstanding - Diluted 38,055 38,963 38,161 38,956",
+      "token_count": 253
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "1) Inventories are valued at average cost, using the last-in, first-out (LIFO) method for U.S. inventories. An actual valuation of inventory under the LIFO method can be made only at the end of each year based on the inventory levels and costs at that time. Accordingly, interim LIFO calculations are based on management\u2019s estimates of expected year-end inventory levels and costs and are subject to the final year-end LIFO inventory determination.",
+      "token_count": 112
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "APPLIED INDUSTRIAL TECHNOLOGIES INC. AND SUBSIDIARIES CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) (In thousands)",
+      "token_count": 23
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "December 31, June 30, 2025 2025 Assets Cash and cash equivalents $ 405,986 $ 388,417 Accounts receivable, net 706,902 769,699 Inventories 529,003 505,337 Other current assets 106,568 84,020 Total current assets 1,748,459 1,747,473 Property, net 129,531 128,154 Operating lease assets, net 181,831 188,654 Identifiable intangibles, net 328,787 348,600 Goodwill 701,422 699,374 Other assets 69,292 63,289 Total Assets $ 3,159,322 $ 3,175,544 Liabilities Accounts payable $ 258,235 $ 280,124 Other accrued liabilities 217,247 246,027 Total current liabilities 475,482 526,151 Long-term debt 572,300 572,300 Other liabilities 237,132 232,573 Total Liabilities 1,284,914 1,331,024 Shareholders' Equity 1,874,408 1,844,520 Total Liabilities and Shareholders' Equity $ 3,159,322 $ 3,175,544",
+      "token_count": 196
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "APPLIED INDUSTRIAL TECHNOLOGIES INC. AND SUBSIDIARIES CONDENSED STATEMENTS OF CONSOLIDATED CASH FLOWS (Unaudited) (In thousands)",
+      "token_count": 26
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Six Months Ended December 31, 2025 2024 Cash Flows from Operating Activities Net income $ 196,156 $ 185,353 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization of property 13,076 11,850 Amortization of intangibles 20,329 15,167 (Recovery of) provision for losses on accounts receivable (240) 3,605 Amortization of stock appreciation rights 2,887 2,453 Other share-based compensation expense 3,280 3,101 Changes in operating assets and liabilities, net of acquisitions (26,230) 1,451 Other, net 9,718 (96) Net Cash provided by Operating Activities 218,976 222,884 Cash Flows from Investing Activities Net cash paid for acquisitions, net of cash acquired (2,425) (273,142) Capital expenditures (13,578) (10,746) Proceeds from property sales 642 922 Net Cash used in Investing Activities (15,361) (282,966) Cash Flows from Financing Activities Long-term debt repayments \u2014 (25,106) Interest rate swap settlement receipts 5,083 6,797 Purchases of treasury shares (143,401) (30,084) Dividends paid (34,723) (28,469) Payment of debt issuance costs (1,611) \u2014 Acquisition holdback payments (1,210) (1,210) Taxes paid for shares withheld (11,191) (13,037) Exercise of stock appreciation rights and options (1) \u2014 Net Cash used in Financing Activities (187,054) (91,109) Effect of Exchange Rate Changes on Cash 1,008 (5,985) Increase (Decrease) in Cash and Cash Equivalents 17,569 (157,176) Cash and Cash Equivalents at Beginning of Period 388,417 460,617 Cash and Cash Equivalents at End of Period $ 405,986 $ 303,441",
+      "token_count": 392
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "APPLIED INDUSTRIAL TECHNOLOGIES INC. AND SUBSIDIARIES SUPPLEMENTAL INFORMATION RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (Unaudited) (In thousands)",
+      "token_count": 34
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The Company supplements the reporting of financial information determined under U.S. generally accepted accounting principles (GAAP) with reporting of non-GAAP financial measures. The Company believes that these non-GAAP measures provide meaningful information to assist shareholders in understanding financial results, assessing prospects for future performance, and provide a better baseline for analyzing trends in our underlying businesses. Because non-GAAP financial measures do not have a standard definition, it may not be possible to compare these non-GAAP financial measures with other companies' non-GAAP financial measures having the same or similar names. These non-GAAP financial measures should not be considered in isolation or as a substitute for reported results. The Company believes these non-GAAP financial measures reflect an additional way of viewing aspects of operations that, when viewed with GAAP results, provide a more complete understanding of the business. The Company strongly encourages investors and shareholders to review company financial statements and publicly filed reports in their entirety and not to rely on any single financial measure.",
+      "token_count": 295
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Reconciliation of Net Income, a GAAP financial measure, to EBITDA, a non-GAAP financial measure: Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 Net Income $ 95,349 $ 93,290 $ 196,156 $ 185,353 Interest expense (income), net 942 (936) 1,935 (1,563) Income tax expense 27,423 29,271 55,201 53,288 Depreciation and amortization of property 6,590 5,926 13,076 11,850 Amortization of intangibles 10,126 7,567 20,329 15,167 EBITDA $ 140,430 $ 135,118 $ 286,697 $ 264,095 The Company defines EBITDA as Earnings from operations before Interest, Taxes, Depreciation, and Amortization. EBITDA is a non-GAAP financial measure which excludes items that may not be indicative of core operating results. Reconciliation of Net Cash provided by Operating activities, a GAAP financial measure, to Free Cash Flow, a non-GAAP financial measure: Three Months Ended December 31, Six Months Ended December 31, 2025 2024 2025 2024 Net Cash provided by Operating Activities $ 99,659 $ 95,137 $ 218,976 $ 222,884 Capital expenditures (6,277) (5,197) (13,578) (10,746) Free Cash Flow $ 93,382 $ 89,940 $ 205,398 $ 212,138 Free cash flow is defined as net cash provided by operating activities less capital expenditures, a non-GAAP financial measure.",
+      "token_count": 315
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "The Company defines EBITDA as Earnings from operations before Interest, Taxes, Depreciation, and Amortization. EBITDA is a non-GAAP financial measure which excludes items that may not be indicative of core operating results.",
+      "token_count": 56
+    }
+  ],
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "period": "2026Q2",
+      "value": 1163023000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X002",
+      "tag": "GrossProfit",
+      "period": "2026Q2",
+      "value": 353334000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X003",
+      "tag": "OperatingIncomeLoss",
+      "period": "2026Q2",
+      "value": 123209000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X004",
+      "tag": "NetIncomeLoss",
+      "period": "2026Q2",
+      "value": 95349000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X005",
+      "tag": "EarningsPerShareDiluted",
+      "period": "2026Q2",
+      "value": 2.51,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X006",
+      "tag": "EarningsPerShareBasic",
+      "period": "2026Q2",
+      "value": 2.54,
+      "unit": "USD/shares"
+    },
+    {
+      "source_id": "X007",
+      "tag": "CashCashEquivalentsAndShortTermInvestments",
+      "period": "2026Q2",
+      "value": 405986000,
+      "unit": "USD"
+    },
+    {
+      "source_id": "X008",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "period": "2026Q2",
+      "value": 218976000,
+      "unit": "USD"
+    }
+  ],
+  "pre_event_price_context": {
+    "ret_5d": 0.001174,
+    "ret_20d": 0.065108,
+    "market_ret_20d": 0.003404
+  },
+  "outcome_blind": true
+}

@@ -1,0 +1,524 @@
+{
+  "event_id": "evt_0054",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "FLOWERS FOODS INC",
+  "ticker": "FLO",
+  "company_alias": "FLOWERS FOODS INC",
+  "masked_company": "Company I",
+  "sector": "Consumer Staples",
+  "market_cap_group": "small_mid_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-02-12",
+  "filing_metadata": {
+    "cik": "1128928",
+    "accession_number": "0001193125-26-048756",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-12T16:15:13-05:00",
+    "event_date": "2026-02-12",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "THOMASVILLE, Ga., 2026-02-12T16:15:13-05:00 \u2013 FLOWERS FOODS INC. (NYSE:FLO) today reported financial results for the company\u2019s 13-week fourth quarter and 53-week fiscal year ended January 3, 2026.",
+      "token_count": 47
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Compared to the prior year fourth quarter where applicable",
+      "token_count": 15
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales (1) increased 11.0% to $1.233 billion as the extra week, Simple Mills acquisition benefit, and higher price/mix more than offset volume declines.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income decreased $110.2 million to a net loss of $67.1 million, primarily due to a $136.0 million non-cash impairment of intangible assets. Adjusted net income (2) decreased 1.5% to $45.8 million.",
+      "token_count": 50
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted EBITDA (2) increased 14.7% to $117.4 million, representing 9.5% of net sales, a 30-basis point increase.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted EPS decreased $0.52 to a net loss per share of $0.32. Adjusted diluted EPS (2) was consistent with the prior year period at $0.22. The additional week contributed $0.02.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Simple Mills contributed $57.5 million in net sales, net loss of $6.2 million, $6.3 million to adjusted EBITDA (2) , and ($0.03) to diluted EPS (2) .",
+      "token_count": 38
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales (1) increased 3.0% to $5.256 billion as the 53rd week and Simple Mills acquisition benefit more than offset volume declines and lower price/mix.",
+      "token_count": 39
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net income decreased 66.2% to $83.8 million, representing 1.6% of sales, a 330-basis point decrease, primarily due to a $136.0 million non-cash impairment of intangible assets. Adjusted net income (2) decreased 14.7% to $231.6 million.",
+      "token_count": 59
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Adjusted EBITDA (2) decreased 0.6% to $535.2 million, representing 10.2% of net sales, a 40-basis point decrease.",
+      "token_count": 29
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Diluted EPS decreased $0.77 to $0.40. Adjusted diluted EPS (2) decreased $0.19 to $1.09. The additional week contributed $0.02.",
+      "token_count": 32
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Simple Mills contributed $213.9 million in net sales, net loss of $14.4 million, $32.0 million to adjusted EBITDA (2) , and ($0.07) to diluted EPS (2) .",
+      "token_count": 38
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u201cFLOWERS FOODS INC concluded 2025 on a positive note driven by the strong performance of our leading brands,\u201d said Ryals McMullian, chairman and CEO of FLOWERS FOODS INC. \u201cOur disciplined execution of efficiency initiatives produced results at the high end of our guidance range. We remain committed to implementing further enhancements to drive improved results as we navigate ongoing category challenges.",
+      "token_count": 98
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "\u201cLooking ahead to 2026, we anticipate these category headwinds, combined with one fewer week of operations, will result in financial performance below 2025 levels. In response, we are conducting a comprehensive review of our operations, including our brand portfolio, supply chain, and financial strategy. Our leading brands and strong cash flow position us well as we undertake this operational review. We are confident it will drive category outperformance and enhance long-term value for our shareholders.\u201d",
+      "token_count": 128
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net sales of approximately $5.163 billion to $5.267 billion, representing a -1.8% to 0.2% change compared to the prior year.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted EBITDA (3) in the range of approximately $465 million to $495 million.",
+      "token_count": 20
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Adjusted diluted EPS (3) of approximately $0.80 to $0.90.",
+      "token_count": 15
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Depreciation and amortization of approximately $165 million to $170 million.",
+      "token_count": 19
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Net interest expense of approximately $65 million to $70 million.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "An effective tax rate of approximately 26%.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Weighted average diluted share count for the year of approximately 213.5 million shares.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Reconciliation of Earnings per Share to Adjusted Earnings per Share",
+      "token_count": 17
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Certain amounts may not add due to rounding.",
+      "token_count": 11
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net sales increased 11.0% to $1.233 billion. Pricing/mix (4) increased 0.7%, volume (5) declined 2.2%, and the extra week and the Simple Mills acquisition added 7.8% and 4.7%, respectively.",
+      "token_count": 48
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Branded Retail net sales increased $115.3 million, or 16.6%, to $811.6 million due to the extra week, acquisition contribution, and increased pricing/mix (4) , partially offset by volume declines. Pricing/mix (4) increased 2.3%, volume (5) decreased 1.7%, the Simple Mills acquisition and extra week contributed 7.7% and 8.3%, respectively.",
+      "token_count": 85
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Other net sales increased $6.5 million, or 1.6%, to $421.3 million due to the extra week, partially offset by unfavorable price/mix and lower volumes. Pricing/mix (4) declined 2.5%, volume (5) decreased 2.7%, and the extra week contributed 6.8%.",
+      "token_count": 62
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Materials, supplies, labor, and other production costs (exclusive of depreciation and amortization) were 51.5% of net sales, a 30-basis point increase. These costs increased as a percentage of net sales mostly due to increased outside purchases of product (sales with no associated ingredient costs), partially offset by lower workforce-related and ingredient costs.",
+      "token_count": 92
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Selling, distribution, and administrative (SD&A) expenses were 39.9% of net sales, a 10-basis point decrease. SD&A expenses decreased slightly as a percentage of net sales primarily due to lower distributor distribution fees and the addition of Simple Mills, partly offset by increased workforce-related costs largely related to the California conversion and the impact of wage increases, and restructuring-related implementation costs. Excluding matters affecting comparability, adjusted SD&A (2) was 39.0% of net sales, a 60-basis point decrease.",
+      "token_count": 137
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Impairment of intangible assets was $136.0 million related to finite-lived intangible assets with a triggering event in the fourth quarter and the loss on inferior ingredients was $2.7 million. The prior year quarter included plant closure costs and impairment of assets of $0.5 million.",
+      "token_count": 72
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Depreciation and amortization (D&A) expenses were $38.5 million or 3.1% of net sales, a 20-basis point decrease.",
+      "token_count": 28
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Net interest expense increased $11.4 million primarily due to higher interest expense from the issuance of debt to fund the Simple Mills acquisition and related fees and expenses.",
+      "token_count": 45
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Net income decreased $110.2 million to a net loss of $67.1 million, primarily due to a $136.0 million non-cash impairment of intangible assets, and diluted EPS decreased $0.52 to a net loss per share of $0.32. Adjusted net income (2) decreased 1.5% to $45.8 million and adjusted diluted EPS (2) was consistent with the prior-year period at $0.22.",
+      "token_count": 87
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Simple Mills contributed $57.5 million in net sales, net loss of $6.2 million, $6.3 million to adjusted EBITDA (2) , and ($0.03) to diluted EPS.",
+      "token_count": 36
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "For fiscal year 2025, cash flow from operating activities increased $33.5 million to $446.2 million, capital expenditures decreased $5.0 million to $127.1 million, and dividends paid to shareholders increased $6.3 million to $209.3 million. Cash and cash equivalents were $12.1 million at year end.",
+      "token_count": 75
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Any reference to sales refers to net sales inclusive of allowances and deductions against gross sales for variable consideration and consideration payable to customers",
+      "token_count": 42
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Adjusted for items affecting comparability. See reconciliations of non-GAAP measures in the financial statements following this release. Earnings are net income. EBITDA and Adjusted EBITDA are reconciled to net income.",
+      "token_count": 55
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "No reconciliation of the forecasted range for (i) adjusted EBITDA to net income or (ii) adjusted diluted EPS to diluted EPS for the 52-week Fiscal 2026 is included in this press release because the company is unable to quantify certain amounts that would be required to be included in the GAAP measure without unreasonable efforts. In addition, the company believes such reconciliation would imply a degree of precision that would be confusing or misleading to investors. For the same reasons, the company is unable to address the probable significance of the unavailable information, which could be material to future results.",
+      "token_count": 157
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Calculated as (current year period units X change in price per unit) / prior year period net sales dollars",
+      "token_count": 27
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Calculated as (prior year period price per unit X change in units) / prior year period net sales dollars",
+      "token_count": 26
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Headquartered in Thomasville, Ga., FLOWERS FOODS INC. (NYSE:FLO) is one of the largest producers of packaged bakery foods in the United States with 2025 net sales of $5.3 billion. FLOWERS FOODS INC operates bakeries across the country that produce a wide range of bakery products. Among the company\u2019s top brands are Nature\u2019s Own , Dave\u2019s Killer Bread , Canyon Bakehouse , Simple Mills , Wonder, and Tastykake . Learn more at www.flowersfoods.com.",
+      "token_count": 110
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Investor Contact: Eric Jacobson, InvestorRelations@flocorp.com",
+      "token_count": 16
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Media Contact: http://flowersfoods.com/contact/",
+      "token_count": 12
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The company prepares its consolidated financial statements in accordance with U.S. Generally Accepted Accounting Principles (GAAP). However, from time to time, the company may present in its public statements, press releases and SEC filings, non-GAAP financial measures such as, EBITDA, adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted diluted EPS, adjusted income tax expense, adjusted selling, distribution and administrative expenses (SD&A), and gross margin excluding depreciation and amortization. The reconciliations attached provide reconciliations of the non-GAAP measures used in this presentation or release to the most comparable GAAP financial measure. The company\u2019s definitions of these non-GAAP measures may differ from similarly titled measures used by others. These non-GAAP measures should be considered supplemental to, and not a substitute for, financial information prepared in accordance with GAAP.",
+      "token_count": 236
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The company defines EBITDA as earnings before interest, taxes, depreciation and amortization. Earnings are net income. The company believes that EBITDA is a useful tool for managing the operations of its business and is an indicator of the company\u2019s ability to incur and service indebtedness and generate free cash flow. The company also believes that EBITDA measures are commonly reported and widely used by investors and other interested parties as measures of a company\u2019s operating performance and debt servicing ability because EBITDA measures assist in comparing performance on a consistent basis without regard to depreciation or amortization, which can vary significantly depending upon accounting methods and non-operating factors (such as historical cost). EBITDA is also a widely-accepted financial indicator of a company\u2019s ability to incur and service indebtedness.",
+      "token_count": 219
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "EBITDA should not be considered an alternative to (a) income from operations or net income (loss) as a measure of operating performance; (b) cash flows provided by operating, investing and financing activities (as determined in accordance with GAAP) as a measure of the company\u2019s ability to meet its cash needs; or (c) any other indicator of performance or liquidity that has been determined in accordance with GAAP.",
+      "token_count": 104
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "The company defines adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted diluted EPS, adjusted income tax expense and adjusted SD&A, respectively, to exclude additional costs that the company considers important to present to investors to increase the investors\u2019 insights about the company\u2019s core operations. These costs include, but are not limited to, the costs of closing a plant or costs associated with acquisition and integration-related activities, restructuring activities, certain impairment charges, legal settlements, costs to implement an enterprise resource planning system and enhance bakery digital capabilities (business process improvement costs) to provide investors direct insight into these costs, and other costs impacting past and future comparability. The company believes that these measures, when considered together with its GAAP financial results, provide management and investors with a more complete understanding of its business operating results, including underlying trends, by excluding the effects of certain charges. Adjusted EBITDA is used as the primary performance measure in the company\u2019s 2014 Omnibus Equity and Incentive Compensation Plan (Amended and Restated Effective May 25, 2023).",
+      "token_count": 311
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Presentation of gross margin includes depreciation and amortization in the materials, supplies, labor and other production costs according to GAAP. Our method of presenting gross margin excludes the depreciation and amortization components, as discussed above.",
+      "token_count": 65
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The reconciliations attached provide reconciliations of the non-GAAP measures used in this release to the most comparable GAAP financial measure.",
+      "token_count": 37
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(1) Includes current portion of $22,241 and $20,117, respectively.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(2) Includes current portion of $399,575 and $0, respectively.",
+      "token_count": 16
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(3) Includes current portion of $73,778 and $68,524, respectively.",
+      "token_count": 17
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "(000\u2019s omitted, except per share data)",
+      "token_count": 10
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Materials, supplies, labor and other production costs (exclusive of depreciation and amortization shown separately below)",
+      "token_count": 31
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Sales by Sales Class and Net Sales Bridge",
+      "token_count": 12
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "For the 13-week period ended January 3, 2026",
+      "token_count": 11
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "Acquisition (excluding impact of Week 53)",
+      "token_count": 11
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "For the 53-week period ended January 3, 2026",
+      "token_count": 11
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "The table above presents certain sales by category that have been reclassified from amounts previously reported to conform to the current period presentation.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "^ Includes sales reductions from variable consideration and payments to customers.",
+      "token_count": 21
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Price/Mix $ = Current year period units \u00d7 change in price per unit",
+      "token_count": 17
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Price/Mix % = Price/Mix $ \u00f7 Prior year period Net Sales $",
+      "token_count": 15
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "operating_metrics",
+      "text": "Volume $ = Prior year period price per unit \u00d7 change in units",
+      "token_count": 16
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Volume % = Volume $ \u00f7 Prior year period Net Sales $",
+      "token_count": 13
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Reconciliation of (Loss) Earnings per Share to Adjusted Earnings per Share",
+      "token_count": 19
+    },
+    {
+      "source_id": "S065",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Materials, supplies, labor and other production costs (exclusive of depreciation and amortization)",
+      "token_count": 25
+    },
+    {
+      "source_id": "S066",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Depreciation and amortization for selling, distribution, and administrative activities",
+      "token_count": 22
+    },
+    {
+      "source_id": "S067",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "Reconciliation of Selling, Distribution, and Administrative Expenses to Adjusted SD&A",
+      "token_count": 22
+    },
+    {
+      "source_id": "S068",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Reconciliation of Net (Loss) Income to EBITDA and Adjusted EBITDA",
+      "token_count": 17
+    },
+    {
+      "source_id": "S069",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Reconciliation of Income Tax (Benefit) Expense to Adjusted Income Tax Expense",
+      "token_count": 20
+    },
+    {
+      "source_id": "S070",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Reconciliation of Net (Loss) Income to Adjusted Net Income",
+      "token_count": 15
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.047019,
+    "ret_20d": 0.041284,
+    "market_ret_20d": -0.013167
+  },
+  "outcome_blind": true
+}

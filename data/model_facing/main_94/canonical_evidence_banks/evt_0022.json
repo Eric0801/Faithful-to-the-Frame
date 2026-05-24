@@ -1,0 +1,270 @@
+{
+  "event_id": "evt_0022",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "MCCORMICK & CO INC",
+  "ticker": "MKC",
+  "company_alias": "MCCORMICK & CO INC",
+  "masked_company": "Company BK",
+  "sector": "Consumer Staples",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-03-31",
+  "accepted_at_et": "2026-03-31T06:40:56-04:00",
+  "source_packet_path": "source_packets/evt_0022.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "guidance",
+      "claim": "FOR IMMEDIATE RELEASE MCCORMICK & CO INC REPORTS STRONG FIRST QUARTER PERFORMANCE AND REAFFIRMS 2026 OUTLOOK HUNT VALLEY, Md., 2026-03-31T06:40:56-04:00 - MCCORMICK & CO INC & Company, Incorporated (NYSE:MKC), a global leader in flavor, today reported financial results for the first quarter ended February 28, 2026 and reaffirmed its outlook for fiscal 2026.",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "FOR IMMEDIATE RELEASE MCCORMICK & CO INC REPORTS STRONG FIRST QUARTER PERFORMANCE AND REAFFIRMS 2026 OUTLOOK HUNT VALLEY, Md., 2026-03-31T06:40:56-04:00 - MCCORMICK & CO INC & Company, Incorporated (NYSE:MKC), a global leader in flavor, today reported financial results for the...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\"Finally, I want to thank our MCCORMICK & CO INC employees around the world.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\"Finally, I want to thank our MCCORMICK & CO INC employees around the world. They are the foundation of our success, and I am continually inspired by their dedication and contributions. We remain committed to strengthening our Power of People culture and building a future-read...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "revenue",
+      "claim": "First Quarter 2026 Results Net sales increased 17% in the first quarter compared to the year-ago period and included a 3% favorable impact from currency.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "First Quarter 2026 Results Net sales increased 17% in the first quarter compared to the year-ago period and included a 3% favorable impact from currency. Sales from our January 2026 acquisition of MCCORMICK & CO INC de Mexico contributed 13% to the sales increase. Organic sale...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "guidance",
+      "claim": "Fiscal Year 2026 Financial Outlook MCCORMICK & CO INC's fiscal 2026 outlook continues to reflect the Company's prioritized investments in key categories to sustain its volume trends and drive long-term profitable growth while appreciating the uncertainty of the consumer and macro environment, including global trade policies and the conflict in the Middle East.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "Fiscal Year 2026 Financial Outlook MCCORMICK & CO INC's fiscal 2026 outlook continues to reflect the Company's prioritized investments in key categories to sustain its volume trends and drive long-term profitable growth while appreciating the uncertainty of the consumer and ma...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "guidance",
+      "claim": "\u25e6 The acquisition of the additional ownership interest resulted in the consolidation of MCCORMICK & CO INC de Mexico's financial results in the Company's financial statements from the date of acquisition.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u25e6 The acquisition of the additional ownership interest resulted in the consolidation of MCCORMICK & CO INC de Mexico's financial results in the Company's financial statements from the date of acquisition. Income attributable to noncontrolling interest reflects elimination of t...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "of MCCORMICK & CO INC de Mexico's financial results.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "of MCCORMICK & CO INC de Mexico's financial results. As a result of the consolidation, the carrying value of our previously held 50% ownership interest was remeasured to fair value resulting in a gain. We believe that these non-GAAP financial measures are important. The exclus...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "earnings_or_eps",
+      "claim": "(in millions except per share data) Three Months Ended 2/28/2026 2/28/2025 Gross profit $ 708.9 $ 604.0 Impact of special charges included in cost of goods sold 15.0 \u2014 Adjusted gross profit $ 723.9 $ 604.0 Gross profit margin (1) 37.8 % 37.6 % Impact of special charges (1) 0.8 % \u2014 % Adjusted gross profit margin (1) 38.6 % 37.6 % Operating income $ 227.5 $ 225.2 Impact of special charges 40.1 \u2014 Adjusted operating income 267.6 225.2 Operating income margin (2) 12.1 % 14.0 % Impact of special charges (2) 2.2 % \u2014 % Adjusted operating income margin (2) 14.3 % 14.0 % Income tax expense $ 48.7 $ 41.6 Impact of special charges 9.9 \u2014 Adjusted income tax expense $ 58.6 $ 41.6 Income tax rate (3) 26.3 % 22.3 % Impact of special charges (0.3) % \u2014 % Adjusted income tax rate (3) 26.0 % 22.3 % Net income attributable to MCCORMICK & CO INC & Company $ 1,016.2 $ 162.3 Impact of special charges, net of non-controlling interest (4) 27.5 \u2014 Gain on remeasurement of previously held equity interest (866.8) \u2014 Adjusted net income $ 176.9 $ 162.3 Earnings per share \u2013 diluted $ 3.77 $ 0.60 Impact of special charges 0.11 \u2014 Gain on remeasurement of previously held equity interest (3.22) \u2014 Adjusted earnings per share \u2013 diluted $ 0.66 $ 0.60",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "(in millions except per share data) Three Months Ended 2/28/2026 2/28/2025 Gross profit $ 708.9 $ 604.0 Impact of special charges included in cost of goods sold 15.0 \u2014 Adjusted gross profit $ 723.9 $ 604.0 Gross profit margin (1) 37.8 % 37.6 % Impact of special charges (1) 0.8...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "(1) Gross profit margin, impact of special charges, and adjusted gross profit margin are calculated as gross profit, impact of special charges, and adjusted gross profit as a percentage of net sales for each period presented.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "(1) Gross profit margin, impact of special charges, and adjusted gross profit margin are calculated as gross profit, impact of special charges, and adjusted gross profit as a percentage of net sales for each period presented. The impact of special charges included in cost of g...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "revenue",
+      "claim": "Three Months Ended February 28, 2026 Percentage change as reported Impact of foreign currency exchange Percentage change on constant currency basis Impact of acquisition Percentage change on an organic basis Total Net Sales 16.7 % 3.1 % 13.6 % 12.4 % 1.2 % Total Consumer 24.5 % 2.9 % 21.6 % 19.8 % 1.8 % Americas 30.4 % 0.3 % 30.1 % 28.9 % 1.2 % EMEA 15.5 % 11.8 % 3.7 % \u2014 % 3.7 % APAC 6.2 % 4.0 % 2.2 % \u2014 % 2.2 % Total Flavor Solutions 6.2 % 3.3 % 2.9 % 2.4 % 0.5 % Americas 6.1 % 1.9 % 4.2 % 3.4 % 0.8 % EMEA 7.3 % 7.8 % (0.5) % \u2014 % (0.5) % APAC 5.1 % 4.6 % 0.5 % \u2014 % 0.5 % Three Months Ended February 28, 2026 Percentage Change as Reported Impact of Foreign Currency Exchange Percentage Change on Constant Currency Basis Adjusted operating income Consumer segment 22.4 % 1.9 % 20.5 % Flavor Solutions segment 12.1 % 4.6 % 7.5 % Total adjusted operating income 18.8 % 2.8 % 16.0 % To present the percentage change in projected 2026 net sales, adjusted operating income, and adjusted earnings per share (diluted) on a constant currency basis, the projected local currency net sales, adjusted operating income, and adjusted net income for entities reporting in currencies other than the U.S.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "Three Months Ended February 28, 2026 Percentage change as reported Impact of foreign currency exchange Percentage change on constant currency basis Impact of acquisition Percentage change on an organic basis Total Net Sales 16.7 % 3.1 % 13.6 % 12.4 % 1.2 % Total Consumer 24.5...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Income Statement (Unaudited) (In millions except per-share data) Three months ended February 28, 2026 February 28, 2025 Net sales $ 1,873.9 $ 1,605.5 Cost of goods sold 1,165.0 1,001.5 Gross profit 708.9 604.0 Selling, general and administrative expense 456.3 378.8 Special charges 25.1 \u2014 Operating income 227.5 225.2 Interest expense 47.3 48.5 Other income, net 4.8 9.8 Income from consolidated operations before income taxes 185.0 186.5 Income tax expense 48.7 41.6 Net income from consolidated operations 136.3 144.9 Income from unconsolidated operations 886.0 18.5 Net income 1,022.3 163.4 Net income attributable to noncontrolling interests (6.1) (1.1) Net income attributable to MCCORMICK & CO INC & Company $ 1,016.2 $ 162.3 Earnings per share \u2013 basic $ 3.78 $ 0.60 Earnings per share \u2013 diluted $ 3.77 $ 0.60 Average shares outstanding \u2013 basic 268.8 268.3 Average shares outstanding \u2013 diluted 269.4 269.5 Cash dividends paid per share \u2013 voting and non-voting $ 0.48 $ 0.45",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Income Statement (Unaudited) (In millions except per-share data) Three months ended February 28, 2026 February 28, 2025 Net sales $ 1,873.9 $ 1,605.5 Cost of goods sold 1,165.0 1,001.5 Gross profit 70...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "costs_or_expenses",
+      "claim": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Balance Sheet (Unaudited) (In millions) February 28, 2026 November 30, 2025 ASSETS Cash and cash equivalents $ 177.7 $ 95.9 Trade accounts receivable, net of allowances 829.2 628.9 Inventories, net 1,366.5 1,272.0 Prepaid expenses and other current assets 235.9 141.3 Total current assets 2,609.3 2,138.1 Property, plant and equipment, net 1,510.3 1,448.8 Goodwill 6,316.5 5,301.3 Intangible assets, net 4,961.6 3,293.1 Other long-term assets 948.6 1,019.1 Total assets $ 16,346.3 $ 13,200.4 LIABILITIES AND SHAREHOLDERS\u2019 EQUITY Short-term borrowings and current portion of long-term debt $ 1,319.3 $ 890.5 Trade accounts payable 1,391.6 1,259.4 Other accrued liabilities 731.2 912.3 Total current liabilities 3,442.1 3,062.2 Long-term debt 3,604.1 3,105.8 Deferred taxes 1,323.9 835.8 Other long-term liabilities 420.1 428.5 Total liabilities 8,790.2 7,432.3 Shareholders\u2019 equity Common stock 583.4 582.4 Common stock non-voting 1,722.7 1,700.8 Retained earnings 4,823.1 3,816.4 Accumulated other comprehensive loss (148.9) (363.1) Total MCCORMICK & CO INC & Company shareholders\u2019 equity 6,980.3 5,736.5 Non-controlling interests 575.8 31.6 Total shareholders\u2019 equity 7,556.1 5,768.1 Total liabilities and shareholders\u2019 equity $ 16,346.3 $ 13,200.4",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Balance Sheet (Unaudited) (In millions) February 28, 2026 November 30, 2025 ASSETS Cash and cash equivalents $ 177.7 $ 95.9 Trade accounts receivable, net of allowances 829.2 628.9 Inventories, net 1,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "earnings_or_eps",
+      "claim": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Cash Flow Statement (Unaudited) (In millions) Three Months Ended February 28, 2026 February 28, 2025 Operating activities Net income $ 1,022.3 $ 163.4 Adjustments to reconcile net income to net cash flow provided by operating activities: Depreciation and amortization 63.0 53.8 Stock-based compensation 20.7 20.0 Amortization of inventory fair value adjustments associated with acquisition 15.0 \u2014 Deferred income tax benefit (7.5) (9.2) Income from unconsolidated operations (19.2) (18.5) Gain on remeasurement of previously held equity interest (866.8) \u2014 Changes in operating assets and liabilities (net of effect of business acquired) Trade accounts receivable 18.7 65.2 Inventories 35.1 (11.7) Trade accounts payable (98.7) (70.9) Other assets and liabilities (145.6) (84.9) Dividends from unconsolidated affiliates 13.9 8.3 Net cash flow provided by operating activities 50.9 115.5 Investing activities Acquisition of business, net of cash acquired (729.9) \u2014 Capital expenditures (including software) (32.5) (37.1) Net cash flow used in investing activities (762.4) (37.1) Financing activities Short-term borrowings (repayments), net 928.5 (25.9) Long-term debt borrowings (net of debt issuance costs of 497.4 \u2014 Long-term debt repayments (502.2) (11.5) Proceeds from exercised stock options 12.6 6.7 Taxes withheld and paid on employee stock awards (9.2) (6.7) Common stock acquired by purchase (10.9) (17.2) Dividends paid (128.9) (120.7) Other financing activities (5.6) 20.1 Net cash flow provided by (used in) financing activities 781.7 (155.2) Effect of exchange rate changes on cash and cash equivalents 11.6 (6.5) Increase (decrease) in cash and cash equivalents 81.8 (83.3) Cash and cash equivalents at beginning of period 95.9 186.1",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "First Quarter Report MCCORMICK & CO INC & Company, Incorporated Consolidated Cash Flow Statement (Unaudited) (In millions) Three Months Ended February 28, 2026 February 28, 2025 Operating activities Net income $ 1,022.3 $ 163.4 Adjustments to reconcile net income to net cash f...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "balance_sheet_or_cash",
+      "claim": "Cash and cash equivalents at end of period $ 177.7 $ 102.8",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "Cash and cash equivalents at end of period $ 177.7 $ 102.8",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "revenue",
+      "claim": "Revenues reported for 2026Q1: 1873900000",
+      "value": 1873900000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "Revenues reported for 2026Q1: 1873900000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for 2026Q1: 708900000",
+      "value": 708900000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for 2026Q1: 708900000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q1: 227500000",
+      "value": 227500000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q1: 227500000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q1: 1016200000",
+      "value": 1016200000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q1: 1016200000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "other",
+      "claim": "ProfitLoss reported for 2026Q1: 1022300000",
+      "value": 1022300000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "ProfitLoss reported for 2026Q1: 1022300000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q1: 3.77",
+      "value": 3.77,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q1: 3.77",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q1: 3.78",
+      "value": 3.78,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q1: 3.78",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 177700000",
+      "value": 177700000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 177700000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 50900000",
+      "value": 50900000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 50900000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.008826, ret_20d=-0.231473, market_ret_20d=-0.076757",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.008826, ret_20d=-0.231473, market_ret_20d=-0.076757",
+      "support_label": "supported"
+    }
+  ]
+}

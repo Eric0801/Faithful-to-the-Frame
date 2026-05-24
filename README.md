@@ -4,17 +4,17 @@ This repository accompanies the paper **"Faithful to the Frame:
 Source-Framing Propagation in LLM-Agent Decision Workflows."**
 
 It contains the data artifacts, treatment definitions, result tables, and
-reproducibility metadata/code references used to study source-framing propagation in
-LLM-agent decision workflows. The project introduces an evidence-to-action
+execution code used to study source-framing propagation in LLM-agent decision
+workflows. The project introduces an evidence-to-action
 propagation (E2A) evaluation: given public earnings-event source material, it
 traces how different evidence representations affect what LLM receivers cite,
 reason from, believe, and decide.
 
 The full operational workspace contains provider runs, repair attempts, batch
 status directories, local caches, and intermediate scratch files. Those are not
-part of this release directory. This directory provides the clean artifact map:
-where the paper's main datasets, treatment families, result tables, and
-follow-up analyses are located.
+part of this artifact. This repository provides the clean reproducibility
+surface: model-facing inputs, evaluation-only labels, runnable pipeline code,
+curated result tables, and the audit subset used by the paper.
 
 ## What This Repository Contains
 
@@ -139,47 +139,73 @@ The T1/T2/T3/T4 downstream counts are reported in
 same downstream stage and are summarized in their corresponding result-table
 groups.
 
-## Current Release Layout
+## Repository Layout
 
 ```text
-release/
-  README.md
-  code/
-    README.md
-    requirements.txt
-    config.example.json
-    env.example
-    code_manifest.csv
-    schemas/
-      experiment_schema.json
-    examples/
-    scripts/
-      run_experiment.py
-      downstream_decisions.py
-      treatments.py
-      metrics.py
-  results/
-    result_table_manifest.csv
-    main/
-    calibration/
-    b0_followup/
-    t4_followup/
-    prompt_sensitivity/
-    appendix_diagnostics/
-    human_audit/
+.
+├── README.md
+├── code/
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── config.example.json
+│   ├── config.full_rerun.example.json
+│   ├── env.example
+│   ├── code_manifest.csv
+│   ├── schemas/
+│   │   └── experiment_schema.json
+│   ├── examples/
+│   └── scripts/
+│       ├── run_experiment.py
+│       ├── render_treatments.py
+│       ├── run_representation_harness.py
+│       ├── build_downstream_requests.py
+│       ├── run_downstream_harness.py
+│       ├── validate_decision_outputs.py
+│       └── compute_diversity_metrics.py
+├── data/
+│   ├── model_facing/
+│   │   └── main_94/
+│   │       ├── source_packets/
+│   │       ├── canonical_evidence_banks/
+│   │       └── sample_manifest.csv
+│   └── evaluation_only/
+│       └── car_1_5_outcomes.csv
+├── manifests/
+│   └── artifact_manifest.csv
+└── results/
+    ├── result_table_manifest.csv
+    ├── main/
+    ├── calibration/
+    ├── b0_followup/
+    ├── t4_followup/
+    ├── prompt_sensitivity/
+    ├── appendix_diagnostics/
+    └── human_audit/
 ```
 
 `results/result_table_manifest.csv` lists every released table, row count,
 SHA-256 checksum, table role, and paper-claim mapping.
 
-`code/` contains a compact public reproducibility layer for running the
-experiment path: treatment rendering, upstream-summary execution, downstream
-decision-request construction, decision-output normalization, metric
-computation, schema reference, and smoke-test fixtures. Reviewers can run the
-included demo in mock mode without credentials, or switch `code/config.example.json`
-to an OpenAI-compatible endpoint by setting an API key environment variable.
-It intentionally excludes provider batch submission, repair, rescue, local
-cache, and one-off operational scripts.
+`code/` contains the cleaned public execution path for running the experiment:
+treatment rendering, upstream-summary execution, downstream decision-request
+construction, downstream decision execution, output validation, and metric
+computation. `data/model_facing/main_94/` contains the released outcome-blind
+model-facing inputs. `data/evaluation_only/` contains the CAR_1_5 outcome file
+used only during metric computation.
+
+To run a credential-free capped mock execution from the release root:
+
+```bash
+python3 code/scripts/run_experiment.py \
+  --config code/config.example.json \
+  --work-dir runs/main_94_mock \
+  --mode mock \
+  --overwrite
+```
+
+For provider-backed reruns, set an API key and edit
+`code/config.full_rerun.example.json`. Provider batch submission, repair,
+rescue, local cache, and one-off operational scripts are intentionally excluded.
 
 ## Results By Paper Claim
 
@@ -330,7 +356,7 @@ The released human-audit subset has three parts:
    checks, and audit notes.
 
 The row-level sheets are released directly rather than only as aggregate
-summaries. Reviewer identity and internal pipeline path columns are omitted
+summaries. Audit annotator identity and internal pipeline path columns are omitted
 from the public CSVs, but the substantive audit content is retained. No
 inter-annotator agreement claim is made.
 
@@ -355,7 +381,7 @@ from model-facing inputs.
 
 ## Excluded Operational Artifacts
 
-The following artifact classes are deliberately not part of this release map:
+The following artifact classes are deliberately not part of this artifact:
 
 - raw provider batch status directories
 - repair/rebatch/rescue scratch directories
@@ -366,15 +392,3 @@ The following artifact classes are deliberately not part of this release map:
 
 These files may be useful for local reproducibility archaeology, but they are
 not the clean artifact surface for understanding the paper.
-
-## Rebuilding The Release Subset
-
-From the repository root:
-
-```bash
-python3 scripts/build_reviewer_result_release.py
-```
-
-The builder copies the allowlisted result, calibration, and audit artifacts into
-`release/results/` and regenerates `results/result_table_manifest.csv` with row
-counts and checksums.

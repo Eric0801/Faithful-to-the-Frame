@@ -1,0 +1,391 @@
+{
+  "event_id": "evt_0003",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "AUTOZONE INC",
+  "ticker": "AZO",
+  "company_alias": "AUTOZONE INC",
+  "masked_company": "Company CA",
+  "sector": "Consumer Discretionary",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2026 Q1",
+  "event_date": "2026-03-03",
+  "accepted_at_et": "2026-03-03T06:55:29-05:00",
+  "source_packet_path": "source_packets/evt_0003.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "revenue",
+      "claim": "AUTOZONE INC 2nd Quarter Total Company Same Store Sales Increase 3.3%; Domestic Same Store Sales Increase 3.4%; EPS of $27.63",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "AUTOZONE INC 2nd Quarter Total Company Same Store Sales Increase 3.3%; Domestic Same Store Sales Increase 3.4%; EPS of $27.63",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "MEMPHIS, Tenn., 2026-03-03T06:55:29-05:00 (GLOBE NEWSWIRE) -- AUTOZONE INC.",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "MEMPHIS, Tenn., 2026-03-03T06:55:29-05:00 (GLOBE NEWSWIRE) -- AUTOZONE INC. (NYSE:AZO) today reported net sales of $4.3 billion for its second quarter (12 weeks) ended February 14, 2026, an increase of 8.1% from the second quarter of fiscal 2025 (12 weeks). Same store sales, o...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "other",
+      "claim": "* Excludes impacts from fluctuations of foreign exchange rates.",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "* Excludes impacts from fluctuations of foreign exchange rates.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "revenue",
+      "claim": "For the quarter, gross profit, as a percentage of sales, was 52.5%, a decrease of 137 basis points versus the prior year.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "For the quarter, gross profit, as a percentage of sales, was 52.5%, a decrease of 137 basis points versus the prior year. The decrease in gross margin was driven by a 138 basis point non-cash LIFO charge. Operating expenses, as a percentage of sales, were 36.1% versus last yea...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "earnings_or_eps",
+      "claim": "Operating profit decreased 1.2% to $698.5 million.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "Operating profit decreased 1.2% to $698.5 million. Net income for the quarter was $468.9 million compared to $487.9 million in the same period last year, while diluted earnings per share were $27.63 compared to last year at $28.29.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "other",
+      "claim": "Under its share repurchase program, AUTOZONE INC repurchased 85 thousand shares of its common stock at an average price per share of $3,666, for a total investment of $310.8 million.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "Under its share repurchase program, AUTOZONE INC repurchased 85 thousand shares of its common stock at an average price per share of $3,666, for a total investment of $310.8 million. At the end of the second quarter, the Company had $1.4 billion remaining under its current sha...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "risk_or_uncertainty",
+      "claim": "The Company\u2019s inventory increased 13.1% over the same period last year, driven primarily by growth initiatives and inflation.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "The Company\u2019s inventory increased 13.1% over the same period last year, driven primarily by growth initiatives and inflation. Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $105 thousand versus negative $161 thousand...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "\u201cI want to thank our AutoZoners across the company for delivering solid financial results this past quarter.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u201cI want to thank our AutoZoners across the company for delivering solid financial results this past quarter. We continue to be pleased with our strategies to grow sales. Domestically, both DIY and Commercial sales continued to perform well this past quarter in spite of winter...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "other",
+      "claim": "During the quarter ended February 14, 2026, AUTOZONE INC opened 43 new stores in the U.S., 18 in Mexico and three in Brazil for a total of 64 net new stores.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "During the quarter ended February 14, 2026, AUTOZONE INC opened 43 new stores in the U.S., 18 in Mexico and three in Brazil for a total of 64 net new stores. As of February 14, 2026, the Company had 6,709 stores in the U.S., 913 in Mexico and 152 in Brazil for a total store co...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "revenue",
+      "claim": "AUTOZONE INC is a leading retailer and distributor of automotive replacement parts and accessories in the Americas.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "AUTOZONE INC is a leading retailer and distributor of automotive replacement parts and accessories in the Americas. Each store carries an extensive product line for cars, sport utility vehicles, vans and light duty trucks, including new and remanufactured automotive hard parts...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "costs_or_expenses",
+      "claim": "This release includes certain financial information not derived in accordance with generally accepted accounting principles (\u201cGAAP\u201d).",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "This release includes certain financial information not derived in accordance with generally accepted accounting principles (\u201cGAAP\u201d). These non-GAAP measures include adjustments to reflect return on invested capital, adjusted debt and adjusted debt to earnings before interest,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "Contact Information: Financial: Brian Campbell at (901) 495-7005, brian.campbell@AUTOZONE INC.com Media: Jennifer Hughes at (901) 495-6022, jennifer.hughes@AUTOZONE INC.com",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "Contact Information: Financial: Brian Campbell at (901) 495-7005, brian.campbell@AUTOZONE INC.com Media: Jennifer Hughes at (901) 495-6022, jennifer.hughes@AUTOZONE INC.com",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "AUTOZONE INC's 2nd Quarter Highlights - Fiscal 2026",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "AUTOZONE INC's 2nd Quarter Highlights - Fiscal 2026",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "other",
+      "claim": "Average financing lease liabilities (3)",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "Average financing lease liabilities (3)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "costs_or_expenses",
+      "claim": "(1) The table below outlines the calculation of rent expense and reconciles rent expense to total lease cost, per ASC 842, the most directly comparable GAAP financial measure, for the trailing four quarters ended February 14, 2026, and February 15, 2025 .",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "(1) The table below outlines the calculation of rent expense and reconciles rent expense to total lease cost, per ASC 842, the most directly comparable GAAP financial measure, for the trailing four quarters ended February 14, 2026, and February 15, 2025 .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "other",
+      "claim": "Less: Financing lease interest and amortization",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "Less: Financing lease interest and amortization",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "Less: Variable operating lease components, related to insurance and common area maintenance",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "Less: Variable operating lease components, related to insurance and common area maintenance",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "other",
+      "claim": "(2) Effective tax rate over the trailing four quarters ended February 14, 2026, and February 15, 2025, was 20.4 % and 20.3%, respectively.",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "(2) Effective tax rate over the trailing four quarters ended February 14, 2026, and February 15, 2025, was 20.4 % and 20.3%, respectively.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "other",
+      "claim": "(3) All averages are computed based on trailing five quarter balances.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "(3) All averages are computed based on trailing five quarter balances.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "Cumulative share repurchases ($ since fiscal 1998)",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "Cumulative share repurchases ($ since fiscal 1998)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "Cumulative share repurchases (shares since fiscal 1998)",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Cumulative share repurchases (shares since fiscal 1998)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "revenue",
+      "claim": "($ in thousands, except sales per average square foot)",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "($ in thousands, except sales per average square foot)",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "revenue",
+      "claim": "(1) Trailing 4 Quarters ending February 15, 2025 include an additional week of sales of approximately $359.1 million for Total AUTOZONE INC Stores with $95.7 million for Domestic Commercial.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "(1) Trailing 4 Quarters ending February 15, 2025 include an additional week of sales of approximately $359.1 million for Total AUTOZONE INC Stores with $95.7 million for Domestic Commercial. Sales per average store and sales per square foot benefited from the additional week b...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "revenue",
+      "claim": "(2) Same store sales are based on sales for all stores open at least one year.",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "(2) Same store sales are based on sales for all stores open at least one year. Constant Currency same store sales exclude the impact of fluctuations of foreign currency exchange rates by converting both the current year and prior year international results at the prior year fo...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "revenue",
+      "claim": "Revenues reported for 2026Q1: 4628630000",
+      "value": 4628630000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "Revenues reported for 2026Q1: 4628630000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for 2026Q1: 2359313000",
+      "value": 2359313000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for 2026Q1: 2359313000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for 2026Q1: 784205000",
+      "value": 784205000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for 2026Q1: 784205000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for 2026Q1: 530823000",
+      "value": 530823000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "NetIncomeLoss reported for 2026Q1: 530823000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "other",
+      "claim": "ProfitLoss reported for 2026Q1: 530823000",
+      "value": 530823000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "ProfitLoss reported for 2026Q1: 530823000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for 2026Q1: 31.04",
+      "value": 31.04,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for 2026Q1: 31.04",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for 2026Q1: 31.88",
+      "value": 31.88,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for 2026Q1: 31.88",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 287639000",
+      "value": 287639000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for 2026Q1: 287639000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 944171000",
+      "value": 944171000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for 2026Q1: 944171000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.013893, ret_20d=0.048101, market_ret_20d=-0.008078",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.013893, ret_20d=0.048101, market_ret_20d=-0.008078",
+      "support_label": "supported"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "event_id": "evt_0030",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "ADOBE INC.",
+  "ticker": "ADBE",
+  "company_alias": "ADOBE INC.",
+  "masked_company": "Company BS",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025",
+  "event_date": "2026-03-12",
+  "accepted_at_et": "2026-03-12T12:09:23-04:00",
+  "source_packet_path": "source_packets/evt_0030.json",
+  "evidence_units": [
+    {
+      "evidence_id": "E_SRC_001",
+      "category": "other",
+      "claim": "\u2022 AI-first ARR more than triples year over year",
+      "value": null,
+      "source_ids": [
+        "S001"
+      ],
+      "source_quote": "\u2022 AI-first ARR more than triples year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_002",
+      "category": "revenue",
+      "claim": "\u2022 Total subscription revenue and RPO increases 13% year over year",
+      "value": null,
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "\u2022 Total subscription revenue and RPO increases 13% year over year",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_003",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Record Q1 operating cash flows of $2.96 billion",
+      "value": null,
+      "source_ids": [
+        "S003"
+      ],
+      "source_quote": "\u2022 Record Q1 operating cash flows of $2.96 billion",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_004",
+      "category": "other",
+      "claim": "SAN JOSE, Calif.",
+      "value": null,
+      "source_ids": [
+        "S004"
+      ],
+      "source_quote": "SAN JOSE, Calif. \u2013 2026-03-12T12:09:23-04:00 \u2013 ADOBE INC. (Nasdaq:ADBE), the global technology leader that unleashes creativity and productivity for individuals and businesses through innovative platforms and tools, today reported financial results for its first quarter FY2026...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_005",
+      "category": "revenue",
+      "claim": "\u201cADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S005"
+      ],
+      "source_quote": "\u201cADOBE INC. delivered record Q1 results with AI-first ARR more than tripling year over year and subscription revenue growing 13 percent,\u201d said Shantanu Narayen, chair and CEO, ADOBE INC.. \u201cOur mission to empower everyone to create represents an even larger opportunity as conte...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_006",
+      "category": "revenue",
+      "claim": "\u201cADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S006"
+      ],
+      "source_quote": "\u201cADOBE INC. delivered 13 percent subscription revenue growth and record Q1 cash flow of $2.96 billion,\u201d said Dan Durn, executive vice president and CFO, ADOBE INC.. \u201cAs we accelerate AI-powered capabilities across creativity, productivity and customer experience orchestration,...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_007",
+      "category": "revenue",
+      "claim": "\u2022 ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S007"
+      ],
+      "source_quote": "\u2022 ADOBE INC. achieved record revenue of $6.40 billion in its first quarter of FY2026, which represents 12% year-over-year growth, or 11% in constant currency. Diluted earnings per share was $4.60 on a GAAP basis and $6.06 on a non-GAAP basis.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_008",
+      "category": "revenue",
+      "claim": "\u2022 Total ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S008"
+      ],
+      "source_quote": "\u2022 Total ADOBE INC. Annualized Recurring Revenue (\u201cARR\u201d) exiting the quarter was $26.06 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_009",
+      "category": "earnings_or_eps",
+      "claim": "\u2022 GAAP operating income in the first quarter was $2.42 billion and non-GAAP operating income was $3.04 billion.",
+      "value": null,
+      "source_ids": [
+        "S009"
+      ],
+      "source_quote": "\u2022 GAAP operating income in the first quarter was $2.42 billion and non-GAAP operating income was $3.04 billion. GAAP net income was $1.89 billion and non-GAAP net income was $2.49 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_010",
+      "category": "balance_sheet_or_cash",
+      "claim": "\u2022 Record Q1 cash flows from operations were $2.96 billion.",
+      "value": null,
+      "source_ids": [
+        "S010"
+      ],
+      "source_quote": "\u2022 Record Q1 cash flows from operations were $2.96 billion.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_011",
+      "category": "other",
+      "claim": "\u2022 Exiting the quarter, Remaining Performance Obligations (\u201cRPO\u201d) were $22.22 billion, and Current Remaining Performance Obligations (\u201ccRPO\u201d) were 67%.",
+      "value": null,
+      "source_ids": [
+        "S011"
+      ],
+      "source_quote": "\u2022 Exiting the quarter, Remaining Performance Obligations (\u201cRPO\u201d) were $22.22 billion, and Current Remaining Performance Obligations (\u201ccRPO\u201d) were 67%.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_012",
+      "category": "other",
+      "claim": "\u2022 ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S012"
+      ],
+      "source_quote": "\u2022 ADOBE INC. repurchased approximately 8.1 million shares during the quarter.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_013",
+      "category": "other",
+      "claim": "First Quarter FY2026 Customer Group Highlights",
+      "value": null,
+      "source_ids": [
+        "S013"
+      ],
+      "source_quote": "First Quarter FY2026 Customer Group Highlights",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_014",
+      "category": "revenue",
+      "claim": "\u2022 Total Customer Group subscription revenue was $6.17 billion, which represents 13% year-over-year growth, or 12% in constant currency.",
+      "value": null,
+      "source_ids": [
+        "S014"
+      ],
+      "source_quote": "\u2022 Total Customer Group subscription revenue was $6.17 billion, which represents 13% year-over-year growth, or 12% in constant currency.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_015",
+      "category": "revenue",
+      "claim": "\u2022 Business Professionals & Consumers subscription revenue was $1.78 billion, which represents 16% year-over-year growth, or 15% in constant currency.",
+      "value": null,
+      "source_ids": [
+        "S015"
+      ],
+      "source_quote": "\u2022 Business Professionals & Consumers subscription revenue was $1.78 billion, which represents 16% year-over-year growth, or 15% in constant currency.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_016",
+      "category": "revenue",
+      "claim": "\u2022 Creative & Marketing Professionals subscription revenue was $4.39 billion, which represents 12% year-over-year growth, or 11% in constant currency.",
+      "value": null,
+      "source_ids": [
+        "S016"
+      ],
+      "source_quote": "\u2022 Creative & Marketing Professionals subscription revenue was $4.39 billion, which represents 12% year-over-year growth, or 11% in constant currency.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_017",
+      "category": "other",
+      "claim": "These targets factor in expectation for current macroeconomic conditions and do not include contributions from our pending acquisition of Semrush Holdings, Inc., subject to regulatory approvals and other customary closing conditions.",
+      "value": null,
+      "source_ids": [
+        "S017"
+      ],
+      "source_quote": "These targets factor in expectation for current macroeconomic conditions and do not include contributions from our pending acquisition of Semrush Holdings, Inc., subject to regulatory approvals and other customary closing conditions.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_018",
+      "category": "revenue",
+      "claim": "Total revenue $6.43 billion to $6.48 billion Business Professionals & Consumers subscription revenue $1.80 billion to $1.82 billion Creative & Marketing Professionals subscription revenue $4.41 billion to $4.44 billion Earnings per share 1 GAAP: $4.35 to $4.40 Non-GAAP: $5.80 to $5.85",
+      "value": null,
+      "source_ids": [
+        "S018"
+      ],
+      "source_quote": "Total revenue $6.43 billion to $6.48 billion Business Professionals & Consumers subscription revenue $1.80 billion to $1.82 billion Creative & Marketing Professionals subscription revenue $4.41 billion to $4.44 billion Earnings per share 1 GAAP: $4.35 to $4.40 Non-GAAP: $5.80...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_019",
+      "category": "margins",
+      "claim": "1 Targets assume non-GAAP operating margin of ~44.5%, GAAP tax rate of ~22.5%, non-GAAP tax rate of ~18.0% and diluted share count of ~402 million for second quarter FY2026.",
+      "value": null,
+      "source_ids": [
+        "S019"
+      ],
+      "source_quote": "1 Targets assume non-GAAP operating margin of ~44.5%, GAAP tax rate of ~22.5%, non-GAAP tax rate of ~18.0% and diluted share count of ~402 million for second quarter FY2026.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_020",
+      "category": "other",
+      "claim": "In addition, ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S020"
+      ],
+      "source_quote": "In addition, ADOBE INC. is reaffirming previously issued FY2026 targets.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_021",
+      "category": "other",
+      "claim": "Shantanu Narayen, who has served as CEO of ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S021"
+      ],
+      "source_quote": "Shantanu Narayen, who has served as CEO of ADOBE INC. for eighteen years, has decided to transition from his position as CEO after a successor has been appointed. Narayen will remain as Chair of the Board. The Board of Directors has appointed Frank Calderoni, Lead Independent...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_022",
+      "category": "guidance",
+      "claim": "Undue reliance should not be placed on the financial information set forth in this press release, which reflects estimates based on information available at this time.",
+      "value": null,
+      "source_ids": [
+        "S022"
+      ],
+      "source_quote": "Undue reliance should not be placed on the financial information set forth in this press release, which reflects estimates based on information available at this time. These amounts could differ from actual reported amounts stated in ADOBE INC.\u2019s Quarterly Report on Form 10-Q...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_023",
+      "category": "other",
+      "claim": "ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S023"
+      ],
+      "source_quote": "ADOBE INC. (Nasdaq:ADBE) empowers everyone to create through industry-leading platforms and tools that unleash creativity, productivity and personalized customer experiences. For more information, visit www.ADOBE INC..com .",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_024",
+      "category": "other",
+      "claim": "\u00a92026 ADOBE INC..",
+      "value": null,
+      "source_ids": [
+        "S024"
+      ],
+      "source_quote": "\u00a92026 ADOBE INC.. All rights reserved. ADOBE INC. and the ADOBE INC. logo are either registered trademarks or trademarks of ADOBE INC. (or one of its subsidiaries) in the United States and/or other countries. All other trademarks are the property of their respective owners.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_025",
+      "category": "revenue",
+      "claim": "(In millions, except per share data; unaudited) Three Months Ended February 27, 2026 February 28, 2025 Revenue: Subscription $ 6,198 $ 5,483 Product 90 95 Services and other 110 136 Total revenue 6,398 5,714 Cost of revenue: Subscription 540 490 Product 6 6 Services and other 118 126 Total cost of revenue 664 622 Gross profit 5,734 5,092 Operating expenses: Research and development 1,110 1,026 Sales and marketing 1,708 1,495 General and administrative 463 367 Amortization of intangibles 35 41 Total operating expenses 3,316 2,929 Operating income 2,418 2,163 Non-operating income (expense): Interest expense (63) (62) Investment gains (losses), net 5 6 Other income (expense), net 62 75 Total non-operating income (expense), net 4 19 Income before income taxes 2,422 2,182 Provision for income taxes 533 371 Net income $ 1,889 $ 1,811 Basic net income per share $ 4.60 $ 4.15 Shares used to compute basic net income per share 410 436 Diluted net income per share $ 4.60 $ 4.14 Shares used to compute diluted net income per share 411 438",
+      "value": null,
+      "source_ids": [
+        "S025"
+      ],
+      "source_quote": "(In millions, except per share data; unaudited) Three Months Ended February 27, 2026 February 28, 2025 Revenue: Subscription $ 6,198 $ 5,483 Product 90 95 Services and other 110 136 Total revenue 6,398 5,714 Cost of revenue: Subscription 540 490 Product 6 6 Services and other...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_026",
+      "category": "revenue",
+      "claim": "(In millions; unaudited) February 27, 2026 November 28, 2025 ASSETS Current assets: Cash and cash equivalents $ 6,332 $ 5,431 Short-term investments 558 1,164 Trade receivables, net of allowances for doubtful accounts of $12 and $13, respectively 2,092 2,344 Prepaid expenses and other current assets 1,404 1,224 Total current assets 10,386 10,163 Property and equipment, net 1,852 1,873 Operating lease right-of-use assets, net 305 312 Goodwill 12,869 12,857 Other intangibles, net 454 495 Deferred income taxes 2,138 2,186 Other assets 1,700 1,610 Total assets $ 29,704 $ 29,496 LIABILITIES AND STOCKHOLDERS\u2019 EQUITY Current liabilities: Trade payables $ 419 $ 417 Accrued expenses and other current liabilities 2,257 2,648 Debt 849 \u2014 Deferred revenue 7,275 6,905 Income taxes payable 506 153 Operating lease liabilities 84 77 Total current liabilities 11,390 10,200 Long-term liabilities: Debt 5,379 6,210 Deferred revenue 95 125 Income taxes payable 487 469 Operating lease liabilities 344 361 Other liabilities 576 508 Total liabilities 18,271 17,873 Stockholders\u2019 equity: Preferred stock \u2014 \u2014 Common stock \u2014 \u2014 Additional paid-in capital 15,870 15,361 Retained earnings 47,170 45,354 Accumulated other comprehensive income (loss) (295) (245) Treasury stock, at cost (51,312) (48,847) Total stockholders\u2019 equity 11,433 11,623 Total liabilities and stockholders\u2019 equity $ 29,704 $ 29,496",
+      "value": null,
+      "source_ids": [
+        "S026"
+      ],
+      "source_quote": "(In millions; unaudited) February 27, 2026 November 28, 2025 ASSETS Current assets: Cash and cash equivalents $ 6,332 $ 5,431 Short-term investments 558 1,164 Trade receivables, net of allowances for doubtful accounts of $12 and $13, respectively 2,092 2,344 Prepaid expenses a...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_027",
+      "category": "revenue",
+      "claim": "(In millions; unaudited) Three Months Ended February 27, 2026 February 28, 2025 Cash flows from operating activities: Net income $ 1,889 $ 1,811 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation, amortization and accretion 174 217 Stock-based compensation 509 475 Other non-cash adjustments 110 (152) Changes in deferred revenue 340 231 Changes in other operating assets and liabilities (64) (100) Net cash provided by operating activities 2,958 2,482 Cash flows from investing activities: Purchases, sales and maturities of short-term investments, net 614 (401) Purchases of property and equipment (37) (26) Purchases and sales of long-term investments, intangibles and other assets, net (103) (57) Net cash provided by (used for) investing activities 474 (484) Cash flows from financing activities: Repurchases of common stock (2,478) (3,250) Taxes paid related to net share settlement of equity awards, net of proceeds from treasury stock re-issuances (39) (63) Proceeds from issuance of debt \u2014 1,997 Repayment of debt \u2014 (1,500) Other financing activities, net (27) (25) Net cash used for financing activities (2,544) (2,841) Effect of exchange rate changes on cash and cash equivalents 13 (12) Net change in cash and cash equivalents 901 (855) Cash and cash equivalents at beginning of period 5,431 7,613 Cash and cash equivalents at end of period $ 6,332 $ 6,758",
+      "value": null,
+      "source_ids": [
+        "S027"
+      ],
+      "source_quote": "(In millions; unaudited) Three Months Ended February 27, 2026 February 28, 2025 Cash flows from operating activities: Net income $ 1,889 $ 1,811 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation, amortization and accretion 174 217 S...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_028",
+      "category": "other",
+      "claim": "The following table shows ADOBE INC.\u2019s GAAP results reconciled to non-GAAP results included in this release.",
+      "value": null,
+      "source_ids": [
+        "S028"
+      ],
+      "source_quote": "The following table shows ADOBE INC.\u2019s GAAP results reconciled to non-GAAP results included in this release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_029",
+      "category": "earnings_or_eps",
+      "claim": "(In millions, except per share data) Three Months Ended February 27, 2026 February 28, 2025 November 28, 2025 Operating income: GAAP operating income $ 2,418 $ 2,163 $ 2,261 Stock-based and deferred compensation expense 514 469 501 Amortization of intangibles 39 83 61 Acquisition-related expenses 2 \u2014 1 Loss contingency (*) 62 \u2014 \u2014 Non-GAAP operating income $ 3,035 $ 2,715 $ 2,824 Net income: GAAP net income $ 1,889 $ 1,811 $ 1,856 Stock-based and deferred compensation expense 514 469 501 Amortization of intangibles 39 83 61 Acquisition-related expenses 2 \u2014 1 Loss contingency (*) 62 \u2014 \u2014 Investment (gains) losses, net (5) (6) (12) Income tax adjustments (13) (133) (113) Non-GAAP net income $ 2,488 $ 2,224 $ 2,294 Diluted net income per share: GAAP diluted net income per share $ 4.60 $ 4.14 $ 4.45 Stock-based and deferred compensation expense 1.25 1.07 1.20 Amortization of intangibles 0.10 0.19 0.15 Loss contingency (*) 0.15 \u2014 \u2014 Investment (gains) losses, net (0.01) (0.01) (0.03) Income tax adjustments (0.03) (0.31) (0.27) Non-GAAP diluted net income per share $ 6.06 $ 5.08 $ 5.50 Shares used to compute diluted net income per share 411 438 417",
+      "value": null,
+      "source_ids": [
+        "S029"
+      ],
+      "source_quote": "(In millions, except per share data) Three Months Ended February 27, 2026 February 28, 2025 November 28, 2025 Operating income: GAAP operating income $ 2,418 $ 2,163 $ 2,261 Stock-based and deferred compensation expense 514 469 501 Amortization of intangibles 39 83 61 Acquisit...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_030",
+      "category": "earnings_or_eps",
+      "claim": "The following table shows ADOBE INC.\u2019s first quarter fiscal year 2026 GAAP tax rate reconciled to the non-GAAP tax rate included in this release.",
+      "value": null,
+      "source_ids": [
+        "S030"
+      ],
+      "source_quote": "The following table shows ADOBE INC.\u2019s first quarter fiscal year 2026 GAAP tax rate reconciled to the non-GAAP tax rate included in this release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_031",
+      "category": "earnings_or_eps",
+      "claim": "First Quarter Fiscal 2026 Effective income tax rate: GAAP effective income tax rate 22.0 % Income tax adjustments (0.7) Stock-based and deferred compensation expense (3.0) Loss contingency (*) (0.3) Non-GAAP effective income tax rate (**) 18.0 %",
+      "value": null,
+      "source_ids": [
+        "S031"
+      ],
+      "source_quote": "First Quarter Fiscal 2026 Effective income tax rate: GAAP effective income tax rate 22.0 % Income tax adjustments (0.7) Stock-based and deferred compensation expense (3.0) Loss contingency (*) (0.3) Non-GAAP effective income tax rate (**) 18.0 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_032",
+      "category": "other",
+      "claim": "(*) Associated with the settlement of an outstanding litigation matter which reflects ongoing negotiations",
+      "value": null,
+      "source_ids": [
+        "S032"
+      ],
+      "source_quote": "(*) Associated with the settlement of an outstanding litigation matter which reflects ongoing negotiations",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_033",
+      "category": "other",
+      "claim": "(**) Represents ADOBE INC.\u2019s fixed long-term non-GAAP tax rate based on projections and currently available information for fiscal 2026 through fiscal 2028",
+      "value": null,
+      "source_ids": [
+        "S033"
+      ],
+      "source_quote": "(**) Represents ADOBE INC.\u2019s fixed long-term non-GAAP tax rate based on projections and currently available information for fiscal 2026 through fiscal 2028",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_034",
+      "category": "other",
+      "claim": "Reconciliation of GAAP to Non-GAAP Financial Targets and Assumptions",
+      "value": null,
+      "source_ids": [
+        "S034"
+      ],
+      "source_quote": "Reconciliation of GAAP to Non-GAAP Financial Targets and Assumptions",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_035",
+      "category": "other",
+      "claim": "The following tables show ADOBE INC.'s second quarter fiscal year 2026 financial targets and assumptions reconciled to non-GAAP financial targets and assumptions included in this release.",
+      "value": null,
+      "source_ids": [
+        "S035"
+      ],
+      "source_quote": "The following tables show ADOBE INC.'s second quarter fiscal year 2026 financial targets and assumptions reconciled to non-GAAP financial targets and assumptions included in this release.",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_036",
+      "category": "earnings_or_eps",
+      "claim": "(Shares in millions) Second Quarter Fiscal 2026 Low High Diluted net income per share: GAAP diluted net income per share $ 4.35 $ 4.40 Stock-based and deferred compensation expense 1.33 1.33 Amortization of intangibles 0.10 0.10 Acquisition-related expenses 0.03 0.03 Income tax adjustments (0.01) (0.01) Non-GAAP diluted net income per share $ 5.80 $ 5.85 Shares used to compute diluted net income per share 402 402",
+      "value": null,
+      "source_ids": [
+        "S036"
+      ],
+      "source_quote": "(Shares in millions) Second Quarter Fiscal 2026 Low High Diluted net income per share: GAAP diluted net income per share $ 4.35 $ 4.40 Stock-based and deferred compensation expense 1.33 1.33 Amortization of intangibles 0.10 0.10 Acquisition-related expenses 0.03 0.03 Income ta...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_037",
+      "category": "margins",
+      "claim": "Second Quarter Fiscal 2026 Operating margin: GAAP operating margin 35.0 % Stock-based and deferred compensation expense 8.7 Amortization of intangibles 0.6 Acquisition-related expenses 0.2 Non-GAAP operating margin 44.5 %",
+      "value": null,
+      "source_ids": [
+        "S037"
+      ],
+      "source_quote": "Second Quarter Fiscal 2026 Operating margin: GAAP operating margin 35.0 % Stock-based and deferred compensation expense 8.7 Amortization of intangibles 0.6 Acquisition-related expenses 0.2 Non-GAAP operating margin 44.5 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_038",
+      "category": "margins",
+      "claim": "Second Quarter Fiscal 2026 Effective income tax rate: GAAP effective income tax rate 22.5 % Stock-based and deferred compensation expense (3.0) Income tax adjustments (1.5) Non-GAAP effective income tax rate (**) 18.0 %",
+      "value": null,
+      "source_ids": [
+        "S038"
+      ],
+      "source_quote": "Second Quarter Fiscal 2026 Effective income tax rate: GAAP effective income tax rate 22.5 % Stock-based and deferred compensation expense (3.0) Income tax adjustments (1.5) Non-GAAP effective income tax rate (**) 18.0 %",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_039",
+      "category": "margins",
+      "claim": "ADOBE INC.",
+      "value": null,
+      "source_ids": [
+        "S039"
+      ],
+      "source_quote": "ADOBE INC. continues to provide all information required in accordance with GAAP, but believes evaluating its ongoing operating results may not be as useful if an investor is limited to reviewing only GAAP financial measures. ADOBE INC. uses non-GAAP financial information to e...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_SRC_040",
+      "category": "margins",
+      "claim": "ADOBE INC.'s management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, amortization of intangibles, investment gains and losses, income tax adjustments and other items that are not considered part of ADOBE INC.\u2019s ongoing operations, and the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes.",
+      "value": null,
+      "source_ids": [
+        "S040"
+      ],
+      "source_quote": "ADOBE INC.'s management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, amortization of intangibles, investment gains an...",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_001",
+      "category": "revenue",
+      "claim": "Revenues reported for FY2025: 23769000000",
+      "value": 23769000000,
+      "source_ids": [
+        "X001"
+      ],
+      "source_quote": "Revenues reported for FY2025: 23769000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_002",
+      "category": "margins",
+      "claim": "GrossProfit reported for FY2025: 21218000000",
+      "value": 21218000000,
+      "source_ids": [
+        "X002"
+      ],
+      "source_quote": "GrossProfit reported for FY2025: 21218000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_003",
+      "category": "margins",
+      "claim": "OperatingIncomeLoss reported for FY2025: 8706000000",
+      "value": 8706000000,
+      "source_ids": [
+        "X003"
+      ],
+      "source_quote": "OperatingIncomeLoss reported for FY2025: 8706000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_004",
+      "category": "other",
+      "claim": "OperatingExpenses reported for FY2025: 12512000000",
+      "value": 12512000000,
+      "source_ids": [
+        "X004"
+      ],
+      "source_quote": "OperatingExpenses reported for FY2025: 12512000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_005",
+      "category": "earnings_or_eps",
+      "claim": "NetIncomeLoss reported for FY2025: 7130000000",
+      "value": 7130000000,
+      "source_ids": [
+        "X005"
+      ],
+      "source_quote": "NetIncomeLoss reported for FY2025: 7130000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_006",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareDiluted reported for FY2025: 16.7",
+      "value": 16.7,
+      "source_ids": [
+        "X006"
+      ],
+      "source_quote": "EarningsPerShareDiluted reported for FY2025: 16.7",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_007",
+      "category": "earnings_or_eps",
+      "claim": "EarningsPerShareBasic reported for FY2025: 16.73",
+      "value": 16.73,
+      "source_ids": [
+        "X007"
+      ],
+      "source_quote": "EarningsPerShareBasic reported for FY2025: 16.73",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_008",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 5431000000",
+      "value": 5431000000,
+      "source_ids": [
+        "X008"
+      ],
+      "source_quote": "CashAndCashEquivalentsAtCarryingValue reported for FY2025: 5431000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_009",
+      "category": "balance_sheet_or_cash",
+      "claim": "CashCashEquivalentsAndShortTermInvestments reported for FY2025: 6595000000",
+      "value": 6595000000,
+      "source_ids": [
+        "X009"
+      ],
+      "source_quote": "CashCashEquivalentsAndShortTermInvestments reported for FY2025: 6595000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_XBRL_010",
+      "category": "other",
+      "claim": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 10031000000",
+      "value": 10031000000,
+      "source_ids": [
+        "X010"
+      ],
+      "source_quote": "NetCashProvidedByUsedInOperatingActivities reported for FY2025: 10031000000",
+      "support_label": "supported"
+    },
+    {
+      "evidence_id": "E_CTX_001",
+      "category": "pre_event_price_context",
+      "claim": "Pre-event price context: ret_5d=0.00216, ret_20d=0.034156, market_ret_20d=-0.022814",
+      "value": null,
+      "source_ids": [
+        "CTX1"
+      ],
+      "source_quote": "Pre-event price context: ret_5d=0.00216, ret_20d=0.034156, market_ret_20d=-0.022814",
+      "support_label": "supported"
+    }
+  ]
+}

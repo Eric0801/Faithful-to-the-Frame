@@ -1,0 +1,482 @@
+{
+  "event_id": "evt_0018",
+  "visibility_policy": "entity_visible_outcome_blind",
+  "identity_visibility": "visible",
+  "company_name": "CADENCE DESIGN SYSTEMS INC",
+  "ticker": "CDNS",
+  "company_alias": "CADENCE DESIGN SYSTEMS INC",
+  "masked_company": "Company BU",
+  "sector": "Information Technology",
+  "market_cap_group": "large_cap",
+  "fiscal_period": "FY2025 Q4",
+  "event_date": "2026-02-17",
+  "filing_metadata": {
+    "cik": "813672",
+    "accession_number": "0000813672-26-000013",
+    "form_type": "8-K",
+    "accepted_at_et": "2026-02-17T16:02:58-05:00",
+    "event_date": "2026-02-17",
+    "after_close": true,
+    "items": [
+      "2.02",
+      "9.01"
+    ]
+  },
+  "source_units": [
+    {
+      "source_id": "S001",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "14% Revenue Growth and ~45% Non-GAAP Operating Margin for 2025",
+      "token_count": 16
+    },
+    {
+      "source_id": "S002",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "SAN JOSE, Calif. \u2014 2026-02-17T16:02:58-05:00 \u2014 CADENCE DESIGN SYSTEMS INC (Nasdaq:CDNS) today announced results for the fourth quarter and fiscal year 2025.",
+      "token_count": 35
+    },
+    {
+      "source_id": "S003",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue of $1.440 billion, compared to revenue of $1.356 billion in Q4 2024",
+      "token_count": 20
+    },
+    {
+      "source_id": "S004",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP operating margin of 32.2%, compared to 33.7% in Q4 2024",
+      "token_count": 16
+    },
+    {
+      "source_id": "S005",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP operating margin of 45.8%, compared to 46.0% in Q4 2024",
+      "token_count": 17
+    },
+    {
+      "source_id": "S006",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP diluted net income per share of $1.42, compared to $1.24 in Q4 2024",
+      "token_count": 19
+    },
+    {
+      "source_id": "S007",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Non-GAAP diluted net income per share of $1.99, compared to $1.88 in Q4 2024",
+      "token_count": 20
+    },
+    {
+      "source_id": "S008",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u2022 Revenue of $5.297 billion, compared to revenue of $4.641 billion in 2024",
+      "token_count": 19
+    },
+    {
+      "source_id": "S009",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 GAAP operating margin of 28.2%, compared to 29.1% in 2024",
+      "token_count": 15
+    },
+    {
+      "source_id": "S010",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u2022 Non-GAAP operating margin of 44.6%, compared to 42.5% in 2024",
+      "token_count": 16
+    },
+    {
+      "source_id": "S011",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 GAAP diluted net income per share of $4.06, compared to $3.85 in 2024",
+      "token_count": 18
+    },
+    {
+      "source_id": "S012",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "\u2022 Non-GAAP diluted net income per share of $7.14, compared to $5.97 in 2024",
+      "token_count": 19
+    },
+    {
+      "source_id": "S013",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Year-end backlog was $7.8 billion and revenue expected to be recognized in the next 12 months from remaining performance obligations was $3.8 billion",
+      "token_count": 38
+    },
+    {
+      "source_id": "S014",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "\u201cCADENCE DESIGN SYSTEMS INC delivered excellent results for the fourth quarter, closing an outstanding 2025 with over 14% revenue growth and 20% non-GAAP EPS growth,\u201d said Anirudh Devgan, president and chief executive officer. \u201cStrong customer demand for our expanding AI-driven product portfolio and the essential nature of CADENCE DESIGN SYSTEMS INC's engineering software position us well to capture the massive opportunities in the AI era.\u201d",
+      "token_count": 103
+    },
+    {
+      "source_id": "S015",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "\u201cCADENCE DESIGN SYSTEMS INC closed 2025 with a strong finish and broad-based strength across the business,\u201d said John Wall, senior vice president and chief financial officer. \u201cWe delivered a 44.6% non-GAAP operating margin, reflecting continued productivity-driven profitability improvement. With strong Q4 bookings, we began 2026 with a record backlog of $7.8 billion and excellent momentum.\u201d",
+      "token_count": 95
+    },
+    {
+      "source_id": "S016",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "Commentary on the fourth quarter and fiscal year 2025 financial results by John Wall, senior vice president and chief financial officer, is available at www.CADENCE DESIGN SYSTEMS INC.com/CADENCE DESIGN SYSTEMS INC/investor_relations.",
+      "token_count": 51
+    },
+    {
+      "source_id": "S017",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CADENCE DESIGN SYSTEMS INC's outlook does not include the impact of its pending acquisition of Hexagon's design and engineering business.",
+      "token_count": 31
+    },
+    {
+      "source_id": "S018",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Revenue in the range of $5.9 billion to $6.0 billion",
+      "token_count": 14
+    },
+    {
+      "source_id": "S019",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 GAAP operating margin in the range of 31.75% to 32.75%",
+      "token_count": 14
+    },
+    {
+      "source_id": "S020",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP operating margin in the range of 44.75% to 45.75%",
+      "token_count": 15
+    },
+    {
+      "source_id": "S021",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 GAAP diluted net income per share in the range of $4.95 to $5.05",
+      "token_count": 17
+    },
+    {
+      "source_id": "S022",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Non-GAAP diluted net income per share in the range of $8.05 to $8.15",
+      "token_count": 18
+    },
+    {
+      "source_id": "S023",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The company utilizes a long-term projected non-GAAP tax rate, which reflects currently available information, as well as other factors and assumptions. The non-GAAP tax rate is subject to change for a variety of reasons, including the rapidly evolving global tax environment, significant changes in the company\u2019s geographic earnings mix, or other changes to the company\u2019s strategy or business operations. The company expects to use the current",
+      "token_count": 111
+    },
+    {
+      "source_id": "S024",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "normalized non-GAAP tax rate through fiscal 2026 but will re-evaluate this rate periodically for significant items that may materially affect its projections.",
+      "token_count": 40
+    },
+    {
+      "source_id": "S025",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Reconciliations of the financial results and business outlook from GAAP operating margin, GAAP net income and GAAP diluted net income per share to non-GAAP operating margin, non-GAAP net income and non-GAAP diluted net income per share, respectively, are included in this press release. Revenue growth outlook is based on the midpoint of the range.",
+      "token_count": 87
+    },
+    {
+      "source_id": "S026",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 The CADENCE DESIGN SYSTEMS INC.ai portfolio continued gaining momentum with market shaping customers. CADENCE DESIGN SYSTEMS INC introduced ChipStack, a groundbreaking agentic AI Super Agent for chip design and verification, built upon CADENCE DESIGN SYSTEMS INC's foundational EDA platform. By leveraging intelligent agents that autonomously call the underlying CADENCE DESIGN SYSTEMS INC tools, ChipStack is enabling faster design convergence and significantly improved engineering productivity",
+      "token_count": 109
+    },
+    {
+      "source_id": "S027",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 CADENCE DESIGN SYSTEMS INC\u2019s Core EDA business grew 13% in 2025 driven by broad hyperscaler adoption, expanding digital full-flow deployments, and growing proliferation of its AI-driven products",
+      "token_count": 45
+    },
+    {
+      "source_id": "S028",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 Hardware delivered another record year, adding more than 30 new customers, with seven of the top ten customers purchasing both Palladium Z3 and Protium X3 systems, reflecting strong AI and hyperscale demand",
+      "token_count": 52
+    },
+    {
+      "source_id": "S029",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 CADENCE DESIGN SYSTEMS INC\u2019s IP business grew nearly 25% year-over-year in 2025, driven by the superior performance and expanding adoption of its IP portfolio, including HBM, UCIe, PCIe, DDR, and SerDes",
+      "token_count": 47
+    },
+    {
+      "source_id": "S030",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u2022 The System Design and Analysis business grew 13% in 2025, supported by strong demand for CADENCE DESIGN SYSTEMS INC\u2019s 3D\u2011IC platform and simulation solutions that are increasingly critical for AI infrastructure, high\u2011performance computing, and advanced mobile applications",
+      "token_count": 65
+    },
+    {
+      "source_id": "S031",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CADENCE DESIGN SYSTEMS INC is a market leader in AI and digital twins, pioneering the application of computational software to accelerate innovation in the engineering design of silicon to systems. Our design solutions, based on CADENCE DESIGN SYSTEMS INC\u2019s Intelligent System Design\u2122 strategy, are essential for the world\u2019s leading semiconductor and systems companies to build their next-generation products from chips to full electromechanical systems that serve a wide range of markets, including hyperscale computing, mobile communications, automotive, aerospace, industrial, life sciences and robotics. In 2024, CADENCE DESIGN SYSTEMS INC was recognized by the Wall Street Journal as one of the world\u2019s top 100 best-managed companies. CADENCE DESIGN SYSTEMS INC solutions offer limitless opportunities\u2014learn more at www.CADENCE DESIGN SYSTEMS INC.com.",
+      "token_count": 194
+    },
+    {
+      "source_id": "S032",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "\u00a9 2026 CADENCE DESIGN SYSTEMS INC. All rights reserved worldwide. CADENCE DESIGN SYSTEMS INC, the CADENCE DESIGN SYSTEMS INC logo and the other CADENCE DESIGN SYSTEMS INC marks found at www.CADENCE DESIGN SYSTEMS INC.com/go/trademarks are trademarks or registered trademarks of CADENCE DESIGN SYSTEMS INC. All other trademarks are the property of their respective owners.",
+      "token_count": 69
+    },
+    {
+      "source_id": "S033",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "For a detailed discussion of these and other cautionary statements related to CADENCE DESIGN SYSTEMS INC and its business, please refer to CADENCE DESIGN SYSTEMS INC\u2019s filings with the U.S. Securities and Exchange Commission, including its most recent report on Form 10-K, subsequent reports on Form 10-Q and future filings.",
+      "token_count": 73
+    },
+    {
+      "source_id": "S034",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Non-GAAP financial measures should not be considered as a substitute for or superior to measures of financial performance prepared in accordance with generally accepted accounting principles, or GAAP. Investors are encouraged to review the reconciliation of non-GAAP measures contained within this press release with their most directly comparable GAAP results. Investors are also encouraged to look at the GAAP results as the best measure of financial performance.",
+      "token_count": 117
+    },
+    {
+      "source_id": "S035",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "To supplement CADENCE DESIGN SYSTEMS INC\u2019s financial results presented on a GAAP basis, CADENCE DESIGN SYSTEMS INC management uses non-GAAP measures that it believes are helpful in understanding CADENCE DESIGN SYSTEMS INC\u2019s performance. One such measure is non-GAAP net income, which is a financial measure not calculated under GAAP. Non-GAAP net income is calculated by CADENCE DESIGN SYSTEMS INC management by taking GAAP net income and excluding, as applicable, amortization of intangible assets, stock-based compensation expense, acquisition and integration-related costs including retention expenses, income or expenses related to foreign currency forward exchange contract associated with a pending acquisition, investments, divestitures and CADENCE DESIGN SYSTEMS INC\u2019s non-qualified deferred compensation plan, restructuring, loss related to contingent liability and other significant items not directly related to CADENCE DESIGN SYSTEMS INC\u2019s core business operations, and the income tax effect of non-GAAP pre-tax adjustments.",
+      "token_count": 235
+    },
+    {
+      "source_id": "S036",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "CADENCE DESIGN SYSTEMS INC management uses non-GAAP net income because it excludes items that are generally not directly related to the performance of CADENCE DESIGN SYSTEMS INC\u2019s core business operations and therefore provides supplemental information to CADENCE DESIGN SYSTEMS INC management and investors regarding the performance of the business operations, facilitates comparisons to the historical operating results and allows the review of CADENCE DESIGN SYSTEMS INC's business from the same perspective as CADENCE DESIGN SYSTEMS INC management, including forecasting and budgeting.",
+      "token_count": 128
+    },
+    {
+      "source_id": "S037",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "The following tables reconcile the specific items excluded from GAAP operating margin, GAAP net income and GAAP net income per diluted share in the calculation of non-GAAP operating margin, non-GAAP net income and non-GAAP net income per diluted share for the periods shown below:",
+      "token_count": 70
+    },
+    {
+      "source_id": "S038",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Operating Margin Reconciliation Three Months Ended December 31, 2025 December 31, 2024 (unaudited) GAAP operating margin as a percent of total revenue 32.2% 33.7% Reconciling items to non-GAAP operating margin as a percent of total revenue: Stock-based compensation expense 7.9% 7.9% Amortization of acquired intangibles 2.1% 2.0% Acquisition and integration-related costs 3.4% 1.7% Restructuring 0.1% (0.1)% Non-qualified deferred compensation expenses 0.1% 0.0% Special charges 0.0% 0.2% Loss related to contingent liability* 0.0% 0.6% Non-GAAP operating margin as a percent of total revenue 45.8% 46.0%",
+      "token_count": 152
+    },
+    {
+      "source_id": "S039",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "* Related to resolution of previously disclosed legal proceedings with the DOJ and BIS.",
+      "token_count": 22
+    },
+    {
+      "source_id": "S040",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Operating Margin Reconciliation Years Ended December 31, 2025 December 31, 2024 (unaudited) GAAP operating margin as a percent of total revenue 28.2% 29.1% Reconciling items to non-GAAP operating margin as a percent of total revenue: Stock-based compensation expense 8.6% 8.4% Amortization of acquired intangibles 2.0% 2.0% Acquisition and integration-related costs 2.5% 2.1% Restructuring 0.6% 0.5% Non-qualified deferred compensation expenses 0.3% 0.2% Special charges 0.0% 0.0% Loss related to contingent liability* 2.4% 0.2% Non-GAAP operating margin as a percent of total revenue 44.6% 42.5%",
+      "token_count": 149
+    },
+    {
+      "source_id": "S041",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Income Reconciliation Three Months Ended December 31, 2025 December 31, 2024 (in thousands) (unaudited) Net income on a GAAP basis $ 388,136 $ 340,210 Stock-based compensation expense 113,164 106,508 Amortization of acquired intangibles 30,229 26,776 Acquisition and integration-related costs 48,652 23,477 Restructuring 1,862 (1,020) Non-qualified deferred compensation expenses 2,064 293 Special charges \u2014 1,902 Loss related to contingent liability* \u2014 8,322 Other income or expense related to foreign currency forward exchange contract associated with a pending acquisition 10,666 \u2014 Other income or expense related to investments, divestitures and non-qualified deferred compensation plan assets (49,111) 14,654 Income tax effect of non-GAAP adjustments (2,505) (5,456) Net income on a non-GAAP basis $ 543,157 $ 515,666",
+      "token_count": 207
+    },
+    {
+      "source_id": "S042",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Net Income Reconciliation Years Ended December 31, 2025 December 31, 2024 (in thousands) (unaudited) Net income on a GAAP basis $ 1,108,888 $ 1,055,484 Stock-based compensation expense 455,175 391,219 Amortization of acquired intangibles 105,332 90,449 Acquisition and integration-related costs 135,073 95,562 Restructuring 29,194 23,765 Non-qualified deferred compensation expenses 14,029 11,145 Special charges 1,988 3,135 Loss related to contingent liability* 128,545 8,322 Other income or expense related to foreign currency forward exchange contract associated with a pending acquisition 29,227 \u2014 Other income or expense related to investments, divestitures and non-qualified deferred compensation plan assets (83,286) (60,798) Income tax effect of non-GAAP adjustments 27,497 17,162 Net income on a non-GAAP basis $ 1,951,662 $ 1,635,445",
+      "token_count": 211
+    },
+    {
+      "source_id": "S043",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Diluted Net Income Per Share Reconciliation Three Months Ended December 31, 2025 December 31, 2024 (in thousands, except per share data) (unaudited) Diluted net income per share on a GAAP basis $ 1.42 $ 1.24 Stock-based compensation expense 0.41 0.39 Amortization of acquired intangibles 0.11 0.10 Acquisition and integration-related costs 0.18 0.08 Restructuring 0.01 \u2014 Non-qualified deferred compensation expenses 0.01 \u2014 Special charges \u2014 0.01 Loss related to contingent liability* \u2014 0.03 Other income or expense related to foreign currency forward exchange contract associated with a pending acquisition 0.04 \u2014 Other income or expense related to investments, divestitures and non-qualified deferred compensation plan assets (0.18) 0.05 Income tax effect of non-GAAP adjustments (0.01) (0.02) Diluted net income per share on a non-GAAP basis $ 1.99 $ 1.88 Shares used in calculation of diluted net income per share 272,932 274,292",
+      "token_count": 233
+    },
+    {
+      "source_id": "S044",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Diluted Net Income Per Share Reconciliation Years Ended December 31, 2025 December 31, 2024 (in thousands, except per share data) (unaudited) Diluted net income per share on a GAAP basis $ 4.06 $ 3.85 Stock-based compensation expense 1.67 1.43 Amortization of acquired intangibles 0.38 0.33 Acquisition and integration-related costs 0.49 0.35 Restructuring 0.11 0.09 Non-qualified deferred compensation expenses 0.05 0.04 Special charges 0.01 0.01 Loss related to contingent liability* 0.47 0.03 Other income or expense related to foreign currency forward exchange contract associated with a pending acquisition 0.11 \u2014 Other income or expense related to investments, divestitures and non-qualified deferred compensation plan assets (0.31) (0.22) Income tax effect of non-GAAP adjustments 0.10 0.06 Diluted net income per share on a non-GAAP basis $ 7.14 $ 5.97 Shares used in calculation of diluted net income per share 273,312 273,833",
+      "token_count": 234
+    },
+    {
+      "source_id": "S045",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "December 31, 2025 and December 31, 2024",
+      "token_count": 10
+    },
+    {
+      "source_id": "S046",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "December 31, 2025 December 31, 2024 Current assets: Cash and cash equivalents $ 3,001,317 $ 2,644,030 Receivables, net 944,939 680,460 Inventories 303,545 257,711 Prepaid expenses and other 419,872 433,878 Total current assets 4,669,673 4,016,079 Property, plant and equipment, net 517,004 458,200 Goodwill 2,749,143 2,378,671 Acquired intangibles, net 718,223 594,734 Deferred taxes 917,733 982,057 Other assets 581,372 544,741 Total assets $ 10,153,148 $ 8,974,482 Current liabilities: Accounts payable and accrued liabilities $ 856,856 $ 632,692 Current portion of deferred revenue 778,435 737,413 Total current liabilities 1,635,291 1,370,105 Long-term liabilities: Long-term portion of deferred revenue 155,997 115,168 Long-term debt 2,480,150 2,476,183 Other long-term liabilities 407,529 339,448 Total long-term liabilities 3,043,676 2,930,799 Stockholders\u2019 equity 5,474,181 4,673,578 Total liabilities and stockholders\u2019 equity $ 10,153,148 $ 8,974,482",
+      "token_count": 240
+    },
+    {
+      "source_id": "S047",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "For the Three Months and Years Ended December 31, 2025 and December 31, 2024",
+      "token_count": 19
+    },
+    {
+      "source_id": "S048",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Three Months Ended Years Ended December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Revenue: Product and maintenance $ 1,332,526 $ 1,239,287 $ 4,821,589 $ 4,213,509 Services 107,588 116,694 475,170 427,755 Total revenue 1,440,114 1,355,981 5,296,759 4,641,264 Costs and expenses: Cost of product and maintenance 144,001 157,249 518,673 436,600 Cost of services 44,753 62,742 203,576 210,902 Marketing and sales 206,778 200,406 802,633 757,483 Research and development 464,582 392,026 1,768,772 1,549,093 General and administrative 103,225 70,228 313,387 273,961 Amortization of acquired intangibles 11,578 9,153 39,937 30,375 Loss related to contingent liability \u2014 8,322 128,545 8,322 Restructuring 1,862 (1,020) 29,194 23,765 Total costs and expenses 976,779 899,106 3,804,717 3,290,501 Income from operations 463,335 456,875 1,492,042 1,350,763 Interest expense (29,440) (29,907) (116,541) (75,999) Other income, net 59,066 9,684 146,542 121,055 Income before provision for income taxes 492,961 436,652 1,522,043 1,395,819 Provision for income taxes 104,825 96,442 413,155 340,335 Net income $ 388,136 $ 340,210 $ 1,108,888 $ 1,055,484 Net income per share - basic $ 1.43 $ 1.25 $ 4.09 $ 3.89 Net income per share - diluted $ 1.42 $ 1.24 $ 4.06 $ 3.85 Weighted average common shares outstanding - basic 270,924 272,069 271,333 271,212 Weighted average common shares outstanding - diluted 272,932 274,292 273,312 273,833",
+      "token_count": 360
+    },
+    {
+      "source_id": "S049",
+      "source_type": "earnings_release",
+      "section": "costs_or_expenses",
+      "text": "For the Years Ended December 31, 2025 and December 31, 2024",
+      "token_count": 15
+    },
+    {
+      "source_id": "S050",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "(Unaudited) Years Ended December 31, 2025 December 31, 2024 Cash and cash equivalents at beginning of year $ 2,644,030 $ 1,008,152 Cash flows from operating activities: Net income 1,108,888 1,055,484 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 227,828 196,935 Stock-based compensation 455,175 391,219 Gain on divestitures and investments, net (69,089) (49,593) Deferred income taxes 66,048 (128,737) ROU asset amortization and change in operating lease liabilities 6,016 (1,920) Other non-cash items 7,166 6,138 Changes in operating assets and liabilities, net of effect of acquired businesses: Receivables (274,894) (180,287) Inventories (91,029) (82,771) Prepaid expenses and other 43,382 (81,529) Other assets (18,569) 11,866 Accounts payable and accrued liabilities 184,897 33,676 Deferred revenue 69,411 66,478 Other long-term liabilities 13,551 23,592 Net cash provided by operating activities 1,728,781 1,260,551 Cash flows from investing activities: Purchases of investments (40,895) (4,982) Proceeds from the sale and maturity of investments 140,281 47,980 Proceeds from the sale of IP and other assets 11,500 \u2014 Purchases of property, plant and equipment (141,871) (142,542) Cash paid in business combinations, net of cash acquired (429,538) (737,574) Net cash used for investing activities (460,523) (837,118) Cash flows from financing activities: Proceeds from issuance of debt \u2014 3,196,595 Payments of debt \u2014 (1,350,000) Payments of debt issuance costs \u2014 (23,828) Proceeds from issuance of common stock 145,901 204,237 Stock received for payment of employee taxes on vesting of restricted stock (169,842) (237,737) Payments for repurchases of common stock (925,034) (550,026) Net cash provided by (used for) financing activities (948,975) 1,239,241 Effect of exchange rate changes on cash and cash equivalents 38,004 (26,796) Increase in cash and cash equivalents 357,287 1,635,878 Cash and cash equivalents at end of year $ 3,001,317 $ 2,644,030",
+      "token_count": 507
+    },
+    {
+      "source_id": "S051",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue Mix by Geography (% of Total Revenue)",
+      "token_count": 12
+    },
+    {
+      "source_id": "S052",
+      "source_type": "earnings_release",
+      "section": "balance_sheet_or_cash",
+      "text": "2024 2025 GEOGRAPHY Q1 Q2 Q3 Q4 Year Q1 Q2 Q3 Q4 Year Americas 46 % 49 % 50 % 49 % 49 % 48 % 49 % 43 % 47 % 47 % China 12 % 12 % 13 % 13 % 12 % 11 % 9 % 18 % 12 % 13 % Other Asia 20 % 19 % 17 % 17 % 18 % 19 % 19 % 18 % 20 % 19 % Europe, Middle East and Africa 17 % 14 % 14 % 15 % 15 % 16 % 16 % 14 % 14 % 15 % Japan 5 % 6 % 6 % 6 % 6 % 6 % 7 % 7 % 7 % 6 % Total 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 %",
+      "token_count": 106
+    },
+    {
+      "source_id": "S053",
+      "source_type": "earnings_release",
+      "section": "revenue",
+      "text": "Revenue Mix by Product Category (% of Total Revenue)",
+      "token_count": 13
+    },
+    {
+      "source_id": "S054",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "2024 2025 PRODUCT CATEGORY Q1 Q2 Q3 Q4 Year Q1 Q2 Q3 Q4 Year Core EDA 76 % 73 % 70 % 68 % 71 % 71 % 71 % 71 % 69 % 70 % Semiconductor IP 12 % 13 % 14 % 13 % 13 % 14 % 13 % 14 % 15 % 14 % System Design and Analysis 12 % 14 % 16 % 19 % 16 % 15 % 16 % 15 % 16 % 16 % Total 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 % 100 %",
+      "token_count": 83
+    },
+    {
+      "source_id": "S055",
+      "source_type": "earnings_release",
+      "section": "margins",
+      "text": "Impact of Non-GAAP Adjustments on Forward Looking Operating Margin",
+      "token_count": 17
+    },
+    {
+      "source_id": "S056",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Three Months Ending March 31, 2026 Year Ending December 31, 2026 Forecast Forecast GAAP operating margin as a percent of total revenue 30% - 31% 31.75% - 32.75% Reconciling items to non-GAAP operating margin as a percent of total revenue: Stock-based compensation expense 10% 9% Amortization of acquired intangibles 2% 2% Acquisition and integration-related costs 2% 2% Non-GAAP operating margin as a percent of total revenue\u2020 44% - 45% 44.75% - 45.75%",
+      "token_count": 113
+    },
+    {
+      "source_id": "S057",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2020 The non-GAAP measures presented in the table above should not be considered a substitute for financial results and measures determined or calculated in accordance with GAAP.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S058",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The non-GAAP measures presented in the table above should not be considered a substitute for financial results and measures determined or calculated in accordance with GAAP.",
+      "token_count": 44
+    },
+    {
+      "source_id": "S059",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Impact of Non-GAAP Adjustments on Forward Looking Diluted Net Income Per Share",
+      "token_count": 20
+    },
+    {
+      "source_id": "S060",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Three Months Ending March 31, 2026 Year Ending December 31, 2026 Forecast Forecast Diluted net income per share on a GAAP basis $1.16 to $1.22 $4.95 to $5.05 Stock-based compensation expense 0.50 2.04 Amortization of acquired intangibles 0.12 0.46 Acquisition and integration-related costs 0.11 0.36 Income tax effect of non-GAAP adjustments \u2014 0.24 Diluted net income per share on a non-GAAP basis\u2020 $1.89 to $1.95 $8.05 to $8.15",
+      "token_count": 107
+    },
+    {
+      "source_id": "S061",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "\u2020 The non-GAAP measures presented in the table above should not be considered a substitute for financial results and measures determined or calculated in accordance with GAAP .",
+      "token_count": 44
+    },
+    {
+      "source_id": "S062",
+      "source_type": "earnings_release",
+      "section": "general",
+      "text": "The non-GAAP measures presented in the table above should not be considered a substitute for financial results and measures determined or calculated in accordance with GAAP .",
+      "token_count": 44
+    },
+    {
+      "source_id": "S063",
+      "source_type": "earnings_release",
+      "section": "earnings_or_eps",
+      "text": "Impact of Non-GAAP Adjustments on Forward Looking Net Income",
+      "token_count": 15
+    },
+    {
+      "source_id": "S064",
+      "source_type": "earnings_release",
+      "section": "guidance",
+      "text": "Three Months Ending March 31, 2026 Year Ending December 31, 2026 ($ in millions) Forecast Forecast Net income on a GAAP basis $317 to $333 $1,355 to $1,382 Stock-based compensation expense 137 557 Amortization of acquired intangibles 32 125 Acquisition and integration-related costs 31 100 Income tax effect of non-GAAP adjustments 1 66 Net income on a non-GAAP basis\u2020 $518 to $534 $2,203 to $2,230",
+      "token_count": 100
+    }
+  ],
+  "xbrl_facts": [],
+  "pre_event_price_context": {
+    "ret_5d": -0.025911,
+    "ret_20d": -0.107072,
+    "market_ret_20d": -0.012737
+  },
+  "outcome_blind": true
+}

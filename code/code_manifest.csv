@@ -1,15 +1,22 @@
 path,role,description
-README.md,code_map,Explains the cleaned public code reference and its boundary relative to operational scripts.
-requirements.txt,setup,Python dependency file; the public reference pipeline uses only the standard library.
-config.example.json,setup,Editable experiment configuration for inputs, profiles, seeds, provider endpoint, API-key environment variable, and model names.
-env.example,setup,Example environment variable file for API-key configuration.
-scripts/run_experiment.py,experiment_runner,End-to-end runner from source/evidence inputs to treatments, upstream summaries, downstream decisions, and metrics.
-scripts/treatments.py,treatment_reference,Reference implementation for T1/T2/T3/T4/B0 treatment rendering and prompt-job construction.
-scripts/downstream_decisions.py,downstream_reference,Reference implementation for downstream receiver prompt construction and decision-output normalization.
-scripts/metrics.py,metric_reference,Reference implementation for event-level E2A metric computation and treatment contrasts.
-schemas/experiment_schema.json,schema_reference,Compact field contracts for source packets, evidence banks, downstream requests, decision rows, and hidden-outcome joins.
-examples/source_packets/evt_demo.json,smoke_fixture,Minimal source packet for exercising deterministic treatment rendering.
-examples/evidence_banks/evt_demo.json,smoke_fixture,Minimal canonical evidence bank for exercising T2/T3 prompt construction and T4/B0 rendering.
-examples/provider_outputs_demo.jsonl,smoke_fixture,Minimal downstream provider-output fixture for exercising decision normalization.
-examples/decision_rows.csv,smoke_fixture,Minimal validated downstream decision rows for exercising E2A metric computation.
-examples/evaluation_outcomes_demo.csv,smoke_fixture,Evaluation-only demo outcome fixture used by the metric smoke test.
+README.md,code_map,Explains the public execution path and boundaries.
+requirements.txt,setup,Dependency file; mock mode uses only the Python standard library.
+config.example.json,setup,Capped 94-event mock/provider configuration for quick inspection.
+config.full_rerun.example.json,setup,Uncapped provider-backed configuration for full reruns.
+env.example,setup,Example API-key and API-base-url environment variables.
+schemas/experiment_schema.json,schema_reference,Field contracts for source packets, evidence banks, downstream requests, decision rows, and evaluation-only outcomes.
+scripts/run_experiment.py,experiment_runner,End-to-end orchestrator for treatment rendering, upstream execution, downstream decisions, validation, and metrics.
+scripts/render_treatments.py,treatment_generation,Original treatment rendering and upstream prompt-job construction script.
+scripts/run_representation_harness.py,upstream_execution,Original upstream representation harness with mock and OpenAI-compatible modes.
+scripts/build_downstream_requests.py,downstream_requests,Original downstream receiver request builder.
+scripts/run_downstream_harness.py,downstream_execution,Original downstream decision harness with mock and OpenAI-compatible modes.
+scripts/validate_decision_outputs.py,validation,Original downstream decision-output schema validator.
+scripts/compute_diversity_metrics.py,metrics,Original E2A diversity/quality metric computation script.
+scripts/experiment_run_profiles.py,config_support,Shared profile and run-profile definitions used by downstream request construction.
+scripts/harness_openai_compat.py,provider_support,OpenAI-compatible HTTP client used by upstream and downstream harnesses.
+scripts/canonicalize_decision_outputs.py,repair_support,Deterministic alias repair utility for provider output fields.
+examples/source_packets/evt_demo.json,smoke_fixture,Minimal source packet fixture retained for small debugging runs.
+examples/evidence_banks/evt_demo.json,smoke_fixture,Minimal evidence-bank fixture retained for small debugging runs.
+examples/provider_outputs_demo.jsonl,smoke_fixture,Minimal provider-output fixture retained for normalization debugging.
+examples/decision_rows.csv,smoke_fixture,Minimal downstream decision rows retained for metric debugging.
+examples/evaluation_outcomes_demo.csv,smoke_fixture,Minimal evaluation-only outcome fixture retained for metric debugging.

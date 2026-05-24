@@ -1,0 +1,95 @@
+event_id,ticker,company_name,event_date,accepted_at_et,sector,market_cap_group,source_packet_path,canonical_evidence_bank_path,source_unit_count,xbrl_fact_count,evidence_unit_count,outcome_blind
+evt_0001,DRI,DARDEN RESTAURANTS INC,2026-03-19,2026-03-19T07:06:37-04:00,Consumer Discretionary,large_cap,source_packets/evt_0001.json,canonical_evidence_banks/evt_0001.json,35,0,36,true
+evt_0002,ROST,"ROSS STORES, INC.",2026-03-03,2026-03-03T16:03:09-05:00,Consumer Discretionary,large_cap,source_packets/evt_0002.json,canonical_evidence_banks/evt_0002.json,20,7,28,true
+evt_0003,AZO,AUTOZONE INC,2026-03-03,2026-03-03T06:55:29-05:00,Consumer Discretionary,large_cap,source_packets/evt_0003.json,canonical_evidence_banks/evt_0003.json,24,9,34,true
+evt_0004,MCD,MCDONALDS CORP,2026-02-11,2026-02-11T16:02:36-05:00,Consumer Discretionary,large_cap,source_packets/evt_0004.json,canonical_evidence_banks/evt_0004.json,42,0,43,true
+evt_0005,HLT,Hilton Worldwide Holdings Inc.,2026-02-11,2026-02-11T06:01:15-05:00,Consumer Discretionary,large_cap,source_packets/evt_0005.json,canonical_evidence_banks/evt_0005.json,100,9,110,true
+evt_0006,GM,General Motors Co,2026-01-27,2026-01-27T02:25:05-05:00,Consumer Discretionary,large_cap,source_packets/evt_0006.json,canonical_evidence_banks/evt_0006.json,90,10,101,true
+evt_0007,KHC,Kraft Heinz Co,2026-02-11,2026-02-11T07:06:00-05:00,Consumer Staples,large_cap,source_packets/evt_0007.json,canonical_evidence_banks/evt_0007.json,71,0,72,true
+evt_0008,HSY,HERSHEY CO,2026-02-05,2026-02-05T06:46:48-05:00,Consumer Staples,large_cap,source_packets/evt_0008.json,canonical_evidence_banks/evt_0008.json,80,0,81,true
+evt_0009,KMB,KIMBERLY CLARK CORP,2026-01-27,2026-01-27T01:37:08-05:00,Consumer Staples,large_cap,source_packets/evt_0009.json,canonical_evidence_banks/evt_0009.json,83,0,84,true
+evt_0010,PG,PROCTER & GAMBLE Co,2026-01-22,2026-01-22T07:02:05-05:00,Consumer Staples,large_cap,source_packets/evt_0010.json,canonical_evidence_banks/evt_0010.json,63,0,64,true
+evt_0011,MDT,Medtronic plc,2026-02-17,2026-02-17T01:48:07-05:00,Health Care,large_cap,source_packets/evt_0011.json,canonical_evidence_banks/evt_0011.json,70,0,71,true
+evt_0012,EW,Edwards Lifesciences Corp,2026-02-10,2026-02-10T16:22:48-05:00,Health Care,large_cap,source_packets/evt_0012.json,canonical_evidence_banks/evt_0012.json,65,9,75,true
+evt_0013,FDX,FEDEX CORP,2026-03-19,2026-03-19T16:10:36-04:00,Industrials,large_cap,source_packets/evt_0013.json,canonical_evidence_banks/evt_0013.json,62,7,70,true
+evt_0014,CARR,CARRIER GLOBAL Corp,2026-02-05,2026-02-05T01:56:04-05:00,Industrials,large_cap,source_packets/evt_0014.json,canonical_evidence_banks/evt_0014.json,63,0,64,true
+evt_0015,EMR,EMERSON ELECTRIC CO,2026-02-03,2026-02-03T16:05:35-05:00,Industrials,large_cap,source_packets/evt_0015.json,canonical_evidence_banks/evt_0015.json,41,6,48,true
+evt_0016,LMT,LOCKHEED MARTIN CORP,2026-01-29,2026-01-29T07:25:24-05:00,Industrials,large_cap,source_packets/evt_0016.json,canonical_evidence_banks/evt_0016.json,104,0,105,true
+evt_0017,CRM,"Salesforce, Inc.",2026-02-25,2026-02-25T11:03:12-05:00,Information Technology,large_cap,source_packets/evt_0017.json,canonical_evidence_banks/evt_0017.json,131,0,132,true
+evt_0018,CDNS,CADENCE DESIGN SYSTEMS INC,2026-02-17,2026-02-17T16:02:58-05:00,Information Technology,large_cap,source_packets/evt_0018.json,canonical_evidence_banks/evt_0018.json,64,0,65,true
+evt_0019,FOX,Fox Corp,2026-02-04,2026-02-04T03:03:26-05:00,Communication Services,large_cap,source_packets/evt_0019.json,canonical_evidence_banks/evt_0019.json,30,5,36,true
+evt_0020,NKE,"NIKE, Inc.",2026-03-31,2026-03-31T16:15:22-04:00,Consumer Discretionary,large_cap,source_packets/evt_0020.json,canonical_evidence_banks/evt_0020.json,36,0,37,true
+evt_0021,ORLY,O REILLY AUTOMOTIVE INC,2026-02-04,2026-02-04T11:34:03-05:00,Consumer Discretionary,large_cap,source_packets/evt_0021.json,canonical_evidence_banks/evt_0021.json,39,0,40,true
+evt_0022,MKC,MCCORMICK & CO INC,2026-03-31,2026-03-31T06:40:56-04:00,Consumer Staples,large_cap,source_packets/evt_0022.json,canonical_evidence_banks/evt_0022.json,13,9,23,true
+evt_0023,CPB,CAMPBELL'S Co,2026-03-11,2026-03-11T03:17:14-04:00,Consumer Staples,large_cap,source_packets/evt_0023.json,canonical_evidence_banks/evt_0023.json,77,8,86,true
+evt_0024,ABBV,AbbVie Inc.,2026-04-03,2026-04-03T16:05:55-04:00,Health Care,large_cap,source_packets/evt_0024.json,canonical_evidence_banks/evt_0024.json,2,0,3,true
+evt_0025,BSX,BOSTON SCIENTIFIC CORP,2026-02-04,2026-02-04T01:33:43-05:00,Health Care,large_cap,source_packets/evt_0025.json,canonical_evidence_banks/evt_0025.json,54,0,55,true
+evt_0026,DHR,DANAHER CORP /DE/,2026-01-28,2026-01-27T12:37:52-05:00,Health Care,large_cap,source_packets/evt_0026.json,canonical_evidence_banks/evt_0026.json,84,0,85,true
+evt_0027,ISRG,INTUITIVE SURGICAL INC,2026-01-22,2026-01-22T11:05:12-05:00,Health Care,large_cap,source_packets/evt_0027.json,canonical_evidence_banks/evt_0027.json,38,0,39,true
+evt_0028,ABT,ABBOTT LABORATORIES,2026-01-22,2026-01-22T02:35:32-05:00,Health Care,large_cap,source_packets/evt_0028.json,canonical_evidence_banks/evt_0028.json,116,0,117,true
+evt_0029,DE,DEERE & CO,2026-02-19,2026-02-19T01:03:46-05:00,Industrials,large_cap,source_packets/evt_0029.json,canonical_evidence_banks/evt_0029.json,82,0,83,true
+evt_0030,ADBE,ADOBE INC.,2026-03-12,2026-03-12T12:09:23-04:00,Information Technology,large_cap,source_packets/evt_0030.json,canonical_evidence_banks/evt_0030.json,40,10,51,true
+evt_0031,ANET,"Arista Networks, Inc.",2026-02-12,2026-02-12T16:07:57-05:00,Information Technology,large_cap,source_packets/evt_0031.json,canonical_evidence_banks/evt_0031.json,56,9,66,true
+evt_0032,OMC,OMNICOM GROUP INC.,2026-02-18,2026-02-18T16:09:05-05:00,Communication Services,large_cap,source_packets/evt_0032.json,canonical_evidence_banks/evt_0032.json,85,0,86,true
+evt_0033,TMUS,"T-Mobile US, Inc.",2026-02-11,2026-02-11T02:37:24-05:00,Communication Services,large_cap,source_packets/evt_0033.json,canonical_evidence_banks/evt_0033.json,79,7,87,true
+evt_0034,VZ,VERIZON COMMUNICATIONS INC,2026-01-30,2026-01-30T06:30:56-05:00,Communication Services,large_cap,source_packets/evt_0034.json,canonical_evidence_banks/evt_0034.json,77,8,86,true
+evt_0035,CMCSA,COMCAST CORP,2026-01-29,2026-01-29T07:08:26-05:00,Communication Services,large_cap,source_packets/evt_0035.json,canonical_evidence_banks/evt_0035.json,81,0,82,true
+evt_0036,SBUX,STARBUCKS CORP,2026-01-28,2026-01-28T07:46:43-05:00,Consumer Discretionary,large_cap,source_packets/evt_0036.json,canonical_evidence_banks/evt_0036.json,108,7,116,true
+evt_0037,KR,KROGER CO,2026-03-05,2026-03-05T01:52:13-05:00,Consumer Staples,large_cap,source_packets/evt_0037.json,canonical_evidence_banks/evt_0037.json,126,0,127,true
+evt_0038,CL,COLGATE PALMOLIVE CO,2026-01-30,2026-01-30T07:57:45-05:00,Consumer Staples,large_cap,source_packets/evt_0038.json,canonical_evidence_banks/evt_0038.json,68,0,69,true
+evt_0039,GILD,"GILEAD SCIENCES, INC.",2026-02-10,2026-02-10T11:02:13-05:00,Health Care,large_cap,source_packets/evt_0039.json,canonical_evidence_banks/evt_0039.json,94,0,95,true
+evt_0040,ETN,Eaton Corp plc,2026-02-03,2026-02-03T07:00:20-05:00,Industrials,large_cap,source_packets/evt_0040.json,canonical_evidence_banks/evt_0040.json,70,0,71,true
+evt_0041,ITW,ILLINOIS TOOL WORKS INC,2026-02-03,2026-02-03T04:48:08-05:00,Industrials,large_cap,source_packets/evt_0041.json,canonical_evidence_banks/evt_0041.json,45,0,46,true
+evt_0042,CSX,CSX CORP,2026-01-22,2026-01-22T11:01:20-05:00,Industrials,large_cap,source_packets/evt_0042.json,canonical_evidence_banks/evt_0042.json,16,0,17,true
+evt_0043,INTU,INTUIT INC.,2026-02-26,2026-02-26T16:02:55-05:00,Information Technology,large_cap,source_packets/evt_0043.json,canonical_evidence_banks/evt_0043.json,85,8,94,true
+evt_0044,ADI,ANALOG DEVICES INC,2026-02-18,2026-02-18T07:02:27-05:00,Information Technology,large_cap,source_packets/evt_0044.json,canonical_evidence_banks/evt_0044.json,43,9,53,true
+evt_0045,CSCO,"CISCO SYSTEMS, INC.",2026-02-11,2026-02-11T16:07:20-05:00,Information Technology,large_cap,source_packets/evt_0045.json,canonical_evidence_banks/evt_0045.json,80,9,90,true
+evt_0046,FTNT,"Fortinet, Inc.",2026-02-05,2026-02-05T11:07:06-05:00,Information Technology,large_cap,source_packets/evt_0046.json,canonical_evidence_banks/evt_0046.json,64,0,65,true
+evt_0047,AMD,ADVANCED MICRO DEVICES INC,2026-02-03,2026-02-03T16:16:18-05:00,Information Technology,large_cap,source_packets/evt_0047.json,canonical_evidence_banks/evt_0047.json,57,0,58,true
+evt_0048,CARG,"CarGurus, Inc.",2026-02-19,2026-02-19T16:10:33-05:00,Communication Services,small_mid_cap,source_packets/evt_0048.json,canonical_evidence_banks/evt_0048.json,72,0,73,true
+evt_0049,ZG,"ZILLOW GROUP, INC.",2026-02-10,2026-02-10T16:08:19-05:00,Communication Services,small_mid_cap,source_packets/evt_0049.json,canonical_evidence_banks/evt_0049.json,50,0,51,true
+evt_0050,IAC,IAC Inc.,2026-02-03,2026-02-03T16:06:28-05:00,Communication Services,small_mid_cap,source_packets/evt_0050.json,canonical_evidence_banks/evt_0050.json,108,0,109,true
+evt_0051,LEVI,LEVI STRAUSS & CO,2026-04-07,2026-04-07T16:12:22-04:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0051.json,canonical_evidence_banks/evt_0051.json,108,8,117,true
+evt_0052,MOV,MOVADO GROUP INC,2026-03-19,2026-03-19T08:00:09-04:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0052.json,canonical_evidence_banks/evt_0052.json,64,0,65,true
+evt_0053,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",2026-03-12,2026-03-12T07:06:13-04:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0053.json,canonical_evidence_banks/evt_0053.json,38,0,39,true
+evt_0054,FLO,FLOWERS FOODS INC,2026-02-12,2026-02-12T16:15:13-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0054.json,canonical_evidence_banks/evt_0054.json,70,0,71,true
+evt_0055,POST,"Post Holdings, Inc.",2026-02-05,2026-02-05T17:01:49-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0055.json,canonical_evidence_banks/evt_0055.json,99,0,100,true
+evt_0056,INGR,Ingredion Inc,2026-02-03,2026-02-03T06:09:53-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0056.json,canonical_evidence_banks/evt_0056.json,90,0,91,true
+evt_0057,JJSF,J&J SNACK FOODS CORP,2026-02-03,2026-02-03T02:01:41-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0057.json,canonical_evidence_banks/evt_0057.json,42,0,43,true
+evt_0058,PEN,Penumbra Inc,2026-02-25,2026-02-25T13:01:51-05:00,Health Care,small_mid_cap,source_packets/evt_0058.json,canonical_evidence_banks/evt_0058.json,51,0,52,true
+evt_0059,ICUI,ICU MEDICAL INC/DE,2026-02-19,2026-02-19T11:08:27-05:00,Health Care,small_mid_cap,source_packets/evt_0059.json,canonical_evidence_banks/evt_0059.json,55,0,56,true
+evt_0060,GKOS,GLAUKOS Corp,2026-02-17,2026-02-17T16:10:25-05:00,Health Care,small_mid_cap,source_packets/evt_0060.json,canonical_evidence_banks/evt_0060.json,50,0,51,true
+evt_0061,FWRD,FORWARD AIR CORP,2026-02-23,2026-02-23T11:01:37-05:00,Industrials,small_mid_cap,source_packets/evt_0061.json,canonical_evidence_banks/evt_0061.json,35,0,36,true
+evt_0062,CWST,CASELLA WASTE SYSTEMS INC,2026-02-19,2026-02-19T16:16:45-05:00,Industrials,small_mid_cap,source_packets/evt_0062.json,canonical_evidence_banks/evt_0062.json,63,0,64,true
+evt_0063,GATX,GATX CORP,2026-02-19,2026-02-19T03:31:05-05:00,Industrials,small_mid_cap,source_packets/evt_0063.json,canonical_evidence_banks/evt_0063.json,76,0,77,true
+evt_0064,CXM,"Sprinklr, Inc.",2026-03-11,2026-03-11T03:15:04-04:00,Information Technology,small_mid_cap,source_packets/evt_0064.json,canonical_evidence_banks/evt_0064.json,48,0,49,true
+evt_0065,ASAN,"Asana, Inc.",2026-03-02,2026-03-02T16:11:37-05:00,Information Technology,small_mid_cap,source_packets/evt_0065.json,canonical_evidence_banks/evt_0065.json,58,0,59,true
+evt_0066,YELP,YELP INC,2026-02-12,2026-02-12T16:09:51-05:00,Communication Services,small_mid_cap,source_packets/evt_0066.json,canonical_evidence_banks/evt_0066.json,50,7,58,true
+evt_0067,KSS,KOHLS Corp,2026-03-10,2026-03-10T07:00:20-04:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0067.json,canonical_evidence_banks/evt_0067.json,41,0,42,true
+evt_0068,GCO,GENESCO INC,2026-03-06,2026-03-06T07:09:05-05:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0068.json,canonical_evidence_banks/evt_0068.json,74,0,75,true
+evt_0069,AEO,AMERICAN EAGLE OUTFITTERS INC,2026-03-04,2026-03-04T16:20:45-05:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0069.json,canonical_evidence_banks/evt_0069.json,51,0,52,true
+evt_0070,ANF,ABERCROMBIE & FITCH CO /DE/,2026-03-04,2026-03-04T07:34:21-05:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0070.json,canonical_evidence_banks/evt_0070.json,78,0,79,true
+evt_0071,CALM,CAL-MAINE FOODS INC,2026-04-01,2026-04-01T06:09:25-04:00,Consumer Staples,small_mid_cap,source_packets/evt_0071.json,canonical_evidence_banks/evt_0071.json,6,9,16,true
+evt_0072,MGPI,MGP INGREDIENTS INC,2026-02-25,2026-02-25T07:30:57-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0072.json,canonical_evidence_banks/evt_0072.json,74,0,75,true
+evt_0073,IPAR,INTERPARFUMS INC,2026-02-24,2026-02-24T17:22:47-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0073.json,canonical_evidence_banks/evt_0073.json,33,0,34,true
+evt_0074,HAIN,HAIN CELESTIAL GROUP INC,2026-02-09,2026-02-09T07:06:47-05:00,Consumer Staples,small_mid_cap,source_packets/evt_0074.json,canonical_evidence_banks/evt_0074.json,64,8,73,true
+evt_0075,MMSI,MERIT MEDICAL SYSTEMS INC,2026-02-24,2026-02-24T16:14:23-05:00,Health Care,small_mid_cap,source_packets/evt_0075.json,canonical_evidence_banks/evt_0075.json,78,0,79,true
+evt_0076,OMCL,"OMNICELL, INC.",2026-02-05,2026-02-05T06:32:35-05:00,Health Care,small_mid_cap,source_packets/evt_0076.json,canonical_evidence_banks/evt_0076.json,60,0,61,true
+evt_0077,HAE,HAEMONETICS CORP,2026-02-05,2026-02-05T01:03:40-05:00,Health Care,small_mid_cap,source_packets/evt_0077.json,canonical_evidence_banks/evt_0077.json,36,9,46,true
+evt_0078,AIR,AAR CORP,2026-03-24,2026-03-24T16:36:53-04:00,Industrials,small_mid_cap,source_packets/evt_0078.json,canonical_evidence_banks/evt_0078.json,45,0,46,true
+evt_0079,HUBG,"Hub Group, Inc.",2026-02-05,2026-02-05T16:11:07-05:00,Industrials,small_mid_cap,source_packets/evt_0079.json,canonical_evidence_banks/evt_0079.json,17,0,18,true
+evt_0080,BOX,BOX INC,2026-03-03,2026-03-03T16:07:28-05:00,Information Technology,small_mid_cap,source_packets/evt_0080.json,canonical_evidence_banks/evt_0080.json,91,0,92,true
+evt_0081,ACLS,AXCELIS TECHNOLOGIES INC,2026-02-17,2026-02-17T16:06:16-05:00,Information Technology,small_mid_cap,source_packets/evt_0081.json,canonical_evidence_banks/evt_0081.json,29,0,30,true
+evt_0082,APPF,APPFOLIO INC,2026-01-29,2026-01-29T16:05:48-05:00,Information Technology,small_mid_cap,source_packets/evt_0082.json,canonical_evidence_banks/evt_0082.json,34,0,35,true
+evt_0083,NXST,"NEXSTAR MEDIA GROUP, INC.",2026-02-26,2026-02-26T07:08:53-05:00,Communication Services,small_mid_cap,source_packets/evt_0083.json,canonical_evidence_banks/evt_0083.json,49,0,50,true
+evt_0084,NYT,NEW YORK TIMES CO,2026-02-04,2026-02-04T07:01:38-05:00,Communication Services,small_mid_cap,source_packets/evt_0084.json,canonical_evidence_banks/evt_0084.json,98,7,106,true
+evt_0085,CAL,CALERES INC,2026-03-19,2026-03-19T08:49:27-04:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0085.json,canonical_evidence_banks/evt_0085.json,67,0,68,true
+evt_0086,M,"Macy's, Inc.",2026-03-18,2026-03-18T07:06:04-04:00,Consumer Discretionary,small_mid_cap,source_packets/evt_0086.json,canonical_evidence_banks/evt_0086.json,86,0,87,true
+evt_0087,CHE,CHEMED CORP,2026-02-25,2026-02-25T16:30:37-05:00,Health Care,small_mid_cap,source_packets/evt_0087.json,canonical_evidence_banks/evt_0087.json,59,0,60,true
+evt_0088,INSP,"Inspire Medical Systems, Inc.",2026-01-12,2026-01-12T17:04:28-05:00,Health Care,small_mid_cap,source_packets/evt_0088.json,canonical_evidence_banks/evt_0088.json,17,0,18,true
+evt_0089,FELE,FRANKLIN ELECTRIC CO INC,2026-02-17,2026-02-17T08:00:14-05:00,Industrials,small_mid_cap,source_packets/evt_0089.json,canonical_evidence_banks/evt_0089.json,34,0,35,true
+evt_0090,FLS,FLOWSERVE CORP,2026-02-05,2026-02-05T16:06:46-05:00,Industrials,small_mid_cap,source_packets/evt_0090.json,canonical_evidence_banks/evt_0090.json,75,0,76,true
+evt_0091,AIT,APPLIED INDUSTRIAL TECHNOLOGIES INC,2026-01-27,2026-01-27T04:19:17-05:00,Industrials,small_mid_cap,source_packets/evt_0091.json,canonical_evidence_banks/evt_0091.json,28,8,37,true
+evt_0092,APPN,APPIAN CORP,2026-02-19,2026-02-19T07:31:59-05:00,Information Technology,small_mid_cap,source_packets/evt_0092.json,canonical_evidence_banks/evt_0092.json,49,0,50,true
+evt_0093,BLKB,BLACKBAUD INC,2026-02-10,2026-02-10T07:09:31-05:00,Information Technology,small_mid_cap,source_packets/evt_0093.json,canonical_evidence_banks/evt_0093.json,76,0,77,true
+evt_0094,CALX,"CALIX, INC",2026-01-28,2026-01-28T16:18:28-05:00,Information Technology,small_mid_cap,source_packets/evt_0094.json,canonical_evidence_banks/evt_0094.json,1,0,2,true
