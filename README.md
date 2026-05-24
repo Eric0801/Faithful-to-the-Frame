@@ -4,7 +4,7 @@ This repository accompanies the paper **"Faithful to the Frame:
 Source-Framing Propagation in LLM-Agent Decision Workflows."**
 
 It contains the data artifacts, treatment definitions, result tables, and
-reproducibility metadata used to study source-framing propagation in
+reproducibility metadata/code references used to study source-framing propagation in
 LLM-agent decision workflows. The project introduces an evidence-to-action
 propagation (E2A) evaluation: given public earnings-event source material, it
 traces how different evidence representations affect what LLM receivers cite,
@@ -159,6 +159,12 @@ groups.
 ```text
 release/
   README.md
+  code/
+    README.md
+    code_manifest.csv
+    scripts/
+      treatments.py
+      metrics.py
   results/
     result_table_manifest.csv
     main/
@@ -170,8 +176,12 @@ release/
     human_audit/
 ```
 
-`results/result_table_manifest.csv` lists every released table, its original
-source path, row count, SHA-256 checksum, table role, and paper-claim mapping.
+`results/result_table_manifest.csv` lists every released table, row count,
+SHA-256 checksum, table role, and paper-claim mapping.
+
+`code/` contains a compact public reference implementation for treatment
+rendering and metric computation. It intentionally excludes provider batch
+submission, repair, rescue, local cache, and one-off operational scripts.
 
 ## Results By Paper Claim
 

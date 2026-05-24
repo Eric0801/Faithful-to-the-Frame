@@ -1,0 +1,4 @@
+path,role,description
+README.md,code_map,Explains the cleaned public code reference and its boundary relative to operational scripts.
+scripts/treatments.py,treatment_reference,Reference implementation for T1/T2/T3/T4/B0 treatment rendering and prompt-job construction.
+scripts/metrics.py,metric_reference,Reference implementation for event-level E2A metric computation and treatment contrasts.
