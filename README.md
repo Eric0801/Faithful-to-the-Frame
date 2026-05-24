@@ -35,39 +35,23 @@ The core pipeline is:
 
 ```mermaid
 flowchart TD
-    subgraph Data["**Step 1. Dataset Construction**"]
-        A["**Public earnings-event sources**<br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"] --> B["**Main-sample screening**<br/>94 post-cutoff events, 47 large-cap / 47 small-mid"]
-    end
+    A["**Step 1. Dataset Construction**<br/>Public earnings-event sources:<br/>Form 8-K, Exhibit 99.1, XBRL companyfacts"] --> B["**Main-sample screening**<br/>94 post-cutoff events:<br/>47 large-cap / 47 small-mid"]
+    A --> HC["**Step 2. Calibration**<br/>November-December 2025 calibration set:<br/>12 events, 6 large / 6 small-mid"]
+    HC --> HD["**Pipeline validation**<br/>profile separability, parsing, provider, metrics"]
+    B --> G["**Step 3. Main-Sample Construction and Blindness**<br/>calibration set excluded from primary estimates"]
+    HD --> G
+    G --> C["**Source packets**<br/>entity-visible, outcome-blind event-time evidence"]
+    C --> D["**Canonical evidence banks**<br/>claims, categories, values, attribution, source IDs"]
+    D --> LS["**Leakage controls**<br/>source-ID validation, bank consistency,<br/>outcome-blindness audits, model-family memory probes"]
 
-    subgraph Cal["**Step 2. Calibration**"]
-        A --> HC["**November-December 2025 calibration set**<br/>12 events, 6 large / 6 small-mid"]
-        HC --> HD["**Pipeline validation**<br/>profile separability, parsing, provider, metrics"]
-    end
-
-    subgraph MainBuild["**Step 3. Main-Sample Construction and Blindness**"]
-        HD --> G["**Proceed to main sample**<br/>calibration set excluded from primary estimates"]
-        B --> G
-        G --> C["**Source packets**<br/>entity-visible, outcome-blind event-time evidence"]
-        C --> D["**Canonical evidence banks**<br/>claims, categories, values, attribution, source IDs"]
-        D --> LS["**Leakage controls**<br/>source-ID validation, bank consistency, outcome-blindness audits, model-family memory probes"]
-    end
-
-    subgraph Main["**Step 4. Treatment Construction**"]
-        LS --> T1["**T1 raw disclosure**<br/>source-elicited baseline before synthesis"]
-        LS --> U["**Upstream LLM summaries**<br/>neutral analyst framing"]
-        U --> T2["**T2 shared summary**<br/>one summary per event"]
-        U --> T3["**T3 independent summaries**<br/>six role-conditioned summaries per event"]
-        LS --> T4["**T4 structured evidence ledger**<br/>no-synthesis format anchor"]
-    end
-
-    subgraph Follow["**Step 5. Follow-Up Conditions**"]
-        LS --> B0["**B0 canonical evidence-only**<br/>source-faithful no-synthesis baseline"]
-    end
-
-    subgraph Robust["**Step 6. Robustness Variant**"]
-        LS --> US["**Upstream LLM summaries**<br/>no neutral-analyst framing"]
-        US --> S["**T2\* / T3\***<br/>upstream-summary robustness variant"]
-    end
+    LS --> T1["**Step 4. T1 raw disclosure**<br/>source-elicited baseline before synthesis"]
+    LS --> U["**Step 4. Upstream LLM summaries**<br/>neutral analyst framing"]
+    U --> T2["**T2 shared summary**<br/>one summary per event"]
+    U --> T3["**T3 independent summaries**<br/>six role-conditioned summaries per event"]
+    LS --> T4["**Step 4. T4 structured evidence ledger**<br/>no-synthesis format anchor"]
+    LS --> B0["**Step 5. B0 canonical evidence-only**<br/>source-faithful no-synthesis baseline"]
+    LS --> US["**Step 6. Robustness variant**<br/>upstream summaries without neutral-analyst framing"]
+    US --> S["**T2\* / T3\***<br/>upstream-summary robustness variant"]
 
     T1 --> R["**Step 7. Shared downstream stage**<br/>same role-conditioned receivers and decision schema"]
     T2 --> R
@@ -76,14 +60,9 @@ flowchart TD
     B0 --> R
     S --> R
 
-    subgraph Readout["**Step 8. Evaluation Readout**"]
-        direction LR
-        H["**Hidden outcomes**<br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M["**Metric computation**<br/>evidence, rationale, belief, action, quality"]
-        V["**Validation and human audit**<br/>schema, source IDs, evidence and representation checks"]
-    end
-
-    R --> M
-    R --> V
+    R --> M["**Step 8. Metric computation**<br/>evidence, rationale, belief, action, quality"]
+    H["**Hidden outcomes**<br/>CAR_1_5 evaluation only"] -. "evaluation join only" .-> M
+    R --> V["**Validation and human audit**<br/>schema, source IDs, evidence and representation checks"]
     M --> O["**Curated result tables**<br/>release/results/"]
     V --> O
 
