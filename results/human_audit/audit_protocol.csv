@@ -1,0 +1,7 @@
+audit,section,description
+canonical_evidence_audit,scope,"Human-completed audit of canonical evidence alignment, numeric fidelity, claim fidelity, quote fidelity, category fit, support-label fit, and post-event leakage."
+canonical_evidence_audit,released_detail,Curated release includes aggregate counts only; full row-level audit sheet is retained locally for post-review archival release.
+downstream_claim_grounding_audit,scope,"Second-pass adjudication of free-form downstream rationale claims for source grounding, unsupported factual claims, and post-event leakage."
+downstream_claim_grounding_audit,labels,"Primary hallucination labels are no_hallucination, minor_unsupported_detail, material_unsupported_claim, and post_event_leakage."
+downstream_claim_grounding_audit,released_detail,Curated release includes aggregate summary and the material-unsupported/post-event-leakage subset; full row-level adjudication sheet is retained locally.
+all_human_audits,inter_annotator_reliability,No Cohen's kappa or inter-annotator agreement is claimed in this release.

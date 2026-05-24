@@ -1,0 +1,6 @@
+metric,t2,t3_mean,t3_union,readout
+Source coverage vs raw,0.4014457880096313,0.40051895253940095,0.5034185922881133,single summaries are similarly source-compressive; T3 pool spans more sources
+Evidence-category coverage vs raw,0.8187120060790274,0.8133767624957784,0.8828235815602837,category coverage is high relative to source coverage
+T3 source-path diversity,,,0.2132448274832787,independent summaries choose different source paths
+T3 category-path diversity,,,0.0766055597771023,category paths vary less than source paths
+Single-summary source coverage check,,-0.0009268354702303205,,near-zero check; not a treatment contrast
