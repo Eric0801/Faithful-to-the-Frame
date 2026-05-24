@@ -34,6 +34,22 @@
     ],
     "description": "Minimum validated downstream decision-row contract consumed by code/scripts/metrics.py."
   },
+  "downstream_request_minimum": {
+    "required_columns": [
+      "request_key",
+      "event_id",
+      "treatment",
+      "treatment_family",
+      "upstream_model_family",
+      "profile",
+      "profile_group",
+      "model_family",
+      "representation_seed",
+      "decision_seed",
+      "prompt"
+    ],
+    "description": "Minimum downstream receiver request contract emitted by code/scripts/downstream_decisions.py."
+  },
   "hidden_outcomes_minimum": {
     "required_columns": [
       "event_id",
@@ -88,7 +104,6 @@
       "payload_path",
       "local_path",
       "internal_path",
-      "source_path",
       "provider_output_path"
     ]
   }

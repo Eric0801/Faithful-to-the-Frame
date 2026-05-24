@@ -152,9 +152,9 @@ release/
     examples/
     scripts/
       build_result_manifest.py
+      downstream_decisions.py
       treatments.py
       metrics.py
-      validate_release.py
   results/
     result_table_manifest.csv
     main/
@@ -170,16 +170,10 @@ release/
 SHA-256 checksum, table role, and paper-claim mapping.
 
 `code/` contains a compact public reproducibility layer for treatment
-rendering, metric computation, result-manifest checking, release validation,
-schema reference, and smoke-test fixtures. It intentionally excludes provider
-batch submission, repair, rescue, local cache, and one-off operational scripts.
-
-To validate the public artifact surface from the release root:
-
-```bash
-python3 code/scripts/validate_release.py --release-root .
-python3 code/scripts/build_result_manifest.py --results-root results --check
-```
+rendering, downstream decision-request construction, decision-output
+normalization, metric computation, result-manifest checking, schema reference,
+and smoke-test fixtures. It intentionally excludes provider batch submission,
+repair, rescue, local cache, and one-off operational scripts.
 
 ## Results By Paper Claim
 
