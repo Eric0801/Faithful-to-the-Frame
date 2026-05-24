@@ -147,9 +147,14 @@ release/
   code/
     README.md
     code_manifest.csv
+    schemas/
+      release_schema.json
+    examples/
     scripts/
+      build_result_manifest.py
       treatments.py
       metrics.py
+      validate_release.py
   results/
     result_table_manifest.csv
     main/
@@ -164,9 +169,17 @@ release/
 `results/result_table_manifest.csv` lists every released table, row count,
 SHA-256 checksum, table role, and paper-claim mapping.
 
-`code/` contains a compact public reference implementation for treatment
-rendering and metric computation. It intentionally excludes provider batch
-submission, repair, rescue, local cache, and one-off operational scripts.
+`code/` contains a compact public reproducibility layer for treatment
+rendering, metric computation, result-manifest checking, release validation,
+schema reference, and smoke-test fixtures. It intentionally excludes provider
+batch submission, repair, rescue, local cache, and one-off operational scripts.
+
+To validate the public artifact surface from the release root:
+
+```bash
+python3 code/scripts/validate_release.py --release-root .
+python3 code/scripts/build_result_manifest.py --results-root results --check
+```
 
 ## Results By Paper Claim
 

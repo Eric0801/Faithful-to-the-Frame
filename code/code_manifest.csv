@@ -2,3 +2,10 @@ path,role,description
 README.md,code_map,Explains the cleaned public code reference and its boundary relative to operational scripts.
 scripts/treatments.py,treatment_reference,Reference implementation for T1/T2/T3/T4/B0 treatment rendering and prompt-job construction.
 scripts/metrics.py,metric_reference,Reference implementation for event-level E2A metric computation and treatment contrasts.
+scripts/build_result_manifest.py,manifest_reference,Recomputes released-table row counts and SHA-256 checksums from the public results directory.
+scripts/validate_release.py,release_validation,Validates manifest consistency, non-empty released CSVs, public schema presence, and absence of internal path or reviewer columns.
+schemas/release_schema.json,schema_reference,Compact field contracts for release manifests, metric inputs, source packets, evidence banks, and hidden-outcome joins.
+examples/source_packets/evt_demo.json,smoke_fixture,Minimal source packet for exercising deterministic treatment rendering.
+examples/evidence_banks/evt_demo.json,smoke_fixture,Minimal canonical evidence bank for exercising T2/T3 prompt construction and T4/B0 rendering.
+examples/decision_rows.csv,smoke_fixture,Minimal validated downstream decision rows for exercising E2A metric computation.
+examples/evaluation_outcomes_demo.csv,smoke_fixture,Evaluation-only demo outcome fixture used by the metric smoke test.

@@ -1,0 +1,95 @@
+{
+  "release_manifest": {
+    "path": "results/result_table_manifest.csv",
+    "required_columns": [
+      "release_group",
+      "release_path",
+      "role",
+      "artifact_use",
+      "paper_mapping",
+      "row_count_excluding_header",
+      "sha256"
+    ],
+    "description": "Manifest for every released result CSV, including row counts, SHA-256 hashes, and paper-claim mapping."
+  },
+  "decision_rows_minimum": {
+    "required_for_metrics": [
+      "event_id",
+      "treatment_family",
+      "expected_return_5d",
+      "confidence",
+      "action",
+      "evidence_used",
+      "evidence_categories"
+    ],
+    "optional_for_metrics": [
+      "rationale",
+      "reasoning",
+      "key_reasons"
+    ],
+    "allowed_actions": [
+      "buy",
+      "hold",
+      "sell"
+    ],
+    "description": "Minimum validated downstream decision-row contract consumed by code/scripts/metrics.py."
+  },
+  "hidden_outcomes_minimum": {
+    "required_columns": [
+      "event_id",
+      "CAR_1_5"
+    ],
+    "description": "Evaluation-only outcome contract. These fields are joined only inside metric computation."
+  },
+  "source_packet_minimum": {
+    "required_fields": [
+      "event_id"
+    ],
+    "optional_fields_used_by_renderer": [
+      "company_name",
+      "ticker",
+      "event_date",
+      "sector",
+      "market_cap_group",
+      "fiscal_period",
+      "source_units",
+      "xbrl_facts",
+      "pre_event_price_context"
+    ],
+    "description": "Minimum event-time public source-packet contract consumed by code/scripts/treatments.py for T1 rendering."
+  },
+  "canonical_evidence_bank_minimum": {
+    "required_fields": [
+      "event_id",
+      "evidence_units"
+    ],
+    "evidence_unit_fields": [
+      "evidence_id",
+      "category",
+      "claim",
+      "value",
+      "source_ids",
+      "source_quote",
+      "support_label"
+    ],
+    "description": "Minimum canonical evidence-bank contract consumed by code/scripts/treatments.py for T2/T3 prompt jobs, T4 ledgers, and B0 renderings."
+  },
+  "public_release_constraints": {
+    "model_facing_inputs_exclude": [
+      "CAR_1_5",
+      "post-event price reactions",
+      "ex post quality labels",
+      "evaluation-only joins"
+    ],
+    "public_csvs_exclude_internal_columns_containing": [
+      "reviewer",
+      "annotator",
+      "audit_path",
+      "payload_path",
+      "local_path",
+      "internal_path",
+      "source_path",
+      "provider_output_path"
+    ]
+  }
+}

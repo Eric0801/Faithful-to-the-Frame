@@ -1,0 +1,32 @@
+{
+  "event_date": "2026-01-15",
+  "event_id": "evt_demo",
+  "market_cap_group": "large_cap",
+  "pre_event_price_context": {
+    "market_ret_20d": 0.01,
+    "ret_20d": 0.04,
+    "ret_5d": 0.01
+  },
+  "sector": "technology",
+  "source_units": [
+    {
+      "section": "earnings_release",
+      "source_id": "S001",
+      "text": "The company reported revenue growth and higher operating income for the quarter."
+    },
+    {
+      "section": "guidance",
+      "source_id": "S002",
+      "text": "Management stated that demand remained solid but noted cost pressure."
+    }
+  ],
+  "ticker": "DEMO",
+  "xbrl_facts": [
+    {
+      "source_id": "X001",
+      "tag": "Revenues",
+      "unit": "USD",
+      "value": 1200000000
+    }
+  ]
+}

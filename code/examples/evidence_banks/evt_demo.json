@@ -1,0 +1,33 @@
+{
+  "company_name": "Demo Company",
+  "event_date": "2026-01-15",
+  "event_id": "evt_demo",
+  "evidence_units": [
+    {
+      "category": "revenue",
+      "claim": "Revenue increased in the reported quarter.",
+      "evidence_id": "E001",
+      "source_ids": [
+        "S001",
+        "X001"
+      ],
+      "source_quote": "reported revenue growth",
+      "support_label": "supported",
+      "value": "revenue growth"
+    },
+    {
+      "category": "costs_or_expenses",
+      "claim": "Management noted cost pressure.",
+      "evidence_id": "E002",
+      "source_ids": [
+        "S002"
+      ],
+      "source_quote": "noted cost pressure",
+      "support_label": "supported",
+      "value": "cost pressure"
+    }
+  ],
+  "market_cap_group": "large_cap",
+  "sector": "technology",
+  "ticker": "DEMO"
+}

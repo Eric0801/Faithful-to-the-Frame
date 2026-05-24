@@ -1,0 +1,7 @@
+event_id,treatment_family,expected_return_5d,confidence,action,evidence_used,evidence_categories,rationale
+evt_demo,T1,0.010,0.60,buy,"[""S001"",""X001""]","[""revenue""]","Revenue growth supports a mildly positive view."
+evt_demo,T1,0.004,0.55,hold,"[""S001"",""S002""]","[""revenue"",""costs_or_expenses""]","Revenue is positive, but cost pressure limits conviction."
+evt_demo,T2,0.012,0.66,buy,"[""S001"",""X001""]","[""revenue""]","The summarized evidence emphasizes revenue growth."
+evt_demo,T2,0.006,0.58,hold,"[""S001"",""S002""]","[""revenue"",""costs_or_expenses""]","Growth is visible, while cost pressure remains a caveat."
+evt_demo,T3,0.015,0.70,buy,"[""S001"",""X001""]","[""revenue""]","This role weights revenue growth more strongly."
+evt_demo,T3,-0.002,0.57,hold,"[""S002""]","[""costs_or_expenses""]","This role focuses on cost pressure and keeps a cautious stance."
