@@ -234,7 +234,7 @@ count, checksum, role, and paper-claim mapping.
 | Model-cell breakdown | `results/main/stage2_by_model_cell_full.csv` |
 | T4 structured-ledger mechanism condition | `results/t4_followup/t4_full_treatment_means.csv`; `results/t4_followup/t4_full_event_bootstrap_contrasts.csv`; `results/t4_followup/quality_by_treatment_with_t4.csv` |
 | B0 canonical-evidence follow-up | `results/b0_followup/b0_treatment_contrasts_20260510.csv`; `results/b0_followup/b0_downstream_treatment_means_20260510.csv`; `results/b0_followup/b0_by_receiver_model_20260510.csv` |
-| T2*/T3* prompt-sensitivity robustness | `results/prompt_sensitivity/treatment_means_t2star_t3star.csv`; `results/prompt_sensitivity/t2_t3_prompt_style_side_by_side.csv`; `results/prompt_sensitivity/action_distribution_no_style_minus_neutral_deltas.csv` |
+| T2*/T3* prompt-sensitivity robustness | `results/prompt_sensitivity/treatment_means_t2star_t3star.csv`; `results/prompt_sensitivity/t2_t3_neutral_ablation_side_by_side.csv`; `results/prompt_sensitivity/action_distribution_no_neutral_minus_neutral_deltas.csv` |
 | Appendix diagnostics | `results/appendix_diagnostics/belief_mad_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/category_diversity_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/profile_separability_formal_event_bootstrap.csv`; `results/appendix_diagnostics/reasoning_contrasts.csv` |
 | Human audit | `results/human_audit/audit_protocol.csv`; `results/human_audit/canonical_evidence_audit_sheet.csv`; `results/human_audit/cross_treatment_representation_audit_sheet.csv` |
 | 2025 calibration | `results/calibration/calibration_2025_selection_summary.csv`; `results/calibration/calibration_2025_selected_events.csv`; `results/calibration/calibration_2025_provider_metric_summary.csv`; `results/calibration/calibration_2025_profile_stochasticity_summary.csv` |
@@ -310,8 +310,7 @@ Key files:
 - `calibration_2025_provider_metric_summary.csv`
 - `calibration_2025_profile_stochasticity_summary.csv`
 
-The 2025 near-cutoff calibration set, originally referred to in some
-internal files as a holdout set, contains 12 events from 2025-11-01 to
+The 2025 near-cutoff calibration set contains 12 events from 2025-11-01 to
 2025-12-31, balanced 6 large-cap / 6 small-mid-cap. Following the paper, it is
 used for pipeline validation and profile-separability checks. It is not part of
 the 94-event 2026+ main sample and is excluded from all primary estimates.
@@ -387,8 +386,8 @@ results/prompt_sensitivity/
 Key tables:
 
 - `treatment_means_t2star_t3star.csv`
-- `t2_t3_prompt_style_side_by_side.csv`
-- `action_distribution_no_style_minus_neutral_deltas.csv`
+- `t2_t3_neutral_ablation_side_by_side.csv`
+- `action_distribution_no_neutral_minus_neutral_deltas.csv`
 
 T2*/T3* are upstream-summary variants that remove the neutral-analyst framing
 from T2/T3. The intervention happens at the upstream summary generation stage,
