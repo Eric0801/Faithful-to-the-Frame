@@ -2,7 +2,7 @@
 
 This directory contains the cleaned public execution path for the paper
 artifact. The scripts are lightly organized copies of the project pipeline, not
-a toy reimplementation. Provider batch submission, repair/rescue folders, local
+a toy reimplementation. Provider batch submission, retry/status folders, local
 caches, and one-off operational scripts are excluded.
 
 ## Setup
@@ -71,8 +71,8 @@ model families, and `limits` in the config before launching.
   against the expected schema.
 - `compute_diversity_metrics.py`: computes E2A event-level metrics, treatment
   contrasts, and optional quality readouts with evaluation-only CAR labels.
-- `canonicalize_decision_outputs.py`: deterministic alias repair utility for
-  provider output fields when needed.
+- `canonicalize_decision_outputs.py`: deterministic alias normalization utility
+  for provider output fields when needed.
 
 ## Inputs And Outputs
 

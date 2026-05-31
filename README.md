@@ -10,11 +10,11 @@ propagation (E2A) evaluation: given public earnings-event source material, it
 traces how different evidence representations affect what LLM receivers cite,
 reason from, believe, and decide.
 
-The full operational workspace contains provider runs, repair attempts, batch
-status directories, local caches, and intermediate scratch files. Those are not
-part of this artifact. This repository provides the clean reproducibility
-surface: model-facing inputs, evaluation-only labels, runnable pipeline code,
-curated result tables, and the audit subset used by the paper.
+The full operational workspace contains raw provider outputs, batch status
+logs, local caches, and intermediate operational files. Those are not part of
+this artifact. This repository provides the clean reproducibility surface:
+model-facing inputs, evaluation-only labels, runnable pipeline code, curated
+result tables, and the audit subset used by the paper.
 
 ## What This Repository Contains
 
@@ -41,7 +41,7 @@ flowchart LR
         direction TB
         PACKETS["Source packets<br/>entity-visible event-time evidence"]
         BANKS["Canonical evidence banks<br/>claims, categories, values, attribution, source IDs"]
-        LEAKAGE["Leakage controls<br/>source IDs, bank consistency, outcome blindness, memory probes"]
+        LEAKAGE["Leakage controls<br/>source IDs, bank consistency, outcome blindness, leakage sanity checks"]
     end
 
     subgraph T["Representation regimes"]
@@ -157,7 +157,7 @@ construction from downstream decision counts.
 | T3* | 564 upstream summaries with neutral-analyst framing removed; 6 role-conditioned summaries per event | 9,024 | same downstream design as T3 | Robustness: neutral-analyst ablation |
 
 The T1/T2/T3/T4 downstream counts are reported in
-`results/t4_followup/quality_by_treatment_with_t4.csv`. B0 and T2*/T3* use the
+`results/t4_mechanism/quality_by_treatment_with_t4.csv`. B0 and T2*/T3* use the
 same downstream stage and are summarized in their corresponding result-table
 groups.
 
@@ -204,7 +204,7 @@ groups.
     ├── main/
     ├── calibration/
     ├── b0_followup/
-    ├── t4_followup/
+    ├── t4_mechanism/
     ├── prompt_sensitivity/
     ├── appendix_diagnostics/
     └── human_audit/
@@ -232,7 +232,7 @@ count, checksum, role, and paper-claim mapping.
 | Main quality guardrails | `results/main/stage2_quality_by_treatment_full.csv` |
 | Upstream representation compression | `results/main/stage1_summary_full.csv` |
 | Model-cell breakdown | `results/main/stage2_by_model_cell_full.csv` |
-| T4 structured-ledger mechanism condition | `results/t4_followup/t4_full_treatment_means.csv`; `results/t4_followup/t4_full_event_bootstrap_contrasts.csv`; `results/t4_followup/quality_by_treatment_with_t4.csv` |
+| T4 structured-ledger mechanism condition | `results/t4_mechanism/t4_full_treatment_means.csv`; `results/t4_mechanism/t4_full_event_bootstrap_contrasts.csv`; `results/t4_mechanism/quality_by_treatment_with_t4.csv` |
 | B0 canonical-evidence follow-up | `results/b0_followup/b0_treatment_contrasts_20260510.csv`; `results/b0_followup/b0_downstream_treatment_means_20260510.csv`; `results/b0_followup/b0_by_receiver_model_20260510.csv` |
 | T2*/T3* prompt-sensitivity robustness | `results/prompt_sensitivity/treatment_means_t2star_t3star.csv`; `results/prompt_sensitivity/t2_t3_neutral_ablation_side_by_side.csv`; `results/prompt_sensitivity/action_distribution_no_neutral_minus_neutral_deltas.csv` |
 | Appendix diagnostics | `results/appendix_diagnostics/belief_mad_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/category_diversity_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/profile_separability_formal_event_bootstrap.csv`; `results/appendix_diagnostics/reasoning_contrasts.csv` |
@@ -256,7 +256,7 @@ The trace release includes:
 - `results/traces/trace_manifest.csv`: row counts, file sizes, checksums, and
   paper-claim mappings for the trace files.
 
-Raw provider JSONL, batch status logs, repair/rebatch scratch files, local
+Raw provider JSONL, batch status logs, retry and batch-bookkeeping files, local
 caches, and operational request logs are excluded. The released traces are the
 post-validation analysis tables used to inspect decisions, cited evidence IDs,
 actions, rationales, outcome joins, and metric inputs.
@@ -290,8 +290,9 @@ python3 code/scripts/run_experiment.py \
 ```
 
 For provider-backed reruns, set an API key and edit
-`code/config.full_rerun.example.json`. Provider batch submission, repair,
-rescue, local cache, and one-off operational scripts are intentionally excluded.
+`code/config.full_rerun.example.json`. Provider batch submission, retry
+bookkeeping, local caches, and one-off operational scripts are intentionally
+excluded.
 
 ## Results By Paper Claim
 
@@ -362,7 +363,7 @@ separate effects caused by source framing from effects caused by LLM synthesis.
 Location:
 
 ```text
-results/t4_followup/
+results/t4_mechanism/
 ```
 
 Key tables:
@@ -469,7 +470,7 @@ from model-facing inputs.
 The following artifact classes are deliberately not part of this artifact:
 
 - raw provider batch status directories
-- repair/rebatch/rescue scratch directories
+- retry and batch-bookkeeping directories
 - local caches
 - empty or historical error shards
 - operational logs

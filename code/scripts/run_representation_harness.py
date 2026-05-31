@@ -270,7 +270,7 @@ class OpenAICompatibleRepresentationExecutor(RepresentationExecutor):
         rendered_text = result.text.strip()
         if not rendered_text:
             raise TransientExecutionError("provider returned empty rendered_text")
-        rendered_text, repaired_evidence_id_count = normalize_evidence_ids_to_source_ids(
+        rendered_text, normalized_evidence_id_count = normalize_evidence_ids_to_source_ids(
             request.job,
             rendered_text,
         )
@@ -281,7 +281,7 @@ class OpenAICompatibleRepresentationExecutor(RepresentationExecutor):
             "api_response_model": result.response_model,
             "api_usage": result.usage,
             "api_attempt_number": attempt_number,
-            "repaired_evidence_id_count": repaired_evidence_id_count,
+            "normalized_evidence_id_count": normalized_evidence_id_count,
         }
         return ExecutionResult(rendered_text=rendered_text, metadata=metadata)
 

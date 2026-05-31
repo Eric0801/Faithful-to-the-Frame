@@ -92,5 +92,5 @@
   },
   "warnings": [],
   "load_errors_detail": [],
-  "release_note": "Analysis-level trace released for reproducibility. Raw provider JSONL, batch status logs, repair/rebatch scratch files, local caches, and operational paths are not released."
+  "release_note": "Analysis-level trace released for reproducibility. Raw provider JSONL, batch status logs, retry and batch-bookkeeping files, local caches, and operational paths are not released."
 }

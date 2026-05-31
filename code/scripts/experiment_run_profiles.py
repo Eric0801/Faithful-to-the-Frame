@@ -239,8 +239,8 @@ RUN_PROFILES: dict[str, RunProfile] = {
         event_count=94,
         description="Immediate Stage 2 T1/T2/T3 downstream decision run.",
     ),
-    "t4_followup_subset": RunProfile(
-        name="t4_followup_subset",
+    "t4_mechanism_subset": RunProfile(
+        name="t4_mechanism_subset",
         treatments=("T4_full_structured_evidence_ledger",),
         upstream_model_families=("deterministic_full_ledger",),
         downstream_model_families=(
@@ -253,7 +253,7 @@ RUN_PROFILES: dict[str, RunProfile] = {
         representation_seeds=(0,),
         decision_seeds=(1,),
         event_count=None,
-        description="Targeted T4 mechanism follow-up; pass event_count for counts.",
+        description="Targeted T4 mechanism run; pass event_count for counts.",
     ),
     "b0_canonical_baseline": RunProfile(
         name="b0_canonical_baseline",

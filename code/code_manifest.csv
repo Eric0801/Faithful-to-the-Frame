@@ -14,7 +14,7 @@ scripts/validate_decision_outputs.py,validation,Original downstream decision-out
 scripts/compute_diversity_metrics.py,metrics,Original E2A diversity/quality metric computation script.
 scripts/experiment_run_profiles.py,config_support,Shared profile and run-profile definitions used by downstream request construction.
 scripts/harness_openai_compat.py,provider_support,OpenAI-compatible HTTP client used by upstream and downstream harnesses.
-scripts/canonicalize_decision_outputs.py,repair_support,Deterministic alias repair utility for provider output fields.
+scripts/canonicalize_decision_outputs.py,normalization_support,Deterministic alias normalization utility for provider output fields.
 examples/source_packets/evt_demo.json,smoke_fixture,Minimal source packet fixture retained for small debugging runs.
 examples/evidence_banks/evt_demo.json,smoke_fixture,Minimal evidence-bank fixture retained for small debugging runs.
 examples/provider_outputs_demo.jsonl,smoke_fixture,Minimal provider-output fixture retained for normalization debugging.

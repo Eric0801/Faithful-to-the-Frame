@@ -27,7 +27,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
             "Rewrite decision-output JSONL fields using explicit alias maps. "
-            "This is intended for deterministic provider-alias repair, not "
+            "This is intended for deterministic provider-alias normalization, not "
             "free-form output cleanup."
         )
     )
@@ -36,7 +36,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--summary",
         required=True,
-        help="Repair summary JSON path.",
+        help="Normalization summary JSON path.",
     )
     parser.add_argument(
         "--model-family-alias",
@@ -114,22 +114,22 @@ def canonicalize_record(
     model_family_aliases: dict[str, str],
 ) -> tuple[dict[str, Any], dict[str, str]]:
     output = dict(record)
-    repairs: dict[str, str] = {}
+    normalizations: dict[str, str] = {}
 
     model_family = output.get("model_family")
     if isinstance(model_family, str):
         canonical_model_family = model_family_aliases.get(model_family)
         if canonical_model_family is not None:
             output["model_family"] = canonical_model_family
-            repairs["model_family"] = f"{model_family} -> {canonical_model_family}"
+            normalizations["model_family"] = f"{model_family} -> {canonical_model_family}"
 
     request_key = build_request_key(output)
     if request_key is not None and output.get("request_key") != request_key:
         previous = output.get("request_key")
         output["request_key"] = request_key
-        repairs["request_key"] = f"{previous} -> {request_key}"
+        normalizations["request_key"] = f"{previous} -> {request_key}"
 
-    return output, repairs
+    return output, normalizations
 
 
 def write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
@@ -160,27 +160,27 @@ def main() -> int:
         print(f"error: {exc}", file=sys.stderr)
         return 1
 
-    repaired_rows: list[dict[str, Any]] = []
-    repair_counts: Counter[str] = Counter()
-    repair_examples: list[dict[str, Any]] = []
+    normalized_rows: list[dict[str, Any]] = []
+    normalization_counts: Counter[str] = Counter()
+    normalization_examples: list[dict[str, Any]] = []
     for line_number, record in rows:
-        repaired, repairs = canonicalize_record(
+        normalized, normalizations = canonicalize_record(
             record,
             model_family_aliases=model_family_aliases,
         )
-        repaired_rows.append(repaired)
-        for field in repairs:
-            repair_counts[field] += 1
-        if repairs and len(repair_examples) < 20:
-            repair_examples.append(
+        normalized_rows.append(normalized)
+        for field in normalizations:
+            normalization_counts[field] += 1
+        if normalizations and len(normalization_examples) < 20:
+            normalization_examples.append(
                 {
                     "line_number": line_number,
                     "event_id": record.get("event_id"),
-                    "repairs": repairs,
+                    "normalizations": normalizations,
                 }
             )
 
-    write_jsonl(output_path, repaired_rows)
+    write_jsonl(output_path, normalized_rows)
     write_summary(
         summary_path,
         {
@@ -190,15 +190,15 @@ def main() -> int:
             "summary_path": str(summary_path),
             "total_rows_loaded": len(rows),
             "load_errors": load_errors,
-            "rows_written": len(repaired_rows),
+            "rows_written": len(normalized_rows),
             "model_family_aliases": model_family_aliases,
-            "repair_counts": dict(repair_counts),
-            "repair_examples": repair_examples,
+            "normalization_counts": dict(normalization_counts),
+            "normalization_examples": normalization_examples,
         },
     )
     print(
-        f"wrote {len(repaired_rows)} rows to {output_path} "
-        f"with repairs={dict(repair_counts)}"
+        f"wrote {len(normalized_rows)} rows to {output_path} "
+        f"with normalizations={dict(normalization_counts)}"
     )
     if load_errors:
         print(
