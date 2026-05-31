@@ -194,6 +194,10 @@ groups.
 │       └── car_1_5_outcomes.csv
 ├── manifests/
 │   └── artifact_manifest.csv
+├── prompts/
+│   ├── prompt_templates.md
+│   ├── prompt_manifest.csv
+│   └── upstream_prompt_jobs/
 └── results/
     ├── result_table_manifest.csv
     ├── traces/
@@ -256,6 +260,24 @@ Raw provider JSONL, batch status logs, repair/rebatch scratch files, local
 caches, and operational request logs are excluded. The released traces are the
 post-validation analysis tables used to inspect decisions, cited evidence IDs,
 actions, rationales, outcome joins, and metric inputs.
+
+## Prompt Artifacts
+
+`prompts/` documents the prompt surface used by the experiment:
+
+- `prompts/prompt_templates.md` records the upstream summary and downstream
+  decision prompt templates.
+- `prompts/upstream_prompt_jobs/` contains the complete upstream T2/T3 prompt
+  jobs for the main neutral-analyst run and the T2*/T3* no-neutral robustness
+  run.
+- `prompts/prompt_manifest.csv` lists prompt-job row counts, file sizes, and
+  checksums.
+
+Full downstream request JSONL bundles are not released because they are large
+operational files with substantial duplicated treatment text. They can be
+regenerated with `code/scripts/build_downstream_requests.py`; the validated
+post-response analysis rows used for metric computation are released under
+`results/traces/`.
 
 To run a credential-free capped mock execution from the release root:
 
