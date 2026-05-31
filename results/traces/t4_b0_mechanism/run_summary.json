@@ -1,0 +1,96 @@
+{
+  "generated_at_utc": "2026-05-09T18:06:21+00:00",
+  "input_path": "raw_provider_outputs_not_released",
+  "input_format": "jsonl",
+  "output_paths": {
+    "output_dir": "results/traces/t4_b0_mechanism",
+    "decision_rows_csv": "results/traces/t4_b0_mechanism/decision_rows.csv",
+    "cell_metrics_csv": "results/traces/t4_b0_mechanism/cell_metrics.csv",
+    "run_summary_json": "results/traces/t4_b0_mechanism/run_summary.json"
+  },
+  "summary": {
+    "total_input_rows": 31584,
+    "load_errors": 0,
+    "usable_decisions": 31584,
+    "decision_rows_written": 31584,
+    "cell_metric_rows_written": 15792,
+    "t2_t3_contrast_rows_written": 4512,
+    "treatment_contrast_rows_written": 372240,
+    "warnings": 0,
+    "hidden_outcomes_joined_rows": 31584,
+    "hidden_outcomes_events_loaded": 94,
+    "event_metadata_events_loaded": 94,
+    "event_metadata_joined_rows": 31584,
+    "evidence_category_rows_mapped": 31584,
+    "evidence_bank_files_scanned": 95,
+    "source_packet_files_scanned": 95
+  },
+  "inputs": {
+    "hidden_outcomes_csv": "data/evaluation_only/car_1_5_outcomes.csv",
+    "event_metadata_csv": "data/model_facing/main_94/sample_manifest.csv",
+    "evidence_banks": "data/model_facing/main_94/canonical_evidence_banks",
+    "source_packets": "data/model_facing/main_94/source_packets"
+  },
+  "metric_units": {
+    "std_expected_return_5d": "decimal_return",
+    "mean_pairwise_abs_diff_expected_return_5d": "decimal_return",
+    "iqr_expected_return_5d": "decimal_return",
+    "confidence_dispersion": "unitless",
+    "entropy_buy_hold_sell": "bits",
+    "hhi_buy_hold_sell": "unitless",
+    "action_diversity_one_minus_hhi": "unitless",
+    "absolute_net_direction": "unitless",
+    "action_direction_diversity_one_minus_abs_net_direction": "unitless",
+    "mean_pairwise_sentence_embedding_distance": "unitless",
+    "source_id_overlap": "unitless",
+    "source_id_diversity_one_minus_overlap": "unitless",
+    "evidence_category_overlap": "unitless",
+    "evidence_category_diversity_one_minus_overlap": "unitless"
+  },
+  "contrast_metric_units": {
+    "std_expected_return_5d": "decimal_return",
+    "mean_pairwise_abs_diff_expected_return_5d": "decimal_return",
+    "iqr_expected_return_5d": "decimal_return",
+    "confidence_dispersion": "unitless",
+    "entropy_buy_hold_sell": "bits",
+    "action_diversity_one_minus_hhi": "unitless",
+    "action_direction_diversity_one_minus_abs_net_direction": "unitless",
+    "mean_pairwise_sentence_embedding_distance": "unitless",
+    "source_id_diversity_one_minus_overlap": "unitless",
+    "evidence_category_diversity_one_minus_overlap": "unitless"
+  },
+  "contrast_metric_groups": {
+    "std_expected_return_5d": "belief",
+    "mean_pairwise_abs_diff_expected_return_5d": "belief",
+    "iqr_expected_return_5d": "belief",
+    "confidence_dispersion": "belief",
+    "entropy_buy_hold_sell": "action",
+    "action_diversity_one_minus_hhi": "action",
+    "action_direction_diversity_one_minus_abs_net_direction": "action",
+    "mean_pairwise_sentence_embedding_distance": "rationale",
+    "source_id_diversity_one_minus_overlap": "rationale",
+    "evidence_category_diversity_one_minus_overlap": "rationale"
+  },
+  "rationale_distance": {
+    "method": "token_char_ngram_cosine_distance_proxy",
+    "embedding_model": null,
+    "fallback_note": "When no local embedding model is supplied, the script uses cosine distance over deterministic token and character n-gram counts."
+  },
+  "assumptions": {
+    "std_definition": "population standard deviation within each event-level cell",
+    "iqr_definition": "p75 - p25 using linear interpolation on sorted values",
+    "confidence_dispersion_definition": "population standard deviation of confidence",
+    "rationale_text_definition": "all key_reasons joined into one rationale string per decision row",
+    "pairwise_metrics_rule": "pairwise metrics are null when a cell has fewer than 2 profiles",
+    "sci_near_zero_threshold": 1e-06,
+    "evidence_category_mapping_priority": [
+      "decision_record.evidence_categories",
+      "evidence_banks category mapping",
+      "source_packets section/tag fallback",
+      "null if no mapping source is available"
+    ]
+  },
+  "warnings": [],
+  "load_errors_detail": [],
+  "release_note": "Analysis-level trace released for reproducibility. Raw provider JSONL, batch status logs, repair/rebatch scratch files, local caches, and operational paths are not released."
+}

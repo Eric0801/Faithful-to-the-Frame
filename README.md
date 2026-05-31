@@ -196,6 +196,7 @@ groups.
 │   └── artifact_manifest.csv
 └── results/
     ├── result_table_manifest.csv
+    ├── traces/
     ├── main/
     ├── calibration/
     ├── b0_followup/
@@ -233,6 +234,28 @@ count, checksum, role, and paper-claim mapping.
 | Appendix diagnostics | `results/appendix_diagnostics/belief_mad_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/category_diversity_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/profile_separability_formal_event_bootstrap.csv`; `results/appendix_diagnostics/reasoning_contrasts.csv` |
 | Human audit | `results/human_audit/audit_protocol.csv`; `results/human_audit/canonical_evidence_audit_sheet.csv`; `results/human_audit/cross_treatment_representation_audit_sheet.csv` |
 | 2025 calibration | `results/calibration/calibration_2025_selection_summary.csv`; `results/calibration/calibration_2025_selected_events.csv`; `results/calibration/calibration_2025_provider_metric_summary.csv`; `results/calibration/calibration_2025_profile_stochasticity_summary.csv` |
+
+## Analysis-Level Traces
+
+`results/traces/` contains canonicalized analysis-level traces behind the
+released result tables. These files are evaluation artifacts, not model-facing
+inputs: they include joined CAR_1_5 outcomes and derived accuracy/error fields.
+
+The trace release includes:
+
+- `results/traces/main_t1_t2_t3/`: decision rows and cell metrics for the main
+  T1/T2/T3 downstream run.
+- `results/traces/t4_b0_mechanism/`: decision rows and cell metrics for T4 and
+  B0 alongside T1/T2/T3.
+- `results/traces/prompt_sensitivity_t2star_t3star/`: decision rows and cell
+  metrics for the T2*/T3* no-neutral-analyst robustness run.
+- `results/traces/trace_manifest.csv`: row counts, file sizes, checksums, and
+  paper-claim mappings for the trace files.
+
+Raw provider JSONL, batch status logs, repair/rebatch scratch files, local
+caches, and operational request logs are excluded. The released traces are the
+post-validation analysis tables used to inspect decisions, cited evidence IDs,
+actions, rationales, outcome joins, and metric inputs.
 
 To run a credential-free capped mock execution from the release root:
 
