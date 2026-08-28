@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Faithful to the Frame — EMNLP Main reproducibility artifact for source-framing propagation in LLM-agent decision workflows." />
+    <meta name="theme-color" content="#101827" />
+    <title>Faithful to the Frame · EMNLP Main</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="Faithful to the Frame home">
+        <span class="mark" aria-hidden="true"></span>
+        Faithful to the Frame
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#study">Study</a>
+        <a href="#controls">Controls</a>
+        <a href="#reproduce">Reproduce</a>
+        <a class="nav-repo" href="https://github.com/Eric0801/Faithful-to-the-Frame">Repository ↗</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <p class="eyebrow">EMNLP Main · Camera-ready artifact</p>
+        <h1 id="hero-title">When evidence is reframed,<br /><em>decisions inherit the frame.</em></h1>
+        <p class="hero-copy">
+          We study how public earnings disclosures become evidence interfaces—and how those interfaces shape what downstream LLM agents cite, reason from, believe, and do.
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="https://github.com/Eric0801/Faithful-to-the-Frame">Explore the artifact <span>→</span></a>
+          <a class="button button-secondary" href="#reproduce">Reproduce the pipeline</a>
+        </div>
+        <dl class="hero-facts" aria-label="Study facts">
+          <div><dt>94</dt><dd>earnings events</dd></div>
+          <div><dt>6</dt><dd>receiver profiles</dd></div>
+          <div><dt>4</dt><dd>downstream model families</dd></div>
+          <div><dt>9</dt><dd>representation conditions</dd></div>
+        </dl>
+      </section>
+
+      <section id="study" class="section study" aria-labelledby="study-title">
+        <div class="section-intro">
+          <p class="eyebrow">The research question</p>
+          <h2 id="study-title">The same source. Different evidence interfaces.</h2>
+          <p>Evidence-to-action (E2A) traces the full path from a public filing to an LLM-mediated decision. The outcomes remain separated from model-facing materials until evaluation.</p>
+        </div>
+        <div class="pipeline" aria-label="Evidence-to-action pipeline">
+          <article class="pipeline-step source">
+            <span class="step-number">01</span>
+            <h3>Public source</h3>
+            <p>Event-time earnings disclosures and canonical source identifiers.</p>
+          </article>
+          <span class="connector" aria-hidden="true">→</span>
+          <article class="pipeline-step representation">
+            <span class="step-number">02</span>
+            <h3>Representation</h3>
+            <p>Raw packets, summaries, evidence-only views, and structured ledgers.</p>
+          </article>
+          <span class="connector" aria-hidden="true">→</span>
+          <article class="pipeline-step decision">
+            <span class="step-number">03</span>
+            <h3>Decision</h3>
+            <p>Role-conditioned agents cite evidence, form beliefs, and select actions.</p>
+          </article>
+          <span class="connector" aria-hidden="true">→</span>
+          <article class="pipeline-step evaluation">
+            <span class="step-number">04</span>
+            <h3>Evaluation</h3>
+            <p>Outcome labels join only after decisions, for analysis and guardrails.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section conditions" aria-labelledby="conditions-title">
+        <div class="section-intro narrow">
+          <p class="eyebrow">Experimental design</p>
+          <h2 id="conditions-title">One evidence bank, multiple ways to encounter it.</h2>
+        </div>
+        <div class="condition-grid">
+          <article><span class="tag">T1</span><h3>Raw disclosure</h3><p>The source-faithful baseline.</p></article>
+          <article><span class="tag">T2</span><h3>Shared summary</h3><p>One synthesized interface shared across roles.</p></article>
+          <article><span class="tag">T3</span><h3>Independent summaries</h3><p>Role-conditioned synthesized interfaces.</p></article>
+          <article><span class="tag">B0 / T4</span><h3>Structured evidence</h3><p>No-synthesis and full-ledger mechanism anchors.</p></article>
+          <article><span class="tag">T2* / T3*</span><h3>Framing ablation</h3><p>Robustness variants without neutral-analyst framing.</p></article>
+          <article><span class="tag">T5 / T6 / E1</span><h3>Camera-ready controls</h3><p>Deframing, order randomization, and recovery validation.</p></article>
+        </div>
+      </section>
+
+      <section id="controls" class="section controls" aria-labelledby="controls-title">
+        <div class="section-intro">
+          <p class="eyebrow">Camera-ready additions</p>
+          <h2 id="controls-title">Controls that probe the mechanism, not just the headline.</h2>
+        </div>
+        <div class="control-grid">
+          <article>
+            <p class="control-code">T5</p>
+            <h3>Linguistic deframing</h3>
+            <p>A paired, local intervention tests whether targeted de-framing edits change downstream behavior. It is presented as a narrow mechanism probe—not a general mitigation claim.</p>
+            <a href="https://github.com/Eric0801/Faithful-to-the-Frame/blob/main/docs/t5_linguistic_deframing_followup.md">Read the protocol →</a>
+          </article>
+          <article>
+            <p class="control-code">T6</p>
+            <h3>Evidence-order randomization</h3>
+            <p>A deterministic order control tests whether the observed pattern is driven by presentation order or salience in the evidence interface.</p>
+            <a href="https://github.com/Eric0801/Faithful-to-the-Frame/blob/main/docs/t6_evidence_order_randomization_followup.md">Read the protocol →</a>
+          </article>
+          <article>
+            <p class="control-code">E1</p>
+            <h3>Raw-recovery validation</h3>
+            <p>A four-model provenance and source-citation check establishes the released recovery evidence without exposing restricted provider traces.</p>
+            <a href="https://github.com/Eric0801/Faithful-to-the-Frame/blob/main/docs/e1_four_model_recovery_validation.md">Read the validation record →</a>
+          </article>
+        </div>
+      </section>
+
+      <section id="reproduce" class="section reproduce" aria-labelledby="reproduce-title">
+        <div>
+          <p class="eyebrow">Reproducibility</p>
+          <h2 id="reproduce-title">Inspect, run, and audit.</h2>
+          <p>The release separates model-facing source packets from evaluation-only outcomes, and includes a deterministic mock path for checking the complete pipeline without provider credentials.</p>
+          <div class="text-links">
+            <a href="https://github.com/Eric0801/Faithful-to-the-Frame/blob/main/README.md">Artifact README ↗</a>
+            <a href="https://github.com/Eric0801/Faithful-to-the-Frame/blob/main/code/PAPER_CODE.md">Script-to-paper map ↗</a>
+            <a href="https://github.com/Eric0801/Faithful-to-the-Frame/tree/main/results">Released results ↗</a>
+          </div>
+        </div>
+        <pre aria-label="Mock reproduction command"><code><span class="terminal-prompt">$</span> python3 code/scripts/run_experiment.py \
+  --config code/config.example.json \
+  --work-dir runs/main_94_mock \
+  --mode mock --overwrite</code></pre>
+      </section>
+    </main>
+
+    <footer>
+      <p>Faithful to the Frame · EMNLP Main camera-ready reproducibility artifact</p>
+      <a href="https://github.com/Eric0801/Faithful-to-the-Frame">GitHub repository ↗</a>
+    </footer>
+  </body>
+</html>
