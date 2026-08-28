@@ -61,7 +61,7 @@ All main representations are grounded in the same canonical outcome-blind eviden
 
 The [treatment-generation scripts](code/scripts) and [treatment prompt templates](prompts/prompt_templates.md) make the representation choices inspectable. No treatment is intended to contain an explicit buy/hold/sell recommendation or post-event return outcome.
 
-## Results and camera-ready controls
+## Results and additional studies
 
 Paper-facing tables are preserved under [`results/`](results). The top-level [result manifest](results/result_table_manifest.csv) lists the released tables, their checksums, and their paper-claim mappings.
 
@@ -71,15 +71,15 @@ Paper-facing tables are preserved under [`results/`](results). The top-level [re
 | Calibration/validation outputs | [`results/calibration`](results/calibration) |
 | T2*/T3* robustness results | [`results/prompt_sensitivity`](results/prompt_sensitivity) |
 | T4 structured-ledger follow-up | [`results/t4_mechanism`](results/t4_mechanism) |
-| Camera-ready controls | [`results/camera_ready_controls`](results/camera_ready_controls) |
+| Mechanism and validation studies | [`results/camera_ready_controls`](results/camera_ready_controls) |
 
-The camera-ready control additions are deliberately scoped as controls and mechanism probes, rather than retroactive replacements for the main study:
+The following additional studies are deliberately scoped as mechanism probes and validation evidence, rather than retroactive replacements for the main study:
 
 - **T5 — linguistic deframing.** The [protocol](docs/t5_linguistic_deframing_followup.md) and [summary](results/camera_ready_controls/t5_followup_summary.json) test whether targeted de-framing edits alter the downstream pattern. This is a narrow intervention, not a claim of a general mitigation method.
 - **T6 — evidence-order randomization.** The [protocol](docs/t6_evidence_order_randomization_followup.md) and [TOST/action-accuracy output](results/camera_ready_controls/t6_action_accuracy_tost.json) evaluate whether the reported effects depend on source ordering or salience.
 - **E1 — raw-recovery validation.** The [validation record](docs/e1_four_model_recovery_validation.md) and [test](tests/test_validate_e1_prior_hierarchy_outputs.py) document the four-model recovery/provenance check without duplicating restricted raw provider traces.
 
-For an overview of the experimental controls and their relation to the camera-ready revision, read [`docs/camera_ready_controls.md`](docs/camera_ready_controls.md).
+For an overview of the additional studies and their relation to the camera-ready revision, read [`docs/camera_ready_controls.md`](docs/camera_ready_controls.md).
 
 ## Detailed release inventory
 
@@ -124,7 +124,7 @@ Additional checks include treatment/input validation, representation audits, and
 code/       runnable pipeline, prompts, configuration, and script-to-paper map
 data/       released model-facing inputs, evaluation-only labels, calibration data
 docs/       experimental protocols, validation notes, and control documentation
-results/    curated paper-facing tables and camera-ready control summaries
+results/    curated paper-facing tables and mechanism/validation summaries
 tests/      independent validation tests for released artifact records
 ```
 
