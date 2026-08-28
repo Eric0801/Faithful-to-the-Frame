@@ -81,6 +81,25 @@ The camera-ready control additions are deliberately scoped as controls and mecha
 
 For an overview of the experimental controls and their relation to the camera-ready revision, read [`docs/camera_ready_controls.md`](docs/camera_ready_controls.md).
 
+## Detailed release inventory
+
+Use these files when you need a specific paper-facing result rather than the directory-level overview above.
+
+| Component | Primary released files |
+| --- | --- |
+| T1/T2/T3 main contrasts | [`stage2_t2_t3_primary_full.csv`](results/main/stage2_t2_t3_primary_full.csv), [`stage2_quality_by_treatment_full.csv`](results/main/stage2_quality_by_treatment_full.csv) |
+| Stage-1 representation audit | [`stage1_summary_full.csv`](results/main/stage1_summary_full.csv) |
+| Model-cell breakdown | [`stage2_by_model_cell_full.csv`](results/main/stage2_by_model_cell_full.csv) |
+| B0 evidence-only follow-up | [`b0_treatment_contrasts_20260510.csv`](results/b0_followup/b0_treatment_contrasts_20260510.csv) |
+| T4 mechanism condition | [`t4_full_event_bootstrap_contrasts.csv`](results/t4_mechanism/t4_full_event_bootstrap_contrasts.csv) |
+| T2*/T3* framing ablation | [`t2_t3_neutral_ablation_side_by_side.csv`](results/prompt_sensitivity/t2_t3_neutral_ablation_side_by_side.csv) |
+| Appendix diagnostics | [`results/appendix_diagnostics`](results/appendix_diagnostics) |
+| Human audit | [`audit_protocol.csv`](results/human_audit/audit_protocol.csv), [`canonical_evidence_audit_sheet.csv`](results/human_audit/canonical_evidence_audit_sheet.csv), [`cross_treatment_representation_audit_sheet.csv`](results/human_audit/cross_treatment_representation_audit_sheet.csv) |
+
+[`results/traces`](results/traces) contains canonicalized analysis-level decision and metric traces. These are evaluation artifacts: they include the post-decision outcome join and derived accuracy/error fields, and are therefore not model-facing inputs. [`results/traces/trace_manifest.csv`](results/traces/trace_manifest.csv) records their checksums and claim mappings.
+
+The released [prompt templates](prompts/prompt_templates.md) and [prompt manifest](prompts/prompt_manifest.csv) document the upstream and downstream prompt surface. Full operational provider logs, retry bookkeeping, local caches, and raw request bundles are excluded from the public artifact; the pipeline regenerates required request structures from the released inputs.
+
 ## Reproducing and checking outputs
 
 Run the narrow validation check for the E1 provenance record:
