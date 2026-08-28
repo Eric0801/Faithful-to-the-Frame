@@ -1,0 +1,34 @@
+{
+  "analysis_scope": "pre-specified edit-bearing event effect",
+  "bootstrap": {
+    "ci_high": 0.0,
+    "ci_low": -0.045454545454545456,
+    "mean_delta": -0.018939393939393936
+  },
+  "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+  "event_ids": [
+    "evt_0002",
+    "evt_0011",
+    "evt_0012",
+    "evt_0046",
+    "evt_0051",
+    "evt_0052",
+    "evt_0057",
+    "evt_0063",
+    "evt_0084",
+    "evt_0088",
+    "evt_0089"
+  ],
+  "exact_paired_sign_flip_permutation": {
+    "permutations": 2048,
+    "statistic": -0.018939393939393936,
+    "two_sided_p": 0.5
+  },
+  "exact_sign_test": {
+    "n_nonzero": 2,
+    "positive_events": 0,
+    "two_sided_p": 0.5
+  },
+  "metric": "positive_expected_return_rate",
+  "n_events": 11
+}

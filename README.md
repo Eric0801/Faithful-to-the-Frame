@@ -138,6 +138,9 @@ upstream summaries, or downstream prompts.
 | B0 | main-text follow-up | Canonical evidence-only baseline, used to separate source framing from synthesis effects. |
 | T4 | main mechanism condition | Structured evidence ledger, used to test whether a more explicit evidence structure changes the bottleneck. |
 | T2*/T3* | robustness | Upstream-summary variants that remove the neutral-analyst framing from T2/T3. |
+| T5 | camera-ready control | Paired local linguistic de-framing of the B0 canonical evidence bank. |
+| T6 | camera-ready control | Deterministic randomization of B0 evidence-unit order. |
+| E1 | camera-ready validation | Four-arm entity-prior hierarchy recovery and source-citation validation. |
 
 ## Regime And Downstream Decision Counts
 
@@ -237,6 +240,7 @@ count, checksum, role, and paper-claim mapping.
 | T2*/T3* prompt-sensitivity robustness | `results/prompt_sensitivity/treatment_means_t2star_t3star.csv`; `results/prompt_sensitivity/t2_t3_neutral_ablation_side_by_side.csv`; `results/prompt_sensitivity/action_distribution_no_neutral_minus_neutral_deltas.csv` |
 | Appendix diagnostics | `results/appendix_diagnostics/belief_mad_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/category_diversity_contrasts_event_bootstrap.csv`; `results/appendix_diagnostics/profile_separability_formal_event_bootstrap.csv`; `results/appendix_diagnostics/reasoning_contrasts.csv` |
 | Human audit | `results/human_audit/audit_protocol.csv`; `results/human_audit/canonical_evidence_audit_sheet.csv`; `results/human_audit/cross_treatment_representation_audit_sheet.csv` |
+| Camera-ready controls | `results/camera_ready_controls/` and `docs/camera_ready_controls.md` |
 | 2025 calibration | `results/calibration/calibration_2025_selection_summary.csv`; `results/calibration/calibration_2025_selected_events.csv`; `results/calibration/calibration_2025_provider_metric_summary.csv`; `results/calibration/calibration_2025_profile_stochasticity_summary.csv` |
 
 ## Analysis-Level Traces

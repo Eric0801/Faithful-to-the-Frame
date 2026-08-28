@@ -52,6 +52,8 @@ TREATMENT_FAMILIES = {
     "T4_full_structured_evidence_ledger": "T4",
     "T4_SAEV_deterministic": "T4",
     "B0_canonical_evidence_only": "B0",
+    "T5_linguistic_deframing": "T5",
+    "T6_canonical_evidence_order_randomized": "T6",
 }
 
 PROFILE_GROUP_BY_PROFILE = {
@@ -351,6 +353,10 @@ def upstream_model_family_from_record(
         return "none"
     if treatment_family == "B0":
         return "deterministic_canonical_evidence"
+    if treatment_family == "T5":
+        return "deterministic_linguistic_deframing"
+    if treatment_family == "T6":
+        return "deterministic_evidence_order_randomization"
     return LEGACY_UPSTREAM_MODEL_FAMILY
 
 
@@ -360,7 +366,7 @@ def infer_treatment_family(treatment: str | None) -> str | None:
     if treatment in TREATMENT_FAMILIES:
         return TREATMENT_FAMILIES[treatment]
     prefix = treatment.split("_", 1)[0]
-    if prefix in {"T1", "T2", "T3", "T4", "B0"}:
+    if prefix in {"T1", "T2", "T3", "T4", "T5", "T6", "B0"}:
         return prefix
     return None
 

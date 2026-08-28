@@ -49,6 +49,8 @@ TREATMENT_FAMILIES = {
     "T4_full_structured_evidence_ledger": "T4",
     "T4_SAEV_deterministic": "T4",
     "B0_canonical_evidence_only": "B0",
+    "T5_linguistic_deframing": "T5",
+    "T6_canonical_evidence_order_randomized": "T6",
 }
 
 PROFILE_GROUP_BY_PROFILE = {
@@ -78,6 +80,8 @@ ALLOWED_MODEL_FAMILIES = (
 ALLOWED_UPSTREAM_MODEL_FAMILIES = (
     "none",
     "deterministic_canonical_evidence",
+    "deterministic_linguistic_deframing",
+    "deterministic_evidence_order_randomization",
     "deterministic_full_ledger",
     "claude-sonnet-4.5",
     "gpt-5.2",

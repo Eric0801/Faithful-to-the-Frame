@@ -74,6 +74,11 @@ model families, and `limits` in the config before launching.
 - `canonicalize_decision_outputs.py`: deterministic alias normalization utility
   for provider output fields when needed.
 
+`PAPER_CODE.md` is the complete script-to-pipeline map, including the
+camera-ready T5 linguistic de-framing, T6 evidence-order, and E1 validation
+utilities. These controls use the same outcome-blind input boundary as the
+main pipeline; batch logs and raw provider responses are intentionally absent.
+
 ## Inputs And Outputs
 
 Model-facing inputs:

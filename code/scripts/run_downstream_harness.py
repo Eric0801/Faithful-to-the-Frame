@@ -79,6 +79,8 @@ TREATMENT_BIASES = {
     "T4_full_structured_evidence_ledger": -0.001,
     "T4_SAEV_deterministic": -0.001,
     "B0_canonical_evidence_only": 0.000,
+    "T5_linguistic_deframing": 0.000,
+    "T6_canonical_evidence_order_randomized": 0.000,
 }
 PROFILE_REASON_FOCUS = {
     "retail_day_trader": "short-horizon reaction and volatility",
@@ -102,6 +104,8 @@ TREATMENT_REASON_NOTES = {
     "T4_full_structured_evidence_ledger": "The full structured evidence ledger exposes all canonical evidence units without narrative synthesis.",
     "T4_SAEV_deterministic": "The shared atomic evidence view exposes bounded cited facts without a narrative recommendation.",
     "B0_canonical_evidence_only": "The canonical evidence bank is supplied directly without upstream narrative synthesis.",
+    "T5_linguistic_deframing": "The canonical evidence bank is supplied with pre-specified evaluative linguistic framing removed.",
+    "T6_canonical_evidence_order_randomized": "The canonical evidence bank is supplied with a pre-specified randomized evidence-unit order.",
 }
 LEGACY_UPSTREAM_MODEL_FAMILY = "legacy_unspecified"
 

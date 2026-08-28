@@ -1,0 +1,8 @@
+# Generated local execution outputs
+runs/
+__pycache__/
+*.py[cod]
+
+# Local credentials and editor metadata
+.env
+.DS_Store

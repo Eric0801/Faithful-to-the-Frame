@@ -1,0 +1,48 @@
+{
+  "metric": "positive_expected_return_rate",
+  "n_events": 94,
+  "t5_minus_b0": {
+    "mean_delta": -0.0008865248226950367,
+    "ci_low": -0.007092198581560285,
+    "ci_high": 0.004875886524822696,
+    "nonzero_events": 20
+  },
+  "t6_minus_b0": {
+    "mean_delta": -0.042996453900709226,
+    "ci_low": -0.06870567375886526,
+    "ci_high": -0.01906028368794327,
+    "nonzero_events": 43
+  },
+  "t6_minus_t5_common_b0_anchor": {
+    "mean_delta": -0.04210992907801418,
+    "ci_low": -0.06914893617021277,
+    "ci_high": -0.01684397163120568,
+    "nonzero_events": 43
+  },
+  "model_family_readout": [
+    {
+      "model_family": "claude-sonnet-4.5",
+      "t5_minus_b0": -0.003546099290780142,
+      "t6_minus_b0": -0.053191489361702135,
+      "t6_minus_t5": -0.049645390070921995
+    },
+    {
+      "model_family": "deepseek-v3.1",
+      "t5_minus_b0": 0.0017730496453900691,
+      "t6_minus_b0": -0.056737588652482275,
+      "t6_minus_t5": -0.05851063829787234
+    },
+    {
+      "model_family": "gpt-5.2",
+      "t5_minus_b0": -0.0017730496453900702,
+      "t6_minus_b0": -0.026595744680851064,
+      "t6_minus_t5": -0.024822695035460994
+    },
+    {
+      "model_family": "qwen3-235b-a22b",
+      "t5_minus_b0": -2.9527208101732886e-19,
+      "t6_minus_b0": -0.03546099290780143,
+      "t6_minus_t5": -0.03546099290780143
+    }
+  ]
+}

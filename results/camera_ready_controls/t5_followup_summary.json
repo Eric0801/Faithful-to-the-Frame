@@ -1,0 +1,139 @@
+{
+  "edit_bearing_event_ids": [
+    "evt_0002",
+    "evt_0011",
+    "evt_0012",
+    "evt_0046",
+    "evt_0051",
+    "evt_0052",
+    "evt_0057",
+    "evt_0063",
+    "evt_0084",
+    "evt_0088",
+    "evt_0089"
+  ],
+  "freeze_manifest_sha256": "318d0c5d8d9a1477b014a809c6820ffb31f2ff998879ebab45b06aa424b9b6bb",
+  "full_event_count": 94,
+  "summaries": [
+    {
+      "bootstrap": {
+        "ci_high": 0.004875886524822696,
+        "ci_low": -0.007092198581560285,
+        "mean_delta": -0.0008865248226950364
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "exact_sign_test": {
+        "n_nonzero": 20,
+        "positive_events": 10,
+        "two_sided_p": 1.0
+      },
+      "mean_delta": -0.0008865248226950364,
+      "metric": "positive_expected_return_rate",
+      "monte_carlo_sign_flip_p_two_sided": 0.89076,
+      "n_events": 94,
+      "nonzero_event_deltas": 20,
+      "scope": "dataset_wide_policy"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.0004432624113475176,
+        "ci_low": -0.011524822695035462,
+        "mean_delta": -0.005319148936170213
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "mean_delta": -0.005319148936170213,
+      "metric": "directional_accuracy",
+      "n_events": 94,
+      "nonzero_event_deltas": 20,
+      "scope": "dataset_wide_policy"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.0035460992907801435,
+        "ci_low": -0.00797872340425532,
+        "mean_delta": -0.0022163120567375884
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "mean_delta": -0.0022163120567375884,
+      "metric": "action_accuracy",
+      "n_events": 94,
+      "nonzero_event_deltas": 25,
+      "scope": "dataset_wide_policy"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.00024769410460992897,
+        "ci_low": -0.0006092143617021302,
+        "mean_delta": -0.0001732429078014196
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "mean_delta": -0.0001732429078014196,
+      "metric": "absolute_return_error",
+      "n_events": 94,
+      "nonzero_event_deltas": 94,
+      "scope": "dataset_wide_policy"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.0,
+        "ci_low": -0.045454545454545456,
+        "mean_delta": -0.018939393939393936
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "exact_paired_sign_flip_permutation": {
+        "permutations": 2048,
+        "statistic": -0.018939393939393936,
+        "two_sided_p": 0.5
+      },
+      "exact_sign_test": {
+        "n_nonzero": 2,
+        "positive_events": 0,
+        "two_sided_p": 0.5
+      },
+      "mean_delta": -0.018939393939393936,
+      "metric": "positive_expected_return_rate",
+      "n_events": 11,
+      "nonzero_event_deltas": 2,
+      "scope": "edit_bearing"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.0,
+        "ci_low": -0.045454545454545456,
+        "mean_delta": -0.018939393939393936
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "mean_delta": -0.018939393939393936,
+      "metric": "directional_accuracy",
+      "n_events": 11,
+      "nonzero_event_deltas": 2,
+      "scope": "edit_bearing"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.011363636363636354,
+        "ci_low": -0.011363636363636354,
+        "mean_delta": 0.0
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "mean_delta": 0.0,
+      "metric": "action_accuracy",
+      "n_events": 11,
+      "nonzero_event_deltas": 2,
+      "scope": "edit_bearing"
+    },
+    {
+      "bootstrap": {
+        "ci_high": 0.0016193420454545487,
+        "ci_low": -0.001314865909090909,
+        "mean_delta": 0.00023732575757575832
+      },
+      "contrast": "T5_linguistic_deframing - B0_canonical_evidence_only",
+      "mean_delta": 0.00023732575757575832,
+      "metric": "absolute_return_error",
+      "n_events": 11,
+      "nonzero_event_deltas": 11,
+      "scope": "edit_bearing"
+    }
+  ]
+}

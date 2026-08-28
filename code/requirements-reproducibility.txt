@@ -1,0 +1,9 @@
+# Verified environment for full paper analysis and figure/table regeneration.
+numpy==1.26.4
+pandas==2.3.2
+matplotlib==3.9.0
+beautifulsoup4==4.12.2
+yfinance==0.2.66
+
+# Required for the embedding-based semantic analysis; not needed for smoke mode.
+sentence-transformers==4.1.0
