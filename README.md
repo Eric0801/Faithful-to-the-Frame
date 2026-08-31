@@ -1,6 +1,4 @@
-# Faithful to the Frame
-
-### Source-Framing Propagation in LLM-Agent Decision Workflows
+# Faithful to the Frame: Source-Framing Propagation in LLM-Agent Decision Workflows
 
 This is the camera-ready reproducibility artifact for the EMNLP Main paper *Faithful to the Frame: Source-Framing Propagation in LLM-Agent Decision Workflows*. It releases the outcome-blind inputs, pipeline code, validation tools, and paper-facing result tables for the evidence-to-action (E2A) evaluation.
 
